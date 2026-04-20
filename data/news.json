@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-04-20T18:09:41.227522+00:00",
+  "generatedAt": "2026-04-20T19:34:22.384232+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJtWjN6NHZOMVpwVVZZUXcxZUoxRzdpbVFyMEpGbXBmdGhGRWI1aHo1Y3pWR2RqRE9OU1gzRXp3OHNlSHBrcmRsdXFzTF9wUzFEc2kxRzJOM3lqYzVGVkhzZDhjMUxmSFVKa0IyV2dBUnB0VWhlSHZjOUhtYjRuaFN1ejNVbEdCZklrZUJqSkJmQnRHaTAxQ0Y1R1RnU1UyaUc3NXlTeWdFdUhvYWlrWGZGUTIwT0k?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
       {
         "title": "Honeywell Ventilator: Zwischen Heim-Sicherheit und Marktdruck wird es spannend - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -125,6 +115,16 @@
           "Siemens",
           "Brandschutz"
         ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -180,24 +180,13 @@
         ]
       },
       {
-        "title": "Unter 50 Euro: Smarte Raucherkennung mit App-Steuerung - teltarif.de",
-        "source": "teltarif.de",
+        "title": "Unter 50 Euro: Smarte Raucherkennung mit App-Steuerung - Teltarif.de",
+        "source": "Teltarif.de",
         "publishedAt": "2026-04-17T09:43:00+00:00",
-        "summary": "Unter 50 Euro: Smarte Raucherkennung mit App-Steuerung teltarif.de",
+        "summary": "Unter 50 Euro: Smarte Raucherkennung mit App-Steuerung Teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
         "tags": [
-          "teltarif.de"
-        ]
-      },
-      {
-        "title": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJtWjN6NHZOMVpwVVZZUXcxZUoxRzdpbVFyMEpGbXBmdGhGRWI1aHo1Y3pWR2RqRE9OU1gzRXp3OHNlSHBrcmRsdXFzTF9wUzFEc2kxRzJOM3lqYzVGVkhzZDhjMUxmSFVKa0IyV2dBUnB0VWhlSHZjOUhtYjRuaFN1ejNVbEdCZklrZUJqSkJmQnRHaTAxQ0Y1R1RnU1UyaUc3NXlTeWdFdUhvYWlrWGZGUTIwT0k?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
+          "Teltarif.de"
         ]
       },
       {
@@ -251,6 +240,16 @@
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdXA2bGI4am80T1hnOWVOcmwxUHFIVE9pT1ltWjJtb1JiOWpGXzZhX0JZVkNKblFmZkJyemhrX2F5ZEFjVEFaUjV0ekFTaVByTzFaLU90MDl2RmtvNjhTOEZSeWh4ZlcyYlNMNlp6NEZEblE?oc=5",
         "tags": [
           "FAZ"
+        ]
+      },
+      {
+        "title": "ABUS PREFIRA SMART SX3050M: Smarter Rauchmelder mit Matter und Thread hat einen Preis - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-03-29T07:00:00+00:00",
+        "summary": "ABUS PREFIRA SMART SX3050M: Smarter Rauchmelder mit Matter und Thread hat einen Preis Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVc1N3V4RjM1Sk00TkJIM1hXYURGMURRYkdhR29mZ1FxekIzV29VdHlsc3V5WFdmTWdzWUhGR3o5VjBOcFVrVktNM3dqSmdEbklyUTBqOHk3eTQ0aklLQXRtLTE3d1dWV0duVV8zcVBmTTliSjJjTXdLZTZrb1JDdkxwOXYyVVMxRjBRSENFTndUVTdFcDdpV2dIc1h0bndpblJGWjMzUDN6NTBNRlhqVEhPSkY?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
