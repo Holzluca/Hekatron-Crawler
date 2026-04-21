@@ -198,7 +198,6 @@ const els = {
   searchInput: document.getElementById("searchInput"),
   sectionSelect: document.getElementById("sectionSelect"),
   refreshSelect: document.getElementById("refreshSelect"),
-  reloadBtn: document.getElementById("reloadBtn"),
   topicButtons: document.getElementById("topicButtons"),
   newsGrid: document.getElementById("newsGrid"),
   emptyState: document.getElementById("emptyState"),
