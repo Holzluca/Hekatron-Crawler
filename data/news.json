@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T13:54:03.870958+00:00",
+  "generatedAt": "2026-04-21T14:09:13.884229+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -409,16 +409,6 @@
         ]
       },
       {
-        "title": "Brandschutz 2026: KI, neue Batterie-Klasse und schärfere Fassaden-Regeln - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-04T04:02:29+00:00",
-        "summary": "Brandschutz 2026: KI, neue Batterie-Klasse und schärfere Fassaden-Regeln AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQW4xMkU0aVVNTng0ekhwaEtVaDNBRV85WG84RFFpMkhkN1RVM0JrUVdaWUk3RUs3U3hRZkFvM3NfdUtZTjRmNXJZM0RLSzJobmw4RDZFUkVmY1Nfa0VpTGJtOFRLYWktempqNWtUdFBLTTNHazlPUmQ2X0RWeWpRejFYTW5LMmtnOS1LcjJmR29YbUUxbmF0ay1udF9fbkJpOHhGZ3pRZ0NSc3ExR0U2X2pKV1FWVTQ1dzc4WEtHQVpVZU0?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-02T19:56:17+00:00",
@@ -496,6 +486,16 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXc5Zmt2Rk1mSmZxTGFlSkRJWXVrbGJVVi1qS1RaVU5WU0h1T1FjZU94MlpHOXh3MjF6QjlEX1RhbHlhZ0taUTRQVzd0RV9zeFh2S0R6ZnY5YnVWdXA5YWI1c3hxck91Nmp1Q0VrQnZVSE9TRTVMcElrOFJFeEdJbmJGeExSQl9OQmdrMi1HNW4wMS1SMzhRdTU2eXJxU2NqVlE?oc=5",
         "tags": [
           "Retrofit"
+        ]
+      },
+      {
+        "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
+        "source": "Allgäuer Zeitung",
+        "publishedAt": "2026-03-11T07:00:00+00:00",
+        "summary": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte Allgäuer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
