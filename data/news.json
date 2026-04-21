@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T16:35:35.994971+00:00",
+  "generatedAt": "2026-04-21T17:56:40.618582+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -180,16 +180,6 @@
         ]
       },
       {
-        "title": "Amazon Echo Dot: Smart-Home-Revolution treibt Amazon-Aktie 2026 voran - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-15T17:18:50+00:00",
-        "summary": "Amazon Echo Dot: Smart-Home-Revolution treibt Amazon-Aktie 2026 voran AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFh5bVc3RWpPd2xLTDJtSDdDWTRCS0RqM0l1UkRPTUExMnFSZmNFR2FiSVpndVVwbThVNEhremJieWFUbUFnY0JxYk94eXpkd3BkS19oWndVQ2ZZaFNrZmFLeUFnR2kxbklwMnZEbWlNb1BLQU1vQlhxQXhNNGxXUmc4bjZTSllJa0hJcTA2NUh4dTlxdHAyYm93Q20yWU5kbjZ2WGVlS2FnR0VuTGNZbVRWRE5VbF9TX1d4ZzJWNA?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T09:11:48+00:00",
@@ -251,6 +241,17 @@
         "tags": [
           "Ei",
           "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Home+ kommt jetzt auch für Android - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-03-25T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Home+ kommt jetzt auch für Android Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDhTUmZVczQtWE9zdmZwMzg3WmJmY2VUWTFIQnQ1dXNrbGMyMjhyaW8zLXhYSlpON3VoNkFiSzBCOW1KZHpnTVE2OTFMYnM1ZlFianRDRFk2Ukh1YVlZOHc0UmhBbDFuYlVoX0IzbmFkLTlvYzZodkZuV29STnotTEZfRWlSblhN?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
         ]
       }
     ],
