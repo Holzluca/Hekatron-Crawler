@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T06:14:30.363850+00:00",
+  "generatedAt": "2026-04-21T08:11:00.815423+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,6 +129,16 @@
     ],
     "pfs": [
       {
+        "title": "Tipps für die Rauchmelder-Auswahl - PressNetwork",
+        "source": "PressNetwork",
+        "publishedAt": "2026-04-20T08:42:07+00:00",
+        "summary": "Tipps für die Rauchmelder-Auswahl PressNetwork",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVEVkbFR3MlgtZUlyZy1VTmd1a3lhLTFpcjZxM3MtNFVSVFFMeWx2b1Y5bG9seXNNd1E3UXlQWkMxVnBZMUFxc2RyYWtsUXJEMU9zRGFsdlhOVTFCa1N0MVktVzhiei1Odkgw?oc=5",
+        "tags": [
+          "PressNetwork"
+        ]
+      },
+      {
         "title": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-04-20T07:33:18+00:00",
@@ -146,6 +156,16 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFFibWdkZGhPVmUzRXowU2pjVmJjSHlncTFDS2I5SWhtNGxYdnk2UkJCSjZVRE1wenlqMV9LZTJuS25NbW1Bdkswb0tGREdwNmJaalJXeGRjODhGT25QRFcyZk9lbjJ0Z0YwRWNVellWbkp5WXYzbXgtbExTcnZGTGJGWXZkbHRKUzZ5T0UwelBBWkp2OU9mck15SEhmYWV1RHNuWWZBQndYWWt4NExyUjIySEtNeVlRSk53dnlMSXRkZUtSMGc?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-04-17T18:51:03+00:00",
+        "summary": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
+        "tags": [
+          "X-Sense"
         ]
       },
       {
@@ -231,28 +251,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Smarte Fußbodenheizung: Dieses Bosch-Set drückt den Preis gewaltig - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Smarte Fußbodenheizung: Dieses Bosch-Set drückt den Preis gewaltig Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1c3UmI2NjdaSHZaQ0RGYk9kYzk0XzBiNUJsVlpCdlNCZFRZa0kyZzJ0MS1hN2RtSkdGcENER1pqejhCbHphRVF4NG5lYWRFY0VlMmNJX1RvMlpKYU50VUNZTWJJY2FNTTJXcEkzVjVZR054N1ZPOHQ0ZENNWnMtczhRVUhOdXNYNEdwUy0zbW1Rd2RxTG1GZTB5aWJhV25TOThGX3h2T2tUN29rNms0ZFBCTjBxZw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Home+ kommt jetzt auch für Android - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-03-25T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Home+ kommt jetzt auch für Android Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDhTUmZVczQtWE9zdmZwMzg3WmJmY2VUWTFIQnQ1dXNrbGMyMjhyaW8zLXhYSlpON3VoNkFiSzBCOW1KZHpnTVE2OTFMYnM1ZlFianRDRFk2Ukh1YVlZOHc0UmhBbDFuYlVoX0IzbmFkLTlvYzZodkZuV29STnotTEZfRWlSblhN?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
@@ -292,6 +290,16 @@
         "publishedAt": "2026-04-12T11:13:16+00:00",
         "summary": "Apollo Global Management Aktie (US0376123065): Ist ihr Alternative-Investment-Modell stark genug fü AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDh0SklvRFNVRmhXX2wxOThfM081VHIwLUJ1WFRFNkVabkI2UjhzMVVPbHl5X3E1QjlhZF9TTERqZnZVT2VRdU5VeXRZVFRzQnhWRllkQ25OMnllWS1rMFFUR0NzOWJIQnlSOFZHeUtjUENzaTE1YXNRanFwRi05SmVvVEZuYng3MzNibDUzamdkaDRjRFlDRk5mZTNKdlhhWTdjSE9NR0w?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Tyres Ltd Aktie: Was Investoren in Deutschland jetzt wissen müssen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-09T17:53:20+00:00",
+        "summary": "Apollo Tyres Ltd Aktie: Was Investoren in Deutschland jetzt wissen müssen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEYwdlhORmNLNGVKdlhKMDdSekNPTGlNSXVIOTNmbjdnSWtuT0FQRVFtSjhhSjU3S0hIUzRXNnhjMUdXODRQSzdoa3ZieUlmWVdkUWUzbHhiSnJQMTV4QUVOdE5WNC0ybE9wd2ZCdjZTTkJmWER3Z3V0Q2VNWHlKQVp2b19Hc2NNMFM3Wk1TdzlEclZGLWFib0FLajNUNGIzTWlUdktnSzBnSnloaHhOVnNIUzh5UE1LZ0tBUHFxcXIySUp4WXc?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -357,23 +365,13 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz im Überblick (IS - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz im Überblick (IS AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeUdMQ3lDRXVRQ3A3WExkMmlVNUxtVFFoZXg5MDNLQmFRcXZfR1FpbEJJSFJVTTh0ZlB5RWZfc1JvSkt0bDJvUnlYbFdjSW0xTi0wZlZoNUlFclY4Q2hmalJsVnhKWHJ6QU5VdkZuQjdMNXhwNzZCLXUxQkVWN3FHNWJMUjRpbFEwOWtrVDZaT2QyaEJObzF1b1JZVklUUWxNck1OODN1ejJhZHB6TWY4b1cxbGYwQQ?oc=5",
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-29T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMElhREtrTGpvcjF6ZTdyVFhRUG5uNlcyRXY0M2RSU3NHa2FyYVAtMEdySUQyMUhkWjNnSU4weXV5MU5ydUJ1Q0V4RmZBVndFb2VWQWJrYzhvd3l4TmRWLWFaR0RBWWFQTE8zNlVmQWdJbTQ2WXZEUFdIMlVueUNZWXRMTnc3WTlMZDBDOEhwWW1OYXJ6RUNkdHVrMlJwaWNoN0ctVW5BUU5qMHc0eC1nSElpLUJtdw?oc=5",
-        "tags": [
-          "Apollo"
+          "Handelsblatt"
         ]
       }
     ],
@@ -404,16 +402,6 @@
         "publishedAt": "2026-04-06T07:00:00+00:00",
         "summary": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen Stimme",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMXBlVXMzVHRncHF4N19oXy1EZjdnN2pKckVWejc5cGVkVWhfNUc2YVZkLTVxYkNhQlF2cFZ4VWtGcmx5cEdyaWNJUXNrM09yRGF0TzF0bmZDRTdySFNpa0pIdWdhbmFaUzBvV2pyMkY4NmJjSzdyb2dQVG1IYTUzM0QwczhBazhOeFFXai1TNXRVZDMxSG9rV0phM0RHVGY5eW15cmNYRzljelVGMXBFelVXYnVIN1hOaUZIemp2elgxakVpb01GM2hzazkyZnBuWVVDUVE2ZUU4Z3JFTVN6UGJ2VF82SkQ5N1hzZXVhaDBuOFl3NElyM0h3?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Brandschutz 2026: KI, neue Batterie-Klasse und schärfere Fassaden-Regeln - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-04T04:02:29+00:00",
-        "summary": "Brandschutz 2026: KI, neue Batterie-Klasse und schärfere Fassaden-Regeln AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQW4xMkU0aVVNTng0ekhwaEtVaDNBRV85WG84RFFpMkhkN1RVM0JrUVdaWUk3RUs3U3hRZkFvM3NfdUtZTjRmNXJZM0RLSzJobmw4RDZFUkVmY1Nfa0VpTGJtOFRLYWktempqNWtUdFBLTTNHazlPUmQ2X0RWeWpRejFYTW5LMmtnOS1LcjJmR29YbUUxbmF0ay1udF9fbkJpOHhGZ3pRZ0NSc3ExR0U2X2pKV1FWVTQ1dzc4WEtHQVpVZU0?oc=5",
         "tags": [
           "KI"
         ]
@@ -496,6 +484,16 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXc5Zmt2Rk1mSmZxTGFlSkRJWXVrbGJVVi1qS1RaVU5WU0h1T1FjZU94MlpHOXh3MjF6QjlEX1RhbHlhZ0taUTRQVzd0RV9zeFh2S0R6ZnY5YnVWdXA5YWI1c3hxck91Nmp1Q0VrQnZVSE9TRTVMcElrOFJFeEdJbmJGeExSQl9OQmdrMi1HNW4wMS1SMzhRdTU2eXJxU2NqVlE?oc=5",
         "tags": [
           "Retrofit"
+        ]
+      },
+      {
+        "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
+        "source": "Allgäuer Zeitung",
+        "publishedAt": "2026-03-11T07:00:00+00:00",
+        "summary": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte Allgäuer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
