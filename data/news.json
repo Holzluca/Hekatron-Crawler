@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-04-21T21:10:16.266206+00:00",
+  "generatedAt": "2026-04-21T22:06:31.742145+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Honeywell Ventilator: Zwischen Heim-Sicherheit und Marktdruck wird es spannend - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-15T16:06:19+00:00",
-        "summary": "Honeywell Ventilator: Zwischen Heim-Sicherheit und Marktdruck wird es spannend AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcDdIblZsaENiYnVQaXpLcUVLajctTTRDQm9reGNwWE1UYUxwUnZzZW15TU9RWjVObVZzcWlOS1oxdW1FTDh0d2Nqd1dnN2pzcFhGNVc5eU1MS2NlNzREaVFkSnU2bGprUHRiOEl2bG1rS2s2VTQtclZyUlVOTDBVQVRZZEctdUlEZ004OXFial9jdDJ5dkdHUnVickJEaVRKZTNpVFh3WWtkblR3VDJ3ZmRRTlZ6UlVMemtvY1prMA?oc=5",
-        "tags": [
-          "Honeywell"
-        ]
-      },
       {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
@@ -34,17 +24,6 @@
         ]
       },
       {
-        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-02T07:00:00+00:00",
-        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzdycEZmNTNaVzVBc25tTjhWd2NUWEhTcHA4Y0xzU19NblU0RUY1MDdtT2V6Qjhta3l5RFVSc0dGc3BEeFZmaHBCbUhaNU13RGk0ZENOcUltaERhT2gyVnQ1UDJHcnlWSXFFS3BYMUd6WTJmUXVZVlpQcDBFMW9ZQzUtek1yS0szc0dweEdubjIxQ2E4SWVLMHV2bF9ER3o4YTFxLUlxcWZ2Sld1VDdNbzN5X2hTZDQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
         "source": "Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -62,17 +41,6 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFp0bG5HWHZOZjNXS0UzMGJ2Q2ZCek9iNFg3elM1bWNvTnM4OEo2ZGkzT2ZxanhIbHpObTVVQzg2UFgyYXcwUXRtRjlFQkVjXzBXaWpXbkM5NDRMeWpEQUZ4TmZGcmtmX0J3ZWhZVlpwc2RFX0U3ZnlTbGNhRmtRSmE0R2RhZHh5MEstRW9Za0dkZzAwZzhyOWljOGRhQWY5NmdjbHdwRGYtR1NNRHE5Qg?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
         ]
       },
       {
@@ -125,6 +93,36 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
+        ]
+      },
+      {
+        "title": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern - NTV",
+        "source": "NTV",
+        "publishedAt": "2026-01-20T08:00:00+00:00",
+        "summary": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern NTV",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVozWm4wbWtTUDZWVVpENWtkOUREaEVBT2tJMEhZTkFlX3NzLUZSRk5BZl9PcG9sdjlONV9HOHM1UkVWWDkzdU5IQ3hMZDZfRUdsNnl3ZWJxTlJOUVN4U29XTHJKTWRldHJOX2hRWXVVNWt1U21OeE4yMWQ5bGhKMk5OYm9WbmlFOThDTmctZmhKbkNYQURfVjNvWUlwVHIzMmRBcVdKT0xrbnZNSEFabVE0Zw?oc=5",
+        "tags": [
+          "Bosch"
+        ]
       }
     ],
     "pfs": [
@@ -146,16 +144,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1p1ZG1TaHJLSHNvYWFLRnRhUng2UkZFNE9LVDRoOUtrMW1oTVBmMVJEWkFETmlKOFZyUDNoeGVYWHZwZDl0YkVtcUF4NW1ZdWdHTXdROGRud2ZKa05vaDQyQnVnODNKX2hWWHdYVVJUYzI3dVIyWl9CYTU1UW5wZGhtUU5ZVEczMGlUN3NMZmRJNXpHa0Zud0xibFB2RlM2WDgyekk0Y0I?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Amazon Echo Dot: Smart-Home-Boom treibt Amazon-Aktie trotz Konkurrenzdruck - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-18T10:25:47+00:00",
-        "summary": "Amazon Echo Dot: Smart-Home-Boom treibt Amazon-Aktie trotz Konkurrenzdruck AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUFFibWdkZGhPVmUzRXowU2pjVmJjSHlncTFDS2I5SWhtNGxYdnk2UkJCSjZVRE1wenlqMV9LZTJuS25NbW1Bdkswb0tGREdwNmJaalJXeGRjODhGT25QRFcyZk9lbjJ0Z0YwRWNVellWbkp5WXYzbXgtbExTcnZGTGJGWXZkbHRKUzZ5T0UwelBBWkp2OU9mck15SEhmYWV1RHNuWWZBQndYWWt4NExyUjIySEtNeVlRSk53dnlMSXRkZUtSMGc?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -253,127 +241,137 @@
           "Bosch",
           "Smart Home"
         ]
+      },
+      {
+        "title": "Mit dieser Überwachungskamera jagen Sie jeden Einbrecher in die Flucht – jetzt auch günstiger! - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-03-25T07:00:00+00:00",
+        "summary": "Mit dieser Überwachungskamera jagen Sie jeden Einbrecher in die Flucht – jetzt auch günstiger! Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbU5qdHl0anBuaXVUd2k1dVN1VHJjc3RVTVVJTXVIbEVvVU5Ib3IwclJMbFVFYm5kWmcwUkdubThSRExhbnBWLTktYmRuZlpCa0k1d0VyVElhRzZZdTNoT01neDA1WDdYaXNtVXRtZEN0YndwQ29VUG5FVVRxMkVXSzlnak5CZE5yaldtbGwwN0hnMzJxcnA5UzhtWjFiYmhubU9leXczQW9kcmJraU5V?oc=5",
+        "tags": [
+          "Ei"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Private-Equity-Hebel an? - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-14T18:47:35+00:00",
-        "summary": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Private-Equity-Hebel an? AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXRzSWs2dXNGdzdHNWNKVHVRSEhSYXdnMDAwcnBBNVE3a19iakJVREhpdlJpWGxubUNwNHY3blZIQW9HZnQ5Rkc2aVpwNllWTk5XdVJvdENsZXUtTk43YnRKWmo2bGFkeDhSNVdFQXZ5RHNHakJRTC1mZ2ZVTHVQS1E4XzdEN2FNQ0ZjUDNJSG5IbXVBYmxGRVo1Wlh2VzdLS0s0QWJLamhkX1VlSUFfWHhiaWhlVzdaVm5naw?oc=5",
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
         "tags": [
-          "Apollo"
+          "GEZE"
         ]
       },
       {
-        "title": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Asset-Management-Wandel an? - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-14T15:42:24+00:00",
-        "summary": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Asset-Management-Wandel an? AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkxFUnRvdzlKQ3hsNXBEXzBEQ3VkWFlWYzBKVHFYYlJwZjBCaTVBWDdNSzJzMHhzUTZWQXVPdEtOb1FybU1hbjRLSC1FZmtFRVpWSmg4dE9zRklER1p3dl95VE5WUHpwSWc5RVNSSTVfNVVxZk52RGs5MlFzVHdES0ZtVVI1aDVuem1LajcxTWV4aUtPcFEzbGFJejJpb1U0VGZtaWNCTkZ0b0o3bmN1S0JwRmVpbVdNbEpHSQ?oc=5",
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
+        "source": "handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmdXUjRUWDRpNFdpV3ZXTmZqYTI4ZlZLM2Z5VTZtWHFPOGU0cThoem1Fd1lBUG9hVXZ3UlJmbmwwZE04eGFBYUNGOGVhLVJIRFdqdXhxYURac0ZPNVl2S2YzNE5DajN4OFowUGVISi10bE92WUJ3ZmtNdE5uWDNjS0c3Vk9MZS1xcTFDcEZ4UWpuSURzdkhj0gGcAUFVX3lxTE5NRUJaZGlXVU9RTU1WZUtuaTdKSGY3ZHdrRW93eTZyUU0wOWRBTTMtY1Q1eUZJdEJQSjFFaEsxV3dRLS1oTkc1Q3huX0U2Q1VGSUhpV2RNdm54eE9BXzg3QzNLQ1I4OEtxQ1pyYUJaRHpWVFlJLUtxcnAwTmFCcWdZbFVRODRLYWFMcVRzemJPUDFFSlJLLWVsbURBVg?oc=5",
         "tags": [
-          "Apollo"
+          "GEZE"
         ]
       },
       {
-        "title": "Apollo Global Management Aktie (US0376123065): Ist das Private-Equity-Modell stark genug für europ� - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-14T08:37:28+00:00",
-        "summary": "Apollo Global Management Aktie (US0376123065): Ist das Private-Equity-Modell stark genug für europ� AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEZZTlRmV1h4bW45ajhPLUhRcFIydHVQRkVpRU03VFYwNWtnUkM2MEh0M1lxRThKTmhJS21FVlJoY0R3OEZFMV85UXZzMnI2clhhU3pBQ1lmUEhYLUxPdGZOY3BQc2p5Y2d3WjFfSTlYLWhZQzNvaC1hOHpXWmNYY0kxSG84UGk2WEJ6SnV6Sk5ZRFl1RG9hdFVadVVKQUJRUDhDeTZOOHU?oc=5",
+        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
+        "source": "bm-online.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
-          "Apollo"
+          "GEZE"
         ]
       },
       {
-        "title": "Apollo Global Management Aktie (US0376123065): Ist ihr Alternative-Investment-Modell stark genug fü - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-12T11:13:16+00:00",
-        "summary": "Apollo Global Management Aktie (US0376123065): Ist ihr Alternative-Investment-Modell stark genug fü AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDh0SklvRFNVRmhXX2wxOThfM081VHIwLUJ1WFRFNkVabkI2UjhzMVVPbHl5X3E1QjlhZF9TTERqZnZVT2VRdU5VeXRZVFRzQnhWRllkQ25OMnllWS1rMFFUR0NzOWJIQnlSOFZHeUtjUENzaTE1YXNRanFwRi05SmVvVEZuYng3MzNibDUzamdkaDRjRFlDRk5mZTNKdlhhWTdjSE9NR0w?oc=5",
+        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
+        "source": "fenster-tueren-technik.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
         "tags": [
-          "Apollo"
+          "GEZE"
         ]
       },
       {
-        "title": "Apollo Tyres Ltd Aktie: Was Investoren in Deutschland jetzt wissen müssen - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-09T17:53:20+00:00",
-        "summary": "Apollo Tyres Ltd Aktie: Was Investoren in Deutschland jetzt wissen müssen AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEYwdlhORmNLNGVKdlhKMDdSekNPTGlNSXVIOTNmbjdnSWtuT0FQRVFtSjhhSjU3S0hIUzRXNnhjMUdXODRQSzdoa3ZieUlmWVdkUWUzbHhiSnJQMTV4QUVOdE5WNC0ybE9wd2ZCdjZTTkJmWER3Z3V0Q2VNWHlKQVp2b19Hc2NNMFM3Wk1TdzlEclZGLWFib0FLajNUNGIzTWlUdktnSzBnSnloaHhOVnNIUzh5UE1LZ0tBUHFxcXIySUp4WXc?oc=5",
+        "title": "Türschließer TS 5000 SoftClose von Geze - db deutsche bauzeitung",
+        "source": "db deutsche bauzeitung",
+        "publishedAt": "2025-10-15T07:00:00+00:00",
+        "summary": "Türschließer TS 5000 SoftClose von Geze db deutsche bauzeitung",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpa2dXVmRQMEdIVkZEQkF3eUFIdDB0cS1wWVBEbWxfVzFST3k0bjNLR240ZjM3a0FlOU81LWptRm4zXzgtYmZxSjN0UGNzWFA4MFdQOTZGZjdqTUFGbXFZdTMwRlZITHIyZnRJRnh0UQ?oc=5",
         "tags": [
-          "Apollo"
+          "GEZE"
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-08T18:38:36+00:00",
-        "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQU8wWjY2aUhaaDQxMU5nWWFZckUtVEZpNm40RUpNWTFTXzhqR21pcnczVFd2RlZEN0FJdVhGWGxuU1U0YU11OXhmNGdGQy1DTkpGSTVGS1RLdDhwTjhZNDNXSVZhSGh5ZkVZX2l4dFJjNm90cjNtSTNkbDd6bUx5N2g3dkwwT2NaQmxSeHpqdzBoWjd5VmxfZVhhNXNzUTVlc0lWcjVwOWcyMEFzQ0dfTjE5VQ?oc=5",
+        "title": "Denkmal trifft moderne Türsysteme - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2025-07-24T07:00:00+00:00",
+        "summary": "Denkmal trifft moderne Türsysteme elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05WHpGV3o1VzBXeGlFLXA3emZ1UXlwT2plMUhULWRTZE0wblpBS3hmWDVkU241VkktRVAyRWxFdS1NOUhxSXRiUFdIOUpmVTFGVFk1TGlJYllacHRGSkgzODk2d1VJY29TbGxYQmQ1VHFfM21Q?oc=5",
         "tags": [
-          "Apollo"
+          "Türsysteme"
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-07T01:23:25+00:00",
-        "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWhJakktM0JNNG5ESDJWY1AyemZ5NTVNOU1KX0lCMGtFQzJHRnNfckRlcDI2c3BBUUpfRnhwMi1EV1AzTGxXbzkxTVVoN2wtTnBlV2VfSmI0QWhxTW16dHVSRlFlVkNJa0RwTHREQzJUVm8zRVVGQU1sNUducUdmR1pxOFlwMmUybkRZcER3TWc0ZDVXUExHWmNsSXdQTGpLeE81NDFjQ1c3M252Qm9jUndoRHVsOUlwVmc?oc=5",
+        "title": "German Innovation Award 2019: GEZE mit dem TS 5000 SoftClose erneut auf dem Siegerpodest - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2019-05-29T07:00:00+00:00",
+        "summary": "German Innovation Award 2019: GEZE mit dem TS 5000 SoftClose erneut auf dem Siegerpodest PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRnlFQlJqR0h6WC1uTnBMUWU2VXBhYzZkYWFaSXFJYUd6dnJGbFFsR1dwUU1Mb1JHa0lOSVJBSjBGLXg0QkhvMzZqY2pCUVFPenR6clJPZGFCX2ZqNmhzUGNpUFdoRXpDd0lfRkJwWmpWXzBoNldNNTc4WjNndXRUS1VJMXRNMzY1QXZ6WEQyU2o4cGVVVHVtUDlTOHlHaGNGcjhNbmkxWURjdVZ5TGhwZlpfUVdCcnFDM2JCV2w0enJoaGFiOFo4Q0Rzc25WSkZmRVlNWHlfRFV4aUlib05vamQ3NEMxbWs?oc=5",
         "tags": [
-          "Apollo"
+          "GEZE"
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-06T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT0c3dDJqb0JIVWxIa2Rna25lQTZVYXc4dDF2UXo4YWNEekwwcmhxSkFOZ3BDQ3RNN3p3bmhTR3luU3FMcEZtczhhUGhIVjM3WmxsYkkzSWJTRDFKYXdWWGNfbDQ4aktpRFJhRTdDcEVhM0dkY3l5T1VKbEpjbzBrX1I2M2xYemVZUjNQeklhQmMtYVBaaVBZN1VHbXgxcWtKcTlCRThjRHBadmdQWUxETW02Zw?oc=5",
+        "title": "Assa Abloy erweitert „Close-Motion“-Türschließerprogramm für zweiflügelige Türen - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2018-11-14T08:00:00+00:00",
+        "summary": "Assa Abloy erweitert „Close-Motion“-Türschließerprogramm für zweiflügelige Türen Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCTlZEZ01LVkk1WFVSM25KX28wR3BPeHprbHJOcU5GdjVsTXlOTVFtNFI3dkt0QllMdkpCWnB4N2ZoSHZ2ZlNCVkp4S2Z6UW5kQWZfMlhNNlIxVkIy?oc=5",
         "tags": [
-          "Apollo"
+          "Baulinks"
         ]
       },
       {
-        "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
-        "source": "simplywall.st",
-        "publishedAt": "2026-04-02T07:00:00+00:00",
-        "summary": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTzd0b3l2WVhyZkZmcmZORC13U1I5cloxdzJTRG4wd2F4dWRIUlJxbW9XY2RSZXYyM2hFMnNYXzlZOVR6VWt0VURBNEVJSTItS2tmYXU0UDhqMVlheVVMZ3oyOEVxcHI1RVp0SElqUlluMFV3SWVQRDJSVHMtdTZnbjlTeXpyaW0tN2cyVjZlMmt5MHJNTmRWRm4wclp0MVZjeS1CNlpJajVEYk5Fb2ZQZVRsa0d5V3gxdXlmMDZXZzJUeVN0VUd3VzNLMGhNa0hEMDB6NW9OUi1INUdXUXluTHEzci1HRklqYXBuWkQ5dEbSAfYBQVVfeXFMT2tXZzRjNFc5M2JSSHg4a3plQU5GU0E1RFRSeTAwc2hxVHVJWEw4ZkhBM0xlaHlGTHY2Sjh0WlJkd3J5dm9GcnQ1aDBjWUdaUTAwc0p0Z19qdEF0bzBEejhYdFczcURPM3M3Q3h5eGFIX2MwWGVLWmJJUTZsaVoxZU1fdlFHY2NqRWZwdFRKVzgzWVZ6UnlHQkpsUHktWTJOR2NKaXJTOWxvUXV1aGQ0aktTQ2FBQ3hCZmViTkdweVpNYVltdWdETWYtRHFXYl8tSEpNenY2eW4yUTV5bWhPNFBxV2Q5RFZ0U0hBdjQwYWNPbGhvM0pB?oc=5",
+        "title": "Feststellanlagen kabellos per Funk erweitern - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2018-05-10T07:00:00+00:00",
+        "summary": "Feststellanlagen kabellos per Funk erweitern Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tMkRGSHJxQUxpdGhDYU5IUHptU0ZXalZHSGNDS3FzdUUtVXdjODZFWjY2MkRfRjNsMF9peFFrSVRmaXlHWFVxYS1xZVZxYlk5SDZDNFZULUZvUk0x?oc=5",
         "tags": [
-          "Apollo"
+          "Feststellanlage"
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcG51T0N4Tk5QcV85MTRVZWpSWEM3WGhTZmlPWDh2blQ1U0hySl9mX2YxNktaZWgxTmlXV1dFU29nazlWRDc0UmJqU3RHc3luQ2g2RHREUEhsbU85U3k2WDV2a0pKd0xiMnl2ckJJNlR5am1JZGlkSmlibnI1eE9NdkQwQzlpVFZpeG5wTkw3NjJ2c0p5V0ZtRE0wV2RzUXU1Y29Edk1BYWk4UzZKZ1FDMmFDTEpFVjRz?oc=5",
+        "title": "Neuer obenliegender Türschließer von GEZE mit besonders hoher Endschließkraft - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2018-05-09T07:00:00+00:00",
+        "summary": "Neuer obenliegender Türschließer von GEZE mit besonders hoher Endschließkraft Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkMF9WTWc1aDlKbHFSNVJNUDhWNXBLVW9sTDBQRXhhM0FndEZ5ckFWazBYZm05Y29Hblhvbm5EcWJhQi1TeVdkczRYMTA5dmJpQkxhWThPQ0Z5Z2FH?oc=5",
         "tags": [
-          "Apollo"
+          "GEZE"
         ]
       },
       {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "title": "Whitepaper zur DIN 14677 und zum fristgerechten Austausch von Rauchschaltern in Feststellanlagen - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2017-04-24T07:00:00+00:00",
+        "summary": "Whitepaper zur DIN 14677 und zum fristgerechten Austausch von Rauchschaltern in Feststellanlagen Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5waTB4TDRXRU96QU1VanlNbXFrbjZqUE9Nd0tHaWxQSHRyUm9abXZySUxEVkJrUlRVNTZBRGluN2dQQzROclB6V1UwOTJ1bFI1M2ZWenhCTU9oeWFh?oc=5",
         "tags": [
-          "Handelsblatt"
+          "Feststellanlage"
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für deutsche Anl - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für deutsche Anl AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHQySTVYY0VvUGwtek1WNDZaeV8yOFNTUk9DOGQ2OFd0LUlZeU9mSXhRYVdLWnRKYmVJazBWSVdqY0NjWV90TEd2R0RjWWFCd1lZMk5ibmJVMTV6bVRIa0hzSHQ0WkdzYUFjSmtKYVE1TnBnMm1Uc1RsckNjazdTU2g1dUlaVUM5VGY3OEpjckRRZ29QMUliZnZHMk5RS3k3VGNyekxTcEJOYjJPT3MtenVXU2xTUQ?oc=5",
+        "title": "TS 93 Basic: Dormas wirtschaftliche Türschließer-Alternative - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2016-04-14T07:00:00+00:00",
+        "summary": "TS 93 Basic: Dormas wirtschaftliche Türschließer-Alternative Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpUEFRcUFXQ3lrc09LVWNybUhUMnowWUZTQktLNlNkN2Q2ejJvRzI1WWp5SU10Zlo5dmdCVEZ5b3dBVm1RM0cyRDdyMmd4bDZJVGdKcC1FQ1RXNS01?oc=5",
         "tags": [
-          "Apollo"
+          "Baulinks"
         ]
       }
     ],
@@ -419,16 +417,6 @@
         ]
       },
       {
-        "title": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-02T07:00:00+00:00",
-        "summary": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWd3Qkcxb09hRnFENDVEZFhva2xqWkxnSHQ0bWVYNThZZlo3cWVYZ2xfcXI4RzU0NFpBUl85aTJMV2F5b2QwYU1fMGhPOTRmaEZwb2poN3hmcmhjX3FlNUhkdV9ySmVKXzZJVnZwTllPdlRLTFpXeUpmMXBsdkhsVHdWdjBVeHNhSXZPQmR0N2NUS3ZUNXB2ZTUzUzNUcEpiV2ZGb2pHOWVicS1lbnFpY0FBWGQ2YTN6NkpmMEc4UGhSR2l5bEE?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Explore Tour 2026: Cyber Resilience Act und Gebäudeautomation im Fokus - Elektropraktiker",
         "source": "Elektropraktiker",
         "publishedAt": "2026-03-27T10:16:54+00:00",
@@ -436,46 +424,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnV0R3dxemhpN2Q5RGhJYlotUzFJNDY3dVRvTHIzTUZ2NnVWdFRGUEtFck5wSVBkbTZGdjRBc1I0dzBEVVAxeng4ZWdKMUhZUmFWOHlnRGdZRjk0ckhiSlo4THF6RlRzWFYxd251SFFNTkhOLWRBM1czSElJdzMtbk4wQnRXcVRIV3RFV29FOWtQQmNIUktSMnNvREpILXVsZ1Fkc21MdmFTbzlvS0s5UDdPTEFnOEtlUHVaRmxkOU93dw?oc=5",
         "tags": [
           "Gebäudeautomation"
-        ]
-      },
-      {
-        "title": "Johnson Controls Aktie: Stabile Performance im Gebäudeautomatisierungsbereich trotz Marktherausford - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-24T07:00:00+00:00",
-        "summary": "Johnson Controls Aktie: Stabile Performance im Gebäudeautomatisierungsbereich trotz Marktherausford AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeG13d0FFV3dsVElfQm5abGpUdURucV91X3JiMGtEU2JaRTQxSmR6anRIQnBqbVpqM2did3pOU193MllfcUZnTXdtZTZmZnhySlBvZnNNdkFESjdtQkg3VkhZODZzclE1RkhTQnFNaDQ0TUpab2piYUZRaVdYaGlQN3RWNk5wcHBESHROaUtHR1IzYXRON25PUDVDSXdyaGZ1S0FxR2VsOA?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-24T07:00:00+00:00",
-        "summary": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-21T07:00:00+00:00",
-        "summary": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMlA3RjRHMHVFX3FLdEpabFJTUmpUWlJHUUI1S1E0dmRvakZBdGcwejJkV2NaeUpyQVduX2dHSHZFM3RiU2JfeGs4QURZR3NLVEdNUTd6TlJGQ1FNY244MVFkMjR2b1lZeXlSb0U3UnlqWTl6VWRnVlI2TDFieks2UkJqSUcxMzFZQlB6dFpBOFdJSlJYQUhNaERacWNuMmRVaXFkQjQzMXhMemZpQzlhblJueVVPMDA?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Brandmeldeanlagen: KI und neue Regeln revolutionieren den Brandschutz - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-19T07:00:00+00:00",
-        "summary": "Brandmeldeanlagen: KI und neue Regeln revolutionieren den Brandschutz AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWNzb0hOZENrOXUxNE54YXZ0bGZkbEdZQXA4ZUZlN2hkVjBMemxOcnhFTEl5TFhxQTlkR2RGeDlpTjhtRFJnVHVGS1ZHRXlFdEFwS011S3g2TkR0dnBIaVBTVFVnR1JzeURUbTBfaHVManRLOXI0by04c2NNam80bFlISjUzNE9KQTlRZFpKYUJ5cUpVdnZCR1JjTWZua1NWWUVIYXM4YTc2YWNyVElRdTNzLWVzMWF0c2JQQVBjX0ZXdkh3Vnc?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
@@ -496,6 +444,56 @@
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Lösungen für Gebäudeautomation - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Lösungen für Gebäudeautomation elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTmlUR0ZaVFdsSzZfUmxmbVJ2aHplQUluZHFNQlVZckEwTmlBRWRHMWNWTURDOGNkZk16SFg5NWp2RTB0TDh0d3NfS0NfVGQ4akpNVko3UEJyOGFkYlpZTE1aSmJMNm14M0JBZ0E3VFpOTkk?oc=5",
+        "tags": [
+          "Gebäudeautomation"
+        ]
+      },
+      {
+        "title": "Crawl, Walk, Run: KI-gestützte Gebäude - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-02-26T18:33:55+00:00",
+        "summary": "Crawl, Walk, Run: KI-gestützte Gebäude Siemens",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjR2cG5pQ25hUEpJZUZYRl9ock5nbUY0WmNGbV9IVnltVWpsUEhUWlBYZW05M1M3TWx2MkpMX0FTbzZ5OExGZEw1d0U5dEQwMy0zNlpMN1h6Vmp5a2s1Q0NlOU1ZT0lnRU4xV05DV0p2d1JDTjVpN2pvQWoyeXNmT3FTNUUtbk5EbWNHTGtJZW5GMG8teWZZMU40T1FjQUxJYU5LOQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Mit IT-Sicherheit physische Ausfälle verhindern - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-02-13T08:00:00+00:00",
+        "summary": "Mit IT-Sicherheit physische Ausfälle verhindern elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNE5jci0yWVViUWwwVnVzeXNqRzdoZXctc1ZsNl8ya0VDRTR6VXR3TS04QUNmNkVnTGJ0SUhWc0h1azhXaGlaTF83UUZlUmVRY1l2QzV1UHRyT2VGUnBsalVlZnV3aDQzOENmYm4teWlGWlVRVTdNa0V0eVVQN2NnV3BTQlVBemM?oc=5",
+        "tags": [
+          "elektro.net"
+        ]
+      },
+      {
+        "title": "DGNB schärft System für Gebäude im Betrieb - immobilienmanager",
+        "source": "immobilienmanager",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "DGNB schärft System für Gebäude im Betrieb immobilienmanager",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
+        "tags": [
+          "immobilienmanager"
+        ]
+      },
+      {
+        "title": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-02-08T08:00:00+00:00",
+        "summary": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE1SMUV4U1YzZ2dyMm11VUtYM0tQTUFjOWNjME5rcm5OTnozcVFrS1JnZW9qUWhhUmlLUjIyM3g4VVFvNXVfcF9RU2hFNG55VTc3a3BDbXA1bEFxb1hzT3hEMk9jeE84M2NzM1VtTWVINGd5bE1fWlc2ZW9WZE9KcklwWTgtUy1ERnRpSVdmQnIxcXhpeFN6OW1zS25rY3hWZjN5VC1CRVF5T2xiYU1vd3BEMXl5Zw?oc=5",
+        "tags": [
+          "Gebäude-Energieberater"
         ]
       }
     ]
