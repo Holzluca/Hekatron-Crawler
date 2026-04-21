@@ -562,3 +562,15 @@ h1 {
     flex-direction: column;
   }
 }
+.auto-refresh-note {
+  min-height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 16px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, rgba(242,106,33,0.10), rgba(23,59,103,0.06));
+  border: 1px solid rgba(23,59,103,0.10);
+  color: var(--accent);
+  font-weight: 600;
+}
