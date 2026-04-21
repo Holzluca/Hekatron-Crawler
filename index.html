@@ -32,7 +32,7 @@
         <article class="hero-card">
           <span class="hero-card-label">Modus</span>
           <strong id="modeLabel">Demo</strong>
-          <small id="refreshState">Auto-Refresh aus</small>
+<small id="refreshState">Automatisch alle 15 Min.</small>
         </article>
         <article class="hero-card">
           <span class="hero-card-label">Bereich</span>
@@ -57,15 +57,19 @@
           </select>
         </label>
 
-        <label class="field">
-          <span>Auto-Refresh</span>
-          <select id="refreshSelect">
-            <option value="0">Aus</option>
-            <option value="5">Alle 5 Minuten</option>
-            <option value="15">Alle 15 Minuten</option>
-            <option value="30">Alle 30 Minuten</option>
-          </select>
-        </label>
+<label class="field">
+  <span>Auto-Refresh</span>
+  <select id="refreshSelect">
+    <option value="5">Alle 5 Minuten</option>
+    <option value="15" selected>Alle 15 Minuten</option>
+    <option value="30">Alle 30 Minuten</option>
+    <option value="60">Alle 60 Minuten</option>
+  </select>
+</label>
+
+<div class="auto-refresh-note">
+  Die News-Datei wird automatisch geladen.
+</div>
 
         <button id="reloadBtn" class="btn btn-primary" type="button">Jetzt aktualisieren</button>
       </div>
