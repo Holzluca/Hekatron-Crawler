@@ -245,10 +245,6 @@ function bindEvents() {
     updateMeta();
   });
 
-  els.reloadBtn.addEventListener("click", () => {
-    loadItems();
-  });
-}
 
 function setSection(section) {
   state.section = section;
