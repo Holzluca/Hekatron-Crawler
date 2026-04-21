@@ -118,11 +118,13 @@ def parse_published(entry) -> str:
 def infer_tags(text: str, hints: Iterable[str]) -> List[str]:
     text_lower = text.lower()
     tags: List[str] = []
+
     for hint in hints:
         if hint.lower() in text_lower:
             normalized = "Hörmann" if hint == "Hormann" else hint
             if normalized not in tags:
                 tags.append(normalized)
+
     return tags[:3]
 
 
@@ -135,10 +137,15 @@ def normalize_link(link: str) -> str:
 def build_item(entry, hints: Iterable[str]) -> Dict[str, object]:
     title = strip_html(entry.get("title", ""))
     summary = strip_html(entry.get("summary", ""))
-    source = strip_html(entry.get("source", {}).get("title", "")) or strip_html(entry.get("author", "")) or "Quelle unbekannt"
+    source = (
+        strip_html(entry.get("source", {}).get("title", ""))
+        or strip_html(entry.get("author", ""))
+        or "Quelle unbekannt"
+    )
     published_at = parse_published(entry)
     link = normalize_link(entry.get("link", "#"))
     tags = infer_tags(f"{title} {summary} {source}", hints)
+
     if not tags and source and source != "Quelle unbekannt":
         tags = [source]
 
@@ -155,6 +162,7 @@ def build_item(entry, hints: Iterable[str]) -> Dict[str, object]:
 def dedupe_items(items: List[Dict[str, object]]) -> List[Dict[str, object]]:
     seen = set()
     deduped = []
+
     for item in sorted(items, key=lambda x: x["publishedAt"], reverse=True):
         key = (
             str(item["title"]).strip().lower(),
@@ -164,21 +172,23 @@ def dedupe_items(items: List[Dict[str, object]]) -> List[Dict[str, object]]:
             continue
         seen.add(key)
         deduped.append(item)
+
     return deduped
 
 
-def fetch_topic_items(topic_id: str, topic_config: Dict[str, object]) -> List[Dict[str, object]]:
+def fetch_topic_items(topic_config: Dict[str, object]) -> List[Dict[str, object]]:
     hints = topic_config["tag_hints"]
     collected: List[Dict[str, object]] = []
 
     for query in topic_config["queries"]:
-      feed_url = google_news_rss_url(query)
-      feed = feedparser.parse(feed_url)
-      for entry in feed.entries:
-          item = build_item(entry, hints)
-          if len(item["title"]) < 12:
-              continue
-          collected.append(item)
+        feed_url = google_news_rss_url(query)
+        feed = feedparser.parse(feed_url)
+
+        for entry in feed.entries:
+            item = build_item(entry, hints)
+            if len(item["title"]) < 12:
+                continue
+            collected.append(item)
 
     return dedupe_items(collected)[:MAX_ITEMS_PER_TOPIC]
 
@@ -187,7 +197,7 @@ def main() -> int:
     items_by_topic: Dict[str, List[Dict[str, object]]] = {}
 
     for topic_id, topic_config in TOPIC_DEFINITIONS.items():
-        items_by_topic[topic_id] = fetch_topic_items(topic_id, topic_config)
+        items_by_topic[topic_id] = fetch_topic_items(topic_config)
 
     payload = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
@@ -196,7 +206,11 @@ def main() -> int:
     }
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    OUTPUT_PATH.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
     print(f"Wrote {OUTPUT_PATH}")
     for topic_id, items in items_by_topic.items():
         print(f"- {topic_id}: {len(items)} items")
@@ -204,5 +218,7 @@ def main() -> int:
     return 0
 
 
+if __name__ == "__main__":
+    raise SystemExit(main())
 if __name__ == "__main__":
     raise SystemExit(main())
