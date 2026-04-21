@@ -189,7 +189,7 @@ const state = {
   section: "competition",
   topicId: "atb",
   search: "",
-  refreshMinutes: 0,
+  refreshMinutes: 15,
   timer: null,
   items: []
 };
