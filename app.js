@@ -1,4 +1,4 @@
-const NEWS_ENDPOINT = ""; // z. B. "/api/news" oder volle URL. Leer = Demo-Daten.
+const DATA_URL = "./data/news.json";
 
 const TOPICS = {
   competition: [
@@ -23,7 +23,7 @@ const TOPICS = {
       label: "BU Türen & Feststellanlagen",
       short: "Türsysteme / Wettbewerb",
       description:
-        "Wettbewerbsradar für Türsysteme, Feststellanlagen und angrenzende Sicherheitslösungen. Den Namen der Business Unit kannst du hier im Code jederzeit leicht anpassen.",
+        "Wettbewerbsradar für Türsysteme, Feststellanlagen und angrenzende Sicherheitslösungen.",
       competitors: ["Dictator", "Protronic", "Hörmann", "GEZE", "Argus Security", "Apollo"]
     }
   ],
@@ -46,143 +46,15 @@ const TOPICS = {
   ]
 };
 
-const DEMO_DATA = {
-  atb: [
-    {
-      title: "Siemens positioniert neue Cloud-Services für Fire Safety im Gebäudebetrieb",
-      source: "Siemens / Demo",
-      publishedAt: "2026-04-18T09:20:00Z",
-      summary: "Hinweise auf stärkere Service- und Plattform-Argumentation im B2B-Vertrieb. Relevant für Differenzierung über Lifecycle-Mehrwert.",
-      url: "#",
-      tags: ["Siemens", "Service", "Cloud"]
-    },
-    {
-      title: "Honeywell erweitert Integrationsstory zwischen Brandmeldung und Building Operations",
-      source: "Honeywell / Demo",
-      publishedAt: "2026-04-16T11:15:00Z",
-      summary: "Stärkere Positionierung über Integration und Betreiber-Mehrwert. Vertriebsseitig relevant für komplexe Gebäudeprojekte.",
-      url: "#",
-      tags: ["Honeywell", "Integration", "Building"]
-    },
-    {
-      title: "Bosch betont Cybersecurity und Remote Services in Sicherheitslösungen",
-      source: "Bosch / Demo",
-      publishedAt: "2026-04-14T08:10:00Z",
-      summary: "Cybersecurity wird als Kaufargument im Sicherheitsumfeld sichtbarer. Relevanz für Ausschreibungen und IT-nahe Ansprechpartner.",
-      url: "#",
-      tags: ["Bosch", "Cybersecurity", "Remote"]
-    },
-    {
-      title: "detectomat kommuniziert Projektkompetenz im industriellen Umfeld",
-      source: "detectomat / Demo",
-      publishedAt: "2026-04-12T13:00:00Z",
-      summary: "Projektberichte und Referenzen erhöhen Sichtbarkeit im Ausschreibungsumfeld. Interessant für Vertriebsargumentation und Use Cases.",
-      url: "#",
-      tags: ["detectomat", "Referenz", "Industrie"]
-    }
-  ],
-  pfs: [
-    {
-      title: "X-Sense hebt App-Anbindung und Verbrauchernähe in neuer Kampagne hervor",
-      source: "X-Sense / Demo",
-      publishedAt: "2026-04-19T07:35:00Z",
-      summary: "Consumer-orientierte Kommunikation mit Fokus auf Usability und Vernetzung. Relevant für Differenzierung im Residential-Markt.",
-      url: "#",
-      tags: ["X-Sense", "App", "Consumer"]
-    },
-    {
-      title: "Pyrexx fokussiert Wartungsarmut und Wohnungswirtschaft",
-      source: "Pyrexx / Demo",
-      publishedAt: "2026-04-17T10:30:00Z",
-      summary: "Argumentation über Betriebskosten und Bestandsgeschäft. Besonders relevant für institutionelle Kunden und Modernisierung.",
-      url: "#",
-      tags: ["Pyrexx", "Wohnungswirtschaft", "Retrofit"]
-    },
-    {
-      title: "Ei betont Produktzuverlässigkeit und Normenkonformität",
-      source: "Ei / Demo",
-      publishedAt: "2026-04-15T09:40:00Z",
-      summary: "Starke Positionierung über Verlässlichkeit und Compliance. Das stärkt vor allem Gespräche mit Fachpartnern und Entscheidergruppen.",
-      url: "#",
-      tags: ["Ei", "Normen", "Qualität"]
-    },
-    {
-      title: "Hager-nahe Vertriebsbotschaften bleiben in Smart-Building-Narrativen sichtbar",
-      source: "Hager / Demo",
-      publishedAt: "2026-04-11T12:25:00Z",
-      summary: "Auch bei verändertem Portfolio bleibt die Marke in angrenzenden Systemargumenten relevant. Nützlich für Einordnung im Beratungsgespräch.",
-      url: "#",
-      tags: ["Hager", "Smart Building", "Systemwelt"]
-    }
-  ],
-  doors: [
-    {
-      title: "GEZE betont barrierefreie Gebäudezugänge und smarte Türsysteme",
-      source: "GEZE / Demo",
-      publishedAt: "2026-04-18T06:50:00Z",
-      summary: "Barrierefreiheit, Komfort und Gebäudeautomation verschmelzen stärker. Relevanz für kombinierte Sicherheits- und Komfortargumentation.",
-      url: "#",
-      tags: ["GEZE", "Barrierefreiheit", "Automation"]
-    },
-    {
-      title: "Hörmann erweitert Sichtbarkeit im Bereich automatische Zutritts- und Torlösungen",
-      source: "Hörmann / Demo",
-      publishedAt: "2026-04-17T14:10:00Z",
-      summary: "Systemlösungen und starke Marke bleiben zentrale Hebel. Besonders relevant für Projekte mit angrenzender Gebäudehülle und Zugang.",
-      url: "#",
-      tags: ["Hörmann", "Zutritt", "Systemlösung"]
-    },
-    {
-      title: "Dictator kommuniziert Spezialisierung in Türschließ- und Dämpfungslösungen",
-      source: "Dictator / Demo",
-      publishedAt: "2026-04-14T08:40:00Z",
-      summary: "Nischenkompetenz kann im Projektgeschäft ein differenzierender Faktor sein. Wichtig für genaue Wettbewerbsabgrenzung.",
-      url: "#",
-      tags: ["Dictator", "Türtechnik", "Projektgeschäft"]
-    },
-    {
-      title: "Apollo und angrenzende Sicherheitsanbieter setzen auf Integration und Vernetzung",
-      source: "Apollo / Demo",
-      publishedAt: "2026-04-10T15:20:00Z",
-      summary: "Offene Schnittstellen und systemische Einbindung bleiben zentrale Markttrends in sicherheitsnahen Anwendungen.",
-      url: "#",
-      tags: ["Apollo", "Integration", "Schnittstellen"]
-    }
-  ],
-  trends: [
-    {
-      title: "Retrofit-Welle in Bestandsgebäuden erhöht Nachfrage nach wirtschaftlichen Modernisierungslösungen",
-      source: "Trendmonitor / Demo",
-      publishedAt: "2026-04-19T08:00:00Z",
-      summary: "Bestandsobjekte treiben Investitionen in Nachrüstung, vereinfachte Installation und Lifecycle-Argumentation. Das betrifft alle Business Units direkt.",
-      url: "#",
-      tags: ["Retrofit", "Bestand", "Wachstum"]
-    },
-    {
-      title: "Cybersecurity wird im Gebäude- und Sicherheitsumfeld zum verbindlichen Kaufkriterium",
-      source: "Trendmonitor / Demo",
-      publishedAt: "2026-04-17T07:45:00Z",
-      summary: "IT-Sicherheit und Update-Fähigkeit beeinflussen zunehmend Ausschreibungen, Integrationsarchitektur und Herstellervertrauen.",
-      url: "#",
-      tags: ["Cybersecurity", "Ausschreibung", "Vertrauen"]
-    },
-    {
-      title: "KI-gestützte Erkennung und datenbasierte Services verschieben die Value Proposition",
-      source: "Trendmonitor / Demo",
-      publishedAt: "2026-04-15T09:00:00Z",
-      summary: "Hersteller verkaufen nicht nur Hardware, sondern Service-Level, Monitoring und datengetriebene Mehrwerte. Das verändert Vertriebsgespräche.",
-      url: "#",
-      tags: ["KI", "Analytics", "Service"]
-    },
-    {
-      title: "Normen, ESG und Betreiberpflichten erhöhen den Druck auf dokumentierte Sicherheit",
-      source: "Trendmonitor / Demo",
-      publishedAt: "2026-04-12T10:10:00Z",
-      summary: "Compliance, Transparenz und Nachweisführung werden stärker Teil der Wertargumentation gegenüber Betreibern und Partnern.",
-      url: "#",
-      tags: ["Normen", "ESG", "Compliance"]
-    }
-  ]
+const FALLBACK_DATA = {
+  generatedAt: "2026-04-20T09:00:00Z",
+  sourceMode: "fallback",
+  itemsByTopic: {
+    atb: [],
+    pfs: [],
+    doors: [],
+    trends: []
+  }
 };
 
 const state = {
@@ -191,7 +63,9 @@ const state = {
   search: "",
   refreshMinutes: 15,
   timer: null,
-  items: []
+  allItemsByTopic: structuredClone(FALLBACK_DATA.itemsByTopic),
+  generatedAt: FALLBACK_DATA.generatedAt,
+  sourceMode: FALLBACK_DATA.sourceMode
 };
 
 const els = {
@@ -216,11 +90,13 @@ const els = {
   trendSidebarCard: document.getElementById("trendSidebarCard")
 };
 
-function init() {
+async function init() {
   bindEvents();
   renderSectionNav();
   renderTopicButtons();
-  loadItems();
+  els.refreshSelect.value = String(state.refreshMinutes);
+  applyRefreshTimer();
+  await loadFeed();
 }
 
 function bindEvents() {
@@ -244,7 +120,7 @@ function bindEvents() {
     applyRefreshTimer();
     updateMeta();
   });
-
+}
 
 function setSection(section) {
   state.section = section;
@@ -253,13 +129,13 @@ function setSection(section) {
   els.sectionSelect.value = section;
   renderSectionNav();
   renderTopicButtons();
-  loadItems();
+  render();
 }
 
 function setTopic(topicId) {
   state.topicId = topicId;
   renderTopicButtons();
-  loadItems();
+  render();
 }
 
 function renderSectionNav() {
@@ -293,42 +169,43 @@ function renderTopicButtons() {
   });
 }
 
-async function loadItems() {
-  const topic = getCurrentTopic();
-  const demoItems = DEMO_DATA[topic.id] ?? [];
-
-  if (!NEWS_ENDPOINT) {
-    state.items = demoItems;
-    updateMeta(true);
-    render();
-    return;
-  }
-
+async function loadFeed(force = false) {
   try {
-    const url = new URL(NEWS_ENDPOINT, window.location.origin);
-    url.searchParams.set("topicId", topic.id);
-    url.searchParams.set("section", state.section);
-    url.searchParams.set("query", state.search || "");
-    url.searchParams.set("limit", "12");
+    const url = new URL(DATA_URL, window.location.href);
+    if (force) {
+      url.searchParams.set("ts", Date.now().toString());
+    }
 
     const response = await fetch(url.toString(), {
+      cache: "no-store",
       headers: { Accept: "application/json" }
     });
 
     if (!response.ok) {
-      throw new Error(`API-Fehler: ${response.status}`);
+      throw new Error(`Feed nicht erreichbar: ${response.status}`);
     }
 
     const data = await response.json();
-    state.items = Array.isArray(data.items) ? data.items : demoItems;
-    updateMeta(false);
+    state.allItemsByTopic = normalizeItemsByTopic(data.itemsByTopic);
+    state.generatedAt = data.generatedAt || new Date().toISOString();
+    state.sourceMode = data.sourceMode || "live";
   } catch (error) {
     console.error(error);
-    state.items = demoItems;
-    updateMeta(true, true);
+    state.allItemsByTopic = structuredClone(FALLBACK_DATA.itemsByTopic);
+    state.generatedAt = new Date().toISOString();
+    state.sourceMode = "fallback";
   }
 
+  updateMeta();
   render();
+}
+
+function normalizeItemsByTopic(itemsByTopic) {
+  const normalized = {};
+  for (const topic of [...TOPICS.competition, ...TOPICS.trends]) {
+    normalized[topic.id] = Array.isArray(itemsByTopic?.[topic.id]) ? itemsByTopic[topic.id] : [];
+  }
+  return normalized;
 }
 
 function render() {
@@ -350,8 +227,6 @@ function renderSummary(topic, items) {
   const newest = items[0];
   const latestDate = newest ? formatDate(newest.publishedAt) : "-";
   const competitorCount = topic.competitors.length;
-  const keywordCount = buildKeywordCount(items);
-  const topKeyword = keywordCount.length ? keywordCount[0][0] : "keine";
 
   const cards = [
     {
@@ -365,9 +240,9 @@ function renderSummary(topic, items) {
       text: newest ? newest.title : "Noch keine Meldung vorhanden"
     },
     {
-      label: "Dominantes Schlagwort",
-      value: capitalize(topKeyword),
-      text: keywordCount.length ? `${keywordCount[0][1]} Treffer in den aktuellen Einträgen` : "Noch keine Häufung erkennbar"
+      label: "Feed-Modus",
+      value: state.sourceMode === "fallback" ? "Fallback" : "Live",
+      text: state.sourceMode === "fallback" ? "Es konnten keine aktuellen Daten geladen werden." : "Die Seite nutzt den erzeugten GitHub-Feed."
     },
     {
       label: "Suchstatus",
@@ -416,7 +291,7 @@ function renderNews(items) {
             ${
               link
                 ? `<a class="news-link" href="${escapeAttribute(link)}" target="_blank" rel="noreferrer noopener">Artikel öffnen →</a>`
-                : `<span class="news-link">Demo-Eintrag</span>`
+                : `<span class="news-link">Kein Link verfügbar</span>`
             }
           </div>
         </article>
@@ -426,7 +301,7 @@ function renderNews(items) {
 }
 
 function getFilteredItems() {
-  const rawItems = state.items || [];
+  const rawItems = state.allItemsByTopic[state.topicId] || [];
   if (!state.search) {
     return rawItems;
   }
@@ -443,57 +318,25 @@ function getCurrentTopic() {
   return TOPICS[state.section].find((topic) => topic.id === state.topicId) || TOPICS[state.section][0];
 }
 
-function buildKeywordCount(items) {
-  const blacklist = new Set([
-    "und", "oder", "mit", "für", "der", "die", "das", "den", "dem", "ein", "eine", "einer", "eines",
-    "von", "auf", "im", "in", "zu", "am", "an", "als", "bei", "über", "durch", "nach", "noch",
-    "wird", "werden", "sind", "ist", "mehr", "neue", "neuer", "neuen", "stärker", "relevant",
-    "demo", "hekatron", "news", "markt", "trend", "thema"
-  ]);
-
-  const counts = new Map();
-  items.forEach((item) => {
-    const words = `${item.title} ${item.summary}`
-      .toLowerCase()
-      .replace(/[^\p{L}\p{N}\s-]/gu, " ")
-      .split(/\s+/)
-      .filter((word) => word.length > 3 && !blacklist.has(word));
-
-    words.forEach((word) => {
-      counts.set(word, (counts.get(word) || 0) + 1);
-    });
-  });
-
-  return [...counts.entries()].sort((a, b) => b[1] - a[1]);
-}
-
 function applyRefreshTimer() {
   if (state.timer) {
     window.clearInterval(state.timer);
     state.timer = null;
   }
 
-  if (!state.refreshMinutes) {
-    return;
-  }
-
   state.timer = window.setInterval(() => {
-    loadItems();
+    loadFeed(true);
   }, state.refreshMinutes * 60 * 1000);
 }
 
-function updateMeta(isDemo, hadError = false) {
-  const now = new Date();
-  els.lastUpdatedText.textContent = `Stand: ${formatDateTime(now.toISOString())}`;
-  els.modeLabel.textContent = isDemo ? "Demo" : "Live";
-  els.statusBadge.textContent = hadError
-    ? "API nicht erreichbar – Demo-Fallback aktiv"
-    : isDemo
-      ? "Lokale Demo-Daten"
-      : "Live-Daten vom Feed";
-  els.refreshState.textContent = state.refreshMinutes
-    ? `Auto-Refresh alle ${state.refreshMinutes} Min.`
-    : "Auto-Refresh aus";
+function updateMeta() {
+  els.lastUpdatedText.textContent = `Feed-Stand: ${formatDateTime(state.generatedAt)}`;
+  els.modeLabel.textContent = state.sourceMode === "fallback" ? "Fallback" : "Live";
+  els.statusBadge.textContent =
+    state.sourceMode === "fallback"
+      ? "Fallback-Daten aktiv"
+      : "Aktualisiert per GitHub Actions";
+  els.refreshState.textContent = `Automatisch alle ${state.refreshMinutes} Min.`;
 }
 
 function formatDate(isoString) {
@@ -512,13 +355,6 @@ function formatDateTime(isoString) {
     hour: "2-digit",
     minute: "2-digit"
   }).format(new Date(isoString));
-}
-
-function capitalize(value) {
-  if (!value || value === "keine") {
-    return value || "keine";
-  }
-  return value.charAt(0).toUpperCase() + value.slice(1);
 }
 
 function escapeHtml(value) {
