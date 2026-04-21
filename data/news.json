@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T09:53:20.684810+00:00",
+  "generatedAt": "2026-04-21T11:33:26.414184+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -180,26 +180,6 @@
         ]
       },
       {
-        "title": "Unter 50 Euro: Smarte Raucherkennung mit App-Steuerung - teltarif.de",
-        "source": "teltarif.de",
-        "publishedAt": "2026-04-17T09:43:00+00:00",
-        "summary": "Unter 50 Euro: Smarte Raucherkennung mit App-Steuerung teltarif.de",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
-        "tags": [
-          "teltarif.de"
-        ]
-      },
-      {
-        "title": "Amazon Echo Dot: Smart-Home-Revolution treibt Amazon-Aktie 2026 voran - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-15T17:18:50+00:00",
-        "summary": "Amazon Echo Dot: Smart-Home-Revolution treibt Amazon-Aktie 2026 voran AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFh5bVc3RWpPd2xLTDJtSDdDWTRCS0RqM0l1UkRPTUExMnFSZmNFR2FiSVpndVVwbThVNEhremJieWFUbUFnY0JxYk94eXpkd3BkS19oWndVQ2ZZaFNrZmFLeUFnR2kxbklwMnZEbWlNb1BLQU1vQlhxQXhNNGxXUmc4bjZTSllJa0hJcTA2NUh4dTlxdHAyYm93Q20yWU5kbjZ2WGVlS2FnR0VuTGNZbVRWRE5VbF9TX1d4ZzJWNA?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T09:11:48+00:00",
@@ -250,6 +230,28 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVc1N3V4RjM1Sk00TkJIM1hXYURGMURRYkdhR29mZ1FxekIzV29VdHlsc3V5WFdmTWdzWUhGR3o5VjBOcFVrVktNM3dqSmdEbklyUTBqOHk3eTQ0aklLQXRtLTE3d1dWV0duVV8zcVBmTTliSjJjTXdLZTZrb1JDdkxwOXYyVVMxRjBRSENFTndUVTdFcDdpV2dIc1h0bndpblJGWjMzUDN6NTBNRlhqVEhPSkY?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Smarte Fußbodenheizung: Dieses Bosch-Set drückt den Preis gewaltig - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Smarte Fußbodenheizung: Dieses Bosch-Set drückt den Preis gewaltig Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1c3UmI2NjdaSHZaQ0RGYk9kYzk0XzBiNUJsVlpCdlNCZFRZa0kyZzJ0MS1hN2RtSkdGcENER1pqejhCbHphRVF4NG5lYWRFY0VlMmNJX1RvMlpKYU50VUNZTWJJY2FNTTJXcEkzVjVZR054N1ZPOHQ0ZENNWnMtczhRVUhOdXNYNEdwUy0zbW1Rd2RxTG1GZTB5aWJhV25TOThGX3h2T2tUN29rNms0ZFBCTjBxZw?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Home+ kommt jetzt auch für Android - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-03-25T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Home+ kommt jetzt auch für Android Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDhTUmZVczQtWE9zdmZwMzg3WmJmY2VUWTFIQnQ1dXNrbGMyMjhyaW8zLXhYSlpON3VoNkFiSzBCOW1KZHpnTVE2OTFMYnM1ZlFianRDRFk2Ukh1YVlZOHc0UmhBbDFuYlVoX0IzbmFkLTlvYzZodkZuV29STnotTEZfRWlSblhN?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
         ]
       }
     ],
