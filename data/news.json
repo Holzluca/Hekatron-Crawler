@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T17:56:40.618582+00:00",
+  "generatedAt": "2026-04-21T19:09:47.383124+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -86,10 +86,10 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens",
+        "source": "Siemens",
         "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
@@ -180,6 +180,16 @@
         ]
       },
       {
+        "title": "Unter 50 Euro: Smarte Raucherkennung mit App-Steuerung - teltarif.de",
+        "source": "teltarif.de",
+        "publishedAt": "2026-04-17T09:43:00+00:00",
+        "summary": "Unter 50 Euro: Smarte Raucherkennung mit App-Steuerung teltarif.de",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
+        "tags": [
+          "teltarif.de"
+        ]
+      },
+      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T09:11:48+00:00",
@@ -241,17 +251,6 @@
         "tags": [
           "Ei",
           "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Home+ kommt jetzt auch für Android - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-03-25T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Home+ kommt jetzt auch für Android Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDhTUmZVczQtWE9zdmZwMzg3WmJmY2VUWTFIQnQ1dXNrbGMyMjhyaW8zLXhYSlpON3VoNkFiSzBCOW1KZHpnTVE2OTFMYnM1ZlFianRDRFk2Ukh1YVlZOHc0UmhBbDFuYlVoX0IzbmFkLTlvYzZodkZuV29STnotTEZfRWlSblhN?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       }
     ],
