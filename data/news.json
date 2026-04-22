@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T11:57:00.409559+00:00",
+  "generatedAt": "2026-04-22T13:26:23.760280+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,17 @@
     ],
     "pfs": [
       {
+        "title": "Bosch Home Comfort erweitert Sicherheitswarnung für Therm 4300 Geräte - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-04-22T12:37:27+00:00",
+        "summary": "Bosch Home Comfort erweitert Sicherheitswarnung für Therm 4300 Geräte mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0pTcXVPNmVWNFY0SWZIUzdpbzRuTzNHLXFyRm9qenl6V0NmNzFmYUdHLXdaNHljSnIzeVVQZEljX3g3OC1pcWprdmNpZEFSUlFDUGhtbW1yem5abDZzaGoxY2RaT1ZZMUx1SFFSWXJCV0ZfV01oZzZybTVadWl6YWFqbks2UUtnQXVicENrOC1JLVBuVk1zel9ILUTSAaIBQVVfeXFMT2dBcUFVdWNtS2tuRTA3UzdZZ3J0aWFpWFNraVFBa1JPcGpqRk5BN1VPYjQ1d09BMk05M2p0bDhmT01xNEt6U0QtZXhUR0lic3pPSnBlNXd2TlBheWRHdFBTQlNpQWZ6cDd0UkNScnFTcTRibG93dngtay1mRzljTnM3S19GSFZCZlFvYXdrTGNKeWRPWlk5dmxGQnlybmV4TmRR?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Tipps für die Rauchmelder-Auswahl - PressNetwork",
         "source": "PressNetwork",
         "publishedAt": "2026-04-20T08:42:07+00:00",
@@ -240,17 +251,6 @@
           "Ei",
           "Bosch"
         ]
-      },
-      {
-        "title": "Bosch Smart Home: Home+ kommt jetzt auch für Android - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-03-25T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Home+ kommt jetzt auch für Android Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDhTUmZVczQtWE9zdmZwMzg3WmJmY2VUWTFIQnQ1dXNrbGMyMjhyaW8zLXhYSlpON3VoNkFiSzBCOW1KZHpnTVE2OTFMYnM1ZlFianRDRFk2Ukh1YVlZOHc0UmhBbDFuYlVoX0IzbmFkLTlvYzZodkZuV29STnotTEZfRWlSblhN?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
@@ -272,6 +272,16 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
         ]
       },
       {
@@ -345,33 +355,23 @@
         ]
       },
       {
-        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
-        "source": "ZDFheute",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
+        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
+        "source": "WELT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
         "tags": [
-          "ZDFheute"
+          "WELT"
         ]
       },
       {
-        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
-        "source": "Deutschlandfunk",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
+        "title": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee - DIE ZEIT",
+        "source": "DIE ZEIT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNKVjhpWGZ3aHZ5R3VLYXE0NHd6RGhZNXNDaHFEYW9yT1pKcmYwUGFoSHVsbVQwTjRCeEl0cXo3VjJSeHdURjRVZGg2aGxGeEk3UVU5dmNTd3J0MFhlZEhzZTJKVkQ4ZnhWTmo1NFQtMXNHZGFIa2pUTGM3dGtqNGNLc1lmZHVKNFZsLVB3?oc=5",
         "tags": [
-          "Deutschlandfunk"
-        ]
-      },
-      {
-        "title": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro - Berliner Zeitung",
-        "source": "Berliner Zeitung",
-        "publishedAt": "2025-11-17T08:00:00+00:00",
-        "summary": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro Berliner Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNeVFqTEhKQzUzdjJzVkFrdUMwMFRNQXdjdEZCUThLbXRBWW1TXzNpYUUxLUdCYlJ5NU51YjNaVlF2MzRiSzJLN3VVZWtlcGFZSG5rSTJBVE1HUW14YW1CZDhwWXNtUXp3N1RuZjljM1Z5TEVOY0lnUFcxTDByV3FpTEl0TWRCRXVBTUlNZnBxNDNHRlgweldTT1kyZm1aVzFOSVhpRlctazRTRS0zZTliY3ZoMVdRX1FJX0UwMU9xdWVoc3lpX3hrbFg1YVZtY1dVTXVHTDQyV1k4OU9LTjlWMDhuTElEelVEMTBVVUtRNFZYQTZzWDF0LWNQbFpFWGgxZU83YjdoYXpDZw?oc=5",
-        "tags": [
-          "Berliner Zeitung"
+          "DIE ZEIT"
         ]
       }
     ],
@@ -437,6 +437,16 @@
         ]
       },
       {
+        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
+        "source": "DN-News",
+        "publishedAt": "2026-03-16T07:00:00+00:00",
+        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
         "source": "Allgäuer Zeitung",
         "publishedAt": "2026-03-11T07:00:00+00:00",
@@ -484,16 +494,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
         "tags": [
           "immobilienmanager"
-        ]
-      },
-      {
-        "title": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-02-08T08:00:00+00:00",
-        "summary": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE1SMUV4U1YzZ2dyMm11VUtYM0tQTUFjOWNjME5rcm5OTnozcVFrS1JnZW9qUWhhUmlLUjIyM3g4VVFvNXVfcF9RU2hFNG55VTc3a3BDbXA1bEFxb1hzT3hEMk9jeE84M2NzM1VtTWVINGd5bE1fWlc2ZW9WZE9KcklwWTgtUy1ERnRpSVdmQnIxcXhpeFN6OW1zS25rY3hWZjN5VC1CRVF5T2xiYU1vd3BEMXl5Zw?oc=5",
-        "tags": [
-          "Gebäude-Energieberater"
         ]
       }
     ]
