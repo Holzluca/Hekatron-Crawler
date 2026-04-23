@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T11:38:09.141512+00:00",
+  "generatedAt": "2026-04-23T13:14:32.096318+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -49,16 +49,6 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -123,9 +113,51 @@
         "tags": [
           "Bosch"
         ]
+      },
+      {
+        "title": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert - stuttgarter-nachrichten.de",
+        "source": "stuttgarter-nachrichten.de",
+        "publishedAt": "2026-01-13T08:00:00+00:00",
+        "summary": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert stuttgarter-nachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUGZ2RUJ4WVFaaU0ySkFycjNmNF8tQXpnR1pVVHVzVjZ0Y3hRZjVvNjAwSU9ORGNFcFVSUDA1WXZrUjd4LXVNWW9tNWJJUThZTTJJd2drdmJTbTJOTGZFdlVJY1k3QkQ0ZnB0eGpXSjNnWkFJcmQyS2lWWFFLdld0YjdULXR1bHZRS0U0TTZONmdEcElqZGlmSGhqSnpIZnNDVGRScGFlUGxkc3lPSVo1T2RyR08wM2RWaUY4Q3RldHlTT0JwR3hLaHJkOEVjdnhaVVc1SEY1NTRQQTEzZGRiNFd4UEhYTUZialhwTjlsSHJYRFlDOE5fS3QwNHNjWk1xZzFydw?oc=5",
+        "tags": [
+          "Bosch"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
+        "source": "WirtschaftsWoche",
+        "publishedAt": "2026-04-23T12:13:00+00:00",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
+        "tags": [
+          "WirtschaftsWoche"
+        ]
+      },
+      {
+        "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-04-23T11:55:05+00:00",
+        "summary": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0tPNFp0VjVPNDIyY3ItTndWZ1FFdjY4RnZQTFRkRWVwTjAxMnNlTXdtbm41ZnJqNUNMNGJtV2tuTURKaW9hOEJIZlZtZVNxQ0FOclJzLWo?oc=5",
+        "tags": [
+          "Ei",
+          "Pyrexx"
+        ]
+      },
+      {
+        "title": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-04-23T11:35:00+00:00",
+        "summary": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN0dMeXZhSzEzcHAtenpfY2RiMDZObmFMUWhwYkVQaWd3X0daQnNaSDlxRzVaOV9IdFhWMXliYVA2NW1DdzNsa0RDLVdNUzdNdER3REZSRERmUXRzSXlIVmJxZWIxX3V1V291VmFFWTI3d2JfZWhTZDRFOWo0ZzEteWNzVGxiYTF3WDFFNmdmTVotbVo3cDdhSmY1cnZmY1QtTzBwSWRoT0thY0U1dHVSRmh1clVVcVl4LVQzX0FHRGFzdkppNmc?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
       {
         "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
         "source": "Spiegel",
@@ -137,16 +169,6 @@
         ]
       },
       {
-        "title": "Stiftung Warentest muss Schadenersatz zahlen - Wirtschaft - SZ.de - SZ.de",
-        "source": "SZ.de",
-        "publishedAt": "2026-04-23T09:46:06+00:00",
-        "summary": "Stiftung Warentest muss Schadenersatz zahlen - Wirtschaft - SZ.de SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDRPLVVKXzRscVhiOEhzZVQwemtxUTdDMVpsNEpSdlFHU0YzdkFGMEFUTldVdlk5ZDRXQ3dUQVQzekJCZVZ5Y3UyNUxRWm1kcWlpZUVzU2JrN1BqSjl3YmtJeE0zci13Wkp2NW9xUm85SWtRNTE4SXR0Wk1Uc25tR3lqaExreDdyZXJ6ZXlLSlRuekgw?oc=5",
-        "tags": [
-          "SZ.de"
-        ]
-      },
-      {
         "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - STERN.de",
         "source": "STERN.de",
         "publishedAt": "2026-04-23T09:15:03+00:00",
@@ -154,6 +176,17 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGJKaWpPNFg4M3JxT1dvSk9MSHF3cDZKbUR2SHRKMDFubk1IYTRJNVRUUmM5UnRHX0dIS2RSLWU4ZGo5WVYySVMyUlJ5QVY0RHFjWmNNSjNCS0VSQVI0cXFuUjFLSDB2SnBqeFFKV25uMXNLWFd0SWVmY1pQbWVZdndnVlNJR2E5TXNKZ3psUVA0Tlk3Q25JZGEySXM4X2p1bnA5aDRwYXB4c1ZPWEJOZF9lM2hRcGlVSEhGa053QVp2SHRxR0ZN?oc=5",
         "tags": [
           "STERN.de"
+        ]
+      },
+      {
+        "title": "Mehr Komfort zuhause: Bosch Smart Home Set im Deal - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Mehr Komfort zuhause: Bosch Smart Home Set im Deal Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmVqVWdqdVdNcGtUMF9uZHNaMGlGcTZtWU1qUjhKUHdDWC00WEs3THhoTy16SUl3Y0JFX2ljREF0R0h1MnhFVnRzVEh6clFKb3Vuc2VDY054eDZWYzQ2V3l1bjZHb3JsZmhPdUFiVVRaY01wcUhGNGZReUJpVGtwbGVvNWxrTnZWVXk4VkhlNnE1T19leGszVUNEZERUZy1PLS1KSHRXM3FmcTNLWjV6SU1QZlo3N3c?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
         ]
       },
       {
@@ -216,39 +249,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T09:11:48+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Ei Electronics erhält Ecovadis Gold - i-Magazin",
-        "source": "i-Magazin",
-        "publishedAt": "2026-04-10T14:59:52+00:00",
-        "summary": "Ei Electronics erhält Ecovadis Gold i-Magazin",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Q3lTYzZKbmlQUkQwd2Q3SzNVRC1pbllJUEZaeVdqWk1CaVhwMWlvVGJzajlJYmZvNDhNQ1Budmg2MmhQLTBkZGMwOHgtMWtqMk1KZ0NNWklER2Z0WF9ZMHJRbE9VeGVaMldv?oc=5",
-        "tags": [
-          "Ei",
-          "Ei Electronics"
-        ]
-      },
-      {
-        "title": "Test: Der beste Kohlenmonoxid-Melder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-07T07:00:00+00:00",
-        "summary": "Test: Der beste Kohlenmonoxid-Melder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTDRrc05PblNKcFI2V1RFSG1CVmhQUEVQNFdUT0FnQ0FMOWlkejRYbXFLVVhma3IycjU1UkJ5UktvbklBNHFSUFItam1BcHZoOWY0d3RYNXdvaHgzVzMycXM3c0JSazBRQ0RjNDI1X0VCYUM4Z0ZV?oc=5",
-        "tags": [
-          "FAZ"
         ]
       }
     ],
@@ -354,16 +354,6 @@
         ]
       },
       {
-        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
-        "source": "WELT",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
-        "tags": [
-          "WELT"
-        ]
-      },
-      {
         "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
         "source": "ZDFheute",
         "publishedAt": "2025-11-18T08:00:00+00:00",
@@ -371,6 +361,16 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
         "tags": [
           "ZDFheute"
+        ]
+      },
+      {
+        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
+        "source": "Deutschlandfunk",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
+        "tags": [
+          "Deutschlandfunk"
         ]
       }
     ],
@@ -436,16 +436,6 @@
         ]
       },
       {
-        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
-        "source": "DN-News",
-        "publishedAt": "2026-03-16T07:00:00+00:00",
-        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
         "source": "Allgäuer Zeitung",
         "publishedAt": "2026-03-11T07:00:00+00:00",
@@ -493,6 +483,16 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
         "tags": [
           "immobilienmanager"
+        ]
+      },
+      {
+        "title": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-02-08T08:00:00+00:00",
+        "summary": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE1SMUV4U1YzZ2dyMm11VUtYM0tQTUFjOWNjME5rcm5OTnozcVFrS1JnZW9qUWhhUmlLUjIyM3g4VVFvNXVfcF9RU2hFNG55VTc3a3BDbXA1bEFxb1hzT3hEMk9jeE84M2NzM1VtTWVINGd5bE1fWlc2ZW9WZE9KcklwWTgtUy1ERnRpSVdmQnIxcXhpeFN6OW1zS25rY3hWZjN5VC1CRVF5T2xiYU1vd3BEMXl5Zw?oc=5",
+        "tags": [
+          "Gebäude-Energieberater"
         ]
       }
     ]
