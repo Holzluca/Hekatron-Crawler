@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T20:45:37.578649+00:00",
+  "generatedAt": "2026-04-23T21:40:34.204893+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,16 +127,6 @@
     ],
     "pfs": [
       {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
-        "source": "MSN",
-        "publishedAt": "2026-04-23T17:34:30+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdmJ5b0tfZFcxOG9CXzRydFJfY3o0eERiNzV6WVhrRG1PZFB4c3BfYjNvUDVsLVVfN3VGR2QtX1kzUlYyMWFpMnBFcnZ3NERnX3J2Umdhb3JpLTZRcVFkeHNEUkFmTWZRcUR0dWE3SVJ6U0hUbTFQSFV5VWNSU1hOSzk2NnZoVWVUYXVQNUZyaXlyMTNtcFJoMGVYRjhQY3pScHVmNE1xYlJDLVAzd0VIYVFicTdXZS1wRlhoX1ZCZ3JsUVFLQzlfNG51SXdlbHZ4ZU4xRm1GQkM1Q3d6V3ZfN0lfOGRHc09kTHFhREk5OTRPcmJ6Y2c5UnBR?oc=5",
-        "tags": [
-          "MSN"
-        ]
-      },
-      {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
         "source": "Tages-Anzeiger",
         "publishedAt": "2026-04-23T17:03:33+00:00",
@@ -248,6 +238,17 @@
         "tags": [
           "X-Sense"
         ]
+      },
+      {
+        "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-04-17T14:45:00+00:00",
+        "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
       }
     ],
     "doors": [
@@ -269,16 +270,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
         ]
       },
       {
@@ -352,16 +343,6 @@
         ]
       },
       {
-        "title": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee - DIE ZEIT",
-        "source": "DIE ZEIT",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNKVjhpWGZ3aHZ5R3VLYXE0NHd6RGhZNXNDaHFEYW9yT1pKcmYwUGFoSHVsbVQwTjRCeEl0cXo3VjJSeHdURjRVZGg2aGxGeEk3UVU5dmNTd3J0MFhlZEhzZTJKVkQ4ZnhWTmo1NFQtMXNHZGFIa2pUTGM3dGtqNGNLc1lmZHVKNFZsLVB3?oc=5",
-        "tags": [
-          "DIE ZEIT"
-        ]
-      },
-      {
         "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
         "source": "ZDFheute",
         "publishedAt": "2025-11-18T08:00:00+00:00",
@@ -369,6 +350,26 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
         "tags": [
           "ZDFheute"
+        ]
+      },
+      {
+        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
+        "source": "Deutschlandfunk",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
+        "tags": [
+          "Deutschlandfunk"
+        ]
+      },
+      {
+        "title": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro - Berliner Zeitung",
+        "source": "Berliner Zeitung",
+        "publishedAt": "2025-11-17T08:00:00+00:00",
+        "summary": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro Berliner Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjRCUC1OaVpPS0lwMXphcTlhQ3B3VEF3ZzJNMEhsREhWTy1qX25ta3h4d2FrZmtxY0gwaDN1d1FLSm1hVlhWZGp0Q0Ezc0M4bWFOWmxhTmdmN29wTVpHZy1kLWt0b1c3YktFQjRkVVYybkdoeTVheGtXd1dQbEdKelR4RmFvenh3SFRjMzV2ZGFQRUdXNjEzMXpBSkhPQlVoMUtleXduMVJQSFpONkJ3V290QkZqUHlEeVlEamZRcnRhbV9iUFFlcGs5Z0NCYnZVNmdOXzR5S2ZpQXh5TW1tek1uUEp0d2RkbjYyUERjQXpqdGJX?oc=5",
+        "tags": [
+          "Berliner Zeitung"
         ]
       }
     ],
@@ -391,16 +392,6 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung - News.de",
-        "source": "News.de",
-        "publishedAt": "2026-04-08T17:32:02+00:00",
-        "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
@@ -444,13 +435,13 @@
         ]
       },
       {
-        "title": "US-Angriff auf Mädchenschule im Iran: Veraltete Zieldaten wohl schuld an fatalem Fehler - Frankfurter Rundschau",
-        "source": "Frankfurter Rundschau",
-        "publishedAt": "2026-03-12T07:00:00+00:00",
-        "summary": "US-Angriff auf Mädchenschule im Iran: Veraltete Zieldaten wohl schuld an fatalem Fehler Frankfurter Rundschau",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWdRRU1nc3RvRFgzeHQ1UUNNeVZVSUNIZC1IWnhYSFR5eDhVempKZmtQNVRxY3IyQ3lGNy01YnZwc05YX243aWJDdG4wR1VuRzlBRDZHQTl6SXMxWi1EdWFHeVdkV3VhY1k4cGd1MDRLeGNYWG16Q2lMZDhpZUg2QXJUb0ItYmtOanBkN3hGOUZXZmhKdXJmLVB4YnpMZWtiUUNQaXZyc3BGM1JP?oc=5",
+        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
+        "source": "DN-News",
+        "publishedAt": "2026-03-16T07:00:00+00:00",
+        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
         "tags": [
-          "Frankfurter Rundschau"
+          "KI"
         ]
       },
       {
@@ -461,6 +452,16 @@
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Wenn das Gebäude mitdenkt - vdi-nachrichten.com",
+        "source": "vdi-nachrichten.com",
+        "publishedAt": "2026-03-09T07:00:00+00:00",
+        "summary": "Wenn das Gebäude mitdenkt vdi-nachrichten.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcWxsVHdRUll4X1R3aE13b282RTlFSU9HUTFlZlN1Y01OZC1iSGZINGNXOS1rWUpfMVJ3LTNtVTM0dkJTdm43S084dlVLYUlqbG8xanUwZ1VjZXRqVnpaRXNNWkdlRkRJMThvVDhRUDRpX1ZDOTdBVlhQVTVIWmg5VHNxUUFwZzJER3IyMlg5SWRLcE9Ib0E?oc=5",
+        "tags": [
+          "vdi-nachrichten.com"
         ]
       },
       {
