@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T10:03:15.879283+00:00",
+  "generatedAt": "2026-04-23T11:38:09.141512+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -49,6 +49,16 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -113,16 +123,6 @@
         "tags": [
           "Bosch"
         ]
-      },
-      {
-        "title": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert - stuttgarter-nachrichten.de",
-        "source": "stuttgarter-nachrichten.de",
-        "publishedAt": "2026-01-13T08:00:00+00:00",
-        "summary": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert stuttgarter-nachrichten.de",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUGZ2RUJ4WVFaaU0ySkFycjNmNF8tQXpnR1pVVHVzVjZ0Y3hRZjVvNjAwSU9ORGNFcFVSUDA1WXZrUjd4LXVNWW9tNWJJUThZTTJJd2drdmJTbTJOTGZFdlVJY1k3QkQ0ZnB0eGpXSjNnWkFJcmQyS2lWWFFLdld0YjdULXR1bHZRS0U0TTZONmdEcElqZGlmSGhqSnpIZnNDVGRScGFlUGxkc3lPSVo1T2RyR08wM2RWaUY4Q3RldHlTT0JwR3hLaHJkOEVjdnhaVVc1SEY1NTRQQTEzZGRiNFd4UEhYTUZialhwTjlsSHJYRFlDOE5fS3QwNHNjWk1xZzFydw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "pfs": [
@@ -134,6 +134,16 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRnJkVkh2aHBFMW9TdWhwQU1McUdFc0U4c09vcnhTN0VXS2RGRjRLWGlBWWI3dDg1UFVPSXBWMXVZM1hkVjdWeXJ2b0p1dW5WYkF3U0hpbmVPaGJoTTJqWDJuRDJBZ2pvSmotbU9Xa0JRdzFVcXBXcEQzeV90cVhPc0xaTkx5cVJmcEIzY1FVT3RxUVlUT1lKSXNGWW1YRkRhbGJob1FkMkFHR3V1aXhTVkFNSXA2eHJvTHJZXzViOFZjQWVyYnJTcWlJSUJST2FsNXA3NmdOYTV1WTlIbnRJ?oc=5",
         "tags": [
           "Spiegel"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest muss Schadenersatz zahlen - Wirtschaft - SZ.de - SZ.de",
+        "source": "SZ.de",
+        "publishedAt": "2026-04-23T09:46:06+00:00",
+        "summary": "Stiftung Warentest muss Schadenersatz zahlen - Wirtschaft - SZ.de SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDRPLVVKXzRscVhiOEhzZVQwemtxUTdDMVpsNEpSdlFHU0YzdkFGMEFUTldVdlk5ZDRXQ3dUQVQzekJCZVZ5Y3UyNUxRWm1kcWlpZUVzU2JrN1BqSjl3YmtJeE0zci13Wkp2NW9xUm85SWtRNTE4SXR0Wk1Uc25tR3lqaExreDdyZXJ6ZXlLSlRuekgw?oc=5",
+        "tags": [
+          "SZ.de"
         ]
       },
       {
@@ -237,16 +247,6 @@
         "publishedAt": "2026-04-07T07:00:00+00:00",
         "summary": "Test: Der beste Kohlenmonoxid-Melder FAZ",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTDRrc05PblNKcFI2V1RFSG1CVmhQUEVQNFdUT0FnQ0FMOWlkejRYbXFLVVhma3IycjU1UkJ5UktvbklBNHFSUFItam1BcHZoOWY0d3RYNXdvaHgzVzMycXM3c0JSazBRQ0RjNDI1X0VCYUM4Z0ZV?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
-      {
-        "title": "Test: Das beste smarte Thermostat - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-07T07:00:00+00:00",
-        "summary": "Test: Das beste smarte Thermostat FAZ",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdXA2bGI4am80T1hnOWVOcmwxUHFIVE9pT1ltWjJtb1JiOWpGXzZhX0JZVkNKblFmZkJyemhrX2F5ZEFjVEFaUjV0ekFTaVByTzFaLU90MDl2RmtvNjhTOEZSeWh4ZlcyYlNMNlp6NEZEblE?oc=5",
         "tags": [
           "FAZ"
         ]
@@ -364,13 +364,13 @@
         ]
       },
       {
-        "title": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee - DIE ZEIT",
-        "source": "DIE ZEIT",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNKVjhpWGZ3aHZ5R3VLYXE0NHd6RGhZNXNDaHFEYW9yT1pKcmYwUGFoSHVsbVQwTjRCeEl0cXo3VjJSeHdURjRVZGg2aGxGeEk3UVU5dmNTd3J0MFhlZEhzZTJKVkQ4ZnhWTmo1NFQtMXNHZGFIa2pUTGM3dGtqNGNLc1lmZHVKNFZsLVB3?oc=5",
+        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
+        "source": "ZDFheute",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
         "tags": [
-          "DIE ZEIT"
+          "ZDFheute"
         ]
       }
     ],
