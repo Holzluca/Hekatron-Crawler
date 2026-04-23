@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T19:48:59.780697+00:00",
+  "generatedAt": "2026-04-23T20:45:37.578649+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,21 +127,21 @@
     ],
     "pfs": [
       {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-23T17:34:30+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdmJ5b0tfZFcxOG9CXzRydFJfY3o0eERiNzV6WVhrRG1PZFB4c3BfYjNvUDVsLVVfN3VGR2QtX1kzUlYyMWFpMnBFcnZ3NERnX3J2Umdhb3JpLTZRcVFkeHNEUkFmTWZRcUR0dWE3SVJ6U0hUbTFQSFV5VWNSU1hOSzk2NnZoVWVUYXVQNUZyaXlyMTNtcFJoMGVYRjhQY3pScHVmNE1xYlJDLVAzd0VIYVFicTdXZS1wRlhoX1ZCZ3JsUVFLQzlfNG51SXdlbHZ4ZU4xRm1GQkM1Q3d6V3ZfN0lfOGRHc09kTHFhREk5OTRPcmJ6Y2c5UnBR?oc=5",
+        "tags": [
+          "MSN"
+        ]
+      },
+      {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
         "source": "Tages-Anzeiger",
         "publishedAt": "2026-04-23T17:03:33+00:00",
         "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Urteil hat schwerwiegende Folgen für Stiftung Warentest - WEB.DE",
-        "source": "WEB.DE",
-        "publishedAt": "2026-04-23T13:21:36+00:00",
-        "summary": "Urteil hat schwerwiegende Folgen für Stiftung Warentest WEB.DE",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkxRdEZIZ3RBMHFFOW9lNk0tVDBvQVN4OXFSSzVIQ2FaeXh3aHdyaURha3J2d1Nic1ZUOU8zQzRpVS1keVQwSGZQaGxPc01mZV9jSlZNa0dNNFAyc29UcEh2TTdKZk52ZmJGNnZ0YlN4UVpTRWl1bFZXWElZVVRVQTFOQkVvbDk0MVFsOWJGSjlaQi1EaF80ZUhPOFVxNVBYaVZGRmJwT3RtdWljYUt3?oc=5",
         "tags": [
           "Ei"
         ]
@@ -352,6 +352,16 @@
         ]
       },
       {
+        "title": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee - DIE ZEIT",
+        "source": "DIE ZEIT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNKVjhpWGZ3aHZ5R3VLYXE0NHd6RGhZNXNDaHFEYW9yT1pKcmYwUGFoSHVsbVQwTjRCeEl0cXo3VjJSeHdURjRVZGg2aGxGeEk3UVU5dmNTd3J0MFhlZEhzZTJKVkQ4ZnhWTmo1NFQtMXNHZGFIa2pUTGM3dGtqNGNLc1lmZHVKNFZsLVB3?oc=5",
+        "tags": [
+          "DIE ZEIT"
+        ]
+      },
+      {
         "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
         "source": "ZDFheute",
         "publishedAt": "2025-11-18T08:00:00+00:00",
@@ -359,16 +369,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
         "tags": [
           "ZDFheute"
-        ]
-      },
-      {
-        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
-        "source": "Deutschlandfunk",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
-        "tags": [
-          "Deutschlandfunk"
         ]
       }
     ],
@@ -391,6 +391,16 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung - News.de",
+        "source": "News.de",
+        "publishedAt": "2026-04-08T17:32:02+00:00",
+        "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -434,6 +444,16 @@
         ]
       },
       {
+        "title": "US-Angriff auf Mädchenschule im Iran: Veraltete Zieldaten wohl schuld an fatalem Fehler - Frankfurter Rundschau",
+        "source": "Frankfurter Rundschau",
+        "publishedAt": "2026-03-12T07:00:00+00:00",
+        "summary": "US-Angriff auf Mädchenschule im Iran: Veraltete Zieldaten wohl schuld an fatalem Fehler Frankfurter Rundschau",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWdRRU1nc3RvRFgzeHQ1UUNNeVZVSUNIZC1IWnhYSFR5eDhVempKZmtQNVRxY3IyQ3lGNy01YnZwc05YX243aWJDdG4wR1VuRzlBRDZHQTl6SXMxWi1EdWFHeVdkV3VhY1k4cGd1MDRLeGNYWG16Q2lMZDhpZUg2QXJUb0ItYmtOanBkN3hGOUZXZmhKdXJmLVB4YnpMZWtiUUNQaXZyc3BGM1JP?oc=5",
+        "tags": [
+          "Frankfurter Rundschau"
+        ]
+      },
+      {
         "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
         "source": "Allgäuer Zeitung",
         "publishedAt": "2026-03-11T07:00:00+00:00",
@@ -471,26 +491,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNE5jci0yWVViUWwwVnVzeXNqRzdoZXctc1ZsNl8ya0VDRTR6VXR3TS04QUNmNkVnTGJ0SUhWc0h1azhXaGlaTF83UUZlUmVRY1l2QzV1UHRyT2VGUnBsalVlZnV3aDQzOENmYm4teWlGWlVRVTdNa0V0eVVQN2NnV3BTQlVBemM?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "DGNB schärft System für Gebäude im Betrieb - immobilienmanager",
-        "source": "immobilienmanager",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "DGNB schärft System für Gebäude im Betrieb immobilienmanager",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
-        "tags": [
-          "immobilienmanager"
-        ]
-      },
-      {
-        "title": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-02-08T08:00:00+00:00",
-        "summary": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE1SMUV4U1YzZ2dyMm11VUtYM0tQTUFjOWNjME5rcm5OTnozcVFrS1JnZW9qUWhhUmlLUjIyM3g4VVFvNXVfcF9RU2hFNG55VTc3a3BDbXA1bEFxb1hzT3hEMk9jeE84M2NzM1VtTWVINGd5bE1fWlc2ZW9WZE9KcklwWTgtUy1ERnRpSVdmQnIxcXhpeFN6OW1zS25rY3hWZjN5VC1CRVF5T2xiYU1vd3BEMXl5Zw?oc=5",
-        "tags": [
-          "Gebäude-Energieberater"
         ]
       }
     ]
