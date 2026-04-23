@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T06:01:45.520366+00:00",
+  "generatedAt": "2026-04-23T08:17:31.402090+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T05:19:00+00:00",
+        "summary": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblB3TmVYWW43LUM1Tnluakw2MUZPdnU1c0gtQ1hQYURpT25OS1Itb0lHazlXclFTWE0xamJVaXBJTlVsQW9ZQ3Rva0M0U3hvcElsakR1ZzdiMERLejFER0x3ejVXbTV4ZUR2WnJzTE5mZzl4SDlSSXRRNFk5Z1BmbVdGeFAzbUhfWkI2QzN5clBpSG1yVFpQSjFGTjlPWU1MbDlUTGV4Q1E5cndYTGlOaUNnZENQME9STkx6el9vX2c?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
+      },
+      {
         "title": "Bosch Home Comfort erweitert Sicherheitswarnung für Therm 4300 Geräte - mobiFlip",
         "source": "mobiFlip",
         "publishedAt": "2026-04-22T12:37:27+00:00",
@@ -241,17 +251,6 @@
           "Ei",
           "Bosch"
         ]
-      },
-      {
-        "title": "Bosch Smart Home: Home+ kommt jetzt auch für Android - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-03-25T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Home+ kommt jetzt auch für Android Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDhTUmZVczQtWE9zdmZwMzg3WmJmY2VUWTFIQnQ1dXNrbGMyMjhyaW8zLXhYSlpON3VoNkFiSzBCOW1KZHpnTVE2OTFMYnM1ZlFianRDRFk2Ukh1YVlZOHc0UmhBbDFuYlVoX0IzbmFkLTlvYzZodkZuV29STnotTEZfRWlSblhN?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
@@ -273,6 +272,16 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
         ]
       },
       {
@@ -346,6 +355,16 @@
         ]
       },
       {
+        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
+        "source": "WELT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
+        "tags": [
+          "WELT"
+        ]
+      },
+      {
         "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
         "source": "ZDFheute",
         "publishedAt": "2025-11-18T08:00:00+00:00",
@@ -353,26 +372,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
         "tags": [
           "ZDFheute"
-        ]
-      },
-      {
-        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
-        "source": "Deutschlandfunk",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
-        "tags": [
-          "Deutschlandfunk"
-        ]
-      },
-      {
-        "title": "„Sind Minister der Bundesregierung käuflich, Herr Weimer?“ - WELT",
-        "source": "WELT",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "„Sind Minister der Bundesregierung käuflich, Herr Weimer?“ WELT",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdkRCYTRUVjl0MFVrVnYyUmxrLWNUdGNYQmltLXZaUWhXM2swcDE1a1RzQURMVkkyUDFUNUNvMlREMzB6YjBKbnU0U2p4SjRTNjVJd2J6cUlGaDQ2S1RRRkdNTUZNYWl6REFxN2Q4dDRKN2NWd1FXNEU3WlUtN0VsR1AtVjZjcms2MXZMUUp4bG1nLUpLaFlZMjZaZHF6TnI2ZkwwZzdDYUxycnFuMTVoeXUxN3JwNVVmRmwxdFRfdzdXVG42a3Y0UjVTLTNmcmtJTnI5S0VSam5DMklT?oc=5",
-        "tags": [
-          "WELT"
         ]
       }
     ],
