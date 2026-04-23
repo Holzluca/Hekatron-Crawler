@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T16:58:35.246249+00:00",
+  "generatedAt": "2026-04-23T18:07:39.461945+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
+        "publishedAt": "2026-04-23T17:03:33+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
         "source": "WirtschaftsWoche",
         "publishedAt": "2026-04-23T12:26:39+00:00",
@@ -145,17 +155,6 @@
         "tags": [
           "Ei",
           "Pyrexx"
-        ]
-      },
-      {
-        "title": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-04-23T11:35:00+00:00",
-        "summary": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN0dMeXZhSzEzcHAtenpfY2RiMDZObmFMUWhwYkVQaWd3X0daQnNaSDlxRzVaOV9IdFhWMXliYVA2NW1DdzNsa0RDLVdNUzdNdER3REZSRERmUXRzSXlIVmJxZWIxX3V1V291VmFFWTI3d2JfZWhTZDRFOWo0ZzEteWNzVGxiYTF3WDFFNmdmTVotbVo3cDdhSmY1cnZmY1QtTzBwSWRoT0thY0U1dHVSRmh1clVVcVl4LVQzX0FHRGFzdkppNmc?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       },
       {
@@ -221,6 +220,16 @@
         ]
       },
       {
+        "title": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-20T07:33:18+00:00",
+        "summary": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1p1ZG1TaHJLSHNvYWFLRnRhUng2UkZFNE9LVDRoOUtrMW1oTVBmMVJEWkFETmlKOFZyUDNoeGVYWHZwZDl0YkVtcUF4NW1ZdWdHTXdROGRud2ZKa05vaDQyQnVnODNKX2hWWHdYVVJUYzI3dVIyWl9CYTU1UW5wZGhtUU5ZVEczMGlUN3NMZmRJNXpHa0Zud0xibFB2RlM2WDgyekk0Y0I?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ - klamm.de",
         "source": "klamm.de",
         "publishedAt": "2026-04-17T18:51:03+00:00",
@@ -237,18 +246,6 @@
         "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
         "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T09:11:48+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
-        "tags": [
-          "Ei",
           "Bosch",
           "Smart Home"
         ]
@@ -356,23 +353,23 @@
         ]
       },
       {
-        "title": "Ørsted-Aktie: Deal unter Dach und Fach! - Finanztrends",
-        "source": "Finanztrends",
-        "publishedAt": "2025-12-30T08:00:00+00:00",
-        "summary": "Ørsted-Aktie: Deal unter Dach und Fach! Finanztrends",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hclgxOHBUZWlUR0hUWElBS3lSQ0NxUmtxaE5kODcyVHpEQ3UtcW5TZHFKQmp0RzJZZTRUdWVxU0tJTTFTWDdxY2ZMaVJiSFhXc3FreWN6dnMxUjQ1VmQ3S01vdmxMenRaUTlfc0NsYkxaY3Uyenc?oc=5",
+        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
+        "source": "WELT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
         "tags": [
-          "Finanztrends"
+          "WELT"
         ]
       },
       {
-        "title": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee - DIE ZEIT",
-        "source": "DIE ZEIT",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNKVjhpWGZ3aHZ5R3VLYXE0NHd6RGhZNXNDaHFEYW9yT1pKcmYwUGFoSHVsbVQwTjRCeEl0cXo3VjJSeHdURjRVZGg2aGxGeEk3UVU5dmNTd3J0MFhlZEhzZTJKVkQ4ZnhWTmo1NFQtMXNHZGFIa2pUTGM3dGtqNGNLc1lmZHVKNFZsLVB3?oc=5",
+        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
+        "source": "ZDFheute",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
         "tags": [
-          "DIE ZEIT"
+          "ZDFheute"
         ]
       }
     ],
@@ -385,6 +382,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUJ3NjJqc1VWckhaLVQ3QjY5NUVoREpMM0pZdk14SkR4bkEyc3FWcnZMeDZTLUZqLVE2a1FJSHE3UVBiVUFtZkExXzh6SmhYRHhFWERyOS1FcTItWG5HZTNGMmFIaExWajZCMk9BVE1yVzIwUnlqOHJEQ3RMXzZnSUpTNXVlVG9DamhSMGRxRDlndFR4cTBZczlZOWdoSVk4N0FSQzJ3QlZ2RThpOWV5VTZiZHZGSEtIaUlodEZjQlhBMlhEM0dtWDJOOFVjNGRxUGRNUHl3WXdVR0FXY2l5SXF0cTNRQQ?oc=5",
         "tags": [
           "Rheinische Anzeigenblätter"
+        ]
+      },
+      {
+        "title": "FM3 beanstanden ESG-Berichterstattung - Der Facility Manager",
+        "source": "Der Facility Manager",
+        "publishedAt": "2026-04-15T09:13:49+00:00",
+        "summary": "FM3 beanstanden ESG-Berichterstattung Der Facility Manager",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUsyd0RsYjVyT3FzNDZvaUtMRWY1b1pHN2NQaEY0YzJhTDJaZGM5VEZTS0c0RXZFM2ZSSk9Tb0VpcUJaeWpLRU0wWnhkaEh3R3BwcjFCM0M5N2JfbmFXMTJ1QkE3c2tyMlpjREw3cEZtRmhiTThjMlhMNEl2emc1YTY3bXFoUXc?oc=5",
+        "tags": [
+          "ESG"
         ]
       },
       {
@@ -485,16 +492,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
         "tags": [
           "immobilienmanager"
-        ]
-      },
-      {
-        "title": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-02-08T08:00:00+00:00",
-        "summary": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE1SMUV4U1YzZ2dyMm11VUtYM0tQTUFjOWNjME5rcm5OTnozcVFrS1JnZW9qUWhhUmlLUjIyM3g4VVFvNXVfcF9RU2hFNG55VTc3a3BDbXA1bEFxb1hzT3hEMk9jeE84M2NzM1VtTWVINGd5bE1fWlc2ZW9WZE9KcklwWTgtUy1ERnRpSVdmQnIxcXhpeFN6OW1zS25rY3hWZjN5VC1CRVF5T2xiYU1vd3BEMXl5Zw?oc=5",
-        "tags": [
-          "Gebäude-Energieberater"
         ]
       }
     ]
