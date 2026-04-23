@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T13:14:32.096318+00:00",
+  "generatedAt": "2026-04-23T15:25:29.439490+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,7 +129,7 @@
       {
         "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
         "source": "WirtschaftsWoche",
-        "publishedAt": "2026-04-23T12:13:00+00:00",
+        "publishedAt": "2026-04-23T12:26:39+00:00",
         "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
         "tags": [
@@ -169,13 +169,13 @@
         ]
       },
       {
-        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - STERN.de",
-        "source": "STERN.de",
-        "publishedAt": "2026-04-23T09:15:03+00:00",
-        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test STERN.de",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGJKaWpPNFg4M3JxT1dvSk9MSHF3cDZKbUR2SHRKMDFubk1IYTRJNVRUUmM5UnRHX0dIS2RSLWU4ZGo5WVYySVMyUlJ5QVY0RHFjWmNNSjNCS0VSQVI0cXFuUjFLSDB2SnBqeFFKV25uMXNLWFd0SWVmY1pQbWVZdndnVlNJR2E5TXNKZ3psUVA0Tlk3Q25JZGEySXM4X2p1bnA5aDRwYXB4c1ZPWEJOZF9lM2hRcGlVSEhGa053QVp2SHRxR0ZN?oc=5",
+        "title": "Stiftung Warentest muss Schadenersatz zahlen - Wirtschaft - SZ.de - SZ.de",
+        "source": "SZ.de",
+        "publishedAt": "2026-04-23T09:46:06+00:00",
+        "summary": "Stiftung Warentest muss Schadenersatz zahlen - Wirtschaft - SZ.de SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDRPLVVKXzRscVhiOEhzZVQwemtxUTdDMVpsNEpSdlFHU0YzdkFGMEFUTldVdlk5ZDRXQ3dUQVQzekJCZVZ5Y3UyNUxRWm1kcWlpZUVzU2JrN1BqSjl3YmtJeE0zci13Wkp2NW9xUm85SWtRNTE4SXR0Wk1Uc25tR3lqaExreDdyZXJ6ZXlLSlRuekgw?oc=5",
         "tags": [
-          "STERN.de"
+          "SZ.de"
         ]
       },
       {
@@ -221,16 +221,6 @@
         ]
       },
       {
-        "title": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-20T07:33:18+00:00",
-        "summary": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1p1ZG1TaHJLSHNvYWFLRnRhUng2UkZFNE9LVDRoOUtrMW1oTVBmMVJEWkFETmlKOFZyUDNoeGVYWHZwZDl0YkVtcUF4NW1ZdWdHTXdROGRud2ZKa05vaDQyQnVnODNKX2hWWHdYVVJUYzI3dVIyWl9CYTU1UW5wZGhtUU5ZVEczMGlUN3NMZmRJNXpHa0Zud0xibFB2RlM2WDgyekk0Y0I?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ - klamm.de",
         "source": "klamm.de",
         "publishedAt": "2026-04-17T18:51:03+00:00",
@@ -247,6 +237,18 @@
         "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
         "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T09:11:48+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "tags": [
+          "Ei",
           "Bosch",
           "Smart Home"
         ]
@@ -354,23 +356,23 @@
         ]
       },
       {
-        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
-        "source": "ZDFheute",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
+        "title": "Ørsted-Aktie: Deal unter Dach und Fach! - Finanztrends",
+        "source": "Finanztrends",
+        "publishedAt": "2025-12-30T08:00:00+00:00",
+        "summary": "Ørsted-Aktie: Deal unter Dach und Fach! Finanztrends",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hclgxOHBUZWlUR0hUWElBS3lSQ0NxUmtxaE5kODcyVHpEQ3UtcW5TZHFKQmp0RzJZZTRUdWVxU0tJTTFTWDdxY2ZMaVJiSFhXc3FreWN6dnMxUjQ1VmQ3S01vdmxMenRaUTlfc0NsYkxaY3Uyenc?oc=5",
         "tags": [
-          "ZDFheute"
+          "Finanztrends"
         ]
       },
       {
-        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
-        "source": "Deutschlandfunk",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
+        "title": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee - DIE ZEIT",
+        "source": "DIE ZEIT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNKVjhpWGZ3aHZ5R3VLYXE0NHd6RGhZNXNDaHFEYW9yT1pKcmYwUGFoSHVsbVQwTjRCeEl0cXo3VjJSeHdURjRVZGg2aGxGeEk3UVU5dmNTd3J0MFhlZEhzZTJKVkQ4ZnhWTmo1NFQtMXNHZGFIa2pUTGM3dGtqNGNLc1lmZHVKNFZsLVB3?oc=5",
         "tags": [
-          "Deutschlandfunk"
+          "DIE ZEIT"
         ]
       }
     ],
