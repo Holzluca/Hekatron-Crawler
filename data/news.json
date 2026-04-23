@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T22:38:52.195468+00:00",
+  "generatedAt": "2026-04-23T23:39:46.141924+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-23T18:34:30+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdmJ5b0tfZFcxOG9CXzRydFJfY3o0eERiNzV6WVhrRG1PZFB4c3BfYjNvUDVsLVVfN3VGR2QtX1kzUlYyMWFpMnBFcnZ3NERnX3J2Umdhb3JpLTZRcVFkeHNEUkFmTWZRcUR0dWE3SVJ6U0hUbTFQSFV5VWNSU1hOSzk2NnZoVWVUYXVQNUZyaXlyMTNtcFJoMGVYRjhQY3pScHVmNE1xYlJDLVAzd0VIYVFicTdXZS1wRlhoX1ZCZ3JsUVFLQzlfNG51SXdlbHZ4ZU4xRm1GQkM1Q3d6V3ZfN0lfOGRHc09kTHFhREk5OTRPcmJ6Y2c5UnBR?oc=5",
+        "tags": [
+          "MSN"
+        ]
+      },
+      {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
         "source": "Tages-Anzeiger",
         "publishedAt": "2026-04-23T17:03:33+00:00",
@@ -237,17 +247,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-04-17T14:45:00+00:00",
-        "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       }
     ],
