@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T08:17:31.402090+00:00",
+  "generatedAt": "2026-04-23T10:03:15.879283+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -49,16 +49,6 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -123,9 +113,39 @@
         "tags": [
           "Bosch"
         ]
+      },
+      {
+        "title": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert - stuttgarter-nachrichten.de",
+        "source": "stuttgarter-nachrichten.de",
+        "publishedAt": "2026-01-13T08:00:00+00:00",
+        "summary": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert stuttgarter-nachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUGZ2RUJ4WVFaaU0ySkFycjNmNF8tQXpnR1pVVHVzVjZ0Y3hRZjVvNjAwSU9ORGNFcFVSUDA1WXZrUjd4LXVNWW9tNWJJUThZTTJJd2drdmJTbTJOTGZFdlVJY1k3QkQ0ZnB0eGpXSjNnWkFJcmQyS2lWWFFLdld0YjdULXR1bHZRS0U0TTZONmdEcElqZGlmSGhqSnpIZnNDVGRScGFlUGxkc3lPSVo1T2RyR08wM2RWaUY4Q3RldHlTT0JwR3hLaHJkOEVjdnhaVVc1SEY1NTRQQTEzZGRiNFd4UEhYTUZialhwTjlsSHJYRFlDOE5fS3QwNHNjWk1xZzFydw?oc=5",
+        "tags": [
+          "Bosch"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T10:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRnJkVkh2aHBFMW9TdWhwQU1McUdFc0U4c09vcnhTN0VXS2RGRjRLWGlBWWI3dDg1UFVPSXBWMXVZM1hkVjdWeXJ2b0p1dW5WYkF3U0hpbmVPaGJoTTJqWDJuRDJBZ2pvSmotbU9Xa0JRdzFVcXBXcEQzeV90cVhPc0xaTkx5cVJmcEIzY1FVT3RxUVlUT1lKSXNGWW1YRkRhbGJob1FkMkFHR3V1aXhTVkFNSXA2eHJvTHJZXzViOFZjQWVyYnJTcWlJSUJST2FsNXA3NmdOYTV1WTlIbnRJ?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
+      },
+      {
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - STERN.de",
+        "source": "STERN.de",
+        "publishedAt": "2026-04-23T09:15:03+00:00",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test STERN.de",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGJKaWpPNFg4M3JxT1dvSk9MSHF3cDZKbUR2SHRKMDFubk1IYTRJNVRUUmM5UnRHX0dIS2RSLWU4ZGo5WVYySVMyUlJ5QVY0RHFjWmNNSjNCS0VSQVI0cXFuUjFLSDB2SnBqeFFKV25uMXNLWFd0SWVmY1pQbWVZdndnVlNJR2E5TXNKZ3psUVA0Tlk3Q25JZGEySXM4X2p1bnA5aDRwYXB4c1ZPWEJOZF9lM2hRcGlVSEhGa053QVp2SHRxR0ZN?oc=5",
+        "tags": [
+          "STERN.de"
+        ]
+      },
       {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
@@ -229,27 +249,6 @@
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdXA2bGI4am80T1hnOWVOcmwxUHFIVE9pT1ltWjJtb1JiOWpGXzZhX0JZVkNKblFmZkJyemhrX2F5ZEFjVEFaUjV0ekFTaVByTzFaLU90MDl2RmtvNjhTOEZSeWh4ZlcyYlNMNlp6NEZEblE?oc=5",
         "tags": [
           "FAZ"
-        ]
-      },
-      {
-        "title": "ABUS PREFIRA SMART SX3050M: Smarter Rauchmelder mit Matter und Thread hat einen Preis - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-03-29T07:00:00+00:00",
-        "summary": "ABUS PREFIRA SMART SX3050M: Smarter Rauchmelder mit Matter und Thread hat einen Preis Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVc1N3V4RjM1Sk00TkJIM1hXYURGMURRYkdhR29mZ1FxekIzV29VdHlsc3V5WFdmTWdzWUhGR3o5VjBOcFVrVktNM3dqSmdEbklyUTBqOHk3eTQ0aklLQXRtLTE3d1dWV0duVV8zcVBmTTliSjJjTXdLZTZrb1JDdkxwOXYyVVMxRjBRSENFTndUVTdFcDdpV2dIc1h0bndpblJGWjMzUDN6NTBNRlhqVEhPSkY?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Smarte Fußbodenheizung: Dieses Bosch-Set drückt den Preis gewaltig - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Smarte Fußbodenheizung: Dieses Bosch-Set drückt den Preis gewaltig Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1c3UmI2NjdaSHZaQ0RGYk9kYzk0XzBiNUJsVlpCdlNCZFRZa0kyZzJ0MS1hN2RtSkdGcENER1pqejhCbHphRVF4NG5lYWRFY0VlMmNJX1RvMlpKYU50VUNZTWJJY2FNTTJXcEkzVjVZR054N1ZPOHQ0ZENNWnMtczhRVUhOdXNYNEdwUy0zbW1Rd2RxTG1GZTB5aWJhV25TOThGX3h2T2tUN29rNms0ZFBCTjBxZw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       }
     ],
@@ -365,13 +364,13 @@
         ]
       },
       {
-        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
-        "source": "ZDFheute",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
+        "title": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee - DIE ZEIT",
+        "source": "DIE ZEIT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNKVjhpWGZ3aHZ5R3VLYXE0NHd6RGhZNXNDaHFEYW9yT1pKcmYwUGFoSHVsbVQwTjRCeEl0cXo3VjJSeHdURjRVZGg2aGxGeEk3UVU5dmNTd3J0MFhlZEhzZTJKVkQ4ZnhWTmo1NFQtMXNHZGFIa2pUTGM3dGtqNGNLc1lmZHVKNFZsLVB3?oc=5",
         "tags": [
-          "ZDFheute"
+          "DIE ZEIT"
         ]
       }
     ],
