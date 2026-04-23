@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T18:07:39.461945+00:00",
+  "generatedAt": "2026-04-23T19:48:59.780697+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -137,6 +137,16 @@
         ]
       },
       {
+        "title": "Urteil hat schwerwiegende Folgen für Stiftung Warentest - WEB.DE",
+        "source": "WEB.DE",
+        "publishedAt": "2026-04-23T13:21:36+00:00",
+        "summary": "Urteil hat schwerwiegende Folgen für Stiftung Warentest WEB.DE",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkxRdEZIZ3RBMHFFOW9lNk0tVDBvQVN4OXFSSzVIQ2FaeXh3aHdyaURha3J2d1Nic1ZUOU8zQzRpVS1keVQwSGZQaGxPc01mZV9jSlZNa0dNNFAyc29UcEh2TTdKZk52ZmJGNnZ0YlN4UVpTRWl1bFZXWElZVVRVQTFOQkVvbDk0MVFsOWJGSjlaQi1EaF80ZUhPOFVxNVBYaVZGRmJwT3RtdWljYUt3?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
         "source": "WirtschaftsWoche",
         "publishedAt": "2026-04-23T12:26:39+00:00",
@@ -237,17 +247,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-04-17T14:45:00+00:00",
-        "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       }
     ],
@@ -353,16 +352,6 @@
         ]
       },
       {
-        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
-        "source": "WELT",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
-        "tags": [
-          "WELT"
-        ]
-      },
-      {
         "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
         "source": "ZDFheute",
         "publishedAt": "2025-11-18T08:00:00+00:00",
@@ -370,6 +359,16 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
         "tags": [
           "ZDFheute"
+        ]
+      },
+      {
+        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
+        "source": "Deutschlandfunk",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
+        "tags": [
+          "Deutschlandfunk"
         ]
       }
     ],
@@ -382,16 +381,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUJ3NjJqc1VWckhaLVQ3QjY5NUVoREpMM0pZdk14SkR4bkEyc3FWcnZMeDZTLUZqLVE2a1FJSHE3UVBiVUFtZkExXzh6SmhYRHhFWERyOS1FcTItWG5HZTNGMmFIaExWajZCMk9BVE1yVzIwUnlqOHJEQ3RMXzZnSUpTNXVlVG9DamhSMGRxRDlndFR4cTBZczlZOWdoSVk4N0FSQzJ3QlZ2RThpOWV5VTZiZHZGSEtIaUlodEZjQlhBMlhEM0dtWDJOOFVjNGRxUGRNUHl3WXdVR0FXY2l5SXF0cTNRQQ?oc=5",
         "tags": [
           "Rheinische Anzeigenblätter"
-        ]
-      },
-      {
-        "title": "FM3 beanstanden ESG-Berichterstattung - Der Facility Manager",
-        "source": "Der Facility Manager",
-        "publishedAt": "2026-04-15T09:13:49+00:00",
-        "summary": "FM3 beanstanden ESG-Berichterstattung Der Facility Manager",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUsyd0RsYjVyT3FzNDZvaUtMRWY1b1pHN2NQaEY0YzJhTDJaZGM5VEZTS0c0RXZFM2ZSSk9Tb0VpcUJaeWpLRU0wWnhkaEh3R3BwcjFCM0M5N2JfbmFXMTJ1QkE3c2tyMlpjREw3cEZtRmhiTThjMlhMNEl2emc1YTY3bXFoUXc?oc=5",
-        "tags": [
-          "ESG"
         ]
       },
       {
@@ -492,6 +481,16 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
         "tags": [
           "immobilienmanager"
+        ]
+      },
+      {
+        "title": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-02-08T08:00:00+00:00",
+        "summary": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE1SMUV4U1YzZ2dyMm11VUtYM0tQTUFjOWNjME5rcm5OTnozcVFrS1JnZW9qUWhhUmlLUjIyM3g4VVFvNXVfcF9RU2hFNG55VTc3a3BDbXA1bEFxb1hzT3hEMk9jeE84M2NzM1VtTWVINGd5bE1fWlc2ZW9WZE9KcklwWTgtUy1ERnRpSVdmQnIxcXhpeFN6OW1zS25rY3hWZjN5VC1CRVF5T2xiYU1vd3BEMXl5Zw?oc=5",
+        "tags": [
+          "Gebäude-Energieberater"
         ]
       }
     ]
