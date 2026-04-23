@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T21:40:34.204893+00:00",
+  "generatedAt": "2026-04-23T22:38:52.195468+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -273,6 +273,16 @@
         ]
       },
       {
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
+        ]
+      },
+      {
         "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
         "source": "Gebäude-Energieberater",
         "publishedAt": "2026-03-03T08:00:00+00:00",
@@ -361,16 +371,6 @@
         "tags": [
           "Deutschlandfunk"
         ]
-      },
-      {
-        "title": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro - Berliner Zeitung",
-        "source": "Berliner Zeitung",
-        "publishedAt": "2025-11-17T08:00:00+00:00",
-        "summary": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro Berliner Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjRCUC1OaVpPS0lwMXphcTlhQ3B3VEF3ZzJNMEhsREhWTy1qX25ta3h4d2FrZmtxY0gwaDN1d1FLSm1hVlhWZGp0Q0Ezc0M4bWFOWmxhTmdmN29wTVpHZy1kLWt0b1c3YktFQjRkVVYybkdoeTVheGtXd1dQbEdKelR4RmFvenh3SFRjMzV2ZGFQRUdXNjEzMXpBSkhPQlVoMUtleXduMVJQSFpONkJ3V290QkZqUHlEeVlEamZRcnRhbV9iUFFlcGs5Z0NCYnZVNmdOXzR5S2ZpQXh5TW1tek1uUEp0d2RkbjYyUERjQXpqdGJX?oc=5",
-        "tags": [
-          "Berliner Zeitung"
-        ]
       }
     ],
     "trends": [
@@ -435,16 +435,6 @@
         ]
       },
       {
-        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
-        "source": "DN-News",
-        "publishedAt": "2026-03-16T07:00:00+00:00",
-        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
         "source": "Allgäuer Zeitung",
         "publishedAt": "2026-03-11T07:00:00+00:00",
@@ -452,16 +442,6 @@
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Wenn das Gebäude mitdenkt - vdi-nachrichten.com",
-        "source": "vdi-nachrichten.com",
-        "publishedAt": "2026-03-09T07:00:00+00:00",
-        "summary": "Wenn das Gebäude mitdenkt vdi-nachrichten.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcWxsVHdRUll4X1R3aE13b282RTlFSU9HUTFlZlN1Y01OZC1iSGZINGNXOS1rWUpfMVJ3LTNtVTM0dkJTdm43S084dlVLYUlqbG8xanUwZ1VjZXRqVnpaRXNNWkdlRkRJMThvVDhRUDRpX1ZDOTdBVlhQVTVIWmg5VHNxUUFwZzJER3IyMlg5SWRLcE9Ib0E?oc=5",
-        "tags": [
-          "vdi-nachrichten.com"
         ]
       },
       {
@@ -492,6 +472,26 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNE5jci0yWVViUWwwVnVzeXNqRzdoZXctc1ZsNl8ya0VDRTR6VXR3TS04QUNmNkVnTGJ0SUhWc0h1azhXaGlaTF83UUZlUmVRY1l2QzV1UHRyT2VGUnBsalVlZnV3aDQzOENmYm4teWlGWlVRVTdNa0V0eVVQN2NnV3BTQlVBemM?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "DGNB schärft System für Gebäude im Betrieb - immobilienmanager",
+        "source": "immobilienmanager",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "DGNB schärft System für Gebäude im Betrieb immobilienmanager",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
+        "tags": [
+          "immobilienmanager"
+        ]
+      },
+      {
+        "title": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-02-08T08:00:00+00:00",
+        "summary": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE1SMUV4U1YzZ2dyMm11VUtYM0tQTUFjOWNjME5rcm5OTnozcVFrS1JnZW9qUWhhUmlLUjIyM3g4VVFvNXVfcF9RU2hFNG55VTc3a3BDbXA1bEFxb1hzT3hEMk9jeE84M2NzM1VtTWVINGd5bE1fWlc2ZW9WZE9KcklwWTgtUy1ERnRpSVdmQnIxcXhpeFN6OW1zS25rY3hWZjN5VC1CRVF5T2xiYU1vd3BEMXl5Zw?oc=5",
+        "tags": [
+          "Gebäude-Energieberater"
         ]
       }
     ]
