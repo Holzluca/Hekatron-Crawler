@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T10:50:16.897092+00:00",
+  "generatedAt": "2026-04-24T11:54:25.620244+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-23T18:11:03+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZ2ZaQzI0QzdqR2lnTmtfYXM5WlRHMXExeUYyQ3ZEbXNhUDRVRnBSM3lkWk11bGVWaG5TUW9YWnp4Mlh0ZEUwTEJ4ZGNyWFlES2kzT1lramMzZEpyQlRFdTF2UW5wWjJOcHlqQ0wzekttN0hKbVZBd3JJcFhKcy04V19BdU9BX18xR29WSkRNdDhqeWVXamp2aHFid3dxaVlBOFBDTHNVMmp6R2J0SHpQUWxYaGJadXJocDVQVWI4a3Q3d0RSWUdMWjM1dHRjR0dibGlzSjNSQmx6S1UtRnBhZXJDdDJBREhKM0xwTTUxSVNJdk9IdmYxZ3IzelA4UUdTcnRVN0UzTXdZdXJrM19XRzJOU1BGNWdo?oc=5",
+        "tags": [
+          "MSN"
+        ]
+      },
+      {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
         "source": "Tages-Anzeiger",
         "publishedAt": "2026-04-23T17:03:33+00:00",
@@ -237,17 +247,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-04-17T14:45:00+00:00",
-        "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       }
     ],
@@ -445,16 +444,6 @@
         ]
       },
       {
-        "title": "Iranische Drohne trifft Gebäude im Zentrum von Dubai - Blick",
-        "source": "Blick",
-        "publishedAt": "2026-03-13T07:00:00+00:00",
-        "summary": "Iranische Drohne trifft Gebäude im Zentrum von Dubai Blick",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1ctbUlpVkpGbUNCOUZ2MXNReUp4ZnJkSm9oZVVobnFKRlBlWkdXX0tqOFRaRGo0djlsM0pZY0l5Z3RFUWwzZVdhRVQwOERDR1d2X2lqMWpMNFlsMm5JcDJ5TnM4czEyenFteDl4dVlQOUJuNWhJR2VYdjRydjFrRW1idmFQaEtsdndWOVhmcXExeFpuanJiaVNrdldzYlQzdGV5b3VQajNNNHZMRUVTWmdrblhnaEdDOUlzUlNoek5yclM3?oc=5",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
         "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
         "source": "Allgäuer Zeitung",
         "publishedAt": "2026-03-11T07:00:00+00:00",
@@ -492,6 +481,16 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNE5jci0yWVViUWwwVnVzeXNqRzdoZXctc1ZsNl8ya0VDRTR6VXR3TS04QUNmNkVnTGJ0SUhWc0h1azhXaGlaTF83UUZlUmVRY1l2QzV1UHRyT2VGUnBsalVlZnV3aDQzOENmYm4teWlGWlVRVTdNa0V0eVVQN2NnV3BTQlVBemM?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "DGNB schärft System für Gebäude im Betrieb - immobilienmanager",
+        "source": "immobilienmanager",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "DGNB schärft System für Gebäude im Betrieb immobilienmanager",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
+        "tags": [
+          "immobilienmanager"
         ]
       }
     ]
