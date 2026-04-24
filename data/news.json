@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-04-24T13:10:38.549068+00:00",
+  "generatedAt": "2026-04-24T14:52:05.879207+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T09:11:48+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
       {
         "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
         "source": "Siemens",
@@ -123,27 +113,27 @@
         "tags": [
           "Bosch"
         ]
+      },
+      {
+        "title": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt - NTV",
+        "source": "NTV",
+        "publishedAt": "2026-01-13T08:00:00+00:00",
+        "summary": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt NTV",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUklXOEN4cm02eE4xLXRRS3N3SENXdkxhd0hmRjFsb3gyMXdLdzVPTmpYSkl1U1BSLTNqeGd4VW9PaXg5YlBrX05wNnNldHlCNFR5SVB6X1dOVHdCYkxVaDIwOXc1a2dteHM1ZU5Hb0Zpa0ltOW9QWEpXakdBV1p5ZmdudFJtOUlXVWFlZ1NJV0FOLTN4VWEzVzFiRGcyVTBUR0lCdElMMlRuZGozV2FKdTlTbENoTTV1TEhCMXVfS25fckVyRnc?oc=5",
+        "tags": [
+          "Bosch"
+        ]
       }
     ],
     "pfs": [
       {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
         "source": "MSN",
-        "publishedAt": "2026-04-23T18:11:03+00:00",
+        "publishedAt": "2026-04-23T17:39:33+00:00",
         "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZ2ZaQzI0QzdqR2lnTmtfYXM5WlRHMXExeUYyQ3ZEbXNhUDRVRnBSM3lkWk11bGVWaG5TUW9YWnp4Mlh0ZEUwTEJ4ZGNyWFlES2kzT1lramMzZEpyQlRFdTF2UW5wWjJOcHlqQ0wzekttN0hKbVZBd3JJcFhKcy04V19BdU9BX18xR29WSkRNdDhqeWVXamp2aHFid3dxaVlBOFBDTHNVMmp6R2J0SHpQUWxYaGJadXJocDVQVWI4a3Q3d0RSWUdMWjM1dHRjR0dibGlzSjNSQmx6S1UtRnBhZXJDdDJBREhKM0xwTTUxSVNJdk9IdmYxZ3IzelA4UUdTcnRVN0UzTXdZdXJrM19XRzJOU1BGNWdo?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdVQ3dDhwUDB5M09GaUZkZy16WFdxazM3U0Z4Tzh2SGVtSG4wcjhVRzZ3TUhFdWlxMnc5alFJQmlacFdmOUlIeExfUWxyZDA0S2FlVjR5NkJ1MDJsbVlvQzRmcW5ybHU5QWJRRnk5dDJxWTVWTXRCUU9mSHpFWnpNT3NuNW85T3N2NXhBSFhsZTFGRkFQTURxR1ZodTJVQ0pkSzM2WTA5RGFWQXoyMk80VTVzcEs1UkJfQ0RoVHl6TmdTRzdyZmMxTGpUb0ZZUzJ3S1VQOTY1YUdDSkZwVnRwOVJsWGtYZjF0eVc3QnY1NzZ4cFdmdXVOb0JR?oc=5",
         "tags": [
           "MSN"
-        ]
-      },
-      {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
-        "source": "Tages-Anzeiger",
-        "publishedAt": "2026-04-23T17:03:33+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -188,6 +178,17 @@
         ]
       },
       {
+        "title": "Mehr Komfort zuhause: Bosch Smart Home Set im Deal - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Mehr Komfort zuhause: Bosch Smart Home Set im Deal Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmVqVWdqdVdNcGtUMF9uZHNaMGlGcTZtWU1qUjhKUHdDWC00WEs3THhoTy16SUl3Y0JFX2ljREF0R0h1MnhFVnRzVEh6clFKb3Vuc2VDY054eDZWYzQ2V3l1bjZHb3JsZmhPdUFiVVRaY01wcUhGNGZReUJpVGtwbGVvNWxrTnZWVXk4VkhlNnE1T19leGszVUNEZERUZy1PLS1KSHRXM3FmcTNLWjV6SU1QZlo3N3c?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T05:19:00+00:00",
@@ -198,17 +199,6 @@
         ]
       },
       {
-        "title": "Bosch Home Comfort erweitert Sicherheitswarnung für Therm 4300 Geräte - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-04-22T12:37:27+00:00",
-        "summary": "Bosch Home Comfort erweitert Sicherheitswarnung für Therm 4300 Geräte mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0pTcXVPNmVWNFY0SWZIUzdpbzRuTzNHLXFyRm9qenl6V0NmNzFmYUdHLXdaNHljSnIzeVVQZEljX3g3OC1pcWprdmNpZEFSUlFDUGhtbW1yem5abDZzaGoxY2RaT1ZZMUx1SFFSWXJCV0ZfV01oZzZybTVadWl6YWFqbks2UUtnQXVicENrOC1JLVBuVk1zel9ILUTSAaIBQVVfeXFMT2dBcUFVdWNtS2tuRTA3UzdZZ3J0aWFpWFNraVFBa1JPcGpqRk5BN1VPYjQ1d09BMk05M2p0bDhmT01xNEt6U0QtZXhUR0lic3pPSnBlNXd2TlBheWRHdFBTQlNpQWZ6cDd0UkNScnFTcTRibG93dngtay1mRzljTnM3S19GSFZCZlFvYXdrTGNKeWRPWlk5dmxGQnlybmV4TmRR?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "Tipps für die Rauchmelder-Auswahl - PressNetwork",
         "source": "PressNetwork",
         "publishedAt": "2026-04-20T08:42:07+00:00",
@@ -216,6 +206,16 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVEVkbFR3MlgtZUlyZy1VTmd1a3lhLTFpcjZxM3MtNFVSVFFMeWx2b1Y5bG9seXNNd1E3UXlQWkMxVnBZMUFxc2RyYWtsUXJEMU9zRGFsdlhOVTFCa1N0MVktVzhiei1Odkgw?oc=5",
         "tags": [
           "PressNetwork"
+        ]
+      },
+      {
+        "title": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-20T07:33:18+00:00",
+        "summary": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1p1ZG1TaHJLSHNvYWFLRnRhUng2UkZFNE9LVDRoOUtrMW1oTVBmMVJEWkFETmlKOFZyUDNoeGVYWHZwZDl0YkVtcUF4NW1ZdWdHTXdROGRud2ZKa05vaDQyQnVnODNKX2hWWHdYVVJUYzI3dVIyWl9CYTU1UW5wZGhtUU5ZVEczMGlUN3NMZmRJNXpHa0Zud0xibFB2RlM2WDgyekk0Y0I?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -240,15 +240,14 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T09:11:48+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "title": "Ei Electronics erhält Ecovadis Gold - i-Magazin",
+        "source": "i-Magazin",
+        "publishedAt": "2026-04-10T14:59:52+00:00",
+        "summary": "Ei Electronics erhält Ecovadis Gold i-Magazin",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Q3lTYzZKbmlQUkQwd2Q3SzNVRC1pbllJUEZaeVdqWk1CaVhwMWlvVGJzajlJYmZvNDhNQ1Budmg2MmhQLTBkZGMwOHgtMWtqMk1KZ0NNWklER2Z0WF9ZMHJRbE9VeGVaMldv?oc=5",
         "tags": [
           "Ei",
-          "Bosch",
-          "Smart Home"
+          "Ei Electronics"
         ]
       }
     ],
@@ -396,6 +395,16 @@
         ]
       },
       {
+        "title": "Immobilien: Macht KI Bürogebäude überflüssig? - dw.com",
+        "source": "dw.com",
+        "publishedAt": "2026-04-08T07:00:00+00:00",
+        "summary": "Immobilien: Macht KI Bürogebäude überflüssig? dw.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTVVM0RnWXkwMXJoX1dGaV95TkdzTlNvMGhUTkh0MmNoTzlDTm5VWGxLbE1IM3I3Qm5RMVhva0FiU1pHX2l4SWdzdTJGdGoyMTd3VmQtUVlmTU5GUHctZHA4RG5OQ3VwZjMtRUVIUldHNFJZVDFLTnp2RzRQdHlkNnZRUmVYVTZqODc0dzItdUsxSllLdHBRRGxnZ3HSAZwBQVVfeXFMTW84NWNRNmowVnNQWXRWUlBBN2oxNFl2czNERkFwOGN0Wno1SkRrR1B1YnNKUElybTFibjBWV0xLYWJhVHgtTDNEU0dENDFkRmVPalRkWU5tVkhBdVZwT3RlT3dBZHdRVjJIMUM4YkJtN29WUXZPdGJqSkNHd3JvUzFwd2QtcktYNnV6MHM0WFF2VmJ2b05ZRmszc1Vn?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-06T07:00:00+00:00",
@@ -483,16 +492,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNE5jci0yWVViUWwwVnVzeXNqRzdoZXctc1ZsNl8ya0VDRTR6VXR3TS04QUNmNkVnTGJ0SUhWc0h1azhXaGlaTF83UUZlUmVRY1l2QzV1UHRyT2VGUnBsalVlZnV3aDQzOENmYm4teWlGWlVRVTdNa0V0eVVQN2NnV3BTQlVBemM?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "DGNB schärft System für Gebäude im Betrieb - immobilienmanager",
-        "source": "immobilienmanager",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "DGNB schärft System für Gebäude im Betrieb immobilienmanager",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
-        "tags": [
-          "immobilienmanager"
         ]
       }
     ]
