@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T14:52:05.879207+00:00",
+  "generatedAt": "2026-04-24T16:01:15.234041+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
+        "source": "Berliner Morgenpost",
+        "publishedAt": "2026-04-24T14:21:25+00:00",
+        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
         "source": "MSN",
         "publishedAt": "2026-04-23T17:39:33+00:00",
@@ -237,17 +247,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Ei Electronics erhält Ecovadis Gold - i-Magazin",
-        "source": "i-Magazin",
-        "publishedAt": "2026-04-10T14:59:52+00:00",
-        "summary": "Ei Electronics erhält Ecovadis Gold i-Magazin",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1Q3lTYzZKbmlQUkQwd2Q3SzNVRC1pbllJUEZaeVdqWk1CaVhwMWlvVGJzajlJYmZvNDhNQ1Budmg2MmhQLTBkZGMwOHgtMWtqMk1KZ0NNWklER2Z0WF9ZMHJRbE9VeGVaMldv?oc=5",
-        "tags": [
-          "Ei",
-          "Ei Electronics"
         ]
       }
     ],
@@ -395,6 +394,16 @@
         ]
       },
       {
+        "title": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung - News.de",
+        "source": "News.de",
+        "publishedAt": "2026-04-08T17:32:02+00:00",
+        "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Immobilien: Macht KI Bürogebäude überflüssig? - dw.com",
         "source": "dw.com",
         "publishedAt": "2026-04-08T07:00:00+00:00",
@@ -482,16 +491,6 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjR2cG5pQ25hUEpJZUZYRl9ock5nbUY0WmNGbV9IVnltVWpsUEhUWlBYZW05M1M3TWx2MkpMX0FTbzZ5OExGZEw1d0U5dEQwMy0zNlpMN1h6Vmp5a2s1Q0NlOU1ZT0lnRU4xV05DV0p2d1JDTjVpN2pvQWoyeXNmT3FTNUUtbk5EbWNHTGtJZW5GMG8teWZZMU40T1FjQUxJYU5LOQ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Mit IT-Sicherheit physische Ausfälle verhindern - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-02-13T08:00:00+00:00",
-        "summary": "Mit IT-Sicherheit physische Ausfälle verhindern elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNE5jci0yWVViUWwwVnVzeXNqRzdoZXctc1ZsNl8ya0VDRTR6VXR3TS04QUNmNkVnTGJ0SUhWc0h1azhXaGlaTF83UUZlUmVRY1l2QzV1UHRyT2VGUnBsalVlZnV3aDQzOENmYm4teWlGWlVRVTdNa0V0eVVQN2NnV3BTQlVBemM?oc=5",
-        "tags": [
-          "elektro.net"
         ]
       }
     ]
