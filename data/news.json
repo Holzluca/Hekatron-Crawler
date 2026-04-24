@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T20:07:11.080201+00:00",
+  "generatedAt": "2026-04-24T21:11:16.488899+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -39,6 +39,16 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -110,16 +120,6 @@
         "publishedAt": "2026-01-13T08:00:00+00:00",
         "summary": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert stuttgarter-nachrichten.de",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUGZ2RUJ4WVFaaU0ySkFycjNmNF8tQXpnR1pVVHVzVjZ0Y3hRZjVvNjAwSU9ORGNFcFVSUDA1WXZrUjd4LXVNWW9tNWJJUThZTTJJd2drdmJTbTJOTGZFdlVJY1k3QkQ0ZnB0eGpXSjNnWkFJcmQyS2lWWFFLdld0YjdULXR1bHZRS0U0TTZONmdEcElqZGlmSGhqSnpIZnNDVGRScGFlUGxkc3lPSVo1T2RyR08wM2RWaUY4Q3RldHlTT0JwR3hLaHJkOEVjdnhaVVc1SEY1NTRQQTEzZGRiNFd4UEhYTUZialhwTjlsSHJYRFlDOE5fS3QwNHNjWk1xZzFydw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt - nTV",
-        "source": "nTV",
-        "publishedAt": "2026-01-13T08:00:00+00:00",
-        "summary": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt nTV",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUklXOEN4cm02eE4xLXRRS3N3SENXdkxhd0hmRjFsb3gyMXdLdzVPTmpYSkl1U1BSLTNqeGd4VW9PaXg5YlBrX05wNnNldHlCNFR5SVB6X1dOVHdCYkxVaDIwOXc1a2dteHM1ZU5Hb0Zpa0ltOW9QWEpXakdBV1p5ZmdudFJtOUlXVWFlZ1NJV0FOLTN4VWEzVzFiRGcyVTBUR0lCdElMMlRuZGozV2FKdTlTbENoTTV1TEhCMXVfS25fckVyRnc?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -404,6 +404,16 @@
         ]
       },
       {
+        "title": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung - News.de",
+        "source": "News.de",
+        "publishedAt": "2026-04-08T17:32:02+00:00",
+        "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-06T07:00:00+00:00",
@@ -444,6 +454,16 @@
         ]
       },
       {
+        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
+        "source": "DN-News",
+        "publishedAt": "2026-03-16T07:00:00+00:00",
+        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
         "source": "Allgäuer Zeitung",
         "publishedAt": "2026-03-11T07:00:00+00:00",
@@ -471,26 +491,6 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjR2cG5pQ25hUEpJZUZYRl9ock5nbUY0WmNGbV9IVnltVWpsUEhUWlBYZW05M1M3TWx2MkpMX0FTbzZ5OExGZEw1d0U5dEQwMy0zNlpMN1h6Vmp5a2s1Q0NlOU1ZT0lnRU4xV05DV0p2d1JDTjVpN2pvQWoyeXNmT3FTNUUtbk5EbWNHTGtJZW5GMG8teWZZMU40T1FjQUxJYU5LOQ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Mit IT-Sicherheit physische Ausfälle verhindern - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-02-13T08:00:00+00:00",
-        "summary": "Mit IT-Sicherheit physische Ausfälle verhindern elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNE5jci0yWVViUWwwVnVzeXNqRzdoZXctc1ZsNl8ya0VDRTR6VXR3TS04QUNmNkVnTGJ0SUhWc0h1azhXaGlaTF83UUZlUmVRY1l2QzV1UHRyT2VGUnBsalVlZnV3aDQzOENmYm4teWlGWlVRVTdNa0V0eVVQN2NnV3BTQlVBemM?oc=5",
-        "tags": [
-          "elektro.net"
-        ]
-      },
-      {
-        "title": "DGNB schärft System für Gebäude im Betrieb - immobilienmanager",
-        "source": "immobilienmanager",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "DGNB schärft System für Gebäude im Betrieb immobilienmanager",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
-        "tags": [
-          "immobilienmanager"
         ]
       }
     ]
