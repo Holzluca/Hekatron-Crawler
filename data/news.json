@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T17:28:24.969165+00:00",
+  "generatedAt": "2026-04-24T18:06:26.321393+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -95,10 +95,10 @@
         ]
       },
       {
-        "title": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern - NTV",
-        "source": "NTV",
+        "title": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern - nTV",
+        "source": "nTV",
         "publishedAt": "2026-01-20T08:00:00+00:00",
-        "summary": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern NTV",
+        "summary": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern nTV",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVozWm4wbWtTUDZWVVpENWtkOUREaEVBT2tJMEhZTkFlX3NzLUZSRk5BZl9PcG9sdjlONV9HOHM1UkVWWDkzdU5IQ3hMZDZfRUdsNnl3ZWJxTlJOUVN4U29XTHJKTWRldHJOX2hRWXVVNWt1U21OeE4yMWQ5bGhKMk5OYm9WbmlFOThDTmctZmhKbkNYQURfVjNvWUlwVHIzMmRBcVdKT0xrbnZNSEFabVE0Zw?oc=5",
         "tags": [
           "Bosch"
@@ -115,10 +115,10 @@
         ]
       },
       {
-        "title": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt - NTV",
-        "source": "NTV",
+        "title": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt - nTV",
+        "source": "nTV",
         "publishedAt": "2026-01-13T08:00:00+00:00",
-        "summary": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt NTV",
+        "summary": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt nTV",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUklXOEN4cm02eE4xLXRRS3N3SENXdkxhd0hmRjFsb3gyMXdLdzVPTmpYSkl1U1BSLTNqeGd4VW9PaXg5YlBrX05wNnNldHlCNFR5SVB6X1dOVHdCYkxVaDIwOXc1a2dteHM1ZU5Hb0Zpa0ltOW9QWEpXakdBV1p5ZmdudFJtOUlXVWFlZ1NJV0FOLTN4VWEzVzFiRGcyVTBUR0lCdElMMlRuZGozV2FKdTlTbENoTTV1TEhCMXVfS25fckVyRnc?oc=5",
         "tags": [
           "Bosch"
@@ -230,17 +230,6 @@
         ]
       },
       {
-        "title": "Top 7 Smart Home Gadgets aller Zeiten! - home&smart",
-        "source": "home&smart",
-        "publishedAt": "2026-04-20T15:09:53+00:00",
-        "summary": "Top 7 Smart Home Gadgets aller Zeiten! home&smart",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTHRjREEzT09vclFOVS11ZFBCRGlERFRwcFhuMU9MU2pmSl9Wc00yNmtwN3BpWjV3MWowUGN5MWo0VjBFWTh6bFhSeGVVNm9IUzJKN3ZkVWZrZFAxVHE3Qkk1VUNqVTBLU0Y1YmRHejlIQTh2dnIwQWpoaVB1UjRnU2JCaFVhdw?oc=5",
-        "tags": [
-          "Ei",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Tipps für die Rauchmelder-Auswahl - PressNetwork",
         "source": "PressNetwork",
         "publishedAt": "2026-04-20T08:42:07+00:00",
@@ -249,9 +238,29 @@
         "tags": [
           "PressNetwork"
         ]
+      },
+      {
+        "title": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-20T07:33:18+00:00",
+        "summary": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1p1ZG1TaHJLSHNvYWFLRnRhUng2UkZFNE9LVDRoOUtrMW1oTVBmMVJEWkFETmlKOFZyUDNoeGVYWHZwZDl0YkVtcUF4NW1ZdWdHTXdROGRud2ZKa05vaDQyQnVnODNKX2hWWHdYVVJUYzI3dVIyWl9CYTU1UW5wZGhtUU5ZVEczMGlUN3NMZmRJNXpHa0Zud0xibFB2RlM2WDgyekk0Y0I?oc=5",
+        "tags": [
+          "Bosch"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
+        "source": "simplywall.st",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTzd0b3l2WVhyZkZmcmZORC13U1I5cloxdzJTRG4wd2F4dWRIUlJxbW9XY2RSZXYyM2hFMnNYXzlZOVR6VWt0VURBNEVJSTItS2tmYXU0UDhqMVlheVVMZ3oyOEVxcHI1RVp0SElqUlluMFV3SWVQRDJSVHMtdTZnbjlTeXpyaW0tN2cyVjZlMmt5MHJNTmRWRm4wclp0MVZjeS1CNlpJajVEYk5Fb2ZQZVRsa0d5V3gxdXlmMDZXZzJUeVN0VUd3VzNLMGhNa0hEMDB6NW9OUi1INUdXUXluTHEzci1HRklqYXBuWkQ5dEbSAfYBQVVfeXFMT2tXZzRjNFc5M2JSSHg4a3plQU5GU0E1RFRSeTAwc2hxVHVJWEw4ZkhBM0xlaHlGTHY2Sjh0WlJkd3J5dm9GcnQ1aDBjWUdaUTAwc0p0Z19qdEF0bzBEejhYdFczcURPM3M3Q3h5eGFIX2MwWGVLWmJJUTZsaVoxZU1fdlFHY2NqRWZwdFRKVzgzWVZ6UnlHQkpsUHktWTJOR2NKaXJTOWxvUXV1aGQ0aktTQ2FBQ3hCZmViTkdweVpNYVltdWdETWYtRHFXYl8tSEpNenY2eW4yUTV5bWhPNFBxV2Q5RFZ0U0hBdjQwYWNPbGhvM0pB?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
         "source": "Handelsblatt",
@@ -361,16 +370,6 @@
         "tags": [
           "DIE ZEIT"
         ]
-      },
-      {
-        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
-        "source": "ZDFheute",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
-        "tags": [
-          "ZDFheute"
-        ]
       }
     ],
     "trends": [
@@ -400,16 +399,6 @@
         "publishedAt": "2026-04-08T17:32:02+00:00",
         "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Immobilien: Macht KI Bürogebäude überflüssig? - DW.com",
-        "source": "DW.com",
-        "publishedAt": "2026-04-08T07:00:00+00:00",
-        "summary": "Immobilien: Macht KI Bürogebäude überflüssig? DW.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTVVM0RnWXkwMXJoX1dGaV95TkdzTlNvMGhUTkh0MmNoTzlDTm5VWGxLbE1IM3I3Qm5RMVhva0FiU1pHX2l4SWdzdTJGdGoyMTd3VmQtUVlmTU5GUHctZHA4RG5OQ3VwZjMtRUVIUldHNFJZVDFLTnp2RzRQdHlkNnZRUmVYVTZqODc0dzItdUsxSllLdHBRRGxnZ3HSAZwBQVVfeXFMTW84NWNRNmowVnNQWXRWUlBBN2oxNFl2czNERkFwOGN0Wno1SkRrR1B1YnNKUElybTFibjBWV0xLYWJhVHgtTDNEU0dENDFkRmVPalRkWU5tVkhBdVZwT3RlT3dBZHdRVjJIMUM4YkJtN29WUXZPdGJqSkNHd3JvUzFwd2QtcktYNnV6MHM0WFF2VmJ2b05ZRmszc1Vn?oc=5",
         "tags": [
           "KI"
         ]
@@ -492,6 +481,16 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjR2cG5pQ25hUEpJZUZYRl9ock5nbUY0WmNGbV9IVnltVWpsUEhUWlBYZW05M1M3TWx2MkpMX0FTbzZ5OExGZEw1d0U5dEQwMy0zNlpMN1h6Vmp5a2s1Q0NlOU1ZT0lnRU4xV05DV0p2d1JDTjVpN2pvQWoyeXNmT3FTNUUtbk5EbWNHTGtJZW5GMG8teWZZMU40T1FjQUxJYU5LOQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Mit IT-Sicherheit physische Ausfälle verhindern - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-02-13T08:00:00+00:00",
+        "summary": "Mit IT-Sicherheit physische Ausfälle verhindern elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNE5jci0yWVViUWwwVnVzeXNqRzdoZXctc1ZsNl8ya0VDRTR6VXR3TS04QUNmNkVnTGJ0SUhWc0h1azhXaGlaTF83UUZlUmVRY1l2QzV1UHRyT2VGUnBsalVlZnV3aDQzOENmYm4teWlGWlVRVTdNa0V0eVVQN2NnV3BTQlVBemM?oc=5",
+        "tags": [
+          "elektro.net"
         ]
       }
     ]
