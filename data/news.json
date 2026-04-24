@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T22:06:51.333866+00:00",
+  "generatedAt": "2026-04-24T23:05:11.939629+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -39,16 +39,6 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -120,6 +110,16 @@
         "publishedAt": "2026-01-13T08:00:00+00:00",
         "summary": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert stuttgarter-nachrichten.de",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUGZ2RUJ4WVFaaU0ySkFycjNmNF8tQXpnR1pVVHVzVjZ0Y3hRZjVvNjAwSU9ORGNFcFVSUDA1WXZrUjd4LXVNWW9tNWJJUThZTTJJd2drdmJTbTJOTGZFdlVJY1k3QkQ0ZnB0eGpXSjNnWkFJcmQyS2lWWFFLdld0YjdULXR1bHZRS0U0TTZONmdEcElqZGlmSGhqSnpIZnNDVGRScGFlUGxkc3lPSVo1T2RyR08wM2RWaUY4Q3RldHlTT0JwR3hLaHJkOEVjdnhaVVc1SEY1NTRQQTEzZGRiNFd4UEhYTUZialhwTjlsSHJYRFlDOE5fS3QwNHNjWk1xZzFydw?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt - nTV",
+        "source": "nTV",
+        "publishedAt": "2026-01-13T08:00:00+00:00",
+        "summary": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt nTV",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUklXOEN4cm02eE4xLXRRS3N3SENXdkxhd0hmRjFsb3gyMXdLdzVPTmpYSkl1U1BSLTNqeGd4VW9PaXg5YlBrX05wNnNldHlCNFR5SVB6X1dOVHdCYkxVaDIwOXc1a2dteHM1ZU5Hb0Zpa0ltOW9QWEpXakdBV1p5ZmdudFJtOUlXVWFlZ1NJV0FOLTN4VWEzVzFiRGcyVTBUR0lCdElMMlRuZGozV2FKdTlTbENoTTV1TEhCMXVfS25fckVyRnc?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -262,16 +262,6 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
-        ]
-      },
-      {
         "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
         "source": "Gebäude-Energieberater",
         "publishedAt": "2026-03-03T08:00:00+00:00",
@@ -342,26 +332,6 @@
         ]
       },
       {
-        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
-        "source": "WELT",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
-        "tags": [
-          "WELT"
-        ]
-      },
-      {
-        "title": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee - DIE ZEIT",
-        "source": "DIE ZEIT",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNKVjhpWGZ3aHZ5R3VLYXE0NHd6RGhZNXNDaHFEYW9yT1pKcmYwUGFoSHVsbVQwTjRCeEl0cXo3VjJSeHdURjRVZGg2aGxGeEk3UVU5dmNTd3J0MFhlZEhzZTJKVkQ4ZnhWTmo1NFQtMXNHZGFIa2pUTGM3dGtqNGNLc1lmZHVKNFZsLVB3?oc=5",
-        "tags": [
-          "DIE ZEIT"
-        ]
-      },
-      {
         "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
         "source": "ZDFheute",
         "publishedAt": "2025-11-18T08:00:00+00:00",
@@ -369,6 +339,36 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
         "tags": [
           "ZDFheute"
+        ]
+      },
+      {
+        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
+        "source": "Deutschlandfunk",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
+        "tags": [
+          "Deutschlandfunk"
+        ]
+      },
+      {
+        "title": "„Sind Minister der Bundesregierung käuflich, Herr Weimer?“ - WELT",
+        "source": "WELT",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "„Sind Minister der Bundesregierung käuflich, Herr Weimer?“ WELT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdkRCYTRUVjl0MFVrVnYyUmxrLWNUdGNYQmltLXZaUWhXM2swcDE1a1RzQURMVkkyUDFUNUNvMlREMzB6YjBKbnU0U2p4SjRTNjVJd2J6cUlGaDQ2S1RRRkdNTUZNYWl6REFxN2Q4dDRKN2NWd1FXNEU3WlUtN0VsR1AtVjZjcms2MXZMUUp4bG1nLUpLaFlZMjZaZHF6TnI2ZkwwZzdDYUxycnFuMTVoeXUxN3JwNVVmRmwxdFRfdzdXVG42a3Y0UjVTLTNmcmtJTnI5S0VSam5DMklT?oc=5",
+        "tags": [
+          "WELT"
+        ]
+      },
+      {
+        "title": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro - Berliner Zeitung",
+        "source": "Berliner Zeitung",
+        "publishedAt": "2025-11-17T08:00:00+00:00",
+        "summary": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro Berliner Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjRCUC1OaVpPS0lwMXphcTlhQ3B3VEF3ZzJNMEhsREhWTy1qX25ta3h4d2FrZmtxY0gwaDN1d1FLSm1hVlhWZGp0Q0Ezc0M4bWFOWmxhTmdmN29wTVpHZy1kLWt0b1c3YktFQjRkVVYybkdoeTVheGtXd1dQbEdKelR4RmFvenh3SFRjMzV2ZGFQRUdXNjEzMXpBSkhPQlVoMUtleXduMVJQSFpONkJ3V290QkZqUHlEeVlEamZRcnRhbV9iUFFlcGs5Z0NCYnZVNmdOXzR5S2ZpQXh5TW1tek1uUEp0d2RkbjYyUERjQXpqdGJX?oc=5",
+        "tags": [
+          "Berliner Zeitung"
         ]
       }
     ],
@@ -444,16 +444,6 @@
         ]
       },
       {
-        "title": "„Gebäude nicht nur als einzelne Immobilien sehen“ - DiePresse.com",
-        "source": "DiePresse.com",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "„Gebäude nicht nur als einzelne Immobilien sehen“ DiePresse.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcl9NWTNvbWhmRzZ5dVZDUE9uaHVTSFUzTWplR19pRDdHWW9MV3dSWjJLWGgwa0FhY2JHTFpHLXV4MDVURG02cUxwRGhiQ1g1SkZwUy1NdlA1Ti1lWHRGYnNIb0ljZ1B0czRJQ1p2Z0ZfRUhJcEp3VU12V3FIMzg5VnBBcUVpcTFwa2lj?oc=5",
-        "tags": [
-          "DiePresse.com"
-        ]
-      },
-      {
         "title": "Lösungen für Gebäudeautomation - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-03-03T08:00:00+00:00",
@@ -491,6 +481,16 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
         "tags": [
           "immobilienmanager"
+        ]
+      },
+      {
+        "title": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-02-08T08:00:00+00:00",
+        "summary": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE1SMUV4U1YzZ2dyMm11VUtYM0tQTUFjOWNjME5rcm5OTnozcVFrS1JnZW9qUWhhUmlLUjIyM3g4VVFvNXVfcF9RU2hFNG55VTc3a3BDbXA1bEFxb1hzT3hEMk9jeE84M2NzM1VtTWVINGd5bE1fWlc2ZW9WZE9KcklwWTgtUy1ERnRpSVdmQnIxcXhpeFN6OW1zS25rY3hWZjN5VC1CRVF5T2xiYU1vd3BEMXl5Zw?oc=5",
+        "tags": [
+          "Gebäude-Energieberater"
         ]
       }
     ]
