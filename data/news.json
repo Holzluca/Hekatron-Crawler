@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T02:05:51.330418+00:00",
+  "generatedAt": "2026-04-24T05:20:25.754171+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,9 +129,9 @@
       {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
         "source": "MSN",
-        "publishedAt": "2026-04-23T18:34:30+00:00",
+        "publishedAt": "2026-04-23T18:11:03+00:00",
         "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdmJ5b0tfZFcxOG9CXzRydFJfY3o0eERiNzV6WVhrRG1PZFB4c3BfYjNvUDVsLVVfN3VGR2QtX1kzUlYyMWFpMnBFcnZ3NERnX3J2Umdhb3JpLTZRcVFkeHNEUkFmTWZRcUR0dWE3SVJ6U0hUbTFQSFV5VWNSU1hOSzk2NnZoVWVUYXVQNUZyaXlyMTNtcFJoMGVYRjhQY3pScHVmNE1xYlJDLVAzd0VIYVFicTdXZS1wRlhoX1ZCZ3JsUVFLQzlfNG51SXdlbHZ4ZU4xRm1GQkM1Q3d6V3ZfN0lfOGRHc09kTHFhREk5OTRPcmJ6Y2c5UnBR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPZ2ZaQzI0QzdqR2lnTmtfYXM5WlRHMXExeUYyQ3ZEbXNhUDRVRnBSM3lkWk11bGVWaG5TUW9YWnp4Mlh0ZEUwTEJ4ZGNyWFlES2kzT1lramMzZEpyQlRFdTF2UW5wWjJOcHlqQ0wzekttN0hKbVZBd3JJcFhKcy04V19BdU9BX18xR29WSkRNdDhqeWVXamp2aHFid3dxaVlBOFBDTHNVMmp6R2J0SHpQUWxYaGJadXJocDVQVWI4a3Q3d0RSWUdMWjM1dHRjR0dibGlzSjNSQmx6S1UtRnBhZXJDdDJBREhKM0xwTTUxSVNJdk9IdmYxZ3IzelA4UUdTcnRVN0UzTXdZdXJrM19XRzJOU1BGNWdo?oc=5",
         "tags": [
           "MSN"
         ]
@@ -434,6 +434,16 @@
         ]
       },
       {
+        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
+        "source": "DN-News",
+        "publishedAt": "2026-03-16T07:00:00+00:00",
+        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
         "source": "Allgäuer Zeitung",
         "publishedAt": "2026-03-11T07:00:00+00:00",
@@ -481,16 +491,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDJqQnJyYVk0d2xpYjRKa2lPRDczejM0VHM2UUdXTjQtTnZOT1ZRcl9DdWRqZ2xqSTBsenpaLVhHNkdWWUlpTmFrNG5vd2ZqNnFkcHM2bkYzZTMtblZicVhwNE1FUXR3bml6RGxTTGF1NjlvZEV3bFgwaG9sNTI5NF9CQU9DblYxWnM3Vk4xc1A?oc=5",
         "tags": [
           "immobilienmanager"
-        ]
-      },
-      {
-        "title": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-02-08T08:00:00+00:00",
-        "summary": "Light + Building 2026: Vernetzte Systeme für mehr Effizienz, Sicherheit und Komfort Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdE1SMUV4U1YzZ2dyMm11VUtYM0tQTUFjOWNjME5rcm5OTnozcVFrS1JnZW9qUWhhUmlLUjIyM3g4VVFvNXVfcF9RU2hFNG55VTc3a3BDbXA1bEFxb1hzT3hEMk9jeE84M2NzM1VtTWVINGd5bE1fWlc2ZW9WZE9KcklwWTgtUy1ERnRpSVdmQnIxcXhpeFN6OW1zS25rY3hWZjN5VC1CRVF5T2xiYU1vd3BEMXl5Zw?oc=5",
-        "tags": [
-          "Gebäude-Energieberater"
         ]
       }
     ]
