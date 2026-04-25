@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T14:11:52.939529+00:00",
+  "generatedAt": "2026-04-25T15:06:11.726304+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -39,16 +39,6 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -120,6 +110,16 @@
         "publishedAt": "2026-01-13T08:00:00+00:00",
         "summary": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert stuttgarter-nachrichten.de",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUGZ2RUJ4WVFaaU0ySkFycjNmNF8tQXpnR1pVVHVzVjZ0Y3hRZjVvNjAwSU9ORGNFcFVSUDA1WXZrUjd4LXVNWW9tNWJJUThZTTJJd2drdmJTbTJOTGZFdlVJY1k3QkQ0ZnB0eGpXSjNnWkFJcmQyS2lWWFFLdld0YjdULXR1bHZRS0U0TTZONmdEcElqZGlmSGhqSnpIZnNDVGRScGFlUGxkc3lPSVo1T2RyR08wM2RWaUY4Q3RldHlTT0JwR3hLaHJkOEVjdnhaVVc1SEY1NTRQQTEzZGRiNFd4UEhYTUZialhwTjlsSHJYRFlDOE5fS3QwNHNjWk1xZzFydw?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt - Ntv",
+        "source": "Ntv",
+        "publishedAt": "2026-01-13T08:00:00+00:00",
+        "summary": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt Ntv",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUklXOEN4cm02eE4xLXRRS3N3SENXdkxhd0hmRjFsb3gyMXdLdzVPTmpYSkl1U1BSLTNqeGd4VW9PaXg5YlBrX05wNnNldHlCNFR5SVB6X1dOVHdCYkxVaDIwOXc1a2dteHM1ZU5Hb0Zpa0ltOW9QWEpXakdBV1p5ZmdudFJtOUlXVWFlZ1NJV0FOLTN4VWEzVzFiRGcyVTBUR0lCdElMMlRuZGozV2FKdTlTbENoTTV1TEhCMXVfS25fckVyRnc?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -198,17 +198,6 @@
         ]
       },
       {
-        "title": "Mehr Komfort zuhause: Bosch Smart Home Set im Deal - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Mehr Komfort zuhause: Bosch Smart Home Set im Deal Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmVqVWdqdVdNcGtUMF9uZHNaMGlGcTZtWU1qUjhKUHdDWC00WEs3THhoTy16SUl3Y0JFX2ljREF0R0h1MnhFVnRzVEh6clFKb3Vuc2VDY054eDZWYzQ2V3l1bjZHb3JsZmhPdUFiVVRaY01wcUhGNGZReUJpVGtwbGVvNWxrTnZWVXk4VkhlNnE1T19leGszVUNEZERUZy1PLS1KSHRXM3FmcTNLWjV6SU1QZlo3N3c?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Test: Der beste Hochdruck­reiniger - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-04-23T07:00:00+00:00",
@@ -246,6 +235,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1p1ZG1TaHJLSHNvYWFLRnRhUng2UkZFNE9LVDRoOUtrMW1oTVBmMVJEWkFETmlKOFZyUDNoeGVYWHZwZDl0YkVtcUF4NW1ZdWdHTXdROGRud2ZKa05vaDQyQnVnODNKX2hWWHdYVVJUYzI3dVIyWl9CYTU1UW5wZGhtUU5ZVEczMGlUN3NMZmRJNXpHa0Zud0xibFB2RlM2WDgyekk0Y0I?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-04-17T18:51:03+00:00",
+        "summary": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
+        "tags": [
+          "X-Sense"
         ]
       }
     ],
@@ -361,13 +360,13 @@
         ]
       },
       {
-        "title": "Korruptions-Vorwürfe: Merz-Minister unter Druck - und Söder erhöht ihn noch - Nordkurier",
-        "source": "Nordkurier",
+        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
+        "source": "Deutschlandfunk",
         "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Korruptions-Vorwürfe: Merz-Minister unter Druck - und Söder erhöht ihn noch Nordkurier",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzI0alRaejVuejNGNzNaSnVTS2NNSGFDT1FheDRjc01TV0Y4Wi1GNExTc2Z6ZTBybWlReWZlazVpZ1FFaUtlLVJhZ0ZESDVQR3FsN3JOdXlCdDVYcHcyMW5OVHl0YnRYR0FnZVVNSzZwZVdtcVFtM1lPV0E2bkZyTDVYRTZTQTN3UXZkdUdzY1JpcDh2ZjdORi0xaDRNLW83RUNDY0lSQQ?oc=5",
+        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
         "tags": [
-          "Nordkurier"
+          "Deutschlandfunk"
         ]
       }
     ],
