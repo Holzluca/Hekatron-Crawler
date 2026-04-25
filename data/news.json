@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T11:59:13.212153+00:00",
+  "generatedAt": "2026-04-25T13:16:46.851705+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -341,26 +341,6 @@
         ]
       },
       {
-        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
-        "source": "WELT",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
-        "tags": [
-          "WELT"
-        ]
-      },
-      {
-        "title": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee - DIE ZEIT",
-        "source": "DIE ZEIT",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNKVjhpWGZ3aHZ5R3VLYXE0NHd6RGhZNXNDaHFEYW9yT1pKcmYwUGFoSHVsbVQwTjRCeEl0cXo3VjJSeHdURjRVZGg2aGxGeEk3UVU5dmNTd3J0MFhlZEhzZTJKVkQ4ZnhWTmo1NFQtMXNHZGFIa2pUTGM3dGtqNGNLc1lmZHVKNFZsLVB3?oc=5",
-        "tags": [
-          "DIE ZEIT"
-        ]
-      },
-      {
         "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
         "source": "ZDFheute",
         "publishedAt": "2025-11-18T08:00:00+00:00",
@@ -368,6 +348,26 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
         "tags": [
           "ZDFheute"
+        ]
+      },
+      {
+        "title": "„Sind Minister der Bundesregierung käuflich, Herr Weimer?“ - WELT",
+        "source": "WELT",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "„Sind Minister der Bundesregierung käuflich, Herr Weimer?“ WELT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdkRCYTRUVjl0MFVrVnYyUmxrLWNUdGNYQmltLXZaUWhXM2swcDE1a1RzQURMVkkyUDFUNUNvMlREMzB6YjBKbnU0U2p4SjRTNjVJd2J6cUlGaDQ2S1RRRkdNTUZNYWl6REFxN2Q4dDRKN2NWd1FXNEU3WlUtN0VsR1AtVjZjcms2MXZMUUp4bG1nLUpLaFlZMjZaZHF6TnI2ZkwwZzdDYUxycnFuMTVoeXUxN3JwNVVmRmwxdFRfdzdXVG42a3Y0UjVTLTNmcmtJTnI5S0VSam5DMklT?oc=5",
+        "tags": [
+          "WELT"
+        ]
+      },
+      {
+        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
+        "source": "Deutschlandfunk",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
+        "tags": [
+          "Deutschlandfunk"
         ]
       }
     ],
