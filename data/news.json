@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T16:03:04.339018+00:00",
+  "generatedAt": "2026-04-25T17:07:30.718727+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,6 +11,17 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzdycEZmNTNaVzVBc25tTjhWd2NUWEhTcHA4Y0xzU19NblU0RUY1MDdtT2V6Qjhta3l5RFVSc0dGc3BEeFZmaHBCbUhaNU13RGk0ZENOcUltaERhT2gyVnQ1UDJHcnlWSXFFS3BYMUd6WTJmUXVZVlpQcDBFMW9ZQzUtek1yS0szc0dweEdubjIxQ2E4SWVLMHV2bF9ER3o4YTFxLUlxcWZ2Sld1VDdNbzN5X2hTZDQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       },
       {
@@ -31,6 +42,17 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       },
       {
@@ -100,26 +122,6 @@
         "publishedAt": "2026-01-20T08:00:00+00:00",
         "summary": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern Ntv",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVozWm4wbWtTUDZWVVpENWtkOUREaEVBT2tJMEhZTkFlX3NzLUZSRk5BZl9PcG9sdjlONV9HOHM1UkVWWDkzdU5IQ3hMZDZfRUdsNnl3ZWJxTlJOUVN4U29XTHJKTWRldHJOX2hRWXVVNWt1U21OeE4yMWQ5bGhKMk5OYm9WbmlFOThDTmctZmhKbkNYQURfVjNvWUlwVHIzMmRBcVdKT0xrbnZNSEFabVE0Zw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert - stuttgarter-nachrichten.de",
-        "source": "stuttgarter-nachrichten.de",
-        "publishedAt": "2026-01-13T08:00:00+00:00",
-        "summary": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert stuttgarter-nachrichten.de",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUGZ2RUJ4WVFaaU0ySkFycjNmNF8tQXpnR1pVVHVzVjZ0Y3hRZjVvNjAwSU9ORGNFcFVSUDA1WXZrUjd4LXVNWW9tNWJJUThZTTJJd2drdmJTbTJOTGZFdlVJY1k3QkQ0ZnB0eGpXSjNnWkFJcmQyS2lWWFFLdld0YjdULXR1bHZRS0U0TTZONmdEcElqZGlmSGhqSnpIZnNDVGRScGFlUGxkc3lPSVo1T2RyR08wM2RWaUY4Q3RldHlTT0JwR3hLaHJkOEVjdnhaVVc1SEY1NTRQQTEzZGRiNFd4UEhYTUZialhwTjlsSHJYRFlDOE5fS3QwNHNjWk1xZzFydw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt - Ntv",
-        "source": "Ntv",
-        "publishedAt": "2026-01-13T08:00:00+00:00",
-        "summary": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt Ntv",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUklXOEN4cm02eE4xLXRRS3N3SENXdkxhd0hmRjFsb3gyMXdLdzVPTmpYSkl1U1BSLTNqeGd4VW9PaXg5YlBrX05wNnNldHlCNFR5SVB6X1dOVHdCYkxVaDIwOXc1a2dteHM1ZU5Hb0Zpa0ltOW9QWEpXakdBV1p5ZmdudFJtOUlXVWFlZ1NJV0FOLTN4VWEzVzFiRGcyVTBUR0lCdElMMlRuZGozV2FKdTlTbENoTTV1TEhCMXVfS25fckVyRnc?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -198,16 +200,6 @@
         ]
       },
       {
-        "title": "Test: Der beste Hochdruck­reiniger - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Test: Der beste Hochdruck­reiniger FAZ",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQTJvVHo0ZVBjV2ZOZ0IwZjJPd0JjcTFCWGptTHFDMUxEbV91Q0gzMmFwYnJxb2VLbEpvQ1Z6bjJfQkVucWdxdGxiOHZtX0tqUW9tRTZla1o4VXlXNGxCN2IzbUd0Zk5KNVI5Yk5KcWV5dlE?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T05:19:00+00:00",
@@ -228,16 +220,6 @@
         ]
       },
       {
-        "title": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-20T07:33:18+00:00",
-        "summary": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1p1ZG1TaHJLSHNvYWFLRnRhUng2UkZFNE9LVDRoOUtrMW1oTVBmMVJEWkFETmlKOFZyUDNoeGVYWHZwZDl0YkVtcUF4NW1ZdWdHTXdROGRud2ZKa05vaDQyQnVnODNKX2hWWHdYVVJUYzI3dVIyWl9CYTU1UW5wZGhtUU5ZVEczMGlUN3NMZmRJNXpHa0Zud0xibFB2RlM2WDgyekk0Y0I?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ - klamm.de",
         "source": "klamm.de",
         "publishedAt": "2026-04-17T18:51:03+00:00",
@@ -246,9 +228,110 @@
         "tags": [
           "X-Sense"
         ]
+      },
+      {
+        "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-04-17T14:45:00+00:00",
+        "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "DEAL | Bosch Spotless + für 259 € im Angebot! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-14T06:25:55+00:00",
+        "summary": "DEAL | Bosch Spotless + für 259 € im Angebot! SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXo3NjAtZlBiMW5NTF9kandDWVBtLTBBWVRCZFg5WVlWOUhtVUVxNFFwWE0xYUtUcjAxelVnZ1dJX0E5WWZScDFyZDlfeU03MDZtazNRZUEwSzdydExEeWtLaVZjV2x0LXktMkxKSmNJalZzdlg2M1Bfd1ZXbG05UGxkMS1iZ3NaekZxa3RPUlQ?oc=5",
+        "tags": [
+          "Bosch"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Private-Equity-Hebel an? - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-14T18:47:35+00:00",
+        "summary": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Private-Equity-Hebel an? AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXRzSWs2dXNGdzdHNWNKVHVRSEhSYXdnMDAwcnBBNVE3a19iakJVREhpdlJpWGxubUNwNHY3blZIQW9HZnQ5Rkc2aVpwNllWTk5XdVJvdENsZXUtTk43YnRKWmo2bGFkeDhSNVdFQXZ5RHNHakJRTC1mZ2ZVTHVQS1E4XzdEN2FNQ0ZjUDNJSG5IbXVBYmxGRVo1Wlh2VzdLS0s0QWJLamhkX1VlSUFfWHhiaWhlVzdaVm5naw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Asset-Management-Wandel an? - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-14T15:42:24+00:00",
+        "summary": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Asset-Management-Wandel an? AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkxFUnRvdzlKQ3hsNXBEXzBEQ3VkWFlWYzBKVHFYYlJwZjBCaTVBWDdNSzJzMHhzUTZWQXVPdEtOb1FybU1hbjRLSC1FZmtFRVpWSmg4dE9zRklER1p3dl95VE5WUHpwSWc5RVNSSTVfNVVxZk52RGs5MlFzVHdES0ZtVVI1aDVuem1LajcxTWV4aUtPcFEzbGFJejJpb1U0VGZtaWNCTkZ0b0o3bmN1S0JwRmVpbVdNbEpHSQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie (US0376123065): Ist das Private-Equity-Modell stark genug für europ� - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-14T08:37:28+00:00",
+        "summary": "Apollo Global Management Aktie (US0376123065): Ist das Private-Equity-Modell stark genug für europ� AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEZZTlRmV1h4bW45ajhPLUhRcFIydHVQRkVpRU03VFYwNWtnUkM2MEh0M1lxRThKTmhJS21FVlJoY0R3OEZFMV85UXZzMnI2clhhU3pBQ1lmUEhYLUxPdGZOY3BQc2p5Y2d3WjFfSTlYLWhZQzNvaC1hOHpXWmNYY0kxSG84UGk2WEJ6SnV6Sk5ZRFl1RG9hdFVadVVKQUJRUDhDeTZOOHU?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie (US0376123065): Ist ihr Alternative-Investment-Modell stark genug fü - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-12T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie (US0376123065): Ist ihr Alternative-Investment-Modell stark genug fü AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDh0SklvRFNVRmhXX2wxOThfM081VHIwLUJ1WFRFNkVabkI2UjhzMVVPbHl5X3E1QjlhZF9TTERqZnZVT2VRdU5VeXRZVFRzQnhWRllkQ25OMnllWS1rMFFUR0NzOWJIQnlSOFZHeUtjUENzaTE1YXNRanFwRi05SmVvVEZuYng3MzNibDUzamdkaDRjRFlDRk5mZTNKdlhhWTdjSE9NR0w?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Tyres Ltd Aktie: Was Investoren in Deutschland jetzt wissen müssen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-09T17:53:20+00:00",
+        "summary": "Apollo Tyres Ltd Aktie: Was Investoren in Deutschland jetzt wissen müssen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEYwdlhORmNLNGVKdlhKMDdSekNPTGlNSXVIOTNmbjdnSWtuT0FQRVFtSjhhSjU3S0hIUzRXNnhjMUdXODRQSzdoa3ZieUlmWVdkUWUzbHhiSnJQMTV4QUVOdE5WNC0ybE9wd2ZCdjZTTkJmWER3Z3V0Q2VNWHlKQVp2b19Hc2NNMFM3Wk1TdzlEclZGLWFib0FLajNUNGIzTWlUdktnSzBnSnloaHhOVnNIUzh5UE1LZ0tBUHFxcXIySUp4WXc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-08T18:38:36+00:00",
+        "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQU8wWjY2aUhaaDQxMU5nWWFZckUtVEZpNm40RUpNWTFTXzhqR21pcnczVFd2RlZEN0FJdVhGWGxuU1U0YU11OXhmNGdGQy1DTkpGSTVGS1RLdDhwTjhZNDNXSVZhSGh5ZkVZX2l4dFJjNm90cjNtSTNkbDd6bUx5N2g3dkwwT2NaQmxSeHpqdzBoWjd5VmxfZVhhNXNzUTVlc0lWcjVwOWcyMEFzQ0dfTjE5VQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcG51T0N4Tk5QcV85MTRVZWpSWEM3WGhTZmlPWDh2blQ1U0hySl9mX2YxNktaZWgxTmlXV1dFU29nazlWRDc0UmJqU3RHc3luQ2g2RHREUEhsbU85U3k2WDV2a0pKd0xiMnl2ckJJNlR5am1JZGlkSmlibnI1eE9NdkQwQzlpVFZpeG5wTkw3NjJ2c0p5V0ZtRE0wV2RzUXU1Y29Edk1BYWk4UzZKZ1FDMmFDTEpFVjRz?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für deutsche Anl - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für deutsche Anl AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHQySTVYY0VvUGwtek1WNDZaeV8yOFNTUk9DOGQ2OFd0LUlZeU9mSXhRYVdLWnRKYmVJazBWSVdqY0NjWV90TEd2R0RjWWFCd1lZMk5ibmJVMTV6bVRIa0hzSHQ0WkdzYUFjSmtKYVE1TnBnMm1Uc1RsckNjazdTU2g1dUlaVUM5VGY3OEpjckRRZ29QMUliZnZHMk5RS3k3VGNyekxTcEJOYjJPT3MtenVXU2xTUQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
         "source": "Handelsblatt",
@@ -260,113 +343,33 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmdXUjRUWDRpNFdpV3ZXTmZqYTI4ZlZLM2Z5VTZtWHFPOGU0cThoem1Fd1lBUG9hVXZ3UlJmbmwwZE04eGFBYUNGOGVhLVJIRFdqdXhxYURac0ZPNVl2S2YzNE5DajN4OFowUGVISi10bE92WUJ3ZmtNdE5uWDNjS0c3Vk9MZS1xcTFDcEZ4UWpuSURzdkhj0gGcAUFVX3lxTE5NRUJaZGlXVU9RTU1WZUtuaTdKSGY3ZHdrRW93eTZyUU0wOWRBTTMtY1Q1eUZJdEJQSjFFaEsxV3dRLS1oTkc1Q3huX0U2Q1VGSUhpV2RNdm54eE9BXzg3QzNLQ1I4OEtxQ1pyYUJaRHpWVFlJLUtxcnAwTmFCcWdZbFVRODRLYWFMcVRzemJPUDFFSlJLLWVsbURBVg?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
-        "source": "CoinDesk",
-        "publishedAt": "2026-02-15T08:00:00+00:00",
-        "summary": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
+        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz im Überblick (IS - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-30T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz im Überblick (IS AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeUdMQ3lDRXVRQ3A3WExkMmlVNUxtVFFoZXg5MDNLQmFRcXZfR1FpbEJJSFJVTTh0ZlB5RWZfc1JvSkt0bDJvUnlYbFdjSW0xTi0wZlZoNUlFclY4Q2hmalJsVnhKWHJ6QU5VdkZuQjdMNXhwNzZCLXUxQkVWN3FHNWJMUjRpbFEwOWtrVDZaT2QyaEJObzF1b1JZVklUUWxNck1OODN1ejJhZHB6TWY4b1cxbGYwQQ?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-02-13T08:00:00+00:00",
-        "summary": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
+        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-29T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMElhREtrTGpvcjF6ZTdyVFhRUG5uNlcyRXY0M2RSU3NHa2FyYVAtMEdySUQyMUhkWjNnSU4weXV5MU5ydUJ1Q0V4RmZBVndFb2VWQWJrYzhvd3l4TmRWLWFaR0RBWWFQTE8zNlVmQWdJbTQ2WXZEUFdIMlVueUNZWXRMTnc3WTlMZDBDOEhwWW1OYXJ6RUNkdHVrMlJwaWNoN0ctVW5BUU5qMHc0eC1nSElpLUJtdw?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
+        "title": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-28T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
         "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
-        "source": "fenster-tueren-technik.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
-      },
-      {
-        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
-        "source": "WELT",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
-        "tags": [
-          "WELT"
-        ]
-      },
-      {
-        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
-        "source": "ZDFheute",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
-        "tags": [
-          "ZDFheute"
-        ]
-      },
-      {
-        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
-        "source": "Deutschlandfunk",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
-        "tags": [
-          "Deutschlandfunk"
+          "Apollo"
         ]
       }
     ],
@@ -412,13 +415,13 @@
         ]
       },
       {
-        "title": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung - News.de",
-        "source": "News.de",
-        "publishedAt": "2026-04-08T07:00:00+00:00",
-        "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
+        "title": "Peri schafft Brückensanierung ohne Beeinträchtigung - buildingnet.de",
+        "source": "buildingnet.de",
+        "publishedAt": "2026-04-07T07:00:00+00:00",
+        "summary": "Peri schafft Brückensanierung ohne Beeinträchtigung buildingnet.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa18teHgxSHdsakVzOEo4cFpSRzQtQkdVcE1TREhMa1BEbVp1Um0wZzBGbEZiNlo2SWM1eGNrdUxFbThFWklQMmJMbDBLNUtvWnVYdGZlVmc5TVYwZ0tVTW1BN0xxcG83YUVOME8tVzJlWGtXTTZNdHZWQ1Y0cjB1WUxNT29uY1QxenRlanlMeURScGtpSFFz?oc=5",
         "tags": [
-          "KI"
+          "buildingnet.de"
         ]
       },
       {
@@ -442,6 +445,16 @@
         ]
       },
       {
+        "title": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWd3Qkcxb09hRnFENDVEZFhva2xqWkxnSHQ0bWVYNThZZlo3cWVYZ2xfcXI4RzU0NFpBUl85aTJMV2F5b2QwYU1fMGhPOTRmaEZwb2poN3hmcmhjX3FlNUhkdV9ySmVKXzZJVnZwTllPdlRLTFpXeUpmMXBsdkhsVHdWdjBVeHNhSXZPQmR0N2NUS3ZUNXB2ZTUzUzNUcEpiV2ZGb2pHOWVicS1lbnFpY0FBWGQ2YTN6NkpmMEc4UGhSR2l5bEE?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Explore Tour 2026: Cyber Resilience Act und Gebäudeautomation im Fokus - Elektropraktiker",
         "source": "Elektropraktiker",
         "publishedAt": "2026-03-27T10:16:54+00:00",
@@ -452,43 +465,33 @@
         ]
       },
       {
-        "title": "Inosoft: Retrofit von Industrierechnern - Computer&Automation",
-        "source": "Computer&Automation",
-        "publishedAt": "2026-03-18T07:00:00+00:00",
-        "summary": "Inosoft: Retrofit von Industrierechnern Computer&Automation",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXc5Zmt2Rk1mSmZxTGFlSkRJWXVrbGJVVi1qS1RaVU5WU0h1T1FjZU94MlpHOXh3MjF6QjlEX1RhbHlhZ0taUTRQVzd0RV9zeFh2S0R6ZnY5YnVWdXA5YWI1c3hxck91Nmp1Q0VrQnZVSE9TRTVMcElrOFJFeEdJbmJGeExSQl9OQmdrMi1HNW4wMS1SMzhRdTU2eXJxU2NqVlE?oc=5",
+        "title": "Johnson Controls Aktie: Stabile Performance im Gebäudeautomatisierungsbereich trotz Marktherausford - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-24T07:00:00+00:00",
+        "summary": "Johnson Controls Aktie: Stabile Performance im Gebäudeautomatisierungsbereich trotz Marktherausford AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeG13d0FFV3dsVElfQm5abGpUdURucV91X3JiMGtEU2JaRTQxSmR6anRIQnBqbVpqM2did3pOU193MllfcUZnTXdtZTZmZnhySlBvZnNNdkFESjdtQkg3VkhZODZzclE1RkhTQnFNaDQ0TUpab2piYUZRaVdYaGlQN3RWNk5wcHBESHROaUtHR1IzYXRON25PUDVDSXdyaGZ1S0FxR2VsOA?oc=5",
         "tags": [
-          "Retrofit"
+          "AD HOC NEWS"
         ]
       },
       {
-        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
-        "source": "DN-News",
-        "publishedAt": "2026-03-16T07:00:00+00:00",
-        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
+        "title": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-24T07:00:00+00:00",
+        "summary": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
         "tags": [
           "KI"
         ]
       },
       {
-        "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
-        "source": "Allgäuer Zeitung",
-        "publishedAt": "2026-03-11T07:00:00+00:00",
-        "summary": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte Allgäuer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
+        "title": "Gebäude-ESG-Check wird zum Pflichtprogramm für Hausbesitzer - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-23T07:00:00+00:00",
+        "summary": "Gebäude-ESG-Check wird zum Pflichtprogramm für Hausbesitzer AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRS1nN1Jkb1IyXzgybFUxVEJxRC0wRUVKRUdUSEd2ejE0ZzhaQmF3NDdHZV82YzIwOVhGbmY0SGNmQkpJV0k2ZGlacDYyc1M4SE9laGtURnhiNUJRMnhnemZCOUp5MElaX1ZYdUVkVVJWN1RSU21vVFhjR1JKUjNudzZ1cDN0Z2kydWViTEpQS1M2bEhjb0RsSGcyZGVMakxHUG5zM0tYdUdBelRsQVhJdmtDT2pFQkluZ21xTA?oc=5",
         "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Lösungen für Gebäudeautomation - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Lösungen für Gebäudeautomation elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTmlUR0ZaVFdsSzZfUmxmbVJ2aHplQUluZHFNQlVZckEwTmlBRWRHMWNWTURDOGNkZk16SFg5NWp2RTB0TDh0d3NfS0NfVGQ4akpNVko3UEJyOGFkYlpZTE1aSmJMNm14M0JBZ0E3VFpOTkk?oc=5",
-        "tags": [
-          "Gebäudeautomation"
+          "ESG"
         ]
       }
     ]
