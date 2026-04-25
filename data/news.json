@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T15:06:11.726304+00:00",
+  "generatedAt": "2026-04-25T16:03:04.339018+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -412,6 +412,16 @@
         ]
       },
       {
+        "title": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung - News.de",
+        "source": "News.de",
+        "publishedAt": "2026-04-08T07:00:00+00:00",
+        "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-06T07:00:00+00:00",
@@ -479,16 +489,6 @@
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTmlUR0ZaVFdsSzZfUmxmbVJ2aHplQUluZHFNQlVZckEwTmlBRWRHMWNWTURDOGNkZk16SFg5NWp2RTB0TDh0d3NfS0NfVGQ4akpNVko3UEJyOGFkYlpZTE1aSmJMNm14M0JBZ0E3VFpOTkk?oc=5",
         "tags": [
           "Gebäudeautomation"
-        ]
-      },
-      {
-        "title": "Crawl, Walk, Run: KI-gestützte Gebäude - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-02-26T18:33:55+00:00",
-        "summary": "Crawl, Walk, Run: KI-gestützte Gebäude Siemens",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjR2cG5pQ25hUEpJZUZYRl9ock5nbUY0WmNGbV9IVnltVWpsUEhUWlBYZW05M1M3TWx2MkpMX0FTbzZ5OExGZEw1d0U5dEQwMy0zNlpMN1h6Vmp5a2s1Q0NlOU1ZT0lnRU4xV05DV0p2d1JDTjVpN2pvQWoyeXNmT3FTNUUtbk5EbWNHTGtJZW5GMG8teWZZMU40T1FjQUxJYU5LOQ?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
