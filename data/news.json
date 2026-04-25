@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T21:31:20.219898+00:00",
+  "generatedAt": "2026-04-25T22:31:00.002532+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -200,6 +200,16 @@
         ]
       },
       {
+        "title": "Test: Der beste Hochdruck­reiniger - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Test: Der beste Hochdruck­reiniger FAZ",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQTJvVHo0ZVBjV2ZOZ0IwZjJPd0JjcTFCWGptTHFDMUxEbV91Q0gzMmFwYnJxb2VLbEpvQ1Z6bjJfQkVucWdxdGxiOHZtX0tqUW9tRTZla1o4VXlXNGxCN2IzbUd0Zk5KNVI5Yk5KcWV5dlE?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T05:19:00+00:00",
@@ -238,18 +248,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Nachhaltige Ei Electronics Rauchwarnmelder: EcoVadis Goldmedaille - a3BAU",
-        "source": "a3BAU",
-        "publishedAt": "2026-04-13T11:08:52+00:00",
-        "summary": "Nachhaltige Ei Electronics Rauchwarnmelder: EcoVadis Goldmedaille a3BAU",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHlFNGRGdEllWTJmSTBQaElEdlAzMzcxNS1pWTFkR0M3ZnBYbzNHc3lpdnVnNW1WOS1qV0w3RDV4R3Y5dS1jaEktdURIWHNyVEd5akswNFpiWnRpLXJkUGExenpqQ1FOYlFmY3YzZE13TXFvTUc1eDdVR3U0LTI2TTV0SS1fcEhF?oc=5",
-        "tags": [
-          "Ei",
-          "Ei Electronics",
-          "Rauchwarnmelder"
         ]
       }
     ],
@@ -387,16 +385,6 @@
         ]
       },
       {
-        "title": "Strengere Eurocode-Normen für den Brandschutz von Dächern - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-04-20T19:39:04+00:00",
-        "summary": "Strengere Eurocode-Normen für den Brandschutz von Dächern it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUI3eE1VbUpBZEgwb0dLRnd6STYzSWlkdWtFTE9lVzZxSkotd2lOaUVmYldvb3JlOGpLRDB4bzQ0dllMTkRwd3puTkxid1RFMndidE4yaHoxME1BMXBqdkFtYW1selFGRzZ6N25CTWR3ZVRXcGJxNmszX3loT0hVYUE3VkVXeUgyNnBwLUFEakx5cV9mYVE?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
         "title": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab - Rheinische Anzeigenblätter",
         "source": "Rheinische Anzeigenblätter",
         "publishedAt": "2026-04-16T06:49:57+00:00",
@@ -492,6 +480,16 @@
         "publishedAt": "2026-03-22T07:00:00+00:00",
         "summary": "Holzbau und KI revolutionieren den Brandschutz 2026 AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSjVSa1EwSzJxWGt1Vm9yd0NtUi1tLU1hTm9yMGh0WVBTWFBXLWhPZEtvWjRQOGhxaTc2UHZpNjhfdmRiall1eFJSbzJNR0JzdV9ZZmJHcHNpbUtxSFZ4UURNZXdXakNpMXpoZm5IQ1JJM01wWE1WNG8wWmNaajFfVVVGUFpabENJRlF2eHhYeEFwNGhOcXNCaEVwWEVveDAybWxybVo0WHU?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-21T07:00:00+00:00",
+        "summary": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMlA3RjRHMHVFX3FLdEpabFJTUmpUWlJHUUI1S1E0dmRvakZBdGcwejJkV2NaeUpyQVduX2dHSHZFM3RiU2JfeGs4QURZR3NLVEdNUTd6TlJGQ1FNY244MVFkMjR2b1lZeXlSb0U3UnlqWTl6VWRnVlI2TDFieks2UkJqSUcxMzFZQlB6dFpBOFdJSlJYQUhNaERacWNuMmRVaXFkQjQzMXhMemZpQzlhblJueVVPMDA?oc=5",
         "tags": [
           "KI"
         ]
