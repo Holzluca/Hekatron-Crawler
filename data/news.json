@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T13:16:46.851705+00:00",
+  "generatedAt": "2026-04-25T14:11:52.939529+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -39,6 +39,16 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -110,16 +120,6 @@
         "publishedAt": "2026-01-13T08:00:00+00:00",
         "summary": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert stuttgarter-nachrichten.de",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUGZ2RUJ4WVFaaU0ySkFycjNmNF8tQXpnR1pVVHVzVjZ0Y3hRZjVvNjAwSU9ORGNFcFVSUDA1WXZrUjd4LXVNWW9tNWJJUThZTTJJd2drdmJTbTJOTGZFdlVJY1k3QkQ0ZnB0eGpXSjNnWkFJcmQyS2lWWFFLdld0YjdULXR1bHZRS0U0TTZONmdEcElqZGlmSGhqSnpIZnNDVGRScGFlUGxkc3lPSVo1T2RyR08wM2RWaUY4Q3RldHlTT0JwR3hLaHJkOEVjdnhaVVc1SEY1NTRQQTEzZGRiNFd4UEhYTUZialhwTjlsSHJYRFlDOE5fS3QwNHNjWk1xZzFydw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt - Ntv",
-        "source": "Ntv",
-        "publishedAt": "2026-01-13T08:00:00+00:00",
-        "summary": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt Ntv",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUklXOEN4cm02eE4xLXRRS3N3SENXdkxhd0hmRjFsb3gyMXdLdzVPTmpYSkl1U1BSLTNqeGd4VW9PaXg5YlBrX05wNnNldHlCNFR5SVB6X1dOVHdCYkxVaDIwOXc1a2dteHM1ZU5Hb0Zpa0ltOW9QWEpXakdBV1p5ZmdudFJtOUlXVWFlZ1NJV0FOLTN4VWEzVzFiRGcyVTBUR0lCdElMMlRuZGozV2FKdTlTbENoTTV1TEhCMXVfS25fckVyRnc?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -341,6 +341,16 @@
         ]
       },
       {
+        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
+        "source": "WELT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
+        "tags": [
+          "WELT"
+        ]
+      },
+      {
         "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
         "source": "ZDFheute",
         "publishedAt": "2025-11-18T08:00:00+00:00",
@@ -351,23 +361,13 @@
         ]
       },
       {
-        "title": "„Sind Minister der Bundesregierung käuflich, Herr Weimer?“ - WELT",
-        "source": "WELT",
+        "title": "Korruptions-Vorwürfe: Merz-Minister unter Druck - und Söder erhöht ihn noch - Nordkurier",
+        "source": "Nordkurier",
         "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "„Sind Minister der Bundesregierung käuflich, Herr Weimer?“ WELT",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdkRCYTRUVjl0MFVrVnYyUmxrLWNUdGNYQmltLXZaUWhXM2swcDE1a1RzQURMVkkyUDFUNUNvMlREMzB6YjBKbnU0U2p4SjRTNjVJd2J6cUlGaDQ2S1RRRkdNTUZNYWl6REFxN2Q4dDRKN2NWd1FXNEU3WlUtN0VsR1AtVjZjcms2MXZMUUp4bG1nLUpLaFlZMjZaZHF6TnI2ZkwwZzdDYUxycnFuMTVoeXUxN3JwNVVmRmwxdFRfdzdXVG42a3Y0UjVTLTNmcmtJTnI5S0VSam5DMklT?oc=5",
+        "summary": "Korruptions-Vorwürfe: Merz-Minister unter Druck - und Söder erhöht ihn noch Nordkurier",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzI0alRaejVuejNGNzNaSnVTS2NNSGFDT1FheDRjc01TV0Y4Wi1GNExTc2Z6ZTBybWlReWZlazVpZ1FFaUtlLVJhZ0ZESDVQR3FsN3JOdXlCdDVYcHcyMW5OVHl0YnRYR0FnZVVNSzZwZVdtcVFtM1lPV0E2bkZyTDVYRTZTQTN3UXZkdUdzY1JpcDh2ZjdORi0xaDRNLW83RUNDY0lSQQ?oc=5",
         "tags": [
-          "WELT"
-        ]
-      },
-      {
-        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
-        "source": "Deutschlandfunk",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
-        "tags": [
-          "Deutschlandfunk"
+          "Nordkurier"
         ]
       }
     ],
@@ -463,16 +463,6 @@
         ]
       },
       {
-        "title": "Iranische Drohne trifft Gebäude im Zentrum von Dubai - Blick",
-        "source": "Blick",
-        "publishedAt": "2026-03-13T07:00:00+00:00",
-        "summary": "Iranische Drohne trifft Gebäude im Zentrum von Dubai Blick",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1ctbUlpVkpGbUNCOUZ2MXNReUp4ZnJkSm9oZVVobnFKRlBlWkdXX0tqOFRaRGo0djlsM0pZY0l5Z3RFUWwzZVdhRVQwOERDR1d2X2lqMWpMNFlsMm5JcDJ5TnM4czEyenFteDl4dVlQOUJuNWhJR2VYdjRydjFrRW1idmFQaEtsdndWOVhmcXExeFpuanJiaVNrdldzYlQzdGV5b3VQajNNNHZMRUVTWmdrblhnaEdDOUlzUlNoek5yclM3?oc=5",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
         "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
         "source": "Allgäuer Zeitung",
         "publishedAt": "2026-03-11T07:00:00+00:00",
@@ -490,6 +480,16 @@
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTmlUR0ZaVFdsSzZfUmxmbVJ2aHplQUluZHFNQlVZckEwTmlBRWRHMWNWTURDOGNkZk16SFg5NWp2RTB0TDh0d3NfS0NfVGQ4akpNVko3UEJyOGFkYlpZTE1aSmJMNm14M0JBZ0E3VFpOTkk?oc=5",
         "tags": [
           "Gebäudeautomation"
+        ]
+      },
+      {
+        "title": "Crawl, Walk, Run: KI-gestützte Gebäude - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-02-26T18:33:55+00:00",
+        "summary": "Crawl, Walk, Run: KI-gestützte Gebäude Siemens",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjR2cG5pQ25hUEpJZUZYRl9ock5nbUY0WmNGbV9IVnltVWpsUEhUWlBYZW05M1M3TWx2MkpMX0FTbzZ5OExGZEw1d0U5dEQwMy0zNlpMN1h6Vmp5a2s1Q0NlOU1ZT0lnRU4xV05DV0p2d1JDTjVpN2pvQWoyeXNmT3FTNUUtbk5EbWNHTGtJZW5GMG8teWZZMU40T1FjQUxJYU5LOQ?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
