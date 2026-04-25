@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T17:07:30.718727+00:00",
+  "generatedAt": "2026-04-25T18:02:22.645281+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -415,16 +415,6 @@
         ]
       },
       {
-        "title": "Peri schafft Brückensanierung ohne Beeinträchtigung - buildingnet.de",
-        "source": "buildingnet.de",
-        "publishedAt": "2026-04-07T07:00:00+00:00",
-        "summary": "Peri schafft Brückensanierung ohne Beeinträchtigung buildingnet.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa18teHgxSHdsakVzOEo4cFpSRzQtQkdVcE1TREhMa1BEbVp1Um0wZzBGbEZiNlo2SWM1eGNrdUxFbThFWklQMmJMbDBLNUtvWnVYdGZlVmc5TVYwZ0tVTW1BN0xxcG83YUVOME8tVzJlWGtXTTZNdHZWQ1Y0cjB1WUxNT29uY1QxenRlanlMeURScGtpSFFz?oc=5",
-        "tags": [
-          "buildingnet.de"
-        ]
-      },
-      {
         "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-06T07:00:00+00:00",
@@ -492,6 +482,16 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRS1nN1Jkb1IyXzgybFUxVEJxRC0wRUVKRUdUSEd2ejE0ZzhaQmF3NDdHZV82YzIwOVhGbmY0SGNmQkpJV0k2ZGlacDYyc1M4SE9laGtURnhiNUJRMnhnemZCOUp5MElaX1ZYdUVkVVJWN1RSU21vVFhjR1JKUjNudzZ1cDN0Z2kydWViTEpQS1M2bEhjb0RsSGcyZGVMakxHUG5zM0tYdUdBelRsQVhJdmtDT2pFQkluZ21xTA?oc=5",
         "tags": [
           "ESG"
+        ]
+      },
+      {
+        "title": "Holzbau und KI revolutionieren den Brandschutz 2026 - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-22T07:00:00+00:00",
+        "summary": "Holzbau und KI revolutionieren den Brandschutz 2026 AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSjVSa1EwSzJxWGt1Vm9yd0NtUi1tLU1hTm9yMGh0WVBTWFBXLWhPZEtvWjRQOGhxaTc2UHZpNjhfdmRiall1eFJSbzJNR0JzdV9ZZmJHcHNpbUtxSFZ4UURNZXdXakNpMXpoZm5IQ1JJM01wWE1WNG8wWmNaajFfVVVGUFpabENJRlF2eHhYeEFwNGhOcXNCaEVwWEVveDAybWxybVo0WHU?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
