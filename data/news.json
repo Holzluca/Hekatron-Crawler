@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T11:09:59.718967+00:00",
+  "generatedAt": "2026-04-25T11:59:13.212153+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -209,6 +209,16 @@
         ]
       },
       {
+        "title": "Test: Der beste Hochdruck­reiniger - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Test: Der beste Hochdruck­reiniger FAZ",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQTJvVHo0ZVBjV2ZOZ0IwZjJPd0JjcTFCWGptTHFDMUxEbV91Q0gzMmFwYnJxb2VLbEpvQ1Z6bjJfQkVucWdxdGxiOHZtX0tqUW9tRTZla1o4VXlXNGxCN2IzbUd0Zk5KNVI5Yk5KcWV5dlE?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T05:19:00+00:00",
@@ -229,24 +239,13 @@
         ]
       },
       {
-        "title": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ - klamm.de",
-        "source": "klamm.de",
-        "publishedAt": "2026-04-17T18:51:03+00:00",
-        "summary": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ klamm.de",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
+        "title": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-20T07:33:18+00:00",
+        "summary": "Bosch Smarthome: Update verbessert Benachrichtigungen und behebt Fehler SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1p1ZG1TaHJLSHNvYWFLRnRhUng2UkZFNE9LVDRoOUtrMW1oTVBmMVJEWkFETmlKOFZyUDNoeGVYWHZwZDl0YkVtcUF4NW1ZdWdHTXdROGRud2ZKa05vaDQyQnVnODNKX2hWWHdYVVJUYzI3dVIyWl9CYTU1UW5wZGhtUU5ZVEczMGlUN3NMZmRJNXpHa0Zud0xibFB2RlM2WDgyekk0Y0I?oc=5",
         "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-04-17T14:45:00+00:00",
-        "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
+          "Bosch"
         ]
       }
     ],
@@ -342,6 +341,26 @@
         ]
       },
       {
+        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
+        "source": "WELT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
+        "tags": [
+          "WELT"
+        ]
+      },
+      {
+        "title": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee - DIE ZEIT",
+        "source": "DIE ZEIT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "Ludwig-Erhard-Gipfel: Teure Treffen am Tegernsee DIE ZEIT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNKVjhpWGZ3aHZ5R3VLYXE0NHd6RGhZNXNDaHFEYW9yT1pKcmYwUGFoSHVsbVQwTjRCeEl0cXo3VjJSeHdURjRVZGg2aGxGeEk3UVU5dmNTd3J0MFhlZEhzZTJKVkQ4ZnhWTmo1NFQtMXNHZGFIa2pUTGM3dGtqNGNLc1lmZHVKNFZsLVB3?oc=5",
+        "tags": [
+          "DIE ZEIT"
+        ]
+      },
+      {
         "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
         "source": "ZDFheute",
         "publishedAt": "2025-11-18T08:00:00+00:00",
@@ -349,26 +368,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
         "tags": [
           "ZDFheute"
-        ]
-      },
-      {
-        "title": "„Sind Minister der Bundesregierung käuflich, Herr Weimer?“ - WELT",
-        "source": "WELT",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "„Sind Minister der Bundesregierung käuflich, Herr Weimer?“ WELT",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdkRCYTRUVjl0MFVrVnYyUmxrLWNUdGNYQmltLXZaUWhXM2swcDE1a1RzQURMVkkyUDFUNUNvMlREMzB6YjBKbnU0U2p4SjRTNjVJd2J6cUlGaDQ2S1RRRkdNTUZNYWl6REFxN2Q4dDRKN2NWd1FXNEU3WlUtN0VsR1AtVjZjcms2MXZMUUp4bG1nLUpLaFlZMjZaZHF6TnI2ZkwwZzdDYUxycnFuMTVoeXUxN3JwNVVmRmwxdFRfdzdXVG42a3Y0UjVTLTNmcmtJTnI5S0VSam5DMklT?oc=5",
-        "tags": [
-          "WELT"
-        ]
-      },
-      {
-        "title": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt - Deutschlandfunk",
-        "source": "Deutschlandfunk",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Streit um Ludwig-Erhard-Gipfel - Kulturstaatsminister Weimer sieht sich nach Medienberichten Vorwürfen im Zusammenhang mit seiner \"Media Group\" ausgesetzt Deutschlandfunk",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTUtkTVlzY3pLUVdGNEVTQ2dqU0p4RU1ieUo2SHZRM3lFMWV1ZXFwU1lvbm1ISEthaHZpMU9YM0lFTEIzRGlxdTV0UjJMQ3FwQ25IZnhpRFFsTllWN2Z5b2ZETHkyQXR5WE5CYllBT2VNUFIzQmtwVG91d3VCeUFZXzZrbkplS2xVeXJHWXFoYnRzNnlHQzFjSFRYYzF3WGxwamd2SDdaNUFBdTk5dGN5UENJcUJwYTl6YVhtWC1CSy01WDJHYXRlN0hHb3YwVTVQR0JTSFdxcw?oc=5",
-        "tags": [
-          "Deutschlandfunk"
         ]
       }
     ],
