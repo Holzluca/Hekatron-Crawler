@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T18:03:24.945872+00:00",
+  "generatedAt": "2026-04-26T19:26:32.327022+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -210,16 +210,6 @@
         ]
       },
       {
-        "title": "Test: Der beste Hochdruck­reiniger - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Test: Der beste Hochdruck­reiniger FAZ",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQTJvVHo0ZVBjV2ZOZ0IwZjJPd0JjcTFCWGptTHFDMUxEbV91Q0gzMmFwYnJxb2VLbEpvQ1Z6bjJfQkVucWdxdGxiOHZtX0tqUW9tRTZla1o4VXlXNGxCN2IzbUd0Zk5KNVI5Yk5KcWV5dlE?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T05:19:00+00:00",
@@ -247,6 +237,17 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
         "tags": [
           "X-Sense"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
         ]
       }
     ],
@@ -287,16 +288,6 @@
         "publishedAt": "2026-04-12T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie (US0376123065): Ist ihr Alternative-Investment-Modell stark genug fü AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDh0SklvRFNVRmhXX2wxOThfM081VHIwLUJ1WFRFNkVabkI2UjhzMVVPbHl5X3E1QjlhZF9TTERqZnZVT2VRdU5VeXRZVFRzQnhWRllkQ25OMnllWS1rMFFUR0NzOWJIQnlSOFZHeUtjUENzaTE1YXNRanFwRi05SmVvVEZuYng3MzNibDUzamdkaDRjRFlDRk5mZTNKdlhhWTdjSE9NR0w?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Tyres Ltd Aktie: Was Investoren in Deutschland jetzt wissen müssen - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-09T17:53:20+00:00",
-        "summary": "Apollo Tyres Ltd Aktie: Was Investoren in Deutschland jetzt wissen müssen AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEYwdlhORmNLNGVKdlhKMDdSekNPTGlNSXVIOTNmbjdnSWtuT0FQRVFtSjhhSjU3S0hIUzRXNnhjMUdXODRQSzdoa3ZieUlmWVdkUWUzbHhiSnJQMTV4QUVOdE5WNC0ybE9wd2ZCdjZTTkJmWER3Z3V0Q2VNWHlKQVp2b19Hc2NNMFM3Wk1TdzlEclZGLWFib0FLajNUNGIzTWlUdktnSzBnSnloaHhOVnNIUzh5UE1LZ0tBUHFxcXIySUp4WXc?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -367,6 +358,16 @@
         "publishedAt": "2026-03-28T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Starke Performance durch Tech-Investments und strategischen Wechsel - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-22T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Starke Performance durch Tech-Investments und strategischen Wechsel AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYTBMUjY5UkdyUHFpVWdpTTV1WG1Lcm1BQUZpZlZpUVBuUWVTZ3Vmb3M2dzBZWjFEcC11cllsamJkZFluSktfNm1tMHZ4bjU5NURybUlMN25RUDJQZEpYZGdLaHNCdTZjNzVZQUFyS1gzaWZtcFhzemo4eGY4WC1sZXUxMXdIczlYQ3VfeGY5ZmdLUFV2UlNFZDZyZWNvY1NLc280UUdiOHZESV9WM0lOZzF4aE1teDhPUzJJb2ZHLTlMTG5TVnhqNVlPSQ?oc=5",
         "tags": [
           "Apollo"
         ]
