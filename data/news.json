@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T09:49:26.234862+00:00",
+  "generatedAt": "2026-04-26T10:40:19.035749+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -210,6 +210,16 @@
         ]
       },
       {
+        "title": "Test: Der beste Hochdruck­reiniger - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Test: Der beste Hochdruck­reiniger FAZ",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQTJvVHo0ZVBjV2ZOZ0IwZjJPd0JjcTFCWGptTHFDMUxEbV91Q0gzMmFwYnJxb2VLbEpvQ1Z6bjJfQkVucWdxdGxiOHZtX0tqUW9tRTZla1o4VXlXNGxCN2IzbUd0Zk5KNVI5Yk5KcWV5dlE?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T05:19:00+00:00",
@@ -237,17 +247,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-04-17T14:45:00+00:00",
-        "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       }
     ],
@@ -303,31 +302,11 @@
         ]
       },
       {
-        "title": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-09T07:00:00+00:00",
-        "summary": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObC1rUW54aGFVeVgtNzVMUUhnYWI4ZXFKUTlKN3VSdmxTSUtKcDBQbFJZZWpua3UtYTc0OUpwYWRhYm8ycUw5UWQxSGtMN2U1UjdxT0pfODg3dmlWUTh6bDd5Z3FRTnZxY2xFclN2ekd5T1lMcXFWMXVVemY2VGk4ZDZtVEE0ckVKS1oyUUxyMU5oQQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-04-08T18:38:36+00:00",
         "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQU8wWjY2aUhaaDQxMU5nWWFZckUtVEZpNm40RUpNWTFTXzhqR21pcnczVFd2RlZEN0FJdVhGWGxuU1U0YU11OXhmNGdGQy1DTkpGSTVGS1RLdDhwTjhZNDNXSVZhSGh5ZkVZX2l4dFJjNm90cjNtSTNkbDd6bUx5N2g3dkwwT2NaQmxSeHpqdzBoWjd5VmxfZVhhNXNzUTVlc0lWcjVwOWcyMEFzQ0dfTjE5VQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
-        "source": "simplywall.st",
-        "publishedAt": "2026-04-02T07:00:00+00:00",
-        "summary": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTzd0b3l2WVhyZkZmcmZORC13U1I5cloxdzJTRG4wd2F4dWRIUlJxbW9XY2RSZXYyM2hFMnNYXzlZOVR6VWt0VURBNEVJSTItS2tmYXU0UDhqMVlheVVMZ3oyOEVxcHI1RVp0SElqUlluMFV3SWVQRDJSVHMtdTZnbjlTeXpyaW0tN2cyVjZlMmt5MHJNTmRWRm4wclp0MVZjeS1CNlpJajVEYk5Fb2ZQZVRsa0d5V3gxdXlmMDZXZzJUeVN0VUd3VzNLMGhNa0hEMDB6NW9OUi1INUdXUXluTHEzci1HRklqYXBuWkQ5dEbSAfYBQVVfeXFMT2tXZzRjNFc5M2JSSHg4a3plQU5GU0E1RFRSeTAwc2hxVHVJWEw4ZkhBM0xlaHlGTHY2Sjh0WlJkd3J5dm9GcnQ1aDBjWUdaUTAwc0p0Z19qdEF0bzBEejhYdFczcURPM3M3Q3h5eGFIX2MwWGVLWmJJUTZsaVoxZU1fdlFHY2NqRWZwdFRKVzgzWVZ6UnlHQkpsUHktWTJOR2NKaXJTOWxvUXV1aGQ0aktTQ2FBQ3hCZmViTkdweVpNYVltdWdETWYtRHFXYl8tSEpNenY2eW4yUTV5bWhPNFBxV2Q5RFZ0U0hBdjQwYWNPbGhvM0pB?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -368,6 +347,26 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz im Überblick (IS AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeUdMQ3lDRXVRQ3A3WExkMmlVNUxtVFFoZXg5MDNLQmFRcXZfR1FpbEJJSFJVTTh0ZlB5RWZfc1JvSkt0bDJvUnlYbFdjSW0xTi0wZlZoNUlFclY4Q2hmalJsVnhKWHJ6QU5VdkZuQjdMNXhwNzZCLXUxQkVWN3FHNWJMUjRpbFEwOWtrVDZaT2QyaEJObzF1b1JZVklUUWxNck1OODN1ejJhZHB6TWY4b1cxbGYwQQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-29T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMElhREtrTGpvcjF6ZTdyVFhRUG5uNlcyRXY0M2RSU3NHa2FyYVAtMEdySUQyMUhkWjNnSU4weXV5MU5ydUJ1Q0V4RmZBVndFb2VWQWJrYzhvd3l4TmRWLWFaR0RBWWFQTE8zNlVmQWdJbTQ2WXZEUFdIMlVueUNZWXRMTnc3WTlMZDBDOEhwWW1OYXJ6RUNkdHVrMlJwaWNoN0ctVW5BUU5qMHc0eC1nSElpLUJtdw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-28T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
         "tags": [
           "Apollo"
         ]
