@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T15:06:52.425743+00:00",
+  "generatedAt": "2026-04-26T16:03:32.763216+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -200,6 +200,16 @@
         ]
       },
       {
+        "title": "Test: Der beste Hochdruck­reiniger - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Test: Der beste Hochdruck­reiniger FAZ",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQTJvVHo0ZVBjV2ZOZ0IwZjJPd0JjcTFCWGptTHFDMUxEbV91Q0gzMmFwYnJxb2VLbEpvQ1Z6bjJfQkVucWdxdGxiOHZtX0tqUW9tRTZla1o4VXlXNGxCN2IzbUd0Zk5KNVI5Yk5KcWV5dlE?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T05:19:00+00:00",
@@ -232,24 +242,12 @@
       {
         "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
         "source": "Caschys Blog",
-        "publishedAt": "2026-04-17T14:45:00+00:00",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
         "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Nachhaltige Ei Electronics Rauchwarnmelder: EcoVadis Goldmedaille - a3BAU",
-        "source": "a3BAU",
-        "publishedAt": "2026-04-13T11:08:52+00:00",
-        "summary": "Nachhaltige Ei Electronics Rauchwarnmelder: EcoVadis Goldmedaille a3BAU",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHlFNGRGdEllWTJmSTBQaElEdlAzMzcxNS1pWTFkR0M3ZnBYbzNHc3lpdnVnNW1WOS1qV0w3RDV4R3Y5dS1jaEktdURIWHNyVEd5akswNFpiWnRpLXJkUGExenpqQ1FOYlFmY3YzZE13TXFvTUc1eDdVR3U0LTI2TTV0SS1fcEhF?oc=5",
-        "tags": [
-          "Ei",
-          "Ei Electronics",
-          "Rauchwarnmelder"
         ]
       }
     ],
@@ -365,11 +363,11 @@
         ]
       },
       {
-        "title": "Apollo Tyres Ltd Aktie: Umfassender Überblick über den indischen Reifenhersteller mit globaler Pr� - AD HOC NEWS",
+        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-28T07:00:00+00:00",
-        "summary": "Apollo Tyres Ltd Aktie: Umfassender Überblick über den indischen Reifenhersteller mit globaler Pr� AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ0xBdlRiN0lrclpIUG9xSXlUdU5JRk5udWdiaGI3SEc5cDF2bnZZdUJ1ejlsVjhYR25aQTZ4NmRNa00xZUhfaEw0VTZRUk9ZTzEwYjRIYUtTLWw2akloMFc1U2lIV3hWazJyVUxaOHcwcUNUb1pHMk5PZVZLYUdkUWtfRzFWdldudnlKVkNGeVFaUkMwTkhKNUhQTXVDME5BcjdBVVB6T0JvZURCZ0lHV1hzcTZ4aDV2bWE0UGZPNWpPQQ?oc=5",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTNsNTJTUnRULTFILXZDR2hRaEctT04wd3FPX0RhUVc2ZjgxVUJhcDRqaEozNmVCSzNwbGxhYTc2OVN2X2JBTU1mTk9RSldUODF3d1NwZFVBekhWQXFQaVEzVUxDSU1leVQtUmZ5NkpJVTRFOWpnN2N5S0dGRE1ieU9zQnJ4eHdMS3ZsMDlxa3BDQnlyaHNXcVJ0ek0wMzJlQ3RvdjNvT3JvZEVWY1dBZ1N1WHVSUQ?oc=5",
         "tags": [
           "Apollo"
         ]
