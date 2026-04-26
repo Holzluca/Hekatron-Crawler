@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T23:32:27.928661+00:00",
+  "generatedAt": "2026-04-26T02:09:17.972365+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -139,6 +139,16 @@
         ]
       },
       {
+        "title": "Smart-Home: Das intelligente Schlafzimmer - Falstaff",
+        "source": "Falstaff",
+        "publishedAt": "2026-04-24T10:35:21+00:00",
+        "summary": "Smart-Home: Das intelligente Schlafzimmer Falstaff",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpfUlpOcU11UnFncW9OYzBaOFVKY0k3Y3QxM3U0WWlUZ3lFU0FzNlgtWWxqalJ3T3JvTm04REpucnpvemZ5Um16YWRhczhRNU16b0Y0SE1VSzlzX2s4ekU1Szh5TVR5Yk5RMkUwYUFNak43RWZUcndXbC1oeEFEWDVNbmV5cEZQY1B5aW13?oc=5",
+        "tags": [
+          "Falstaff"
+        ]
+      },
+      {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
         "source": "MSN",
         "publishedAt": "2026-04-24T00:36:52+00:00",
@@ -200,16 +210,6 @@
         ]
       },
       {
-        "title": "Test: Der beste Hochdruck­reiniger - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Test: Der beste Hochdruck­reiniger FAZ",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQTJvVHo0ZVBjV2ZOZ0IwZjJPd0JjcTFCWGptTHFDMUxEbV91Q0gzMmFwYnJxb2VLbEpvQ1Z6bjJfQkVucWdxdGxiOHZtX0tqUW9tRTZla1o4VXlXNGxCN2IzbUd0Zk5KNVI5Yk5KcWV5dlE?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T05:19:00+00:00",
@@ -217,17 +217,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblB3TmVYWW43LUM1Tnluakw2MUZPdnU1c0gtQ1hQYURpT25OS1Itb0lHazlXclFTWE0xamJVaXBJTlVsQW9ZQ3Rva0M0U3hvcElsakR1ZzdiMERLejFER0x3ejVXbTV4ZUR2WnJzTE5mZzl4SDlSSXRRNFk5Z1BmbVdGeFAzbUhfWkI2QzN5clBpSG1yVFpQSjFGTjlPWU1MbDlUTGV4Q1E5cndYTGlOaUNnZENQME9STkx6el9vX2c?oc=5",
         "tags": [
           "Spiegel"
-        ]
-      },
-      {
-        "title": "Bosch Home Comfort erweitert Sicherheitswarnung für Therm 4300 Geräte - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-04-22T12:37:27+00:00",
-        "summary": "Bosch Home Comfort erweitert Sicherheitswarnung für Therm 4300 Geräte mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0pTcXVPNmVWNFY0SWZIUzdpbzRuTzNHLXFyRm9qenl6V0NmNzFmYUdHLXdaNHljSnIzeVVQZEljX3g3OC1pcWprdmNpZEFSUlFDUGhtbW1yem5abDZzaGoxY2RaT1ZZMUx1SFFSWXJCV0ZfV01oZzZybTVadWl6YWFqbks2UUtnQXVicENrOC1JLVBuVk1zel9ILUTSAaIBQVVfeXFMT2dBcUFVdWNtS2tuRTA3UzdZZ3J0aWFpWFNraVFBa1JPcGpqRk5BN1VPYjQ1d09BMk05M2p0bDhmT01xNEt6U0QtZXhUR0lic3pPSnBlNXd2TlBheWRHdFBTQlNpQWZ6cDd0UkNScnFTcTRibG93dngtay1mRzljTnM3S19GSFZCZlFvYXdrTGNKeWRPWlk5dmxGQnlybmV4TmRR?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       },
       {
@@ -248,6 +237,17 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
         "tags": [
           "X-Sense"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-04-17T14:45:00+00:00",
+        "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
         ]
       }
     ],
@@ -293,16 +293,6 @@
         ]
       },
       {
-        "title": "Apollo Tyres Ltd Aktie: Was Investoren in Deutschland jetzt wissen müssen - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-09T17:53:20+00:00",
-        "summary": "Apollo Tyres Ltd Aktie: Was Investoren in Deutschland jetzt wissen müssen AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEYwdlhORmNLNGVKdlhKMDdSekNPTGlNSXVIOTNmbjdnSWtuT0FQRVFtSjhhSjU3S0hIUzRXNnhjMUdXODRQSzdoa3ZieUlmWVdkUWUzbHhiSnJQMTV4QUVOdE5WNC0ybE9wd2ZCdjZTTkJmWER3Z3V0Q2VNWHlKQVp2b19Hc2NNMFM3Wk1TdzlEclZGLWFib0FLajNUNGIzTWlUdktnSzBnSnloaHhOVnNIUzh5UE1LZ0tBUHFxcXIySUp4WXc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-04-08T18:38:36+00:00",
@@ -333,16 +323,6 @@
         ]
       },
       {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
-      },
-      {
         "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz im Überblick (IS - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-03-30T07:00:00+00:00",
@@ -368,6 +348,26 @@
         "publishedAt": "2026-03-28T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Tyres Ltd Aktie: Umfassender Überblick über den indischen Reifenhersteller mit globaler Pr� - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-28T07:00:00+00:00",
+        "summary": "Apollo Tyres Ltd Aktie: Umfassender Überblick über den indischen Reifenhersteller mit globaler Pr� AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ0xBdlRiN0lrclpIUG9xSXlUdU5JRk5udWdiaGI3SEc5cDF2bnZZdUJ1ejlsVjhYR25aQTZ4NmRNa00xZUhfaEw0VTZRUk9ZTzEwYjRIYUtTLWw2akloMFc1U2lIV3hWazJyVUxaOHcwcUNUb1pHMk5PZVZLYUdkUWtfRzFWdldudnlKVkNGeVFaUkMwTkhKNUhQTXVDME5BcjdBVVB6T0JvZURCZ0lHV1hzcTZ4aDV2bWE0UGZPNWpPQQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTNsNTJTUnRULTFILXZDR2hRaEctT04wd3FPX0RhUVc2ZjgxVUJhcDRqaEozNmVCSzNwbGxhYTc2OVN2X2JBTU1mTk9RSldUODF3d1NwZFVBekhWQXFQaVEzVUxDSU1leVQtUmZ5NkpJVTRFOWpnN2N5S0dGRE1ieU9zQnJ4eHdMS3ZsMDlxa3BDQnlyaHNXcVJ0ek0wMzJlQ3RvdjNvT3JvZEVWY1dBZ1N1WHVSUQ?oc=5",
         "tags": [
           "Apollo"
         ]
