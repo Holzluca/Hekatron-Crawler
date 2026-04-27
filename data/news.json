@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T09:35:59.816826+00:00",
+  "generatedAt": "2026-04-27T11:41:33.203376+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -66,6 +66,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Den Brandschutz gibt’s im Service-Abo - Immobilien Zeitung",
         "source": "Immobilien Zeitung",
         "publishedAt": "2026-03-26T07:00:00+00:00",
@@ -115,19 +125,20 @@
         "tags": [
           "Netzwelt"
         ]
-      },
-      {
-        "title": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern - Ntv",
-        "source": "Ntv",
-        "publishedAt": "2026-01-20T08:00:00+00:00",
-        "summary": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern Ntv",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVozWm4wbWtTUDZWVVpENWtkOUREaEVBT2tJMEhZTkFlX3NzLUZSRk5BZl9PcG9sdjlONV9HOHM1UkVWWDkzdU5IQ3hMZDZfRUdsNnl3ZWJxTlJOUVN4U29XTHJKTWRldHJOX2hRWXVVNWt1U21OeE4yMWQ5bGhKMk5OYm9WbmlFOThDTmctZmhKbkNYQURfVjNvWUlwVHIzMmRBcVdKT0xrbnZNSEFabVE0Zw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Wer noch manuell heizt, wirft Geld aus dem Fenster – Bosch hat die Lösung - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-04-27T10:11:00+00:00",
+        "summary": "Wer noch manuell heizt, wirft Geld aus dem Fenster – Bosch hat die Lösung Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0FsM0ltZmdvUnQ0cm5WRGUtWkZwMEctWlVvc043Qjh0Q3dWNmNaVHZTczlKTjB4c0RXcnEwQU94OGo0OERxd2VITEdwdUhObFliTDdYSkR5emlKQWlEcUttbEJUcVJDMllxYy13eVpJUFR2WDc3M1FlM2Z0TV9uWGU4VmVKVFlJR3JZeTlnWk9tTExLZkZnZVJqbC1UWTQ4N0RfRzhJRTJTcE0?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
       {
         "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
         "source": "Berliner Morgenpost",
@@ -136,16 +147,6 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Smart-Home: Das intelligente Schlafzimmer - Falstaff",
-        "source": "Falstaff",
-        "publishedAt": "2026-04-24T10:35:21+00:00",
-        "summary": "Smart-Home: Das intelligente Schlafzimmer Falstaff",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpfUlpOcU11UnFncW9OYzBaOFVKY0k3Y3QxM3U0WWlUZ3lFU0FzNlgtWWxqalJ3T3JvTm04REpucnpvemZ5Um16YWRhczhRNU16b0Y0SE1VSzlzX2s4ekU1Szh5TVR5Yk5RMkUwYUFNak43RWZUcndXbC1oeEFEWDVNbmV5cEZQY1B5aW13?oc=5",
-        "tags": [
-          "Falstaff"
         ]
       },
       {
@@ -353,21 +354,21 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Globaler Vermögensverwalter mit Fokus auf Alternative Investments � - AD HOC NEWS",
+        "title": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-29T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Globaler Vermögensverwalter mit Fokus auf Alternative Investments � AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlA4UTN4TUlLLXNHcmJxcWRFWEJxLWNxU3RZVzFLZTZmaXpFX3ptd2wwRk1pcVFjSjE1elFRa0d4VXZpOXBuTmxTUkp2SE9FRERKOUIyYzZDeUxYSTNScEdzZEk4cndoSkpFd2NENlQ0UVVPV3BucjdKY2RaT3NHZkhHb2oxLWx5OEd6Ym1IZDRJLVh4MVg3MFdUUVFaY0l4LWRJbGJVM3lSVW1Rd1psZjB4dGRQb2t2OFkwNWJacHoyMXl5UUE?oc=5",
+        "publishedAt": "2026-03-22T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDFaSjdJQ1VDa3JnS0picFNnQWl6VW5PZjhCdU0xbGotaFRIZXdiX3lMUTNKZzJHZ2hiRDY1U3RTb2lOZ1duUnFGdUZCbUFrREVQQ21PNHlVdWUxa1owRVBTRHZNc19NbEFxWTJtMko5RC1pbUlTQVNKSkJXUGNLOU9lbEJ5R1ZnblpvX2hxZ1dfb3hJLXUyRmoyWWZ0T2tZdVR2alJCOHNLVTdKZ1RxQmdxYzZQS250cGVXMDVzcU1OYVU?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva - AD HOC NEWS",
+        "title": "Apollo Global Management Aktie: Milliarden-Deal mit Realty Income treibt Wachstum in stabilen Retail-Immobilien - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-28T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
+        "publishedAt": "2026-03-19T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Milliarden-Deal mit Realty Income treibt Wachstum in stabilen Retail-Immobilien AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDVDQ2psQWMzNUN6SEdqZERRUzZGWnVZSk1EVjB6SHlqektnTUMwb0VQWUJsRldRUGlsX2Y4di1WVVktYllydVhnbjBPRzU1dU1vdHZ2eWxSMFpuYS1fYk5TMjIzVE1nRmRacWcxTzNPZ09vSWlYdk0tSzBDRUNYN0JtOEtfUW9ST0FhLWY0ekhmcURvNGZ1MUlBbmdRWHdQLVgydTRJWkh4N1lXVXdrc1NMXzFJcW5uSWdGZWRjc2xKbWs?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -375,13 +376,13 @@
     ],
     "trends": [
       {
-        "title": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-27T05:53:03+00:00",
-        "summary": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXVPa2VEeDVTYUUzQVNlLTR6TDVnNGs4dnNJdjZjUmVnM2h0UVp3dnhEYXpYNXBtbVBJYklHTjEzLWVEME5lOEtSSjVSZmYtWjQwaF9xT0lsRjdLMUpXeE02TW9sQnpGTEhsYWpsc2tvT0lsdW5ENXdxTTRTQy1XUTFsNFdsdDdrT20tV0w1ZjdIV3BKRVkyNkRjN2lPcmJ3Y1ZtLVFCVzhrbnl3OXFHaHJOVUQxeEdHUXhaalFhX2V1aWhNSmc?oc=5",
+        "title": "Matthias Hollwich: Wie KI die Architektur ändert - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T11:03:43+00:00",
+        "summary": "Matthias Hollwich: Wie KI die Architektur ändert FAZ",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNVk0MHp0a2s1c0ZVS0RjRG0tWjl0N09tZzJqTmtNSGE1VWFuUzloTWpuM3g3X3ZVU1YyeG5TS3hhZzE1bmFZa2ZLMldsQm1sZkxwS29SaFhMZTViSTh0NThycm14U2ZiYXI1RDdicFgzZWFVWlRoekFLX1pXSHNIOWRuemIxNUdKQm5Rb1hVbEtwRE5nUzdpbTRUSlJqM0tONFVoN1BvV3QxNWxNSWNhR05UTkJPZEZVUXBZZFVRRElGLXFzdEJSX0RrTm5lY2ViakVnMA?oc=5",
         "tags": [
-          "Regulierung"
+          "KI"
         ]
       },
       {
@@ -415,16 +416,6 @@
         ]
       },
       {
-        "title": "Johnson Controls Aktie (IE00BY7QL619): Steckt in den Smart-Building-Lösungen mehr Potenzial als erw - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-13T08:05:32+00:00",
-        "summary": "Johnson Controls Aktie (IE00BY7QL619): Steckt in den Smart-Building-Lösungen mehr Potenzial als erw AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlNLa19pTl9zcGJ3RktJVkpHRVIyMmszanFSQTJkM1hSM09pLW1oOURQSlBCMC1kT0M2bm9ZTThIS0dvSG1sWkFWekpxeG93c0x4RElrOTg0VVU4eDZNRUpLUW1TT2dIRzAtWFk2TmlieTlCUWIweFFpbTVSaWp0dHJQcS1WNFdDcFkyeFpCc29wYzdCWVZFZS1oY0ZhdGYyMHpXNm53?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
         "title": "Smarte Gebäudetechnik im Klinikum Stuttgart - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-04-10T05:00:00+00:00",
@@ -432,6 +423,16 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung - News.de",
+        "source": "News.de",
+        "publishedAt": "2026-04-08T07:00:00+00:00",
+        "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
