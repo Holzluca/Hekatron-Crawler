@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T13:27:14.501010+00:00",
+  "generatedAt": "2026-04-27T15:23:50.017830+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -223,16 +223,6 @@
         ]
       },
       {
-        "title": "Test: Der beste Hochdruck­reiniger - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Test: Der beste Hochdruck­reiniger FAZ",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQTJvVHo0ZVBjV2ZOZ0IwZjJPd0JjcTFCWGptTHFDMUxEbV91Q0gzMmFwYnJxb2VLbEpvQ1Z6bjJfQkVucWdxdGxiOHZtX0tqUW9tRTZla1o4VXlXNGxCN2IzbUd0Zk5KNVI5Yk5KcWV5dlE?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T05:19:00+00:00",
@@ -250,6 +240,16 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVEVkbFR3MlgtZUlyZy1VTmd1a3lhLTFpcjZxM3MtNFVSVFFMeWx2b1Y5bG9seXNNd1E3UXlQWkMxVnBZMUFxc2RyYWtsUXJEMU9zRGFsdlhOVTFCa1N0MVktVzhiei1Odkgw?oc=5",
         "tags": [
           "PressNetwork"
+        ]
+      },
+      {
+        "title": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-04-17T18:51:03+00:00",
+        "summary": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
+        "tags": [
+          "X-Sense"
         ]
       }
     ],
@@ -305,16 +305,6 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Warum Alternative Assets jetzt zählen - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-04T19:44:06+00:00",
-        "summary": "Apollo Global Management Aktie: Warum Alternative Assets jetzt zählen AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdGowbFhlREJuQWJ0UjdIVWZWQzB1TTJ1c0hmMVZ3dVA1aDFFdE8talZNQVNpeUg0RF9lOVM4TC1Cbnc5eUFrbERualphMm5xeGphbWxzM01aUFp1YTBoNXk3UUJNZ2oyZ0lRbjFYUUJDbE9GOFprVERYUXZUTkI5Rlo3ai1iZ0YxYWNXVVFBRFotbHg5TlhzcE5DRkpMbk43bjR1YlNmdUdLYmdjZnpPdmFKN2pROC10dEtxaEFMUnI?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
         "source": "simplywall.st",
         "publishedAt": "2026-04-02T07:00:00+00:00",
@@ -355,23 +345,33 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Globaler Vermögensverwalter mit Fokus auf Alternative Investments � - AD HOC NEWS",
+        "title": "Apollo Global Management Aktie: Milliarden-Deal mit Realty Income treibt Wachstum in stabilen Retail-Immobilien - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-29T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Globaler Vermögensverwalter mit Fokus auf Alternative Investments � AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlA4UTN4TUlLLXNHcmJxcWRFWEJxLWNxU3RZVzFLZTZmaXpFX3ptd2wwRk1pcVFjSjE1elFRa0d4VXZpOXBuTmxTUkp2SE9FRERKOUIyYzZDeUxYSTNScEdzZEk4cndoSkpFd2NENlQ0UVVPV3BucjdKY2RaT3NHZkhHb2oxLWx5OEd6Ym1IZDRJLVh4MVg3MFdUUVFaY0l4LWRJbGJVM3lSVW1Rd1psZjB4dGRQb2t2OFkwNWJacHoyMXl5UUE?oc=5",
+        "publishedAt": "2026-03-19T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Milliarden-Deal mit Realty Income treibt Wachstum in stabilen Retail-Immobilien AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDVDQ2psQWMzNUN6SEdqZERRUzZGWnVZSk1EVjB6SHlqektnTUMwb0VQWUJsRldRUGlsX2Y4di1WVVktYllydVhnbjBPRzU1dU1vdHZ2eWxSMFpuYS1fYk5TMjIzVE1nRmRacWcxTzNPZ09vSWlYdk0tSzBDRUNYN0JtOEtfUW9ST0FhLWY0ekhmcURvNGZ1MUlBbmdRWHdQLVgydTRJWkh4N1lXVXdrc1NMXzFJcW5uSWdGZWRjc2xKbWs?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance - AD HOC NEWS",
+        "title": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und Private Equity Boom - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-22T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDFaSjdJQ1VDa3JnS0picFNnQWl6VW5PZjhCdU0xbGotaFRIZXdiX3lMUTNKZzJHZ2hiRDY1U3RTb2lOZ1duUnFGdUZCbUFrREVQQ21PNHlVdWUxa1owRVBTRHZNc19NbEFxWTJtMko5RC1pbUlTQVNKSkJXUGNLOU9lbEJ5R1ZnblpvX2hxZ1dfb3hJLXUyRmoyWWZ0T2tZdVR2alJCOHNLVTdKZ1RxQmdxYzZQS250cGVXMDVzcU1OYVU?oc=5",
+        "publishedAt": "2026-03-18T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und Private Equity Boom AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN1JtOUowTG9qUE5ST3d6ZUhqOU1SWl9aZFE0UkVYMlZLbTg3SU1HSllsWTNhU0hEWkNpYjBwb2RWaDBVaUF3WHp6czh6V2x1bUlzMFpMZkVIbllkdGRzWTUzdEotX1VFOEU0Qml5Q3dIc2VTeWk2cWt5WGxvamhoYlpkaGdyV0FpLWQwanF3SVA4OTlycXNXcE9Xei15ZmtNcnRkYW1qaGxrLXdBQmp4R1ZzZGoxdXNnbGgxNmdvNXJtdjRqa0pUR3N3?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
         ]
       }
     ],
@@ -437,6 +437,16 @@
         ]
       },
       {
+        "title": "Immobilien: Macht KI Bürogebäude überflüssig? - DW.com",
+        "source": "DW.com",
+        "publishedAt": "2026-04-08T07:00:00+00:00",
+        "summary": "Immobilien: Macht KI Bürogebäude überflüssig? DW.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTVVM0RnWXkwMXJoX1dGaV95TkdzTlNvMGhUTkh0MmNoTzlDTm5VWGxLbE1IM3I3Qm5RMVhva0FiU1pHX2l4SWdzdTJGdGoyMTd3VmQtUVlmTU5GUHctZHA4RG5OQ3VwZjMtRUVIUldHNFJZVDFLTnp2RzRQdHlkNnZRUmVYVTZqODc0dzItdUsxSllLdHBRRGxnZ3HSAZwBQVVfeXFMTW84NWNRNmowVnNQWXRWUlBBN2oxNFl2czNERkFwOGN0Wno1SkRrR1B1YnNKUElybTFibjBWV0xLYWJhVHgtTDNEU0dENDFkRmVPalRkWU5tVkhBdVZwT3RlT3dBZHdRVjJIMUM4YkJtN29WUXZPdGJqSkNHd3JvUzFwd2QtcktYNnV6MHM0WFF2VmJ2b05ZRmszc1Vn?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-06T07:00:00+00:00",
@@ -484,16 +494,6 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Gebäude-ESG-Check wird zum Pflichtprogramm für Hausbesitzer - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-23T07:00:00+00:00",
-        "summary": "Gebäude-ESG-Check wird zum Pflichtprogramm für Hausbesitzer AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRS1nN1Jkb1IyXzgybFUxVEJxRC0wRUVKRUdUSEd2ejE0ZzhaQmF3NDdHZV82YzIwOVhGbmY0SGNmQkpJV0k2ZGlacDYyc1M4SE9laGtURnhiNUJRMnhnemZCOUp5MElaX1ZYdUVkVVJWN1RSU21vVFhjR1JKUjNudzZ1cDN0Z2kydWViTEpQS1M2bEhjb0RsSGcyZGVMakxHUG5zM0tYdUdBelRsQVhJdmtDT2pFQkluZ21xTA?oc=5",
-        "tags": [
-          "ESG"
         ]
       }
     ]
