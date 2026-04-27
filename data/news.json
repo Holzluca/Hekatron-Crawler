@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T20:06:03.616145+00:00",
+  "generatedAt": "2026-04-27T21:32:36.135785+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,13 +129,23 @@
     ],
     "pfs": [
       {
-        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
+        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - morgenpost.de",
+        "source": "morgenpost.de",
         "publishedAt": "2026-04-24T14:21:25+00:00",
-        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
+        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro morgenpost.de",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-24T12:59:37+00:00",
+        "summary": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften MSN",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQaW9qWEdBRFZmdFl0ZzVwV0FVQjVKUzY2ZTZMU29BNk0wMGJ6bHFTbHpaREgwQnhiaDI2Z0Rzd1JkS2JaY1ZuV2xfVHRkQWlqT3RtUVNyaWFPYVVxZjAzQ2E0b1JnTm9JZHJkdVdWYjNLUW9DRHZLNWtxQWdjczd2aUIxQmczZmdxMEJSSFFMaG1Renlxa2tob0JCRURja252SzNWTHNuWFdoNmVKNm5NZExkM0hKOW1xNDYtbTlPNG9pQnVtWGFvNFdTVmZWbzdnbmtxQnpMeFlkN2FkMUhEWm5ZZ29jZDB2WndGeEE0bUEydTNLQkY4Ymw0dkxDcUdaTXB3ODhzSnBVUnp0RVRGQU1Ud3BiZUFLX2J0U0hSS1pva3VUM3VTREtBSzY3NktDa2hXYUw4anBvRXJCemt3NERBLWxIU3g3cE1SZlQzWXY1UUwtMndJdVZ2ZTY0ekhpcDI1aHlJTlVXdTdNd0s4ZERiYnQ3NXMwenRlY2plSjlYQVdq?oc=5",
+        "tags": [
+          "MSN"
         ]
       },
       {
@@ -239,17 +249,6 @@
         "tags": [
           "Ei",
           "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Update bringt bessere Benachrichtigungen und Fehlerbehebungen Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1Y1ajVvZU5GcGpwbkhUb3JzZFBPM2s3dFhyU1E1LXNxdXp4eFQ4VGpULWZTc3N0amQ2ajJnb19SNEQ3ZWI2cHlMaXFiU2RWem5hSHAwUzFDN3FtSHkyc3hwUHFlWnJCb19uYkt4Z21rWl9fZEhRTzRLdmRjcTExejVGWVVoMkVuZHhfU1FjY1BXeTZYX1A5V1FVZUdaMkFTdEpsamxfamU3cVl5?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       }
     ],
