@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T20:46:34.391385+00:00",
+  "generatedAt": "2026-04-28T21:52:39.014143+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -242,13 +242,14 @@
         ]
       },
       {
-        "title": "Tipps für die Rauchmelder-Auswahl - PressNetwork",
-        "source": "PressNetwork",
-        "publishedAt": "2026-04-20T08:42:07+00:00",
-        "summary": "Tipps für die Rauchmelder-Auswahl PressNetwork",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVEVkbFR3MlgtZUlyZy1VTmd1a3lhLTFpcjZxM3MtNFVSVFFMeWx2b1Y5bG9seXNNd1E3UXlQWkMxVnBZMUFxc2RyYWtsUXJEMU9zRGFsdlhOVTFCa1N0MVktVzhiei1Odkgw?oc=5",
+        "title": "Bosch Home Comfort erweitert Sicherheitswarnung für Therm 4300 Geräte - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-04-22T12:37:27+00:00",
+        "summary": "Bosch Home Comfort erweitert Sicherheitswarnung für Therm 4300 Geräte mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0pTcXVPNmVWNFY0SWZIUzdpbzRuTzNHLXFyRm9qenl6V0NmNzFmYUdHLXdaNHljSnIzeVVQZEljX3g3OC1pcWprdmNpZEFSUlFDUGhtbW1yem5abDZzaGoxY2RaT1ZZMUx1SFFSWXJCV0ZfV01oZzZybTVadWl6YWFqbks2UUtnQXVicENrOC1JLVBuVk1zel9ILUTSAaIBQVVfeXFMT2dBcUFVdWNtS2tuRTA3UzdZZ3J0aWFpWFNraVFBa1JPcGpqRk5BN1VPYjQ1d09BMk05M2p0bDhmT01xNEt6U0QtZXhUR0lic3pPSnBlNXd2TlBheWRHdFBTQlNpQWZ6cDd0UkNScnFTcTRibG93dngtay1mRzljTnM3S19GSFZCZlFvYXdrTGNKeWRPWlk5dmxGQnlybmV4TmRR?oc=5",
         "tags": [
-          "PressNetwork"
+          "Ei",
+          "Bosch"
         ]
       }
     ],
@@ -284,16 +285,6 @@
         ]
       },
       {
-        "title": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-09T07:00:00+00:00",
-        "summary": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObC1rUW54aGFVeVgtNzVMUUhnYWI4ZXFKUTlKN3VSdmxTSUtKcDBQbFJZZWpua3UtYTc0OUpwYWRhYm8ycUw5UWQxSGtMN2U1UjdxT0pfODg3dmlWUTh6bDd5Z3FRTnZxY2xFclN2ekd5T1lMcXFWMXVVemY2VGk4ZDZtVEE0ckVKS1oyUUxyMU5oQQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-04-08T18:38:36+00:00",
@@ -309,6 +300,16 @@
         "publishedAt": "2026-04-08T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjNQeUVwY0VHLVByajRnbW0weWx4MWRyNUs5bzBHc21LTEV5alJkRGJEYXF4ZGZWM3k4X1pqT3NXLUMzejlNN3JlVTFPRlNTRmpiQUVsblpwdUsyNndkOFBKNWJ4azVOWnNiOVpWZ0lDbzNnNXhqOXhmLVJNVHF4aUNQbFc2TzJEdy1CZ1Y1cUVtVFliNElsbEpad3hIR3MybjNyb0lEZGh3cThTWGNMWGQzbw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Warum Alternative Assets jetzt zählen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-04T19:44:06+00:00",
+        "summary": "Apollo Global Management Aktie: Warum Alternative Assets jetzt zählen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdGowbFhlREJuQWJ0UjdIVWZWQzB1TTJ1c0hmMVZ3dVA1aDFFdE8talZNQVNpeUg0RF9lOVM4TC1Cbnc5eUFrbERualphMm5xeGphbWxzM01aUFp1YTBoNXk3UUJNZ2oyZ0lRbjFYUUJDbE9GOFprVERYUXZUTkI5Rlo3ai1iZ0YxYWNXVVFBRFotbHg5TlhzcE5DRkpMbk43bjR1YlNmdUdLYmdjZnpPdmFKN2pROC10dEtxaEFMUnI?oc=5",
         "tags": [
           "Apollo"
         ]
