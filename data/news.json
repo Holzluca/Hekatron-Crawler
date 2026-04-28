@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T02:27:17.585286+00:00",
+  "generatedAt": "2026-04-28T05:44:00.606007+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -76,6 +76,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Den Brandschutz gibt’s im Service-Abo - Immobilien Zeitung",
         "source": "Immobilien Zeitung",
         "publishedAt": "2026-03-26T07:00:00+00:00",
@@ -115,27 +125,27 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-01-24T08:00:00+00:00",
-        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
-        "tags": [
-          "Netzwelt"
-        ]
       }
     ],
     "pfs": [
       {
-        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - morgenpost.de",
-        "source": "morgenpost.de",
+        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
+        "source": "Berliner Morgenpost",
         "publishedAt": "2026-04-24T14:21:25+00:00",
-        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro morgenpost.de",
+        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-24T12:59:37+00:00",
+        "summary": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften MSN",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQaW9qWEdBRFZmdFl0ZzVwV0FVQjVKUzY2ZTZMU29BNk0wMGJ6bHFTbHpaREgwQnhiaDI2Z0Rzd1JkS2JaY1ZuV2xfVHRkQWlqT3RtUVNyaWFPYVVxZjAzQ2E0b1JnTm9JZHJkdVdWYjNLUW9DRHZLNWtxQWdjczd2aUIxQmczZmdxMEJSSFFMaG1Renlxa2tob0JCRURja252SzNWTHNuWFdoNmVKNm5NZExkM0hKOW1xNDYtbTlPNG9pQnVtWGFvNFdTVmZWbzdnbmtxQnpMeFlkN2FkMUhEWm5ZZ29jZDB2WndGeEE0bUEydTNLQkY4Ymw0dkxDcUdaTXB3ODhzSnBVUnp0RVRGQU1Ud3BiZUFLX2J0U0hSS1pva3VUM3VTREtBSzY3NktDa2hXYUw4anBvRXJCemt3NERBLWxIU3g3cE1SZlQzWXY1UUwtMndJdVZ2ZTY0ekhpcDI1aHlJTlVXdTdNd0s4ZERiYnQ3NXMwenRlY2plSjlYQVdq?oc=5",
+        "tags": [
+          "MSN"
         ]
       },
       {
@@ -149,13 +159,13 @@
         ]
       },
       {
-        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
-        "source": "WirtschaftsWoche",
-        "publishedAt": "2026-04-23T12:26:39+00:00",
-        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-04-23T12:42:00+00:00",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUlqYnVWTXprZV9TbVFNdkY1djlaR1RZbnJVMk1nbzJTTzZtVlZPVVJFZF95bl9MdEpvc2dSaFFzenA0LXBhU0tjM2tpSDNpQll2OUdpN1dkMU1sSUFSVzFrd1dWQmtDWVhNQU5OcDlqcWlzMEVuRzdmNXlpOUY4QnFldjIwNXgyVkRudUtjSXFDWkZFNERLaldISkJSS0hpb0xRaHU4Z21nTXh5eU11UXNJUW9sRzl4UTF1TE9VcWVIVVdRcHVZR2ZUSHhnTGVmdVVUWFNsYw?oc=5",
         "tags": [
-          "WirtschaftsWoche"
+          "Handelsblatt"
         ]
       },
       {
@@ -201,6 +211,16 @@
         ]
       },
       {
+        "title": "Test: Der beste Hochdruck­reiniger - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Test: Der beste Hochdruck­reiniger FAZ",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQTJvVHo0ZVBjV2ZOZ0IwZjJPd0JjcTFCWGptTHFDMUxEbV91Q0gzMmFwYnJxb2VLbEpvQ1Z6bjJfQkVucWdxdGxiOHZtX0tqUW9tRTZla1o4VXlXNGxCN2IzbUd0Zk5KNVI5Yk5KcWV5dlE?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T05:19:00+00:00",
@@ -228,27 +248,6 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVEVkbFR3MlgtZUlyZy1VTmd1a3lhLTFpcjZxM3MtNFVSVFFMeWx2b1Y5bG9seXNNd1E3UXlQWkMxVnBZMUFxc2RyYWtsUXJEMU9zRGFsdlhOVTFCa1N0MVktVzhiei1Odkgw?oc=5",
         "tags": [
           "PressNetwork"
-        ]
-      },
-      {
-        "title": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ - klamm.de",
-        "source": "klamm.de",
-        "publishedAt": "2026-04-17T18:51:03+00:00",
-        "summary": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ klamm.de",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJtWjN6NHZOMVpwVVZZUXcxZUoxRzdpbVFyMEpGbXBmdGhGRWI1aHo1Y3pWR2RqRE9OU1gzRXp3OHNlSHBrcmRsdXFzTF9wUzFEc2kxRzJOM3lqYzVGVkhzZDhjMUxmSFVKa0IyV2dBUnB0VWhlSHZjOUhtYjRuaFN1ejNVbEdCZklrZUJqSkJmQnRHaTAxQ0Y1R1RnU1UyaUc3NXlTeWdFdUhvYWlrWGZGUTIwT0k?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       }
     ],
@@ -354,11 +353,11 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Globaler Vermögensverwalter mit Fokus auf Alternative Investments � - AD HOC NEWS",
+        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-29T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Globaler Vermögensverwalter mit Fokus auf Alternative Investments � AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlA4UTN4TUlLLXNHcmJxcWRFWEJxLWNxU3RZVzFLZTZmaXpFX3ptd2wwRk1pcVFjSjE1elFRa0d4VXZpOXBuTmxTUkp2SE9FRERKOUIyYzZDeUxYSTNScEdzZEk4cndoSkpFd2NENlQ0UVVPV3BucjdKY2RaT3NHZkhHb2oxLWx5OEd6Ym1IZDRJLVh4MVg3MFdUUVFaY0l4LWRJbGJVM3lSVW1Rd1psZjB4dGRQb2t2OFkwNWJacHoyMXl5UUE?oc=5",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTNsNTJTUnRULTFILXZDR2hRaEctT04wd3FPX0RhUVc2ZjgxVUJhcDRqaEozNmVCSzNwbGxhYTc2OVN2X2JBTU1mTk9RSldUODF3d1NwZFVBekhWQXFQaVEzVUxDSU1leVQtUmZ5NkpJVTRFOWpnN2N5S0dGRE1ieU9zQnJ4eHdMS3ZsMDlxa3BDQnlyaHNXcVJ0ek0wMzJlQ3RvdjNvT3JvZEVWY1dBZ1N1WHVSUQ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -403,6 +402,16 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNVk0MHp0a2s1c0ZVS0RjRG0tWjl0N09tZzJqTmtNSGE1VWFuUzloTWpuM3g3X3ZVU1YyeG5TS3hhZzE1bmFZa2ZLMldsQm1sZkxwS29SaFhMZTViSTh0NThycm14U2ZiYXI1RDdicFgzZWFVWlRoekFLX1pXSHNIOWRuemIxNUdKQm5Rb1hVbEtwRE5nUzdpbTRUSlJqM0tONFVoN1BvV3QxNWxNSWNhR05UTkJPZEZVUXBZZFVRRElGLXFzdEJSX0RrTm5lY2ViakVnMA?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-27T05:53:03+00:00",
+        "summary": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXVPa2VEeDVTYUUzQVNlLTR6TDVnNGs4dnNJdjZjUmVnM2h0UVp3dnhEYXpYNXBtbVBJYklHTjEzLWVEME5lOEtSSjVSZmYtWjQwaF9xT0lsRjdLMUpXeE02TW9sQnpGTEhsYWpsc2tvT0lsdW5ENXdxTTRTQy1XUTFsNFdsdDdrT20tV0w1ZjdIV3BKRVkyNkRjN2lPcmJ3Y1ZtLVFCVzhrbnl3OXFHaHJOVUQxeEdHUXhaalFhX2V1aWhNSmc?oc=5",
+        "tags": [
+          "Regulierung"
         ]
       },
       {
@@ -483,16 +492,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeG13d0FFV3dsVElfQm5abGpUdURucV91X3JiMGtEU2JaRTQxSmR6anRIQnBqbVpqM2did3pOU193MllfcUZnTXdtZTZmZnhySlBvZnNNdkFESjdtQkg3VkhZODZzclE1RkhTQnFNaDQ0TUpab2piYUZRaVdYaGlQN3RWNk5wcHBESHROaUtHR1IzYXRON25PUDVDSXdyaGZ1S0FxR2VsOA?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-24T07:00:00+00:00",
-        "summary": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
