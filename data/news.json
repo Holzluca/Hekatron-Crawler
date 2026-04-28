@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T10:29:36.321525+00:00",
+  "generatedAt": "2026-04-28T12:12:07.747171+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -76,16 +76,6 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Den Brandschutz gibt’s im Service-Abo - Immobilien Zeitung",
         "source": "Immobilien Zeitung",
         "publishedAt": "2026-03-26T07:00:00+00:00",
@@ -124,6 +114,16 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
         ]
       }
     ],
@@ -242,13 +242,13 @@
         ]
       },
       {
-        "title": "Tipps für die Rauchmelder-Auswahl - PressNetwork",
-        "source": "PressNetwork",
-        "publishedAt": "2026-04-20T08:42:07+00:00",
-        "summary": "Tipps für die Rauchmelder-Auswahl PressNetwork",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVEVkbFR3MlgtZUlyZy1VTmd1a3lhLTFpcjZxM3MtNFVSVFFMeWx2b1Y5bG9seXNNd1E3UXlQWkMxVnBZMUFxc2RyYWtsUXJEMU9zRGFsdlhOVTFCa1N0MVktVzhiei1Odkgw?oc=5",
+        "title": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-04-17T18:51:03+00:00",
+        "summary": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
         "tags": [
-          "PressNetwork"
+          "X-Sense"
         ]
       }
     ],
@@ -294,16 +294,6 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-08T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjNQeUVwY0VHLVByajRnbW0weWx4MWRyNUs5bzBHc21LTEV5alJkRGJEYXF4ZGZWM3k4X1pqT3NXLUMzejlNN3JlVTFPRlNTRmpiQUVsblpwdUsyNndkOFBKNWJ4azVOWnNiOVpWZ0lDbzNnNXhqOXhmLVJNVHF4aUNQbFc2TzJEdy1CZ1Y1cUVtVFliNElsbEpad3hIR3MybjNyb0lEZGh3cThTWGNMWGQzbw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
         "source": "simplywall.st",
         "publishedAt": "2026-04-02T07:00:00+00:00",
@@ -344,11 +334,11 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Sektorherausforderunge - AD HOC NEWS",
+        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-25T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Sektorherausforderunge AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOE9BbU9IZlFVdjZQdEpKeC1oZS1zbjZqNkl2QXltN2JYMWpPb0pSbEdxdzAtQThvQVlocW5WSzFFNUFQb1pGWHFRZzdNdFpPRzhRXzNMcHdNSE1uaURpWkRzek9Ld2R3RHdSY0xKUUpPeHZLTGtUbW9Db25acGg4VUFxR2hoVHpCNFF5VGxKMjRCVEFkdWxLTkUtUFpQVG9DVHc2eEFfX1RDcklNelZnamZ1R0NNeDRlVHBhVlpvWklqVTBPT2x2Nw?oc=5",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTNsNTJTUnRULTFILXZDR2hRaEctT04wd3FPX0RhUVc2ZjgxVUJhcDRqaEozNmVCSzNwbGxhYTc2OVN2X2JBTU1mTk9RSldUODF3d1NwZFVBekhWQXFQaVEzVUxDSU1leVQtUmZ5NkpJVTRFOWpnN2N5S0dGRE1ieU9zQnJ4eHdMS3ZsMDlxa3BDQnlyaHNXcVJ0ek0wMzJlQ3RvdjNvT3JvZEVWY1dBZ1N1WHVSUQ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -372,6 +362,16 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
@@ -393,16 +393,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1JZbEpkZE1iYnNzOGxDMm9IWHN0RGxNUXhZam5UN1cyMVc2emprUXdyNFM3WUcxTExESjJMSkEzdWpwRGZKU3lZbjhZTVpvY25RZGRpdTZJbjlrd1VUeEl1T3J6NUdKQ1dSS3N6WndfbXBzVWE5TEE1dnpKWEJPYkNnNk9CUXFEMjA4TEZjSzZDRG1WNXM3ZmRJWEc5SFJiaTVEelB0ZjFhcHgxSG9TdzN6VFJ2NTdRU0NvUlBtTGNjNVVjdjgxbnZ0WHhSRmpzZzdPWg?oc=5",
         "tags": [
           "Schwäbische Post"
-        ]
-      },
-      {
-        "title": "Matthias Hollwich: Wie KI die Architektur ändert - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-27T11:53:46+00:00",
-        "summary": "Matthias Hollwich: Wie KI die Architektur ändert FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNVk0MHp0a2s1c0ZVS0RjRG0tWjl0N09tZzJqTmtNSGE1VWFuUzloTWpuM3g3X3ZVU1YyeG5TS3hhZzE1bmFZa2ZLMldsQm1sZkxwS29SaFhMZTViSTh0NThycm14U2ZiYXI1RDdicFgzZWFVWlRoekFLX1pXSHNIOWRuemIxNUdKQm5Rb1hVbEtwRE5nUzdpbTRUSlJqM0tONFVoN1BvV3QxNWxNSWNhR05UTkJPZEZVUXBZZFVRRElGLXFzdEJSX0RrTm5lY2ViakVnMA?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
@@ -446,16 +436,6 @@
         ]
       },
       {
-        "title": "Johnson Controls Aktie (IE00BY7QL619): Steckt in den Smart-Building-Lösungen mehr Potenzial als erw - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-13T08:05:32+00:00",
-        "summary": "Johnson Controls Aktie (IE00BY7QL619): Steckt in den Smart-Building-Lösungen mehr Potenzial als erw AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlNLa19pTl9zcGJ3RktJVkpHRVIyMmszanFSQTJkM1hSM09pLW1oOURQSlBCMC1kT0M2bm9ZTThIS0dvSG1sWkFWekpxeG93c0x4RElrOTg0VVU4eDZNRUpLUW1TT2dIRzAtWFk2TmlieTlCUWIweFFpbTVSaWp0dHJQcS1WNFdDcFkyeFpCc29wYzdCWVZFZS1oY0ZhdGYyMHpXNm53?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
         "title": "Smarte Gebäudetechnik im Klinikum Stuttgart - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-04-10T05:00:00+00:00",
@@ -463,16 +443,6 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Peri schafft Brückensanierung ohne Beeinträchtigung - buildingnet.de",
-        "source": "buildingnet.de",
-        "publishedAt": "2026-04-07T07:00:00+00:00",
-        "summary": "Peri schafft Brückensanierung ohne Beeinträchtigung buildingnet.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa18teHgxSHdsakVzOEo4cFpSRzQtQkdVcE1TREhMa1BEbVp1Um0wZzBGbEZiNlo2SWM1eGNrdUxFbThFWklQMmJMbDBLNUtvWnVYdGZlVmc5TVYwZ0tVTW1BN0xxcG83YUVOME8tVzJlWGtXTTZNdHZWQ1Y0cjB1WUxNT29uY1QxenRlanlMeURScGtpSFFz?oc=5",
-        "tags": [
-          "buildingnet.de"
         ]
       },
       {
@@ -493,6 +463,36 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "AI"
+        ]
+      },
+      {
+        "title": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWd3Qkcxb09hRnFENDVEZFhva2xqWkxnSHQ0bWVYNThZZlo3cWVYZ2xfcXI4RzU0NFpBUl85aTJMV2F5b2QwYU1fMGhPOTRmaEZwb2poN3hmcmhjX3FlNUhkdV9ySmVKXzZJVnZwTllPdlRLTFpXeUpmMXBsdkhsVHdWdjBVeHNhSXZPQmR0N2NUS3ZUNXB2ZTUzUzNUcEpiV2ZGb2pHOWVicS1lbnFpY0FBWGQ2YTN6NkpmMEc4UGhSR2l5bEE?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Johnson Controls Aktie: Stabile Performance im Gebäudeautomatisierungsbereich trotz Marktherausford - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-24T07:00:00+00:00",
+        "summary": "Johnson Controls Aktie: Stabile Performance im Gebäudeautomatisierungsbereich trotz Marktherausford AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeG13d0FFV3dsVElfQm5abGpUdURucV91X3JiMGtEU2JaRTQxSmR6anRIQnBqbVpqM2did3pOU193MllfcUZnTXdtZTZmZnhySlBvZnNNdkFESjdtQkg3VkhZODZzclE1RkhTQnFNaDQ0TUpab2piYUZRaVdYaGlQN3RWNk5wcHBESHROaUtHR1IzYXRON25PUDVDSXdyaGZ1S0FxR2VsOA?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-24T07:00:00+00:00",
+        "summary": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
