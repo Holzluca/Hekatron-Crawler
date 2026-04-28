@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T05:44:00.606007+00:00",
+  "generatedAt": "2026-04-28T08:14:16.960978+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -76,16 +76,6 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Den Brandschutz gibt’s im Service-Abo - Immobilien Zeitung",
         "source": "Immobilien Zeitung",
         "publishedAt": "2026-03-26T07:00:00+00:00",
@@ -125,6 +115,16 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
+        ]
       }
     ],
     "pfs": [
@@ -144,6 +144,16 @@
         "publishedAt": "2026-04-24T12:59:37+00:00",
         "summary": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften MSN",
         "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQaW9qWEdBRFZmdFl0ZzVwV0FVQjVKUzY2ZTZMU29BNk0wMGJ6bHFTbHpaREgwQnhiaDI2Z0Rzd1JkS2JaY1ZuV2xfVHRkQWlqT3RtUVNyaWFPYVVxZjAzQ2E0b1JnTm9JZHJkdVdWYjNLUW9DRHZLNWtxQWdjczd2aUIxQmczZmdxMEJSSFFMaG1Renlxa2tob0JCRURja252SzNWTHNuWFdoNmVKNm5NZExkM0hKOW1xNDYtbTlPNG9pQnVtWGFvNFdTVmZWbzdnbmtxQnpMeFlkN2FkMUhEWm5ZZ29jZDB2WndGeEE0bUEydTNLQkY4Ymw0dkxDcUdaTXB3ODhzSnBVUnp0RVRGQU1Ud3BiZUFLX2J0U0hSS1pva3VUM3VTREtBSzY3NktDa2hXYUw4anBvRXJCemt3NERBLWxIU3g3cE1SZlQzWXY1UUwtMndJdVZ2ZTY0ekhpcDI1aHlJTlVXdTdNd0s4ZERiYnQ3NXMwenRlY2plSjlYQVdq?oc=5",
+        "tags": [
+          "MSN"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-24T00:36:52+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjlNR05rNlVpVWN2MEZBdVltdWxNQUR0eEc3ZU1GWHBEVmlnT3pROUtlb2NUTzZaZGtDUUlLdm04VklONU5DdjF2d2FacDNublJGMVdDUTlXSzZUSzNqcmNCdl9lRmRweGgydXNsdTAteHdweU1HenJlRlZfdF9kbnJCU1Zrc2xWWnFwZWk0ZmRoZ2IwVkV5dGZSNk82dGtaYVdXbDRrcHFNTUlMeHdrMTNyR0dJSWJqdHVnTUU5aHBvSEtSUUtFSk82UWdDVlJuTWxxdEc3Yw?oc=5",
         "tags": [
           "MSN"
         ]
@@ -208,16 +218,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Test: Der beste Hochdruck­reiniger - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Test: Der beste Hochdruck­reiniger FAZ",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQTJvVHo0ZVBjV2ZOZ0IwZjJPd0JjcTFCWGptTHFDMUxEbV91Q0gzMmFwYnJxb2VLbEpvQ1Z6bjJfQkVucWdxdGxiOHZtX0tqUW9tRTZla1o4VXlXNGxCN2IzbUd0Zk5KNVI5Yk5KcWV5dlE?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -405,16 +405,6 @@
         ]
       },
       {
-        "title": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-27T05:53:03+00:00",
-        "summary": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXVPa2VEeDVTYUUzQVNlLTR6TDVnNGs4dnNJdjZjUmVnM2h0UVp3dnhEYXpYNXBtbVBJYklHTjEzLWVEME5lOEtSSjVSZmYtWjQwaF9xT0lsRjdLMUpXeE02TW9sQnpGTEhsYWpsc2tvT0lsdW5ENXdxTTRTQy1XUTFsNFdsdDdrT20tV0w1ZjdIV3BKRVkyNkRjN2lPcmJ3Y1ZtLVFCVzhrbnl3OXFHaHJOVUQxeEdHUXhaalFhX2V1aWhNSmc?oc=5",
-        "tags": [
-          "Regulierung"
-        ]
-      },
-      {
         "title": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
         "publishedAt": "2026-04-25T09:39:58+00:00",
@@ -442,6 +432,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUJ3NjJqc1VWckhaLVQ3QjY5NUVoREpMM0pZdk14SkR4bkEyc3FWcnZMeDZTLUZqLVE2a1FJSHE3UVBiVUFtZkExXzh6SmhYRHhFWERyOS1FcTItWG5HZTNGMmFIaExWajZCMk9BVE1yVzIwUnlqOHJEQ3RMXzZnSUpTNXVlVG9DamhSMGRxRDlndFR4cTBZczlZOWdoSVk4N0FSQzJ3QlZ2RThpOWV5VTZiZHZGSEtIaUlodEZjQlhBMlhEM0dtWDJOOFVjNGRxUGRNUHl3WXdVR0FXY2l5SXF0cTNRQQ?oc=5",
         "tags": [
           "Rheinische Anzeigenblätter"
+        ]
+      },
+      {
+        "title": "Johnson Controls Aktie (IE00BY7QL619): Steckt in den Smart-Building-Lösungen mehr Potenzial als erw - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-13T08:05:32+00:00",
+        "summary": "Johnson Controls Aktie (IE00BY7QL619): Steckt in den Smart-Building-Lösungen mehr Potenzial als erw AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlNLa19pTl9zcGJ3RktJVkpHRVIyMmszanFSQTJkM1hSM09pLW1oOURQSlBCMC1kT0M2bm9ZTThIS0dvSG1sWkFWekpxeG93c0x4RElrOTg0VVU4eDZNRUpLUW1TT2dIRzAtWFk2TmlieTlCUWIweFFpbTVSaWp0dHJQcS1WNFdDcFkyeFpCc29wYzdCWVZFZS1oY0ZhdGYyMHpXNm53?oc=5",
+        "tags": [
+          "AD HOC NEWS"
         ]
       },
       {
