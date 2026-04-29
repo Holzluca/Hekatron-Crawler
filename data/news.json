@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T02:27:37.533479+00:00",
+  "generatedAt": "2026-04-29T05:39:31.455530+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -55,16 +55,6 @@
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-03-31T07:00:00+00:00",
@@ -81,16 +71,6 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -124,6 +104,26 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
         ]
       }
     ],
@@ -304,16 +304,6 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie: Warum Alternative Assets jetzt zählen - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-04T19:44:06+00:00",
-        "summary": "Apollo Global Management Aktie: Warum Alternative Assets jetzt zählen AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdGowbFhlREJuQWJ0UjdIVWZWQzB1TTJ1c0hmMVZ3dVA1aDFFdE8talZNQVNpeUg0RF9lOVM4TC1Cbnc5eUFrbERualphMm5xeGphbWxzM01aUFp1YTBoNXk3UUJNZ2oyZ0lRbjFYUUJDbE9GOFprVERYUXZUTkI5Rlo3ai1iZ0YxYWNXVVFBRFotbHg5TlhzcE5DRkpMbk43bjR1YlNmdUdLYmdjZnpPdmFKN2pROC10dEtxaEFMUnI?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
         "source": "simplywall.st",
         "publishedAt": "2026-04-02T07:00:00+00:00",
@@ -369,6 +359,16 @@
         "publishedAt": "2026-03-25T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Sektorherausforderunge AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOE9BbU9IZlFVdjZQdEpKeC1oZS1zbjZqNkl2QXltN2JYMWpPb0pSbEdxdzAtQThvQVlocW5WSzFFNUFQb1pGWHFRZzdNdFpPRzhRXzNMcHdNSE1uaURpWkRzek9Ld2R3RHdSY0xKUUpPeHZLTGtUbW9Db25acGg4VUFxR2hoVHpCNFF5VGxKMjRCVEFkdWxLTkUtUFpQVG9DVHc2eEFfX1RDcklNelZnamZ1R0NNeDRlVHBhVlpvWklqVTBPT2x2Nw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-22T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWtaZ2lIT1hZY0ZlZGRIb0RiZlFzeUotTmMxWjJXS1ZlQmNJRG03Q2ZycDNmZy1JMHNpSlVzbjF1NWlMYmtua0haZHJZTU41a0tjZng0OVdnWks5SFVsWHNHQTBvQko2Wm5KQ2ljQ0txRDZjY25TdmQxamtHdzA5Rk43OV9pNkh5OUZabVR1clBINW9DVGtvYWhPWDRpTUxpQ2ZvRjg5WDMyNE5iNlJYdTFmSmdWRFUybS1BakJ6RU1VcDFUUlN3Uld3?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -446,6 +446,16 @@
         ]
       },
       {
+        "title": "Peri schafft Brückensanierung ohne Beeinträchtigung - buildingnet.de",
+        "source": "buildingnet.de",
+        "publishedAt": "2026-04-07T07:00:00+00:00",
+        "summary": "Peri schafft Brückensanierung ohne Beeinträchtigung buildingnet.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa18teHgxSHdsakVzOEo4cFpSRzQtQkdVcE1TREhMa1BEbVp1Um0wZzBGbEZiNlo2SWM1eGNrdUxFbThFWklQMmJMbDBLNUtvWnVYdGZlVmc5TVYwZ0tVTW1BN0xxcG83YUVOME8tVzJlWGtXTTZNdHZWQ1Y0cjB1WUxNT29uY1QxenRlanlMeURScGtpSFFz?oc=5",
+        "tags": [
+          "buildingnet.de"
+        ]
+      },
+      {
         "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-06T07:00:00+00:00",
@@ -483,16 +493,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeG13d0FFV3dsVElfQm5abGpUdURucV91X3JiMGtEU2JaRTQxSmR6anRIQnBqbVpqM2did3pOU193MllfcUZnTXdtZTZmZnhySlBvZnNNdkFESjdtQkg3VkhZODZzclE1RkhTQnFNaDQ0TUpab2piYUZRaVdYaGlQN3RWNk5wcHBESHROaUtHR1IzYXRON25PUDVDSXdyaGZ1S0FxR2VsOA?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-24T07:00:00+00:00",
-        "summary": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
