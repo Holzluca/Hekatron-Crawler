@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T11:58:22.905324+00:00",
+  "generatedAt": "2026-04-29T14:05:06.781356+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -107,21 +107,22 @@
         ]
       },
       {
+        "title": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXlOYlV0SWFpRGhneHBWTWhwbU1VOVl6TVZIdXNnMU5fQjdIOHk3YlRqNTQ0NE9mYWRXYmg0UTY5OG9oVXpQNDVxQWtQcGl4LXlaLUdXMEtvTHp3b2cwOVVlM0Z3VUdWZnVwYTl6REpKdFFVbkZjTDIwcktQWnhFeTNBQ0NfOGhmdFcwYlUxWjh0WmRqbnNhR0w5d09HbEhCTlNjcWJR?oc=5",
+        "tags": [
+          "Bosch",
+          "Brandschutz"
+        ]
+      },
+      {
         "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
         "source": "Baulinks",
         "publishedAt": "2026-02-10T08:00:00+00:00",
         "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -161,6 +162,16 @@
         ]
       },
       {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-24T21:28:27+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQaU5odjdySHFyd2lYc3pyaFk4bEJ1UTVVYWdaSXRhR1B1eWdZLXVZMm85OVpzaTB3MEpPNUNJdFQ3ZjJMeDFtMmREYTJpSHhBTDRZT2U4dVkwem5xdl9rVWF3TUpNOFp3WU5HQ0NDMEFtYkxOQmgyYzV2dGE0NFZRV2NnR2k1WVMxZmg2S3FCUTREUTBRaGpFRHM3enh1T0hTWEhUME1rY2pBd1NuaUpKbXp2Ymx4WmpkMDdmSlJOV2oyenNtQWJ1MzIxSEVFaXRYYW1DV3g3eEIyVDdsZExyZnRSM1ZOOUc4THIyd3hEU1pjdTdwT1dIRzEyZ2YxTnNkZU5wOG9pME1qbm0tTXNoaWZSVHhEal9scnl2cTdmdGdjeTU5NWg0M1oyOTd0RFg4c1FXWWllTjNJRUNoVE1ERVZOSlJGZ2l2Wld6M0hycGZUSEgzb2tnb0JkWVFiUHhHVWVwZmtEeVo3NndYZHlxV1FMS3ZXQnB4WjZLTFllakFfdFVWbXNteGhxRVo1Rnd6cE1vaUFJSkFMWjNHdlpZbGd1MlNUQkk0dEF5b0p4dw?oc=5",
+        "tags": [
+          "MSN"
+        ]
+      },
+      {
         "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
         "source": "Berliner Morgenpost",
         "publishedAt": "2026-04-24T14:21:25+00:00",
@@ -176,16 +187,6 @@
         "publishedAt": "2026-04-24T12:59:37+00:00",
         "summary": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften MSN",
         "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQU3NYQld0UmdVbzlwN1lRTTdRdlhSMk0zMzJCMGhTWDA3MnVCWWliVXdxSFhzdG9sRS1oSWFMcFctLWloZC1rVnhMYjZTY3NkVktlMGo3WXNVcklWeFJHeTdJeGNZd0dLNHFidmQtc2RGWlFiZlJDMVFnUXh4Y0gwbHhLemtXN3I2bFk5WFNjZWJuYmllRGYzUld3em1PS08wTjJITWltRlYwVFdxYnlLemRvZ2N4OE9YZnlMTVRvUzNWQVA2WXFJa1c2Wms1Y2drbVFmR1JhZnpoUk4zMzM3YmZDTXZLTUItbFBLV3ZHbHJxVENCUXQxQnNhSzlGbXVSRF96a3EzRkhMYmZGR0hmYjdYSVkzSGVmMm05MWhXdGV3ei1TT2VSdWh2eEZRVXAxSkFkVmFvWVVsSGV6cFJSQVNFbGY3RGdRQXFuWi1TR1FQamdoa3JMa1VLV3QwTXJDaHBzLXNFWTdUSnhyRjBiTFktSzU2SldhZjZGQWs5RnlnaGs?oc=5",
-        "tags": [
-          "MSN"
-        ]
-      },
-      {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
-        "source": "MSN",
-        "publishedAt": "2026-04-24T00:36:52+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjlNR05rNlVpVWN2MEZBdVltdWxNQUR0eEc3ZU1GWHBEVmlnT3pROUtlb2NUTzZaZGtDUUlLdm04VklONU5DdjF2d2FacDNublJGMVdDUTlXSzZUSzNqcmNCdl9lRmRweGgydXNsdTAteHdweU1HenJlRlZfdF9kbnJCU1Zrc2xWWnFwZWk0ZmRoZ2IwVkV5dGZSNk82dGtaYVdXbDRrcHFNTUlMeHdrMTNyR0dJSWJqdHVnTUU5aHBvSEtSUUtFSk82UWdDVlJuTWxxdEc3Yw?oc=5",
         "tags": [
           "MSN"
         ]
@@ -397,6 +398,16 @@
         ]
       },
       {
+        "title": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-27T05:53:03+00:00",
+        "summary": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXVPa2VEeDVTYUUzQVNlLTR6TDVnNGs4dnNJdjZjUmVnM2h0UVp3dnhEYXpYNXBtbVBJYklHTjEzLWVEME5lOEtSSjVSZmYtWjQwaF9xT0lsRjdLMUpXeE02TW9sQnpGTEhsYWpsc2tvT0lsdW5ENXdxTTRTQy1XUTFsNFdsdDdrT20tV0w1ZjdIV3BKRVkyNkRjN2lPcmJ3Y1ZtLVFCVzhrbnl3OXFHaHJOVUQxeEdHUXhaalFhX2V1aWhNSmc?oc=5",
+        "tags": [
+          "Regulierung"
+        ]
+      },
+      {
         "title": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
         "publishedAt": "2026-04-25T09:39:58+00:00",
@@ -437,6 +448,16 @@
         ]
       },
       {
+        "title": "Peri schafft Brückensanierung ohne Beeinträchtigung - buildingnet.de",
+        "source": "buildingnet.de",
+        "publishedAt": "2026-04-07T07:00:00+00:00",
+        "summary": "Peri schafft Brückensanierung ohne Beeinträchtigung buildingnet.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa18teHgxSHdsakVzOEo4cFpSRzQtQkdVcE1TREhMa1BEbVp1Um0wZzBGbEZiNlo2SWM1eGNrdUxFbThFWklQMmJMbDBLNUtvWnVYdGZlVmc5TVYwZ0tVTW1BN0xxcG83YUVOME8tVzJlWGtXTTZNdHZWQ1Y0cjB1WUxNT29uY1QxenRlanlMeURScGtpSFFz?oc=5",
+        "tags": [
+          "buildingnet.de"
+        ]
+      },
+      {
         "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-06T07:00:00+00:00",
@@ -474,26 +495,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeG13d0FFV3dsVElfQm5abGpUdURucV91X3JiMGtEU2JaRTQxSmR6anRIQnBqbVpqM2did3pOU193MllfcUZnTXdtZTZmZnhySlBvZnNNdkFESjdtQkg3VkhZODZzclE1RkhTQnFNaDQ0TUpab2piYUZRaVdYaGlQN3RWNk5wcHBESHROaUtHR1IzYXRON25PUDVDSXdyaGZ1S0FxR2VsOA?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-24T07:00:00+00:00",
-        "summary": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-21T07:00:00+00:00",
-        "summary": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjhhTkNMaXpvQkpBdml6R0lKbHVPUEdKU20xZ0ExQTBSVkQtQWpnRlREcGpHNUdpNklHZmpNRHdFQ1l2Y2dRQ1J3dDZyb2pwMmtMbko2NldPUkdFSGNiQ1JoTXFySmpzZTQ3RzhZTUNueEw5Y0dSSGVObkRwUVI4Zk5ERjBGVEdpdWE0SGxSU2gwbjFTQmVPVHVJUWkwM3hfVGgydmpQTElrYmx6X082UXYyeUI1MjUzbUZkcVNR?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
