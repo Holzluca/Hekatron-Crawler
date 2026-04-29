@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T10:22:58.687641+00:00",
+  "generatedAt": "2026-04-29T11:58:22.905324+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -76,6 +76,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Den Brandschutz gibt’s im Service-Abo - Immobilien Zeitung",
         "source": "Immobilien Zeitung",
         "publishedAt": "2026-03-26T07:00:00+00:00",
@@ -115,19 +125,19 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-01-24T08:00:00+00:00",
-        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
-        "tags": [
-          "Netzwelt"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T11:50:18+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
       {
         "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
         "source": "Caschys Blog",
@@ -165,19 +175,9 @@
         "source": "MSN",
         "publishedAt": "2026-04-24T12:59:37+00:00",
         "summary": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften MSN",
-        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQaW9qWEdBRFZmdFl0ZzVwV0FVQjVKUzY2ZTZMU29BNk0wMGJ6bHFTbHpaREgwQnhiaDI2Z0Rzd1JkS2JaY1ZuV2xfVHRkQWlqT3RtUVNyaWFPYVVxZjAzQ2E0b1JnTm9JZHJkdVdWYjNLUW9DRHZLNWtxQWdjczd2aUIxQmczZmdxMEJSSFFMaG1Renlxa2tob0JCRURja252SzNWTHNuWFdoNmVKNm5NZExkM0hKOW1xNDYtbTlPNG9pQnVtWGFvNFdTVmZWbzdnbmtxQnpMeFlkN2FkMUhEWm5ZZ29jZDB2WndGeEE0bUEydTNLQkY4Ymw0dkxDcUdaTXB3ODhzSnBVUnp0RVRGQU1Ud3BiZUFLX2J0U0hSS1pva3VUM3VTREtBSzY3NktDa2hXYUw4anBvRXJCemt3NERBLWxIU3g3cE1SZlQzWXY1UUwtMndJdVZ2ZTY0ekhpcDI1aHlJTlVXdTdNd0s4ZERiYnQ3NXMwenRlY2plSjlYQVdq?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQU3NYQld0UmdVbzlwN1lRTTdRdlhSMk0zMzJCMGhTWDA3MnVCWWliVXdxSFhzdG9sRS1oSWFMcFctLWloZC1rVnhMYjZTY3NkVktlMGo3WXNVcklWeFJHeTdJeGNZd0dLNHFidmQtc2RGWlFiZlJDMVFnUXh4Y0gwbHhLemtXN3I2bFk5WFNjZWJuYmllRGYzUld3em1PS08wTjJITWltRlYwVFdxYnlLemRvZ2N4OE9YZnlMTVRvUzNWQVA2WXFJa1c2Wms1Y2drbVFmR1JhZnpoUk4zMzM3YmZDTXZLTUItbFBLV3ZHbHJxVENCUXQxQnNhSzlGbXVSRF96a3EzRkhMYmZGR0hmYjdYSVkzSGVmMm05MWhXdGV3ei1TT2VSdWh2eEZRVXAxSkFkVmFvWVVsSGV6cFJSQVNFbGY3RGdRQXFuWi1TR1FQamdoa3JMa1VLV3QwTXJDaHBzLXNFWTdUSnhyRjBiTFktSzU2SldhZjZGQWs5RnlnaGs?oc=5",
         "tags": [
           "MSN"
-        ]
-      },
-      {
-        "title": "Smart-Home: Das intelligente Schlafzimmer - Falstaff",
-        "source": "Falstaff",
-        "publishedAt": "2026-04-24T10:35:21+00:00",
-        "summary": "Smart-Home: Das intelligente Schlafzimmer Falstaff",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpfUlpOcU11UnFncW9OYzBaOFVKY0k3Y3QxM3U0WWlUZ3lFU0FzNlgtWWxqalJ3T3JvTm04REpucnpvemZ5Um16YWRhczhRNU16b0Y0SE1VSzlzX2s4ekU1Szh5TVR5Yk5RMkUwYUFNak43RWZUcndXbC1oeEFEWDVNbmV5cEZQY1B5aW13?oc=5",
-        "tags": [
-          "Falstaff"
         ]
       },
       {
@@ -407,10 +407,10 @@
         ]
       },
       {
-        "title": "Strengere Eurocode-Normen für den Brandschutz von Dächern - it-boltwise.de",
-        "source": "it-boltwise.de",
+        "title": "Strengere Eurocode-Normen für den Brandschutz von Dächern - it boltwise",
+        "source": "it boltwise",
         "publishedAt": "2026-04-20T19:39:04+00:00",
-        "summary": "Strengere Eurocode-Normen für den Brandschutz von Dächern it-boltwise.de",
+        "summary": "Strengere Eurocode-Normen für den Brandschutz von Dächern it boltwise",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUI3eE1VbUpBZEgwb0dLRnd6STYzSWlkdWtFTE9lVzZxSkotd2lOaUVmYldvb3JlOGpLRDB4bzQ0dllMTkRwd3puTkxid1RFMndidE4yaHoxME1BMXBqdkFtYW1selFGRzZ6N25CTWR3ZVRXcGJxNmszX3loT0hVYUE3VkVXeUgyNnBwLUFEakx5cV9mYVE?oc=5",
         "tags": [
           "Normen"
@@ -434,26 +434,6 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung - News.de",
-        "source": "News.de",
-        "publishedAt": "2026-04-08T07:00:00+00:00",
-        "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Peri schafft Brückensanierung ohne Beeinträchtigung - buildingnet.de",
-        "source": "buildingnet.de",
-        "publishedAt": "2026-04-07T07:00:00+00:00",
-        "summary": "Peri schafft Brückensanierung ohne Beeinträchtigung buildingnet.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa18teHgxSHdsakVzOEo4cFpSRzQtQkdVcE1TREhMa1BEbVp1Um0wZzBGbEZiNlo2SWM1eGNrdUxFbThFWklQMmJMbDBLNUtvWnVYdGZlVmc5TVYwZ0tVTW1BN0xxcG83YUVOME8tVzJlWGtXTTZNdHZWQ1Y0cjB1WUxNT29uY1QxenRlanlMeURScGtpSFFz?oc=5",
-        "tags": [
-          "buildingnet.de"
         ]
       },
       {
@@ -494,6 +474,26 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeG13d0FFV3dsVElfQm5abGpUdURucV91X3JiMGtEU2JaRTQxSmR6anRIQnBqbVpqM2did3pOU193MllfcUZnTXdtZTZmZnhySlBvZnNNdkFESjdtQkg3VkhZODZzclE1RkhTQnFNaDQ0TUpab2piYUZRaVdYaGlQN3RWNk5wcHBESHROaUtHR1IzYXRON25PUDVDSXdyaGZ1S0FxR2VsOA?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-24T07:00:00+00:00",
+        "summary": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-21T07:00:00+00:00",
+        "summary": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjhhTkNMaXpvQkpBdml6R0lKbHVPUEdKU20xZ0ExQTBSVkQtQWpnRlREcGpHNUdpNklHZmpNRHdFQ1l2Y2dRQ1J3dDZyb2pwMmtMbko2NldPUkdFSGNiQ1JoTXFySmpzZTQ3RzhZTUNueEw5Y0dSSGVObkRwUVI4Zk5ERjBGVEdpdWE0SGxSU2gwbjFTQmVPVHVJUWkwM3hfVGgydmpQTElrYmx6X082UXYyeUI1MjUzbUZkcVNR?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
