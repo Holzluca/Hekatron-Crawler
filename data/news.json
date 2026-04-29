@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T08:07:04.652665+00:00",
+  "generatedAt": "2026-04-29T10:22:58.687641+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,6 +129,28 @@
     ],
     "pfs": [
       {
+        "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-04-29T10:00:00+00:00",
+        "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-04-29T09:10:21+00:00",
+        "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
         "source": "Berliner Morgenpost",
         "publishedAt": "2026-04-24T14:21:25+00:00",
@@ -146,6 +168,16 @@
         "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQaW9qWEdBRFZmdFl0ZzVwV0FVQjVKUzY2ZTZMU29BNk0wMGJ6bHFTbHpaREgwQnhiaDI2Z0Rzd1JkS2JaY1ZuV2xfVHRkQWlqT3RtUVNyaWFPYVVxZjAzQ2E0b1JnTm9JZHJkdVdWYjNLUW9DRHZLNWtxQWdjczd2aUIxQmczZmdxMEJSSFFMaG1Renlxa2tob0JCRURja252SzNWTHNuWFdoNmVKNm5NZExkM0hKOW1xNDYtbTlPNG9pQnVtWGFvNFdTVmZWbzdnbmtxQnpMeFlkN2FkMUhEWm5ZZ29jZDB2WndGeEE0bUEydTNLQkY4Ymw0dkxDcUdaTXB3ODhzSnBVUnp0RVRGQU1Ud3BiZUFLX2J0U0hSS1pva3VUM3VTREtBSzY3NktDa2hXYUw4anBvRXJCemt3NERBLWxIU3g3cE1SZlQzWXY1UUwtMndJdVZ2ZTY0ekhpcDI1aHlJTlVXdTdNd0s4ZERiYnQ3NXMwenRlY2plSjlYQVdq?oc=5",
         "tags": [
           "MSN"
+        ]
+      },
+      {
+        "title": "Smart-Home: Das intelligente Schlafzimmer - Falstaff",
+        "source": "Falstaff",
+        "publishedAt": "2026-04-24T10:35:21+00:00",
+        "summary": "Smart-Home: Das intelligente Schlafzimmer Falstaff",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpfUlpOcU11UnFncW9OYzBaOFVKY0k3Y3QxM3U0WWlUZ3lFU0FzNlgtWWxqalJ3T3JvTm04REpucnpvemZ5Um16YWRhczhRNU16b0Y0SE1VSzlzX2s4ekU1Szh5TVR5Yk5RMkUwYUFNak43RWZUcndXbC1oeEFEWDVNbmV5cEZQY1B5aW13?oc=5",
+        "tags": [
+          "Falstaff"
         ]
       },
       {
@@ -219,37 +251,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Mehr Komfort zuhause: Bosch Smart Home Set im Deal - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Mehr Komfort zuhause: Bosch Smart Home Set im Deal Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmVqVWdqdVdNcGtUMF9uZHNaMGlGcTZtWU1qUjhKUHdDWC00WEs3THhoTy16SUl3Y0JFX2ljREF0R0h1MnhFVnRzVEh6clFKb3Vuc2VDY054eDZWYzQ2V3l1bjZHb3JsZmhPdUFiVVRaY01wcUhGNGZReUJpVGtwbGVvNWxrTnZWVXk4VkhlNnE1T19leGszVUNEZERUZy1PLS1KSHRXM3FmcTNLWjV6SU1QZlo3N3c?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T05:19:00+00:00",
-        "summary": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblB3TmVYWW43LUM1Tnluakw2MUZPdnU1c0gtQ1hQYURpT25OS1Itb0lHazlXclFTWE0xamJVaXBJTlVsQW9ZQ3Rva0M0U3hvcElsakR1ZzdiMERLejFER0x3ejVXbTV4ZUR2WnJzTE5mZzl4SDlSSXRRNFk5Z1BmbVdGeFAzbUhfWkI2QzN5clBpSG1yVFpQSjFGTjlPWU1MbDlUTGV4Q1E5cndYTGlOaUNnZENQME9STkx6el9vX2c?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
-        "title": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ - klamm.de",
-        "source": "klamm.de",
-        "publishedAt": "2026-04-17T18:51:03+00:00",
-        "summary": "🚨 X-Sense Smart Rauchmelder Set nur 46,57€ klamm.de",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUFiU3JMM0ZwZklaNGZyUXJIZTRBLTlIUFBkc0gxdXNEaFN6UEZPdjhpdFRiRWZ2ZEZLV1ZEaF81RDV4M0tzVVNmbTMtX2NsVlEyN256cTlMNlJDSXBRRWFyZ2lKbmlxTkNXMXp5U01LdkhKQXE3dlVJSEVfRmlOVFFZbnRzMGs?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
       }
     ],
     "doors": [
@@ -299,6 +300,16 @@
         "publishedAt": "2026-04-08T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjNQeUVwY0VHLVByajRnbW0weWx4MWRyNUs5bzBHc21LTEV5alJkRGJEYXF4ZGZWM3k4X1pqT3NXLUMzejlNN3JlVTFPRlNTRmpiQUVsblpwdUsyNndkOFBKNWJ4azVOWnNiOVpWZ0lDbzNnNXhqOXhmLVJNVHF4aUNQbFc2TzJEdy1CZ1Y1cUVtVFliNElsbEpad3hIR3MybjNyb0lEZGh3cThTWGNMWGQzbw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Warum Alternative Assets jetzt zählen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-04T19:44:06+00:00",
+        "summary": "Apollo Global Management Aktie: Warum Alternative Assets jetzt zählen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdGowbFhlREJuQWJ0UjdIVWZWQzB1TTJ1c0hmMVZ3dVA1aDFFdE8talZNQVNpeUg0RF9lOVM4TC1Cbnc5eUFrbERualphMm5xeGphbWxzM01aUFp1YTBoNXk3UUJNZ2oyZ0lRbjFYUUJDbE9GOFprVERYUXZUTkI5Rlo3ai1iZ0YxYWNXVVFBRFotbHg5TlhzcE5DRkpMbk43bjR1YlNmdUdLYmdjZnpPdmFKN2pROC10dEtxaEFMUnI?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -362,16 +373,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-22T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWtaZ2lIT1hZY0ZlZGRIb0RiZlFzeUotTmMxWjJXS1ZlQmNJRG03Q2ZycDNmZy1JMHNpSlVzbjF1NWlMYmtua0haZHJZTU41a0tjZng0OVdnWks5SFVsWHNHQTBvQko2Wm5KQ2ljQ0txRDZjY25TdmQxamtHdzA5Rk43OV9pNkh5OUZabVR1clBINW9DVGtvYWhPWDRpTUxpQ2ZvRjg5WDMyNE5iNlJYdTFmSmdWRFUybS1BakJ6RU1VcDFUUlN3Uld3?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -393,16 +394,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1JZbEpkZE1iYnNzOGxDMm9IWHN0RGxNUXhZam5UN1cyMVc2emprUXdyNFM3WUcxTExESjJMSkEzdWpwRGZKU3lZbjhZTVpvY25RZGRpdTZJbjlrd1VUeEl1T3J6NUdKQ1dSS3N6WndfbXBzVWE5TEE1dnpKWEJPYkNnNk9CUXFEMjA4TEZjSzZDRG1WNXM3ZmRJWEc5SFJiaTVEelB0ZjFhcHgxSG9TdzN6VFJ2NTdRU0NvUlBtTGNjNVVjdjgxbnZ0WHhSRmpzZzdPWg?oc=5",
         "tags": [
           "Schwäbische Post"
-        ]
-      },
-      {
-        "title": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-27T05:53:03+00:00",
-        "summary": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXVPa2VEeDVTYUUzQVNlLTR6TDVnNGs4dnNJdjZjUmVnM2h0UVp3dnhEYXpYNXBtbVBJYklHTjEzLWVEME5lOEtSSjVSZmYtWjQwaF9xT0lsRjdLMUpXeE02TW9sQnpGTEhsYWpsc2tvT0lsdW5ENXdxTTRTQy1XUTFsNFdsdDdrT20tV0w1ZjdIV3BKRVkyNkRjN2lPcmJ3Y1ZtLVFCVzhrbnl3OXFHaHJOVUQxeEdHUXhaalFhX2V1aWhNSmc?oc=5",
-        "tags": [
-          "Regulierung"
         ]
       },
       {
@@ -443,6 +434,16 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung - News.de",
+        "source": "News.de",
+        "publishedAt": "2026-04-08T07:00:00+00:00",
+        "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
