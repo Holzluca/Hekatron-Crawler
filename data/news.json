@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T05:44:47.679653+00:00",
+  "generatedAt": "2026-04-30T08:11:02.984385+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -130,6 +130,28 @@
     ],
     "pfs": [
       {
+        "title": "Bosch veröffentlicht neuen Smart Home Bewegungsmelder und verbessert Komfort & Sicherheit - TopTechNews",
+        "source": "TopTechNews",
+        "publishedAt": "2026-04-30T07:56:14+00:00",
+        "summary": "Bosch veröffentlicht neuen Smart Home Bewegungsmelder und verbessert Komfort & Sicherheit TopTechNews",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEtwWVo5ZHdLRHRqRGt4d25uZHpTb1FkS1JITGI3X05QMVRuNHhNQnFtcjJUSklFT1BnbXBpZWRWUm0tY2htdC1vNWJaTHV4aERiWUluRXU1cjhScTdRMm5mN1RJak1uWjVkbWJFbHlVV1daUVdHRlBfcmpzcEM5dE84RkNQaF9MaEc5ajFsdjROeHM5R3hnaTRldFprYkFRZktZODZ1bGVsdUVkWkU2Z0E2c1B5dWRwb3VEZzR1SXRiZFFEdUE?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-30T07:20:26+00:00",
+        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
+        "tags": [
+          "SmarthomeAssistent"
+        ]
+      },
+      {
         "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-04-29T11:50:18+00:00",
@@ -176,7 +198,7 @@
         "source": "MSN",
         "publishedAt": "2026-04-24T21:28:27+00:00",
         "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQaU5odjdySHFyd2lYc3pyaFk4bEJ1UTVVYWdaSXRhR1B1eWdZLXVZMm85OVpzaTB3MEpPNUNJdFQ3ZjJMeDFtMmREYTJpSHhBTDRZT2U4dVkwem5xdl9rVWF3TUpNOFp3WU5HQ0NDMEFtYkxOQmgyYzV2dGE0NFZRV2NnR2k1WVMxZmg2S3FCUTREUTBRaGpFRHM3enh1T0hTWEhUME1rY2pBd1NuaUpKbXp2Ymx4WmpkMDdmSlJOV2oyenNtQWJ1MzIxSEVFaXRYYW1DV3g3eEIyVDdsZExyZnRSM1ZOOUc4THIyd3hEU1pjdTdwT1dIRzEyZ2YxTnNkZU5wOG9pME1qbm0tTXNoaWZSVHhEal9scnl2cTdmdGdjeTU5NWg0M1oyOTd0RFg4c1FXWWllTjNJRUNoVE1ERVZOSlJGZ2l2Wld6M0hycGZUSEgzb2tnb0JkWVFiUHhHVWVwZmtEeVo3NndYZHlxV1FMS3ZXQnB4WjZLTFllakFfdFVWbXNteGhxRVo1Rnd6cE1vaUFJSkFMWjNHdlpZbGd1MlNUQkk0dEF5b0p4dw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQTkZmRDJvOU0wc3JBTm1HbWN6RFdtaGdVcERkZ2JDd1l5M0I2Ul9DN29ONm5KWExkYjV2X3FVZThnYlpQUTdIOURvN0dCNWJCS1d0VFd4QUNCQnMyOUNJLXJiTk1hbFFxMDFoZUlITmFLQ0k1SjJSTXhHdFJUTGF0Mlg2N2xzOWFVNWVPcE1lV0NMdmFjSTktT3dsaUI1T21TODNBTnlidm9pdXRadXh1dWh4Yk96US1YdlJOZlQzb2taNVg1b1NxUFUwOXRoRWJRTEp3eUxUU3BnU0NkSnBBVm9KU3FsM3BBM0QwN25uTWxEVDZEblo0Umo5T0lWVVJjMElKcWw5SHVnNGNZSG1FYjN1Y05KTFZUcFA3YmVSWkFaNHpsYmFwdHZwMFVPZHJZSzFzaVZ4dE9seE9CMEtZeDRCbGpJcnlMY2JldjdDSGRaN1NwNDVhWXNfTkIwNGRvLWRLT1phYlp5THdueDNrM3RxcldUbTVzRTk2NXR2QTZCQWdKZGhURGdQYXp6UUp6QVAydXRSWGJsc3FHNVdPZVVZOWVZUGNJbnFXSzZR?oc=5",
         "tags": [
           "MSN"
         ]
@@ -230,27 +252,6 @@
         "tags": [
           "Ei",
           "Pyrexx"
-        ]
-      },
-      {
-        "title": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-04-23T11:35:00+00:00",
-        "summary": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN0dMeXZhSzEzcHAtenpfY2RiMDZObmFMUWhwYkVQaWd3X0daQnNaSDlxRzVaOV9IdFhWMXliYVA2NW1DdzNsa0RDLVdNUzdNdER3REZSRERmUXRzSXlIVmJxZWIxX3V1V291VmFFWTI3d2JfZWhTZDRFOWo0ZzEteWNzVGxiYTF3WDFFNmdmTVotbVo3cDdhSmY1cnZmY1QtTzBwSWRoT0thY0U1dHVSRmh1clVVcVl4LVQzX0FHRGFzdkppNmc?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T10:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
-        "tags": [
-          "Spiegel"
         ]
       }
     ],
@@ -346,6 +347,16 @@
         ]
       },
       {
+        "title": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-28T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-03-27T07:00:00+00:00",
@@ -361,16 +372,6 @@
         "publishedAt": "2026-03-25T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Sektorherausforderunge AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOE9BbU9IZlFVdjZQdEpKeC1oZS1zbjZqNkl2QXltN2JYMWpPb0pSbEdxdzAtQThvQVlocW5WSzFFNUFQb1pGWHFRZzdNdFpPRzhRXzNMcHdNSE1uaURpWkRzek9Ld2R3RHdSY0xKUUpPeHZLTGtUbW9Db25acGg4VUFxR2hoVHpCNFF5VGxKMjRCVEFkdWxLTkUtUFpQVG9DVHc2eEFfX1RDcklNelZnamZ1R0NNeDRlVHBhVlpvWklqVTBPT2x2Nw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-22T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWtaZ2lIT1hZY0ZlZGRIb0RiZlFzeUotTmMxWjJXS1ZlQmNJRG03Q2ZycDNmZy1JMHNpSlVzbjF1NWlMYmtua0haZHJZTU41a0tjZng0OVdnWks5SFVsWHNHQTBvQko2Wm5KQ2ljQ0txRDZjY25TdmQxamtHdzA5Rk43OV9pNkh5OUZabVR1clBINW9DVGtvYWhPWDRpTUxpQ2ZvRjg5WDMyNE5iNlJYdTFmSmdWRFUybS1BakJ6RU1VcDFUUlN3Uld3?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -448,6 +449,16 @@
         ]
       },
       {
+        "title": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung - News.de",
+        "source": "News.de",
+        "publishedAt": "2026-04-08T07:00:00+00:00",
+        "summary": "ZincFive stellt Nickel-Zink-Nachrüstkit zur Modernisierung von bestehender USV-Energiespeicherinfrastruktur vor: Pressemeldung News.de",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdm1kMlVUWm9BSGpmenhnMVVid3dveXg5S2dvZzNjZUJHMFRSN3hCOGt3aktfQXMxVGtJeGQzTkM4OHhPSTVORms4YzRkeHFtWjV6MF85NV9KRE05aV9DUlVSeTNXX1FzNlZqUXhNM29TS1RkRWdRdWt0cGY4NXFSdUFOMHJPNzRjeExCWXVEM25HWVRyVnRiemdNbG1VbDJvc0d1VG5aMjRVb3dZMnEzekR6N2c2TmlKb3VEaFlULUZvUDdCNDBXaG9Dbmt5VEdQX1ZqT2VFRTkzQ2J5Ni1sZkxIQURreXFVclpveXRZdV9HTWtzR042OEktbV9xeDBhRmxWZTFn0gGLAkFVX3lxTE93U3hmTGJvTzJtLUp2V3RsSHI5cERIYk1NcmJ4UHpNN1JWQXVuc2pvcWRoR0Rua292aUFrTVE4RzJZSm0zeGNQTDM0V3JCaWNVVFRKQ0sxNG5ZM25OSGVfNWJSNmVoQjZFU3ViTGg3ZGRZVXpVSnBaeGlhWkJIdXFyX1ZoZ1Y4dl9RRk9UNWNkbUlYR3hvWERrUnE2dUpTN2pVMUxzVElydW9Mdmo5Z1R0M2tLLXdUS0dZeW9RMkdQQlZvWkdiYVBpQm9sd2FTeG5kVHdZeGdEWlp2SnpueVROaG4zMWF6bHpfaGl1T3JGdEUyUTN3S0xiR2xwNmF0T1p5U0ZtMGFPV0hFNA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Peri schafft Brückensanierung ohne Beeinträchtigung - buildingnet.de",
         "source": "buildingnet.de",
         "publishedAt": "2026-04-07T07:00:00+00:00",
@@ -485,16 +496,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWd3Qkcxb09hRnFENDVEZFhva2xqWkxnSHQ0bWVYNThZZlo3cWVYZ2xfcXI4RzU0NFpBUl85aTJMV2F5b2QwYU1fMGhPOTRmaEZwb2poN3hmcmhjX3FlNUhkdV9ySmVKXzZJVnZwTllPdlRLTFpXeUpmMXBsdkhsVHdWdjBVeHNhSXZPQmR0N2NUS3ZUNXB2ZTUzUzNUcEpiV2ZGb2pHOWVicS1lbnFpY0FBWGQ2YTN6NkpmMEc4UGhSR2l5bEE?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Johnson Controls Aktie: Stabile Performance im Gebäudeautomatisierungsbereich trotz Marktherausford - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-24T07:00:00+00:00",
-        "summary": "Johnson Controls Aktie: Stabile Performance im Gebäudeautomatisierungsbereich trotz Marktherausford AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeG13d0FFV3dsVElfQm5abGpUdURucV91X3JiMGtEU2JaRTQxSmR6anRIQnBqbVpqM2did3pOU193MllfcUZnTXdtZTZmZnhySlBvZnNNdkFESjdtQkg3VkhZODZzclE1RkhTQnFNaDQ0TUpab2piYUZRaVdYaGlQN3RWNk5wcHBESHROaUtHR1IzYXRON25PUDVDSXdyaGZ1S0FxR2VsOA?oc=5",
-        "tags": [
-          "AD HOC NEWS"
         ]
       }
     ]
