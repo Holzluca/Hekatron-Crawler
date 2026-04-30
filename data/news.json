@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-04-30T02:28:35.609698+00:00",
+  "generatedAt": "2026-04-30T05:44:47.679653+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
       {
         "title": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal - Computer Bild",
         "source": "Computer Bild",
@@ -76,6 +86,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Den Brandschutz gibt’s im Service-Abo - Immobilien Zeitung",
         "source": "Immobilien Zeitung",
         "publishedAt": "2026-03-26T07:00:00+00:00",
@@ -97,33 +117,14 @@
         ]
       },
       {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "title": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXlOYlV0SWFpRGhneHBWTWhwbU1VOVl6TVZIdXNnMU5fQjdIOHk3YlRqNTQ0NE9mYWRXYmg0UTY5OG9oVXpQNDVxQWtQcGl4LXlaLUdXMEtvTHp3b2cwOVVlM0Z3VUdWZnVwYTl6REpKdFFVbkZjTDIwcktQWnhFeTNBQ0NfOGhmdFcwYlUxWjh0WmRqbnNhR0w5d09HbEhCTlNjcWJR?oc=5",
         "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-01-24T08:00:00+00:00",
-        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
-        "tags": [
-          "Netzwelt"
+          "Bosch",
+          "Brandschutz"
         ]
       }
     ],
@@ -161,11 +162,21 @@
         ]
       },
       {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
         "source": "MSN",
-        "publishedAt": "2026-04-24T21:49:38+00:00",
+        "publishedAt": "2026-04-24T21:28:27+00:00",
         "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPdHk0MFZub3RxVkl2VjBqa3VvczZRcnBRdjhfZUpNcEpvMXJuWXJPOXF2T3Vld19VU0tEeUNjZUhLS2JudVpiYVpmVzJ5cC05T3lUUWdick9tbHlnMWFGZFQzb0lfNlVjUm9ZblNHMlBSeThsM2hxY1BXeVJMel80dllvRmJUQzRXRm9Pa2liQkhSdEUtMWxBcXJ1bF9ZVkFYNzZLS0tzak0xUGlpZTZMQkFHX01JdEg2WDhxdHVkQnV4QmRXamdySjhNRlhlMk53c3JqT1haZ1lfV1FoaHRtVm9uYjJfU2FrZDhHQVZfekd4Sl9Xb3FYT18yelBhLUtsX0ZXVF96RVB0ZG9Va2Foclc0NmlwbVlvaFFMOG9sUTYwWE1JcnBVS05UeE5LVGNhWGtGTlhvX3RKR1VNMHJ2LTBJZUF1b3dDWEVpajJYakxuR0VkLTBVbGZBSFZBRUwzZlZPX2laS2V1ZGNRc2U3eksyVlFvZmFucTdFLUdDT1ZYdU5HazRkVXUzWWRmTDJlLTdIdldQeVF5VDE0ZzlaMlUyTThuY1pTRE56bUtWVUtGYnVGYVJ4dGJIdWw3U0FRdDcwcEc2ckhGMkk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQaU5odjdySHFyd2lYc3pyaFk4bEJ1UTVVYWdaSXRhR1B1eWdZLXVZMm85OVpzaTB3MEpPNUNJdFQ3ZjJMeDFtMmREYTJpSHhBTDRZT2U4dVkwem5xdl9rVWF3TUpNOFp3WU5HQ0NDMEFtYkxOQmgyYzV2dGE0NFZRV2NnR2k1WVMxZmg2S3FCUTREUTBRaGpFRHM3enh1T0hTWEhUME1rY2pBd1NuaUpKbXp2Ymx4WmpkMDdmSlJOV2oyenNtQWJ1MzIxSEVFaXRYYW1DV3g3eEIyVDdsZExyZnRSM1ZOOUc4THIyd3hEU1pjdTdwT1dIRzEyZ2YxTnNkZU5wOG9pME1qbm0tTXNoaWZSVHhEal9scnl2cTdmdGdjeTU5NWg0M1oyOTd0RFg4c1FXWWllTjNJRUNoVE1ERVZOSlJGZ2l2Wld6M0hycGZUSEgzb2tnb0JkWVFiUHhHVWVwZmtEeVo3NndYZHlxV1FMS3ZXQnB4WjZLTFllakFfdFVWbXNteGhxRVo1Rnd6cE1vaUFJSkFMWjNHdlpZbGd1MlNUQkk0dEF5b0p4dw?oc=5",
         "tags": [
           "MSN"
         ]
@@ -240,16 +251,6 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
         "tags": [
           "Spiegel"
-        ]
-      },
-      {
-        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - Wirtschaft - SZ.de - SZ.de",
-        "source": "SZ.de",
-        "publishedAt": "2026-04-23T09:46:06+00:00",
-        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - Wirtschaft - SZ.de SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
@@ -345,16 +346,6 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-28T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-03-27T07:00:00+00:00",
@@ -370,6 +361,16 @@
         "publishedAt": "2026-03-25T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Sektorherausforderunge AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOE9BbU9IZlFVdjZQdEpKeC1oZS1zbjZqNkl2QXltN2JYMWpPb0pSbEdxdzAtQThvQVlocW5WSzFFNUFQb1pGWHFRZzdNdFpPRzhRXzNMcHdNSE1uaURpWkRzek9Ld2R3RHdSY0xKUUpPeHZLTGtUbW9Db25acGg4VUFxR2hoVHpCNFF5VGxKMjRCVEFkdWxLTkUtUFpQVG9DVHc2eEFfX1RDcklNelZnamZ1R0NNeDRlVHBhVlpvWklqVTBPT2x2Nw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-22T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWtaZ2lIT1hZY0ZlZGRIb0RiZlFzeUotTmMxWjJXS1ZlQmNJRG03Q2ZycDNmZy1JMHNpSlVzbjF1NWlMYmtua0haZHJZTU41a0tjZng0OVdnWks5SFVsWHNHQTBvQko2Wm5KQ2ljQ0txRDZjY25TdmQxamtHdzA5Rk43OV9pNkh5OUZabVR1clBINW9DVGtvYWhPWDRpTUxpQ2ZvRjg5WDMyNE5iNlJYdTFmSmdWRFUybS1BakJ6RU1VcDFUUlN3Uld3?oc=5",
         "tags": [
           "Apollo"
         ]
