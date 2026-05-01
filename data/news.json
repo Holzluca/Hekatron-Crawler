@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T13:07:10.683996+00:00",
+  "generatedAt": "2026-05-01T14:35:30.035339+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -213,16 +213,6 @@
         ]
       },
       {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
-        "source": "Tages-Anzeiger",
-        "publishedAt": "2026-04-23T17:03:33+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
         "source": "WirtschaftsWoche",
         "publishedAt": "2026-04-23T12:26:39+00:00",
@@ -253,19 +243,19 @@
           "Ei",
           "Bosch"
         ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T10:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
       }
     ],
     "doors": [
-      {
-        "title": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Private-Equity-Hebel an? - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-14T18:47:35+00:00",
-        "summary": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Private-Equity-Hebel an? AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXRzSWs2dXNGdzdHNWNKVHVRSEhSYXdnMDAwcnBBNVE3a19iakJVREhpdlJpWGxubUNwNHY3blZIQW9HZnQ5Rkc2aVpwNllWTk5XdVJvdENsZXUtTk43YnRKWmo2bGFkeDhSNVdFQXZ5RHNHakJRTC1mZ2ZVTHVQS1E4XzdEN2FNQ0ZjUDNJSG5IbXVBYmxGRVo1Wlh2VzdLS0s0QWJLamhkX1VlSUFfWHhiaWhlVzdaVm5naw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -375,6 +365,16 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und Private Equity Boom - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-18T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und Private Equity Boom AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN1JtOUowTG9qUE5ST3d6ZUhqOU1SWl9aZFE0UkVYMlZLbTg3SU1HSllsWTNhU0hEWkNpYjBwb2RWaDBVaUF3WHp6czh6V2x1bUlzMFpMZkVIbllkdGRzWTUzdEotX1VFOEU0Qml5Q3dIc2VTeWk2cWt5WGxvamhoYlpkaGdyV0FpLWQwanF3SVA4OTlycXNXcE9Xei15ZmtNcnRkYW1qaGxrLXdBQmp4R1ZzZGoxdXNnbGgxNmdvNXJtdjRqa0pUR3N3?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
@@ -406,16 +406,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1JZbEpkZE1iYnNzOGxDMm9IWHN0RGxNUXhZam5UN1cyMVc2emprUXdyNFM3WUcxTExESjJMSkEzdWpwRGZKU3lZbjhZTVpvY25RZGRpdTZJbjlrd1VUeEl1T3J6NUdKQ1dSS3N6WndfbXBzVWE5TEE1dnpKWEJPYkNnNk9CUXFEMjA4TEZjSzZDRG1WNXM3ZmRJWEc5SFJiaTVEelB0ZjFhcHgxSG9TdzN6VFJ2NTdRU0NvUlBtTGNjNVVjdjgxbnZ0WHhSRmpzZzdPWg?oc=5",
         "tags": [
           "Schwäbische Post"
-        ]
-      },
-      {
-        "title": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-27T05:53:03+00:00",
-        "summary": "Brandschutz und Gefahrstoffe: Regulierungswelle erfasst die Industrie AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXVPa2VEeDVTYUUzQVNlLTR6TDVnNGs4dnNJdjZjUmVnM2h0UVp3dnhEYXpYNXBtbVBJYklHTjEzLWVEME5lOEtSSjVSZmYtWjQwaF9xT0lsRjdLMUpXeE02TW9sQnpGTEhsYWpsc2tvT0lsdW5ENXdxTTRTQy1XUTFsNFdsdDdrT20tV0w1ZjdIV3BKRVkyNkRjN2lPcmJ3Y1ZtLVFCVzhrbnl3OXFHaHJOVUQxeEdHUXhaalFhX2V1aWhNSmc?oc=5",
-        "tags": [
-          "Regulierung"
         ]
       },
       {
@@ -483,7 +473,7 @@
         "source": "AD HOC NEWS",
         "publishedAt": "2026-04-02T07:00:00+00:00",
         "summary": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWd3Qkcxb09hRnFENDVEZFhva2xqWkxnSHQ0bWVYNThZZlo3cWVYZ2xfcXI4RzU0NFpBUl85aTJMV2F5b2QwYU1fMGhPOTRmaEZwb2poN3hmcmhjX3FlNUhkdV9ySmVKXzZJVnZwTllPdlRLTFpXeUpmMXBsdkhsVHdWdjBVeHNhSXZPQmR0N2NUS3ZUNXB2ZTUzUzNUcEpiV2ZGb2pHOWVicS1lbnFpY0FBWGQ2YTN6NkpmMEc4UGhSR2l5bEE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2FVMmh6ZEVuMnZUbFBmc1BERjdZVkllRU1SWktXMGRTc0xvTU9iTmZvaDJCMnRlbVRpUXFXaF84WkJrNXA4WVo3djkxbldTMVlZdkJFVkFtdlhoWTRxdnluT2trWjRNcUVWajZvOThYQS15eW1JeVJmLVU2cDFmZkNtUXE4TFZ0R01lNFhWdGdYMTRuOEVuVy1YUnJnNkc3UU9rM196MndfTERGWjY4aDVJRHpzWkQ0d2NDakg1TkpjNnNrNmhBakdtOEM?oc=5",
         "tags": [
           "KI"
         ]
@@ -494,6 +484,16 @@
         "publishedAt": "2026-03-24T07:00:00+00:00",
         "summary": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-21T07:00:00+00:00",
+        "summary": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjhhTkNMaXpvQkpBdml6R0lKbHVPUEdKU20xZ0ExQTBSVkQtQWpnRlREcGpHNUdpNklHZmpNRHdFQ1l2Y2dRQ1J3dDZyb2pwMmtMbko2NldPUkdFSGNiQ1JoTXFySmpzZTQ3RzhZTUNueEw5Y0dSSGVObkRwUVI4Zk5ERjBGVEdpdWE0SGxSU2gwbjFTQmVPVHVJUWkwM3hfVGgydmpQTElrYmx6X082UXYyeUI1MjUzbUZkcVNR?oc=5",
         "tags": [
           "KI"
         ]
