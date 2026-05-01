@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T15:52:11.675203+00:00",
+  "generatedAt": "2026-05-01T16:51:14.549033+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -257,6 +257,16 @@
     ],
     "doors": [
       {
+        "title": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Private-Equity-Hebel an? - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-14T18:47:35+00:00",
+        "summary": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Private-Equity-Hebel an? AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXRzSWs2dXNGdzdHNWNKVHVRSEhSYXdnMDAwcnBBNVE3a19iakJVREhpdlJpWGxubUNwNHY3blZIQW9HZnQ5Rkc2aVpwNllWTk5XdVJvdENsZXUtTk43YnRKWmo2bGFkeDhSNVdFQXZ5RHNHakJRTC1mZ2ZVTHVQS1E4XzdEN2FNQ0ZjUDNJSG5IbXVBYmxGRVo1Wlh2VzdLS0s0QWJLamhkX1VlSUFfWHhiaWhlVzdaVm5naw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-04-08T18:38:36+00:00",
@@ -282,16 +292,6 @@
         "publishedAt": "2026-04-02T07:00:00+00:00",
         "summary": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTzd0b3l2WVhyZkZmcmZORC13U1I5cloxdzJTRG4wd2F4dWRIUlJxbW9XY2RSZXYyM2hFMnNYXzlZOVR6VWt0VURBNEVJSTItS2tmYXU0UDhqMVlheVVMZ3oyOEVxcHI1RVp0SElqUlluMFV3SWVQRDJSVHMtdTZnbjlTeXpyaW0tN2cyVjZlMmt5MHJNTmRWRm4wclp0MVZjeS1CNlpJajVEYk5Fb2ZQZVRsa0d5V3gxdXlmMDZXZzJUeVN0VUd3VzNLMGhNa0hEMDB6NW9OUi1INUdXUXluTHEzci1HRklqYXBuWkQ5dEbSAfYBQVVfeXFMT2tXZzRjNFc5M2JSSHg4a3plQU5GU0E1RFRSeTAwc2hxVHVJWEw4ZkhBM0xlaHlGTHY2Sjh0WlJkd3J5dm9GcnQ1aDBjWUdaUTAwc0p0Z19qdEF0bzBEejhYdFczcURPM3M3Q3h5eGFIX2MwWGVLWmJJUTZsaVoxZU1fdlFHY2NqRWZwdFRKVzgzWVZ6UnlHQkpsUHktWTJOR2NKaXJTOWxvUXV1aGQ0aktTQ2FBQ3hCZmViTkdweVpNYVltdWdETWYtRHFXYl8tSEpNenY2eW4yUTV5bWhPNFBxV2Q5RFZ0U0hBdjQwYWNPbGhvM0pB?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcG51T0N4Tk5QcV85MTRVZWpSWEM3WGhTZmlPWDh2blQ1U0hySl9mX2YxNktaZWgxTmlXV1dFU29nazlWRDc0UmJqU3RHc3luQ2g2RHREUEhsbU85U3k2WDV2a0pKd0xiMnl2ckJJNlR5am1JZGlkSmlibnI1eE9NdkQwQzlpVFZpeG5wTkw3NjJ2c0p5V0ZtRE0wV2RzUXU1Y29Edk1BYWk4UzZKZ1FDMmFDTEpFVjRz?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -483,7 +483,7 @@
         "source": "AD HOC NEWS",
         "publishedAt": "2026-04-02T07:00:00+00:00",
         "summary": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2FVMmh6ZEVuMnZUbFBmc1BERjdZVkllRU1SWktXMGRTc0xvTU9iTmZvaDJCMnRlbVRpUXFXaF84WkJrNXA4WVo3djkxbldTMVlZdkJFVkFtdlhoWTRxdnluT2trWjRNcUVWajZvOThYQS15eW1JeVJmLVU2cDFmZkNtUXE4TFZ0R01lNFhWdGdYMTRuOEVuVy1YUnJnNkc3UU9rM196MndfTERGWjY4aDVJRHpzWkQ0d2NDakg1TkpjNnNrNmhBakdtOEM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWd3Qkcxb09hRnFENDVEZFhva2xqWkxnSHQ0bWVYNThZZlo3cWVYZ2xfcXI4RzU0NFpBUl85aTJMV2F5b2QwYU1fMGhPOTRmaEZwb2poN3hmcmhjX3FlNUhkdV9ySmVKXzZJVnZwTllPdlRLTFpXeUpmMXBsdkhsVHdWdjBVeHNhSXZPQmR0N2NUS3ZUNXB2ZTUzUzNUcEpiV2ZGb2pHOWVicS1lbnFpY0FBWGQ2YTN6NkpmMEc4UGhSR2l5bEE?oc=5",
         "tags": [
           "KI"
         ]
