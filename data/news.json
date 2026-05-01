@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T22:10:49.650396+00:00",
+  "generatedAt": "2026-05-01T23:13:43.628076+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -86,16 +86,6 @@
         ]
       },
       {
-        "title": "Den Brandschutz gibt’s im Service-Abo - Immobilien Zeitung",
-        "source": "Immobilien Zeitung",
-        "publishedAt": "2026-03-26T07:00:00+00:00",
-        "summary": "Den Brandschutz gibt’s im Service-Abo Immobilien Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQUlnc2JoUzlvUXhLVW1BR2xHQUduZHplZlIxQVg2SW4yODc0d0hXYUo4WXpTLVREVmZ1NjRJNGQ1MXByX21YVUxXdFdUc0JyTU9NMXgzSmhEY1FBTnNvOHJhTElGdmctbFlpRTdBYzF1RnhWR2RYUGRmSnY5LXczckhUcjIwQVlnNjZz?oc=5",
-        "tags": [
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -124,6 +114,16 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
         ]
       }
     ],
@@ -193,13 +193,13 @@
         ]
       },
       {
-        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
-        "source": "WirtschaftsWoche",
-        "publishedAt": "2026-04-23T12:26:39+00:00",
-        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
+        "title": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-24T12:59:37+00:00",
+        "summary": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften MSN",
+        "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQU3NYQld0UmdVbzlwN1lRTTdRdlhSMk0zMzJCMGhTWDA3MnVCWWliVXdxSFhzdG9sRS1oSWFMcFctLWloZC1rVnhMYjZTY3NkVktlMGo3WXNVcklWeFJHeTdJeGNZd0dLNHFidmQtc2RGWlFiZlJDMVFnUXh4Y0gwbHhLemtXN3I2bFk5WFNjZWJuYmllRGYzUld3em1PS08wTjJITWltRlYwVFdxYnlLemRvZ2N4OE9YZnlMTVRvUzNWQVA2WXFJa1c2Wms1Y2drbVFmR1JhZnpoUk4zMzM3YmZDTXZLTUItbFBLV3ZHbHJxVENCUXQxQnNhSzlGbXVSRF96a3EzRkhMYmZGR0hmYjdYSVkzSGVmMm05MWhXdGV3ei1TT2VSdWh2eEZRVXAxSkFkVmFvWVVsSGV6cFJSQVNFbGY3RGdRQXFuWi1TR1FQamdoa3JMa1VLV3QwTXJDaHBzLXNFWTdUSnhyRjBiTFktSzU2SldhZjZGQWs5RnlnaGs?oc=5",
         "tags": [
-          "WirtschaftsWoche"
+          "MSN"
         ]
       },
       {
@@ -245,37 +245,17 @@
         ]
       },
       {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
-        "source": "Tages-Anzeiger",
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
+        "source": "WirtschaftsWoche",
         "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
         "tags": [
-          "Ei"
+          "WirtschaftsWoche"
         ]
       }
     ],
     "doors": [
-      {
-        "title": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Private-Equity-Hebel an? - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-14T18:47:35+00:00",
-        "summary": "Apollo Global Management Aktie (US0376041051): Kommt es jetzt auf den Private-Equity-Hebel an? AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXRzSWs2dXNGdzdHNWNKVHVRSEhSYXdnMDAwcnBBNVE3a19iakJVREhpdlJpWGxubUNwNHY3blZIQW9HZnQ5Rkc2aVpwNllWTk5XdVJvdENsZXUtTk43YnRKWmo2bGFkeDhSNVdFQXZ5RHNHakJRTC1mZ2ZVTHVQS1E4XzdEN2FNQ0ZjUDNJSG5IbXVBYmxGRVo1Wlh2VzdLS0s0QWJLamhkX1VlSUFfWHhiaWhlVzdaVm5naw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-09T07:00:00+00:00",
-        "summary": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObC1rUW54aGFVeVgtNzVMUUhnYWI4ZXFKUTlKN3VSdmxTSUtKcDBQbFJZZWpua3UtYTc0OUpwYWRhYm8ycUw5UWQxSGtMN2U1UjdxT0pfODg3dmlWUTh6bDd5Z3FRTnZxY2xFclN2ekd5T1lMcXFWMXVVemY2VGk4ZDZtVEE0ckVKS1oyUUxyMU5oQQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -307,6 +287,16 @@
         ]
       },
       {
+        "title": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcG51T0N4Tk5QcV85MTRVZWpSWEM3WGhTZmlPWDh2blQ1U0hySl9mX2YxNktaZWgxTmlXV1dFU29nazlWRDc0UmJqU3RHc3luQ2g2RHREUEhsbU85U3k2WDV2a0pKd0xiMnl2ckJJNlR5am1JZGlkSmlibnI1eE9NdkQwQzlpVFZpeG5wTkw3NjJ2c0p5V0ZtRE0wV2RzUXU1Y29Edk1BYWk4UzZKZ1FDMmFDTEpFVjRz?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
         "source": "Handelsblatt",
         "publishedAt": "2026-03-31T07:00:00+00:00",
@@ -314,16 +304,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-29T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMElhREtrTGpvcjF6ZTdyVFhRUG5uNlcyRXY0M2RSU3NHa2FyYVAtMEdySUQyMUhkWjNnSU4weXV5MU5ydUJ1Q0V4RmZBVndFb2VWQWJrYzhvd3l4TmRWLWFaR0RBWWFQTE8zNlVmQWdJbTQ2WXZEUFdIMlVueUNZWXRMTnc3WTlMZDBDOEhwWW1OYXJ6RUNkdHVrMlJwaWNoN0ctVW5BUU5qMHc0eC1nSElpLUJtdw?oc=5",
-        "tags": [
-          "Apollo"
         ]
       },
       {
@@ -357,6 +337,16 @@
         ]
       },
       {
+        "title": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Herausforderungen im A - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-25T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Herausforderungen im A AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnBWSnZ3MUZUbDVSaGRDdm5ldnViMEhWUndDYWlIdVcxUG8zVmxCRUFYRnM5Y19NUkV4di1hYjRTYW15TXlIV25zUGRwLWdXNzl1Wm5tTUpNMlFfVHFvOXVocDUwNXNTT0psR3gxR1dQSS1pdGMyOFFBQ2NtV1I3dEJocmg5eENFai1SYWZJaGJZZGJkTjdjVkNkdnhOUFJibUV1VEtNLVhpYmtmSVF4cll4QkNfQlphQ3NQVjU5dmI1UQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-03-22T07:00:00+00:00",
@@ -374,6 +364,16 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDVDQ2psQWMzNUN6SEdqZERRUzZGWnVZSk1EVjB6SHlqektnTUMwb0VQWUJsRldRUGlsX2Y4di1WVVktYllydVhnbjBPRzU1dU1vdHZ2eWxSMFpuYS1fYk5TMjIzVE1nRmRacWcxTzNPZ09vSWlYdk0tSzBDRUNYN0JtOEtfUW9ST0FhLWY0ekhmcURvNGZ1MUlBbmdRWHdQLVgydTRJWkh4N1lXVXdrc1NMXzFJcW5uSWdGZWRjc2xKbWs?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
         ]
       }
     ],
