@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T08:04:55.935922+00:00",
+  "generatedAt": "2026-05-02T09:38:52.115003+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -31,6 +31,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -115,16 +125,6 @@
         "tags": [
           "Netzwelt"
         ]
-      },
-      {
-        "title": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern - Ntv",
-        "source": "Ntv",
-        "publishedAt": "2026-01-20T08:00:00+00:00",
-        "summary": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern Ntv",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVozWm4wbWtTUDZWVVpENWtkOUREaEVBT2tJMEhZTkFlX3NzLUZSRk5BZl9PcG9sdjlONV9HOHM1UkVWWDkzdU5IQ3hMZDZfRUdsNnl3ZWJxTlJOUVN4U29XTHJKTWRldHJOX2hRWXVVNWt1U21OeE4yMWQ5bGhKMk5OYm9WbmlFOThDTmctZmhKbkNYQURfVjNvWUlwVHIzMmRBcVdKT0xrbnZNSEFabVE0Zw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "pfs": [
@@ -170,16 +170,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
-        "source": "MSN",
-        "publishedAt": "2026-04-28T13:02:41+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNb0ZodGxYLXdYLTVZSjdfU3U2LWw1Z08wNkl3VWo4Ry1KSkI2SjNSLVhRNHZqNnBiWjdxcGVSRXpoelVpSVBUM1lQYjMxZlB2T2FYeF9WazJRNWxydlBBNzZjR0FXalI3M29HN2Vyb2d6YzVWaXNlRmRzdVBPRE9sb3pIX2VFSXluUU1hMHBMdjVYaTVFWUNVQk51ZUwwSjNMZ0c4WXcwY2JCVzJtdDBYUFZkMHczeENlMGlBNi1nMUVNaFEtTlRTODhTR0FuR2UzcnFXOFBHM09Wbm41ekk1OS01N2VOX2k2WHBMOUVlR2dYVHh3c01wZWJGYTIwRThzN3ZnbXc2eVdES013Z3k3bFR4ZkxkVHk3dUlHXzVGN3Q1Q0w5TTJtdnRMMWRGTU5sQ2VUa2FDTmtuMjBZRHlPRk1OeVlwZU9reWFFQUJ3cEhBZS02TmRtdXl0NXdfa3pxWElYbXZLVDdRdC1WNU00RS1PT01EQnFHNjhyRTF6VWhmZkFleUY2VHg3VDB2ek5h?oc=5",
-        "tags": [
-          "MSN"
         ]
       },
       {
@@ -253,19 +243,19 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
+        "source": "WirtschaftsWoche",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
+        "tags": [
+          "WirtschaftsWoche"
+        ]
       }
     ],
     "doors": [
-      {
-        "title": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-09T07:00:00+00:00",
-        "summary": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObC1rUW54aGFVeVgtNzVMUUhnYWI4ZXFKUTlKN3VSdmxTSUtKcDBQbFJZZWpua3UtYTc0OUpwYWRhYm8ycUw5UWQxSGtMN2U1UjdxT0pfODg3dmlWUTh6bDd5Z3FRTnZxY2xFclN2ekd5T1lMcXFWMXVVemY2VGk4ZDZtVEE0ckVKS1oyUUxyMU5oQQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -292,6 +282,16 @@
         "publishedAt": "2026-04-02T07:00:00+00:00",
         "summary": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTzd0b3l2WVhyZkZmcmZORC13U1I5cloxdzJTRG4wd2F4dWRIUlJxbW9XY2RSZXYyM2hFMnNYXzlZOVR6VWt0VURBNEVJSTItS2tmYXU0UDhqMVlheVVMZ3oyOEVxcHI1RVp0SElqUlluMFV3SWVQRDJSVHMtdTZnbjlTeXpyaW0tN2cyVjZlMmt5MHJNTmRWRm4wclp0MVZjeS1CNlpJajVEYk5Fb2ZQZVRsa0d5V3gxdXlmMDZXZzJUeVN0VUd3VzNLMGhNa0hEMDB6NW9OUi1INUdXUXluTHEzci1HRklqYXBuWkQ5dEbSAfYBQVVfeXFMT2tXZzRjNFc5M2JSSHg4a3plQU5GU0E1RFRSeTAwc2hxVHVJWEw4ZkhBM0xlaHlGTHY2Sjh0WlJkd3J5dm9GcnQ1aDBjWUdaUTAwc0p0Z19qdEF0bzBEejhYdFczcURPM3M3Q3h5eGFIX2MwWGVLWmJJUTZsaVoxZU1fdlFHY2NqRWZwdFRKVzgzWVZ6UnlHQkpsUHktWTJOR2NKaXJTOWxvUXV1aGQ0aktTQ2FBQ3hCZmViTkdweVpNYVltdWdETWYtRHFXYl8tSEpNenY2eW4yUTV5bWhPNFBxV2Q5RFZ0U0hBdjQwYWNPbGhvM0pB?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3dyakcxZVRCS3hSa2NLX0dDeVRHMzNFUXNNOWhMWWwxUloweE96NE9pSVdTdzhHYXh3TUdZNW91N3oxUXhzNWkxa3dvSjE1cWxKdW9zcEJ3SFFzWS1HVEhRcDd6M0xkY2JEX0VKUzlPQWsxQkQ5bl9Gb3VFY2VZb3p2LU5FMXlMUXo1UHUxYWxacWdiZUgzWXhHanVFcTVnTDQ4eXFCUkxuTXdlVlFYVzRJRlJlMWRSSTEtOXpldw?oc=5",
         "tags": [
           "Apollo"
         ]
