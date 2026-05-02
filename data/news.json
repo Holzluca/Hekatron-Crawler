@@ -1,10 +1,503 @@
 {
-  "generatedAt": "2026-05-02T03:59:08.696826+00:00",
+  "generatedAt": "2026-05-02T06:08:30.072738+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
-    "atb": [],
-    "pfs": [],
-    "doors": [],
-    "trends": []
+    "atb": [
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
+        "title": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJtWjN6NHZOMVpwVVZZUXcxZUoxRzdpbVFyMEpGbXBmdGhGRWI1aHo1Y3pWR2RqRE9OU1gzRXp3OHNlSHBrcmRsdXFzTF9wUzFEc2kxRzJOM3lqYzVGVkhzZDhjMUxmSFVKa0IyV2dBUnB0VWhlSHZjOUhtYjRuaFN1ejNVbEdCZklrZUJqSkJmQnRHaTAxQ0Y1R1RnU1UyaUc3NXlTeWdFdUhvYWlrWGZGUTIwT0k?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T07:00:00+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzdycEZmNTNaVzVBc25tTjhWd2NUWEhTcHA4Y0xzU19NblU0RUY1MDdtT2V6Qjhta3l5RFVSc0dGc3BEeFZmaHBCbUhaNU13RGk0ZENOcUltaERhT2gyVnQ1UDJHcnlWSXFFS3BYMUd6WTJmUXVZVlpQcDBFMW9ZQzUtek1yS0szc0dweEdubjIxQ2E4SWVLMHV2bF9ER3o4YTFxLUlxcWZ2Sld1VDdNbzN5X2hTZDQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
+        "source": "Aargauer Zeitung",
+        "publishedAt": "2026-03-30T07:00:00+00:00",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Den Brandschutz gibt’s im Service-Abo - Immobilien Zeitung",
+        "source": "Immobilien Zeitung",
+        "publishedAt": "2026-03-26T07:00:00+00:00",
+        "summary": "Den Brandschutz gibt’s im Service-Abo Immobilien Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQUlnc2JoUzlvUXhLVW1BR2xHQUduZHplZlIxQVg2SW4yODc0d0hXYUo4WXpTLVREVmZ1NjRJNGQ1MXByX21YVUxXdFdUc0JyTU9NMXgzSmhEY1FBTnNvOHJhTElGdmctbFlpRTdBYzF1RnhWR2RYUGRmSnY5LXczckhUcjIwQVlnNjZz?oc=5",
+        "tags": [
+          "Brandschutz"
+        ]
+      },
+      {
+        "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-03-10T07:00:00+00:00",
+        "summary": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWGNZalhmNkEwczhjWGNsUGZWRDFwcmdPMmdwUXk4TWhQa29jUlJReURtZVYzME5UWjdtS2tlZW1TTUxxcEp5Mjlsdmxjb1ZBc2wxY1ZsMUtUNDczNlRVOG4tQzZxUDd4OENCT1NLb2sycmNlRDdtT1JmNFpkY2RrVmJJYlVBb0V4enBDZ2NDVTM1ZHpyN2YtcFFKQUJFc0xQN2lMdGlYR1hKaER4RVhibWJISERyNXBQUHJPWUJaSHdQUFRhakZ0NHAzQTJOT1BaYmhobmF3UkZiS0dGdF9TYXkwR2xfNms3aExlaTdqQ2FCSEpsLXlkZWtBX1BRekdaMjMweWJKaE5wbkUtelBJNlNvMUV6eHpBcE9RLTBaNTF5RUhja1dUNURB?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      }
+    ],
+    "pfs": [
+      {
+        "title": "Bosch veröffentlicht neuen Smart Home Bewegungsmelder und verbessert Komfort & Sicherheit - TopTechNews",
+        "source": "TopTechNews",
+        "publishedAt": "2026-04-30T07:56:14+00:00",
+        "summary": "Bosch veröffentlicht neuen Smart Home Bewegungsmelder und verbessert Komfort & Sicherheit TopTechNews",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEtwWVo5ZHdLRHRqRGt4d25uZHpTb1FkS1JITGI3X05QMVRuNHhNQnFtcjJUSklFT1BnbXBpZWRWUm0tY2htdC1vNWJaTHV4aERiWUluRXU1cjhScTdRMm5mN1RJak1uWjVkbWJFbHlVV1daUVdHRlBfcmpzcEM5dE84RkNQaF9MaEc5ajFsdjROeHM5R3hnaTRldFprYkFRZktZODZ1bGVsdUVkWkU2Z0E2c1B5dWRwb3VEZzR1SXRiZFFEdUE?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-30T07:20:26+00:00",
+        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
+        "tags": [
+          "SmarthomeAssistent"
+        ]
+      },
+      {
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T11:50:18+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-04-29T10:00:00+00:00",
+        "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-04-29T09:10:21+00:00",
+        "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-28T13:02:41+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
+        "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNb0ZodGxYLXdYLTVZSjdfU3U2LWw1Z08wNkl3VWo4Ry1KSkI2SjNSLVhRNHZqNnBiWjdxcGVSRXpoelVpSVBUM1lQYjMxZlB2T2FYeF9WazJRNWxydlBBNzZjR0FXalI3M29HN2Vyb2d6YzVWaXNlRmRzdVBPRE9sb3pIX2VFSXluUU1hMHBMdjVYaTVFWUNVQk51ZUwwSjNMZ0c4WXcwY2JCVzJtdDBYUFZkMHczeENlMGlBNi1nMUVNaFEtTlRTODhTR0FuR2UzcnFXOFBHM09Wbm41ekk1OS01N2VOX2k2WHBMOUVlR2dYVHh3c01wZWJGYTIwRThzN3ZnbXc2eVdES013Z3k3bFR4ZkxkVHk3dUlHXzVGN3Q1Q0w5TTJtdnRMMWRGTU5sQ2VUa2FDTmtuMjBZRHlPRk1OeVlwZU9reWFFQUJ3cEhBZS02TmRtdXl0NXdfa3pxWElYbXZLVDdRdC1WNU00RS1PT01EQnFHNjhyRTF6VWhmZkFleUY2VHg3VDB2ek5h?oc=5",
+        "tags": [
+          "MSN"
+        ]
+      },
+      {
+        "title": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-27T12:59:38+00:00",
+        "summary": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften MSN",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQaW9qWEdBRFZmdFl0ZzVwV0FVQjVKUzY2ZTZMU29BNk0wMGJ6bHFTbHpaREgwQnhiaDI2Z0Rzd1JkS2JaY1ZuV2xfVHRkQWlqT3RtUVNyaWFPYVVxZjAzQ2E0b1JnTm9JZHJkdVdWYjNLUW9DRHZLNWtxQWdjczd2aUIxQmczZmdxMEJSSFFMaG1Renlxa2tob0JCRURja252SzNWTHNuWFdoNmVKNm5NZExkM0hKOW1xNDYtbTlPNG9pQnVtWGFvNFdTVmZWbzdnbmtxQnpMeFlkN2FkMUhEWm5ZZ29jZDB2WndGeEE0bUEydTNLQkY4Ymw0dkxDcUdaTXB3ODhzSnBVUnp0RVRGQU1Ud3BiZUFLX2J0U0hSS1pva3VUM3VTREtBSzY3NktDa2hXYUw4anBvRXJCemt3NERBLWxIU3g3cE1SZlQzWXY1UUwtMndJdVZ2ZTY0ekhpcDI1aHlJTlVXdTdNd0s4ZERiYnQ3NXMwenRlY2plSjlYQVdq?oc=5",
+        "tags": [
+          "MSN"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
+        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
+        "source": "Berliner Morgenpost",
+        "publishedAt": "2026-04-24T14:21:25+00:00",
+        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-04-23T11:55:05+00:00",
+        "summary": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0tPNFp0VjVPNDIyY3ItTndWZ1FFdjY4RnZQTFRkRWVwTjAxMnNlTXdtbm41ZnJqNUNMNGJtV2tuTURKaW9hOEJIZlZtZVNxQ0FOclJzLWo?oc=5",
+        "tags": [
+          "Ei",
+          "Pyrexx"
+        ]
+      },
+      {
+        "title": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-04-23T11:35:00+00:00",
+        "summary": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN0dMeXZhSzEzcHAtenpfY2RiMDZObmFMUWhwYkVQaWd3X0daQnNaSDlxRzVaOV9IdFhWMXliYVA2NW1DdzNsa0RDLVdNUzdNdER3REZSRERmUXRzSXlIVmJxZWIxX3V1V291VmFFWTI3d2JfZWhTZDRFOWo0ZzEteWNzVGxiYTF3WDFFNmdmTVotbVo3cDdhSmY1cnZmY1QtTzBwSWRoT0thY0U1dHVSRmh1clVVcVl4LVQzX0FHRGFzdkppNmc?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T10:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
+      }
+    ],
+    "doors": [
+      {
+        "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-08T18:38:36+00:00",
+        "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQU8wWjY2aUhaaDQxMU5nWWFZckUtVEZpNm40RUpNWTFTXzhqR21pcnczVFd2RlZEN0FJdVhGWGxuU1U0YU11OXhmNGdGQy1DTkpGSTVGS1RLdDhwTjhZNDNXSVZhSGh5ZkVZX2l4dFJjNm90cjNtSTNkbDd6bUx5N2g3dkwwT2NaQmxSeHpqdzBoWjd5VmxfZVhhNXNzUTVlc0lWcjVwOWcyMEFzQ0dfTjE5VQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-08T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjNQeUVwY0VHLVByajRnbW0weWx4MWRyNUs5bzBHc21LTEV5alJkRGJEYXF4ZGZWM3k4X1pqT3NXLUMzejlNN3JlVTFPRlNTRmpiQUVsblpwdUsyNndkOFBKNWJ4azVOWnNiOVpWZ0lDbzNnNXhqOXhmLVJNVHF4aUNQbFc2TzJEdy1CZ1Y1cUVtVFliNElsbEpad3hIR3MybjNyb0lEZGh3cThTWGNMWGQzbw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
+        "source": "simplywall.st",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTzd0b3l2WVhyZkZmcmZORC13U1I5cloxdzJTRG4wd2F4dWRIUlJxbW9XY2RSZXYyM2hFMnNYXzlZOVR6VWt0VURBNEVJSTItS2tmYXU0UDhqMVlheVVMZ3oyOEVxcHI1RVp0SElqUlluMFV3SWVQRDJSVHMtdTZnbjlTeXpyaW0tN2cyVjZlMmt5MHJNTmRWRm4wclp0MVZjeS1CNlpJajVEYk5Fb2ZQZVRsa0d5V3gxdXlmMDZXZzJUeVN0VUd3VzNLMGhNa0hEMDB6NW9OUi1INUdXUXluTHEzci1HRklqYXBuWkQ5dEbSAfYBQVVfeXFMT2tXZzRjNFc5M2JSSHg4a3plQU5GU0E1RFRSeTAwc2hxVHVJWEw4ZkhBM0xlaHlGTHY2Sjh0WlJkd3J5dm9GcnQ1aDBjWUdaUTAwc0p0Z19qdEF0bzBEejhYdFczcURPM3M3Q3h5eGFIX2MwWGVLWmJJUTZsaVoxZU1fdlFHY2NqRWZwdFRKVzgzWVZ6UnlHQkpsUHktWTJOR2NKaXJTOWxvUXV1aGQ0aktTQ2FBQ3hCZmViTkdweVpNYVltdWdETWYtRHFXYl8tSEpNenY2eW4yUTV5bWhPNFBxV2Q5RFZ0U0hBdjQwYWNPbGhvM0pB?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Was Anleger jetzt wissen sollten AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3dyakcxZVRCS3hSa2NLX0dDeVRHMzNFUXNNOWhMWWwxUloweE96NE9pSVdTdzhHYXh3TUdZNW91N3oxUXhzNWkxa3dvSjE1cWxKdW9zcEJ3SFFzWS1HVEhRcDd6M0xkY2JEX0VKUzlPQWsxQkQ5bl9Gb3VFY2VZb3p2LU5FMXlMUXo1UHUxYWxacWdiZUgzWXhHanVFcTVnTDQ4eXFCUkxuTXdlVlFYVzRJRlJlMWRSSTEtOXpldw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-28T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTNsNTJTUnRULTFILXZDR2hRaEctT04wd3FPX0RhUVc2ZjgxVUJhcDRqaEozNmVCSzNwbGxhYTc2OVN2X2JBTU1mTk9RSldUODF3d1NwZFVBekhWQXFQaVEzVUxDSU1leVQtUmZ5NkpJVTRFOWpnN2N5S0dGRE1ieU9zQnJ4eHdMS3ZsMDlxa3BDQnlyaHNXcVJ0ek0wMzJlQ3RvdjNvT3JvZEVWY1dBZ1N1WHVSUQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Sektorherausforderunge - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-25T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Sektorherausforderunge AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOE9BbU9IZlFVdjZQdEpKeC1oZS1zbjZqNkl2QXltN2JYMWpPb0pSbEdxdzAtQThvQVlocW5WSzFFNUFQb1pGWHFRZzdNdFpPRzhRXzNMcHdNSE1uaURpWkRzek9Ld2R3RHdSY0xKUUpPeHZLTGtUbW9Db25acGg4VUFxR2hoVHpCNFF5VGxKMjRCVEFkdWxLTkUtUFpQVG9DVHc2eEFfX1RDcklNelZnamZ1R0NNeDRlVHBhVlpvWklqVTBPT2x2Nw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-22T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Starkes Wachstum durch Akquisitionen und steigende Zinsen – Chance AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLWtaZ2lIT1hZY0ZlZGRIb0RiZlFzeUotTmMxWjJXS1ZlQmNJRG03Q2ZycDNmZy1JMHNpSlVzbjF1NWlMYmtua0haZHJZTU41a0tjZng0OVdnWks5SFVsWHNHQTBvQko2Wm5KQ2ljQ0txRDZjY25TdmQxamtHdzA5Rk43OV9pNkh5OUZabVR1clBINW9DVGtvYWhPWDRpTUxpQ2ZvRjg5WDMyNE5iNlJYdTFmSmdWRFUybS1BakJ6RU1VcDFUUlN3Uld3?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Milliarden-Deal mit Realty Income treibt Wachstum in stabilen Retail-Immobilien - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-19T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Milliarden-Deal mit Realty Income treibt Wachstum in stabilen Retail-Immobilien AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDVDQ2psQWMzNUN6SEdqZERRUzZGWnVZSk1EVjB6SHlqektnTUMwb0VQWUJsRldRUGlsX2Y4di1WVVktYllydVhnbjBPRzU1dU1vdHZ2eWxSMFpuYS1fYk5TMjIzVE1nRmRacWcxTzNPZ09vSWlYdk0tSzBDRUNYN0JtOEtfUW9ST0FhLWY0ekhmcURvNGZ1MUlBbmdRWHdQLVgydTRJWkh4N1lXVXdrc1NMXzFJcW5uSWdGZWRjc2xKbWs?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      }
+    ],
+    "trends": [
+      {
+        "title": "Aareon bietet Cloud-Lösung für KI - Der Facility Manager",
+        "source": "Der Facility Manager",
+        "publishedAt": "2026-04-30T12:15:26+00:00",
+        "summary": "Aareon bietet Cloud-Lösung für KI Der Facility Manager",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUk9OWWFEd0g2bkJZdENRSjhocnJ4dzkyOExRMGg4WW9QcWRMT25odUdzODJmWEZhelhfdndycjNxNnJyalBIVFFFeGVUWUoxTFBTdERYSkIybGVPb1lTdE40aHpUSWMtWEU0YVoyQjV4OGJ3bGtmODcxNVNlZ2xubjhMa0c?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Johnson Controls erwirbt Nantum AI, um autonome Gebäude-Energieoptimierung voranzutreiben - Unite.AI",
+        "source": "Unite.AI",
+        "publishedAt": "2026-04-27T18:03:36+00:00",
+        "summary": "Johnson Controls erwirbt Nantum AI, um autonome Gebäude-Energieoptimierung voranzutreiben Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ19ybXhlT2xRYWV1NUhzVTJHT1NkWnUwUElzVEg1UG01bmlEeml6X0hEbzVMcWJLRHJKSG8zbjU3Ty1fcmlUTE9GMUNYcERjbFl3c3oxQ18xTEYxTDRCcm83Ri1nVDZoMzU0ckI3OUJqQ0RtY0d3M2pOTEVkdnNaOWp6dXZ2eEMzbmhoUkZNallQQXMxTXdvUVljV2VVQnJsdnpycWF0YnU3ZGFfYVNFaA?oc=5",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "title": "Smart Home - mehr als nur eine App-Steuerung der Glühbirne - Schwäbische Post",
+        "source": "Schwäbische Post",
+        "publishedAt": "2026-04-27T16:00:00+00:00",
+        "summary": "Smart Home - mehr als nur eine App-Steuerung der Glühbirne Schwäbische Post",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1JZbEpkZE1iYnNzOGxDMm9IWHN0RGxNUXhZam5UN1cyMVc2emprUXdyNFM3WUcxTExESjJMSkEzdWpwRGZKU3lZbjhZTVpvY25RZGRpdTZJbjlrd1VUeEl1T3J6NUdKQ1dSS3N6WndfbXBzVWE5TEE1dnpKWEJPYkNnNk9CUXFEMjA4TEZjSzZDRG1WNXM3ZmRJWEc5SFJiaTVEelB0ZjFhcHgxSG9TdzN6VFJ2NTdRU0NvUlBtTGNjNVVjdjgxbnZ0WHhSRmpzZzdPWg?oc=5",
+        "tags": [
+          "Schwäbische Post"
+        ]
+      },
+      {
+        "title": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße - kreiszeitung-wochenblatt.de",
+        "source": "kreiszeitung-wochenblatt.de",
+        "publishedAt": "2026-04-25T09:39:58+00:00",
+        "summary": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße kreiszeitung-wochenblatt.de",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUhoM2hUYW9tb3hTLXZzU2ZzM21UZ0tDcjhRa2UyVkpHYnpiUW1WNXU1eEpjTHRrYjJQV090dnFTVUpDYjdKODREQy0xRG1mS0NvbnM0VG5vemhWZ2szNUI0a2F5UkpoRVlVdmNaR19jZVV1QmNxUENjdEJTRmFmaG4xRWhHc0k3MkNVUGI1ZnpQd1dIMzY3Q3VIeVNMdzhkVjM4eEpIVG9UWGhTR2RYMUJrWkdxOFZ2WUlB?oc=5",
+        "tags": [
+          "kreiszeitung-wochenblatt.de"
+        ]
+      },
+      {
+        "title": "Strengere Eurocode-Normen für den Brandschutz von Dächern - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-04-20T19:39:04+00:00",
+        "summary": "Strengere Eurocode-Normen für den Brandschutz von Dächern it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUI3eE1VbUpBZEgwb0dLRnd6STYzSWlkdWtFTE9lVzZxSkotd2lOaUVmYldvb3JlOGpLRDB4bzQ0dllMTkRwd3puTkxid1RFMndidE4yaHoxME1BMXBqdkFtYW1selFGRzZ6N25CTWR3ZVRXcGJxNmszX3loT0hVYUE3VkVXeUgyNnBwLUFEakx5cV9mYVE?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
+        "title": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab - Rheinische Anzeigenblätter",
+        "source": "Rheinische Anzeigenblätter",
+        "publishedAt": "2026-04-16T06:49:57+00:00",
+        "summary": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab Rheinische Anzeigenblätter",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUJ3NjJqc1VWckhaLVQ3QjY5NUVoREpMM0pZdk14SkR4bkEyc3FWcnZMeDZTLUZqLVE2a1FJSHE3UVBiVUFtZkExXzh6SmhYRHhFWERyOS1FcTItWG5HZTNGMmFIaExWajZCMk9BVE1yVzIwUnlqOHJEQ3RMXzZnSUpTNXVlVG9DamhSMGRxRDlndFR4cTBZczlZOWdoSVk4N0FSQzJ3QlZ2RThpOWV5VTZiZHZGSEtIaUlodEZjQlhBMlhEM0dtWDJOOFVjNGRxUGRNUHl3WXdVR0FXY2l5SXF0cTNRQQ?oc=5",
+        "tags": [
+          "Rheinische Anzeigenblätter"
+        ]
+      },
+      {
+        "title": "Smarte Gebäudetechnik im Klinikum Stuttgart - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-04-10T05:00:00+00:00",
+        "summary": "Smarte Gebäudetechnik im Klinikum Stuttgart elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
+        "tags": [
+          "elektro.net"
+        ]
+      },
+      {
+        "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
+        "source": "Stimme",
+        "publishedAt": "2026-04-06T07:00:00+00:00",
+        "summary": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen Stimme",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMXBlVXMzVHRncHF4N19oXy1EZjdnN2pKckVWejc5cGVkVWhfNUc2YVZkLTVxYkNhQlF2cFZ4VWtGcmx5cEdyaWNJUXNrM09yRGF0TzF0bmZDRTdySFNpa0pIdWdhbmFaUzBvV2pyMkY4NmJjSzdyb2dQVG1IYTUzM0QwczhBazhOeFFXai1TNXRVZDMxSG9rV0phM0RHVGY5eW15cmNYRzljelVGMXBFelVXYnVIN1hOaUZIemp2elgxakVpb01GM2hzazkyZnBuWVVDUVE2ZUU4Z3JFTVN6UGJ2VF82SkQ5N1hzZXVhaDBuOFl3NElyM0h3?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "title": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2FVMmh6ZEVuMnZUbFBmc1BERjdZVkllRU1SWktXMGRTc0xvTU9iTmZvaDJCMnRlbVRpUXFXaF84WkJrNXA4WVo3djkxbldTMVlZdkJFVkFtdlhoWTRxdnluT2trWjRNcUVWajZvOThYQS15eW1JeVJmLVU2cDFmZkNtUXE4TFZ0R01lNFhWdGdYMTRuOEVuVy1YUnJnNkc3UU9rM196MndfTERGWjY4aDVJRHpzWkQ0d2NDakg1TkpjNnNrNmhBakdtOEM?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-24T07:00:00+00:00",
+        "summary": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-21T07:00:00+00:00",
+        "summary": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjhhTkNMaXpvQkpBdml6R0lKbHVPUEdKU20xZ0ExQTBSVkQtQWpnRlREcGpHNUdpNklHZmpNRHdFQ1l2Y2dRQ1J3dDZyb2pwMmtMbko2NldPUkdFSGNiQ1JoTXFySmpzZTQ3RzhZTUNueEw5Y0dSSGVObkRwUVI4Zk5ERjBGVEdpdWE0SGxSU2gwbjFTQmVPVHVJUWkwM3hfVGgydmpQTElrYmx6X082UXYyeUI1MjUzbUZkcVNR?oc=5",
+        "tags": [
+          "KI"
+        ]
+      }
+    ]
   }
 }
