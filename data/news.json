@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T19:32:57.016856+00:00",
+  "generatedAt": "2026-05-02T20:36:02.184620+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -224,27 +224,6 @@
         ]
       },
       {
-        "title": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-04-23T11:35:00+00:00",
-        "summary": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN0dMeXZhSzEzcHAtenpfY2RiMDZObmFMUWhwYkVQaWd3X0daQnNaSDlxRzVaOV9IdFhWMXliYVA2NW1DdzNsa0RDLVdNUzdNdER3REZSRERmUXRzSXlIVmJxZWIxX3V1V291VmFFWTI3d2JfZWhTZDRFOWo0ZzEteWNzVGxiYTF3WDFFNmdmTVotbVo3cDdhSmY1cnZmY1QtTzBwSWRoT0thY0U1dHVSRmh1clVVcVl4LVQzX0FHRGFzdkppNmc?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T10:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
         "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T07:00:00+00:00",
@@ -252,6 +231,26 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblB3TmVYWW43LUM1Tnluakw2MUZPdnU1c0gtQ1hQYURpT25OS1Itb0lHazlXclFTWE0xamJVaXBJTlVsQW9ZQ3Rva0M0U3hvcElsakR1ZzdiMERLejFER0x3ejVXbTV4ZUR2WnJzTE5mZzl4SDlSSXRRNFk5Z1BmbVdGeFAzbUhfWkI2QzN5clBpSG1yVFpQSjFGTjlPWU1MbDlUTGV4Q1E5cndYTGlOaUNnZENQME9STkx6el9vX2c?oc=5",
         "tags": [
           "Spiegel"
+        ]
+      },
+      {
+        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
+        "source": "SZ.de",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
+        "source": "WirtschaftsWoche",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
+        "tags": [
+          "WirtschaftsWoche"
         ]
       }
     ],
