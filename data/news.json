@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T14:43:27.494452+00:00",
+  "generatedAt": "2026-05-03T15:41:22.081068+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -202,6 +202,16 @@
         ]
       },
       {
+        "title": "Smart-Home: Das intelligente Schlafzimmer - Falstaff",
+        "source": "Falstaff",
+        "publishedAt": "2026-04-24T10:35:21+00:00",
+        "summary": "Smart-Home: Das intelligente Schlafzimmer Falstaff",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpfUlpOcU11UnFncW9OYzBaOFVKY0k3Y3QxM3U0WWlUZ3lFU0FzNlgtWWxqalJ3T3JvTm04REpucnpvemZ5Um16YWRhczhRNU16b0Y0SE1VSzlzX2s4ekU1Szh5TVR5Yk5RMkUwYUFNak43RWZUcndXbC1oeEFEWDVNbmV5cEZQY1B5aW13?oc=5",
+        "tags": [
+          "Falstaff"
+        ]
+      },
+      {
         "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
         "source": "Presseportal",
         "publishedAt": "2026-04-23T11:55:05+00:00",
@@ -241,29 +251,9 @@
         "tags": [
           "WirtschaftsWoche"
         ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
       }
     ],
     "doors": [
-      {
-        "title": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-09T07:00:00+00:00",
-        "summary": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObC1rUW54aGFVeVgtNzVMUUhnYWI4ZXFKUTlKN3VSdmxTSUtKcDBQbFJZZWpua3UtYTc0OUpwYWRhYm8ycUw5UWQxSGtMN2U1UjdxT0pfODg3dmlWUTh6bDd5Z3FRTnZxY2xFclN2ekd5T1lMcXFWMXVVemY2VGk4ZDZtVEE0ckVKS1oyUUxyMU5oQQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -300,6 +290,16 @@
         "publishedAt": "2026-03-28T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Herausforderungen im A - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-25T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Herausforderungen im A AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnBWSnZ3MUZUbDVSaGRDdm5ldnViMEhWUndDYWlIdVcxUG8zVmxCRUFYRnM5Y19NUkV4di1hYjRTYW15TXlIV25zUGRwLWdXNzl1Wm5tTUpNMlFfVHFvOXVocDUwNXNTT0psR3gxR1dQSS1pdGMyOFFBQ2NtV1I3dEJocmg5eENFai1SYWZJaGJZZGJkTjdjVkNkdnhOUFJibUV1VEtNLVhpYmtmSVF4cll4QkNfQlphQ3NQVjU5dmI1UQ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -447,6 +447,16 @@
         ]
       },
       {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
         "title": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-04-02T07:00:00+00:00",
@@ -472,16 +482,6 @@
         "publishedAt": "2026-03-21T07:00:00+00:00",
         "summary": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjhhTkNMaXpvQkpBdml6R0lKbHVPUEdKU20xZ0ExQTBSVkQtQWpnRlREcGpHNUdpNklHZmpNRHdFQ1l2Y2dRQ1J3dDZyb2pwMmtMbko2NldPUkdFSGNiQ1JoTXFySmpzZTQ3RzhZTUNueEw5Y0dSSGVObkRwUVI4Zk5ERjBGVEdpdWE0SGxSU2gwbjFTQmVPVHVJUWkwM3hfVGgydmpQTElrYmx6X082UXYyeUI1MjUzbUZkcVNR?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Brandmeldeanlagen: KI und neue Regeln revolutionieren den Brandschutz - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-19T07:00:00+00:00",
-        "summary": "Brandmeldeanlagen: KI und neue Regeln revolutionieren den Brandschutz AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWNzb0hOZENrOXUxNE54YXZ0bGZkbEdZQXA4ZUZlN2hkVjBMemxOcnhFTEl5TFhxQTlkR2RGeDlpTjhtRFJnVHVGS1ZHRXlFdEFwS011S3g2TkR0dnBIaVBTVFVnR1JzeURUbTBfaHVManRLOXI0by04c2NNam80bFlISjUzNE9KQTlRZFpKYUJ5cUpVdnZCR1JjTWZua1NWWUVIYXM4YTc2YWNyVElRdTNzLWVzMWF0c2JQQVBjX0ZXdkh3Vnc?oc=5",
         "tags": [
           "KI"
         ]
