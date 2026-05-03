@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T19:51:07.630430+00:00",
+  "generatedAt": "2026-05-03T20:36:36.858790+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -162,16 +162,6 @@
         ]
       },
       {
-        "title": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften - MSN",
-        "source": "MSN",
-        "publishedAt": "2026-04-27T12:59:38+00:00",
-        "summary": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften MSN",
-        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQaW9qWEdBRFZmdFl0ZzVwV0FVQjVKUzY2ZTZMU29BNk0wMGJ6bHFTbHpaREgwQnhiaDI2Z0Rzd1JkS2JaY1ZuV2xfVHRkQWlqT3RtUVNyaWFPYVVxZjAzQ2E0b1JnTm9JZHJkdVdWYjNLUW9DRHZLNWtxQWdjczd2aUIxQmczZmdxMEJSSFFMaG1Renlxa2tob0JCRURja252SzNWTHNuWFdoNmVKNm5NZExkM0hKOW1xNDYtbTlPNG9pQnVtWGFvNFdTVmZWbzdnbmtxQnpMeFlkN2FkMUhEWm5ZZ29jZDB2WndGeEE0bUEydTNLQkY4Ymw0dkxDcUdaTXB3ODhzSnBVUnp0RVRGQU1Ud3BiZUFLX2J0U0hSS1pva3VUM3VTREtBSzY3NktDa2hXYUw4anBvRXJCemt3NERBLWxIU3g3cE1SZlQzWXY1UUwtMndJdVZ2ZTY0ekhpcDI1aHlJTlVXdTdNd0s4ZERiYnQ3NXMwenRlY2plSjlYQVdq?oc=5",
-        "tags": [
-          "MSN"
-        ]
-      },
-      {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-04-27T07:00:00+00:00",
@@ -213,11 +203,11 @@
         ]
       },
       {
-        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
-        "source": "SZ.de",
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
         "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
         "tags": [
           "Ei"
         ]
@@ -233,11 +223,11 @@
         ]
       },
       {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
-        "source": "Tages-Anzeiger",
+        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
+        "source": "SZ.de",
         "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
+        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
         "tags": [
           "Ei"
         ]
@@ -250,6 +240,17 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
         "tags": [
           "Spiegel"
+        ]
+      },
+      {
+        "title": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN0dMeXZhSzEzcHAtenpfY2RiMDZObmFMUWhwYkVQaWd3X0daQnNaSDlxRzVaOV9IdFhWMXliYVA2NW1DdzNsa0RDLVdNUzdNdER3REZSRERmUXRzSXlIVmJxZWIxX3V1V291VmFFWTI3d2JfZWhTZDRFOWo0ZzEteWNzVGxiYTF3WDFFNmdmTVotbVo3cDdhSmY1cnZmY1QtTzBwSWRoT0thY0U1dHVSRmh1clVVcVl4LVQzX0FHRGFzdkppNmc?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
         ]
       }
     ],
@@ -335,6 +336,16 @@
         ]
       },
       {
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
         "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
         "source": "CoinDesk",
         "publishedAt": "2026-02-15T08:00:00+00:00",
@@ -362,16 +373,6 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGo1WF9yaVZZV3FhN2ZIVnJmU2o0LVE0ZTl3dFdFVGtPTUwyVmwwaFUxZE5YemlURGc5dHZfZzBSSnpCdlViYTQyWU53OFd0VDhiM21KczRYS3IyVVdqV3J4QkpIN2ZNdHktcVU4bm1YQlNaRDVFUGhPVldHcXRCWkVMUFZvcXMxNk1ycnVjeVUxZ085?oc=5",
         "tags": [
           "cineplex.de"
-        ]
-      },
-      {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
-        "tags": [
-          "GEZE"
         ]
       }
     ],
@@ -477,21 +478,21 @@
         ]
       },
       {
-        "title": "Brandmeldeanlagen: KI und neue Regeln revolutionieren den Brandschutz - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-19T07:00:00+00:00",
-        "summary": "Brandmeldeanlagen: KI und neue Regeln revolutionieren den Brandschutz AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWNzb0hOZENrOXUxNE54YXZ0bGZkbEdZQXA4ZUZlN2hkVjBMemxOcnhFTEl5TFhxQTlkR2RGeDlpTjhtRFJnVHVGS1ZHRXlFdEFwS011S3g2TkR0dnBIaVBTVFVnR1JzeURUbTBfaHVManRLOXI0by04c2NNam80bFlISjUzNE9KQTlRZFpKYUJ5cUpVdnZCR1JjTWZua1NWWUVIYXM4YTc2YWNyVElRdTNzLWVzMWF0c2JQQVBjX0ZXdkh3Vnc?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "SWR Aktuell. . 🤨 Lost Places im Sonderangebot https://1.ard.de/ki-burgen !? 🏰 Blöd nur, dass die Gebäude nicht echt sind. KI-generierte Videos mit Fake-Immobilienanzeigen tauchen immer öfter in den Timelines auf. Doch egal ob Burgen in der Pfalz oder Vill - facebook.com",
         "source": "facebook.com",
         "publishedAt": "2026-03-16T07:00:00+00:00",
         "summary": "SWR Aktuell. . 🤨 Lost Places im Sonderangebot https://1.ard.de/ki-burgen !? 🏰 Blöd nur, dass die Gebäude nicht echt sind. KI-generierte Videos mit Fake-Immobilienanzeigen tauchen immer öfter in den Timelines auf. Doch egal ob Burgen in der Pfalz oder Vill facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNemFHWXRxSTlZRUhJa1lIb3NQNTdnX0V6RFc1VDZ1VnNYelBWRDA1NU4xdTFyc21nWGVUZ0duN3JLdV80bjNqaGJJRTNMdzVBaUNNTnB2bTFQTFFWelMxS2JFb01ibkxsTUZfOE5kcVFLMlVNbW4ya0lDRU1OVTEtdXJRRnpqN2dzSGJZRmw1SDNxWVhkRkpDc2JlSjcyVE4zOWpEZUgxZ1VBQjZEaG1oeld3ZWltaWFORzZqbFppanZnd3VwTXNWSm02anVySDl4UVJTQURra3lKN3NiMnRUODFyWWp3dw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
+        "source": "Allgäuer Zeitung",
+        "publishedAt": "2026-03-07T08:00:00+00:00",
+        "summary": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte Allgäuer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
         "tags": [
           "KI"
         ]
