@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T10:30:09.121770+00:00",
+  "generatedAt": "2026-05-03T11:21:49.080643+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -31,16 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-02T19:56:17+00:00",
-        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
-        "tags": [
-          "Siemens"
         ]
       },
       {
@@ -125,6 +115,16 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
+        ]
       }
     ],
     "pfs": [
@@ -138,16 +138,6 @@
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T11:50:18+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -251,9 +241,30 @@
         "tags": [
           "Spiegel"
         ]
+      },
+      {
+        "title": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN0dMeXZhSzEzcHAtenpfY2RiMDZObmFMUWhwYkVQaWd3X0daQnNaSDlxRzVaOV9IdFhWMXliYVA2NW1DdzNsa0RDLVdNUzdNdER3REZSRERmUXRzSXlIVmJxZWIxX3V1V291VmFFWTI3d2JfZWhTZDRFOWo0ZzEteWNzVGxiYTF3WDFFNmdmTVotbVo3cDdhSmY1cnZmY1QtTzBwSWRoT0thY0U1dHVSRmh1clVVcVl4LVQzX0FHRGFzdkppNmc?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Paris Murder Mystery in Nordhessen - cineplex.de",
+        "source": "cineplex.de",
+        "publishedAt": "2026-04-13T16:35:11+00:00",
+        "summary": "Paris Murder Mystery in Nordhessen cineplex.de",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0lHZzRqeHRaSUwteHVNX21maUpQcjh2Q2JaMjJTUXJJaWpBZkpSbnNrUjc4eGdnMUVwYXk2QlFuYjA1TGNOWVBZOXVianNMVWhsSkVsV0NmdnY4UWxIUHNQYU1KRUFKME1OMG1ldXZYZGVmWlRwdHlBRTZqOXB5dWk4UHRfQQ?oc=5",
+        "tags": [
+          "cineplex.de"
+        ]
+      },
       {
         "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -290,16 +301,6 @@
         "publishedAt": "2026-03-28T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Herausforderungen im A - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-25T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Herausforderungen im A AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnBWSnZ3MUZUbDVSaGRDdm5ldnViMEhWUndDYWlIdVcxUG8zVmxCRUFYRnM5Y19NUkV4di1hYjRTYW15TXlIV25zUGRwLWdXNzl1Wm5tTUpNMlFfVHFvOXVocDUwNXNTT0psR3gxR1dQSS1pdGMyOFFBQ2NtV1I3dEJocmg5eENFai1SYWZJaGJZZGJkTjdjVkNkdnhOUFJibUV1VEtNLVhpYmtmSVF4cll4QkNfQlphQ3NQVjU5dmI1UQ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -417,10 +418,10 @@
         ]
       },
       {
-        "title": "Strengere Eurocode-Normen für den Brandschutz von Dächern - it boltwise",
-        "source": "it boltwise",
+        "title": "Strengere Eurocode-Normen für den Brandschutz von Dächern - it-boltwise.de",
+        "source": "it-boltwise.de",
         "publishedAt": "2026-04-20T19:39:04+00:00",
-        "summary": "Strengere Eurocode-Normen für den Brandschutz von Dächern it boltwise",
+        "summary": "Strengere Eurocode-Normen für den Brandschutz von Dächern it-boltwise.de",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUI3eE1VbUpBZEgwb0dLRnd6STYzSWlkdWtFTE9lVzZxSkotd2lOaUVmYldvb3JlOGpLRDB4bzQ0dllMTkRwd3puTkxid1RFMndidE4yaHoxME1BMXBqdkFtYW1selFGRzZ6N25CTWR3ZVRXcGJxNmszX3loT0hVYUE3VkVXeUgyNnBwLUFEakx5cV9mYVE?oc=5",
         "tags": [
           "Normen"
@@ -434,16 +435,6 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Immobilien: Macht KI Bürogebäude überflüssig? - dw.com",
-        "source": "dw.com",
-        "publishedAt": "2026-04-08T07:00:00+00:00",
-        "summary": "Immobilien: Macht KI Bürogebäude überflüssig? dw.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTVVM0RnWXkwMXJoX1dGaV95TkdzTlNvMGhUTkh0MmNoTzlDTm5VWGxLbE1IM3I3Qm5RMVhva0FiU1pHX2l4SWdzdTJGdGoyMTd3VmQtUVlmTU5GUHctZHA4RG5OQ3VwZjMtRUVIUldHNFJZVDFLTnp2RzRQdHlkNnZRUmVYVTZqODc0dzItdUsxSllLdHBRRGxnZ3HSAZwBQVVfeXFMTW84NWNRNmowVnNQWXRWUlBBN2oxNFl2czNERkFwOGN0Wno1SkRrR1B1YnNKUElybTFibjBWV0xLYWJhVHgtTDNEU0dENDFkRmVPalRkWU5tVkhBdVZwT3RlT3dBZHdRVjJIMUM4YkJtN29WUXZPdGJqSkNHd3JvUzFwd2QtcktYNnV6MHM0WFF2VmJ2b05ZRmszc1Vn?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
@@ -487,11 +478,21 @@
         ]
       },
       {
-        "title": "Brandmeldeanlagen: KI und neue Regeln revolutionieren den Brandschutz - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-19T07:00:00+00:00",
-        "summary": "Brandmeldeanlagen: KI und neue Regeln revolutionieren den Brandschutz AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWNzb0hOZENrOXUxNE54YXZ0bGZkbEdZQXA4ZUZlN2hkVjBMemxOcnhFTEl5TFhxQTlkR2RGeDlpTjhtRFJnVHVGS1ZHRXlFdEFwS011S3g2TkR0dnBIaVBTVFVnR1JzeURUbTBfaHVManRLOXI0by04c2NNam80bFlISjUzNE9KQTlRZFpKYUJ5cUpVdnZCR1JjTWZua1NWWUVIYXM4YTc2YWNyVElRdTNzLWVzMWF0c2JQQVBjX0ZXdkh3Vnc?oc=5",
+        "title": "SWR Aktuell. . 🤨 Lost Places im Sonderangebot https://1.ard.de/ki-burgen !? 🏰 Blöd nur, dass die Gebäude nicht echt sind. KI-generierte Videos mit Fake-Immobilienanzeigen tauchen immer öfter in den Timelines auf. Doch egal ob Burgen in der Pfalz oder Vill - facebook.com",
+        "source": "facebook.com",
+        "publishedAt": "2026-03-16T07:00:00+00:00",
+        "summary": "SWR Aktuell. . 🤨 Lost Places im Sonderangebot https://1.ard.de/ki-burgen !? 🏰 Blöd nur, dass die Gebäude nicht echt sind. KI-generierte Videos mit Fake-Immobilienanzeigen tauchen immer öfter in den Timelines auf. Doch egal ob Burgen in der Pfalz oder Vill facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNemFHWXRxSTlZRUhJa1lIb3NQNTdnX0V6RFc1VDZ1VnNYelBWRDA1NU4xdTFyc21nWGVUZ0duN3JLdV80bjNqaGJJRTNMdzVBaUNNTnB2bTFQTFFWelMxS2JFb01ibkxsTUZfOE5kcVFLMlVNbW4ya0lDRU1OVTEtdXJRRnpqN2dzSGJZRmw1SDNxWVhkRkpDc2JlSjcyVE4zOWpEZUgxZ1VBQjZEaG1oeld3ZWltaWFORzZqbFppanZnd3VwTXNWSm02anVySDl4UVJTQURra3lKN3NiMnRUODFyWWp3dw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
+        "source": "Allgäuer Zeitung",
+        "publishedAt": "2026-03-07T08:00:00+00:00",
+        "summary": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte Allgäuer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
         "tags": [
           "KI"
         ]
