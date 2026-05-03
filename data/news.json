@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T05:42:30.896286+00:00",
+  "generatedAt": "2026-05-03T07:53:49.956388+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -141,16 +141,6 @@
         ]
       },
       {
-        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-30T07:20:26+00:00",
-        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
         "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-04-29T11:50:18+00:00",
@@ -166,17 +156,6 @@
         "publishedAt": "2026-04-29T10:00:00+00:00",
         "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-04-29T09:10:21+00:00",
-        "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
@@ -252,9 +231,39 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
+        "source": "WirtschaftsWoche",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
+        "tags": [
+          "WirtschaftsWoche"
+        ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-09T07:00:00+00:00",
+        "summary": "In der Uniklinik Bonn können Patienten Apollo News nicht lesen apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObC1rUW54aGFVeVgtNzVMUUhnYWI4ZXFKUTlKN3VSdmxTSUtKcDBQbFJZZWpua3UtYTc0OUpwYWRhYm8ycUw5UWQxSGtMN2U1UjdxT0pfODg3dmlWUTh6bDd5Z3FRTnZxY2xFclN2ekd5T1lMcXFWMXVVemY2VGk4ZDZtVEE0ckVKS1oyUUxyMU5oQQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -301,26 +310,6 @@
         "publishedAt": "2026-03-27T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie: Geschäftsmodell, Strategie und Investorenrelevanz für DACH-Märkte AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTNsNTJTUnRULTFILXZDR2hRaEctT04wd3FPX0RhUVc2ZjgxVUJhcDRqaEozNmVCSzNwbGxhYTc2OVN2X2JBTU1mTk9RSldUODF3d1NwZFVBekhWQXFQaVEzVUxDSU1leVQtUmZ5NkpJVTRFOWpnN2N5S0dGRE1ieU9zQnJ4eHdMS3ZsMDlxa3BDQnlyaHNXcVJ0ek0wMzJlQ3RvdjNvT3JvZEVWY1dBZ1N1WHVSUQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Sektorherausforderunge - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-25T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Sektorherausforderunge AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOE9BbU9IZlFVdjZQdEpKeC1oZS1zbjZqNkl2QXltN2JYMWpPb0pSbEdxdzAtQThvQVlocW5WSzFFNUFQb1pGWHFRZzdNdFpPRzhRXzNMcHdNSE1uaURpWkRzek9Ld2R3RHdSY0xKUUpPeHZLTGtUbW9Db25acGg4VUFxR2hoVHpCNFF5VGxKMjRCVEFkdWxLTkUtUFpQVG9DVHc2eEFfX1RDcklNelZnamZ1R0NNeDRlVHBhVlpvWklqVTBPT2x2Nw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Herausforderungen im A - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-25T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Herausforderungen im A AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnBWSnZ3MUZUbDVSaGRDdm5ldnViMEhWUndDYWlIdVcxUG8zVmxCRUFYRnM5Y19NUkV4di1hYjRTYW15TXlIV25zUGRwLWdXNzl1Wm5tTUpNMlFfVHFvOXVocDUwNXNTT0psR3gxR1dQSS1pdGMyOFFBQ2NtV1I3dEJocmg5eENFai1SYWZJaGJZZGJkTjdjVkNkdnhOUFJibUV1VEtNLVhpYmtmSVF4cll4QkNfQlphQ3NQVjU5dmI1UQ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -374,6 +363,16 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Der Astronaut - Project Hail Mary in Nordhessen - cineplex.de",
+        "source": "cineplex.de",
+        "publishedAt": "2026-02-12T09:46:49+00:00",
+        "summary": "Der Astronaut - Project Hail Mary in Nordhessen cineplex.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGo1WF9yaVZZV3FhN2ZIVnJmU2o0LVE0ZTl3dFdFVGtPTUwyVmwwaFUxZE5YemlURGc5dHZfZzBSSnpCdlViYTQyWU53OFd0VDhiM21KczRYS3IyVVdqV3J4QkpIN2ZNdHktcVU4bm1YQlNaRDVFUGhPVldHcXRCWkVMUFZvcXMxNk1ycnVjeVUxZ085?oc=5",
+        "tags": [
+          "cineplex.de"
+        ]
       }
     ],
     "trends": [
@@ -425,16 +424,6 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUI3eE1VbUpBZEgwb0dLRnd6STYzSWlkdWtFTE9lVzZxSkotd2lOaUVmYldvb3JlOGpLRDB4bzQ0dllMTkRwd3puTkxid1RFMndidE4yaHoxME1BMXBqdkFtYW1selFGRzZ6N25CTWR3ZVRXcGJxNmszX3loT0hVYUE3VkVXeUgyNnBwLUFEakx5cV9mYVE?oc=5",
         "tags": [
           "Normen"
-        ]
-      },
-      {
-        "title": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab - Rheinische Anzeigenblätter",
-        "source": "Rheinische Anzeigenblätter",
-        "publishedAt": "2026-04-16T06:49:57+00:00",
-        "summary": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab Rheinische Anzeigenblätter",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUJ3NjJqc1VWckhaLVQ3QjY5NUVoREpMM0pZdk14SkR4bkEyc3FWcnZMeDZTLUZqLVE2a1FJSHE3UVBiVUFtZkExXzh6SmhYRHhFWERyOS1FcTItWG5HZTNGMmFIaExWajZCMk9BVE1yVzIwUnlqOHJEQ3RMXzZnSUpTNXVlVG9DamhSMGRxRDlndFR4cTBZczlZOWdoSVk4N0FSQzJ3QlZ2RThpOWV5VTZiZHZGSEtIaUlodEZjQlhBMlhEM0dtWDJOOFVjNGRxUGRNUHl3WXdVR0FXY2l5SXF0cTNRQQ?oc=5",
-        "tags": [
-          "Rheinische Anzeigenblätter"
         ]
       },
       {
@@ -493,6 +482,16 @@
         "publishedAt": "2026-03-19T07:00:00+00:00",
         "summary": "Brandmeldeanlagen: KI und neue Regeln revolutionieren den Brandschutz AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWNzb0hOZENrOXUxNE54YXZ0bGZkbEdZQXA4ZUZlN2hkVjBMemxOcnhFTEl5TFhxQTlkR2RGeDlpTjhtRFJnVHVGS1ZHRXlFdEFwS011S3g2TkR0dnBIaVBTVFVnR1JzeURUbTBfaHVManRLOXI0by04c2NNam80bFlISjUzNE9KQTlRZFpKYUJ5cUpVdnZCR1JjTWZua1NWWUVIYXM4YTc2YWNyVElRdTNzLWVzMWF0c2JQQVBjX0ZXdkh3Vnc?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "SWR Aktuell. . 🤨 Lost Places im Sonderangebot https://1.ard.de/ki-burgen !? 🏰 Blöd nur, dass die Gebäude nicht echt sind. KI-generierte Videos mit Fake-Immobilienanzeigen tauchen immer öfter in den Timelines auf. Doch egal ob Burgen in der Pfalz oder Vill - facebook.com",
+        "source": "facebook.com",
+        "publishedAt": "2026-03-16T07:00:00+00:00",
+        "summary": "SWR Aktuell. . 🤨 Lost Places im Sonderangebot https://1.ard.de/ki-burgen !? 🏰 Blöd nur, dass die Gebäude nicht echt sind. KI-generierte Videos mit Fake-Immobilienanzeigen tauchen immer öfter in den Timelines auf. Doch egal ob Burgen in der Pfalz oder Vill facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNemFHWXRxSTlZRUhJa1lIb3NQNTdnX0V6RFc1VDZ1VnNYelBWRDA1NU4xdTFyc21nWGVUZ0duN3JLdV80bjNqaGJJRTNMdzVBaUNNTnB2bTFQTFFWelMxS2JFb01ibkxsTUZfOE5kcVFLMlVNbW4ya0lDRU1OVTEtdXJRRnpqN2dzSGJZRmw1SDNxWVhkRkpDc2JlSjcyVE4zOWpEZUgxZ1VBQjZEaG1oeld3ZWltaWFORzZqbFppanZnd3VwTXNWSm02anVySDl4UVJTQURra3lKN3NiMnRUODFyWWp3dw?oc=5",
         "tags": [
           "KI"
         ]
