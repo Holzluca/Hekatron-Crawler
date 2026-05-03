@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T15:41:22.081068+00:00",
+  "generatedAt": "2026-05-03T16:41:35.008818+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -31,6 +31,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -115,16 +125,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-01-24T08:00:00+00:00",
-        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
-        "tags": [
-          "Netzwelt"
-        ]
       }
     ],
     "pfs": [
@@ -202,16 +202,6 @@
         ]
       },
       {
-        "title": "Smart-Home: Das intelligente Schlafzimmer - Falstaff",
-        "source": "Falstaff",
-        "publishedAt": "2026-04-24T10:35:21+00:00",
-        "summary": "Smart-Home: Das intelligente Schlafzimmer Falstaff",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpfUlpOcU11UnFncW9OYzBaOFVKY0k3Y3QxM3U0WWlUZ3lFU0FzNlgtWWxqalJ3T3JvTm04REpucnpvemZ5Um16YWRhczhRNU16b0Y0SE1VSzlzX2s4ekU1Szh5TVR5Yk5RMkUwYUFNak43RWZUcndXbC1oeEFEWDVNbmV5cEZQY1B5aW13?oc=5",
-        "tags": [
-          "Falstaff"
-        ]
-      },
-      {
         "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
         "source": "Presseportal",
         "publishedAt": "2026-04-23T11:55:05+00:00",
@@ -251,6 +241,16 @@
         "tags": [
           "WirtschaftsWoche"
         ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
       }
     ],
     "doors": [
@@ -259,7 +259,7 @@
         "source": "AD HOC NEWS",
         "publishedAt": "2026-04-08T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWklNdnNyV3FoWUZQSm1SLWloNVdWZlQwWHlOMkRLdHBUYkpKekdkZTY5U0pYcE9EbFREOFpmRENXOU1nYXl4VG9RUmw1cjk1T01PNnRZMG1ndHFFMks1MDY2blNfcDZZdlJvUjBWMDEyTUJxSEVHVmFTMWdiZ2xyNmVjY0UyTnFpd1BnZFNyYlJxazlwVXhTSjFlV2RRVU51dmxzM0xzeHVhSWNPYWNPMEpqZmtRTWlaT3c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjNQeUVwY0VHLVByajRnbW0weWx4MWRyNUs5bzBHc21LTEV5alJkRGJEYXF4ZGZWM3k4X1pqT3NXLUMzejlNN3JlVTFPRlNTRmpiQUVsblpwdUsyNndkOFBKNWJ4azVOWnNiOVpWZ0lDbzNnNXhqOXhmLVJNVHF4aUNQbFc2TzJEdy1CZ1Y1cUVtVFliNElsbEpad3hIR3MybjNyb0lEZGh3cThTWGNMWGQzbw?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -290,16 +290,6 @@
         "publishedAt": "2026-03-28T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Herausforderungen im A - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-25T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie unter Druck: Starke Verluste an der NYSE durch Herausforderungen im A AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnBWSnZ3MUZUbDVSaGRDdm5ldnViMEhWUndDYWlIdVcxUG8zVmxCRUFYRnM5Y19NUkV4di1hYjRTYW15TXlIV25zUGRwLWdXNzl1Wm5tTUpNMlFfVHFvOXVocDUwNXNTT0psR3gxR1dQSS1pdGMyOFFBQ2NtV1I3dEJocmg5eENFai1SYWZJaGJZZGJkTjdjVkNkdnhOUFJibUV1VEtNLVhpYmtmSVF4cll4QkNfQlphQ3NQVjU5dmI1UQ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -373,6 +363,16 @@
         "tags": [
           "GEZE"
         ]
+      },
+      {
+        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
+        "source": "fenster-tueren-technik.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
@@ -427,10 +427,10 @@
         ]
       },
       {
-        "title": "Immobilien: Macht KI Bürogebäude überflüssig? - DW.com",
-        "source": "DW.com",
+        "title": "Immobilien: Macht KI Bürogebäude überflüssig? - dw.com",
+        "source": "dw.com",
         "publishedAt": "2026-04-08T07:00:00+00:00",
-        "summary": "Immobilien: Macht KI Bürogebäude überflüssig? DW.com",
+        "summary": "Immobilien: Macht KI Bürogebäude überflüssig? dw.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTVVM0RnWXkwMXJoX1dGaV95TkdzTlNvMGhUTkh0MmNoTzlDTm5VWGxLbE1IM3I3Qm5RMVhva0FiU1pHX2l4SWdzdTJGdGoyMTd3VmQtUVlmTU5GUHctZHA4RG5OQ3VwZjMtRUVIUldHNFJZVDFLTnp2RzRQdHlkNnZRUmVYVTZqODc0dzItdUsxSllLdHBRRGxnZ3HSAZwBQVVfeXFMTW84NWNRNmowVnNQWXRWUlBBN2oxNFl2czNERkFwOGN0Wno1SkRrR1B1YnNKUElybTFibjBWV0xLYWJhVHgtTDNEU0dENDFkRmVPalRkWU5tVkhBdVZwT3RlT3dBZHdRVjJIMUM4YkJtN29WUXZPdGJqSkNHd3JvUzFwd2QtcktYNnV6MHM0WFF2VmJ2b05ZRmszc1Vn?oc=5",
         "tags": [
           "KI"
