@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T23:38:44.849425+00:00",
+  "generatedAt": "2026-05-04T02:14:54.349133+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -194,7 +194,7 @@
       {
         "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
         "source": "Berliner Morgenpost",
-        "publishedAt": "2026-04-24T14:21:25+00:00",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
         "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
         "tags": [
@@ -223,6 +223,16 @@
         ]
       },
       {
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen eines fehlerhaften Tests - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen eines fehlerhaften Tests Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYXVHU0RjeEs4TkdlWk9aUk14LS1SdHF2VGtnRm5zN3d6WlBpaUF3ZHllbXpTdkdkNDAycExabFI2MkVVS0s5OUVJalVSbHM4MDFxSTdPR1pVVEdMcGlSWkVneFhQTkxvTGp2UUIyQVM2Z0txYURGZG04alVxY1VUSUFzTy1WZFBRYjJsZnYzOU1QZHlZUzdHUFd1aVNWMFZoNjc5QkJGU0twYkZQWk95c21HdzFpV3FvRmVTb21ETVN6NXFieVBFQTlRdUJicmJ1STNOV1NIUUJNTHA0MDdHczN6NA?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
         "source": "SZ.de",
         "publishedAt": "2026-04-23T07:00:00+00:00",
@@ -230,16 +240,6 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
-        "source": "WirtschaftsWoche",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
-        "tags": [
-          "WirtschaftsWoche"
         ]
       },
       {
@@ -285,16 +285,6 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-28T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie (ISIN US0376041051): Geschäftsmodell, Strategie und Investorenreleva AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ001UVRReHIzajRRMW1rMDNXZGRselJlbDBFSVVvZGROYmQteWN3akVSRUxVc21kOFRqeHZPQUt3U25icmtQQ0dvekhUSGtCYW5XZGRJWW1tZTVudlRGYU82UURaWHd2VWM0dlJjcGVNSHlEYXBscXFRUG4tOC1fVDExYV94Sy12V3dIeDlZbTV6dzJXZUw4UkFYZVh4RjBtYU83dFFZT3B0Skk2OXRkWm9Sd253LUN1Y09RWWR6WEtKZw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-03-06T08:00:00+00:00",
@@ -325,16 +315,6 @@
         ]
       },
       {
-        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-02-25T08:00:00+00:00",
-        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
-        ]
-      },
-      {
         "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
         "source": "CoinDesk",
         "publishedAt": "2026-02-15T08:00:00+00:00",
@@ -355,16 +335,6 @@
         ]
       },
       {
-        "title": "Der Astronaut - Project Hail Mary in Nordhessen - cineplex.de",
-        "source": "cineplex.de",
-        "publishedAt": "2026-02-12T09:46:49+00:00",
-        "summary": "Der Astronaut - Project Hail Mary in Nordhessen cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGo1WF9yaVZZV3FhN2ZIVnJmU2o0LVE0ZTl3dFdFVGtPTUwyVmwwaFUxZE5YemlURGc5dHZfZzBSSnpCdlViYTQyWU53OFd0VDhiM21KczRYS3IyVVdqV3J4QkpIN2ZNdHktcVU4bm1YQlNaRDVFUGhPVldHcXRCWkVMUFZvcXMxNk1ycnVjeVUxZ085?oc=5",
-        "tags": [
-          "cineplex.de"
-        ]
-      },
-      {
         "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
         "source": "bm-online.de",
         "publishedAt": "2026-02-11T08:00:00+00:00",
@@ -372,6 +342,36 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
+        "source": "fenster-tueren-technik.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-01-09T08:00:00+00:00",
+        "summary": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0pWckZOaXZ5Q29ManhrUl85SXprYno2aklXb25sNzM3NlJHWmNXam0tODNDbkkzVlF5U3JnY0VBWTVCYUJncElHM2UyRlhnTUhQWE5henQxQk1pTk5vdDgzSUhPTkNXbzdwQTQ0SlZualpIVURsQkQ4X1RlTHVoYnhhMTFCOUg2eDR0cEpIRTl0MkdhUEtWUm9MRTl3eDR5ckM4Ui1XbEJGNDlHTml6REVZd1NWb1Y5TmZ0ZlVwWU04NjQ?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
@@ -414,6 +414,16 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUhoM2hUYW9tb3hTLXZzU2ZzM21UZ0tDcjhRa2UyVkpHYnpiUW1WNXU1eEpjTHRrYjJQV090dnFTVUpDYjdKODREQy0xRG1mS0NvbnM0VG5vemhWZ2szNUI0a2F5UkpoRVlVdmNaR19jZVV1QmNxUENjdEJTRmFmaG4xRWhHc0k3MkNVUGI1ZnpQd1dIMzY3Q3VIeVNMdzhkVjM4eEpIVG9UWGhTR2RYMUJrWkdxOFZ2WUlB?oc=5",
         "tags": [
           "kreiszeitung-wochenblatt.de"
+        ]
+      },
+      {
+        "title": "Strengere Eurocode-Normen für den Brandschutz von Dächern - it-boltwise.de",
+        "source": "it-boltwise.de",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Strengere Eurocode-Normen für den Brandschutz von Dächern it-boltwise.de",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUI3eE1VbUpBZEgwb0dLRnd6STYzSWlkdWtFTE9lVzZxSkotd2lOaUVmYldvb3JlOGpLRDB4bzQ0dllMTkRwd3puTkxid1RFMndidE4yaHoxME1BMXBqdkFtYW1selFGRzZ6N25CTWR3ZVRXcGJxNmszX3loT0hVYUE3VkVXeUgyNnBwLUFEakx5cV9mYVE?oc=5",
+        "tags": [
+          "Normen"
         ]
       },
       {
@@ -482,16 +492,6 @@
         "publishedAt": "2026-03-16T07:00:00+00:00",
         "summary": "SWR Aktuell. . 🤨 Lost Places im Sonderangebot https://1.ard.de/ki-burgen !? 🏰 Blöd nur, dass die Gebäude nicht echt sind. KI-generierte Videos mit Fake-Immobilienanzeigen tauchen immer öfter in den Timelines auf. Doch egal ob Burgen in der Pfalz oder Vill facebook.com",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNemFHWXRxSTlZRUhJa1lIb3NQNTdnX0V6RFc1VDZ1VnNYelBWRDA1NU4xdTFyc21nWGVUZ0duN3JLdV80bjNqaGJJRTNMdzVBaUNNTnB2bTFQTFFWelMxS2JFb01ibkxsTUZfOE5kcVFLMlVNbW4ya0lDRU1OVTEtdXJRRnpqN2dzSGJZRmw1SDNxWVhkRkpDc2JlSjcyVE4zOWpEZUgxZ1VBQjZEaG1oeld3ZWltaWFORzZqbFppanZnd3VwTXNWSm02anVySDl4UVJTQURra3lKN3NiMnRUODFyWWp3dw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
-        "source": "Allgäuer Zeitung",
-        "publishedAt": "2026-03-07T08:00:00+00:00",
-        "summary": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte Allgäuer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
         "tags": [
           "KI"
         ]
