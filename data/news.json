@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T16:28:07.601057+00:00",
+  "generatedAt": "2026-05-04T18:01:27.071668+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -151,16 +151,6 @@
         ]
       },
       {
-        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-30T07:20:26+00:00",
-        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
         "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-04-29T11:50:18+00:00",
@@ -249,6 +239,16 @@
         "publishedAt": "2026-04-23T07:00:00+00:00",
         "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen eines fehlerhaften Tests Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYXVHU0RjeEs4TkdlWk9aUk14LS1SdHF2VGtnRm5zN3d6WlBpaUF3ZHllbXpTdkdkNDAycExabFI2MkVVS0s5OUVJalVSbHM4MDFxSTdPR1pVVEdMcGlSWkVneFhQTkxvTGp2UUIyQVM2Z0txYURGZG04alVxY1VUSUFzTy1WZFBRYjJsZnYzOU1QZHlZUzdHUFd1aVNWMFZoNjc5QkJGU0twYkZQWk95c21HdzFpV3FvRmVTb21ETVN6NXFieVBFQTlRdUJicmJ1STNOV1NIUUJNTHA0MDdHczN6NA?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
+        "source": "SZ.de",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
         "tags": [
           "Ei"
         ]
@@ -410,7 +410,7 @@
       {
         "title": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
-        "publishedAt": "2026-04-25T09:39:58+00:00",
+        "publishedAt": "2026-04-25T07:00:00+00:00",
         "summary": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße kreiszeitung-wochenblatt.de",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUhoM2hUYW9tb3hTLXZzU2ZzM21UZ0tDcjhRa2UyVkpHYnpiUW1WNXU1eEpjTHRrYjJQV090dnFTVUpDYjdKODREQy0xRG1mS0NvbnM0VG5vemhWZ2szNUI0a2F5UkpoRVlVdmNaR19jZVV1QmNxUENjdEJTRmFmaG4xRWhHc0k3MkNVUGI1ZnpQd1dIMzY3Q3VIeVNMdzhkVjM4eEpIVG9UWGhTR2RYMUJrWkdxOFZ2WUlB?oc=5",
         "tags": [
@@ -478,6 +478,16 @@
         ]
       },
       {
+        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
+        "source": "DN-News",
+        "publishedAt": "2026-03-16T07:00:00+00:00",
+        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
         "source": "Allgäuer Zeitung",
         "publishedAt": "2026-03-07T08:00:00+00:00",
@@ -485,16 +495,6 @@
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Lösungen für Gebäudeautomation - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Lösungen für Gebäudeautomation elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTmlUR0ZaVFdsSzZfUmxmbVJ2aHplQUluZHFNQlVZckEwTmlBRWRHMWNWTURDOGNkZk16SFg5NWp2RTB0TDh0d3NfS0NfVGQ4akpNVko3UEJyOGFkYlpZTE1aSmJMNm14M0JBZ0E3VFpOTkk?oc=5",
-        "tags": [
-          "Gebäudeautomation"
         ]
       }
     ]
