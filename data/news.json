@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T20:00:43.692637+00:00",
+  "generatedAt": "2026-05-04T21:35:55.717227+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -256,13 +256,13 @@
     ],
     "doors": [
       {
-        "title": "Paris Murder Mystery in Nordhessen - cineplex.de",
-        "source": "cineplex.de",
-        "publishedAt": "2026-04-13T16:35:11+00:00",
-        "summary": "Paris Murder Mystery in Nordhessen cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0lHZzRqeHRaSUwteHVNX21maUpQcjh2Q2JaMjJTUXJJaWpBZkpSbnNrUjc4eGdnMUVwYXk2QlFuYjA1TGNOWVBZOXVianNMVWhsSkVsV0NmdnY4UWxIUHNQYU1KRUFKME1OMG1ldXZYZGVmWlRwdHlBRTZqOXB5dWk4UHRfQQ?oc=5",
+        "title": "Apollo Global Management Aktie: Was Du jetzt wissen solltest - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-08T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Was Du jetzt wissen solltest AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWklNdnNyV3FoWUZQSm1SLWloNVdWZlQwWHlOMkRLdHBUYkpKekdkZTY5U0pYcE9EbFREOFpmRENXOU1nYXl4VG9RUmw1cjk1T01PNnRZMG1ndHFFMks1MDY2blNfcDZZdlJvUjBWMDEyTUJxSEVHVmFTMWdiZ2xyNmVjY0UyTnFpd1BnZFNyYlJxazlwVXhTSjFlV2RRVU51dmxzM0xzeHVhSWNPYWNPMEpqZmtRTWlaT3c?oc=5",
         "tags": [
-          "cineplex.de"
+          "Apollo"
         ]
       },
       {
@@ -410,7 +410,7 @@
       {
         "title": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
-        "publishedAt": "2026-04-25T07:00:00+00:00",
+        "publishedAt": "2026-04-25T09:39:58+00:00",
         "summary": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße kreiszeitung-wochenblatt.de",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUhoM2hUYW9tb3hTLXZzU2ZzM21UZ0tDcjhRa2UyVkpHYnpiUW1WNXU1eEpjTHRrYjJQV090dnFTVUpDYjdKODREQy0xRG1mS0NvbnM0VG5vemhWZ2szNUI0a2F5UkpoRVlVdmNaR19jZVV1QmNxUENjdEJTRmFmaG4xRWhHc0k3MkNVUGI1ZnpQd1dIMzY3Q3VIeVNMdzhkVjM4eEpIVG9UWGhTR2RYMUJrWkdxOFZ2WUlB?oc=5",
         "tags": [
@@ -478,6 +478,16 @@
         ]
       },
       {
+        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
+        "source": "DN-News",
+        "publishedAt": "2026-03-16T07:00:00+00:00",
+        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
         "source": "Allgäuer Zeitung",
         "publishedAt": "2026-03-07T08:00:00+00:00",
@@ -485,16 +495,6 @@
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Lösungen für Gebäudeautomation - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Lösungen für Gebäudeautomation elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTmlUR0ZaVFdsSzZfUmxmbVJ2aHplQUluZHFNQlVZckEwTmlBRWRHMWNWTURDOGNkZk16SFg5NWp2RTB0TDh0d3NfS0NfVGQ4akpNVko3UEJyOGFkYlpZTE1aSmJMNm14M0JBZ0E3VFpOTkk?oc=5",
-        "tags": [
-          "Gebäudeautomation"
         ]
       }
     ]
