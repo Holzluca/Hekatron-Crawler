@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T02:12:40.754471+00:00",
+  "generatedAt": "2026-05-05T05:26:35.769572+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -139,6 +139,28 @@
         ]
       },
       {
+        "title": "Bosch veröffentlicht neuen Smart Home Bewegungsmelder und verbessert Komfort & Sicherheit - TopTechNews",
+        "source": "TopTechNews",
+        "publishedAt": "2026-04-30T07:56:14+00:00",
+        "summary": "Bosch veröffentlicht neuen Smart Home Bewegungsmelder und verbessert Komfort & Sicherheit TopTechNews",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEtwWVo5ZHdLRHRqRGt4d25uZHpTb1FkS1JITGI3X05QMVRuNHhNQnFtcjJUSklFT1BnbXBpZWRWUm0tY2htdC1vNWJaTHV4aERiWUluRXU1cjhScTdRMm5mN1RJak1uWjVkbWJFbHlVV1daUVdHRlBfcmpzcEM5dE84RkNQaF9MaEc5ajFsdjROeHM5R3hnaTRldFprYkFRZktZODZ1bGVsdUVkWkU2Z0E2c1B5dWRwb3VEZzR1SXRiZFFEdUE?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T11:50:18+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-04-29T10:00:00+00:00",
@@ -230,40 +252,9 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
-        "title": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Alexa, fahr die Jalousien runter – mit diesem Bosch-Set klappt es! Mit Rabatt-Gutschein Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN0dMeXZhSzEzcHAtenpfY2RiMDZObmFMUWhwYkVQaWd3X0daQnNaSDlxRzVaOV9IdFhWMXliYVA2NW1DdzNsa0RDLVdNUzdNdER3REZSRERmUXRzSXlIVmJxZWIxX3V1V291VmFFWTI3d2JfZWhTZDRFOWo0ZzEteWNzVGxiYTF3WDFFNmdmTVotbVo3cDdhSmY1cnZmY1QtTzBwSWRoT0thY0U1dHVSRmh1clVVcVl4LVQzX0FHRGFzdkppNmc?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
       }
     ],
     "doors": [
-      {
-        "title": "Paris Murder Mystery in Nordhessen - cineplex.de",
-        "source": "cineplex.de",
-        "publishedAt": "2026-04-13T16:35:11+00:00",
-        "summary": "Paris Murder Mystery in Nordhessen cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0lHZzRqeHRaSUwteHVNX21maUpQcjh2Q2JaMjJTUXJJaWpBZkpSbnNrUjc4eGdnMUVwYXk2QlFuYjA1TGNOWVBZOXVianNMVWhsSkVsV0NmdnY4UWxIUHNQYU1KRUFKME1OMG1ldXZYZGVmWlRwdHlBRTZqOXB5dWk4UHRfQQ?oc=5",
-        "tags": [
-          "cineplex.de"
-        ]
-      },
       {
         "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
         "source": "simplywall.st",
@@ -373,6 +364,16 @@
         "tags": [
           "Handelsblatt"
         ]
+      },
+      {
+        "title": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-01-09T08:00:00+00:00",
+        "summary": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0pWckZOaXZ5Q29ManhrUl85SXprYno2aklXb25sNzM3NlJHWmNXam0tODNDbkkzVlF5U3JnY0VBWTVCYUJncElHM2UyRlhnTUhQWE5henQxQk1pTk5vdDgzSUhPTkNXbzdwQTQ0SlZualpIVURsQkQ4X1RlTHVoYnhhMTFCOUg2eDR0cEpIRTl0MkdhUEtWUm9MRTl3eDR5ckM4Ui1XbEJGNDlHTml6REVZd1NWb1Y5TmZ0ZlVwWU04NjQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
@@ -414,16 +415,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUhoM2hUYW9tb3hTLXZzU2ZzM21UZ0tDcjhRa2UyVkpHYnpiUW1WNXU1eEpjTHRrYjJQV090dnFTVUpDYjdKODREQy0xRG1mS0NvbnM0VG5vemhWZ2szNUI0a2F5UkpoRVlVdmNaR19jZVV1QmNxUENjdEJTRmFmaG4xRWhHc0k3MkNVUGI1ZnpQd1dIMzY3Q3VIeVNMdzhkVjM4eEpIVG9UWGhTR2RYMUJrWkdxOFZ2WUlB?oc=5",
         "tags": [
           "kreiszeitung-wochenblatt.de"
-        ]
-      },
-      {
-        "title": "Industriebrände zeigen dringenden Handlungsbedarf im Brandschutz - it-boltwise.de",
-        "source": "it-boltwise.de",
-        "publishedAt": "2026-04-16T07:00:00+00:00",
-        "summary": "Industriebrände zeigen dringenden Handlungsbedarf im Brandschutz it-boltwise.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTy1aUFhha09ON25KWnV4RERWWnVKMlRaRUVDR3lOby15c21hdHpKaU1yc3lIQXIwRlBGYkhWY2p4UElUUHRvdmhPZ2I0TlZEZWsxOEdTX0U3c1d0RFRqWE5zaFlCTWZ0eDBXeU9nMmRhR1VVZG1vVXVCUGhXWm05R0xtZHVTRGdjZDlTWlZJNU9mdkhrZDQ2WmItOGFKdw?oc=5",
-        "tags": [
-          "it-boltwise.de"
         ]
       },
       {
@@ -487,13 +478,23 @@
         ]
       },
       {
-        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
-        "source": "DN-News",
-        "publishedAt": "2026-03-16T07:00:00+00:00",
-        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
+        "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
+        "source": "Allgäuer Zeitung",
+        "publishedAt": "2026-03-07T08:00:00+00:00",
+        "summary": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte Allgäuer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Lösungen für Gebäudeautomation - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Lösungen für Gebäudeautomation elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTmlUR0ZaVFdsSzZfUmxmbVJ2aHplQUluZHFNQlVZckEwTmlBRWRHMWNWTURDOGNkZk16SFg5NWp2RTB0TDh0d3NfS0NfVGQ4akpNVko3UEJyOGFkYlpZTE1aSmJMNm14M0JBZ0E3VFpOTkk?oc=5",
+        "tags": [
+          "Gebäudeautomation"
         ]
       }
     ]
