@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T05:26:35.769572+00:00",
+  "generatedAt": "2026-05-05T07:30:26.426401+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -256,6 +256,16 @@
     ],
     "doors": [
       {
+        "title": "Paris Murder Mystery in Nordhessen - cineplex.de",
+        "source": "cineplex.de",
+        "publishedAt": "2026-04-13T16:35:11+00:00",
+        "summary": "Paris Murder Mystery in Nordhessen cineplex.de",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0lHZzRqeHRaSUwteHVNX21maUpQcjh2Q2JaMjJTUXJJaWpBZkpSbnNrUjc4eGdnMUVwYXk2QlFuYjA1TGNOWVBZOXVianNMVWhsSkVsV0NmdnY4UWxIUHNQYU1KRUFKME1OMG1ldXZYZGVmWlRwdHlBRTZqOXB5dWk4UHRfQQ?oc=5",
+        "tags": [
+          "cineplex.de"
+        ]
+      },
+      {
         "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
         "source": "simplywall.st",
         "publishedAt": "2026-04-02T07:00:00+00:00",
@@ -303,16 +313,6 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmdXUjRUWDRpNFdpV3ZXTmZqYTI4ZlZLM2Z5VTZtWHFPOGU0cThoem1Fd1lBUG9hVXZ3UlJmbmwwZE04eGFBYUNGOGVhLVJIRFdqdXhxYURac0ZPNVl2S2YzNE5DajN4OFowUGVISi10bE92WUJ3ZmtNdE5uWDNjS0c3Vk9MZS1xcTFDcEZ4UWpuSURzdkhj0gGcAUFVX3lxTE5NRUJaZGlXVU9RTU1WZUtuaTdKSGY3ZHdrRW93eTZyUU0wOWRBTTMtY1Q1eUZJdEJQSjFFaEsxV3dRLS1oTkc1Q3huX0U2Q1VGSUhpV2RNdm54eE9BXzg3QzNLQ1I4OEtxQ1pyYUJaRHpWVFlJLUtxcnAwTmFCcWdZbFVRODRLYWFMcVRzemJPUDFFSlJLLWVsbURBVg?oc=5",
         "tags": [
           "GEZE"
-        ]
-      },
-      {
-        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-02-25T08:00:00+00:00",
-        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
         ]
       },
       {
@@ -366,13 +366,13 @@
         ]
       },
       {
-        "title": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-01-09T08:00:00+00:00",
-        "summary": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0pWckZOaXZ5Q29ManhrUl85SXprYno2aklXb25sNzM3NlJHWmNXam0tODNDbkkzVlF5U3JnY0VBWTVCYUJncElHM2UyRlhnTUhQWE5henQxQk1pTk5vdDgzSUhPTkNXbzdwQTQ0SlZualpIVURsQkQ4X1RlTHVoYnhhMTFCOUg2eDR0cEpIRTl0MkdhUEtWUm9MRTl3eDR5ckM4Ui1XbEJGNDlHTml6REVZd1NWb1Y5TmZ0ZlVwWU04NjQ?oc=5",
+        "title": "Ørsted-Aktie: Deal unter Dach und Fach! - Finanztrends",
+        "source": "Finanztrends",
+        "publishedAt": "2025-12-30T08:00:00+00:00",
+        "summary": "Ørsted-Aktie: Deal unter Dach und Fach! Finanztrends",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hclgxOHBUZWlUR0hUWElBS3lSQ0NxUmtxaE5kODcyVHpEQ3UtcW5TZHFKQmp0RzJZZTRUdWVxU0tJTTFTWDdxY2ZMaVJiSFhXc3FreWN6dnMxUjQ1VmQ3S01vdmxMenRaUTlfc0NsYkxaY3Uyenc?oc=5",
         "tags": [
-          "Apollo"
+          "Finanztrends"
         ]
       }
     ],
