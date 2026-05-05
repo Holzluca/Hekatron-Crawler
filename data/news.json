@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T21:33:31.503576+00:00",
+  "generatedAt": "2026-05-05T22:51:17.478547+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -266,16 +266,6 @@
         ]
       },
       {
-        "title": "Paris Murder Mystery in Nordhessen - cineplex.de",
-        "source": "cineplex.de",
-        "publishedAt": "2026-04-13T16:35:11+00:00",
-        "summary": "Paris Murder Mystery in Nordhessen cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0lHZzRqeHRaSUwteHVNX21maUpQcjh2Q2JaMjJTUXJJaWpBZkpSbnNrUjc4eGdnMUVwYXk2QlFuYjA1TGNOWVBZOXVianNMVWhsSkVsV0NmdnY4UWxIUHNQYU1KRUFKME1OMG1ldXZYZGVmWlRwdHlBRTZqOXB5dWk4UHRfQQ?oc=5",
-        "tags": [
-          "cineplex.de"
-        ]
-      },
-      {
         "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
         "source": "simplywall.st",
         "publishedAt": "2026-04-02T07:00:00+00:00",
@@ -326,16 +316,6 @@
         ]
       },
       {
-        "title": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token - Cryptonews.net",
-        "source": "Cryptonews.net",
-        "publishedAt": "2026-02-16T08:00:00+00:00",
-        "summary": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token Cryptonews.net",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lVTBIcFJkamNyN3dETWxNbnJFYk9aNENra3BxRHhlaDdRSkdRZDZxSHdDNHJPN01jbnAyMjdXeklneVJiaUVZTkwwUXQxNklLMEZUbGhYS1Q?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
         "source": "CoinDesk",
         "publishedAt": "2026-02-15T08:00:00+00:00",
@@ -373,6 +353,26 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Ørsted-Aktie: Deal unter Dach und Fach! - Finanztrends",
+        "source": "Finanztrends",
+        "publishedAt": "2025-12-30T08:00:00+00:00",
+        "summary": "Ørsted-Aktie: Deal unter Dach und Fach! Finanztrends",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hclgxOHBUZWlUR0hUWElBS3lSQ0NxUmtxaE5kODcyVHpEQ3UtcW5TZHFKQmp0RzJZZTRUdWVxU0tJTTFTWDdxY2ZMaVJiSFhXc3FreWN6dnMxUjQ1VmQ3S01vdmxMenRaUTlfc0NsYkxaY3Uyenc?oc=5",
+        "tags": [
+          "Finanztrends"
         ]
       }
     ],
