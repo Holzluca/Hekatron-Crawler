@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T12:44:41.516467+00:00",
+  "generatedAt": "2026-05-05T17:02:04.626902+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -266,16 +266,6 @@
         ]
       },
       {
-        "title": "Paris Murder Mystery in Nordhessen - cineplex.de",
-        "source": "cineplex.de",
-        "publishedAt": "2026-04-13T16:35:11+00:00",
-        "summary": "Paris Murder Mystery in Nordhessen cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0lHZzRqeHRaSUwteHVNX21maUpQcjh2Q2JaMjJTUXJJaWpBZkpSbnNrUjc4eGdnMUVwYXk2QlFuYjA1TGNOWVBZOXVianNMVWhsSkVsV0NmdnY4UWxIUHNQYU1KRUFKME1OMG1ldXZYZGVmWlRwdHlBRTZqOXB5dWk4UHRfQQ?oc=5",
-        "tags": [
-          "cineplex.de"
-        ]
-      },
-      {
         "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
         "source": "simplywall.st",
         "publishedAt": "2026-04-02T07:00:00+00:00",
@@ -323,6 +313,16 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmdXUjRUWDRpNFdpV3ZXTmZqYTI4ZlZLM2Z5VTZtWHFPOGU0cThoem1Fd1lBUG9hVXZ3UlJmbmwwZE04eGFBYUNGOGVhLVJIRFdqdXhxYURac0ZPNVl2S2YzNE5DajN4OFowUGVISi10bE92WUJ3ZmtNdE5uWDNjS0c3Vk9MZS1xcTFDcEZ4UWpuSURzdkhj0gGcAUFVX3lxTE5NRUJaZGlXVU9RTU1WZUtuaTdKSGY3ZHdrRW93eTZyUU0wOWRBTTMtY1Q1eUZJdEJQSjFFaEsxV3dRLS1oTkc1Q3huX0U2Q1VGSUhpV2RNdm54eE9BXzg3QzNLQ1I4OEtxQ1pyYUJaRHpWVFlJLUtxcnAwTmFCcWdZbFVRODRLYWFMcVRzemJPUDFFSlJLLWVsbURBVg?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -378,6 +378,16 @@
     ],
     "trends": [
       {
+        "title": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-05T07:58:27+00:00",
+        "summary": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3cyR2RFbFF1cEFSLVZzTDBjcFpidUFSLUsyZURUcHdURmdCdldJMVpKcFJDYzJZOEZraF9mZ3JsR0NrdkdPdFJkeVlheTQ5dzJCYXlpNFpLSE5hVmw3ZDY0QnZzU0FFWGhySW0xZ2t2c2dHUTh3d01kY3JQeGZHUUNxWm1wWDVLOXY4bmI0TlF1eEhOeEd5Z3lvbi1EdkZhOFlRSW51RE5rNk9SUVc5akJRTnlYU2R3Wnh3?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
         "title": "Aareon bietet Cloud-Lösung für KI - Der Facility Manager",
         "source": "Der Facility Manager",
         "publishedAt": "2026-04-30T12:15:26+00:00",
@@ -410,11 +420,21 @@
       {
         "title": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
-        "publishedAt": "2026-04-25T09:39:58+00:00",
+        "publishedAt": "2026-04-25T07:00:00+00:00",
         "summary": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße kreiszeitung-wochenblatt.de",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUhoM2hUYW9tb3hTLXZzU2ZzM21UZ0tDcjhRa2UyVkpHYnpiUW1WNXU1eEpjTHRrYjJQV090dnFTVUpDYjdKODREQy0xRG1mS0NvbnM0VG5vemhWZ2szNUI0a2F5UkpoRVlVdmNaR19jZVV1QmNxUENjdEJTRmFmaG4xRWhHc0k3MkNVUGI1ZnpQd1dIMzY3Q3VIeVNMdzhkVjM4eEpIVG9UWGhTR2RYMUJrWkdxOFZ2WUlB?oc=5",
         "tags": [
           "kreiszeitung-wochenblatt.de"
+        ]
+      },
+      {
+        "title": "Industriebrände zeigen dringenden Handlungsbedarf im Brandschutz - it-boltwise.de",
+        "source": "it-boltwise.de",
+        "publishedAt": "2026-04-16T07:00:00+00:00",
+        "summary": "Industriebrände zeigen dringenden Handlungsbedarf im Brandschutz it-boltwise.de",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTy1aUFhha09ON25KWnV4RERWWnVKMlRaRUVDR3lOby15c21hdHpKaU1yc3lIQXIwRlBGYkhWY2p4UElUUHRvdmhPZ2I0TlZEZWsxOEdTX0U3c1d0RFRqWE5zaFlCTWZ0eDBXeU9nMmRhR1VVZG1vVXVCUGhXWm05R0xtZHVTRGdjZDlTWlZJNU9mdkhrZDQ2WmItOGFKdw?oc=5",
+        "tags": [
+          "it-boltwise.de"
         ]
       },
       {
@@ -473,26 +493,6 @@
         "publishedAt": "2026-03-21T07:00:00+00:00",
         "summary": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjhhTkNMaXpvQkpBdml6R0lKbHVPUEdKU20xZ0ExQTBSVkQtQWpnRlREcGpHNUdpNklHZmpNRHdFQ1l2Y2dRQ1J3dDZyb2pwMmtMbko2NldPUkdFSGNiQ1JoTXFySmpzZTQ3RzhZTUNueEw5Y0dSSGVObkRwUVI4Zk5ERjBGVEdpdWE0SGxSU2gwbjFTQmVPVHVJUWkwM3hfVGgydmpQTElrYmx6X082UXYyeUI1MjUzbUZkcVNR?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ - DN-News",
-        "source": "DN-News",
-        "publishedAt": "2026-03-16T07:00:00+00:00",
-        "summary": "Vortrag der VHS Rur-Eifel: „KI-Rechner JUPITER – grenzenlose Rechenpower“ DN-News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnJmNUhRLXBHYnE3a1JoZXJWTnBUaGs3LXM1YlA1azNId2Z3WVg5UVlKcXdIbURuQ01DVWRIdndTMGV0UDBwcTg5VDBDVFBRWWYxVXpOcjM0T3ozZUowVXdmSktwX1FzZzFBYU5PVkVldjJDU2QtMWRybTdvVUd4TkVRaVpfMnp0LXB2WE1WV24za1pfS0pTT1d0Q0VTbG5oUTBGOWZIS1pBVGNEOUlHbEl30gGyAUFVX3lxTE1EcXp0RlFMN1VQWWg0amlONGI2Yk9vMHhUMHpiZlp1WVZsV1c5MnlDRnJUTnJGTUJtQWN6UGx6eldWdTN5S08xOV9UbXkwUkVETW1Ob25LTkFHQ3NCRFBhZ21ZZjByV19nV2FjeDVEMUR3b3FhSVd1dmlVMFpEcVFWOF9vZ0wwYURFOGljZHV6SXNCRmFLQjJldHFqMFo3Qy0tVUx5UFktQ2lsS3g2Rlo0bUE?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte - Allgäuer Zeitung",
-        "source": "Allgäuer Zeitung",
-        "publishedAt": "2026-03-07T08:00:00+00:00",
-        "summary": "KI zeigt mit spektakulären Bildern, wie das Kempten der Zukunft aussehen könnte Allgäuer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbk10STZLUUoyY09OczhkM2FyakwxTnJDQ01RT2RaUzNDYW9QelJGR1VTRTVySDdUd2ZpSDFHRG1wUWhMemIxUnBvZHctaDlTM1hyVGdUQm9SeFFFcGpjOG9ORHgxZlF4TXdRY0NRRFBJR0ZPTzJJZUFqZGhlbnB6eFlRcE13X18zNXFoWEdvLUJYdHRlYTV3TEwxNVQ1NERfZlpPNGZFbll3RU5vQUxORkdDWGJNV3luZ2pBN25ibE5tX0wxQnhCQVJIQTlPVWZIN3RYbm1kZmFNM1E0ajdhV0t5YzA5ckthenBGc1pxUEJkYTNEQU1ZZjV3Qms1UldUMnc?oc=5",
         "tags": [
           "KI"
         ]
