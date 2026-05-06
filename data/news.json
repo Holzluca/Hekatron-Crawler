@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T15:09:15.238262+00:00",
+  "generatedAt": "2026-05-06T16:59:04.599030+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -161,28 +161,6 @@
         ]
       },
       {
-        "title": "Bosch veröffentlicht neuen Smart Home Bewegungsmelder und verbessert Komfort & Sicherheit - TopTechNews",
-        "source": "TopTechNews",
-        "publishedAt": "2026-04-30T07:56:14+00:00",
-        "summary": "Bosch veröffentlicht neuen Smart Home Bewegungsmelder und verbessert Komfort & Sicherheit TopTechNews",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEtwWVo5ZHdLRHRqRGt4d25uZHpTb1FkS1JITGI3X05QMVRuNHhNQnFtcjJUSklFT1BnbXBpZWRWUm0tY2htdC1vNWJaTHV4aERiWUluRXU1cjhScTdRMm5mN1RJak1uWjVkbWJFbHlVV1daUVdHRlBfcmpzcEM5dE84RkNQaF9MaEc5ajFsdjROeHM5R3hnaTRldFprYkFRZktZODZ1bGVsdUVkWkU2Z0E2c1B5dWRwb3VEZzR1SXRiZFFEdUE?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T11:50:18+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-04-29T10:00:00+00:00",
@@ -254,6 +232,26 @@
         "tags": [
           "WirtschaftsWoche"
         ]
+      },
+      {
+        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
+        "source": "SZ.de",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
       }
     ],
     "doors": [
@@ -308,6 +306,16 @@
         ]
       },
       {
+        "title": "Apollo Global Management: Was die Aktie jetzt für DACH-Anleger spannend macht - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-02-28T08:00:00+00:00",
+        "summary": "Apollo Global Management: Was die Aktie jetzt für DACH-Anleger spannend macht AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY3VqcXZoUFRFejhsTTlidV9IcmZwQVd1QkYxNjlhS2Zhc2JURURlcWNaSkNSWE5PSTl2RW9Bb3lDUzYtNWJlYkJTMTJORVFTeWE3M3dhckE4RUZBYUNiZHN3SDg0bFFyMmZucU1ERlRTLWJZZDBacllqaGZRVVF3Y1phNG9weWtrZnNhMWlTUUtoQnFuNXVfN1preWtHLThGalNDd1JYdGQ4MC0xc2xnY3JSYlRZTXY2SEpLRk8ydVVHY1pCR1c0WFBB?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
         "source": "handwerk.com",
         "publishedAt": "2026-02-27T08:00:00+00:00",
@@ -325,6 +333,16 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzQ1ckJLN2IyR05OWVdKYXRPLW5uME9ZZnJzaFRPN3VtU0R3d1RPWkQteFRtUkxuSjdIQ3ZIaXJaVnFkVEhyUTN3SHpBeUVUWERZZl8zblpVWDdQNng1dFpfUkZoaEN3Q3U4eVF4b3JPU1djVWtGREpQcEFxdjlfNFhrQ2hCYUR2cHdhOS1KYTg3UGFJNjlVQW1VOVlfWE9KMlE?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -355,26 +373,6 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
-        "source": "fenster-tueren-technik.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
-        "tags": [
-          "GEZE"
         ]
       }
     ],
@@ -450,16 +448,6 @@
         ]
       },
       {
-        "title": "Wie KI-basierte Sortiertechnik Anlagenbrände verhindert - K-Zeitung",
-        "source": "K-Zeitung",
-        "publishedAt": "2026-04-09T09:16:33+00:00",
-        "summary": "Wie KI-basierte Sortiertechnik Anlagenbrände verhindert K-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZnb0xsZXItdHdOMU15d0Vtb0wzUXNOV0hMTWhyUmJNM0xWa0pPOU5uenRabFNZQm1lMkhuSjhnTG9ERVBhS2FoODAxalltMkFFbnR0dEkxcVZkUTZCZW1SSzFKMlY0SE9RT3MwcGRyMkc5NVFsQmRhUTM4aWpIMXBhUjl4MDIyOFE?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-06T07:00:00+00:00",
@@ -495,6 +483,16 @@
         "publishedAt": "2026-03-24T07:00:00+00:00",
         "summary": "Brandschutz 2026: KI, neue Vorschriften und nachhaltiges Bauen prägen die Branche AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVYc1cwWWRZWnJ3SDVTTlRROUhiNjFsZnJYblIwdEh4NEFGc1JZRldqNnVCcUFEdTkwak1lYm9yelVOelNrWTdvWE03Wmp3REM3UDNQdnhaUkd5NVJ5T1I5a25oMVN2MDdYWUJ4VnlWX19VWEpDUnR2RXdZY3FsN2d2bm1rUC1KYUNad1I4ZDBsQlY5MzVhRHVUNWtaV2NucWx2aWNQbFVFakRrN0cxUDhwQndZRFVVTU4yS251VTJ4NlJK?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-21T07:00:00+00:00",
+        "summary": "Hitachi, UTS und NTT DATA starten KI-Labor für grüne Gebäude AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjhhTkNMaXpvQkpBdml6R0lKbHVPUEdKU20xZ0ExQTBSVkQtQWpnRlREcGpHNUdpNklHZmpNRHdFQ1l2Y2dRQ1J3dDZyb2pwMmtMbko2NldPUkdFSGNiQ1JoTXFySmpzZTQ3RzhZTUNueEw5Y0dSSGVObkRwUVI4Zk5ERjBGVEdpdWE0SGxSU2gwbjFTQmVPVHVJUWkwM3hfVGgydmpQTElrYmx6X082UXYyeUI1MjUzbUZkcVNR?oc=5",
         "tags": [
           "KI"
         ]
