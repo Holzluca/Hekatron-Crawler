@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T05:42:05.709555+00:00",
+  "generatedAt": "2026-05-06T08:14:39.554492+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -86,16 +86,6 @@
         ]
       },
       {
-        "title": "Den Brandschutz gibt’s im Service-Abo - Immobilien Zeitung",
-        "source": "Immobilien Zeitung",
-        "publishedAt": "2026-03-26T07:00:00+00:00",
-        "summary": "Den Brandschutz gibt’s im Service-Abo Immobilien Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQUlnc2JoUzlvUXhLVW1BR2xHQUduZHplZlIxQVg2SW4yODc0d0hXYUo4WXpTLVREVmZ1NjRJNGQ1MXByX21YVUxXdFdUc0JyTU9NMXgzSmhEY1FBTnNvOHJhTElGdmctbFlpRTdBYzF1RnhWR2RYUGRmSnY5LXczckhUcjIwQVlnNjZz?oc=5",
-        "tags": [
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -125,9 +115,30 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen - stuttgarter-nachrichten.de",
+        "source": "stuttgarter-nachrichten.de",
+        "publishedAt": "2026-05-05T16:04:21+00:00",
+        "summary": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen stuttgarter-nachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPN2ZsWER5N1B1VmdmYnNVbUZHYUNJR1BOMG9VeUNkdmtCenBQVFNHbmVlMnljb1QtWWdfcUJIbG1tdzVLX2dneDhZekVHYzhvUDFUTnVmaFN1TFZCdTlxSDZVQWN0bG9oTUhmMnR5bmhjR2JGNGZQekY1YmhGZHZRTE1SMU41RFlYaVE1Z2gyOFBvMzloVURJaTRqM0JYVDNDd2RDanZCWlA1MUV3RkFIUmg4anZVMDNzR3FGa0loM1EzTTdTUmFhUm93LVlxUHpNZ0U0YVM4cjdwdFlWc2J4d1BLdmVEOFhfVUJ1SE9kTTB1a1NnMUlTWUZZNnZUalgtcW9pMFByV01UUmhSc1RSS2l3cW5sN2VncFE?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
       {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
         "source": "MSN",
@@ -136,6 +147,17 @@
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjlNR05rNlVpVWN2MEZBdVltdWxNQUR0eEc3ZU1GWHBEVmlnT3pROUtlb2NUTzZaZGtDUUlLdm04VklONU5DdjF2d2FacDNublJGMVdDUTlXSzZUSzNqcmNCdl9lRmRweGgydXNsdTAteHdweU1HenJlRlZfdF9kbnJCU1Zrc2xWWnFwZWk0ZmRoZ2IwVkV5dGZSNk82dGtaYVdXbDRrcHFNTUlMeHdrMTNyR0dJSWJqdHVnTUU5aHBvSEtSUUtFSk82UWdDVlJuTWxxdEc3Yw?oc=5",
         "tags": [
           "MSN"
+        ]
+      },
+      {
+        "title": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt - stuttgarter-nachrichten.de",
+        "source": "stuttgarter-nachrichten.de",
+        "publishedAt": "2026-04-30T13:22:22+00:00",
+        "summary": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt stuttgarter-nachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRWMwQkUtWi02UWpVRFRmVTlicVd4TE1WWkM1cFUyVGIteTRmR2p3MGd0MW1vc3Ayb1FOZVU0SlRGeFZDRm9Jbm56d3FUUFNTYVRISEVXbGh6Mmp2N2VHTUJ1NVllWFNuZlRaWVMtSzlQYm82aHBVbW9NLUtmdTdOLUMtWE9vSlVGMXBIZk9VUUU0NlVPd3JCSEVjLXRwWWVUYlRpc3M4WExSNWtxYkZOM1J0ZV9BRTVCbmMyWXZYelZCbGdvRE5WYmVXUmtOVVR0N2ZwVmVHRGpCaGlMR1pMeE5zazMtd2R1MVVGWTR6TUJ6WENrRzRGN1VrdnRYSDZaZkoxU0V4T29qOVJES0N2cVI1M3JWczgwbVFVT2gtTlo?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
         ]
       },
       {
@@ -183,6 +205,16 @@
         ]
       },
       {
+        "title": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-04-27T12:59:38+00:00",
+        "summary": "Verbraucher: Stiftung Warentest muss für fehlerhaften Produkttest haften MSN",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQaW9qWEdBRFZmdFl0ZzVwV0FVQjVKUzY2ZTZMU29BNk0wMGJ6bHFTbHpaREgwQnhiaDI2Z0Rzd1JkS2JaY1ZuV2xfVHRkQWlqT3RtUVNyaWFPYVVxZjAzQ2E0b1JnTm9JZHJkdVdWYjNLUW9DRHZLNWtxQWdjczd2aUIxQmczZmdxMEJSSFFMaG1Renlxa2tob0JCRURja252SzNWTHNuWFdoNmVKNm5NZExkM0hKOW1xNDYtbTlPNG9pQnVtWGFvNFdTVmZWbzdnbmtxQnpMeFlkN2FkMUhEWm5ZZ29jZDB2WndGeEE0bUEydTNLQkY4Ymw0dkxDcUdaTXB3ODhzSnBVUnp0RVRGQU1Ud3BiZUFLX2J0U0hSS1pva3VUM3VTREtBSzY3NktDa2hXYUw4anBvRXJCemt3NERBLWxIU3g3cE1SZlQzWXY1UUwtMndJdVZ2ZTY0ekhpcDI1aHlJTlVXdTdNd0s4ZERiYnQ3NXMwenRlY2plSjlYQVdq?oc=5",
+        "tags": [
+          "MSN"
+        ]
+      },
+      {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-04-27T07:00:00+00:00",
@@ -219,36 +251,6 @@
         "publishedAt": "2026-04-23T07:00:00+00:00",
         "summary": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? Spiegel",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblB3TmVYWW43LUM1Tnluakw2MUZPdnU1c0gtQ1hQYURpT25OS1Itb0lHazlXclFTWE0xamJVaXBJTlVsQW9ZQ3Rva0M0U3hvcElsakR1ZzdiMERLejFER0x3ejVXbTV4ZUR2WnJzTE5mZzl4SDlSSXRRNFk5Z1BmbVdGeFAzbUhfWkI2QzN5clBpSG1yVFpQSjFGTjlPWU1MbDlUTGV4Q1E5cndYTGlOaUNnZENQME9STkx6el9vX2c?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
-        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
-        "source": "SZ.de",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
-        "source": "WirtschaftsWoche",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
-        "tags": [
-          "WirtschaftsWoche"
-        ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
         "tags": [
           "Spiegel"
         ]
@@ -316,13 +318,13 @@
         ]
       },
       {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzQ1ckJLN2IyR05OWVdKYXRPLW5uME9ZZnJzaFRPN3VtU0R3d1RPWkQteFRtUkxuSjdIQ3ZIaXJaVnFkVEhyUTN3SHpBeUVUWERZZl8zblpVWDdQNng1dFpfUkZoaEN3Q3U4eVF4b3JPU1djVWtGREpQcEFxdjlfNFhrQ2hCYUR2cHdhOS1KYTg3UGFJNjlVQW1VOVlfWE9KMlE?oc=5",
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
         "tags": [
-          "GEZE"
+          "Augsburger Allgemeine"
         ]
       },
       {
