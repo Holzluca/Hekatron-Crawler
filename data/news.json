@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T12:25:08.954270+00:00",
+  "generatedAt": "2026-05-06T15:09:15.238262+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,16 +129,6 @@
     ],
     "pfs": [
       {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
-        "source": "MSN",
-        "publishedAt": "2026-05-06T07:13:59+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX3BpTTZtVGtUVzBDQ0RMd0xwZExyT2dGeENJbjNJUXBmY2V6NVZjcWJVVkE5bTVlX3ZwNUtXc2psZEhlNTkxaVg2V3gyeThqQ19tVmJQbWdHNHZPTmhISDlXUkNOajFqU1I2Mmthd1VaREFHeHJ0Y29pUklJRGtEN3k2Z2RDV2VZRXd1LTNRSGVqWGV4dVhwZWV6WmVPYWVZWUZ4b2I4ek9FQjc1SWRXZkNkMkJFUWpkME85OG83bGZWMlpKendtZlU0OWtvNzdYdTF0M1k3TQ?oc=5",
-        "tags": [
-          "MSN"
-        ]
-      },
-      {
         "title": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen - stuttgarter-nachrichten.de",
         "source": "stuttgarter-nachrichten.de",
         "publishedAt": "2026-05-05T16:04:21+00:00",
@@ -147,6 +137,16 @@
         "tags": [
           "Ei",
           "Bosch"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-05-03T18:33:27+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjlNR05rNlVpVWN2MEZBdVltdWxNQUR0eEc3ZU1GWHBEVmlnT3pROUtlb2NUTzZaZGtDUUlLdm04VklONU5DdjF2d2FacDNublJGMVdDUTlXSzZUSzNqcmNCdl9lRmRweGgydXNsdTAteHdweU1HenJlRlZfdF9kbnJCU1Zrc2xWWnFwZWk0ZmRoZ2IwVkV5dGZSNk82dGtaYVdXbDRrcHFNTUlMeHdrMTNyR0dJSWJqdHVnTUU5aHBvSEtSUUtFSk82UWdDVlJuTWxxdEc3Yw?oc=5",
+        "tags": [
+          "MSN"
         ]
       },
       {
@@ -173,13 +173,13 @@
         ]
       },
       {
-        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-30T07:20:26+00:00",
-        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
+        "publishedAt": "2026-04-29T11:50:18+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
         "tags": [
-          "SmarthomeAssistent"
+          "Bosch"
         ]
       },
       {
@@ -246,13 +246,13 @@
         ]
       },
       {
-        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
-        "source": "SZ.de",
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
+        "source": "WirtschaftsWoche",
         "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
         "tags": [
-          "Ei"
+          "WirtschaftsWoche"
         ]
       }
     ],
