@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T20:08:32.819205+00:00",
+  "generatedAt": "2026-05-06T21:38:22.936449+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -133,7 +133,7 @@
         "source": "MSN",
         "publishedAt": "2026-05-06T07:48:34+00:00",
         "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQT2ZmbFdFWHhhWTJfZ2dISEprRnlrVWh6TUgxeTdKTENOS293c1ZUbXVpdXBXaldlLXJLOXRpVHFBNUluT21VYWpPVkNMbE9XcUg5VXJXRk1jQTZDbEk1Z2dnajRRMTY2ZElWUGZSLUxtOUUycnIycHZDRldpcVI3TktfbUZJX0l2dFIxR001dUhreUJ1NUtncXNTcXlGRUhMZjZ0aUc1LTV3ODRYRWs2al8wVm5XVFN1Zmw3Tk5tVURLYjlPc3EtSVZSSlZkSkhGcXZhUEpqTG9wRVpabHZENndwUDdkX2Y4cTBWam1kbmQ4Nm9SVndNMEhRZFN4d01ZMDFTR3R1am5OcDdzX2kxLXF4dXNLUWk1Q2tkbjlXOWhTZ3A0d1B0czhVOFFSMEM3SWp4alRQTW5FTVZPektqS053VzNLcWYyM2NtTVAwcDYyUzBpN1NVbUJldEVpRGNNc0s4cGo4bmg0NUJH?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNa2JBbDhackFoMi1YMkVEeWtwcV9SX3ZsT3ZPblFSRElyV2JUR1BBeUFwb2ZkNWRtSUF1Y3FUbnZaZHVOUGtMQzNiZzhFQVVPcmdyUm5VcW14RHVUUzllZzRFZnBtTkJ1blhUelJ4SVVFTjBWdkZ6SHJHY1AzSk41ZWVRQTBfRDFaNDN2MUhRSFhUWHdsMnpzUHVyME1VOTNXaVlsX2xaRTVQbzloSi1MX19XN2p5dXF1WFZ5YjRqQy1OWnZrNkE0RmNjSVpEeHA5M2JXVF9JLU1udHpFYlBhTnVpRzItUVA1NllBNUx4WEtKWmVIb3NhazU1Mjl1YWgwY1l6NFhtZC00WFNLcE95a25tQ0p0ek1kSXlRU0oyMS1OUVVHOXJQU2JHenYzNnBpRGVKdm5HOXkzRDlsUzVwa19rZVJyNG00YWVWdW8yN2NhR1NqYTN3Q2dWODRkcnZiVEllWGM4UV93bDA5eFE?oc=5",
         "tags": [
           "MSN"
         ]
@@ -170,16 +170,6 @@
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T11:50:18+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -253,6 +243,16 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
         "tags": [
           "WirtschaftsWoche"
+        ]
+      },
+      {
+        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
+        "source": "SZ.de",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -328,6 +328,16 @@
         ]
       },
       {
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
         "title": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token - Cryptonews.net",
         "source": "Cryptonews.net",
         "publishedAt": "2026-02-16T08:00:00+00:00",
@@ -363,16 +373,6 @@
         "publishedAt": "2026-02-11T08:00:00+00:00",
         "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
-        "source": "fenster-tueren-technik.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
         "tags": [
           "GEZE"
         ]
