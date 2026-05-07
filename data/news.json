@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T05:45:00.174588+00:00",
+  "generatedAt": "2026-05-07T08:25:34.098282+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -65,16 +65,6 @@
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-03-31T07:00:00+00:00",
@@ -124,6 +114,16 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
         ]
       }
     ],
@@ -246,13 +246,13 @@
         ]
       },
       {
-        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
-        "source": "SZ.de",
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
+        "source": "WirtschaftsWoche",
         "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
         "tags": [
-          "Ei"
+          "WirtschaftsWoche"
         ]
       }
     ],
@@ -380,13 +380,13 @@
     ],
     "trends": [
       {
-        "title": "Wie Delta smarte Fertigung und Gebäude durch KI autonom machen will - Elektronikpraxis",
-        "source": "Elektronikpraxis",
-        "publishedAt": "2026-05-06T12:31:28+00:00",
-        "summary": "Wie Delta smarte Fertigung und Gebäude durch KI autonom machen will Elektronikpraxis",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU21iQXI1UnptemV4TjJrUHlId29hMzlSRWZqLVZzUURVOXJWd2NEak1uN1pKUXVjNzVQaWJlcWZYZXJrYUJ6X2NQaDNJZ3BQYjVoMms1MFZfRGpzSmFuX3dEYUZBUWFWaXBqZ2J2UEVuV09KMVp3cFJlNTZQRGc4ZXJtaGhsTkRxNFVGWGxQTWh0N2Z3Uy1GQkRDTENRS3k2LU8tYU00Ui1FdGo0dDV4SWR3bEpaTUVobEJPekdkRmwwUDFsSERvNUZaSDFGaDlUQ3c?oc=5",
+        "title": "Vernetzte Sicherheitssysteme erfordern mehr Kontrolle - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-05-07T06:30:00+00:00",
+        "summary": "Vernetzte Sicherheitssysteme erfordern mehr Kontrolle elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0lVTjdyOFZGQTRzLW9jRVFPZ3RXb1lVS1JiMUNuZVNQdmtvRk0za0xyTDlmcVRON2ZDaXJzdlljcW4xVWNHRDV4Q3hFWnktdGMybkl2TGtzWE9OZHU0eVlNRjdYTFJWaEowV0RMTzQtS0dnX3FRNGpxNm9SSTlUMHpJZ0o1MDZNbnhCcmV3?oc=5",
         "tags": [
-          "KI"
+          "elektro.net"
         ]
       },
       {
