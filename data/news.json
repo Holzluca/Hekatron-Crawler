@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T23:43:55.846740+00:00",
+  "generatedAt": "2026-05-07T02:24:50.230914+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -131,7 +131,7 @@
       {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
         "source": "MSN",
-        "publishedAt": "2026-05-06T07:48:35+00:00",
+        "publishedAt": "2026-05-06T07:48:34+00:00",
         "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
         "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNa2JBbDhackFoMi1YMkVEeWtwcV9SX3ZsT3ZPblFSRElyV2JUR1BBeUFwb2ZkNWRtSUF1Y3FUbnZaZHVOUGtMQzNiZzhFQVVPcmdyUm5VcW14RHVUUzllZzRFZnBtTkJ1blhUelJ4SVVFTjBWdkZ6SHJHY1AzSk41ZWVRQTBfRDFaNDN2MUhRSFhUWHdsMnpzUHVyME1VOTNXaVlsX2xaRTVQbzloSi1MX19XN2p5dXF1WFZ5YjRqQy1OWnZrNkE0RmNjSVpEeHA5M2JXVF9JLU1udHpFYlBhTnVpRzItUVA1NllBNUx4WEtKWmVIb3NhazU1Mjl1YWgwY1l6NFhtZC00WFNLcE95a25tQ0p0ek1kSXlRU0oyMS1OUVVHOXJQU2JHenYzNnBpRGVKdm5HOXkzRDlsUzVwa19rZVJyNG00YWVWdW8yN2NhR1NqYTN3Q2dWODRkcnZiVEllWGM4UV93bDA5eFE?oc=5",
         "tags": [
@@ -246,13 +246,13 @@
         ]
       },
       {
-        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
-        "source": "WirtschaftsWoche",
+        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
+        "source": "SZ.de",
         "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
+        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
         "tags": [
-          "WirtschaftsWoche"
+          "Ei"
         ]
       }
     ],
@@ -318,16 +318,6 @@
         ]
       },
       {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzQ1ckJLN2IyR05OWVdKYXRPLW5uME9ZZnJzaFRPN3VtU0R3d1RPWkQteFRtUkxuSjdIQ3ZIaXJaVnFkVEhyUTN3SHpBeUVUWERZZl8zblpVWDdQNng1dFpfUkZoaEN3Q3U4eVF4b3JPU1djVWtGREpQcEFxdjlfNFhrQ2hCYUR2cHdhOS1KYTg3UGFJNjlVQW1VOVlfWE9KMlE?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
         "title": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token - Cryptonews.net",
         "source": "Cryptonews.net",
         "publishedAt": "2026-02-16T08:00:00+00:00",
@@ -375,6 +365,16 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
         ]
       }
     ],
