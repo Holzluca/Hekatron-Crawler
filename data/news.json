@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T19:13:12.893414+00:00",
+  "generatedAt": "2026-05-07T20:46:26.986040+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -139,16 +139,6 @@
         ]
       },
       {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
-        "source": "MSN",
-        "publishedAt": "2026-05-06T07:48:35+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNa2JBbDhackFoMi1YMkVEeWtwcV9SX3ZsT3ZPblFSRElyV2JUR1BBeUFwb2ZkNWRtSUF1Y3FUbnZaZHVOUGtMQzNiZzhFQVVPcmdyUm5VcW14RHVUUzllZzRFZnBtTkJ1blhUelJ4SVVFTjBWdkZ6SHJHY1AzSk41ZWVRQTBfRDFaNDN2MUhRSFhUWHdsMnpzUHVyME1VOTNXaVlsX2xaRTVQbzloSi1MX19XN2p5dXF1WFZ5YjRqQy1OWnZrNkE0RmNjSVpEeHA5M2JXVF9JLU1udHpFYlBhTnVpRzItUVA1NllBNUx4WEtKWmVIb3NhazU1Mjl1YWgwY1l6NFhtZC00WFNLcE95a25tQ0p0ek1kSXlRU0oyMS1OUVVHOXJQU2JHenYzNnBpRGVKdm5HOXkzRDlsUzVwa19rZVJyNG00YWVWdW8yN2NhR1NqYTN3Q2dWODRkcnZiVEllWGM4UV93bDA5eFE?oc=5",
-        "tags": [
-          "MSN"
-        ]
-      },
-      {
         "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
         "source": "Teltarif.de",
         "publishedAt": "2026-05-05T15:46:00+00:00",
@@ -244,13 +234,23 @@
         ]
       },
       {
-        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
-        "source": "WirtschaftsWoche",
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
         "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
         "tags": [
-          "WirtschaftsWoche"
+          "Ei"
+        ]
+      },
+      {
+        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
+        "source": "SZ.de",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -316,6 +316,16 @@
         ]
       },
       {
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
         "title": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token - Cryptonews.net",
         "source": "Cryptonews.net",
         "publishedAt": "2026-02-16T08:00:00+00:00",
@@ -364,16 +374,6 @@
         "tags": [
           "GEZE"
         ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
@@ -385,6 +385,16 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0lVTjdyOFZGQTRzLW9jRVFPZ3RXb1lVS1JiMUNuZVNQdmtvRk0za0xyTDlmcVRON2ZDaXJzdlljcW4xVWNHRDV4Q3hFWnktdGMybkl2TGtzWE9OZHU0eVlNRjdYTFJWaEowV0RMTzQtS0dnX3FRNGpxNm9SSTlUMHpJZ0o1MDZNbnhCcmV3?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "Wie Delta smarte Fertigung und Gebäude durch KI autonom machen will - Elektronikpraxis",
+        "source": "Elektronikpraxis",
+        "publishedAt": "2026-05-06T12:31:28+00:00",
+        "summary": "Wie Delta smarte Fertigung und Gebäude durch KI autonom machen will Elektronikpraxis",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU21iQXI1UnptemV4TjJrUHlId29hMzlSRWZqLVZzUURVOXJWd2NEak1uN1pKUXVjNzVQaWJlcWZYZXJrYUJ6X2NQaDNJZ3BQYjVoMms1MFZfRGpzSmFuX3dEYUZBUWFWaXBqZ2J2UEVuV09KMVp3cFJlNTZQRGc4ZXJtaGhsTkRxNFVGWGxQTWh0N2Z3Uy1GQkRDTENRS3k2LU8tYU00Ui1FdGo0dDV4SWR3bEpaTUVobEJPekdkRmwwUDFsSERvNUZaSDFGaDlUQ3c?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -450,21 +460,11 @@
       {
         "title": "Smarte Gebäudetechnik im Klinikum Stuttgart - elektro.net",
         "source": "elektro.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "publishedAt": "2026-04-10T05:00:00+00:00",
         "summary": "Smarte Gebäudetechnik im Klinikum Stuttgart elektro.net",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Licht-KI für effiziente Gebäude - buildingTIMES",
-        "source": "buildingTIMES",
-        "publishedAt": "2026-04-09T09:29:51+00:00",
-        "summary": "Licht-KI für effiziente Gebäude buildingTIMES",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUnp4ZHdrX0Q1Z0lMeHJLRFg1VG82Uy1ndzVCbTZiWWJMU1dxTUpSNnVlUlh2ZkU4NV9JOWxGYWM1SWlBMWlMdDIySVRXcXkzU2tiV0pENHVHSUdBQlBOU2VJZDZkZnNUSFN3VjhCV2tiOHZwN1ZxVkZTZw?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
