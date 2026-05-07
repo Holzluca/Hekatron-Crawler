@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T15:12:04.155762+00:00",
+  "generatedAt": "2026-05-07T17:14:45.448426+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -107,16 +107,6 @@
         ]
       },
       {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
         "source": "Presseportal",
         "publishedAt": "2026-01-26T08:00:00+00:00",
@@ -125,9 +115,29 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
+        "source": "Teltarif.de",
+        "publishedAt": "2026-05-05T15:46:00+00:00",
+        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif.de",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
       {
         "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
         "source": "MSN",
@@ -214,16 +224,6 @@
         ]
       },
       {
-        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
-        "source": "SZ.de",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
         "source": "WirtschaftsWoche",
         "publishedAt": "2026-04-23T07:00:00+00:00",
@@ -307,6 +307,16 @@
         ]
       },
       {
+        "title": "Apollo Global Management: Was die Aktie jetzt für DACH-Anleger spannend macht - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-02-28T08:00:00+00:00",
+        "summary": "Apollo Global Management: Was die Aktie jetzt für DACH-Anleger spannend macht AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY3VqcXZoUFRFejhsTTlidV9IcmZwQVd1QkYxNjlhS2Zhc2JURURlcWNaSkNSWE5PSTl2RW9Bb3lDUzYtNWJlYkJTMTJORVFTeWE3M3dhckE4RUZBYUNiZHN3SDg0bFFyMmZucU1ERlRTLWJZZDBacllqaGZRVVF3Y1phNG9weWtrZnNhMWlTUUtoQnFuNXVfN1preWtHLThGalNDd1JYdGQ4MC0xc2xnY3JSYlRZTXY2SEpLRk8ydVVHY1pCR1c0WFBB?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
         "source": "handwerk.com",
         "publishedAt": "2026-02-27T08:00:00+00:00",
@@ -314,6 +324,16 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmdXUjRUWDRpNFdpV3ZXTmZqYTI4ZlZLM2Z5VTZtWHFPOGU0cThoem1Fd1lBUG9hVXZ3UlJmbmwwZE04eGFBYUNGOGVhLVJIRFdqdXhxYURac0ZPNVl2S2YzNE5DajN4OFowUGVISi10bE92WUJ3ZmtNdE5uWDNjS0c3Vk9MZS1xcTFDcEZ4UWpuSURzdkhj0gGcAUFVX3lxTE5NRUJaZGlXVU9RTU1WZUtuaTdKSGY3ZHdrRW93eTZyUU0wOWRBTTMtY1Q1eUZJdEJQSjFFaEsxV3dRLS1oTkc1Q3huX0U2Q1VGSUhpV2RNdm54eE9BXzg3QzNLQ1I4OEtxQ1pyYUJaRHpWVFlJLUtxcnAwTmFCcWdZbFVRODRLYWFMcVRzemJPUDFFSlJLLWVsbURBVg?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -354,26 +374,6 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
-        ]
-      },
-      {
-        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
-        "source": "fenster-tueren-technik.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
         ]
       }
     ],
@@ -451,7 +451,7 @@
       {
         "title": "Smarte Gebäudetechnik im Klinikum Stuttgart - elektro.net",
         "source": "elektro.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "publishedAt": "2026-04-10T05:00:00+00:00",
         "summary": "Smarte Gebäudetechnik im Klinikum Stuttgart elektro.net",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
         "tags": [
