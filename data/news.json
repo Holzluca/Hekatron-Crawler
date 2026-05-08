@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T23:51:00.256687+00:00",
+  "generatedAt": "2026-05-08T02:32:43.739445+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,6 +11,16 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
+        ]
+      },
+      {
+        "title": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJtWjN6NHZOMVpwVVZZUXcxZUoxRzdpbVFyMEpGbXBmdGhGRWI1aHo1Y3pWR2RqRE9OU1gzRXp3OHNlSHBrcmRsdXFzTF9wUzFEc2kxRzJOM3lqYzVGVkhzZDhjMUxmSFVKa0IyV2dBUnB0VWhlSHZjOUhtYjRuaFN1ejNVbEdCZklrZUJqSkJmQnRHaTAxQ0Y1R1RnU1UyaUc3NXlTeWdFdUhvYWlrWGZGUTIwT0k?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -52,6 +62,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -105,26 +125,6 @@
         "tags": [
           "Netzwelt"
         ]
-      },
-      {
-        "title": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern - Ntv",
-        "source": "Ntv",
-        "publishedAt": "2026-01-20T08:00:00+00:00",
-        "summary": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern Ntv",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVozWm4wbWtTUDZWVVpENWtkOUREaEVBT2tJMEhZTkFlX3NzLUZSRk5BZl9PcG9sdjlONV9HOHM1UkVWWDkzdU5IQ3hMZDZfRUdsNnl3ZWJxTlJOUVN4U29XTHJKTWRldHJOX2hRWXVVNWt1U21OeE4yMWQ5bGhKMk5OYm9WbmlFOThDTmctZmhKbkNYQURfVjNvWUlwVHIzMmRBcVdKT0xrbnZNSEFabVE0Zw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert - stuttgarter-nachrichten.de",
-        "source": "stuttgarter-nachrichten.de",
-        "publishedAt": "2026-01-13T08:00:00+00:00",
-        "summary": "Wegen fehlerhaftem Brandmelder: Zweimal mehrere hundert Mitarbeiter von Bosch evakuiert stuttgarter-nachrichten.de",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUGZ2RUJ4WVFaaU0ySkFycjNmNF8tQXpnR1pVVHVzVjZ0Y3hRZjVvNjAwSU9ORGNFcFVSUDA1WXZrUjd4LXVNWW9tNWJJUThZTTJJd2drdmJTbTJOTGZFdlVJY1k3QkQ0ZnB0eGpXSjNnWkFJcmQyS2lWWFFLdld0YjdULXR1bHZRS0U0TTZONmdEcElqZGlmSGhqSnpIZnNDVGRScGFlUGxkc3lPSVo1T2RyR08wM2RWaUY4Q3RldHlTT0JwR3hLaHJkOEVjdnhaVVc1SEY1NTRQQTEzZGRiNFd4UEhYTUZialhwTjlsSHJYRFlDOE5fS3QwNHNjWk1xZzFydw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "pfs": [
@@ -146,16 +146,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
-        "source": "MSN",
-        "publishedAt": "2026-05-03T18:33:27+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYjlNR05rNlVpVWN2MEZBdVltdWxNQUR0eEc3ZU1GWHBEVmlnT3pROUtlb2NUTzZaZGtDUUlLdm04VklONU5DdjF2d2FacDNublJGMVdDUTlXSzZUSzNqcmNCdl9lRmRweGgydXNsdTAteHdweU1HenJlRlZfdF9kbnJCU1Zrc2xWWnFwZWk0ZmRoZ2IwVkV5dGZSNk82dGtaYVdXbDRrcHFNTUlMeHdrMTNyR0dJSWJqdHVnTUU5aHBvSEtSUUtFSk82UWdDVlJuTWxxdEc3Yw?oc=5",
-        "tags": [
-          "MSN"
         ]
       },
       {
@@ -194,7 +184,7 @@
       {
         "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
         "source": "mobiFlip",
-        "publishedAt": "2026-04-29T09:10:21+00:00",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
         "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
         "tags": [
@@ -244,13 +234,23 @@
         ]
       },
       {
-        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
-        "source": "WirtschaftsWoche",
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
         "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
         "tags": [
-          "WirtschaftsWoche"
+          "Ei"
+        ]
+      },
+      {
+        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
+        "source": "SZ.de",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -448,16 +448,6 @@
         ]
       },
       {
-        "title": "Industriebrände zeigen dringenden Handlungsbedarf im Brandschutz - it-boltwise.de",
-        "source": "it-boltwise.de",
-        "publishedAt": "2026-04-16T07:00:00+00:00",
-        "summary": "Industriebrände zeigen dringenden Handlungsbedarf im Brandschutz it-boltwise.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTy1aUFhha09ON25KWnV4RERWWnVKMlRaRUVDR3lOby15c21hdHpKaU1yc3lIQXIwRlBGYkhWY2p4UElUUHRvdmhPZ2I0TlZEZWsxOEdTX0U3c1d0RFRqWE5zaFlCTWZ0eDBXeU9nMmRhR1VVZG1vVXVCUGhXWm05R0xtZHVTRGdjZDlTWlZJNU9mdkhrZDQ2WmItOGFKdw?oc=5",
-        "tags": [
-          "it-boltwise.de"
-        ]
-      },
-      {
         "title": "Smarte Gebäudetechnik im Klinikum Stuttgart - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-04-10T07:00:00+00:00",
@@ -495,6 +485,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "AI"
+        ]
+      },
+      {
+        "title": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2FVMmh6ZEVuMnZUbFBmc1BERjdZVkllRU1SWktXMGRTc0xvTU9iTmZvaDJCMnRlbVRpUXFXaF84WkJrNXA4WVo3djkxbldTMVlZdkJFVkFtdlhoWTRxdnluT2trWjRNcUVWajZvOThYQS15eW1JeVJmLVU2cDFmZkNtUXE4TFZ0R01lNFhWdGdYMTRuOEVuVy1YUnJnNkc3UU9rM196MndfTERGWjY4aDVJRHpzWkQ0d2NDakg1TkpjNnNrNmhBakdtOEM?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
