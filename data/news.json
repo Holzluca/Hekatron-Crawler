@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T05:25:58.903115+00:00",
+  "generatedAt": "2026-05-08T07:04:41.193357+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,6 +11,16 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
+        ]
+      },
+      {
+        "title": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJtWjN6NHZOMVpwVVZZUXcxZUoxRzdpbVFyMEpGbXBmdGhGRWI1aHo1Y3pWR2RqRE9OU1gzRXp3OHNlSHBrcmRsdXFzTF9wUzFEc2kxRzJOM3lqYzVGVkhzZDhjMUxmSFVKa0IyV2dBUnB0VWhlSHZjOUhtYjRuaFN1ejNVbEdCZklrZUJqSkJmQnRHaTAxQ0Y1R1RnU1UyaUc3NXlTeWdFdUhvYWlrWGZGUTIwT0k?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -115,16 +125,6 @@
         "tags": [
           "Netzwelt"
         ]
-      },
-      {
-        "title": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern - Ntv",
-        "source": "Ntv",
-        "publishedAt": "2026-01-20T08:00:00+00:00",
-        "summary": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern Ntv",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVozWm4wbWtTUDZWVVpENWtkOUREaEVBT2tJMEhZTkFlX3NzLUZSRk5BZl9PcG9sdjlONV9HOHM1UkVWWDkzdU5IQ3hMZDZfRUdsNnl3ZWJxTlJOUVN4U29XTHJKTWRldHJOX2hRWXVVNWt1U21OeE4yMWQ5bGhKMk5OYm9WbmlFOThDTmctZmhKbkNYQURfVjNvWUlwVHIzMmRBcVdKT0xrbnZNSEFabVE0Zw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "pfs": [
@@ -158,6 +158,16 @@
           "Ei",
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-30T07:20:26+00:00",
+        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
+        "tags": [
+          "SmarthomeAssistent"
         ]
       },
       {
@@ -239,16 +249,6 @@
         "publishedAt": "2026-04-23T07:00:00+00:00",
         "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
-        "source": "SZ.de",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
         "tags": [
           "Ei"
         ]
