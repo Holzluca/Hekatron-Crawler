@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T10:20:25.539750+00:00",
+  "generatedAt": "2026-05-08T11:51:25.395991+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,16 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
-        ]
-      },
-      {
-        "title": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "Frühzeitig gewarnt: Bosch Rauchmelder-Set im Deal Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWFJtWjN6NHZOMVpwVVZZUXcxZUoxRzdpbVFyMEpGbXBmdGhGRWI1aHo1Y3pWR2RqRE9OU1gzRXp3OHNlSHBrcmRsdXFzTF9wUzFEc2kxRzJOM3lqYzVGVkhzZDhjMUxmSFVKa0IyV2dBUnB0VWhlSHZjOUhtYjRuaFN1ejNVbEdCZklrZUJqSkJmQnRHaTAxQ0Y1R1RnU1UyaUc3NXlTeWdFdUhvYWlrWGZGUTIwT0k?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -91,6 +81,16 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -426,16 +426,6 @@
         ]
       },
       {
-        "title": "Neues Multifunktionsgebäude stärkt Innovationskraft in Unterschleißheim - it-boltwise.de",
-        "source": "it-boltwise.de",
-        "publishedAt": "2026-04-27T07:00:00+00:00",
-        "summary": "Neues Multifunktionsgebäude stärkt Innovationskraft in Unterschleißheim it-boltwise.de",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGhWemNCWTJ0N0o0UHhvOGNIc0ZJbGdSR1FZV3R3MDV5OTVoMWl6ZkE0OEp1Sm1uV3I5N0J6enFDWVpzNWQ5dzJWMGJmZzdBQnNldmtQMVJFSnFNcXR0elNwYzhScHAtdm5BT3RYd0FFTU4xQldONHNYbm1qMUJyUXBybVRfblFia0tyemM3cHJvOUxTWUQ2MXcxSWdadW9WZzhZRmlWUjlVdw?oc=5",
-        "tags": [
-          "it-boltwise.de"
-        ]
-      },
-      {
         "title": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
         "publishedAt": "2026-04-25T07:00:00+00:00",
@@ -493,6 +483,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "AI"
+        ]
+      },
+      {
+        "title": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2FVMmh6ZEVuMnZUbFBmc1BERjdZVkllRU1SWktXMGRTc0xvTU9iTmZvaDJCMnRlbVRpUXFXaF84WkJrNXA4WVo3djkxbldTMVlZdkJFVkFtdlhoWTRxdnluT2trWjRNcUVWajZvOThYQS15eW1JeVJmLVU2cDFmZkNtUXE4TFZ0R01lNFhWdGdYMTRuOEVuVy1YUnJnNkc3UU9rM196MndfTERGWjY4aDVJRHpzWkQ0d2NDakg1TkpjNnNrNmhBakdtOEM?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
