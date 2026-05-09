@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T20:38:29.129692+00:00",
+  "generatedAt": "2026-05-09T21:37:58.553045+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -66,10 +66,10 @@
         ]
       },
       {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
+        "title": "Siemens bringt neue, intelligente Brandmelder auf den Markt - Aargauer Zeitung",
         "source": "Aargauer Zeitung",
         "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
+        "summary": "Siemens bringt neue, intelligente Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
         "tags": [
           "Siemens"
@@ -314,6 +314,16 @@
         ]
       },
       {
+        "title": "Apollo Global Management: Was die Aktie jetzt für DACH-Anleger spannend macht - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-02-28T08:00:00+00:00",
+        "summary": "Apollo Global Management: Was die Aktie jetzt für DACH-Anleger spannend macht AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY3VqcXZoUFRFejhsTTlidV9IcmZwQVd1QkYxNjlhS2Zhc2JURURlcWNaSkNSWE5PSTl2RW9Bb3lDUzYtNWJlYkJTMTJORVFTeWE3M3dhckE4RUZBYUNiZHN3SDg0bFFyMmZucU1ERlRTLWJZZDBacllqaGZRVVF3Y1phNG9weWtrZnNhMWlTUUtoQnFuNXVfN1preWtHLThGalNDd1JYdGQ4MC0xc2xnY3JSYlRZTXY2SEpLRk8ydVVHY1pCR1c0WFBB?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
         "source": "handwerk.com",
         "publishedAt": "2026-02-27T08:00:00+00:00",
@@ -331,6 +341,16 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzQ1ckJLN2IyR05OWVdKYXRPLW5uME9ZZnJzaFRPN3VtU0R3d1RPWkQteFRtUkxuSjdIQ3ZIaXJaVnFkVEhyUTN3SHpBeUVUWERZZl8zblpVWDdQNng1dFpfUkZoaEN3Q3U4eVF4b3JPU1djVWtGREpQcEFxdjlfNFhrQ2hCYUR2cHdhOS1KYTg3UGFJNjlVQW1VOVlfWE9KMlE?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -352,26 +372,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
-        "source": "fenster-tueren-technik.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
       }
     ],
     "trends": [
@@ -383,16 +383,6 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0lVTjdyOFZGQTRzLW9jRVFPZ3RXb1lVS1JiMUNuZVNQdmtvRk0za0xyTDlmcVRON2ZDaXJzdlljcW4xVWNHRDV4Q3hFWnktdGMybkl2TGtzWE9OZHU0eVlNRjdYTFJWaEowV0RMTzQtS0dnX3FRNGpxNm9SSTlUMHpJZ0o1MDZNbnhCcmV3?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Richtfest für das Woolworth-Gebäude in Fürth: Ein Meilenstein für die Innenstadt - it-boltwise.de",
-        "source": "it-boltwise.de",
-        "publishedAt": "2026-05-05T15:03:35+00:00",
-        "summary": "Richtfest für das Woolworth-Gebäude in Fürth: Ein Meilenstein für die Innenstadt it-boltwise.de",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTG1QV2N4OTYzVHFPTXo5OTgwclFaR0FiampLYTNJRHRhOEhQa1RnYzZZSFdSRUx4ODQwQ1BCVHVTdXdJTEdmUmVZcTlHcnM4RkVrcG9KbGxpNThyNFNqU0dQS3gxUkl3QnRqcDQ4dFhIZ2drb0hpajl4UFR2dmNqcGQ5UFBhMlBoeFFfV2pQbUZzR0VQNjhKTmxCTDF6YmRiNEJmSmpCMGZGc1JYNXcxZ3g5anN5UQ?oc=5",
-        "tags": [
-          "it-boltwise.de"
         ]
       },
       {
@@ -493,6 +483,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "AI"
+        ]
+      },
+      {
+        "title": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2FVMmh6ZEVuMnZUbFBmc1BERjdZVkllRU1SWktXMGRTc0xvTU9iTmZvaDJCMnRlbVRpUXFXaF84WkJrNXA4WVo3djkxbldTMVlZdkJFVkFtdlhoWTRxdnluT2trWjRNcUVWajZvOThYQS15eW1JeVJmLVU2cDFmZkNtUXE4TFZ0R01lNFhWdGdYMTRuOEVuVy1YUnJnNkc3UU9rM196MndfTERGWjY4aDVJRHpzWkQ0d2NDakg1TkpjNnNrNmhBakdtOEM?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
