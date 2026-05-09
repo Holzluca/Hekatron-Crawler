@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T21:37:58.553045+00:00",
+  "generatedAt": "2026-05-09T22:36:56.301349+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -314,16 +314,6 @@
         ]
       },
       {
-        "title": "Apollo Global Management: Was die Aktie jetzt für DACH-Anleger spannend macht - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-02-28T08:00:00+00:00",
-        "summary": "Apollo Global Management: Was die Aktie jetzt für DACH-Anleger spannend macht AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY3VqcXZoUFRFejhsTTlidV9IcmZwQVd1QkYxNjlhS2Zhc2JURURlcWNaSkNSWE5PSTl2RW9Bb3lDUzYtNWJlYkJTMTJORVFTeWE3M3dhckE4RUZBYUNiZHN3SDg0bFFyMmZucU1ERlRTLWJZZDBacllqaGZRVVF3Y1phNG9weWtrZnNhMWlTUUtoQnFuNXVfN1preWtHLThGalNDd1JYdGQ4MC0xc2xnY3JSYlRZTXY2SEpLRk8ydVVHY1pCR1c0WFBB?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
         "source": "handwerk.com",
         "publishedAt": "2026-02-27T08:00:00+00:00",
@@ -331,26 +321,6 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmdXUjRUWDRpNFdpV3ZXTmZqYTI4ZlZLM2Z5VTZtWHFPOGU0cThoem1Fd1lBUG9hVXZ3UlJmbmwwZE04eGFBYUNGOGVhLVJIRFdqdXhxYURac0ZPNVl2S2YzNE5DajN4OFowUGVISi10bE92WUJ3ZmtNdE5uWDNjS0c3Vk9MZS1xcTFDcEZ4UWpuSURzdkhj0gGcAUFVX3lxTE5NRUJaZGlXVU9RTU1WZUtuaTdKSGY3ZHdrRW93eTZyUU0wOWRBTTMtY1Q1eUZJdEJQSjFFaEsxV3dRLS1oTkc1Q3huX0U2Q1VGSUhpV2RNdm54eE9BXzg3QzNLQ1I4OEtxQ1pyYUJaRHpWVFlJLUtxcnAwTmFCcWdZbFVRODRLYWFMcVRzemJPUDFFSlJLLWVsbURBVg?oc=5",
         "tags": [
           "GEZE"
-        ]
-      },
-      {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzQ1ckJLN2IyR05OWVdKYXRPLW5uME9ZZnJzaFRPN3VtU0R3d1RPWkQteFRtUkxuSjdIQ3ZIaXJaVnFkVEhyUTN3SHpBeUVUWERZZl8zblpVWDdQNng1dFpfUkZoaEN3Q3U4eVF4b3JPU1djVWtGREpQcEFxdjlfNFhrQ2hCYUR2cHdhOS1KYTg3UGFJNjlVQW1VOVlfWE9KMlE?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-02-25T08:00:00+00:00",
-        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
         ]
       },
       {
@@ -371,6 +341,36 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
+        "source": "bm-online.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
+        "source": "fenster-tueren-technik.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
         ]
       }
     ],
