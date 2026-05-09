@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-09T16:45:37.218767+00:00",
+  "generatedAt": "2026-05-09T17:43:57.255097+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -96,16 +96,6 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -124,6 +114,16 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
         ]
       }
     ],
@@ -324,6 +324,16 @@
         ]
       },
       {
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
         "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
         "source": "CoinDesk",
         "publishedAt": "2026-02-15T08:00:00+00:00",
@@ -361,16 +371,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
         "tags": [
           "GEZE"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
         ]
       }
     ],
