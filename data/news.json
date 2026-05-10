@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T08:01:44.555177+00:00",
+  "generatedAt": "2026-05-10T09:51:46.964218+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -139,16 +139,6 @@
         ]
       },
       {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - MSN",
-        "source": "MSN",
-        "publishedAt": "2026-05-06T07:48:35+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen MSN",
-        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNa2JBbDhackFoMi1YMkVEeWtwcV9SX3ZsT3ZPblFSRElyV2JUR1BBeUFwb2ZkNWRtSUF1Y3FUbnZaZHVOUGtMQzNiZzhFQVVPcmdyUm5VcW14RHVUUzllZzRFZnBtTkJ1blhUelJ4SVVFTjBWdkZ6SHJHY1AzSk41ZWVRQTBfRDFaNDN2MUhRSFhUWHdsMnpzUHVyME1VOTNXaVlsX2xaRTVQbzloSi1MX19XN2p5dXF1WFZ5YjRqQy1OWnZrNkE0RmNjSVpEeHA5M2JXVF9JLU1udHpFYlBhTnVpRzItUVA1NllBNUx4WEtKWmVIb3NhazU1Mjl1YWgwY1l6NFhtZC00WFNLcE95a25tQ0p0ek1kSXlRU0oyMS1OUVVHOXJQU2JHenYzNnBpRGVKdm5HOXkzRDlsUzVwa19rZVJyNG00YWVWdW8yN2NhR1NqYTN3Q2dWODRkcnZiVEllWGM4UV93bDA5eFE?oc=5",
-        "tags": [
-          "MSN"
-        ]
-      },
-      {
         "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
         "source": "Teltarif.de",
         "publishedAt": "2026-05-05T15:46:00+00:00",
@@ -237,6 +227,16 @@
         "publishedAt": "2026-04-23T07:00:00+00:00",
         "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
         "tags": [
           "Ei"
         ]
@@ -468,7 +468,7 @@
       {
         "title": "Wie KI-basierte Sortiertechnik Anlagenbrände verhindert - K-Zeitung",
         "source": "K-Zeitung",
-        "publishedAt": "2026-04-09T09:16:33+00:00",
+        "publishedAt": "2026-04-09T07:00:00+00:00",
         "summary": "Wie KI-basierte Sortiertechnik Anlagenbrände verhindert K-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZnb0xsZXItdHdOMU15d0Vtb0wzUXNOV0hMTWhyUmJNM0xWa0pPOU5uenRabFNZQm1lMkhuSjhnTG9ERVBhS2FoODAxalltMkFFbnR0dEkxcVZkUTZCZW1SSzFKMlY0SE9RT3MwcGRyMkc5NVFsQmRhUTM4aWpIMXBhUjl4MDIyOFE?oc=5",
         "tags": [
