@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T11:51:39.888972+00:00",
+  "generatedAt": "2026-05-10T13:05:26.366098+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -139,6 +139,16 @@
         ]
       },
       {
+        "title": "Austausch-Pflicht 2026: Für Millionen Rauchmelder läuft jetzt die Frist ab - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-05-08T07:00:00+00:00",
+        "summary": "Austausch-Pflicht 2026: Für Millionen Rauchmelder läuft jetzt die Frist ab CHIP",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFJHQ3ZJMnI3LW5IUjNuc2hqdHp5Zlctb3VOcUQ2eHhabFhsS2o0b3FZU09HeFNHOFhaSWI3ejBlWHRiRklBYmZkdmNZdVdSVV9PLXJmTWo4b2xEX1NPSUV2S3hpX043aXA1UVByLVJFOV9uWEJoSGNDWkp1eGRvZWszWHJwR1BLdDdjaTg2bkRoZlZPbjkwRmJ1aWwtbGlkN1pPLTRkbllTTnF0bzRkOVF0cEpxQQ?oc=5",
+        "tags": [
+          "CHIP"
+        ]
+      },
+      {
         "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
         "source": "Teltarif.de",
         "publishedAt": "2026-05-05T15:46:00+00:00",
@@ -240,16 +250,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - STERN.de",
-        "source": "STERN.de",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test STERN.de",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGJKaWpPNFg4M3JxT1dvSk9MSHF3cDZKbUR2SHRKMDFubk1IYTRJNVRUUmM5UnRHX0dIS2RSLWU4ZGo5WVYySVMyUlJ5QVY0RHFjWmNNSjNCS0VSQVI0cXFuUjFLSDB2SnBqeFFKV25uMXNLWFd0SWVmY1pQbWVZdndnVlNJR2E5TXNKZ3psUVA0Tlk3Q25JZGEySXM4X2p1bnA5aDRwYXB4c1ZPWEJOZF9lM2hRcGlVSEhGa053QVp2SHRxR0ZN?oc=5",
-        "tags": [
-          "STERN.de"
-        ]
       }
     ],
     "doors": [
@@ -294,16 +294,6 @@
         ]
       },
       {
-        "title": "Apollo Global Management: Chancen und Risiken für DACH-Investoren - it-boltwise.de",
-        "source": "it-boltwise.de",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Apollo Global Management: Chancen und Risiken für DACH-Investoren it-boltwise.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTdpZmJMMFdKenZhblYzZUFxSEVzcWhFMnlCUGJBd2k0MExia2xZblB1T1FONldROFdOTG9tSW9zRTdQTmZMTTRGZXlpY1dheEtSLUVjUlpsVzZ1b3RxZExJTzk5UVNJdUlXNEdaSnZtWk9qOXozODlqOXBsMkZrMWJyd0w2RFZ1REFyRTY4VnNfNnVnT01yOWl2eFZaUQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-03-06T08:00:00+00:00",
@@ -334,13 +324,13 @@
         ]
       },
       {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzQ1ckJLN2IyR05OWVdKYXRPLW5uME9ZZnJzaFRPN3VtU0R3d1RPWkQteFRtUkxuSjdIQ3ZIaXJaVnFkVEhyUTN3SHpBeUVUWERZZl8zblpVWDdQNng1dFpfUkZoaEN3Q3U4eVF4b3JPU1djVWtGREpQcEFxdjlfNFhrQ2hCYUR2cHdhOS1KYTg3UGFJNjlVQW1VOVlfWE9KMlE?oc=5",
+        "title": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token - Cryptonews.net",
+        "source": "Cryptonews.net",
+        "publishedAt": "2026-02-16T08:00:00+00:00",
+        "summary": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token Cryptonews.net",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lVTBIcFJkamNyN3dETWxNbnJFYk9aNENra3BxRHhlaDdRSkdRZDZxSHdDNHJPN01jbnAyMjdXeklneVJiaUVZTkwwUXQxNklLMEZUbGhYS1Q?oc=5",
         "tags": [
-          "GEZE"
+          "Apollo"
         ]
       },
       {
@@ -369,6 +359,16 @@
         "publishedAt": "2026-02-11T08:00:00+00:00",
         "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
+        "source": "fenster-tueren-technik.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
         "tags": [
           "GEZE"
         ]
