@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T09:51:46.964218+00:00",
+  "generatedAt": "2026-05-10T10:57:10.204298+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,16 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Nova-Brandmelder ermöglichen Ferndiagnosen - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-04-10T11:30:00+00:00",
-        "summary": "Nova-Brandmelder ermöglichen Ferndiagnosen elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmRUNllLN041WnY4cjAtTWRjQjFhMDdEb3ozZjhaVDkycllyZmQwWlNRT2FhMmY3YV9aR0hIaTVramt0V042RnppaldjaWJuelJkekZYcW1RSXFhalVtNGw5RUZSNjlEdmQ3NjFfeHQ0VWpxYWJUWmgyX2F4NGkydg?oc=5",
-        "tags": [
-          "elektro.net"
         ]
       },
       {
@@ -114,6 +104,16 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -436,16 +436,6 @@
         ]
       },
       {
-        "title": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab - Rheinische Anzeigenblätter",
-        "source": "Rheinische Anzeigenblätter",
-        "publishedAt": "2026-04-16T06:49:57+00:00",
-        "summary": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab Rheinische Anzeigenblätter",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUJ3NjJqc1VWckhaLVQ3QjY5NUVoREpMM0pZdk14SkR4bkEyc3FWcnZMeDZTLUZqLVE2a1FJSHE3UVBiVUFtZkExXzh6SmhYRHhFWERyOS1FcTItWG5HZTNGMmFIaExWajZCMk9BVE1yVzIwUnlqOHJEQ3RMXzZnSUpTNXVlVG9DamhSMGRxRDlndFR4cTBZczlZOWdoSVk4N0FSQzJ3QlZ2RThpOWV5VTZiZHZGSEtIaUlodEZjQlhBMlhEM0dtWDJOOFVjNGRxUGRNUHl3WXdVR0FXY2l5SXF0cTNRQQ?oc=5",
-        "tags": [
-          "Rheinische Anzeigenblätter"
-        ]
-      },
-      {
         "title": "Smarte Gebäudetechnik im Klinikum Stuttgart - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-04-10T07:00:00+00:00",
@@ -493,6 +483,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "AI"
+        ]
+      },
+      {
+        "title": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "KI-gesteuerte Hackerangriffe überwinden traditionelle Sicherheitssysteme AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2FVMmh6ZEVuMnZUbFBmc1BERjdZVkllRU1SWktXMGRTc0xvTU9iTmZvaDJCMnRlbVRpUXFXaF84WkJrNXA4WVo3djkxbldTMVlZdkJFVkFtdlhoWTRxdnluT2trWjRNcUVWajZvOThYQS15eW1JeVJmLVU2cDFmZkNtUXE4TFZ0R01lNFhWdGdYMTRuOEVuVy1YUnJnNkc3UU9rM196MndfTERGWjY4aDVJRHpzWkQ0d2NDakg1TkpjNnNrNmhBakdtOEM?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
