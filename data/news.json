@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T23:44:41.713347+00:00",
+  "generatedAt": "2026-05-11T02:37:06.820717+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,16 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Nova-Brandmelder ermöglichen Ferndiagnosen - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-04-10T11:30:00+00:00",
-        "summary": "Nova-Brandmelder ermöglichen Ferndiagnosen elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmRUNllLN041WnY4cjAtTWRjQjFhMDdEb3ozZjhaVDkycllyZmQwWlNRT2FhMmY3YV9aR0hIaTVramt0V042RnppaldjaWJuelJkekZYcW1RSXFhalVtNGw5RUZSNjlEdmQ3NjFfeHQ0VWpxYWJUWmgyX2F4NGkydg?oc=5",
-        "tags": [
-          "elektro.net"
         ]
       },
       {
@@ -106,6 +96,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -117,13 +117,14 @@
         ]
       },
       {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "title": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXlOYlV0SWFpRGhneHBWTWhwbU1VOVl6TVZIdXNnMU5fQjdIOHk3YlRqNTQ0NE9mYWRXYmg0UTY5OG9oVXpQNDVxQWtQcGl4LXlaLUdXMEtvTHp3b2cwOVVlM0Z3VUdWZnVwYTl6REpKdFFVbkZjTDIwcktQWnhFeTNBQ0NfOGhmdFcwYlUxWjh0WmRqbnNhR0w5d09HbEhCTlNjcWJR?oc=5",
         "tags": [
-          "Siemens"
+          "Bosch",
+          "Brandschutz"
         ]
       }
     ],
@@ -242,13 +243,13 @@
         ]
       },
       {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
-        "source": "Tages-Anzeiger",
+        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - WirtschaftsWoche",
+        "source": "WirtschaftsWoche",
         "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
+        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTA3YTlHRWpOeWU4V21FeHlDRm9VSkhET3lubnAtQ0E4bDBlS202RUxBTHZnc3g2RjBYalZiV0huRkh0SUxPc0NPNllDeHdtcVN1SWFRclExYTd1dXdHTFVvN3B4TkJWdTBpYnlQVTFwakVaYzlCNU9OLVJxc19KdlZwNHc3a0VTLTFiVHdTbUxJZkJUSVpvTi1CS2NmODRGVlZRQXhpRkk1YWRZWXBSN1B4QkEwUlNjdW9hRS1NcXk?oc=5",
         "tags": [
-          "Ei"
+          "WirtschaftsWoche"
         ]
       }
     ],
@@ -364,13 +365,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "title": "Salto und Geze erhalten German Design Award 2026 - fenster-tueren-technik.de",
+        "source": "fenster-tueren-technik.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Salto und Geze erhalten German Design Award 2026 fenster-tueren-technik.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3IxbF90aDdCNHpOeC11TWV1dDg4Q3BEUUVnTTU2YVJQVmlNTmdNeEM4eWZkNy1PY1FRRGw4dEtMWWxzLWJOSDcwMGdUaVpib0ZzajdKZk5mc05GdGU2ZWVQeFZUeWh2Z2dPMmdDQ2QwUVEzdkFjQWtPSHZ3VVhYR1ZfVmprc0QtVmhqaVF1MWtfOTNnQlJLN0w0QQ?oc=5",
         "tags": [
-          "Handelsblatt"
+          "GEZE"
         ]
       }
     ],
@@ -438,7 +439,7 @@
       {
         "title": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab - Rheinische Anzeigenblätter",
         "source": "Rheinische Anzeigenblätter",
-        "publishedAt": "2026-04-16T06:49:57+00:00",
+        "publishedAt": "2026-04-16T07:00:00+00:00",
         "summary": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab Rheinische Anzeigenblätter",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUJ3NjJqc1VWckhaLVQ3QjY5NUVoREpMM0pZdk14SkR4bkEyc3FWcnZMeDZTLUZqLVE2a1FJSHE3UVBiVUFtZkExXzh6SmhYRHhFWERyOS1FcTItWG5HZTNGMmFIaExWajZCMk9BVE1yVzIwUnlqOHJEQ3RMXzZnSUpTNXVlVG9DamhSMGRxRDlndFR4cTBZczlZOWdoSVk4N0FSQzJ3QlZ2RThpOWV5VTZiZHZGSEtIaUlodEZjQlhBMlhEM0dtWDJOOFVjNGRxUGRNUHl3WXdVR0FXY2l5SXF0cTNRQQ?oc=5",
         "tags": [
