@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T22:49:27.558093+00:00",
+  "generatedAt": "2026-05-11T23:53:00.677114+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,6 +21,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -86,6 +96,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -97,33 +117,14 @@
         ]
       },
       {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "title": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXlOYlV0SWFpRGhneHBWTWhwbU1VOVl6TVZIdXNnMU5fQjdIOHk3YlRqNTQ0NE9mYWRXYmg0UTY5OG9oVXpQNDVxQWtQcGl4LXlaLUdXMEtvTHp3b2cwOVVlM0Z3VUdWZnVwYTl6REpKdFFVbkZjTDIwcktQWnhFeTNBQ0NfOGhmdFcwYlUxWjh0WmRqbnNhR0w5d09HbEhCTlNjcWJR?oc=5",
         "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-01-24T08:00:00+00:00",
-        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
-        "tags": [
-          "Netzwelt"
+          "Bosch",
+          "Brandschutz"
         ]
       }
     ],
@@ -136,6 +137,16 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFJHQ3ZJMnI3LW5IUjNuc2hqdHp5Zlctb3VOcUQ2eHhabFhsS2o0b3FZU09HeFNHOFhaSWI3ejBlWHRiRklBYmZkdmNZdVdSVV9PLXJmTWo4b2xEX1NPSUV2S3hpX043aXA1UVByLVJFOV9uWEJoSGNDWkp1eGRvZWszWHJwR1BLdDdjaTg2bkRoZlZPbjkwRmJ1aWwtbGlkN1pPLTRkbllTTnF0bzRkOVF0cEpxQQ?oc=5",
         "tags": [
           "CHIP"
+        ]
+      },
+      {
+        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
+        "source": "Teltarif.de",
+        "publishedAt": "2026-05-05T15:46:00+00:00",
+        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif.de",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -188,16 +199,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
         "tags": [
           "WELT"
-        ]
-      },
-      {
-        "title": "Smart-Home: Das intelligente Schlafzimmer - Falstaff",
-        "source": "Falstaff",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Smart-Home: Das intelligente Schlafzimmer Falstaff",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpfUlpOcU11UnFncW9OYzBaOFVKY0k3Y3QxM3U0WWlUZ3lFU0FzNlgtWWxqalJ3T3JvTm04REpucnpvemZ5Um16YWRhczhRNU16b0Y0SE1VSzlzX2s4ekU1Szh5TVR5Yk5RMkUwYUFNak43RWZUcndXbC1oeEFEWDVNbmV5cEZQY1B5aW13?oc=5",
-        "tags": [
-          "Falstaff"
         ]
       },
       {
@@ -324,16 +325,6 @@
         ]
       },
       {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzQ1ckJLN2IyR05OWVdKYXRPLW5uME9ZZnJzaFRPN3VtU0R3d1RPWkQteFRtUkxuSjdIQ3ZIaXJaVnFkVEhyUTN3SHpBeUVUWERZZl8zblpVWDdQNng1dFpfUkZoaEN3Q3U4eVF4b3JPU1djVWtGREpQcEFxdjlfNFhrQ2hCYUR2cHdhOS1KYTg3UGFJNjlVQW1VOVlfWE9KMlE?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
         "title": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token - Cryptonews.net",
         "source": "Cryptonews.net",
         "publishedAt": "2026-02-16T08:00:00+00:00",
@@ -371,6 +362,16 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
         ]
       }
     ],
