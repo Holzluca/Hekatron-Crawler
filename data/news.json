@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T18:17:40.861198+00:00",
+  "generatedAt": "2026-05-11T20:14:23.909973+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,6 +34,17 @@
         ]
       },
       {
+        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzdycEZmNTNaVzVBc25tTjhWd2NUWEhTcHA4Y0xzU19NblU0RUY1MDdtT2V6Qjhta3l5RFVSc0dGc3BEeFZmaHBCbUhaNU13RGk0ZENOcUltaERhT2gyVnQ1UDJHcnlWSXFFS3BYMUd6WTJmUXVZVlpQcDBFMW9ZQzUtek1yS0szc0dweEdubjIxQ2E4SWVLMHV2bF9ER3o4YTFxLUlxcWZ2Sld1VDdNbzN5X2hTZDQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
         "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
         "source": "Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -65,10 +76,10 @@
         ]
       },
       {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
+        "title": "Siemens bringt neue, intelligente Brandmelder auf den Markt - Aargauer Zeitung",
         "source": "Aargauer Zeitung",
         "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
+        "summary": "Siemens bringt neue, intelligente Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
         "tags": [
           "Siemens"
@@ -114,16 +125,6 @@
         "tags": [
           "Bosch",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -254,6 +255,16 @@
     ],
     "doors": [
       {
+        "title": "Kann Apollo Hospitals Enterprise Ltd Aktie (INE438A01022) den indischen Gesundheitsboom nutzen? - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-11T19:29:29+00:00",
+        "summary": "Kann Apollo Hospitals Enterprise Ltd Aktie (INE438A01022) den indischen Gesundheitsboom nutzen? AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVNtcVFyUTRWYlVhQlZ3dEpNQjIzTmRySHJTb2gzaWdRRWFNZDVjc0djUS1WVy1MLWNjT1J2T3cxY0RpWlJyclhxWG40V3RjQjBGdEdfSWFxYXF1TlVYQUM3UG9LVWtEZ1ZVQUtkV3MwRzlEbmJPNU85a2hjc2w4U1lXNUZ2bFh1cEtsYWRqVmFnX3dybzZjVjVVNzJzTmdmbDJNakgzTkppajFTbFZVRnBpcmdibmpjc1hyMnppUWZMMjFfV2JR?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo Global Management Aktie (US0376041051): Warum Alternative Assets jetzt für europäische Anle - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-11T15:22:14+00:00",
@@ -361,16 +372,6 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
         ]
       }
     ],
