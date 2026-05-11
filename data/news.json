@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T06:33:41.563202+00:00",
+  "generatedAt": "2026-05-11T10:33:10.494980+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -315,6 +315,16 @@
         ]
       },
       {
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
         "title": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token - Cryptonews.net",
         "source": "Cryptonews.net",
         "publishedAt": "2026-02-16T08:00:00+00:00",
@@ -362,16 +372,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
           "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-01-09T08:00:00+00:00",
-        "summary": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0pWckZOaXZ5Q29ManhrUl85SXprYno2aklXb25sNzM3NlJHWmNXam0tODNDbkkzVlF5U3JnY0VBWTVCYUJncElHM2UyRlhnTUhQWE5henQxQk1pTk5vdDgzSUhPTkNXbzdwQTQ0SlZualpIVURsQkQ4X1RlTHVoYnhhMTFCOUg2eDR0cEpIRTl0MkdhUEtWUm9MRTl3eDR5ckM4Ui1XbEJGNDlHTml6REVZd1NWb1Y5TmZ0ZlVwWU04NjQ?oc=5",
-        "tags": [
-          "Apollo"
         ]
       }
     ],
@@ -457,21 +457,21 @@
         ]
       },
       {
-        "title": "Licht-KI für effiziente Gebäude - buildingTIMES",
-        "source": "buildingTIMES",
-        "publishedAt": "2026-04-09T09:29:51+00:00",
-        "summary": "Licht-KI für effiziente Gebäude buildingTIMES",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUnp4ZHdrX0Q1Z0lMeHJLRFg1VG82Uy1ndzVCbTZiWWJMU1dxTUpSNnVlUlh2ZkU4NV9JOWxGYWM1SWlBMWlMdDIySVRXcXkzU2tiV0pENHVHSUdBQlBOU2VJZDZkZnNUSFN3VjhCV2tiOHZwN1ZxVkZTZw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Wie KI-basierte Sortiertechnik Anlagenbrände verhindert - K-Zeitung",
         "source": "K-Zeitung",
         "publishedAt": "2026-04-09T07:00:00+00:00",
         "summary": "Wie KI-basierte Sortiertechnik Anlagenbrände verhindert K-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZnb0xsZXItdHdOMU15d0Vtb0wzUXNOV0hMTWhyUmJNM0xWa0pPOU5uenRabFNZQm1lMkhuSjhnTG9ERVBhS2FoODAxalltMkFFbnR0dEkxcVZkUTZCZW1SSzFKMlY0SE9RT3MwcGRyMkc5NVFsQmRhUTM4aWpIMXBhUjl4MDIyOFE?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Licht-KI für effiziente Gebäude - buildingTIMES",
+        "source": "buildingTIMES",
+        "publishedAt": "2026-04-08T07:00:00+00:00",
+        "summary": "Licht-KI für effiziente Gebäude buildingTIMES",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUnp4ZHdrX0Q1Z0lMeHJLRFg1VG82Uy1ndzVCbTZiWWJMU1dxTUpSNnVlUlh2ZkU4NV9JOWxGYWM1SWlBMWlMdDIySVRXcXkzU2tiV0pENHVHSUdBQlBOU2VJZDZkZnNUSFN3VjhCV2tiOHZwN1ZxVkZTZw?oc=5",
         "tags": [
           "KI"
         ]
