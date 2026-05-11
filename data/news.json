@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T16:28:02.428907+00:00",
+  "generatedAt": "2026-05-11T18:17:40.861198+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -31,17 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-02T07:00:00+00:00",
-        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzdycEZmNTNaVzVBc25tTjhWd2NUWEhTcHA4Y0xzU19NblU0RUY1MDdtT2V6Qjhta3l5RFVSc0dGc3BEeFZmaHBCbUhaNU13RGk0ZENOcUltaERhT2gyVnQ1UDJHcnlWSXFFS3BYMUd6WTJmUXVZVlpQcDBFMW9ZQzUtek1yS0szc0dweEdubjIxQ2E4SWVLMHV2bF9ER3o4YTFxLUlxcWZ2Sld1VDdNbzN5X2hTZDQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
         ]
       },
       {
@@ -125,6 +114,16 @@
         "tags": [
           "Bosch",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
