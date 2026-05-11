@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T13:43:05.338905+00:00",
+  "generatedAt": "2026-05-11T16:28:02.428907+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -130,16 +130,6 @@
     ],
     "pfs": [
       {
-        "title": "Samsung One UI 8.5: Update-Verteilung für die Galaxy S25 Serie gestartet - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-05-11T12:35:00+00:00",
-        "summary": "Samsung One UI 8.5: Update-Verteilung für die Galaxy S25 Serie gestartet Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUThCWmtWRGh4WVJQR3U2ZWpqSWk0ZTNSR29qdHpFb2dTX016MTYxZGFjQ2JFN0pJVU5fZ2EzOHp4bWlXRklaQjdjOGpzOGtIQ29GbVNCMHJkbWtKTjdxbzBuRE91dkxkN3NGQlY4N0ZOSmJBdk8yNWxIWEcweGdNZm5lSTFLWXAyblMwcmlsa2Z3d2RmWmhaWkFmaExsVzlES0hNZQ?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Austausch-Pflicht 2026: Für Millionen Rauchmelder läuft jetzt die Frist ab - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-05-08T07:00:00+00:00",
@@ -251,9 +241,29 @@
         "tags": [
           "WirtschaftsWoche"
         ]
+      },
+      {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
+        "tags": [
+          "Ei"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Apollo Global Management Aktie (US0376041051): Warum Alternative Assets jetzt für europäische Anle - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-11T15:22:14+00:00",
+        "summary": "Apollo Global Management Aktie (US0376041051): Warum Alternative Assets jetzt für europäische Anle AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGgzWTYyN1dtRVJ2LTI5dFFaNzBReFdyaklobDEwQjFZWFNoSzNnMFVUdkhKMDB4MXlTMldwUHp0bnRXbHIxQ3Y4QVVEcDk2YU9naEpjVVVkdmJBSEtXMFNKN3htZWxrUl9aelEyT1dTUFpjQTA5aWxzYzFXdnNGRTYtMHVhMEZWUDZmV2w2dFhPLUF0MzZqbEY3SzhySkdiUU9OcjRZWS0zSVNyZWhsU3JRMnUtZzRkVTRibG9mMnktWHFtZGc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Apollo Global Management Aktie (US0376123065): Interesse an Shell LNG-Anteil - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -300,6 +310,16 @@
         "publishedAt": "2026-03-03T08:00:00+00:00",
         "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
+        "source": "handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzQ1ckJLN2IyR05OWVdKYXRPLW5uME9ZZnJzaFRPN3VtU0R3d1RPWkQteFRtUkxuSjdIQ3ZIaXJaVnFkVEhyUTN3SHpBeUVUWERZZl8zblpVWDdQNng1dFpfUkZoaEN3Q3U4eVF4b3JPU1djVWtGREpQcEFxdjlfNFhrQ2hCYUR2cHdhOS1KYTg3UGFJNjlVQW1VOVlfWE9KMlE?oc=5",
         "tags": [
           "GEZE"
         ]
@@ -352,26 +372,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
           "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-01-09T08:00:00+00:00",
-        "summary": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0pWckZOaXZ5Q29ManhrUl85SXprYno2aklXb25sNzM3NlJHWmNXam0tODNDbkkzVlF5U3JnY0VBWTVCYUJncElHM2UyRlhnTUhQWE5henQxQk1pTk5vdDgzSUhPTkNXbzdwQTQ0SlZualpIVURsQkQ4X1RlTHVoYnhhMTFCOUg2eDR0cEpIRTl0MkdhUEtWUm9MRTl3eDR5ckM4Ui1XbEJGNDlHTml6REVZd1NWb1Y5TmZ0ZlVwWU04NjQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Über einen Monat nach Louvre-Diebstahl: Zwei weitere Verdächtige verhaftet - Frankfurter Rundschau",
-        "source": "Frankfurter Rundschau",
-        "publishedAt": "2025-11-28T08:00:00+00:00",
-        "summary": "Über einen Monat nach Louvre-Diebstahl: Zwei weitere Verdächtige verhaftet Frankfurter Rundschau",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTBEWXQzRzhuaTZKc252cEJwVzdGZkFBYUFTdWhBbmhzd2txaU9wZ0s3ZGx3aXdpNXFBdXVmWDhaT3N6bXk5YkZiLXBqY2FDR3phU01hYi1veF9KNFF1Uy1ESW1GQ2w0ME1IY01sQ0VLeHppcjR6TWQteHAtUi1DUklFdTNOYk9TSEZvQ2RoQXVDdzQ4MFgwaFpDNlFyYnZxZFpURlZwZ3JydjhXWHM2OUxhVGVWRGNKQXFzQ2FUb05na0JUM2Z1NWZoNkZvd2R4NGM4MFpSakdSbDg?oc=5",
-        "tags": [
-          "Frankfurter Rundschau"
         ]
       }
     ],
