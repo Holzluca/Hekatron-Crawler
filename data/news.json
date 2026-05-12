@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T20:13:33.787429+00:00",
+  "generatedAt": "2026-05-12T21:47:20.777539+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -31,17 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-02T07:00:00+00:00",
-        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWpOTk1BNmJFcExNelFqUXRJX21qLTN5UHd3YW5HTU9kamE1YjFha0NRZ3FNbnR2eExNQ3A0eTRDdE9RbEVWNGpWM19NWU5PaWlPVHdvci1GY3ZCRjBkajZCX0Fqd1NWNzg5ZmRJMTNsQXRCdWMzdUZnV0UyT1JNc05wMGxHbjZOa3NqQTBDTjJ6UFVxSHBmaUh4d08tNlpndEx1MENBbmNGbDBaWk9iOEFTTXZmRXpUUmpaanJ3?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
         ]
       },
       {
@@ -125,9 +114,29 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-05-08T14:45:00+00:00",
+        "summary": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
       {
         "title": "Austausch-Pflicht 2026: Für Millionen Rauchmelder läuft jetzt die Frist ab - CHIP",
         "source": "CHIP",
@@ -144,17 +153,6 @@
         "publishedAt": "2026-04-29T07:00:00+00:00",
         "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
@@ -211,6 +209,16 @@
         ]
       },
       {
+        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
+        "source": "SZ.de",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - DIE ZEIT",
         "source": "DIE ZEIT",
         "publishedAt": "2026-04-23T07:00:00+00:00",
@@ -239,16 +247,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbkVyeDZRX1V0eHVHM3VFZVVUTmdidFQzNDExNVcwMjlFSEM0QmY5Um84cDlDd21FOXNTcUxvMkhuOXgxVjZLWks5Z0ZjVUh2b0d1TFRUcV9RWjZBY3A1aHh4TUdub0xrWG9jTWNLdnBCZnJOYjVuWWlyYU5PVXdfcDIzcWVyamVBTWh4YmdnbzVZekNPTG8zRjRSVWtsZlVRMHVEUVNLWWM2UmsxUTJKZFZqenQtSDdpbGNmUWlXY2E?oc=5",
         "tags": [
           "STERN.de"
-        ]
-      },
-      {
-        "title": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen - SZ.de",
-        "source": "SZ.de",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Historisches Urteil: Stiftung Warentest muss Schadenersatz zahlen SZ.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
@@ -406,6 +404,16 @@
         ]
       },
       {
+        "title": "Technologische Wende im Brandschutz: Herausforderungen und Chancen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-07T17:43:51+00:00",
+        "summary": "Technologische Wende im Brandschutz: Herausforderungen und Chancen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXVqOV9VTlBTUVdiMGF4UFIwNE8xaTF0UEdRRFVDM0VmcWdKTkxxVDFhQW1GbWhLdUhzM2U0eVp4X3RBazl3S21admhza2ZzUzBucDdUVG81cGt5bnZlektYRTU2NjFGcm1MSU5JTXN4NVFQb1g3dHpVSUN5RlU2R0txNldsMDI3cjhFOHJMU2lBVkRzdkY1RDBwWG1HUQ?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
         "title": "Vernetzte Sicherheitssysteme erfordern mehr Kontrolle - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-05-07T06:30:00+00:00",
@@ -483,16 +491,6 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkV2em1zTTE4N29MV19NWGEwWDJLc1hzemFUN21QNS1PdXFnamdMMnlUdTNvczRMMDhPR2FraXdJT2VvQ0xIOEQwcFNWeEFMMldMZ1RneXgyZjhUVnNZeWR0S0R0a01CY251ZVVNc0xxc0FLWF94eVhhN1NVTy1WdmVaM2V0MnJKbTFTUjJJSVg4bzZaTzQ5WUpIOXhfY1h4NDZHUmNB?oc=5",
         "tags": [
           "Tages-Anzeiger"
-        ]
-      },
-      {
-        "title": "Smarte Gebäudetechnik im Klinikum Stuttgart - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Smarte Gebäudetechnik im Klinikum Stuttgart elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
-        "tags": [
-          "elektro.net"
         ]
       }
     ]
