@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T22:54:55.164448+00:00",
+  "generatedAt": "2026-05-12T23:55:27.662327+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,6 +21,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -115,16 +125,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-01-24T08:00:00+00:00",
-        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
-        "tags": [
-          "Netzwelt"
-        ]
       }
     ],
     "pfs": [
@@ -136,6 +136,16 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFJHQ3ZJMnI3LW5IUjNuc2hqdHp5Zlctb3VOcUQ2eHhabFhsS2o0b3FZU09HeFNHOFhaSWI3ejBlWHRiRklBYmZkdmNZdVdSVV9PLXJmTWo4b2xEX1NPSUV2S3hpX043aXA1UVByLVJFOV9uWEJoSGNDWkp1eGRvZWszWHJwR1BLdDdjaTg2bkRoZlZPbjkwRmJ1aWwtbGlkN1pPLTRkbllTTnF0bzRkOVF0cEpxQQ?oc=5",
         "tags": [
           "CHIP"
+        ]
+      },
+      {
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T11:50:18+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -238,16 +248,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbkVyeDZRX1V0eHVHM3VFZVVUTmdidFQzNDExNVcwMjlFSEM0QmY5Um84cDlDd21FOXNTcUxvMkhuOXgxVjZLWks5Z0ZjVUh2b0d1TFRUcV9RWjZBY3A1aHh4TUdub0xrWG9jTWNLdnBCZnJOYjVuWWlyYU5PVXdfcDIzcWVyamVBTWh4YmdnbzVZekNPTG8zRjRSVWtsZlVRMHVEUVNLWWM2UmsxUTJKZFZqenQtSDdpbGNmUWlXY2E?oc=5",
         "tags": [
           "STERN.de"
-        ]
-      },
-      {
-        "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblB3TmVYWW43LUM1Tnluakw2MUZPdnU1c0gtQ1hQYURpT25OS1Itb0lHazlXclFTWE0xamJVaXBJTlVsQW9ZQ3Rva0M0U3hvcElsakR1ZzdiMERLejFER0x3ejVXbTV4ZUR2WnJzTE5mZzl4SDlSSXRRNFk5Z1BmbVdGeFAzbUhfWkI2QzN5clBpSG1yVFpQSjFGTjlPWU1MbDlUTGV4Q1E5cndYTGlOaUNnZENQME9STkx6el9vX2c?oc=5",
-        "tags": [
-          "Spiegel"
         ]
       }
     ],
@@ -405,16 +405,6 @@
         ]
       },
       {
-        "title": "Technologische Wende im Brandschutz: Herausforderungen und Chancen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-07T17:43:51+00:00",
-        "summary": "Technologische Wende im Brandschutz: Herausforderungen und Chancen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXVqOV9VTlBTUVdiMGF4UFIwNE8xaTF0UEdRRFVDM0VmcWdKTkxxVDFhQW1GbWhLdUhzM2U0eVp4X3RBazl3S21admhza2ZzUzBucDdUVG81cGt5bnZlektYRTU2NjFGcm1MSU5JTXN4NVFQb1g3dHpVSUN5RlU2R0txNldsMDI3cjhFOHJMU2lBVkRzdkY1RDBwWG1HUQ?oc=5",
-        "tags": [
-          "it boltwise"
-        ]
-      },
-      {
         "title": "Vernetzte Sicherheitssysteme erfordern mehr Kontrolle - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-05-07T06:30:00+00:00",
@@ -492,6 +482,16 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "Wie KI-basierte Sortiertechnik Anlagenbrände verhindert - K-Zeitung",
+        "source": "K-Zeitung",
+        "publishedAt": "2026-04-09T07:00:00+00:00",
+        "summary": "Wie KI-basierte Sortiertechnik Anlagenbrände verhindert K-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZnb0xsZXItdHdOMU15d0Vtb0wzUXNOV0hMTWhyUmJNM0xWa0pPOU5uenRabFNZQm1lMkhuSjhnTG9ERVBhS2FoODAxalltMkFFbnR0dEkxcVZkUTZCZW1SSzFKMlY0SE9RT3MwcGRyMkc5NVFsQmRhUTM4aWpIMXBhUjl4MDIyOFE?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
