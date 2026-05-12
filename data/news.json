@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T09:16:56.461106+00:00",
+  "generatedAt": "2026-05-12T11:29:24.711659+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,6 +21,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -75,6 +85,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -82,6 +102,17 @@
         "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWGNZalhmNkEwczhjWGNsUGZWRDFwcmdPMmdwUXk4TWhQa29jUlJReURtZVYzME5UWjdtS2tlZW1TTUxxcEp5Mjlsdmxjb1ZBc2wxY1ZsMUtUNDczNlRVOG4tQzZxUDd4OENCT1NLb2sycmNlRDdtT1JmNFpkY2RrVmJJYlVBb0V4enBDZ2NDVTM1ZHpyN2YtcFFKQUJFc0xQN2lMdGlYR1hKaER4RVhibWJISERyNXBQUHJPWUJaSHdQUFRhakZ0NHAzQTJOT1BaYmhobmF3UkZiS0dGdF9TYXkwR2xfNms3aExlaTdqQ2FCSEpsLXlkZWtBX1BRekdaMjMweWJKaE5wbkUtelBJNlNvMUV6eHpBcE9RLTBaNTF5RUhja1dUNURB?oc=5",
         "tags": [
           "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
+        "title": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXlOYlV0SWFpRGhneHBWTWhwbU1VOVl6TVZIdXNnMU5fQjdIOHk3YlRqNTQ0NE9mYWRXYmg0UTY5OG9oVXpQNDVxQWtQcGl4LXlaLUdXMEtvTHp3b2cwOVVlM0Z3VUdWZnVwYTl6REpKdFFVbkZjTDIwcktQWnhFeTNBQ0NfOGhmdFcwYlUxWjh0WmRqbnNhR0w5d09HbEhCTlNjcWJR?oc=5",
+        "tags": [
+          "Bosch",
           "Brandschutz"
         ]
       },
@@ -94,36 +125,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-01-24T08:00:00+00:00",
-        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
-        "tags": [
-          "Netzwelt"
-        ]
-      },
-      {
-        "title": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern - Ntv",
-        "source": "Ntv",
-        "publishedAt": "2026-01-20T08:00:00+00:00",
-        "summary": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern Ntv",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVozWm4wbWtTUDZWVVpENWtkOUREaEVBT2tJMEhZTkFlX3NzLUZSRk5BZl9PcG9sdjlONV9HOHM1UkVWWDkzdU5IQ3hMZDZfRUdsNnl3ZWJxTlJOUVN4U29XTHJKTWRldHJOX2hRWXVVNWt1U21OeE4yMWQ5bGhKMk5OYm9WbmlFOThDTmctZmhKbkNYQURfVjNvWUlwVHIzMmRBcVdKT0xrbnZNSEFabVE0Zw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "pfs": [
@@ -135,26 +136,6 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFJHQ3ZJMnI3LW5IUjNuc2hqdHp5Zlctb3VOcUQ2eHhabFhsS2o0b3FZU09HeFNHOFhaSWI3ejBlWHRiRklBYmZkdmNZdVdSVV9PLXJmTWo4b2xEX1NPSUV2S3hpX043aXA1UVByLVJFOV9uWEJoSGNDWkp1eGRvZWszWHJwR1BLdDdjaTg2bkRoZlZPbjkwRmJ1aWwtbGlkN1pPLTRkbllTTnF0bzRkOVF0cEpxQQ?oc=5",
         "tags": [
           "CHIP"
-        ]
-      },
-      {
-        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
-        "source": "Teltarif.de",
-        "publishedAt": "2026-05-05T15:46:00+00:00",
-        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif.de",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T11:50:18+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -200,13 +181,33 @@
         ]
       },
       {
-        "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
+        "title": "Smart-Home: Das intelligente Schlafzimmer - Falstaff",
+        "source": "Falstaff",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Smart-Home: Das intelligente Schlafzimmer Falstaff",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpfUlpOcU11UnFncW9OYzBaOFVKY0k3Y3QxM3U0WWlUZ3lFU0FzNlgtWWxqalJ3T3JvTm04REpucnpvemZ5Um16YWRhczhRNU16b0Y0SE1VSzlzX2s4ekU1Szh5TVR5Yk5RMkUwYUFNak43RWZUcndXbC1oeEFEWDVNbmV5cEZQY1B5aW13?oc=5",
+        "tags": [
+          "Falstaff"
+        ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblB3TmVYWW43LUM1Tnluakw2MUZPdnU1c0gtQ1hQYURpT25OS1Itb0lHazlXclFTWE0xamJVaXBJTlVsQW9ZQ3Rva0M0U3hvcElsakR1ZzdiMERLejFER0x3ejVXbTV4ZUR2WnJzTE5mZzl4SDlSSXRRNFk5Z1BmbVdGeFAzbUhfWkI2QzN5clBpSG1yVFpQSjFGTjlPWU1MbDlUTGV4Q1E5cndYTGlOaUNnZENQME9STkx6el9vX2c?oc=5",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
         "tags": [
           "Spiegel"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -253,6 +254,16 @@
     ],
     "doors": [
       {
+        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-12T11:04:05+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUlMdE8yRWpiT2xmeC1QS1Q5eFhlcWxucDRmTWZOWEw2dUdheUR6Wm16RHJHWWZSRzlaWURRNWoyclRJU2k5bk1EZkR3NnRBaW5KZl82S2R0bUZaclZoSllkNkRfQ3RHTVhNS3lGaTQ1eEFhTW1LU0QzN0xSRkJWaVN5dnZ1bGh2T1hfb2NreG5EY1N0SXBFb3p6TllWRWRvMVJRX0FncnNSczJ1WHJUcThNdUJ6YV95cS1QWVk2NDJjQkVhRGlj?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Kann Apollo Hospitals Enterprise Ltd Aktie (INE438A01022) den indischen Gesundheitsboom nutzen? - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-11T19:29:29+00:00",
@@ -293,13 +304,13 @@
         ]
       },
       {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       },
       {
@@ -360,16 +371,6 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
         ]
       }
     ],
