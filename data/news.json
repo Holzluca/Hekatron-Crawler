@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T13:20:56.578535+00:00",
+  "generatedAt": "2026-05-12T15:58:46.733788+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -106,22 +106,21 @@
         ]
       },
       {
-        "title": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-02-25T08:00:00+00:00",
-        "summary": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXlOYlV0SWFpRGhneHBWTWhwbU1VOVl6TVZIdXNnMU5fQjdIOHk3YlRqNTQ0NE9mYWRXYmg0UTY5OG9oVXpQNDVxQWtQcGl4LXlaLUdXMEtvTHp3b2cwOVVlM0Z3VUdWZnVwYTl6REpKdFFVbkZjTDIwcktQWnhFeTNBQ0NfOGhmdFcwYlUxWjh0WmRqbnNhR0w5d09HbEhCTlNjcWJR?oc=5",
-        "tags": [
-          "Bosch",
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
         "source": "Baulinks",
         "publishedAt": "2026-02-10T08:00:00+00:00",
         "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -139,22 +138,21 @@
         ]
       },
       {
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T11:50:18+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-04-29T07:00:00+00:00",
         "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
@@ -178,16 +176,6 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Smart-Home: Das intelligente Schlafzimmer - Falstaff",
-        "source": "Falstaff",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Smart-Home: Das intelligente Schlafzimmer Falstaff",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHpfUlpOcU11UnFncW9OYzBaOFVKY0k3Y3QxM3U0WWlUZ3lFU0FzNlgtWWxqalJ3T3JvTm04REpucnpvemZ5Um16YWRhczhRNU16b0Y0SE1VSzlzX2s4ekU1Szh5TVR5Yk5RMkUwYUFNak43RWZUcndXbC1oeEFEWDVNbmV5cEZQY1B5aW13?oc=5",
-        "tags": [
-          "Falstaff"
         ]
       },
       {
@@ -250,6 +238,16 @@
         "tags": [
           "STERN.de"
         ]
+      },
+      {
+        "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblB3TmVYWW43LUM1Tnluakw2MUZPdnU1c0gtQ1hQYURpT25OS1Itb0lHazlXclFTWE0xamJVaXBJTlVsQW9ZQ3Rva0M0U3hvcElsakR1ZzdiMERLejFER0x3ejVXbTV4ZUR2WnJzTE5mZzl4SDlSSXRRNFk5Z1BmbVdGeFAzbUhfWkI2QzN5clBpSG1yVFpQSjFGTjlPWU1MbDlUTGV4Q1E5cndYTGlOaUNnZENQME9STkx6el9vX2c?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
       }
     ],
     "doors": [
@@ -304,13 +302,13 @@
         ]
       },
       {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - handelsblatt.com",
-        "source": "handelsblatt.com",
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
         "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? handelsblatt.com",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
-          "handelsblatt.com"
+          "Handelsblatt"
         ]
       },
       {
@@ -446,6 +444,16 @@
         ]
       },
       {
+        "title": "Brandschutz im Wandel: Neue Technologien und Herausforderungen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-04-18T07:00:00+00:00",
+        "summary": "Brandschutz im Wandel: Neue Technologien und Herausforderungen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUWVMS01NYnN5WkRmc01wejdUWUJXSERnNnZIcllrNnY3WWh5bHBtd0ZQYmFjUUFoSW1SYlNfWnFQdEhrSFpSbEpub2NqVm5WZ1JSYUZkWnFFYUtnTnVTX05CSGJXV0J1OTVYZXBLa3VDMDZ5Q2VCeExTVjFGaFEyNF9idzFEWEtjcUpneG10UFJTY0tXTUlWTQ?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
         "title": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab - Rheinische Anzeigenblätter",
         "source": "Rheinische Anzeigenblätter",
         "publishedAt": "2026-04-16T07:00:00+00:00",
@@ -453,6 +461,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUJ3NjJqc1VWckhaLVQ3QjY5NUVoREpMM0pZdk14SkR4bkEyc3FWcnZMeDZTLUZqLVE2a1FJSHE3UVBiVUFtZkExXzh6SmhYRHhFWERyOS1FcTItWG5HZTNGMmFIaExWajZCMk9BVE1yVzIwUnlqOHJEQ3RMXzZnSUpTNXVlVG9DamhSMGRxRDlndFR4cTBZczlZOWdoSVk4N0FSQzJ3QlZ2RThpOWV5VTZiZHZGSEtIaUlodEZjQlhBMlhEM0dtWDJOOFVjNGRxUGRNUHl3WXdVR0FXY2l5SXF0cTNRQQ?oc=5",
         "tags": [
           "Rheinische Anzeigenblätter"
+        ]
+      },
+      {
+        "title": "«Wir dürfen kein einziges Gebäude mehr abreissen!» - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
+        "publishedAt": "2026-04-16T07:00:00+00:00",
+        "summary": "«Wir dürfen kein einziges Gebäude mehr abreissen!» Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkV2em1zTTE4N29MV19NWGEwWDJLc1hzemFUN21QNS1PdXFnamdMMnlUdTNvczRMMDhPR2FraXdJT2VvQ0xIOEQwcFNWeEFMMldMZ1RneXgyZjhUVnNZeWR0S0R0a01CY251ZVVNc0xxc0FLWF94eVhhN1NVTy1WdmVaM2V0MnJKbTFTUjJJSVg4bzZaTzQ5WUpIOXhfY1h4NDZHUmNB?oc=5",
+        "tags": [
+          "Tages-Anzeiger"
         ]
       },
       {
@@ -471,26 +489,6 @@
         "publishedAt": "2026-04-09T07:00:00+00:00",
         "summary": "Wie KI-basierte Sortiertechnik Anlagenbrände verhindert K-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDZnb0xsZXItdHdOMU15d0Vtb0wzUXNOV0hMTWhyUmJNM0xWa0pPOU5uenRabFNZQm1lMkhuSjhnTG9ERVBhS2FoODAxalltMkFFbnR0dEkxcVZkUTZCZW1SSzFKMlY0SE9RT3MwcGRyMkc5NVFsQmRhUTM4aWpIMXBhUjl4MDIyOFE?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Licht-KI für effiziente Gebäude - buildingTIMES",
-        "source": "buildingTIMES",
-        "publishedAt": "2026-04-08T07:00:00+00:00",
-        "summary": "Licht-KI für effiziente Gebäude buildingTIMES",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUnp4ZHdrX0Q1Z0lMeHJLRFg1VG82Uy1ndzVCbTZiWWJMU1dxTUpSNnVlUlh2ZkU4NV9JOWxGYWM1SWlBMWlMdDIySVRXcXkzU2tiV0pENHVHSUdBQlBOU2VJZDZkZnNUSFN3VjhCV2tiOHZwN1ZxVkZTZw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
-        "source": "Stimme",
-        "publishedAt": "2026-04-06T07:00:00+00:00",
-        "summary": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen Stimme",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMXBlVXMzVHRncHF4N19oXy1EZjdnN2pKckVWejc5cGVkVWhfNUc2YVZkLTVxYkNhQlF2cFZ4VWtGcmx5cEdyaWNJUXNrM09yRGF0TzF0bmZDRTdySFNpa0pIdWdhbmFaUzBvV2pyMkY4NmJjSzdyb2dQVG1IYTUzM0QwczhBazhOeFFXai1TNXRVZDMxSG9rV0phM0RHVGY5eW15cmNYRzljelVGMXBFelVXYnVIN1hOaUZIemp2elgxakVpb01GM2hzazkyZnBuWVVDUVE2ZUU4Z3JFTVN6UGJ2VF82SkQ5N1hzZXVhaDBuOFl3NElyM0h3?oc=5",
         "tags": [
           "KI"
         ]
