@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T06:22:25.264220+00:00",
+  "generatedAt": "2026-05-13T09:23:48.298612+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -96,6 +96,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -115,29 +125,9 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
-      {
-        "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-05-08T14:45:00+00:00",
-        "summary": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
       {
         "title": "Austausch-Pflicht 2026: Für Millionen Rauchmelder läuft jetzt die Frist ab - CHIP",
         "source": "CHIP",
@@ -248,6 +238,16 @@
         "tags": [
           "Ei",
           "Pyrexx"
+        ]
+      },
+      {
+        "title": "OLG Frankfurt: Rauchmelderhersteller steht Schadensersatz von Stiftung Warentest zu - STERN.de",
+        "source": "STERN.de",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "OLG Frankfurt: Rauchmelderhersteller steht Schadensersatz von Stiftung Warentest zu STERN.de",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbkVyeDZRX1V0eHVHM3VFZVVUTmdidFQzNDExNVcwMjlFSEM0QmY5Um84cDlDd21FOXNTcUxvMkhuOXgxVjZLWks5Z0ZjVUh2b0d1TFRUcV9RWjZBY3A1aHh4TUdub0xrWG9jTWNLdnBCZnJOYjVuWWlyYU5PVXdfcDIzcWVyamVBTWh4YmdnbzVZekNPTG8zRjRSVWtsZlVRMHVEUVNLWWM2UmsxUTJKZFZqenQtSDdpbGNmUWlXY2E?oc=5",
+        "tags": [
+          "STERN.de"
         ]
       }
     ],
@@ -415,6 +415,16 @@
         ]
       },
       {
+        "title": "Technologische Wende im Brandschutz: Herausforderungen und Chancen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-07T17:43:51+00:00",
+        "summary": "Technologische Wende im Brandschutz: Herausforderungen und Chancen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXVqOV9VTlBTUVdiMGF4UFIwNE8xaTF0UEdRRFVDM0VmcWdKTkxxVDFhQW1GbWhLdUhzM2U0eVp4X3RBazl3S21admhza2ZzUzBucDdUVG81cGt5bnZlektYRTU2NjFGcm1MSU5JTXN4NVFQb1g3dHpVSUN5RlU2R0txNldsMDI3cjhFOHJMU2lBVkRzdkY1RDBwWG1HUQ?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
         "title": "Vernetzte Sicherheitssysteme erfordern mehr Kontrolle - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-05-07T06:30:00+00:00",
@@ -482,16 +492,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUJ3NjJqc1VWckhaLVQ3QjY5NUVoREpMM0pZdk14SkR4bkEyc3FWcnZMeDZTLUZqLVE2a1FJSHE3UVBiVUFtZkExXzh6SmhYRHhFWERyOS1FcTItWG5HZTNGMmFIaExWajZCMk9BVE1yVzIwUnlqOHJEQ3RMXzZnSUpTNXVlVG9DamhSMGRxRDlndFR4cTBZczlZOWdoSVk4N0FSQzJ3QlZ2RThpOWV5VTZiZHZGSEtIaUlodEZjQlhBMlhEM0dtWDJOOFVjNGRxUGRNUHl3WXdVR0FXY2l5SXF0cTNRQQ?oc=5",
         "tags": [
           "Rheinische Anzeigenblätter"
-        ]
-      },
-      {
-        "title": "«Wir dürfen kein einziges Gebäude mehr abreissen!» - Tages-Anzeiger",
-        "source": "Tages-Anzeiger",
-        "publishedAt": "2026-04-16T07:00:00+00:00",
-        "summary": "«Wir dürfen kein einziges Gebäude mehr abreissen!» Tages-Anzeiger",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkV2em1zTTE4N29MV19NWGEwWDJLc1hzemFUN21QNS1PdXFnamdMMnlUdTNvczRMMDhPR2FraXdJT2VvQ0xIOEQwcFNWeEFMMldMZ1RneXgyZjhUVnNZeWR0S0R0a01CY251ZVVNc0xxc0FLWF94eVhhN1NVTy1WdmVaM2V0MnJKbTFTUjJJSVg4bzZaTzQ5WUpIOXhfY1h4NDZHUmNB?oc=5",
-        "tags": [
-          "Tages-Anzeiger"
         ]
       }
     ]
