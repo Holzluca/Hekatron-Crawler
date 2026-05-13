@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T09:23:48.298612+00:00",
+  "generatedAt": "2026-05-13T11:39:08.447334+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,6 +129,16 @@
     ],
     "pfs": [
       {
+        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
+        "source": "giga.de",
+        "publishedAt": "2026-05-12T13:27:58+00:00",
+        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Austausch-Pflicht 2026: Für Millionen Rauchmelder läuft jetzt die Frist ab - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-05-08T07:00:00+00:00",
@@ -141,7 +151,7 @@
       {
         "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
         "source": "Teltarif.de",
-        "publishedAt": "2026-05-05T15:46:00+00:00",
+        "publishedAt": "2026-05-05T07:00:00+00:00",
         "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
         "tags": [
@@ -238,16 +248,6 @@
         "tags": [
           "Ei",
           "Pyrexx"
-        ]
-      },
-      {
-        "title": "OLG Frankfurt: Rauchmelderhersteller steht Schadensersatz von Stiftung Warentest zu - STERN.de",
-        "source": "STERN.de",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "OLG Frankfurt: Rauchmelderhersteller steht Schadensersatz von Stiftung Warentest zu STERN.de",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbkVyeDZRX1V0eHVHM3VFZVVUTmdidFQzNDExNVcwMjlFSEM0QmY5Um84cDlDd21FOXNTcUxvMkhuOXgxVjZLWks5Z0ZjVUh2b0d1TFRUcV9RWjZBY3A1aHh4TUdub0xrWG9jTWNLdnBCZnJOYjVuWWlyYU5PVXdfcDIzcWVyamVBTWh4YmdnbzVZekNPTG8zRjRSVWtsZlVRMHVEUVNLWWM2UmsxUTJKZFZqenQtSDdpbGNmUWlXY2E?oc=5",
-        "tags": [
-          "STERN.de"
         ]
       }
     ],
