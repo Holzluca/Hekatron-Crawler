@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T02:39:17.275396+00:00",
+  "generatedAt": "2026-05-13T06:22:25.264220+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,6 +129,16 @@
     ],
     "pfs": [
       {
+        "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-05-08T14:45:00+00:00",
+        "summary": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Austausch-Pflicht 2026: Für Millionen Rauchmelder läuft jetzt die Frist ab - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-05-08T07:00:00+00:00",
@@ -238,16 +248,6 @@
         "tags": [
           "Ei",
           "Pyrexx"
-        ]
-      },
-      {
-        "title": "Stiftung Warentest haftet für Folgen von fehlerhaftem Rauchmelder-Test - Capital.de",
-        "source": "Capital.de",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Stiftung Warentest haftet für Folgen von fehlerhaftem Rauchmelder-Test Capital.de",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSVBnUGRUY3FzY3ZWa0VfOUpaR050X3R0T0JtQ1UyTWtTWlJPb2M4a0s1T0FnR3lDUjQxNE1zS1pmQXBXd2R2Vm9MbC15ay1jS05nWktLbTZmSG5NOHhCZFhvaE9XcmIwcm95S0hNb1FWakNSZHg2V1V1VkRxNTNPcUp1QVJQaElhNTU2R25MeEdCWjB4U3M5aEVHenlvYUJrVXlSZGxsS0FvR2RyMGpEX2Fybnc5dDVQZXNQVFVoUzh0Vy1IcHc?oc=5",
-        "tags": [
-          "Capital.de"
         ]
       }
     ],
@@ -375,6 +375,16 @@
     ],
     "trends": [
       {
+        "title": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik - HaustechnikDialog",
+        "source": "HaustechnikDialog",
+        "publishedAt": "2026-05-12T22:00:18+00:00",
+        "summary": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik HaustechnikDialog",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczVzVmJDa2V1SHZkNFVPYVBnSWJrcm0tbk00VjNwYnMzSmprbXI4bHdmV0xHWjJVTEdjakI2NGRoOWhVNXpUcGRqdnFodW9TQl9UbWdEdmpLQUM3QVFxOXd0d3pzMkhjeHFycWE2aVJPT21sYWdpeWE5emJ1cmpaanVQZnJMVU94RHJqdTluYmNGYlJnTXA0cWQxSXRZWElSUHljMHUzS0VhOUxuRTZxZEtmaWdRRmNQcXZ6UQ?oc=5",
+        "tags": [
+          "Gebäudeautomation"
+        ]
+      },
+      {
         "title": "Honeywell-Aktie (US4385161066): Quantinuum-Börsengang eingeleitet - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-12T07:19:04+00:00",
@@ -400,16 +410,6 @@
         "publishedAt": "2026-05-08T09:58:00+00:00",
         "summary": "Herzogenrath: Brandschutz in Schulen trotz finanzieller Herausforderungen it boltwise",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEVHTWVDdEZfWjAzRVNCY2RidVdYX1lGM0xJSVNFTFMyQjlEY1B5cWpidEVKTHFscG5FdE1mbGtISWxZYVRFNFB4bDROZ2RjX3ZWMkQyUmRmaTZnZndfdHozeUJNNGZWdzBxYndLQVA3WGl3TV84YVpmT1dvTVhocmo2cmM3aE10eWRMNVplUXU1RmdKVlQwRUlkV05RNFZfbjM5RUVCcw?oc=5",
-        "tags": [
-          "it boltwise"
-        ]
-      },
-      {
-        "title": "Technologische Wende im Brandschutz: Herausforderungen und Chancen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-07T17:43:51+00:00",
-        "summary": "Technologische Wende im Brandschutz: Herausforderungen und Chancen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXVqOV9VTlBTUVdiMGF4UFIwNE8xaTF0UEdRRFVDM0VmcWdKTkxxVDFhQW1GbWhLdUhzM2U0eVp4X3RBazl3S21admhza2ZzUzBucDdUVG81cGt5bnZlektYRTU2NjFGcm1MSU5JTXN4NVFQb1g3dHpVSUN5RlU2R0txNldsMDI3cjhFOHJMU2lBVkRzdkY1RDBwWG1HUQ?oc=5",
         "tags": [
           "it boltwise"
         ]
@@ -485,13 +485,13 @@
         ]
       },
       {
-        "title": "Smarte Gebäudetechnik im Klinikum Stuttgart - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Smarte Gebäudetechnik im Klinikum Stuttgart elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkNxWTkxQTJQaFNlTVBSMEZDMV8xYnZLdVNfdGRPQ2Y2MzZIV01xQUgtY3RYS29hWnFZMHdxdVR6TUZfZmlqTF8yUFlnZFFNTWxCR1B4X1VjUngxNU9QRFhVbW1BUnNiYjkxcGlNUGY3aG9UUmM4R0FSeHl2NjVTTXJ3?oc=5",
+        "title": "«Wir dürfen kein einziges Gebäude mehr abreissen!» - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
+        "publishedAt": "2026-04-16T07:00:00+00:00",
+        "summary": "«Wir dürfen kein einziges Gebäude mehr abreissen!» Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRkV2em1zTTE4N29MV19NWGEwWDJLc1hzemFUN21QNS1PdXFnamdMMnlUdTNvczRMMDhPR2FraXdJT2VvQ0xIOEQwcFNWeEFMMldMZ1RneXgyZjhUVnNZeWR0S0R0a01CY251ZVVNc0xxc0FLWF94eVhhN1NVTy1WdmVaM2V0MnJKbTFTUjJJSVg4bzZaTzQ5WUpIOXhfY1h4NDZHUmNB?oc=5",
         "tags": [
-          "elektro.net"
+          "Tages-Anzeiger"
         ]
       }
     ]
