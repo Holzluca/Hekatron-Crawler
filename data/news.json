@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T11:39:08.447334+00:00",
+  "generatedAt": "2026-05-13T14:17:44.677530+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -159,6 +159,16 @@
         ]
       },
       {
+        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-30T07:00:00+00:00",
+        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
+        "tags": [
+          "SmarthomeAssistent"
+        ]
+      },
+      {
         "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-04-29T11:50:18+00:00",
@@ -237,17 +247,6 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR1pCVDJSSzlZQl9sdGNYRUtOMUJZZ1A0M0FCa1FkdXcwVnE3S0pTSUNsNVBNUmdDeVlzWkV6VEh4N2NLV0VNT2VGUE4zTEtQNjVMSEN6aWtMNGxCSDhWVGtFOUc3aEFmM0hjSExqS1Q0TjZ5YkNiV3dTdmtsUm1Zd2dWekZPS2EzbmttZHBhZ3FUTDVf?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0tPNFp0VjVPNDIyY3ItTndWZ1FFdjY4RnZQTFRkRWVwTjAxMnNlTXdtbm41ZnJqNUNMNGJtV2tuTURKaW9hOEJIZlZtZVNxQ0FOclJzLWo?oc=5",
-        "tags": [
-          "Ei",
-          "Pyrexx"
         ]
       }
     ],
