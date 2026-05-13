@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T14:17:44.677530+00:00",
+  "generatedAt": "2026-05-13T16:38:57.707592+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,13 +129,13 @@
     ],
     "pfs": [
       {
-        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
-        "source": "giga.de",
-        "publishedAt": "2026-05-12T13:27:58+00:00",
-        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
+        "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-05-08T14:45:00+00:00",
+        "summary": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
         "tags": [
-          "Bosch"
+          "Ei"
         ]
       },
       {
@@ -146,36 +146,6 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFJHQ3ZJMnI3LW5IUjNuc2hqdHp5Zlctb3VOcUQ2eHhabFhsS2o0b3FZU09HeFNHOFhaSWI3ejBlWHRiRklBYmZkdmNZdVdSVV9PLXJmTWo4b2xEX1NPSUV2S3hpX043aXA1UVByLVJFOV9uWEJoSGNDWkp1eGRvZWszWHJwR1BLdDdjaTg2bkRoZlZPbjkwRmJ1aWwtbGlkN1pPLTRkbllTTnF0bzRkOVF0cEpxQQ?oc=5",
         "tags": [
           "CHIP"
-        ]
-      },
-      {
-        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
-        "source": "Teltarif.de",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
-        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif.de",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T11:50:18+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -248,9 +218,60 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0tPNFp0VjVPNDIyY3ItTndWZ1FFdjY4RnZQTFRkRWVwTjAxMnNlTXdtbm41ZnJqNUNMNGJtV2tuTURKaW9hOEJIZlZtZVNxQ0FOclJzLWo?oc=5",
+        "tags": [
+          "Ei",
+          "Pyrexx"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest haftet für Folgen von fehlerhaftem Rauchmelder-Test - Capital.de",
+        "source": "Capital.de",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Stiftung Warentest haftet für Folgen von fehlerhaftem Rauchmelder-Test Capital.de",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSVBnUGRUY3FzY3ZWa0VfOUpaR050X3R0T0JtQ1UyTWtTWlJPb2M4a0s1T0FnR3lDUjQxNE1zS1pmQXBXd2R2Vm9MbC15ay1jS05nWktLbTZmSG5NOHhCZFhvaE9XcmIwcm95S0hNb1FWakNSZHg2V1V1VkRxNTNPcUp1QVJQaElhNTU2R25MeEdCWjB4U3M5aEVHenlvYUJrVXlSZGxsS0FvR2RyMGpEX2Fybnc5dDVQZXNQVFVoUzh0Vy1IcHc?oc=5",
+        "tags": [
+          "Capital.de"
+        ]
+      },
+      {
+        "title": "OLG Frankfurt: Rauchmelderhersteller steht Schadensersatz von Stiftung Warentest zu - STERN.de",
+        "source": "STERN.de",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "OLG Frankfurt: Rauchmelderhersteller steht Schadensersatz von Stiftung Warentest zu STERN.de",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbkVyeDZRX1V0eHVHM3VFZVVUTmdidFQzNDExNVcwMjlFSEM0QmY5Um84cDlDd21FOXNTcUxvMkhuOXgxVjZLWks5Z0ZjVUh2b0d1TFRUcV9RWjZBY3A1aHh4TUdub0xrWG9jTWNLdnBCZnJOYjVuWWlyYU5PVXdfcDIzcWVyamVBTWh4YmdnbzVZekNPTG8zRjRSVWtsZlVRMHVEUVNLWWM2UmsxUTJKZFZqenQtSDdpbGNmUWlXY2E?oc=5",
+        "tags": [
+          "STERN.de"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-13T15:53:00+00:00",
+        "summary": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVNpemJnUkZZNUdXcEFlRG9FSVZIZHJLLVh2eHNNNC1mel9JMDFGX2tEMHdPaDhTSXFmb1BxRTZXcFVWeW1OZzIyUDhtZkpYRmdyTy01TkQ0OXR0TTM2eUR3Q0Z0Z1JlVFBuN3FiaGxvZG5DbUVtLU1aX3F6ckZXLWNJX0Rnb1VnbVl4bXFOc3RNb0M2WVlZYlFvN3QtLUdZTGVMMVYtWEhkZEhmR0lYd1BBX0NOV0tZN2gzSlNUMG00Ujg?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-13T13:20:32+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -350,29 +371,19 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-02-13T08:00:00+00:00",
-        "summary": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
-        "tags": [
-          "GEZE"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Digitalisierung im Brandschutz - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-05-13T14:28:00+00:00",
+        "summary": "Digitalisierung im Brandschutz elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXRvTzRYMVhTclhteDRlX1pPaDh6cGtBWXVhRmlhWjNONkdEUzA2UHdnQV9yalQtU05JM294cGZFRzZmUWg0b0RmbEs2REZYZ3hVMGFkTV9zeDM0SkNwRWlRTkhFZWEwUjJ3NlJla2pEVUxVLTFGSk1paTRqakZLQ29SVTVhT2tjWkpSa2VxYTRtY1JIOXBMdUE1NzB4b1RuZVBNOGU2RlAxRXhXOW8yb2ZSRQ?oc=5",
+        "tags": [
+          "elektro.net"
+        ]
+      },
       {
         "title": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik - HaustechnikDialog",
         "source": "HaustechnikDialog",
@@ -474,23 +485,13 @@
         ]
       },
       {
-        "title": "Brandschutz im Wandel: Neue Technologien und Herausforderungen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-04-18T07:00:00+00:00",
-        "summary": "Brandschutz im Wandel: Neue Technologien und Herausforderungen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUWVMS01NYnN5WkRmc01wejdUWUJXSERnNnZIcllrNnY3WWh5bHBtd0ZQYmFjUUFoSW1SYlNfWnFQdEhrSFpSbEpub2NqVm5WZ1JSYUZkWnFFYUtnTnVTX05CSGJXV0J1OTVYZXBLa3VDMDZ5Q2VCeExTVjFGaFEyNF9idzFEWEtjcUpneG10UFJTY0tXTUlWTQ?oc=5",
+        "title": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße - kreiszeitung-wochenblatt.de",
+        "source": "kreiszeitung-wochenblatt.de",
+        "publishedAt": "2026-04-25T07:00:00+00:00",
+        "summary": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße kreiszeitung-wochenblatt.de",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUhoM2hUYW9tb3hTLXZzU2ZzM21UZ0tDcjhRa2UyVkpHYnpiUW1WNXU1eEpjTHRrYjJQV090dnFTVUpDYjdKODREQy0xRG1mS0NvbnM0VG5vemhWZ2szNUI0a2F5UkpoRVlVdmNaR19jZVV1QmNxUENjdEJTRmFmaG4xRWhHc0k3MkNVUGI1ZnpQd1dIMzY3Q3VIeVNMdzhkVjM4eEpIVG9UWGhTR2RYMUJrWkdxOFZ2WUlB?oc=5",
         "tags": [
-          "it boltwise"
-        ]
-      },
-      {
-        "title": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab - Rheinische Anzeigenblätter",
-        "source": "Rheinische Anzeigenblätter",
-        "publishedAt": "2026-04-16T07:00:00+00:00",
-        "summary": "Großeinsatz in Köln-Meschenich: Schüsse gemeldet, Straßen gesperrt - Polizei riegelt Gebäude weiträumig ab Rheinische Anzeigenblätter",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUJ3NjJqc1VWckhaLVQ3QjY5NUVoREpMM0pZdk14SkR4bkEyc3FWcnZMeDZTLUZqLVE2a1FJSHE3UVBiVUFtZkExXzh6SmhYRHhFWERyOS1FcTItWG5HZTNGMmFIaExWajZCMk9BVE1yVzIwUnlqOHJEQ3RMXzZnSUpTNXVlVG9DamhSMGRxRDlndFR4cTBZczlZOWdoSVk4N0FSQzJ3QlZ2RThpOWV5VTZiZHZGSEtIaUlodEZjQlhBMlhEM0dtWDJOOFVjNGRxUGRNUHl3WXdVR0FXY2l5SXF0cTNRQQ?oc=5",
-        "tags": [
-          "Rheinische Anzeigenblätter"
+          "kreiszeitung-wochenblatt.de"
         ]
       }
     ]
