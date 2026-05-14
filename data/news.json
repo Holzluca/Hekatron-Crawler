@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T08:06:28.077735+00:00",
+  "generatedAt": "2026-05-14T10:41:21.944624+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -117,13 +117,14 @@
         ]
       },
       {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "title": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXlOYlV0SWFpRGhneHBWTWhwbU1VOVl6TVZIdXNnMU5fQjdIOHk3YlRqNTQ0NE9mYWRXYmg0UTY5OG9oVXpQNDVxQWtQcGl4LXlaLUdXMEtvTHp3b2cwOVVlM0Z3VUdWZnVwYTl6REpKdFFVbkZjTDIwcktQWnhFeTNBQ0NfOGhmdFcwYlUxWjh0WmRqbnNhR0w5d09HbEhCTlNjcWJR?oc=5",
         "tags": [
-          "Siemens"
+          "Bosch",
+          "Brandschutz"
         ]
       }
     ],
@@ -303,16 +304,6 @@
         ]
       },
       {
-        "title": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum - simplywall.st",
-        "source": "simplywall.st",
-        "publishedAt": "2026-04-02T07:00:00+00:00",
-        "summary": "Der Bullenfall für Apollo Global Management (APO) könnte sich nach der Verschiebung des Ruhestandseintritts und dem Ausstieg von Intel ändern - erfahren Sie warum simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTzd0b3l2WVhyZkZmcmZORC13U1I5cloxdzJTRG4wd2F4dWRIUlJxbW9XY2RSZXYyM2hFMnNYXzlZOVR6VWt0VURBNEVJSTItS2tmYXU0UDhqMVlheVVMZ3oyOEVxcHI1RVp0SElqUlluMFV3SWVQRDJSVHMtdTZnbjlTeXpyaW0tN2cyVjZlMmt5MHJNTmRWRm4wclp0MVZjeS1CNlpJajVEYk5Fb2ZQZVRsa0d5V3gxdXlmMDZXZzJUeVN0VUd3VzNLMGhNa0hEMDB6NW9OUi1INUdXUXluTHEzci1HRklqYXBuWkQ5dEbSAfYBQVVfeXFMT2tXZzRjNFc5M2JSSHg4a3plQU5GU0E1RFRSeTAwc2hxVHVJWEw4ZkhBM0xlaHlGTHY2Sjh0WlJkd3J5dm9GcnQ1aDBjWUdaUTAwc0p0Z19qdEF0bzBEejhYdFczcURPM3M3Q3h5eGFIX2MwWGVLWmJJUTZsaVoxZU1fdlFHY2NqRWZwdFRKVzgzWVZ6UnlHQkpsUHktWTJOR2NKaXJTOWxvUXV1aGQ0aktTQ2FBQ3hCZmViTkdweVpNYVltdWdETWYtRHFXYl8tSEpNenY2eW4yUTV5bWhPNFBxV2Q5RFZ0U0hBdjQwYWNPbGhvM0pB?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-03-06T08:00:00+00:00",
@@ -320,6 +311,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
         "tags": [
           "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
         ]
       },
       {
@@ -405,6 +406,26 @@
         ]
       },
       {
+        "title": "München testet Materialkataster für Gebäude - immobilienmanager",
+        "source": "immobilienmanager",
+        "publishedAt": "2026-05-11T07:14:22+00:00",
+        "summary": "München testet Materialkataster für Gebäude immobilienmanager",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGN1RDlHWXBtTzdqRXlyZW83SkRCRlFPdkZmTXRTSm1LR3M3Y3BLeHlFamUyTW1NRVNQSER0UTdVSE1WY0NXSG5mQkZHYXVfblJYQW5nSjY0clJvakgwRWNySUg3UkdMWnNnSnIzdGNpWUV3Q3ptQXNweWZVUDcxYjlVck9MaGgwY0dkVVN5SDNFQQ?oc=5",
+        "tags": [
+          "immobilienmanager"
+        ]
+      },
+      {
+        "title": "Brandschutz in Kitas: Herausforderungen und Lösungen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-10T07:40:51+00:00",
+        "summary": "Brandschutz in Kitas: Herausforderungen und Lösungen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV0lNalZLOHc2SC1KV3R4TVBMdGdFUHc0eDdzOFVZZm5ydFA2Y1lJUWlUd1RNcWR2RlBic29iUDVFMWRlaVBOSzBsb1BCMUY0OGpxc2k2d2lDOWN5TWxxNk9uUkVTSHRTcVN1V2E4N2RydjhUNnNBVXU0Vk5UTC1qZldLYjlEWXdQRUtTUA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Fachkräftemangel im Brandschutz: Sicherheitsstandards in Gefahr - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-05-08T19:51:51+00:00",
@@ -472,26 +493,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1JZbEpkZE1iYnNzOGxDMm9IWHN0RGxNUXhZam5UN1cyMVc2emprUXdyNFM3WUcxTExESjJMSkEzdWpwRGZKU3lZbjhZTVpvY25RZGRpdTZJbjlrd1VUeEl1T3J6NUdKQ1dSS3N6WndfbXBzVWE5TEE1dnpKWEJPYkNnNk9CUXFEMjA4TEZjSzZDRG1WNXM3ZmRJWEc5SFJiaTVEelB0ZjFhcHgxSG9TdzN6VFJ2NTdRU0NvUlBtTGNjNVVjdjgxbnZ0WHhSRmpzZzdPWg?oc=5",
         "tags": [
           "Schwäbische Post"
-        ]
-      },
-      {
-        "title": "Matthias Hollwich: Wie KI die Architektur ändert - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-27T07:00:00+00:00",
-        "summary": "Matthias Hollwich: Wie KI die Architektur ändert FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNVk0MHp0a2s1c0ZVS0RjRG0tWjl0N09tZzJqTmtNSGE1VWFuUzloTWpuM3g3X3ZVU1YyeG5TS3hhZzE1bmFZa2ZLMldsQm1sZkxwS29SaFhMZTViSTh0NThycm14U2ZiYXI1RDdicFgzZWFVWlRoekFLX1pXSHNIOWRuemIxNUdKQm5Rb1hVbEtwRE5nUzdpbTRUSlJqM0tONFVoN1BvV3QxNWxNSWNhR05UTkJPZEZVUXBZZFVRRElGLXFzdEJSX0RrTm5lY2ViakVnMA?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße - kreiszeitung-wochenblatt.de",
-        "source": "kreiszeitung-wochenblatt.de",
-        "publishedAt": "2026-04-25T07:00:00+00:00",
-        "summary": "Kupferdiebstahl in Hammah: Täter stehlen Dachrinnen an Gebäude in der Bahnhofstraße kreiszeitung-wochenblatt.de",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUhoM2hUYW9tb3hTLXZzU2ZzM21UZ0tDcjhRa2UyVkpHYnpiUW1WNXU1eEpjTHRrYjJQV090dnFTVUpDYjdKODREQy0xRG1mS0NvbnM0VG5vemhWZ2szNUI0a2F5UkpoRVlVdmNaR19jZVV1QmNxUENjdEJTRmFmaG4xRWhHc0k3MkNVUGI1ZnpQd1dIMzY3Q3VIeVNMdzhkVjM4eEpIVG9UWGhTR2RYMUJrWkdxOFZ2WUlB?oc=5",
-        "tags": [
-          "kreiszeitung-wochenblatt.de"
         ]
       }
     ]
