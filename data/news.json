@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T20:50:54.138841+00:00",
+  "generatedAt": "2026-05-14T22:05:05.449731+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -96,6 +96,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -112,16 +122,6 @@
         "publishedAt": "2026-02-10T08:00:00+00:00",
         "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -146,16 +146,6 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFJHQ3ZJMnI3LW5IUjNuc2hqdHp5Zlctb3VOcUQ2eHhabFhsS2o0b3FZU09HeFNHOFhaSWI3ejBlWHRiRklBYmZkdmNZdVdSVV9PLXJmTWo4b2xEX1NPSUV2S3hpX043aXA1UVByLVJFOV9uWEJoSGNDWkp1eGRvZWszWHJwR1BLdDdjaTg2bkRoZlZPbjkwRmJ1aWwtbGlkN1pPLTRkbllTTnF0bzRkOVF0cEpxQQ?oc=5",
         "tags": [
           "CHIP"
-        ]
-      },
-      {
-        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
-        "source": "Teltarif.de",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
-        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif.de",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -211,6 +201,16 @@
         ]
       },
       {
+        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
+        "source": "Berliner Morgenpost",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Berliner Firma gewinnt gegen Stiftung Warentest vor Gericht - Berliner Kurier",
         "source": "Berliner Kurier",
         "publishedAt": "2026-04-24T07:00:00+00:00",
@@ -231,16 +231,6 @@
         ]
       },
       {
-        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-04-23T07:00:00+00:00",
@@ -248,6 +238,16 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
         "tags": [
           "Spiegel"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -323,6 +323,16 @@
         ]
       },
       {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
         "title": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token - Cryptonews.net",
         "source": "Cryptonews.net",
         "publishedAt": "2026-02-16T08:00:00+00:00",
@@ -338,16 +348,6 @@
         "publishedAt": "2026-02-15T08:00:00+00:00",
         "summary": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal CoinDesk",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-02-13T08:00:00+00:00",
-        "summary": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
         "tags": [
           "Apollo"
         ]
