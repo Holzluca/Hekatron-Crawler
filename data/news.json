@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T19:02:44.146960+00:00",
+  "generatedAt": "2026-05-15T20:39:04.899963+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -242,13 +242,13 @@
         ]
       },
       {
-        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
-        "source": "WELT",
+        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
+        "source": "Berliner Morgenpost",
         "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
+        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
         "tags": [
-          "WELT"
+          "Ei"
         ]
       }
     ],
@@ -259,16 +259,6 @@
         "publishedAt": "2026-05-13T15:53:00+00:00",
         "summary": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVNpemJnUkZZNUdXcEFlRG9FSVZIZHJLLVh2eHNNNC1mel9JMDFGX2tEMHdPaDhTSXFmb1BxRTZXcFVWeW1OZzIyUDhtZkpYRmdyTy01TkQ0OXR0TTM2eUR3Q0Z0Z1JlVFBuN3FiaGxvZG5DbUVtLU1aX3F6ckZXLWNJX0Rnb1VnbVl4bXFOc3RNb0M2WVlZYlFvN3QtLUdZTGVMMVYtWEhkZEhmR0lYd1BBX0NOV0tZN2gzSlNUMG00Ujg?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-13T13:20:32+00:00",
-        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -372,6 +362,16 @@
         "tags": [
           "Handelsblatt"
         ]
+      },
+      {
+        "title": "Über einen Monat nach Louvre-Diebstahl: Zwei weitere Verdächtige verhaftet - Frankfurter Rundschau",
+        "source": "Frankfurter Rundschau",
+        "publishedAt": "2025-11-28T08:00:00+00:00",
+        "summary": "Über einen Monat nach Louvre-Diebstahl: Zwei weitere Verdächtige verhaftet Frankfurter Rundschau",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTBEWXQzRzhuaTZKc252cEJwVzdGZkFBYUFTdWhBbmhzd2txaU9wZ0s3ZGx3aXdpNXFBdXVmWDhaT3N6bXk5YkZiLXBqY2FDR3phU01hYi1veF9KNFF1Uy1ESW1GQ2w0ME1IY01sQ0VLeHppcjR6TWQteHAtUi1DUklFdTNOYk9TSEZvQ2RoQXVDdzQ4MFgwaFpDNlFyYnZxZFpURlZwZ3JydjhXWHM2OUxhVGVWRGNKQXFzQ2FUb05na0JUM2Z1NWZoNkZvd2R4NGM4MFpSakdSbDg?oc=5",
+        "tags": [
+          "Frankfurter Rundschau"
+        ]
       }
     ],
     "trends": [
@@ -403,6 +403,16 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczVzVmJDa2V1SHZkNFVPYVBnSWJrcm0tbk00VjNwYnMzSmprbXI4bHdmV0xHWjJVTEdjakI2NGRoOWhVNXpUcGRqdnFodW9TQl9UbWdEdmpLQUM3QVFxOXd0d3pzMkhjeHFycWE2aVJPT21sYWdpeWE5emJ1cmpaanVQZnJMVU94RHJqdTluYmNGYlJnTXA0cWQxSXRZWElSUHljMHUzS0VhOUxuRTZxZEtmaWdRRmNQcXZ6UQ?oc=5",
         "tags": [
           "Gebäudeautomation"
+        ]
+      },
+      {
+        "title": "Neu­stadt star­tet kos­ten­lo­se Vor­trags­rei­he zu Nach­hal­tig­keit - Die Rheinpfalz",
+        "source": "Die Rheinpfalz",
+        "publishedAt": "2026-05-12T11:15:00+00:00",
+        "summary": "Neu­stadt star­tet kos­ten­lo­se Vor­trags­rei­he zu Nach­hal­tig­keit Die Rheinpfalz",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVW9ZZEFNMkxnLXZQODgyYnhubGpHYTFiQWpkaHFSbXlIcENoTHhUSnlXbnBfVXhZUnl6WW1acHVQbTJ2Y0FmQjl1dDF1ZU40UEgtUzZDSVBKRXBqS2JfQkRoZVlJUkpqQmQ5bzF0WWh3U005Z3VqbXY3RlEyRW40R0RLQ1FPbFVfLWczbERLakE5bmJVUDg2c0NQZ1FsLUZ3aXdUYVpCdEFaVWN4ZzMzWVpZMVVUR0lIZENCZ0NBOVJ2NGF5Ukln?oc=5",
+        "tags": [
+          "Die Rheinpfalz"
         ]
       },
       {
@@ -483,16 +493,6 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0lVTjdyOFZGQTRzLW9jRVFPZ3RXb1lVS1JiMUNuZVNQdmtvRk0za0xyTDlmcVRON2ZDaXJzdlljcW4xVWNHRDV4Q3hFWnktdGMybkl2TGtzWE9OZHU0eVlNRjdYTFJWaEowV0RMTzQtS0dnX3FRNGpxNm9SSTlUMHpJZ0o1MDZNbnhCcmV3?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-05T07:58:27+00:00",
-        "summary": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3cyR2RFbFF1cEFSLVZzTDBjcFpidUFSLUsyZURUcHdURmdCdldJMVpKcFJDYzJZOEZraF9mZ3JsR0NrdkdPdFJkeVlheTQ5dzJCYXlpNFpLSE5hVmw3ZDY0QnZzU0FFWGhySW0xZ2t2c2dHUTh3d01kY3JQeGZHUUNxWm1wWDVLOXY4bmI0TlF1eEhOeEd5Z3lvbi1EdkZhOFlRSW51RE5rNk9SUVc5akJRTnlYU2R3Wnh3?oc=5",
-        "tags": [
-          "Normen"
         ]
       }
     ]
