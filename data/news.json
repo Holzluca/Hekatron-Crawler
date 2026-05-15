@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T12:28:35.240290+00:00",
+  "generatedAt": "2026-05-15T15:01:06.801340+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,6 +21,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -115,29 +125,9 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-01-24T08:00:00+00:00",
-        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
-        "tags": [
-          "Netzwelt"
-        ]
       }
     ],
     "pfs": [
-      {
-        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
-        "source": "giga.de",
-        "publishedAt": "2026-05-12T13:27:58+00:00",
-        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
       {
         "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
         "source": "Caschys Blog",
@@ -159,33 +149,12 @@
         ]
       },
       {
-        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
-        "source": "Teltarif.de",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
-        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif.de",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-30T07:00:00+00:00",
         "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
         "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt - stuttgarter-nachrichten.de",
-        "source": "stuttgarter-nachrichten.de",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt stuttgarter-nachrichten.de",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRWMwQkUtWi02UWpVRFRmVTlicVd4TE1WWkM1cFUyVGIteTRmR2p3MGd0MW1vc3Ayb1FOZVU0SlRGeFZDRm9Jbm56d3FUUFNTYVRISEVXbGh6Mmp2N2VHTUJ1NVllWFNuZlRaWVMtSzlQYm82aHBVbW9NLUtmdTdOLUMtWE9vSlVGMXBIZk9VUUU0NlVPd3JCSEVjLXRwWWVUYlRpc3M4WExSNWtxYkZOM1J0ZV9BRTVCbmMyWXZYelZCbGdvRE5WYmVXUmtOVVR0N2ZwVmVHRGpCaGlMR1pMeE5zazMtd2R1MVVGWTR6TUJ6WENrRzRGN1VrdnRYSDZaZkoxU0V4T29qOVJES0N2cVI1M3JWczgwbVFVT2gtTlo?oc=5",
-        "tags": [
-          "Ei",
           "Bosch"
         ]
       },
@@ -247,6 +216,36 @@
         "publishedAt": "2026-04-24T07:00:00+00:00",
         "summary": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest Berliner Kurier",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGgyNDhFd3N5UGFvX1RSR1ZsLWhab3MzcU1FWElGX2FCVVFBTHBQQm5OOC1YTjB2ZHdWX0kyazJuRFhDcmY3ZXhiekZLVXBQOWw5NklHZmRET0hONXRrV1FidjRKdzRTOTFOYUxELWZDX3luaVpIT29RLW5EaTlfQ3kyVmJfX0RZY2FMNVUxbVJ3WkxJZFhrOEJhT2pJMjk0TFN5VlV2VENzTUxpTm44bGV6TUQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
+        "source": "WELT",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
+        "tags": [
+          "WELT"
+        ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
         "tags": [
           "Ei"
         ]
@@ -314,16 +313,6 @@
         ]
       },
       {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
         "title": "US-Vermögensverwalter Apollo sichert sich 9% aller MORPHO-Token - Cryptonews.net",
         "source": "Cryptonews.net",
         "publishedAt": "2026-02-16T08:00:00+00:00",
@@ -371,6 +360,16 @@
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTBEWXQzRzhuaTZKc252cEJwVzdGZkFBYUFTdWhBbmhzd2txaU9wZ0s3ZGx3aXdpNXFBdXVmWDhaT3N6bXk5YkZiLXBqY2FDR3phU01hYi1veF9KNFF1Uy1ESW1GQ2w0ME1IY01sQ0VLeHppcjR6TWQteHAtUi1DUklFdTNOYk9TSEZvQ2RoQXVDdzQ4MFgwaFpDNlFyYnZxZFpURlZwZ3JydjhXWHM2OUxhVGVWRGNKQXFzQ2FUb05na0JUM2Z1NWZoNkZvd2R4NGM4MFpSakdSbDg?oc=5",
         "tags": [
           "Frankfurter Rundschau"
+        ]
+      },
+      {
+        "title": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe - WELT",
+        "source": "WELT",
+        "publishedAt": "2025-11-19T08:00:00+00:00",
+        "summary": "„Jegliche operative Funktion niedergelegt“ – Wolfram Weimer wehrt sich gegen Vorwürfe WELT",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWxDRmIzLXFXNlFzZXUtaE51aDV1NGxFQnRDSHRsMlFhbVhoWmVydl8yVEUyUE9Wc1NkQlJTZGJuaFFNRm1uaks3M3hRUWV3ZG94X2dXZ0RiVHNDdHFod2pOamU5Y3N0VTlWQkRLOTZYbU5zVnZFcmNfU0VOSWwybzkxenVrM2gzWHF0b0ZwdmdHcDdCZGQxaTZ0bS1lTEI3RUJySk1zRUlMam14dDRVMEYyY0paZVVQN2J2ZTlWd3JWcklQTms4b2YtT0NuY3loWFJiR0w4ek5QUHA1ZFAxd3kyVU8tY0RKbGY1UE1tck5SQWdONXJITWF6cExlWE01ZUhGeFgzcjgzcXg1?oc=5",
+        "tags": [
+          "WELT"
         ]
       }
     ],
