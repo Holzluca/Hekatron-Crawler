@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T22:50:06.527583+00:00",
+  "generatedAt": "2026-05-15T23:51:35.741217+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -96,6 +96,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -112,16 +122,6 @@
         "publishedAt": "2026-02-10T08:00:00+00:00",
         "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -375,16 +375,6 @@
     ],
     "trends": [
       {
-        "title": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-14T11:48:00+00:00",
-        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFkxa0JrNTVFVTJvM3R4Nlg1WGF0Wk5FelBaWG45WHVvQ2R3eVluYjdYbHV1QkxvTU4tTWs3bjBvWmx6R2M2OEpGT3NWYWRQSFBKOXViQkxreC1PVDlFNVJkVnlFVWtVTGhYZEVJLVdXY2xTNFBkWDQ1U05oVEUtdk5PcmVOMS01QVNSbXg2TWpLQklHMjhldV9GSklsaGtUVkRfMkdHcEp6R2hjQmIza2Z4VVllRDRTNDgwVlpCaTh1UmNiYVE?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
         "title": "Digitalisierung im Brandschutz - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-05-13T14:28:00+00:00",
@@ -395,16 +385,6 @@
         ]
       },
       {
-        "title": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik - HaustechnikDialog",
-        "source": "HaustechnikDialog",
-        "publishedAt": "2026-05-12T22:00:18+00:00",
-        "summary": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik HaustechnikDialog",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczVzVmJDa2V1SHZkNFVPYVBnSWJrcm0tbk00VjNwYnMzSmprbXI4bHdmV0xHWjJVTEdjakI2NGRoOWhVNXpUcGRqdnFodW9TQl9UbWdEdmpLQUM3QVFxOXd0d3pzMkhjeHFycWE2aVJPT21sYWdpeWE5emJ1cmpaanVQZnJMVU94RHJqdTluYmNGYlJnTXA0cWQxSXRZWElSUHljMHUzS0VhOUxuRTZxZEtmaWdRRmNQcXZ6UQ?oc=5",
-        "tags": [
-          "Gebäudeautomation"
-        ]
-      },
-      {
         "title": "Neu­stadt star­tet kos­ten­lo­se Vor­trags­rei­he zu Nach­hal­tig­keit - Die Rheinpfalz",
         "source": "Die Rheinpfalz",
         "publishedAt": "2026-05-12T11:15:00+00:00",
@@ -412,16 +392,6 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVW9ZZEFNMkxnLXZQODgyYnhubGpHYTFiQWpkaHFSbXlIcENoTHhUSnlXbnBfVXhZUnl6WW1acHVQbTJ2Y0FmQjl1dDF1ZU40UEgtUzZDSVBKRXBqS2JfQkRoZVlJUkpqQmQ5bzF0WWh3U005Z3VqbXY3RlEyRW40R0RLQ1FPbFVfLWczbERLakE5bmJVUDg2c0NQZ1FsLUZ3aXdUYVpCdEFaVWN4ZzMzWVpZMVVUR0lIZENCZ0NBOVJ2NGF5Ukln?oc=5",
         "tags": [
           "Die Rheinpfalz"
-        ]
-      },
-      {
-        "title": "Honeywell-Aktie (US4385161066): Quantinuum-Börsengang eingeleitet - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-12T07:19:04+00:00",
-        "summary": "Honeywell-Aktie (US4385161066): Quantinuum-Börsengang eingeleitet AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnFXczRFV01yTVNZZUpIMmpQU2xoeTFCS2lsWkZsUUFaX2hqa29rZ0JaU21YOEsyOEVYQVltbTRFTlpNTHhYOXg0LWhmMHdUUVlIOHAzY2NJUnNqQnhFU2E0bnFKUmNtTzd2b3MwQVBCbGFPek9SV1lRd3BCNjdYd2laQ1RjM3o0elFiNmhHSGpXZFJTbXR3UjVldUZ1UUY5eE14eF9CbUlMV1FzdTVLaEltcWxDbmNHQWdrQ3ctaw?oc=5",
-        "tags": [
-          "AD HOC NEWS"
         ]
       },
       {
@@ -492,6 +462,36 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0lVTjdyOFZGQTRzLW9jRVFPZ3RXb1lVS1JiMUNuZVNQdmtvRk0za0xyTDlmcVRON2ZDaXJzdlljcW4xVWNHRDV4Q3hFWnktdGMybkl2TGtzWE9OZHU0eVlNRjdYTFJWaEowV0RMTzQtS0dnX3FRNGpxNm9SSTlUMHpJZ0o1MDZNbnhCcmV3?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-05T07:58:27+00:00",
+        "summary": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3cyR2RFbFF1cEFSLVZzTDBjcFpidUFSLUsyZURUcHdURmdCdldJMVpKcFJDYzJZOEZraF9mZ3JsR0NrdkdPdFJkeVlheTQ5dzJCYXlpNFpLSE5hVmw3ZDY0QnZzU0FFWGhySW0xZ2t2c2dHUTh3d01kY3JQeGZHUUNxWm1wWDVLOXY4bmI0TlF1eEhOeEd5Z3lvbi1EdkZhOFlRSW51RE5rNk9SUVc5akJRTnlYU2R3Wnh3?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
+        "title": "Aareon bietet Cloud-Lösung für KI - Der Facility Manager",
+        "source": "Der Facility Manager",
+        "publishedAt": "2026-04-30T12:15:26+00:00",
+        "summary": "Aareon bietet Cloud-Lösung für KI Der Facility Manager",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUk9OWWFEd0g2bkJZdENRSjhocnJ4dzkyOExRMGg4WW9QcWRMT25odUdzODJmWEZhelhfdndycjNxNnJyalBIVFFFeGVUWUoxTFBTdERYSkIybGVPb1lTdE40aHpUSWMtWEU0YVoyQjV4OGJ3bGtmODcxNVNlZ2xubjhMa0c?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Matthias Hollwich: Wie KI die Architektur ändert - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Matthias Hollwich: Wie KI die Architektur ändert FAZ",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNVk0MHp0a2s1c0ZVS0RjRG0tWjl0N09tZzJqTmtNSGE1VWFuUzloTWpuM3g3X3ZVU1YyeG5TS3hhZzE1bmFZa2ZLMldsQm1sZkxwS29SaFhMZTViSTh0NThycm14U2ZiYXI1RDdicFgzZWFVWlRoekFLX1pXSHNIOWRuemIxNUdKQm5Rb1hVbEtwRE5nUzdpbTRUSlJqM0tONFVoN1BvV3QxNWxNSWNhR05UTkJPZEZVUXBZZFVRRElGLXFzdEJSX0RrTm5lY2ViakVnMA?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
