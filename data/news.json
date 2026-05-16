@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T16:52:59.891497+00:00",
+  "generatedAt": "2026-05-16T17:51:50.092675+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -151,16 +151,6 @@
         ]
       },
       {
-        "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-05-08T14:45:00+00:00",
-        "summary": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-30T07:00:00+00:00",
@@ -250,6 +240,16 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
         "tags": [
           "Spiegel"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -377,6 +377,16 @@
     ],
     "trends": [
       {
+        "title": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme - BornCity",
+        "source": "BornCity",
+        "publishedAt": "2026-05-16T17:29:03+00:00",
+        "summary": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme BornCity",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-14T11:48:00+00:00",
@@ -484,16 +494,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3cyR2RFbFF1cEFSLVZzTDBjcFpidUFSLUsyZURUcHdURmdCdldJMVpKcFJDYzJZOEZraF9mZ3JsR0NrdkdPdFJkeVlheTQ5dzJCYXlpNFpLSE5hVmw3ZDY0QnZzU0FFWGhySW0xZ2t2c2dHUTh3d01kY3JQeGZHUUNxWm1wWDVLOXY4bmI0TlF1eEhOeEd5Z3lvbi1EdkZhOFlRSW51RE5rNk9SUVc5akJRTnlYU2R3Wnh3?oc=5",
         "tags": [
           "Normen"
-        ]
-      },
-      {
-        "title": "Crawl, Walk, Run: KI-gestützte Gebäude - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-05-02T18:13:37+00:00",
-        "summary": "Crawl, Walk, Run: KI-gestützte Gebäude Siemens",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjR2cG5pQ25hUEpJZUZYRl9ock5nbUY0WmNGbV9IVnltVWpsUEhUWlBYZW05M1M3TWx2MkpMX0FTbzZ5OExGZEw1d0U5dEQwMy0zNlpMN1h6Vmp5a2s1Q0NlOU1ZT0lnRU4xV05DV0p2d1JDTjVpN2pvQWoyeXNmT3FTNUUtbk5EbWNHTGtJZW5GMG8teWZZMU40T1FjQUxJYU5LOQ?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
