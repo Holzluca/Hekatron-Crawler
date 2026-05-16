@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T05:40:03.522976+00:00",
+  "generatedAt": "2026-05-16T07:55:46.695741+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -130,6 +130,26 @@
     ],
     "pfs": [
       {
+        "title": "Für Millionen Rauchmelder läuft die Frist 2026 ab - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-05-14T07:00:00+00:00",
+        "summary": "Für Millionen Rauchmelder läuft die Frist 2026 ab CHIP",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUG5nSWpWT3dyZnVuVVE1Rm1Ja3E5QWh6cnFLU3ZNUi1halM0T25Ha2hSeUpCZkxTNXI2TFZLcEloNS16TnFnQmVPbXFiX0JOYUJ1VDROQW9CeEdqZkZ4NGFxanN0dWtURHRpb1VRUEg0U2M1QmRDQmJfM3BNVVJSSUVSclBnNWdfeFdjSTNQRDIyREJzVUE?oc=5",
+        "tags": [
+          "CHIP"
+        ]
+      },
+      {
+        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
+        "source": "giga.de",
+        "publishedAt": "2026-05-12T13:27:58+00:00",
+        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-05-08T14:45:00+00:00",
@@ -140,13 +160,13 @@
         ]
       },
       {
-        "title": "Austausch-Pflicht 2026: Für Millionen Rauchmelder läuft jetzt die Frist ab - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Austausch-Pflicht 2026: Für Millionen Rauchmelder läuft jetzt die Frist ab CHIP",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFJHQ3ZJMnI3LW5IUjNuc2hqdHp5Zlctb3VOcUQ2eHhabFhsS2o0b3FZU09HeFNHOFhaSWI3ejBlWHRiRklBYmZkdmNZdVdSVV9PLXJmTWo4b2xEX1NPSUV2S3hpX043aXA1UVByLVJFOV9uWEJoSGNDWkp1eGRvZWszWHJwR1BLdDdjaTg2bkRoZlZPbjkwRmJ1aWwtbGlkN1pPLTRkbllTTnF0bzRkOVF0cEpxQQ?oc=5",
+        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
+        "source": "Teltarif.de",
+        "publishedAt": "2026-05-05T07:00:00+00:00",
+        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif.de",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
         "tags": [
-          "CHIP"
+          "Ei"
         ]
       },
       {
@@ -229,26 +249,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
         "tags": [
           "WELT"
-        ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
-        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
-        "source": "Tages-Anzeiger",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
