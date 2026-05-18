@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-05-18T13:40:51.999766+00:00",
+  "generatedAt": "2026-05-18T16:44:37.608587+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Rauchmelder Test 2026: Unser Testsieger kann sogar sprechen - home&smart",
-        "source": "home&smart",
-        "publishedAt": "2026-05-11T13:10:20+00:00",
-        "summary": "Rauchmelder Test 2026: Unser Testsieger kann sogar sprechen home&smart",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FV2NIWFRwUFluQV9kcHpYOXY0N2pXdHZOb0tFV1Nhd0lFa2otaWUwdExlVldHbmRyNU4yRjdQcjNJUHM5NXpWQ3ZybXp5WEpMTzhqc0M4Tkc2VWlYY2hTcE0zSEZ4dkE?oc=5",
-        "tags": [
-          "home&smart"
-        ]
-      },
       {
         "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
         "source": "Siemens",
@@ -126,6 +116,16 @@
           "Siemens",
           "Brandschutz"
         ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -190,6 +190,17 @@
         ]
       },
       {
+        "title": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt - stuttgarter-nachrichten.de",
+        "source": "stuttgarter-nachrichten.de",
+        "publishedAt": "2026-04-30T07:00:00+00:00",
+        "summary": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt stuttgarter-nachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRWMwQkUtWi02UWpVRFRmVTlicVd4TE1WWkM1cFUyVGIteTRmR2p3MGd0MW1vc3Ayb1FOZVU0SlRGeFZDRm9Jbm56d3FUUFNTYVRISEVXbGh6Mmp2N2VHTUJ1NVllWFNuZlRaWVMtSzlQYm82aHBVbW9NLUtmdTdOLUMtWE9vSlVGMXBIZk9VUUU0NlVPd3JCSEVjLXRwWWVUYlRpc3M4WExSNWtxYkZOM1J0ZV9BRTVCbmMyWXZYelZCbGdvRE5WYmVXUmtOVVR0N2ZwVmVHRGpCaGlMR1pMeE5zazMtd2R1MVVGWTR6TUJ6WENrRzRGN1VrdnRYSDZaZkoxU0V4T29qOVJES0N2cVI1M3JWczgwbVFVT2gtTlo?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-04-29T07:00:00+00:00",
@@ -237,16 +248,6 @@
         "publishedAt": "2026-04-24T07:00:00+00:00",
         "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest - Berliner Kurier",
-        "source": "Berliner Kurier",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest Berliner Kurier",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGgyNDhFd3N5UGFvX1RSR1ZsLWhab3MzcU1FWElGX2FCVVFBTHBQQm5OOC1YTjB2ZHdWX0kyazJuRFhDcmY3ZXhiekZLVXBQOWw5NklHZmRET0hONXRrV1FidjRKdzRTOTFOYUxELWZDX3luaVpIT29RLW5EaTlfQ3kyVmJfX0RZY2FMNVUxbVJ3WkxJZFhrOEJhT2pJMjk0TFN5VlV2VENzTUxpTm44bGV6TUQ?oc=5",
         "tags": [
           "Ei"
         ]
