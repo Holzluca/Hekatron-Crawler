@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-05-18T09:50:41.972946+00:00",
+  "generatedAt": "2026-05-18T13:40:51.999766+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Rauchmelder Test 2026: Unser Testsieger kann sogar sprechen - home&smart",
+        "source": "home&smart",
+        "publishedAt": "2026-05-11T13:10:20+00:00",
+        "summary": "Rauchmelder Test 2026: Unser Testsieger kann sogar sprechen home&smart",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FV2NIWFRwUFluQV9kcHpYOXY0N2pXdHZOb0tFV1Nhd0lFa2otaWUwdExlVldHbmRyNU4yRjdQcjNJUHM5NXpWQ3ZybXp5WEpMTzhqc0M4Tkc2VWlYY2hTcE0zSEZ4dkE?oc=5",
+        "tags": [
+          "home&smart"
+        ]
+      },
       {
         "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
         "source": "Siemens",
@@ -115,16 +125,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -396,6 +396,16 @@
         ]
       },
       {
+        "title": "Neue GEIG-Novelle: Flexibilisierung der Ladeinfrastruktur für Gebäude - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-13T23:56:50+00:00",
+        "summary": "Neue GEIG-Novelle: Flexibilisierung der Ladeinfrastruktur für Gebäude it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWJEcjZZZVVwcGV5YTFDdS1sdVJ3am9BUjhNVXc1OFd0TU5EbWlIVThRR1Bram9weWM4cEQzUDFXUmhJeThPNTVlVlNGdVl1bWU1VGxLNWpUQVVYMXc3V052MUdjMDRmM2NZcGlFWlRIdVlfQmhKRHpjWERzRmh2dnhiTER2NmlaYkdMTUFsNHR3U3VqUjhET1F4X0ZOeDVxTVBNZw?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
         "title": "Digitalisierung im Brandschutz - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-05-13T14:28:00+00:00",
@@ -483,16 +493,6 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXVqOV9VTlBTUVdiMGF4UFIwNE8xaTF0UEdRRFVDM0VmcWdKTkxxVDFhQW1GbWhLdUhzM2U0eVp4X3RBazl3S21admhza2ZzUzBucDdUVG81cGt5bnZlektYRTU2NjFGcm1MSU5JTXN4NVFQb1g3dHpVSUN5RlU2R0txNldsMDI3cjhFOHJMU2lBVkRzdkY1RDBwWG1HUQ?oc=5",
         "tags": [
           "it boltwise"
-        ]
-      },
-      {
-        "title": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-05T07:58:27+00:00",
-        "summary": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3cyR2RFbFF1cEFSLVZzTDBjcFpidUFSLUsyZURUcHdURmdCdldJMVpKcFJDYzJZOEZraF9mZ3JsR0NrdkdPdFJkeVlheTQ5dzJCYXlpNFpLSE5hVmw3ZDY0QnZzU0FFWGhySW0xZ2t2c2dHUTh3d01kY3JQeGZHUUNxWm1wWDVLOXY4bmI0TlF1eEhOeEd5Z3lvbi1EdkZhOFlRSW51RE5rNk9SUVc5akJRTnlYU2R3Wnh3?oc=5",
-        "tags": [
-          "Normen"
         ]
       }
     ]
