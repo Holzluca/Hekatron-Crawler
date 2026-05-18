@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T23:28:15.450021+00:00",
+  "generatedAt": "2026-05-18T01:28:17.844348+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -107,16 +107,6 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -125,6 +115,16 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -489,7 +489,7 @@
       {
         "title": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
+        "publishedAt": "2026-05-05T07:58:27+00:00",
         "summary": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3cyR2RFbFF1cEFSLVZzTDBjcFpidUFSLUsyZURUcHdURmdCdldJMVpKcFJDYzJZOEZraF9mZ3JsR0NrdkdPdFJkeVlheTQ5dzJCYXlpNFpLSE5hVmw3ZDY0QnZzU0FFWGhySW0xZ2t2c2dHUTh3d01kY3JQeGZHUUNxWm1wWDVLOXY4bmI0TlF1eEhOeEd5Z3lvbi1EdkZhOFlRSW51RE5rNk9SUVc5akJRTnlYU2R3Wnh3?oc=5",
         "tags": [
