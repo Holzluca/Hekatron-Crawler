@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T20:13:53.579075+00:00",
+  "generatedAt": "2026-05-18T21:44:46.409562+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -130,6 +130,17 @@
     ],
     "pfs": [
       {
+        "title": "Top 7 Smart Home Gadgets aller Zeiten! - home&smart",
+        "source": "home&smart",
+        "publishedAt": "2026-05-15T14:10:18+00:00",
+        "summary": "Top 7 Smart Home Gadgets aller Zeiten! home&smart",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WMzl1cm1pdkRjbXY1NHBfRWQzMWNmZXFDaUJpMG9BS0ZqVVZHUzdRcGJqUmxXM3lGSFNHN2c3SjlqYlB3cnFNeFNFdk9kUmw0S290cTQ1RjhZZ1hmM1JTWEVwdV9jZTRSd0lTU2RjM21FeVBra2w4T3dR?oc=5",
+        "tags": [
+          "Ei",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Für Millionen Rauchmelder läuft die Frist 2026 ab - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-05-14T07:00:00+00:00",
@@ -239,16 +250,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
         "tags": [
           "WELT"
-        ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
-        "tags": [
-          "Spiegel"
         ]
       }
     ],
@@ -396,16 +397,6 @@
         ]
       },
       {
-        "title": "Neue GEIG-Novelle: Flexibilisierung der Ladeinfrastruktur für Gebäude - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-13T23:56:50+00:00",
-        "summary": "Neue GEIG-Novelle: Flexibilisierung der Ladeinfrastruktur für Gebäude it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWJEcjZZZVVwcGV5YTFDdS1sdVJ3am9BUjhNVXc1OFd0TU5EbWlIVThRR1Bram9weWM4cEQzUDFXUmhJeThPNTVlVlNGdVl1bWU1VGxLNWpUQVVYMXc3V052MUdjMDRmM2NZcGlFWlRIdVlfQmhKRHpjWERzRmh2dnhiTER2NmlaYkdMTUFsNHR3U3VqUjhET1F4X0ZOeDVxTVBNZw?oc=5",
-        "tags": [
-          "it boltwise"
-        ]
-      },
-      {
         "title": "Digitalisierung im Brandschutz - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-05-13T14:28:00+00:00",
@@ -493,6 +484,16 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXVqOV9VTlBTUVdiMGF4UFIwNE8xaTF0UEdRRFVDM0VmcWdKTkxxVDFhQW1GbWhLdUhzM2U0eVp4X3RBazl3S21admhza2ZzUzBucDdUVG81cGt5bnZlektYRTU2NjFGcm1MSU5JTXN4NVFQb1g3dHpVSUN5RlU2R0txNldsMDI3cjhFOHJMU2lBVkRzdkY1RDBwWG1HUQ?oc=5",
         "tags": [
           "it boltwise"
+        ]
+      },
+      {
+        "title": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-05T07:00:00+00:00",
+        "summary": "Brandschutz in Deutschland: Neue Normen und PFAS-Verbot stellen Betreiber vor Herausforderungen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3cyR2RFbFF1cEFSLVZzTDBjcFpidUFSLUsyZURUcHdURmdCdldJMVpKcFJDYzJZOEZraF9mZ3JsR0NrdkdPdFJkeVlheTQ5dzJCYXlpNFpLSE5hVmw3ZDY0QnZzU0FFWGhySW0xZ2t2c2dHUTh3d01kY3JQeGZHUUNxWm1wWDVLOXY4bmI0TlF1eEhOeEd5Z3lvbi1EdkZhOFlRSW51RE5rNk9SUVc5akJRTnlYU2R3Wnh3?oc=5",
+        "tags": [
+          "Normen"
         ]
       }
     ]
