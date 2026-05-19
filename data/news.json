@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T17:35:41.330177+00:00",
+  "generatedAt": "2026-05-19T19:46:46.174979+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -32,6 +32,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -116,16 +126,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -140,11 +140,31 @@
         ]
       },
       {
+        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
+        "source": "giga.de",
+        "publishedAt": "2026-05-12T13:27:58+00:00",
+        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-05-08T14:45:00+00:00",
         "summary": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
+        "source": "Teltarif.de",
+        "publishedAt": "2026-05-05T07:00:00+00:00",
+        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif.de",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
         "tags": [
           "Ei"
         ]
@@ -156,6 +176,17 @@
         "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
         "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt - stuttgarter-nachrichten.de",
+        "source": "stuttgarter-nachrichten.de",
+        "publishedAt": "2026-04-30T07:00:00+00:00",
+        "summary": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt stuttgarter-nachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRWMwQkUtWi02UWpVRFRmVTlicVd4TE1WWkM1cFUyVGIteTRmR2p3MGd0MW1vc3Ayb1FOZVU0SlRGeFZDRm9Jbm56d3FUUFNTYVRISEVXbGh6Mmp2N2VHTUJ1NVllWFNuZlRaWVMtSzlQYm82aHBVbW9NLUtmdTdOLUMtWE9vSlVGMXBIZk9VUUU0NlVPd3JCSEVjLXRwWWVUYlRpc3M4WExSNWtxYkZOM1J0ZV9BRTVCbmMyWXZYelZCbGdvRE5WYmVXUmtOVVR0N2ZwVmVHRGpCaGlMR1pMeE5zazMtd2R1MVVGWTR6TUJ6WENrRzRGN1VrdnRYSDZaZkoxU0V4T29qOVJES0N2cVI1M3JWczgwbVFVT2gtTlo?oc=5",
+        "tags": [
+          "Ei",
           "Bosch"
         ]
       },
@@ -220,37 +251,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
-        "source": "WELT",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
-        "tags": [
-          "WELT"
-        ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
-        "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0tPNFp0VjVPNDIyY3ItTndWZ1FFdjY4RnZQTFRkRWVwTjAxMnNlTXdtbm41ZnJqNUNMNGJtV2tuTURKaW9hOEJIZlZtZVNxQ0FOclJzLWo?oc=5",
-        "tags": [
-          "Ei",
-          "Pyrexx"
-        ]
       }
     ],
     "doors": [
@@ -270,6 +270,16 @@
         "publishedAt": "2026-05-13T15:53:00+00:00",
         "summary": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVNpemJnUkZZNUdXcEFlRG9FSVZIZHJLLVh2eHNNNC1mel9JMDFGX2tEMHdPaDhTSXFmb1BxRTZXcFVWeW1OZzIyUDhtZkpYRmdyTy01TkQ0OXR0TTM2eUR3Q0Z0Z1JlVFBuN3FiaGxvZG5DbUVtLU1aX3F6ckZXLWNJX0Rnb1VnbVl4bXFOc3RNb0M2WVlZYlFvN3QtLUdZTGVMMVYtWEhkZEhmR0lYd1BBX0NOV0tZN2gzSlNUMG00Ujg?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-13T13:20:32+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -363,19 +373,19 @@
         "tags": [
           "Handelsblatt"
         ]
-      },
-      {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-14T10:47:12+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-19T18:36:30+00:00",
+        "summary": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUY4UEhmX2RFSE80VzNUbnkwNjJ0TXVwRDZtLTlrRGRRcVdxRVgyTDNWZ2VjU09iWV9KTG1GbXpRNnBKYXY5Zk9rRTNKWVRIbGdSRDlnNHRUcTY4VzdHVXlia2NualhVdjNUVEl2LV8tdGw3eTh1dmFEQVdGcDQ5U1Jkay02NjExVkJSblJ3RmJqNGVacTJXY2RreENtdkRaVkFyX3JUbFZwbnhKaGtxVGhsQzd6XzdXdms0RE5nNUw?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
       {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Insiderverkauf im Mai 2026 wirft Fragen zur Bewertung auf - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -482,16 +492,6 @@
         "publishedAt": "2026-05-08T09:58:00+00:00",
         "summary": "Herzogenrath: Brandschutz in Schulen trotz finanzieller Herausforderungen it boltwise",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEVHTWVDdEZfWjAzRVNCY2RidVdYX1lGM0xJSVNFTFMyQjlEY1B5cWpidEVKTHFscG5FdE1mbGtISWxZYVRFNFB4bDROZ2RjX3ZWMkQyUmRmaTZnZndfdHozeUJNNGZWdzBxYndLQVA3WGl3TV84YVpmT1dvTVhocmo2cmM3aE10eWRMNVplUXU1RmdKVlQwRUlkV05RNFZfbjM5RUVCcw?oc=5",
-        "tags": [
-          "it boltwise"
-        ]
-      },
-      {
-        "title": "Technologische Wende im Brandschutz: Herausforderungen und Chancen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-07T17:43:51+00:00",
-        "summary": "Technologische Wende im Brandschutz: Herausforderungen und Chancen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXVqOV9VTlBTUVdiMGF4UFIwNE8xaTF0UEdRRFVDM0VmcWdKTkxxVDFhQW1GbWhLdUhzM2U0eVp4X3RBazl3S21admhza2ZzUzBucDdUVG81cGt5bnZlektYRTU2NjFGcm1MSU5JTXN4NVFQb1g3dHpVSUN5RlU2R0txNldsMDI3cjhFOHJMU2lBVkRzdkY1RDBwWG1HUQ?oc=5",
         "tags": [
           "it boltwise"
         ]
