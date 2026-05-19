@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T19:46:46.174979+00:00",
+  "generatedAt": "2026-05-19T21:14:39.633149+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -233,16 +233,6 @@
         ]
       },
       {
-        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest - Berliner Kurier",
         "source": "Berliner Kurier",
         "publishedAt": "2026-04-24T07:00:00+00:00",
@@ -250,6 +240,16 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGgyNDhFd3N5UGFvX1RSR1ZsLWhab3MzcU1FWElGX2FCVVFBTHBQQm5OOC1YTjB2ZHdWX0kyazJuRFhDcmY3ZXhiekZLVXBQOWw5NklHZmRET0hONXRrV1FidjRKdzRTOTFOYUxELWZDX3luaVpIT29RLW5EaTlfQ3kyVmJfX0RZY2FMNVUxbVJ3WkxJZFhrOEJhT2pJMjk0TFN5VlV2VENzTUxpTm44bGV6TUQ?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
+        "source": "WELT",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
+        "tags": [
+          "WELT"
         ]
       }
     ],
@@ -487,11 +487,11 @@
         ]
       },
       {
-        "title": "Herzogenrath: Brandschutz in Schulen trotz finanzieller Herausforderungen - it boltwise",
+        "title": "Technologische Wende im Brandschutz: Herausforderungen und Chancen - it boltwise",
         "source": "it boltwise",
-        "publishedAt": "2026-05-08T09:58:00+00:00",
-        "summary": "Herzogenrath: Brandschutz in Schulen trotz finanzieller Herausforderungen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEVHTWVDdEZfWjAzRVNCY2RidVdYX1lGM0xJSVNFTFMyQjlEY1B5cWpidEVKTHFscG5FdE1mbGtISWxZYVRFNFB4bDROZ2RjX3ZWMkQyUmRmaTZnZndfdHozeUJNNGZWdzBxYndLQVA3WGl3TV84YVpmT1dvTVhocmo2cmM3aE10eWRMNVplUXU1RmdKVlQwRUlkV05RNFZfbjM5RUVCcw?oc=5",
+        "publishedAt": "2026-05-07T17:43:51+00:00",
+        "summary": "Technologische Wende im Brandschutz: Herausforderungen und Chancen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXVqOV9VTlBTUVdiMGF4UFIwNE8xaTF0UEdRRFVDM0VmcWdKTkxxVDFhQW1GbWhLdUhzM2U0eVp4X3RBazl3S21admhza2ZzUzBucDdUVG81cGt5bnZlektYRTU2NjFGcm1MSU5JTXN4NVFQb1g3dHpVSUN5RlU2R0txNldsMDI3cjhFOHJMU2lBVkRzdkY1RDBwWG1HUQ?oc=5",
         "tags": [
           "it boltwise"
         ]
