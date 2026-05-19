@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T22:55:00.600757+00:00",
+  "generatedAt": "2026-05-19T00:00:52.509664+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -107,16 +107,6 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -125,6 +115,16 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -170,6 +170,17 @@
         ]
       },
       {
+        "title": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt - stuttgarter-nachrichten.de",
+        "source": "stuttgarter-nachrichten.de",
+        "publishedAt": "2026-04-30T07:00:00+00:00",
+        "summary": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt stuttgarter-nachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRWMwQkUtWi02UWpVRFRmVTlicVd4TE1WWkM1cFUyVGIteTRmR2p3MGd0MW1vc3Ayb1FOZVU0SlRGeFZDRm9Jbm56d3FUUFNTYVRISEVXbGh6Mmp2N2VHTUJ1NVllWFNuZlRaWVMtSzlQYm82aHBVbW9NLUtmdTdOLUMtWE9vSlVGMXBIZk9VUUU0NlVPd3JCSEVjLXRwWWVUYlRpc3M4WExSNWtxYkZOM1J0ZV9BRTVCbmMyWXZYelZCbGdvRE5WYmVXUmtOVVR0N2ZwVmVHRGpCaGlMR1pMeE5zazMtd2R1MVVGWTR6TUJ6WENrRzRGN1VrdnRYSDZaZkoxU0V4T29qOVJES0N2cVI1M3JWczgwbVFVT2gtTlo?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-04-29T07:00:00+00:00",
@@ -189,16 +200,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
