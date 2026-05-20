@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T13:34:57.464320+00:00",
+  "generatedAt": "2026-05-20T16:51:43.801552+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -107,16 +107,6 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -125,6 +115,16 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -324,13 +324,13 @@
         ]
       },
       {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
         "tags": [
-          "GEZE"
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -375,6 +375,16 @@
       }
     ],
     "trends": [
+      {
+        "title": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-20T15:06:21+00:00",
+        "summary": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajR4ZGFZYUl2emcyZzdMdjZLdFpZYWNnWHNtdFotUmdTQklldDVzOG9URHo4VkVyejdDb3BUdVQwVzBUZ2VYYUVKNVIzeVA4Tk03WTlpZTUzTWRUNWJNVUt3Tjk5TU9UWDNwRFhtdFlSNU9LQlZYTExIMDJ5VS1hYXVfSm41RDZnODYta2FKVnQ2c3RLS0R2M0d6OXdFRGxxUmZZT2JIMU5mRldiMnNXdEs1NXQ?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
       {
         "title": "Carrier Global Corp.-Aktie (US1442851009): Gewinnüberraschung, Kursrutsch und Dividende im Fokus - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -463,16 +473,6 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnFXczRFV01yTVNZZUpIMmpQU2xoeTFCS2lsWkZsUUFaX2hqa29rZ0JaU21YOEsyOEVYQVltbTRFTlpNTHhYOXg0LWhmMHdUUVlIOHAzY2NJUnNqQnhFU2E0bnFKUmNtTzd2b3MwQVBCbGFPek9SV1lRd3BCNjdYd2laQ1RjM3o0elFiNmhHSGpXZFJTbXR3UjVldUZ1UUY5eE14eF9CbUlMV1FzdTVLaEltcWxDbmNHQWdrQ3ctaw?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "München testet Materialkataster für Gebäude - immobilienmanager",
-        "source": "immobilienmanager",
-        "publishedAt": "2026-05-11T07:14:22+00:00",
-        "summary": "München testet Materialkataster für Gebäude immobilienmanager",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGN1RDlHWXBtTzdqRXlyZW83SkRCRlFPdkZmTXRTSm1LR3M3Y3BLeHlFamUyTW1NRVNQSER0UTdVSE1WY0NXSG5mQkZHYXVfblJYQW5nSjY0clJvakgwRWNySUg3UkdMWnNnSnIzdGNpWUV3Q3ptQXNweWZVUDcxYjlVck9MaGgwY0dkVVN5SDNFQQ?oc=5",
-        "tags": [
-          "immobilienmanager"
         ]
       },
       {
