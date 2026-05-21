@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T00:02:54.048259+00:00",
+  "generatedAt": "2026-05-21T04:51:44.740797+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -243,13 +243,13 @@
         ]
       },
       {
-        "title": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest - Berliner Kurier",
-        "source": "Berliner Kurier",
+        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
+        "source": "WELT",
         "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest Berliner Kurier",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGgyNDhFd3N5UGFvX1RSR1ZsLWhab3MzcU1FWElGX2FCVVFBTHBQQm5OOC1YTjB2ZHdWX0kyazJuRFhDcmY3ZXhiekZLVXBQOWw5NklHZmRET0hONXRrV1FidjRKdzRTOTFOYUxELWZDX3luaVpIT29RLW5EaTlfQ3kyVmJfX0RZY2FMNVUxbVJ3WkxJZFhrOEJhT2pJMjk0TFN5VlV2VENzTUxpTm44bGV6TUQ?oc=5",
+        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
         "tags": [
-          "Ei"
+          "WELT"
         ]
       }
     ],
@@ -270,6 +270,16 @@
         "publishedAt": "2026-05-13T15:53:00+00:00",
         "summary": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVNpemJnUkZZNUdXcEFlRG9FSVZIZHJLLVh2eHNNNC1mel9JMDFGX2tEMHdPaDhTSXFmb1BxRTZXcFVWeW1OZzIyUDhtZkpYRmdyTy01TkQ0OXR0TTM2eUR3Q0Z0Z1JlVFBuN3FiaGxvZG5DbUVtLU1aX3F6ckZXLWNJX0Rnb1VnbVl4bXFOc3RNb0M2WVlZYlFvN3QtLUdZTGVMMVYtWEhkZEhmR0lYd1BBX0NOV0tZN2gzSlNUMG00Ujg?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-13T13:20:32+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -363,19 +373,19 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-02-13T08:00:00+00:00",
-        "summary": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-05-21T04:00:11+00:00",
+        "summary": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren Nau",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHprSmRudlp3THhaTUhRY2RjbXVsdWFWSnhTMkQwSFNYSnVhSTM3T0ptUnY1ZGEtWER5N2d1TmEzcXpsOTl0YWJ1LXlZazcyZ08tN0I2MkpRdDB3NVNCUmV6eXhReFM0NzVvNGEtczNuZ1JHUmhoelVHQTIzUnRueTZyWi1yRXlCMTlERjVVVG5lam0tMmFTTzBNbzRNbkIxN0FtVzJIaHlFMVhCYUxSUDI2SQ?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
       {
         "title": "Kingspan Group plc-Aktie (IE0004927939): Isolationsspezialist nach Zahlen und ESG-Fokus im Blick - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -455,16 +465,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFkxa0JrNTVFVTJvM3R4Nlg1WGF0Wk5FelBaWG45WHVvQ2R3eVluYjdYbHV1QkxvTU4tTWs3bjBvWmx6R2M2OEpGT3NWYWRQSFBKOXViQkxreC1PVDlFNVJkVnlFVWtVTGhYZEVJLVdXY2xTNFBkWDQ1U05oVEUtdk5PcmVOMS01QVNSbXg2TWpLQklHMjhldV9GSklsaGtUVkRfMkdHcEp6R2hjQmIza2Z4VVllRDRTNDgwVlpCaTh1UmNiYVE?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Brandschutz in Deutschland: Neue Gesetze und Herausforderungen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-14T03:43:51+00:00",
-        "summary": "Brandschutz in Deutschland: Neue Gesetze und Herausforderungen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUw0dS1kenV3eTZfZEdQdHA2WkVBS3JxS3I4OFhCZkVNZ09mZ2pKLTJaTTBuX1MyaHJRY3lyVnp5MktmVElHY0phbks2VllVdlB0YThrY3lHNFNPM1lLazZ6ajBZZ2F2UEU0SGhGVUotZURvX2JDNGY0VHNDdERBdzNWdEVSSmZkekF5aFNQbVlUQ1ExWHo0VQ?oc=5",
-        "tags": [
-          "it boltwise"
         ]
       },
       {
