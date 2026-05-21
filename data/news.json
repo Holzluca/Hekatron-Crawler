@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T04:51:44.740797+00:00",
+  "generatedAt": "2026-05-21T08:29:08.678581+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -160,6 +160,17 @@
         ]
       },
       {
+        "title": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen - stuttgarter-zeitung.de",
+        "source": "stuttgarter-zeitung.de",
+        "publishedAt": "2026-05-05T07:00:00+00:00",
+        "summary": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen stuttgarter-zeitung.de",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbFNRZ1U5My1VSXctQ0dpOUVaUEZURWZSWDdDRTFvTklmTmttbUJ6cE51Z1RhU2xvZUlscHd1eGpiaGZSTjRYQWhyV1NpVkx2WjJNV2JNWllPSDVIeDZzS0FWbVgtZXBHbVBIRlZuZDdfMXJXYnhGVlU2NmRjWFRoWGt3WXg0NG5FQ1NLeU9xSmVyS2dHckJpbEx2LUp1SFhVY05mNVV4SWU2c3NqVjdYMXVPZG15VEwzMzVnLWotdENPWVlfS29yWmkwM2hlLWhoUjVxcll3bGo1OVVscHdGY1lOZ0hDY3pMckpRZG5HbEljR3ZmS3dURkY1Q1hWbVNVN3hwVG1CaGRqWTJRXzRvbmJOZmE?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
         "source": "Teltarif.de",
         "publishedAt": "2026-05-05T07:00:00+00:00",
@@ -176,17 +187,6 @@
         "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
         "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt - stuttgarter-nachrichten.de",
-        "source": "stuttgarter-nachrichten.de",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt stuttgarter-nachrichten.de",
-        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRWMwQkUtWi02UWpVRFRmVTlicVd4TE1WWkM1cFUyVGIteTRmR2p3MGd0MW1vc3Ayb1FOZVU0SlRGeFZDRm9Jbm56d3FUUFNTYVRISEVXbGh6Mmp2N2VHTUJ1NVllWFNuZlRaWVMtSzlQYm82aHBVbW9NLUtmdTdOLUMtWE9vSlVGMXBIZk9VUUU0NlVPd3JCSEVjLXRwWWVUYlRpc3M4WExSNWtxYkZOM1J0ZV9BRTVCbmMyWXZYelZCbGdvRE5WYmVXUmtOVVR0N2ZwVmVHRGpCaGlMR1pMeE5zazMtd2R1MVVGWTR6TUJ6WENrRzRGN1VrdnRYSDZaZkoxU0V4T29qOVJES0N2cVI1M3JWczgwbVFVT2gtTlo?oc=5",
-        "tags": [
-          "Ei",
           "Bosch"
         ]
       },
@@ -270,16 +270,6 @@
         "publishedAt": "2026-05-13T15:53:00+00:00",
         "summary": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVNpemJnUkZZNUdXcEFlRG9FSVZIZHJLLVh2eHNNNC1mel9JMDFGX2tEMHdPaDhTSXFmb1BxRTZXcFVWeW1OZzIyUDhtZkpYRmdyTy01TkQ0OXR0TTM2eUR3Q0Z0Z1JlVFBuN3FiaGxvZG5DbUVtLU1aX3F6ckZXLWNJX0Rnb1VnbVl4bXFOc3RNb0M2WVlZYlFvN3QtLUdZTGVMMVYtWEhkZEhmR0lYd1BBX0NOV0tZN2gzSlNUMG00Ujg?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-13T13:20:32+00:00",
-        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -373,6 +363,16 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-02-13T08:00:00+00:00",
+        "summary": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
@@ -415,6 +415,16 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZE4xSnExbFhHQm1iNkZsWC0ySUl0MG9FbXFST1BuS0tZQ2ZFbTNQVEVfYjltZlRRanNaemp4TWQ4VUlfQUJzWHZJXzJYX05rV05hYUZuRXd1RU1UNy1hVFZlNTFHU1hET2JhU1RCTFhSMExMN2VLQ3Y1alhjSWt2Nzlfb0tFRTZoVjVQVlRfOVlCYUhGYW5tN2ROR0QwRnJUREhDdkdaTG5qZEU4RnFnd3c2RHB2dTktQXNsV0ZEVkdaV3NtelVv?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Gebäudesektor: UN-Bericht zeigt Aufholbedarf zur Erreichung der Klimaziele - Table.Briefings",
+        "source": "Table.Briefings",
+        "publishedAt": "2026-05-20T10:03:28+00:00",
+        "summary": "Gebäudesektor: UN-Bericht zeigt Aufholbedarf zur Erreichung der Klimaziele Table.Briefings",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTNtczcwNU1LWlhVM1QxU29XNGhmZXlHLXo1OUw1RjJaNjQwek5EckRETUZfTDdoMU02VVJCdGFkMEtwZ2lZdUVFY3J5N2lWUm10X0x3SDhyalU4UURVcEZaNzk4RE93UVB3R0xZTDF0MEd5LUxwZ3JQZHcydm9kUHI0OWd5MHN6eUF1TWo5UjRmbXJnbHM2ZFM4eEdIcUJYQlI0UU10RGh0dw?oc=5",
+        "tags": [
+          "Table.Briefings"
         ]
       },
       {
@@ -485,16 +495,6 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczVzVmJDa2V1SHZkNFVPYVBnSWJrcm0tbk00VjNwYnMzSmprbXI4bHdmV0xHWjJVTEdjakI2NGRoOWhVNXpUcGRqdnFodW9TQl9UbWdEdmpLQUM3QVFxOXd0d3pzMkhjeHFycWE2aVJPT21sYWdpeWE5emJ1cmpaanVQZnJMVU94RHJqdTluYmNGYlJnTXA0cWQxSXRZWElSUHljMHUzS0VhOUxuRTZxZEtmaWdRRmNQcXZ6UQ?oc=5",
         "tags": [
           "Gebäudeautomation"
-        ]
-      },
-      {
-        "title": "Honeywell-Aktie (US4385161066): Quantinuum-Börsengang eingeleitet - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-12T07:19:04+00:00",
-        "summary": "Honeywell-Aktie (US4385161066): Quantinuum-Börsengang eingeleitet AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnFXczRFV01yTVNZZUpIMmpQU2xoeTFCS2lsWkZsUUFaX2hqa29rZ0JaU21YOEsyOEVYQVltbTRFTlpNTHhYOXg0LWhmMHdUUVlIOHAzY2NJUnNqQnhFU2E0bnFKUmNtTzd2b3MwQVBCbGFPek9SV1lRd3BCNjdYd2laQ1RjM3o0elFiNmhHSGpXZFJTbXR3UjVldUZ1UUY5eE14eF9CbUlMV1FzdTVLaEltcWxDbmNHQWdrQ3ctaw?oc=5",
-        "tags": [
-          "AD HOC NEWS"
         ]
       }
     ]
