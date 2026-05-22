@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T03:39:32.876916+00:00",
+  "generatedAt": "2026-05-22T07:38:56.055370+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -97,16 +97,6 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -126,6 +116,16 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -137,6 +137,16 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUG5nSWpWT3dyZnVuVVE1Rm1Ja3E5QWh6cnFLU3ZNUi1halM0T25Ha2hSeUpCZkxTNXI2TFZLcEloNS16TnFnQmVPbXFiX0JOYUJ1VDROQW9CeEdqZkZ4NGFxanN0dWtURHRpb1VRUEg0U2M1QmRDQmJfM3BNVVJSSUVSclBnNWdfeFdjSTNQRDIyREJzVUE?oc=5",
         "tags": [
           "CHIP"
+        ]
+      },
+      {
+        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
+        "source": "giga.de",
+        "publishedAt": "2026-05-12T13:27:58+00:00",
+        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -157,16 +167,6 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Lebensretter an der Decke: Rauchmelder im Test - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-05-07T07:00:00+00:00",
-        "summary": "Lebensretter an der Decke: Rauchmelder im Test CHIP",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaV9yQnJqaXVFWHhkQ0doZ2FMdEFzWngxcjlGTU10Y0xCM1JCLVVibjhQbWI0S251ZnNwQnRFZnNCZWVrOFF0UVpDODRIT1NlWXVabHJuRzBJY1RULWRlVE5DTUhFTWVlcTFMQ2lQZkxwekd3ME9ORzB4U3NPY0MyUC1TemN6bVU4WDlxbkhB?oc=5",
-        "tags": [
-          "CHIP"
         ]
       },
       {
@@ -191,22 +191,23 @@
         ]
       },
       {
-        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif.de",
-        "source": "Teltarif.de",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
-        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif.de",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-30T07:00:00+00:00",
         "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
         "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt - stuttgarter-nachrichten.de",
+        "source": "stuttgarter-nachrichten.de",
+        "publishedAt": "2026-04-30T07:00:00+00:00",
+        "summary": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt stuttgarter-nachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRWMwQkUtWi02UWpVRFRmVTlicVd4TE1WWkM1cFUyVGIteTRmR2p3MGd0MW1vc3Ayb1FOZVU0SlRGeFZDRm9Jbm56d3FUUFNTYVRISEVXbGh6Mmp2N2VHTUJ1NVllWFNuZlRaWVMtSzlQYm82aHBVbW9NLUtmdTdOLUMtWE9vSlVGMXBIZk9VUUU0NlVPd3JCSEVjLXRwWWVUYlRpc3M4WExSNWtxYkZOM1J0ZV9BRTVCbmMyWXZYelZCbGdvRE5WYmVXUmtOVVR0N2ZwVmVHRGpCaGlMR1pMeE5zazMtd2R1MVVGWTR6TUJ6WENrRzRGN1VrdnRYSDZaZkoxU0V4T29qOVJES0N2cVI1M3JWczgwbVFVT2gtTlo?oc=5",
+        "tags": [
+          "Ei",
           "Bosch"
         ]
       },
