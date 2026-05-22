@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T07:38:56.055370+00:00",
+  "generatedAt": "2026-05-22T10:45:00.851572+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -418,17 +418,6 @@
         ]
       },
       {
-        "title": "Kingspan Group plc-Aktie (IE0004927939): Isolationsspezialist nach Zahlen und ESG-Fokus im Blick - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-20T22:40:04+00:00",
-        "summary": "Kingspan Group plc-Aktie (IE0004927939): Isolationsspezialist nach Zahlen und ESG-Fokus im Blick AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQU44OTlSSjRqNVk1cWh1amo1MEt1blFIRW9lS3VaLWVqVkpDUHBWMzJTN01zdUsxZlhYYU1CMzZfZ1pIRkpNWHFxTndtZ3dzdGd6U1dDZlVMX3pZMEJXOEFZVkU2dWMzSW1rSFZLZkY3Q3VSUlNzQ1NWQmlMLUp6MHh3aEFFWFFvX0pBNjRscUFzaHcyUVI0U1BtandiMlJCcXBfU21HS1hTVUpRTHBYbGcxczVQWll5dTFKWUFBZWFLY0w4d1Rwcg?oc=5",
-        "tags": [
-          "KI",
-          "ESG"
-        ]
-      },
-      {
         "title": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-20T15:06:21+00:00",
@@ -479,16 +468,6 @@
         ]
       },
       {
-        "title": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme - BornCity",
-        "source": "BornCity",
-        "publishedAt": "2026-05-16T17:29:03+00:00",
-        "summary": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme BornCity",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Brandschutz in Deutschland: Tunnelbrände, KI-Alarmierung und neue Cloud-Sicherheitsstandards - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-05-16T11:56:41+00:00",
@@ -496,6 +475,26 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVgyeGxLZ2JqS2MxenoxbU1sOXVPOVVqX3A4cUlTNEFjZzZxTHZ4NjdzWFFjSm95c0E1Q003UThJMUdlYW0wQzVGUkhtV3dEUzBkdERnZmJLaTlqNi1YSGpRUmFsaUNhMVNOdFNQMEIyOEk2a0xEMUxSUnIzeHFzSWpBalRxQTJEeVpKZGU5UmlCMHdUZVQ5YkR2cHBpbzc1QlR0N2c2TWc0Szg1cGs4V0VxS0VhT2p4akZqN3pKX2Q?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-14T11:48:00+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFkxa0JrNTVFVTJvM3R4Nlg1WGF0Wk5FelBaWG45WHVvQ2R3eVluYjdYbHV1QkxvTU4tTWs3bjBvWmx6R2M2OEpGT3NWYWRQSFBKOXViQkxreC1PVDlFNVJkVnlFVWtVTGhYZEVJLVdXY2xTNFBkWDQ1U05oVEUtdk5PcmVOMS01QVNSbXg2TWpLQklHMjhldV9GSklsaGtUVkRfMkdHcEp6R2hjQmIza2Z4VVllRDRTNDgwVlpCaTh1UmNiYVE?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Brandschutz in Deutschland: Neue Gesetze und Herausforderungen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-14T03:43:51+00:00",
+        "summary": "Brandschutz in Deutschland: Neue Gesetze und Herausforderungen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUw0dS1kenV3eTZfZEdQdHA2WkVBS3JxS3I4OFhCZkVNZ09mZ2pKLTJaTTBuX1MyaHJRY3lyVnp5MktmVElHY0phbks2VllVdlB0YThrY3lHNFNPM1lLazZ6ajBZZ2F2UEU0SGhGVUotZURvX2JDNGY0VHNDdERBdzNWdEVSSmZkekF5aFNQbVlUQ1ExWHo0VQ?oc=5",
+        "tags": [
+          "it boltwise"
         ]
       }
     ]
