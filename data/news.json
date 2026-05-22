@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T18:13:19.930468+00:00",
+  "generatedAt": "2026-05-22T20:17:02.045306+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -130,6 +130,17 @@
     ],
     "pfs": [
       {
+        "title": "Smarte Sicherheit zum Sparpreis: Bosch Rauchmelder im Deal-Alarm - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-05-21T03:30:00+00:00",
+        "summary": "Smarte Sicherheit zum Sparpreis: Bosch Rauchmelder im Deal-Alarm Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZVpjM0xqbEdIT0FMaEFLc0lJZHNHekQ5SHprNEF5VmxKeXo3YVZXbS1wZ1FhQkVpN0Q0RU5nNWhXT2tZeXotMlJNTmZxbmZzMjE2M2xZQjhBa2Q2cU9jV09qOFdyanc4MWxINlJEY2dUc3ktQWlQckFWeHRjRW10Z3hMMHIxaUhicEtPWUhuWDBVY2RyZEljS0FkdTl3U3NUVURFSHRudERmNDk5Q1lpT20tSEEtY1pGLVJDRXJsZHBDVXhCck9GYU4tbG04cm1veGc?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Für Millionen Rauchmelder läuft die Frist 2026 ab - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-05-14T07:00:00+00:00",
@@ -241,16 +252,6 @@
         "tags": [
           "WELT"
         ]
-      },
-      {
-        "title": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest - Berliner Kurier",
-        "source": "Berliner Kurier",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest Berliner Kurier",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGgyNDhFd3N5UGFvX1RSR1ZsLWhab3MzcU1FWElGX2FCVVFBTHBQQm5OOC1YTjB2ZHdWX0kyazJuRFhDcmY3ZXhiekZLVXBQOWw5NklHZmRET0hONXRrV1FidjRKdzRTOTFOYUxELWZDX3luaVpIT29RLW5EaTlfQ3kyVmJfX0RZY2FMNVUxbVJ3WkxJZFhrOEJhT2pJMjk0TFN5VlV2VENzTUxpTm44bGV6TUQ?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
@@ -270,6 +271,16 @@
         "publishedAt": "2026-05-13T15:53:00+00:00",
         "summary": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVNpemJnUkZZNUdXcEFlRG9FSVZIZHJLLVh2eHNNNC1mel9JMDFGX2tEMHdPaDhTSXFmb1BxRTZXcFVWeW1OZzIyUDhtZkpYRmdyTy01TkQ0OXR0TTM2eUR3Q0Z0Z1JlVFBuN3FiaGxvZG5DbUVtLU1aX3F6ckZXLWNJX0Rnb1VnbVl4bXFOc3RNb0M2WVlZYlFvN3QtLUdZTGVMMVYtWEhkZEhmR0lYd1BBX0NOV0tZN2gzSlNUMG00Ujg?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-13T13:20:32+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -362,16 +373,6 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
-        "tags": [
-          "GEZE"
         ]
       }
     ],
