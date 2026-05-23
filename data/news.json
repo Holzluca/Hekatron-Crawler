@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T15:58:39.851878+00:00",
+  "generatedAt": "2026-05-23T17:03:42.629832+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -42,6 +42,17 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWpOTk1BNmJFcExNelFqUXRJX21qLTN5UHd3YW5HTU9kamE1YjFha0NRZ3FNbnR2eExNQ3A0eTRDdE9RbEVWNGpWM19NWU5PaWlPVHdvci1GY3ZCRjBkajZCX0Fqd1NWNzg5ZmRJMTNsQXRCdWMzdUZnV0UyT1JNc05wMGxHbjZOa3NqQTBDTjJ6UFVxSHBmaUh4d08tNlpndEx1MENBbmNGbDBaWk9iOEFTTXZmRXpUUmpaanJ3?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       },
       {
@@ -114,16 +125,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -417,6 +418,16 @@
         ]
       },
       {
+        "title": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-05-21T04:00:11+00:00",
+        "summary": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren Nau",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHprSmRudlp3THhaTUhRY2RjbXVsdWFWSnhTMkQwSFNYSnVhSTM3T0ptUnY1ZGEtWER5N2d1TmEzcXpsOTl0YWJ1LXlZazcyZ08tN0I2MkpRdDB3NVNCUmV6eXhReFM0NzVvNGEtczNuZ1JHUmhoelVHQTIzUnRueTZyWi1yRXlCMTlERjVVVG5lam0tMmFTTzBNbzRNbkIxN0FtVzJIaHlFMVhCYUxSUDI2SQ?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
+      {
         "title": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-20T15:06:21+00:00",
@@ -457,6 +468,16 @@
         ]
       },
       {
+        "title": "Brandschutz in Deutschland: Tunnelbrände, KI-Alarmierung und neue Cloud-Sicherheitsstandards - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-16T11:56:41+00:00",
+        "summary": "Brandschutz in Deutschland: Tunnelbrände, KI-Alarmierung und neue Cloud-Sicherheitsstandards it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVgyeGxLZ2JqS2MxenoxbU1sOXVPOVVqX3A4cUlTNEFjZzZxTHZ4NjdzWFFjSm95c0E1Q003UThJMUdlYW0wQzVGUkhtV3dEUzBkdERnZmJLaTlqNi1YSGpRUmFsaUNhMVNOdFNQMEIyOEk2a0xEMUxSUnIzeHFzSWpBalRxQTJEeVpKZGU5UmlCMHdUZVQ5YkR2cHBpbzc1QlR0N2c2TWc0Szg1cGs4V0VxS0VhT2p4akZqN3pKX2Q?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-14T11:48:00+00:00",
@@ -474,26 +495,6 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUw0dS1kenV3eTZfZEdQdHA2WkVBS3JxS3I4OFhCZkVNZ09mZ2pKLTJaTTBuX1MyaHJRY3lyVnp5MktmVElHY0phbks2VllVdlB0YThrY3lHNFNPM1lLazZ6ajBZZ2F2UEU0SGhGVUotZURvX2JDNGY0VHNDdERBdzNWdEVSSmZkekF5aFNQbVlUQ1ExWHo0VQ?oc=5",
         "tags": [
           "it boltwise"
-        ]
-      },
-      {
-        "title": "Digitalisierung im Brandschutz - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-05-13T14:28:00+00:00",
-        "summary": "Digitalisierung im Brandschutz elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXRvTzRYMVhTclhteDRlX1pPaDh6cGtBWXVhRmlhWjNONkdEUzA2UHdnQV9yalQtU05JM294cGZFRzZmUWg0b0RmbEs2REZYZ3hVMGFkTV9zeDM0SkNwRWlRTkhFZWEwUjJ3NlJla2pEVUxVLTFGSk1paTRqakZLQ29SVTVhT2tjWkpSa2VxYTRtY1JIOXBMdUE1NzB4b1RuZVBNOGU2RlAxRXhXOW8yb2ZSRQ?oc=5",
-        "tags": [
-          "elektro.net"
-        ]
-      },
-      {
-        "title": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik - HaustechnikDialog",
-        "source": "HaustechnikDialog",
-        "publishedAt": "2026-05-12T22:00:18+00:00",
-        "summary": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik HaustechnikDialog",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczVzVmJDa2V1SHZkNFVPYVBnSWJrcm0tbk00VjNwYnMzSmprbXI4bHdmV0xHWjJVTEdjakI2NGRoOWhVNXpUcGRqdnFodW9TQl9UbWdEdmpLQUM3QVFxOXd0d3pzMkhjeHFycWE2aVJPT21sYWdpeWE5emJ1cmpaanVQZnJMVU94RHJqdTluYmNGYlJnTXA0cWQxSXRZWElSUHljMHUzS0VhOUxuRTZxZEtmaWdRRmNQcXZ6UQ?oc=5",
-        "tags": [
-          "Gebäudeautomation"
         ]
       }
     ]
