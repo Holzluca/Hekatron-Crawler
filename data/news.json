@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T18:32:33.047733+00:00",
+  "generatedAt": "2026-05-23T20:02:54.394832+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -42,17 +42,6 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-02T07:00:00+00:00",
-        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWpOTk1BNmJFcExNelFqUXRJX21qLTN5UHd3YW5HTU9kamE1YjFha0NRZ3FNbnR2eExNQ3A0eTRDdE9RbEVWNGpWM19NWU5PaWlPVHdvci1GY3ZCRjBkajZCX0Fqd1NWNzg5ZmRJMTNsQXRCdWMzdUZnV0UyT1JNc05wMGxHbjZOa3NqQTBDTjJ6UFVxSHBmaUh4d08tNlpndEx1MENBbmNGbDBaWk9iOEFTTXZmRXpUUmpaanJ3?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
         ]
       },
       {
@@ -107,16 +96,6 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -125,6 +104,26 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -346,6 +345,16 @@
         ]
       },
       {
+        "title": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-02-25T08:00:00+00:00",
+        "summary": "Baustelle auf dem Stadtmarkt in Augsburg: Umbau der Fleischhalle schreitet voran Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzVuSkF6T0I5YU14R2lsTm9ONGFadzNNRGZqNmZLVVhqMklJVVNHc283VmZVek1pY0d1Ny01OHNud0Z4bWRzUmswUDhWdjQxNTlINTJPME5yZnlpdloxNndvNXNnb2ZOZlQ4QWVfWEZnTWhWdm9MZXF6LW5QQVNsTFRkR2tYTW4tUXdUOUJMNGpVaHlIQ3AwdGVvamVBZGp6Rm1VWXJNNXFkb0owNkdHb1M0TGtfdWYtZG13?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
         "title": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten - Börsen-Zeitung",
         "source": "Börsen-Zeitung",
         "publishedAt": "2026-02-13T08:00:00+00:00",
@@ -363,16 +372,6 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
-        ]
-      },
-      {
-        "title": "Die wilde Nordsee - Natur, die sich nicht zähmen lässt in Wiesbaden - cineplex.de",
-        "source": "cineplex.de",
-        "publishedAt": "2026-01-28T00:26:05+00:00",
-        "summary": "Die wilde Nordsee - Natur, die sich nicht zähmen lässt in Wiesbaden cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmt3b0hGNWpxUzdpR0V6TE5JcmljY1hxZmlZZGQ0cFFydjU0TjN6ZXpveWNWdDd5NFBaR0dLNW5wTERIcV9GY2dINFg0bXlBZmtBR3VnWmx4VUhLZWpTM2RnLWd2RDlTcUVjMllPRG1zeHRHOHNSZzY0YXF2NmxYLW15MGljR0U4c2dyR0FPbFRJM0ZfcUJsTFBZNmdMUGNtQmNBWGtRZ0dnQ2FQa1NXbQ?oc=5",
-        "tags": [
-          "cineplex.de"
         ]
       }
     ],
@@ -398,10 +397,10 @@
         ]
       },
       {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
-        "source": "LOGISTRA",
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
+        "source": "Logistra",
         "publishedAt": "2026-05-21T10:57:14+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
         "tags": [
           "KI"
@@ -458,21 +457,21 @@
         ]
       },
       {
-        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-18T14:44:31+00:00",
-        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme - BornCity",
         "source": "BornCity",
         "publishedAt": "2026-05-16T17:29:03+00:00",
         "summary": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme BornCity",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Brandschutz in Deutschland: Tunnelbrände, KI-Alarmierung und neue Cloud-Sicherheitsstandards - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-16T11:56:41+00:00",
+        "summary": "Brandschutz in Deutschland: Tunnelbrände, KI-Alarmierung und neue Cloud-Sicherheitsstandards it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVgyeGxLZ2JqS2MxenoxbU1sOXVPOVVqX3A4cUlTNEFjZzZxTHZ4NjdzWFFjSm95c0E1Q003UThJMUdlYW0wQzVGUkhtV3dEUzBkdERnZmJLaTlqNi1YSGpRUmFsaUNhMVNOdFNQMEIyOEk2a0xEMUxSUnIzeHFzSWpBalRxQTJEeVpKZGU5UmlCMHdUZVQ5YkR2cHBpbzc1QlR0N2c2TWc0Szg1cGs4V0VxS0VhT2p4akZqN3pKX2Q?oc=5",
         "tags": [
           "KI"
         ]
