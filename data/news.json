@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T09:18:28.317500+00:00",
+  "generatedAt": "2026-05-23T10:50:33.180083+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -97,16 +97,6 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -123,6 +113,16 @@
         "publishedAt": "2026-02-10T08:00:00+00:00",
         "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -168,16 +168,6 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
-        "source": "Stimme",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -251,6 +241,17 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0tPNFp0VjVPNDIyY3ItTndWZ1FFdjY4RnZQTFRkRWVwTjAxMnNlTXdtbm41ZnJqNUNMNGJtV2tuTURKaW9hOEJIZlZtZVNxQ0FOclJzLWo?oc=5",
+        "tags": [
+          "Ei",
+          "Pyrexx"
+        ]
       }
     ],
     "doors": [
@@ -315,16 +316,6 @@
         ]
       },
       {
-        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
         "source": "Handelsblatt",
         "publishedAt": "2026-03-31T07:00:00+00:00",
@@ -352,6 +343,16 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Apollo Global Management: Was die Aktie jetzt für DACH-Anleger spannend macht - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-02-28T08:00:00+00:00",
+        "summary": "Apollo Global Management: Was die Aktie jetzt für DACH-Anleger spannend macht AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY3VqcXZoUFRFejhsTTlidV9IcmZwQVd1QkYxNjlhS2Zhc2JURURlcWNaSkNSWE5PSTl2RW9Bb3lDUzYtNWJlYkJTMTJORVFTeWE3M3dhckE4RUZBYUNiZHN3SDg0bFFyMmZucU1ERlRTLWJZZDBacllqaGZRVVF3Y1phNG9weWtrZnNhMWlTUUtoQnFuNXVfN1preWtHLThGalNDd1JYdGQ4MC0xc2xnY3JSYlRZTXY2SEpLRk8ydVVHY1pCR1c0WFBB?oc=5",
+        "tags": [
+          "Apollo"
         ]
       },
       {
@@ -414,6 +415,17 @@
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVTc4cDBGNmp3YXFBZ0pSci1xcUdaSk9LTUx5N3M4d2o4LXdodXVTU0pVLUpjQUNqZ1lVM3g2a2dBUGZxdTZIVTM5aUZ3aEZMZVJKSjZjWnlsVXlJUk1NT3BtZm95MkFtQ25EdUlYdTVYeFFZcVcxS2JYQXhER1VYRERhMGFwWEpZSXhhaTQ3UjBjUWZBa2VpbmRwd0RUamVjbjA4V0U1b2lWUGFVdnhZeXJxVm0zbnpTTnhjakhlLVZRV3J0dVVQeEtCMUs3dlU2RktPRDhVenFhTkIwdmpKV1M0cmhGTWZUVGRKeThmNzlyOUlQQnpOVktNMUhtdw?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Kingspan Group plc-Aktie (IE0004927939): Isolationsspezialist nach Zahlen und ESG-Fokus im Blick - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-20T22:40:04+00:00",
+        "summary": "Kingspan Group plc-Aktie (IE0004927939): Isolationsspezialist nach Zahlen und ESG-Fokus im Blick AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQU44OTlSSjRqNVk1cWh1amo1MEt1blFIRW9lS3VaLWVqVkpDUHBWMzJTN01zdUsxZlhYYU1CMzZfZ1pIRkpNWHFxTndtZ3dzdGd6U1dDZlVMX3pZMEJXOEFZVkU2dWMzSW1rSFZLZkY3Q3VSUlNzQ1NWQmlMLUp6MHh3aEFFWFFvX0pBNjRscUFzaHcyUVI0U1BtandiMlJCcXBfU21HS1hTVUpRTHBYbGcxczVQWll5dTFKWUFBZWFLY0w4d1Rwcg?oc=5",
+        "tags": [
+          "KI",
+          "ESG"
         ]
       },
       {
@@ -484,16 +496,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFkxa0JrNTVFVTJvM3R4Nlg1WGF0Wk5FelBaWG45WHVvQ2R3eVluYjdYbHV1QkxvTU4tTWs3bjBvWmx6R2M2OEpGT3NWYWRQSFBKOXViQkxreC1PVDlFNVJkVnlFVWtVTGhYZEVJLVdXY2xTNFBkWDQ1U05oVEUtdk5PcmVOMS01QVNSbXg2TWpLQklHMjhldV9GSklsaGtUVkRfMkdHcEp6R2hjQmIza2Z4VVllRDRTNDgwVlpCaTh1UmNiYVE?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Brandschutz in Deutschland: Neue Gesetze und Herausforderungen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-14T03:43:51+00:00",
-        "summary": "Brandschutz in Deutschland: Neue Gesetze und Herausforderungen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUw0dS1kenV3eTZfZEdQdHA2WkVBS3JxS3I4OFhCZkVNZ09mZ2pKLTJaTTBuX1MyaHJRY3lyVnp5MktmVElHY0phbks2VllVdlB0YThrY3lHNFNPM1lLazZ6ajBZZ2F2UEU0SGhGVUotZURvX2JDNGY0VHNDdERBdzNWdEVSSmZkekF5aFNQbVlUQ1ExWHo0VQ?oc=5",
-        "tags": [
-          "it boltwise"
         ]
       }
     ]
