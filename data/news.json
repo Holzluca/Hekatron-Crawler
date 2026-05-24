@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T17:03:05.474270+00:00",
+  "generatedAt": "2026-05-24T18:35:09.495085+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -150,16 +150,6 @@
         ]
       },
       {
-        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
-        "source": "giga.de",
-        "publishedAt": "2026-05-12T13:27:58+00:00",
-        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "Rauchmelder Test 2026 • Die 9 besten Rauchmelder im Vergleich - RTL.de",
         "source": "RTL.de",
         "publishedAt": "2026-05-07T07:00:00+00:00",
@@ -250,6 +240,16 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
+        "tags": [
+          "Spiegel"
         ]
       }
     ],
@@ -407,16 +407,6 @@
         ]
       },
       {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
-        "source": "Logistra",
-        "publishedAt": "2026-05-21T10:57:14+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Aselsan unterzeichnet Vertrag über 470 Mio. USD für KI-gestützte Sicherheitssysteme mit dem türkischen Präsidium für Verteidigungsindustrie - MarketScreener Deutschland",
         "source": "MarketScreener Deutschland",
         "publishedAt": "2026-05-21T06:26:46+00:00",
@@ -424,17 +414,6 @@
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVTc4cDBGNmp3YXFBZ0pSci1xcUdaSk9LTUx5N3M4d2o4LXdodXVTU0pVLUpjQUNqZ1lVM3g2a2dBUGZxdTZIVTM5aUZ3aEZMZVJKSjZjWnlsVXlJUk1NT3BtZm95MkFtQ25EdUlYdTVYeFFZcVcxS2JYQXhER1VYRERhMGFwWEpZSXhhaTQ3UjBjUWZBa2VpbmRwd0RUamVjbjA4V0U1b2lWUGFVdnhZeXJxVm0zbnpTTnhjakhlLVZRV3J0dVVQeEtCMUs3dlU2RktPRDhVenFhTkIwdmpKV1M0cmhGTWZUVGRKeThmNzlyOUlQQnpOVktNMUhtdw?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Kingspan Group plc-Aktie (IE0004927939): Isolationsspezialist nach Zahlen und ESG-Fokus im Blick - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-20T22:40:04+00:00",
-        "summary": "Kingspan Group plc-Aktie (IE0004927939): Isolationsspezialist nach Zahlen und ESG-Fokus im Blick AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQU44OTlSSjRqNVk1cWh1amo1MEt1blFIRW9lS3VaLWVqVkpDUHBWMzJTN01zdUsxZlhYYU1CMzZfZ1pIRkpNWHFxTndtZ3dzdGd6U1dDZlVMX3pZMEJXOEFZVkU2dWMzSW1rSFZLZkY3Q3VSUlNzQ1NWQmlMLUp6MHh3aEFFWFFvX0pBNjRscUFzaHcyUVI0U1BtandiMlJCcXBfU21HS1hTVUpRTHBYbGcxczVQWll5dTFKWUFBZWFLY0w4d1Rwcg?oc=5",
-        "tags": [
-          "KI",
-          "ESG"
         ]
       },
       {
@@ -495,6 +474,26 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-14T11:48:00+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFkxa0JrNTVFVTJvM3R4Nlg1WGF0Wk5FelBaWG45WHVvQ2R3eVluYjdYbHV1QkxvTU4tTWs3bjBvWmx6R2M2OEpGT3NWYWRQSFBKOXViQkxreC1PVDlFNVJkVnlFVWtVTGhYZEVJLVdXY2xTNFBkWDQ1U05oVEUtdk5PcmVOMS01QVNSbXg2TWpLQklHMjhldV9GSklsaGtUVkRfMkdHcEp6R2hjQmIza2Z4VVllRDRTNDgwVlpCaTh1UmNiYVE?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Brandschutz in Deutschland: Neue Gesetze und Herausforderungen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-14T03:43:51+00:00",
+        "summary": "Brandschutz in Deutschland: Neue Gesetze und Herausforderungen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUw0dS1kenV3eTZfZEdQdHA2WkVBS3JxS3I4OFhCZkVNZ09mZ2pKLTJaTTBuX1MyaHJRY3lyVnp5MktmVElHY0phbks2VllVdlB0YThrY3lHNFNPM1lLazZ6ajBZZ2F2UEU0SGhGVUotZURvX2JDNGY0VHNDdERBdzNWdEVSSmZkekF5aFNQbVlUQ1ExWHo0VQ?oc=5",
+        "tags": [
+          "it boltwise"
         ]
       }
     ]
