@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T14:47:16.175861+00:00",
+  "generatedAt": "2026-05-24T15:57:45.866267+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -45,10 +45,10 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
         "source": "Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
@@ -62,16 +62,6 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "Neue Zürcher Zeitung"
         ]
       },
       {
@@ -122,6 +112,16 @@
         "publishedAt": "2026-02-10T08:00:00+00:00",
         "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -223,16 +223,6 @@
         ]
       },
       {
-        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest - Berliner Kurier",
         "source": "Berliner Kurier",
         "publishedAt": "2026-04-24T07:00:00+00:00",
@@ -250,6 +240,16 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
         "tags": [
           "WELT"
+        ]
+      },
+      {
+        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
+        "source": "Berliner Morgenpost",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -285,26 +285,6 @@
         ]
       },
       {
-        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-13T13:20:32+00:00",
-        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-12T11:04:05+00:00",
-        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUlMdE8yRWpiT2xmeC1QS1Q5eFhlcWxucDRmTWZOWEw2dUdheUR6Wm16RHJHWWZSRzlaWURRNWoyclRJU2k5bk1EZkR3NnRBaW5KZl82S2R0bUZaclZoSllkNkRfQ3RHTVhNS3lGaTQ1eEFhTW1LU0QzN0xSRkJWaVN5dnZ1bGh2T1hfb2NreG5EY1N0SXBFb3p6TllWRWRvMVJRX0FncnNSczJ1WHJUcThNdUJ6YV95cS1QWVk2NDJjQkVhRGlj?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Kann Apollo Hospitals Enterprise Ltd Aktie (INE438A01022) den indischen Gesundheitsboom nutzen? - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-11T19:29:29+00:00",
@@ -335,16 +315,6 @@
         ]
       },
       {
-        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
         "source": "Handelsblatt",
         "publishedAt": "2026-03-31T07:00:00+00:00",
@@ -355,16 +325,6 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
-        ]
-      },
-      {
         "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
         "source": "Gebäude-Energieberater",
         "publishedAt": "2026-03-03T08:00:00+00:00",
@@ -372,6 +332,46 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
+        "source": "CoinDesk",
+        "publishedAt": "2026-02-15T08:00:00+00:00",
+        "summary": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-02-13T08:00:00+00:00",
+        "summary": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
+        "source": "bm-online.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Die wilde Nordsee - Natur, die sich nicht zähmen lässt in Wiesbaden - cineplex.de",
+        "source": "cineplex.de",
+        "publishedAt": "2026-01-28T00:26:05+00:00",
+        "summary": "Die wilde Nordsee - Natur, die sich nicht zähmen lässt in Wiesbaden cineplex.de",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmt3b0hGNWpxUzdpR0V6TE5JcmljY1hxZmlZZGQ0cFFydjU0TjN6ZXpveWNWdDd5NFBaR0dLNW5wTERIcV9GY2dINFg0bXlBZmtBR3VnWmx4VUhLZWpTM2RnLWd2RDlTcUVjMllPRG1zeHRHOHNSZzY0YXF2NmxYLW15MGljR0U4c2dyR0FPbFRJM0ZfcUJsTFBZNmdMUGNtQmNBWGtRZ0dnQ2FQa1NXbQ?oc=5",
+        "tags": [
+          "cineplex.de"
         ]
       }
     ],
