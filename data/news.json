@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:03:22.873452+00:00",
+  "generatedAt": "2026-05-25T18:57:39.669752+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -161,17 +161,6 @@
         ]
       },
       {
-        "title": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen - stuttgarter-nachrichten.de",
-        "source": "stuttgarter-nachrichten.de",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
-        "summary": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen stuttgarter-nachrichten.de",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPN2ZsWER5N1B1VmdmYnNVbUZHYUNJR1BOMG9VeUNkdmtCenBQVFNHbmVlMnljb1QtWWdfcUJIbG1tdzVLX2dneDhZekVHYzhvUDFUTnVmaFN1TFZCdTlxSDZVQWN0bG9oTUhmMnR5bmhjR2JGNGZQekY1YmhGZHZRTE1SMU41RFlYaVE1Z2gyOFBvMzloVURJaTRqM0JYVDNDd2RDanZCWlA1MUV3RkFIUmg4anZVMDNzR3FGa0loM1EzTTdTUmFhUm93LVlxUHpNZ0U0YVM4cjdwdFlWc2J4d1BLdmVEOFhfVUJ1SE9kTTB1a1NnMUlTWUZZNnZUalgtcW9pMFByV01UUmhSc1RSS2l3cW5sN2VncFE?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-30T07:00:00+00:00",
@@ -252,6 +241,16 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
       }
     ],
     "doors": [
@@ -261,16 +260,6 @@
         "publishedAt": "2026-05-24T06:40:59+00:00",
         "summary": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9rcXNYeGF1WU1lVEl6dHVnSlpkdlZVU094Qk1hbTFHUTNhaGVBR1NvcHQ5dktDdzNRVzlxXy1zLXg0amJfamZONEVyNUNJSloyRFNYRUp1Z0otaDVZV1B4dHU2MVVhRFpsWWUzTEJCbWdOMU9YSEMzazBtZy1MX3NiZFNjb0loNlFIOVpyc1RHTmJOSkwtMXNzRlRVT3RoZEUwUm43OGF4WUJPTmNMNlBiYndick4yN0dKb2dVakt6aG15MVhBNQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Hospitals Chennai erweitert globalen Patientenzugang mit neuem Informationszentrum in Chattogram, Bangladesch - Apollo Hospitals",
-        "source": "Apollo Hospitals",
-        "publishedAt": "2026-05-15T20:30:19+00:00",
-        "summary": "Apollo Hospitals Chennai erweitert globalen Patientenzugang mit neuem Informationszentrum in Chattogram, Bangladesch Apollo Hospitals",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZENueW9wN2hvcXRmSWpUVTJGQ01PLThmcVpaSUhpVDVOcHBaMWE0R0JQVFYtVkVCdTJBS1dlRXZRZFV3U0pqR1kzMEdKYmtYU19HT0hCY1VNWW9WYk5pNG1yTDJRMjdNdjVyY0ZxVV9JNlY1VGs4b2x4dXQ1WGp6MkRxWnlxX1JYNTFJMERwbjVEa2RZUXdYVUFwQ0o4NUtLVnpKM0wzRXZTaEFpV3oySXJ1Q3RmSTFWZTVPU0RyMkZCZGtBQXlKelF1eUp5Mm5FVmYwNDdBNTBXV2pKOXBsUmdtalIwQ3IxSm85NW0yVS1aWHc?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -371,6 +360,16 @@
         "publishedAt": "2026-02-15T08:00:00+00:00",
         "summary": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal CoinDesk",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-02-13T08:00:00+00:00",
+        "summary": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
         "tags": [
           "Apollo"
         ]
