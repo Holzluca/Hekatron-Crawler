@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T20:23:00.184241+00:00",
+  "generatedAt": "2026-05-25T21:42:51.370063+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -458,9 +458,19 @@
         ]
       },
       {
+        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-18T14:44:31+00:00",
+        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme - BornCity",
         "source": "BornCity",
-        "publishedAt": "2026-05-16T17:29:03+00:00",
+        "publishedAt": "2026-05-16T07:00:00+00:00",
         "summary": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme BornCity",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
         "tags": [
@@ -485,16 +495,6 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUw0dS1kenV3eTZfZEdQdHA2WkVBS3JxS3I4OFhCZkVNZ09mZ2pKLTJaTTBuX1MyaHJRY3lyVnp5MktmVElHY0phbks2VllVdlB0YThrY3lHNFNPM1lLazZ6ajBZZ2F2UEU0SGhGVUotZURvX2JDNGY0VHNDdERBdzNWdEVSSmZkekF5aFNQbVlUQ1ExWHo0VQ?oc=5",
         "tags": [
           "it boltwise"
-        ]
-      },
-      {
-        "title": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik - HaustechnikDialog",
-        "source": "HaustechnikDialog",
-        "publishedAt": "2026-05-12T22:00:18+00:00",
-        "summary": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik HaustechnikDialog",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczVzVmJDa2V1SHZkNFVPYVBnSWJrcm0tbk00VjNwYnMzSmprbXI4bHdmV0xHWjJVTEdjakI2NGRoOWhVNXpUcGRqdnFodW9TQl9UbWdEdmpLQUM3QVFxOXd0d3pzMkhjeHFycWE2aVJPT21sYWdpeWE5emJ1cmpaanVQZnJMVU94RHJqdTluYmNGYlJnTXA0cWQxSXRZWElSUHljMHUzS0VhOUxuRTZxZEtmaWdRRmNQcXZ6UQ?oc=5",
-        "tags": [
-          "Gebäudeautomation"
         ]
       }
     ]
