@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T21:42:51.370063+00:00",
+  "generatedAt": "2026-05-25T22:54:42.714987+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -161,17 +161,6 @@
         ]
       },
       {
-        "title": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen - stuttgarter-nachrichten.de",
-        "source": "stuttgarter-nachrichten.de",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
-        "summary": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen stuttgarter-nachrichten.de",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPN2ZsWER5N1B1VmdmYnNVbUZHYUNJR1BOMG9VeUNkdmtCenBQVFNHbmVlMnljb1QtWWdfcUJIbG1tdzVLX2dneDhZekVHYzhvUDFUTnVmaFN1TFZCdTlxSDZVQWN0bG9oTUhmMnR5bmhjR2JGNGZQekY1YmhGZHZRTE1SMU41RFlYaVE1Z2gyOFBvMzloVURJaTRqM0JYVDNDd2RDanZCWlA1MUV3RkFIUmg4anZVMDNzR3FGa0loM1EzTTdTUmFhUm93LVlxUHpNZ0U0YVM4cjdwdFlWc2J4d1BLdmVEOFhfVUJ1SE9kTTB1a1NnMUlTWUZZNnZUalgtcW9pMFByV01UUmhSc1RSS2l3cW5sN2VncFE?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-30T07:00:00+00:00",
@@ -211,6 +200,16 @@
         "tags": [
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Bewegungsmelder II jetzt auch mit Matter - appgefahren.de",
+        "source": "appgefahren.de",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch Bewegungsmelder II jetzt auch mit Matter appgefahren.de",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPekZwSXhjd2xZcFRkTlp4bHBEZEE4SFNPZWZjTUVkaWMzem5fZXY1TU9fMnZmTEkyZDNQdVozN1ZXVHBQdnVBN0t6MjA0OTdRLVhsRzU5NnVOazIyMWJEbEttNjhmT0x2S2NxSE56RS1tOHJFeWR2TTdpa3JiYzllalZJX1o3TXFKVVdrTGp3?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -271,16 +270,6 @@
         "publishedAt": "2026-05-13T15:53:00+00:00",
         "summary": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVNpemJnUkZZNUdXcEFlRG9FSVZIZHJLLVh2eHNNNC1mel9JMDFGX2tEMHdPaDhTSXFmb1BxRTZXcFVWeW1OZzIyUDhtZkpYRmdyTy01TkQ0OXR0TTM2eUR3Q0Z0Z1JlVFBuN3FiaGxvZG5DbUVtLU1aX3F6ckZXLWNJX0Rnb1VnbVl4bXFOc3RNb0M2WVlZYlFvN3QtLUdZTGVMMVYtWEhkZEhmR0lYd1BBX0NOV0tZN2gzSlNUMG00Ujg?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-13T13:20:32+00:00",
-        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -374,6 +363,16 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
+        "source": "bm-online.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
@@ -405,6 +404,16 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
+        "source": "Logistra",
+        "publishedAt": "2026-05-21T10:57:14+00:00",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -455,16 +464,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPazVweUVMUFRPMEItV0NsSEFTak1LT3ZKbTViLW9nQXNabUlfUEM4U3RsQmMtb3NXUTM5Wms5RTFyNnViaVA3M3gzQk8tSjhic29VVmRGd1l5Y3NId0NXV21QRl9ZZ1pyRW41bUVuS1ZGakZDY1duellMQ2Z4Ujg5T0wwWkd4dXRSSWxFaWdzanhGQ2YzQnFVMkdmbzJjRm16YUE3emJPa29QcnBqRjEyQ2dfalQ3eFQ3MnZjZ2s1SGc3bFF0R1E?oc=5",
         "tags": [
           "AI"
-        ]
-      },
-      {
-        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-18T14:44:31+00:00",
-        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
