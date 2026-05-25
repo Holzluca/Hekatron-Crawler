@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T14:43:11.525274+00:00",
+  "generatedAt": "2026-05-25T17:03:22.873452+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -42,6 +42,17 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWpOTk1BNmJFcExNelFqUXRJX21qLTN5UHd3YW5HTU9kamE1YjFha0NRZ3FNbnR2eExNQ3A0eTRDdE9RbEVWNGpWM19NWU5PaWlPVHdvci1GY3ZCRjBkajZCX0Fqd1NWNzg5ZmRJMTNsQXRCdWMzdUZnV0UyT1JNc05wMGxHbjZOa3NqQTBDTjJ6UFVxSHBmaUh4d08tNlpndEx1MENBbmNGbDBaWk9iOEFTTXZmRXpUUmpaanJ3?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       },
       {
@@ -112,16 +123,6 @@
         "publishedAt": "2026-02-10T08:00:00+00:00",
         "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
         ]
