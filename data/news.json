@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T00:01:01.480298+00:00",
+  "generatedAt": "2026-05-26T04:41:15.271718+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -130,16 +130,6 @@
     ],
     "pfs": [
       {
-        "title": "Frist läuft noch 2026 ab: Viele Rauchmelder müssen weg - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-05-24T07:00:00+00:00",
-        "summary": "Frist läuft noch 2026 ab: Viele Rauchmelder müssen weg CHIP",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeW03T3A2dkh6RExzY2pqbGh0WGxfWUNIVzF5OGtZVWN0Z2tnbXN4QW1yQmRfeVd2TFNOTVp0OHEtM3ZKNVVRc08wWUJVNDRZX1FKTzkwSHk1bUZaOWxhWlYwN2o2THhQMXE0Y1RTUWxQQkxfbGVndUZjV0ZDd1QxZkdMSExacEJTUXVVcEk3NXpMa1hHcTJLZm0wUQ?oc=5",
-        "tags": [
-          "CHIP"
-        ]
-      },
-      {
         "title": "Smarte Sicherheit zum Sparpreis: Bosch Rauchmelder im Deal-Alarm - Computer Bild",
         "source": "Computer Bild",
         "publishedAt": "2026-05-21T03:30:00+00:00",
@@ -147,6 +137,36 @@
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZVpjM0xqbEdIT0FMaEFLc0lJZHNHekQ5SHprNEF5VmxKeXo3YVZXbS1wZ1FhQkVpN0Q0RU5nNWhXT2tZeXotMlJNTmZxbmZzMjE2M2xZQjhBa2Q2cU9jV09qOFdyanc4MWxINlJEY2dUc3ktQWlQckFWeHRjRW10Z3hMMHIxaUhicEtPWUhuWDBVY2RyZEljS0FkdTl3U3NUVURFSHRudERmNDk5Q1lpT20tSEEtY1pGLVJDRXJsZHBDVXhCck9GYU4tbG04cm1veGc?oc=5",
         "tags": [
           "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Für Millionen Rauchmelder läuft die Frist 2026 ab - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-05-14T07:00:00+00:00",
+        "summary": "Für Millionen Rauchmelder läuft die Frist 2026 ab CHIP",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUG5nSWpWT3dyZnVuVVE1Rm1Ja3E5QWh6cnFLU3ZNUi1halM0T25Ha2hSeUpCZkxTNXI2TFZLcEloNS16TnFnQmVPbXFiX0JOYUJ1VDROQW9CeEdqZkZ4NGFxanN0dWtURHRpb1VRUEg0U2M1QmRDQmJfM3BNVVJSSUVSclBnNWdfeFdjSTNQRDIyREJzVUE?oc=5",
+        "tags": [
+          "CHIP"
+        ]
+      },
+      {
+        "title": "Nuki, Aqara & Co.: Welches Smart Lock lohnt sich für zu Hause? - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-05-13T07:00:00+00:00",
+        "summary": "Nuki, Aqara & Co.: Welches Smart Lock lohnt sich für zu Hause? Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iYm1DWG45N1UwZUNCd1JFaWtXR1FHVzFjbkE1bWFfSHFBSDk1alpBVDFEQnNnQzhWT2FUdlR5ejBzOGllY1cwMTRSaDZoTWVYS3JhZ0YtVVIwNDR3YW9XLTBFUUZ5QzIyT3V3dmg3UklzMkJNY3dCVWxGdw?oc=5",
+        "tags": [
+          "Computer Bild"
+        ]
+      },
+      {
+        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
+        "source": "giga.de",
+        "publishedAt": "2026-05-12T13:27:58+00:00",
+        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
+        "tags": [
           "Bosch"
         ]
       },
@@ -203,6 +223,16 @@
         ]
       },
       {
+        "title": "Bosch Bewegungsmelder II jetzt auch mit Matter - appgefahren.de",
+        "source": "appgefahren.de",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch Bewegungsmelder II jetzt auch mit Matter appgefahren.de",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPekZwSXhjd2xZcFRkTlp4bHBEZEE4SFNPZWZjTUVkaWMzem5fZXY1TU9fMnZmTEkyZDNQdVozN1ZXVHBQdnVBN0t6MjA0OTdRLVhsRzU5NnVOazIyMWJEbEttNjhmT0x2S2NxSE56RS1tOHJFeWR2TTdpa3JiYzllalZJX1o3TXFKVVdrTGp3?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-04-27T07:00:00+00:00",
@@ -220,36 +250,6 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGgyNDhFd3N5UGFvX1RSR1ZsLWhab3MzcU1FWElGX2FCVVFBTHBQQm5OOC1YTjB2ZHdWX0kyazJuRFhDcmY3ZXhiekZLVXBQOWw5NklHZmRET0hONXRrV1FidjRKdzRTOTFOYUxELWZDX3luaVpIT29RLW5EaTlfQ3kyVmJfX0RZY2FMNVUxbVJ3WkxJZFhrOEJhT2pJMjk0TFN5VlV2VENzTUxpTm44bGV6TUQ?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
-        "source": "WELT",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
-        "tags": [
-          "WELT"
-        ]
-      },
-      {
-        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
-        "tags": [
-          "Spiegel"
         ]
       }
     ],
