@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T06:50:00.447266+00:00",
+  "generatedAt": "2026-05-28T10:50:55.389803+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -86,17 +86,6 @@
         ]
       },
       {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
         "source": "Aargauer Zeitung",
         "publishedAt": "2026-03-30T07:00:00+00:00",
@@ -125,9 +114,40 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Ein leistungsstarkes Rechenzentrum für NXTGen - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-02-13T17:52:13+00:00",
+        "summary": "Ein leistungsstarkes Rechenzentrum für NXTGen Siemens",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWTzVncHVHOHpKLWdNU0FJSmcwMDVoNFgxX19hTUloU3pJR2RSeVNPNlVmOUpvcDRPVXduLXQyYmdtbEo5eWxnOXN0bFlYcHJZXzBSSERxaUlxQmo2MUtLNFBVa2Q1b2drc19fWXRzLVY?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Ei Electronics auf der Feuertrutz 2026: Vernetzte Sicherheit im Wohnumfeld - tga.at",
+        "source": "tga.at",
+        "publishedAt": "2026-05-28T10:06:00+00:00",
+        "summary": "Ei Electronics auf der Feuertrutz 2026: Vernetzte Sicherheit im Wohnumfeld tga.at",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NWi1qbUZabi1qYk4yZkloLXJVLWVkWlcyeGFGSmx4blR6aHpPRWh0TlRkcTVHRHVYekZwYnFZck8zNnViTlZoTF9PdHU4N205bXZiV0FWYTRoT3lrcGpPNVZzNXo2WWJ3bHpOVVlGaXNxbkVUQWZ3RDRpTkw?oc=5",
+        "tags": [
+          "Ei",
+          "Ei Electronics"
+        ]
+      },
+      {
+        "title": "Smarter Schutz fürs Zuhause: Bosch Alarm-Set im Deal - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-05-28T07:00:00+00:00",
+        "summary": "Smarter Schutz fürs Zuhause: Bosch Alarm-Set im Deal Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGdaMHVUemJ2TjJFd2ZYNlRtdktmR2x5Z2RSVE5tbnlVb3N2b2xibkU1SndhRV9CdkwyLXdPX1otaVgyRE5yVWRuRFI5SkZkc3NkSW96WlExbnQwWmRWZ0R1RUxLd25uSXljYXRVWGk0UDcxS3pRQ0xNTkpZY19SUWo5aDJpVlZ5S2ZWZ0tXNWQ1aEFpaHpGdDVUR3VaSlcwazNuMGN2eEdJaDQwclVaZ3dFcmI1OHVFYnBr?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
       {
         "title": "Frist läuft noch 2026 ab: Viele Rauchmelder müssen weg - CHIP",
         "source": "CHIP",
@@ -146,26 +166,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZVpjM0xqbEdIT0FMaEFLc0lJZHNHekQ5SHprNEF5VmxKeXo3YVZXbS1wZ1FhQkVpN0Q0RU5nNWhXT2tZeXotMlJNTmZxbmZzMjE2M2xZQjhBa2Q2cU9jV09qOFdyanc4MWxINlJEY2dUc3ktQWlQckFWeHRjRW10Z3hMMHIxaUhicEtPWUhuWDBVY2RyZEljS0FkdTl3U3NUVURFSHRudERmNDk5Q1lpT20tSEEtY1pGLVJDRXJsZHBDVXhCck9GYU4tbG04cm1veGc?oc=5",
         "tags": [
           "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Nuki, Aqara & Co.: Welches Smart Lock lohnt sich für zu Hause? - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-05-13T07:00:00+00:00",
-        "summary": "Nuki, Aqara & Co.: Welches Smart Lock lohnt sich für zu Hause? Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iYm1DWG45N1UwZUNCd1JFaWtXR1FHVzFjbkE1bWFfSHFBSDk1alpBVDFEQnNnQzhWT2FUdlR5ejBzOGllY1cwMTRSaDZoTWVYS3JhZ0YtVVIwNDR3YW9XLTBFUUZ5QzIyT3V3dmg3UklzMkJNY3dCVWxGdw?oc=5",
-        "tags": [
-          "Computer Bild"
-        ]
-      },
-      {
-        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
-        "source": "giga.de",
-        "publishedAt": "2026-05-12T13:27:58+00:00",
-        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
-        "tags": [
           "Bosch"
         ]
       },
@@ -426,16 +426,6 @@
         ]
       },
       {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
-        "source": "LOGISTRA",
-        "publishedAt": "2026-05-21T10:57:14+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Aselsan unterzeichnet Vertrag über 470 Mio. USD für KI-gestützte Sicherheitssysteme mit dem türkischen Präsidium für Verteidigungsindustrie - MarketScreener Deutschland",
         "source": "MarketScreener Deutschland",
         "publishedAt": "2026-05-21T06:26:46+00:00",
@@ -493,6 +483,16 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-14T11:48:00+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFkxa0JrNTVFVTJvM3R4Nlg1WGF0Wk5FelBaWG45WHVvQ2R3eVluYjdYbHV1QkxvTU4tTWs3bjBvWmx6R2M2OEpGT3NWYWRQSFBKOXViQkxreC1PVDlFNVJkVnlFVWtVTGhYZEVJLVdXY2xTNFBkWDQ1U05oVEUtdk5PcmVOMS01QVNSbXg2TWpLQklHMjhldV9GSklsaGtUVkRfMkdHcEp6R2hjQmIza2Z4VVllRDRTNDgwVlpCaTh1UmNiYVE?oc=5",
+        "tags": [
+          "AD HOC NEWS"
         ]
       }
     ]
