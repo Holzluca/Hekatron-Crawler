@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T22:38:43.218545+00:00",
+  "generatedAt": "2026-05-29T00:06:30.507128+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -86,17 +86,6 @@
         ]
       },
       {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
         "source": "Aargauer Zeitung",
         "publishedAt": "2026-03-30T07:00:00+00:00",
@@ -124,6 +113,17 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-03-10T07:00:00+00:00",
+        "summary": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWGNZalhmNkEwczhjWGNsUGZWRDFwcmdPMmdwUXk4TWhQa29jUlJReURtZVYzME5UWjdtS2tlZW1TTUxxcEp5Mjlsdmxjb1ZBc2wxY1ZsMUtUNDczNlRVOG4tQzZxUDd4OENCT1NLb2sycmNlRDdtT1JmNFpkY2RrVmJJYlVBb0V4enBDZ2NDVTM1ZHpyN2YtcFFKQUJFc0xQN2lMdGlYR1hKaER4RVhibWJISERyNXBQUHJPWUJaSHdQUFRhakZ0NHAzQTJOT1BaYmhobmF3UkZiS0dGdF9TYXkwR2xfNms3aExlaTdqQ2FCSEpsLXlkZWtBX1BRekdaMjMweWJKaE5wbkUtelBJNlNvMUV6eHpBcE9RLTBaNTF5RUhja1dUNURB?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       }
     ],
@@ -213,6 +213,16 @@
         ]
       },
       {
+        "title": "Bosch Bewegungsmelder II jetzt auch mit Matter - appgefahren.de",
+        "source": "appgefahren.de",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch Bewegungsmelder II jetzt auch mit Matter appgefahren.de",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPekZwSXhjd2xZcFRkTlp4bHBEZEE4SFNPZWZjTUVkaWMzem5fZXY1TU9fMnZmTEkyZDNQdVozN1ZXVHBQdnVBN0t6MjA0OTdRLVhsRzU5NnVOazIyMWJEbEttNjhmT0x2S2NxSE56RS1tOHJFeWR2TTdpa3JiYzllalZJX1o3TXFKVVdrTGp3?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-04-27T07:00:00+00:00",
@@ -240,16 +250,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
         "tags": [
           "WELT"
-        ]
-      },
-      {
-        "title": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest - Berliner Kurier",
-        "source": "Berliner Kurier",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest Berliner Kurier",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGgyNDhFd3N5UGFvX1RSR1ZsLWhab3MzcU1FWElGX2FCVVFBTHBQQm5OOC1YTjB2ZHdWX0kyazJuRFhDcmY3ZXhiekZLVXBQOWw5NklHZmRET0hONXRrV1FidjRKdzRTOTFOYUxELWZDX3luaVpIT29RLW5EaTlfQ3kyVmJfX0RZY2FMNVUxbVJ3WkxJZFhrOEJhT2pJMjk0TFN5VlV2VENzTUxpTm44bGV6TUQ?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
