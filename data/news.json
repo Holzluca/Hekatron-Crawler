@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:46:58.087919+00:00",
+  "generatedAt": "2026-05-30T20:50:04.558188+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -192,6 +192,16 @@
         ]
       },
       {
+        "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-05-08T07:00:00+00:00",
+        "summary": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Rauchmelder Test 2026 • Die 9 besten Rauchmelder im Vergleich - RTL.de",
         "source": "RTL.de",
         "publishedAt": "2026-05-07T07:00:00+00:00",
@@ -242,16 +252,6 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "doors": [
@@ -298,6 +298,16 @@
       {
         "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
         "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-13T07:00:00+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-05-12T07:00:00+00:00",
         "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUlMdE8yRWpiT2xmeC1QS1Q5eFhlcWxucDRmTWZOWEw2dUdheUR6Wm16RHJHWWZSRzlaWURRNWoyclRJU2k5bk1EZkR3NnRBaW5KZl82S2R0bUZaclZoSllkNkRfQ3RHTVhNS3lGaTQ1eEFhTW1LU0QzN0xSRkJWaVN5dnZ1bGh2T1hfb2NreG5EY1N0SXBFb3p6TllWRWRvMVJRX0FncnNSczJ1WHJUcThNdUJ6YV95cS1QWVk2NDJjQkVhRGlj?oc=5",
@@ -321,16 +331,6 @@
         "publishedAt": "2026-05-11T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie (US0376041051): Warum Alternative Assets jetzt für europäische Anle AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGgzWTYyN1dtRVJ2LTI5dFFaNzBReFdyaklobDEwQjFZWFNoSzNnMFVUdkhKMDB4MXlTMldwUHp0bnRXbHIxQ3Y4QVVEcDk2YU9naEpjVVVkdmJBSEtXMFNKN3htZWxrUl9aelEyT1dTUFpjQTA5aWxzYzFXdnNGRTYtMHVhMEZWUDZmV2w2dFhPLUF0MzZqbEY3SzhySkdiUU9OcjRZWS0zSVNyZWhsU3JRMnUtZzRkVTRibG9mMnktWHFtZGc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
-        "source": "Logistik Online",
-        "publishedAt": "2026-05-08T07:15:05+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -388,10 +388,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T14:22:09+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -459,6 +459,16 @@
         ]
       },
       {
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
+        "source": "Logistra",
+        "publishedAt": "2026-05-21T10:57:14+00:00",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Aselsan unterzeichnet Vertrag über 470 Mio. USD für KI-gestützte Sicherheitssysteme mit dem türkischen Präsidium für Verteidigungsindustrie - MarketScreener Deutschland",
         "source": "MarketScreener Deutschland",
         "publishedAt": "2026-05-21T06:26:46+00:00",
@@ -484,16 +494,6 @@
         "publishedAt": "2026-05-20T15:06:21+00:00",
         "summary": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajR4ZGFZYUl2emcyZzdMdjZLdFpZYWNnWHNtdFotUmdTQklldDVzOG9URHo4VkVyejdDb3BUdVQwVzBUZ2VYYUVKNVIzeVA4Tk03WTlpZTUzTWRUNWJNVUt3Tjk5TU9UWDNwRFhtdFlSNU9LQlZYTExIMDJ5VS1hYXVfSm41RDZnODYta2FKVnQ2c3RLS0R2M0d6OXdFRGxxUmZZT2JIMU5mRldiMnNXdEs1NXQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Carrier Global Corp.-Aktie (US1442851009): Gewinnüberraschung, Kursrutsch und Dividende im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-20T12:55:45+00:00",
-        "summary": "Carrier Global Corp.-Aktie (US1442851009): Gewinnüberraschung, Kursrutsch und Dividende im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZE4xSnExbFhHQm1iNkZsWC0ySUl0MG9FbXFST1BuS0tZQ2ZFbTNQVEVfYjltZlRRanNaemp4TWQ4VUlfQUJzWHZJXzJYX05rV05hYUZuRXd1RU1UNy1hVFZlNTFHU1hET2JhU1RCTFhSMExMN2VLQ3Y1alhjSWt2Nzlfb0tFRTZoVjVQVlRfOVlCYUhGYW5tN2ROR0QwRnJUREhDdkdaTG5qZEU4RnFnd3c2RHB2dTktQXNsV0ZEVkdaV3NtelVv?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
