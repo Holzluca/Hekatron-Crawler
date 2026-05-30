@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T11:15:55.725924+00:00",
+  "generatedAt": "2026-05-30T12:44:55.604585+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -66,10 +66,10 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
         "source": "Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
@@ -86,10 +86,10 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
         "source": "Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
@@ -171,13 +171,13 @@
         ]
       },
       {
-        "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
+        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
+        "source": "giga.de",
+        "publishedAt": "2026-05-12T13:27:58+00:00",
+        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
         "tags": [
-          "Ei"
+          "Bosch"
         ]
       },
       {
@@ -188,6 +188,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
+        "source": "Stimme",
+        "publishedAt": "2026-04-30T07:00:00+00:00",
+        "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -213,6 +223,26 @@
         ]
       },
       {
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Bewegungsmelder II jetzt auch mit Matter - appgefahren.de",
+        "source": "appgefahren.de",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch Bewegungsmelder II jetzt auch mit Matter appgefahren.de",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPekZwSXhjd2xZcFRkTlp4bHBEZEE4SFNPZWZjTUVkaWMzem5fZXY1TU9fMnZmTEkyZDNQdVozN1ZXVHBQdnVBN0t6MjA0OTdRLVhsRzU5NnVOazIyMWJEbEttNjhmT0x2S2NxSE56RS1tOHJFeWR2TTdpa3JiYzllalZJX1o3TXFKVVdrTGp3?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-04-27T07:00:00+00:00",
@@ -220,36 +250,6 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
-        ]
-      },
-      {
-        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
-        "source": "WELT",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
-        "tags": [
-          "WELT"
-        ]
-      },
-      {
-        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest - berliner-kurier.de",
-        "source": "berliner-kurier.de",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest berliner-kurier.de",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGgyNDhFd3N5UGFvX1RSR1ZsLWhab3MzcU1FWElGX2FCVVFBTHBQQm5OOC1YTjB2ZHdWX0kyazJuRFhDcmY3ZXhiekZLVXBQOWw5NklHZmRET0hONXRrV1FidjRKdzRTOTFOYUxELWZDX3luaVpIT29RLW5EaTlfQ3kyVmJfX0RZY2FMNVUxbVJ3WkxJZFhrOEJhT2pJMjk0TFN5VlV2VENzTUxpTm44bGV6TUQ?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
