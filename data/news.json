@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T23:57:22.130660+00:00",
+  "generatedAt": "2026-05-31T03:52:09.098891+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -107,16 +107,6 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -125,6 +115,16 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -213,6 +213,17 @@
         ]
       },
       {
+        "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-04-29T07:00:00+00:00",
@@ -230,17 +241,6 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPekZwSXhjd2xZcFRkTlp4bHBEZEE4SFNPZWZjTUVkaWMzem5fZXY1TU9fMnZmTEkyZDNQdVozN1ZXVHBQdnVBN0t6MjA0OTdRLVhsRzU5NnVOazIyMWJEbEttNjhmT0x2S2NxSE56RS1tOHJFeWR2TTdpa3JiYzllalZJX1o3TXFKVVdrTGp3?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       },
       {
@@ -346,6 +346,16 @@
         ]
       },
       {
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-03-06T08:00:00+00:00",
@@ -364,16 +374,6 @@
         "tags": [
           "GEZE"
         ]
-      },
-      {
-        "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
-        "source": "CoinDesk",
-        "publishedAt": "2026-02-15T08:00:00+00:00",
-        "summary": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -388,10 +388,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
+        "source": "Euronews",
         "publishedAt": "2026-05-28T14:22:09+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -459,10 +459,10 @@
         ]
       },
       {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
-        "source": "Logistra",
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
+        "source": "LOGISTRA",
         "publishedAt": "2026-05-21T10:57:14+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
         "tags": [
           "KI"
@@ -479,21 +479,21 @@
         ]
       },
       {
-        "title": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-20T15:06:21+00:00",
-        "summary": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajR4ZGFZYUl2emcyZzdMdjZLdFpZYWNnWHNtdFotUmdTQklldDVzOG9URHo4VkVyejdDb3BUdVQwVzBUZ2VYYUVKNVIzeVA4Tk03WTlpZTUzTWRUNWJNVUt3Tjk5TU9UWDNwRFhtdFlSNU9LQlZYTExIMDJ5VS1hYXVfSm41RDZnODYta2FKVnQ2c3RLS0R2M0d6OXdFRGxxUmZZT2JIMU5mRldiMnNXdEs1NXQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
         "title": "Carrier Global Corp.-Aktie (US1442851009): Gewinnüberraschung, Kursrutsch und Dividende im Fokus - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-20T12:55:45+00:00",
         "summary": "Carrier Global Corp.-Aktie (US1442851009): Gewinnüberraschung, Kursrutsch und Dividende im Fokus AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZE4xSnExbFhHQm1iNkZsWC0ySUl0MG9FbXFST1BuS0tZQ2ZFbTNQVEVfYjltZlRRanNaemp4TWQ4VUlfQUJzWHZJXzJYX05rV05hYUZuRXd1RU1UNy1hVFZlNTFHU1hET2JhU1RCTFhSMExMN2VLQ3Y1alhjSWt2Nzlfb0tFRTZoVjVQVlRfOVlCYUhGYW5tN2ROR0QwRnJUREhDdkdaTG5qZEU4RnFnd3c2RHB2dTktQXNsV0ZEVkdaV3NtelVv?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-19T18:36:30+00:00",
+        "summary": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUY4UEhmX2RFSE80VzNUbnkwNjJ0TXVwRDZtLTlrRGRRcVdxRVgyTDNWZ2VjU09iWV9KTG1GbXpRNnBKYXY5Zk9rRTNKWVRIbGdSRDlnNHRUcTY4VzdHVXlia2NualhVdjNUVEl2LV8tdGw3eTh1dmFEQVdGcDQ5U1Jkay02NjExVkJSblJ3RmJqNGVacTJXY2RreENtdkRaVkFyX3JUbFZwbnhKaGtxVGhsQzd6XzdXdms0RE5nNUw?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
