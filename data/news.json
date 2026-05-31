@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T11:55:13.005907+00:00",
+  "generatedAt": "2026-05-31T13:24:25.821852+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -107,6 +107,16 @@
         ]
       },
       {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-03-10T07:00:00+00:00",
@@ -115,16 +125,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -192,16 +192,6 @@
         ]
       },
       {
-        "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
-        "source": "Stimme",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
         "source": "mobiFlip",
         "publishedAt": "2026-04-29T07:00:00+00:00",
@@ -234,16 +224,6 @@
         ]
       },
       {
-        "title": "Bosch Bewegungsmelder II jetzt auch mit Matter - appgefahren.de",
-        "source": "appgefahren.de",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Bewegungsmelder II jetzt auch mit Matter appgefahren.de",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPekZwSXhjd2xZcFRkTlp4bHBEZEE4SFNPZWZjTUVkaWMzem5fZXY1TU9fMnZmTEkyZDNQdVozN1ZXVHBQdnVBN0t6MjA0OTdRLVhsRzU5NnVOazIyMWJEbEttNjhmT0x2S2NxSE56RS1tOHJFeWR2TTdpa3JiYzllalZJX1o3TXFKVVdrTGp3?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-04-27T07:00:00+00:00",
@@ -251,6 +231,26 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
+        ]
+      },
+      {
+        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
+        "source": "WELT",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
+        "tags": [
+          "WELT"
+        ]
+      },
+      {
+        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
+        "source": "Berliner Morgenpost",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
