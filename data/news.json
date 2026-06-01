@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T05:23:31.987443+00:00",
+  "generatedAt": "2026-06-01T10:36:38.780248+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -172,6 +172,26 @@
         ]
       },
       {
+        "title": "Nuki, Aqara & Co.: Welches Smart Lock lohnt sich für zu Hause? - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-05-13T07:00:00+00:00",
+        "summary": "Nuki, Aqara & Co.: Welches Smart Lock lohnt sich für zu Hause? Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iYm1DWG45N1UwZUNCd1JFaWtXR1FHVzFjbkE1bWFfSHFBSDk1alpBVDFEQnNnQzhWT2FUdlR5ejBzOGllY1cwMTRSaDZoTWVYS3JhZ0YtVVIwNDR3YW9XLTBFUUZ5QzIyT3V3dmg3UklzMkJNY3dCVWxGdw?oc=5",
+        "tags": [
+          "Computer Bild"
+        ]
+      },
+      {
+        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
+        "source": "giga.de",
+        "publishedAt": "2026-05-12T13:27:58+00:00",
+        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-05-08T07:00:00+00:00",
@@ -189,6 +209,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-30T07:00:00+00:00",
+        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
+        "tags": [
+          "SmarthomeAssistent"
         ]
       },
       {
@@ -221,36 +251,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Bewegungsmelder II jetzt auch mit Matter - appgefahren.de",
-        "source": "appgefahren.de",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Bewegungsmelder II jetzt auch mit Matter appgefahren.de",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPekZwSXhjd2xZcFRkTlp4bHBEZEE4SFNPZWZjTUVkaWMzem5fZXY1TU9fMnZmTEkyZDNQdVozN1ZXVHBQdnVBN0t6MjA0OTdRLVhsRzU5NnVOazIyMWJEbEttNjhmT0x2S2NxSE56RS1tOHJFeWR2TTdpa3JiYzllalZJX1o3TXFKVVdrTGp3?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-27T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
         ]
       }
     ],
@@ -480,23 +480,23 @@
         ]
       },
       {
-        "title": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-19T18:36:30+00:00",
-        "summary": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUY4UEhmX2RFSE80VzNUbnkwNjJ0TXVwRDZtLTlrRGRRcVdxRVgyTDNWZ2VjU09iWV9KTG1GbXpRNnBKYXY5Zk9rRTNKWVRIbGdSRDlnNHRUcTY4VzdHVXlia2NualhVdjNUVEl2LV8tdGw3eTh1dmFEQVdGcDQ5U1Jkay02NjExVkJSblJ3RmJqNGVacTJXY2RreENtdkRaVkFyX3JUbFZwbnhKaGtxVGhsQzd6XzdXdms0RE5nNUw?oc=5",
+        "title": "Aselsan unterzeichnet Vertrag über 470 Mio. USD für KI-gestützte Sicherheitssysteme mit dem türkischen Präsidium für Verteidigungsindustrie - MarketScreener Deutschland",
+        "source": "MarketScreener Deutschland",
+        "publishedAt": "2026-05-21T06:26:46+00:00",
+        "summary": "Aselsan unterzeichnet Vertrag über 470 Mio. USD für KI-gestützte Sicherheitssysteme mit dem türkischen Präsidium für Verteidigungsindustrie MarketScreener Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVTc4cDBGNmp3YXFBZ0pSci1xcUdaSk9LTUx5N3M4d2o4LXdodXVTU0pVLUpjQUNqZ1lVM3g2a2dBUGZxdTZIVTM5aUZ3aEZMZVJKSjZjWnlsVXlJUk1NT3BtZm95MkFtQ25EdUlYdTVYeFFZcVcxS2JYQXhER1VYRERhMGFwWEpZSXhhaTQ3UjBjUWZBa2VpbmRwd0RUamVjbjA4V0U1b2lWUGFVdnhZeXJxVm0zbnpTTnhjakhlLVZRV3J0dVVQeEtCMUs3dlU2RktPRDhVenFhTkIwdmpKV1M0cmhGTWZUVGRKeThmNzlyOUlQQnpOVktNMUhtdw?oc=5",
         "tags": [
-          "AD HOC NEWS"
+          "KI"
         ]
       },
       {
-        "title": "Johnson Controls-Aktie (IE00BY7QL619): Insiderverkauf im Mai 2026 wirft Fragen zur Bewertung auf - AD HOC NEWS",
+        "title": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-19T16:12:19+00:00",
-        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Insiderverkauf im Mai 2026 wirft Fragen zur Bewertung auf AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPazVweUVMUFRPMEItV0NsSEFTak1LT3ZKbTViLW9nQXNabUlfUEM4U3RsQmMtb3NXUTM5Wms5RTFyNnViaVA3M3gzQk8tSjhic29VVmRGd1l5Y3NId0NXV21QRl9ZZ1pyRW41bUVuS1ZGakZDY1duellMQ2Z4Ujg5T0wwWkd4dXRSSWxFaWdzanhGQ2YzQnFVMkdmbzJjRm16YUE3emJPa29QcnBqRjEyQ2dfalQ3eFQ3MnZjZ2s1SGc3bFF0R1E?oc=5",
+        "publishedAt": "2026-05-20T15:06:21+00:00",
+        "summary": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajR4ZGFZYUl2emcyZzdMdjZLdFpZYWNnWHNtdFotUmdTQklldDVzOG9URHo4VkVyejdDb3BUdVQwVzBUZ2VYYUVKNVIzeVA4Tk03WTlpZTUzTWRUNWJNVUt3Tjk5TU9UWDNwRFhtdFlSNU9LQlZYTExIMDJ5VS1hYXVfSm41RDZnODYta2FKVnQ2c3RLS0R2M0d6OXdFRGxxUmZZT2JIMU5mRldiMnNXdEs1NXQ?oc=5",
         "tags": [
-          "AI"
+          "AD HOC NEWS"
         ]
       }
     ]
