@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-06-01T10:36:38.780248+00:00",
+  "generatedAt": "2026-06-01T16:33:53.756785+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-06-01T09:50:42+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
         "source": "elektro.net",
@@ -116,16 +126,6 @@
           "Siemens",
           "Brandschutz"
         ]
-      },
-      {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -172,26 +172,6 @@
         ]
       },
       {
-        "title": "Nuki, Aqara & Co.: Welches Smart Lock lohnt sich für zu Hause? - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-05-13T07:00:00+00:00",
-        "summary": "Nuki, Aqara & Co.: Welches Smart Lock lohnt sich für zu Hause? Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iYm1DWG45N1UwZUNCd1JFaWtXR1FHVzFjbkE1bWFfSHFBSDk1alpBVDFEQnNnQzhWT2FUdlR5ejBzOGllY1cwMTRSaDZoTWVYS3JhZ0YtVVIwNDR3YW9XLTBFUUZ5QzIyT3V3dmg3UklzMkJNY3dCVWxGdw?oc=5",
-        "tags": [
-          "Computer Bild"
-        ]
-      },
-      {
-        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
-        "source": "giga.de",
-        "publishedAt": "2026-05-12T13:27:58+00:00",
-        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-05-08T07:00:00+00:00",
@@ -199,26 +179,6 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Rauchmelder Test 2026 • Die 9 besten Rauchmelder im Vergleich - RTL.de",
-        "source": "RTL.de",
-        "publishedAt": "2026-05-07T07:00:00+00:00",
-        "summary": "Rauchmelder Test 2026 • Die 9 besten Rauchmelder im Vergleich RTL.de",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
         ]
       },
       {
@@ -251,6 +211,46 @@
         "tags": [
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Bewegungsmelder II jetzt auch mit Matter - appgefahren.de",
+        "source": "appgefahren.de",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch Bewegungsmelder II jetzt auch mit Matter appgefahren.de",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPekZwSXhjd2xZcFRkTlp4bHBEZEE4SFNPZWZjTUVkaWMzem5fZXY1TU9fMnZmTEkyZDNQdVozN1ZXVHBQdnVBN0t6MjA0OTdRLVhsRzU5NnVOazIyMWJEbEttNjhmT0x2S2NxSE56RS1tOHJFeWR2TTdpa3JiYzllalZJX1o3TXFKVVdrTGp3?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
+        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
+        "source": "WELT",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
+        "tags": [
+          "WELT"
         ]
       }
     ],
@@ -336,16 +336,6 @@
         ]
       },
       {
-        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-20T07:00:00+00:00",
-        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-03-06T08:00:00+00:00",
@@ -366,13 +356,23 @@
         ]
       },
       {
-        "title": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-02-13T08:00:00+00:00",
-        "summary": "Insider: Apollo will Europäern auch über Revolut die eigenen Fonds anbieten Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV19pSm5oWkVTT2hWVzR2SWR1YWppY1ZZWU1NLXNGaGo3NkN0NTdsbDk3SWIzZWZTQmtjODItUm9XeUJhOTk5S0ZONy14SzJnR2R3QnVTdXRhdS1rMmFaM0tCU3drbGotQldqQjBnZHdzN01jZWRBeklDNkttWUw1bFZsX1ZDMkNFSG9UVnBLdnpscV9aRGRWbGZ6bElXaEJ6M2xGeWRhdGxvdTB5Wk80?oc=5",
+        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
+        "source": "bm-online.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
-          "Apollo"
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
         ]
       }
     ],
@@ -399,10 +399,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
+        "source": "Euronews",
         "publishedAt": "2026-05-28T14:22:09+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -480,11 +480,11 @@
         ]
       },
       {
-        "title": "Aselsan unterzeichnet Vertrag über 470 Mio. USD für KI-gestützte Sicherheitssysteme mit dem türkischen Präsidium für Verteidigungsindustrie - MarketScreener Deutschland",
-        "source": "MarketScreener Deutschland",
-        "publishedAt": "2026-05-21T06:26:46+00:00",
-        "summary": "Aselsan unterzeichnet Vertrag über 470 Mio. USD für KI-gestützte Sicherheitssysteme mit dem türkischen Präsidium für Verteidigungsindustrie MarketScreener Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVTc4cDBGNmp3YXFBZ0pSci1xcUdaSk9LTUx5N3M4d2o4LXdodXVTU0pVLUpjQUNqZ1lVM3g2a2dBUGZxdTZIVTM5aUZ3aEZMZVJKSjZjWnlsVXlJUk1NT3BtZm95MkFtQ25EdUlYdTVYeFFZcVcxS2JYQXhER1VYRERhMGFwWEpZSXhhaTQ3UjBjUWZBa2VpbmRwd0RUamVjbjA4V0U1b2lWUGFVdnhZeXJxVm0zbnpTTnhjakhlLVZRV3J0dVVQeEtCMUs3dlU2RktPRDhVenFhTkIwdmpKV1M0cmhGTWZUVGRKeThmNzlyOUlQQnpOVktNMUhtdw?oc=5",
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
+        "source": "LOGISTRA",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
         "tags": [
           "KI"
         ]
