@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-06-02T13:55:56.836521+00:00",
+  "generatedAt": "2026-06-02T18:02:54.827971+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-02T16:07:14+00:00",
+        "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
       {
         "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
         "source": "Siemens press",
@@ -115,20 +126,20 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-03-10T07:00:00+00:00",
-        "summary": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWGNZalhmNkEwczhjWGNsUGZWRDFwcmdPMmdwUXk4TWhQa29jUlJReURtZVYzME5UWjdtS2tlZW1TTUxxcEp5Mjlsdmxjb1ZBc2wxY1ZsMUtUNDczNlRVOG4tQzZxUDd4OENCT1NLb2sycmNlRDdtT1JmNFpkY2RrVmJJYlVBb0V4enBDZ2NDVTM1ZHpyN2YtcFFKQUJFc0xQN2lMdGlYR1hKaER4RVhibWJISERyNXBQUHJPWUJaSHdQUFRhakZ0NHAzQTJOT1BaYmhobmF3UkZiS0dGdF9TYXkwR2xfNms3aExlaTdqQ2FCSEpsLXlkZWtBX1BRekdaMjMweWJKaE5wbkUtelBJNlNvMUV6eHpBcE9RLTBaNTF5RUhja1dUNURB?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-02T13:56:58+00:00",
+        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
+      },
       {
         "title": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel - appgefahren.de",
         "source": "appgefahren.de",
@@ -181,26 +192,6 @@
         ]
       },
       {
-        "title": "Nuki, Aqara & Co.: Welches Smart Lock lohnt sich für zu Hause? - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-05-13T07:00:00+00:00",
-        "summary": "Nuki, Aqara & Co.: Welches Smart Lock lohnt sich für zu Hause? Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iYm1DWG45N1UwZUNCd1JFaWtXR1FHVzFjbkE1bWFfSHFBSDk1alpBVDFEQnNnQzhWT2FUdlR5ejBzOGllY1cwMTRSaDZoTWVYS3JhZ0YtVVIwNDR3YW9XLTBFUUZ5QzIyT3V3dmg3UklzMkJNY3dCVWxGdw?oc=5",
-        "tags": [
-          "Computer Bild"
-        ]
-      },
-      {
-        "title": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert - giga.de",
-        "source": "giga.de",
-        "publishedAt": "2026-05-12T13:27:58+00:00",
-        "summary": "Bosch: Neue Smart-Home-Lösungen auf der IFA 2016 ausprobiert giga.de",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pNkpUUVRULWNvZWpNVHVfeTVqUUoxbHlKZFZuRnhmeGZmcVpTeGZkWXlGb1JMblVjTFR5cUo5NnJYNUQyTEZuUmlSWkZEWEtUcngtVVNyZEtmWkNBeklPbnlR?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-05-08T07:00:00+00:00",
@@ -208,26 +199,6 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
-        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
         ]
       },
       {
@@ -250,9 +221,50 @@
           "Bosch",
           "Smart Home"
         ]
+      },
+      {
+        "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
+        "source": "Reifenpresse.de",
+        "publishedAt": "2026-06-01T12:55:56+00:00",
+        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
+        "tags": [
+          "Reifenpresse.de"
+        ]
+      },
       {
         "title": "Apollo Global Management-Aktie (US0376123065): Kurs im Fokus nach jüngstem Branchen-Update - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -334,6 +346,16 @@
         ]
       },
       {
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-03-06T08:00:00+00:00",
@@ -352,29 +374,19 @@
         "tags": [
           "GEZE"
         ]
-      },
-      {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-02T16:07:14+00:00",
+        "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
       {
         "title": "Johnson Controls Intl-Aktie (IE0004762810): US-Papier nach jüngstem Kursrückgang im Fokus - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -407,13 +419,23 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
+        "source": "Euronews",
         "publishedAt": "2026-05-28T14:22:09+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
+        ]
+      },
+      {
+        "title": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-27T23:03:04+00:00",
+        "summary": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmhBejloeEdQa1JhSWduVlNuZ2dSTmNJejNyV2VNaXlKUEZzTnpqSVJXaUtVbUlMNFFKS3FJeEd2ZW9SM0VUUFZuWUllQ2ZZR1AzZ1QzOGZOaWswSEpqWjk0a0pqanR3VE5lVXI0WkFsdnpURHZNRk1PN2lyajNEdHJRcnYwNFJoaVdjTkxLVHBfTG1hRVZFNzBhVUo3VHIwU1k2Uk8zYTE3QWdMR0Q5TGpqWQ?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       },
       {
@@ -467,31 +489,11 @@
         ]
       },
       {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
-        "source": "LOGISTRA",
-        "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-20T15:06:21+00:00",
         "summary": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajR4ZGFZYUl2emcyZzdMdjZLdFpZYWNnWHNtdFotUmdTQklldDVzOG9URHo4VkVyejdDb3BUdVQwVzBUZ2VYYUVKNVIzeVA4Tk03WTlpZTUzTWRUNWJNVUt3Tjk5TU9UWDNwRFhtdFlSNU9LQlZYTExIMDJ5VS1hYXVfSm41RDZnODYta2FKVnQ2c3RLS0R2M0d6OXdFRGxxUmZZT2JIMU5mRldiMnNXdEs1NXQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Carrier Global Corp.-Aktie (US1442851009): Gewinnüberraschung, Kursrutsch und Dividende im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-20T12:55:45+00:00",
-        "summary": "Carrier Global Corp.-Aktie (US1442851009): Gewinnüberraschung, Kursrutsch und Dividende im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZE4xSnExbFhHQm1iNkZsWC0ySUl0MG9FbXFST1BuS0tZQ2ZFbTNQVEVfYjltZlRRanNaemp4TWQ4VUlfQUJzWHZJXzJYX05rV05hYUZuRXd1RU1UNy1hVFZlNTFHU1hET2JhU1RCTFhSMExMN2VLQ3Y1alhjSWt2Nzlfb0tFRTZoVjVQVlRfOVlCYUhGYW5tN2ROR0QwRnJUREhDdkdaTG5qZEU4RnFnd3c2RHB2dTktQXNsV0ZEVkdaV3NtelVv?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
