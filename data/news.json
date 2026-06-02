@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T05:08:39.370187+00:00",
+  "generatedAt": "2026-06-02T09:47:09.497559+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -130,6 +130,16 @@
     ],
     "pfs": [
       {
+        "title": "X-Sense integriert Warnmelder in Home Assistant - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-06-02T07:03:30+00:00",
+        "summary": "X-Sense integriert Warnmelder in Home Assistant mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FUF9SdFppLTBqNy1Hd2JvNjFmRVRXamRGT0Vkd19kd2FTUHRHcVk2dmhHMl9oWmljaUQwMGRfRXY5cnp4dWE3dGtXYlZhVVkzVWVOYmVHTEhjLWpMcUowb2NVVWFfbzdZandydGRnd3NmdnhFTEFNX3pGVWXSAYIBQVVfeXFMTXBnY2tKbzZPdWJKQUE3anhvQWJDbXJCLXVRVk5lUnZjQ2FjN3Ytem5uNWtwaUI3b19TSFJJLVZoZ3pTQVcxN1hhdXF4cWgwYkxOMzVObGwtMEluT2Zfb2ZVa3A5dGpuUTNsbThlT1NjcVNFZFFQOUhlY2RQdEpnNXk5Zw?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Ei Electronics auf der Feuertrutz 2026: Vernetzte Sicherheit im Wohnumfeld - tga.at",
         "source": "tga.at",
         "publishedAt": "2026-05-28T10:06:00+00:00",
@@ -238,16 +248,6 @@
         "publishedAt": "2026-04-29T07:00:00+00:00",
         "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Bewegungsmelder II jetzt auch mit Matter - appgefahren.de",
-        "source": "appgefahren.de",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Bewegungsmelder II jetzt auch mit Matter appgefahren.de",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPekZwSXhjd2xZcFRkTlp4bHBEZEE4SFNPZWZjTUVkaWMzem5fZXY1TU9fMnZmTEkyZDNQdVozN1ZXVHBQdnVBN0t6MjA0OTdRLVhsRzU5NnVOazIyMWJEbEttNjhmT0x2S2NxSE56RS1tOHJFeWR2TTdpa3JiYzllalZJX1o3TXFKVVdrTGp3?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -398,6 +398,16 @@
         ]
       },
       {
+        "title": "Brandschutz ab 50 Mitarbeitenden: Neue Regeln für Sicherheitsbeauftragte - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-31T09:32:34+00:00",
+        "summary": "Brandschutz ab 50 Mitarbeitenden: Neue Regeln für Sicherheitsbeauftragte it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0NRQUxYdVhTc1pJdWJoVkU4QzF3N3RUVFRGT0E4c09jc0JCaXRxcE1DRllHWFFIMHFrVnF1ZUNBVjF0Smx2d3dQdjRuTHVTdGVHYUJ1bGhkZWhaZzRLQzh5VVdLUlNid3JPVzhJcS1zN1YwcmI0aTZrdjBlb3p4UXVrZU5aRFhVZ0ZXaFlabmF5Z0JSSHhGbndadmk1RzZpNF9XVEUwYw?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
         "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
         "source": "TGA+E Fachplaner",
         "publishedAt": "2026-05-29T03:00:08+00:00",
@@ -408,23 +418,13 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
+        "source": "Euronews",
         "publishedAt": "2026-05-28T14:22:09+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
-        ]
-      },
-      {
-        "title": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-27T23:03:04+00:00",
-        "summary": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmhBejloeEdQa1JhSWduVlNuZ2dSTmNJejNyV2VNaXlKUEZzTnpqSVJXaUtVbUlMNFFKS3FJeEd2ZW9SM0VUUFZuWUllQ2ZZR1AzZ1QzOGZOaWswSEpqWjk0a0pqanR3VE5lVXI0WkFsdnpURHZNRk1PN2lyajNEdHJRcnYwNFJoaVdjTkxLVHBfTG1hRVZFNzBhVUo3VHIwU1k2Uk8zYTE3QWdMR0Q5TGpqWQ?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
         ]
       },
       {
@@ -478,21 +478,21 @@
         ]
       },
       {
+        "title": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
+        "summary": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren Nau",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHprSmRudlp3THhaTUhRY2RjbXVsdWFWSnhTMkQwSFNYSnVhSTM3T0ptUnY1ZGEtWER5N2d1TmEzcXpsOTl0YWJ1LXlZazcyZ08tN0I2MkpRdDB3NVNCUmV6eXhReFM0NzVvNGEtczNuZ1JHUmhoelVHQTIzUnRueTZyWi1yRXlCMTlERjVVVG5lam0tMmFTTzBNbzRNbkIxN0FtVzJIaHlFMVhCYUxSUDI2SQ?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
+      {
         "title": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-20T15:06:21+00:00",
         "summary": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajR4ZGFZYUl2emcyZzdMdjZLdFpZYWNnWHNtdFotUmdTQklldDVzOG9URHo4VkVyejdDb3BUdVQwVzBUZ2VYYUVKNVIzeVA4Tk03WTlpZTUzTWRUNWJNVUt3Tjk5TU9UWDNwRFhtdFlSNU9LQlZYTExIMDJ5VS1hYXVfSm41RDZnODYta2FKVnQ2c3RLS0R2M0d6OXdFRGxxUmZZT2JIMU5mRldiMnNXdEs1NXQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Carrier Global Corp.-Aktie (US1442851009): Gewinnüberraschung, Kursrutsch und Dividende im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-20T12:55:45+00:00",
-        "summary": "Carrier Global Corp.-Aktie (US1442851009): Gewinnüberraschung, Kursrutsch und Dividende im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZE4xSnExbFhHQm1iNkZsWC0ySUl0MG9FbXFST1BuS0tZQ2ZFbTNQVEVfYjltZlRRanNaemp4TWQ4VUlfQUJzWHZJXzJYX05rV05hYUZuRXd1RU1UNy1hVFZlNTFHU1hET2JhU1RCTFhSMExMN2VLQ3Y1alhjSWt2Nzlfb0tFRTZoVjVQVlRfOVlCYUhGYW5tN2ROR0QwRnJUREhDdkdaTG5qZEU4RnFnd3c2RHB2dTktQXNsV0ZEVkdaV3NtelVv?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
