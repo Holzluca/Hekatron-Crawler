@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T12:17:56.950521+00:00",
+  "generatedAt": "2026-06-03T17:25:06.555325+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -54,16 +54,6 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
-        ]
-      },
-      {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
-        "tags": [
-          "Siemens"
         ]
       },
       {
@@ -127,6 +117,16 @@
           "Siemens",
           "Brandschutz"
         ]
+      },
+      {
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
+        "source": "Aargauer Zeitung",
+        "publishedAt": "2026-03-30T07:00:00+00:00",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -162,17 +162,6 @@
         ]
       },
       {
-        "title": "Ei Electronics auf der Feuertrutz 2026: Vernetzte Sicherheit im Wohnumfeld - tga.at",
-        "source": "tga.at",
-        "publishedAt": "2026-05-28T10:06:00+00:00",
-        "summary": "Ei Electronics auf der Feuertrutz 2026: Vernetzte Sicherheit im Wohnumfeld tga.at",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NWi1qbUZabi1qYk4yZkloLXJVLWVkWlcyeGFGSmx4blR6aHpPRWh0TlRkcTVHRHVYekZwYnFZck8zNnViTlZoTF9PdHU4N205bXZiV0FWYTRoT3lrcGpPNVZzNXo2WWJ3bHpOVVlGaXNxbkVUQWZ3RDRpTkw?oc=5",
-        "tags": [
-          "Ei",
-          "Ei Electronics"
-        ]
-      },
-      {
         "title": "Smarter Schutz fürs Zuhause: Bosch Alarm-Set im Deal - Computer Bild",
         "source": "Computer Bild",
         "publishedAt": "2026-05-28T07:00:00+00:00",
@@ -180,6 +169,16 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGdaMHVUemJ2TjJFd2ZYNlRtdktmR2x5Z2RSVE5tbnlVb3N2b2xibkU1SndhRV9CdkwyLXdPX1otaVgyRE5yVWRuRFI5SkZkc3NkSW96WlExbnQwWmRWZ0R1RUxLd25uSXljYXRVWGk0UDcxS3pRQ0xNTkpZY19SUWo5aDJpVlZ5S2ZWZ0tXNWQ1aEFpaHpGdDVUR3VaSlcwazNuMGN2eEdJaDQwclVaZ3dFcmI1OHVFYnBr?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Sie haben keine Rauchmelder installiert? Diese Strafen drohen - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-05-27T09:48:56+00:00",
+        "summary": "Sie haben keine Rauchmelder installiert? Diese Strafen drohen CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEZ0Z3MtbVBCUTlDVDNkeDZhYTdETkZsQVJKRkFUWFpYdE1CVUVCTUFlU1ZBTTBxdjVfQ1lydTEtamN1bW9lWHNIRzJQelVmbUpMRjI3VXhrZm5WTThidk5faWRTX0UwLXplMTFQVWlpZlJMSHNsMi1sV2dOU1JFX0ZoZXNHRDM1S0k0TW9FbzdiSkxXOEoycl9peDUyaVk5U1hPM0pBNklFZVBRYXc0T1J1aWE5NFItMXJYdEVUMHZiNnNla1pzajA0ZEFweFZiaWgwb2RETzNpa045a1AzaQ?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -213,6 +212,27 @@
         ]
       },
       {
+        "title": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen - stuttgarter-nachrichten.de",
+        "source": "stuttgarter-nachrichten.de",
+        "publishedAt": "2026-05-05T07:00:00+00:00",
+        "summary": "„Smart Work“-Regel abgeschafft: „Ich will die Leute sehen“ – was Bosch-Mitarbeiter zum Thema Homeoffice sagen stuttgarter-nachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPN2ZsWER5N1B1VmdmYnNVbUZHYUNJR1BOMG9VeUNkdmtCenBQVFNHbmVlMnljb1QtWWdfcUJIbG1tdzVLX2dneDhZekVHYzhvUDFUTnVmaFN1TFZCdTlxSDZVQWN0bG9oTUhmMnR5bmhjR2JGNGZQekY1YmhGZHZRTE1SMU41RFlYaVE1Z2gyOFBvMzloVURJaTRqM0JYVDNDd2RDanZCWlA1MUV3RkFIUmg4anZVMDNzR3FGa0loM1EzTTdTUmFhUm93LVlxUHpNZ0U0YVM4cjdwdFlWc2J4d1BLdmVEOFhfVUJ1SE9kTTB1a1NnMUlTWUZZNnZUalgtcW9pMFByV01UUmhSc1RSS2l3cW5sN2VncFE?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-30T07:00:00+00:00",
+        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
+        "tags": [
+          "SmarthomeAssistent"
+        ]
+      },
+      {
         "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-30T07:00:00+00:00",
@@ -223,34 +243,13 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
+        "title": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt - stuttgarter-nachrichten.de",
+        "source": "stuttgarter-nachrichten.de",
+        "publishedAt": "2026-04-30T07:00:00+00:00",
+        "summary": "„Smart Work“-Regel abgeschafft: Bosch-Chef spricht Klartext – darum wurde die Homeoffice-Vereinbarung gekündigt stuttgarter-nachrichten.de",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPRWMwQkUtWi02UWpVRFRmVTlicVd4TE1WWkM1cFUyVGIteTRmR2p3MGd0MW1vc3Ayb1FOZVU0SlRGeFZDRm9Jbm56d3FUUFNTYVRISEVXbGh6Mmp2N2VHTUJ1NVllWFNuZlRaWVMtSzlQYm82aHBVbW9NLUtmdTdOLUMtWE9vSlVGMXBIZk9VUUU0NlVPd3JCSEVjLXRwWWVUYlRpc3M4WExSNWtxYkZOM1J0ZV9BRTVCbmMyWXZYelZCbGdvRE5WYmVXUmtOVVR0N2ZwVmVHRGpCaGlMR1pMeE5zazMtd2R1MVVGWTR6TUJ6WENrRzRGN1VrdnRYSDZaZkoxU0V4T29qOVJES0N2cVI1M3JWczgwbVFVT2gtTlo?oc=5",
         "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
+          "Ei",
           "Bosch"
         ]
       }
@@ -269,7 +268,7 @@
       {
         "title": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-24T06:40:59+00:00",
+        "publishedAt": "2026-05-24T07:00:00+00:00",
         "summary": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9rcXNYeGF1WU1lVEl6dHVnSlpkdlZVU094Qk1hbTFHUTNhaGVBR1NvcHQ5dktDdzNRVzlxXy1zLXg0amJfamZONEVyNUNJSloyRFNYRUp1Z0otaDVZV1B4dHU2MVVhRFpsWWUzTEJCbWdOMU9YSEMzazBtZy1MX3NiZFNjb0loNlFIOVpyc1RHTmJOSkwtMXNzRlRVT3RoZEUwUm43OGF4WUJPTmNMNlBiYndick4yN0dKb2dVakt6aG15MVhBNQ?oc=5",
         "tags": [
@@ -292,6 +291,16 @@
         "publishedAt": "2026-05-13T07:00:00+00:00",
         "summary": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVNpemJnUkZZNUdXcEFlRG9FSVZIZHJLLVh2eHNNNC1mel9JMDFGX2tEMHdPaDhTSXFmb1BxRTZXcFVWeW1OZzIyUDhtZkpYRmdyTy01TkQ0OXR0TTM2eUR3Q0Z0Z1JlVFBuN3FiaGxvZG5DbUVtLU1aX3F6ckZXLWNJX0Rnb1VnbVl4bXFOc3RNb0M2WVlZYlFvN3QtLUdZTGVMMVYtWEhkZEhmR0lYd1BBX0NOV0tZN2gzSlNUMG00Ujg?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-12T07:00:00+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUlMdE8yRWpiT2xmeC1QS1Q5eFhlcWxucDRmTWZOWEw2dUdheUR6Wm16RHJHWWZSRzlaWURRNWoyclRJU2k5bk1EZkR3NnRBaW5KZl82S2R0bUZaclZoSllkNkRfQ3RHTVhNS3lGaTQ1eEFhTW1LU0QzN0xSRkJWaVN5dnZ1bGh2T1hfb2NreG5EY1N0SXBFb3p6TllWRWRvMVJRX0FncnNSczJ1WHJUcThNdUJ6YV95cS1QWVk2NDJjQkVhRGlj?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -365,16 +374,6 @@
         "tags": [
           "Handelsblatt"
         ]
-      },
-      {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-14T10:47:12+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
@@ -396,17 +395,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJkVUpyWHlLWVppSUU5Vlo3UUpuQWRpS0NyT2xoYXlNZ0JYZHNVb2VpR3lGU1BFazlZS0hub2owaENXWlFVOHFNaDd5czBVdWladmZaT3JibVV2NnlkcUczeXM0YTJ2Q3RVSFpMWksyS2ZzbWNHc3lFX2tuY3p5X3BWUkRDYUdLc1VDT3RtNUVHWDJJMmtSaE1CcWFHR29WaW1jZnhORHp6VTBzQWw5am9TeS04SnFnTFdmNUZ1MDFQdw?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren - european-circle.de",
-        "source": "european-circle.de",
-        "publishedAt": "2026-05-31T17:46:59+00:00",
-        "summary": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren european-circle.de",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcl9sV3VybkROaTV1c1ViMl8zdzhkSVNUWkpEMEpydXh1ZGF4Y1JKVjRURHJNalNwVTluYkJLa2FLbzJWcGs4cXpucTdrcVhIXzY1a1RGMmVDWE9oWFRMRXBXQTJLTGhwdE8yMU9mNGpoTmFoX3FTcXltNWd4OWJyeEJYeGJBVkZnay02SjIwZWxwMl9mWHE1eW5CZXd4dzlmbUI3WWJwckRlNXJqaHhlS1FEVkgxUFUzc29sTVhsSk0yTkY3MVE5RkpwbE1UUTdReUtBX010N0NlWWhiWks0a0NSMXk0eEFMNmM5UEdka1VVaU9wTXM0?oc=5",
-        "tags": [
-          "KI",
-          "AI"
         ]
       },
       {
@@ -495,6 +483,16 @@
         "publishedAt": "2026-05-22T13:11:38+00:00",
         "summary": "Johnson Controls Intl-Aktie (IE00BY7QL619): Quartalszahlen, Gebäudetechnik-Trends und was Anleger j AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWU0QmE2YWNYRE50M3A1RVdFblpZdHR1UTF6MG56SHFpNkdDZXdrVVR3SjdTcV9hM1RaSXlPd1VxN1hSY1dXd2lrV2NmMUdOME0xaF9TTFp1TGZTenFwVkRxYXNGci0zRE9ITDc1MVNUdW5keU5BZUxMMTVXcTMwdTJ2bFR5MzNyM2ZFT2F1MkdSbmJodlgzNHEwLXZzRjVlN1dOMi1FWDJ2alpEanY4MGZzekw?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-21T17:41:04+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
