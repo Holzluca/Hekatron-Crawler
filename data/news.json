@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T06:59:54.424786+00:00",
+  "generatedAt": "2026-06-04T10:41:11.348190+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -23,6 +23,16 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-06-01T09:50:42+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -116,31 +126,9 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
-      },
-      {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
       }
     ],
     "pfs": [
-      {
-        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-02T13:56:58+00:00",
-        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
       {
         "title": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel - appgefahren.de",
         "source": "appgefahren.de",
@@ -202,16 +190,6 @@
         ]
       },
       {
-        "title": "Smarte Brandmelder: Sicherheit für unter 50 Euro - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
-        "summary": "Smarte Brandmelder: Sicherheit für unter 50 Euro Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdnBnUURsQTlmNW5LRXN0MDk5Q1AtSi1mU2VUNVlBSlRVRW5MVTlBcGk2NWVMZTZxdmkxV0pHVW5VcndjUGFub1l6RFBRandvUVJ6WkYwVHNieUJWT29sV0c2Y3ZvTmU4dGNvVGFMODl3WHMxVG9PekxKMU8?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-04-30T07:00:00+00:00",
@@ -227,6 +205,16 @@
         "publishedAt": "2026-04-30T07:00:00+00:00",
         "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -252,9 +240,29 @@
           "Bosch",
           "Smart Home"
         ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
+        "source": "Reifenpresse.de",
+        "publishedAt": "2026-06-01T12:55:56+00:00",
+        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
+        "tags": [
+          "Reifenpresse.de"
+        ]
+      },
       {
         "title": "Apollo Global Management-Aktie (US0376123065): Kurs im Fokus nach jüngstem Branchen-Update - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -364,16 +372,6 @@
         "tags": [
           "GEZE"
         ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
@@ -428,10 +426,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
+        "source": "Euronews",
         "publishedAt": "2026-05-28T14:22:09+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -448,16 +446,6 @@
         ]
       },
       {
-        "title": "Johnson Controls-Aktie (IE00BY7QL619): RBC bestätigt Einstufung „Sector Perform“ und Kursziel 1 - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-27T18:04:01+00:00",
-        "summary": "Johnson Controls-Aktie (IE00BY7QL619): RBC bestätigt Einstufung „Sector Perform“ und Kursziel 1 AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGpMMDczRWZLOGFmcDB5d0dSajBVRHVYMUpaS3RFa0E3Qi1zMHEwSm1sdHFVOFItdnM3dmZJdk9UUGR1d3VNTmFBWFJBT3YzcDQ5SlVxWFFqblZFUTFGTU1LdGcyUjBIZUM4bFEzYXlsRC1id3dNOVUzZFhyZXkxdE5ta1NkSUJlMVFpQkY4ZW1DVHVYUGI2am9tUGg1bDFlLUVWRFl4d25SNnFBa1phZ1J1NXFnanZUZ0F4Z3ZvbklOTzBGMEE?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
         "title": "TU Berlin warnt: 96% sanierungsbedürftig, Brandschutz-Urteile und 2,4 Mrd. fehlen - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-05-27T10:50:18+00:00",
@@ -465,6 +453,16 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUx0UWFQVHFWaHJtVDhTOTUzRTVuYmtlc3lVVW9veldsOXhrRE5RUnYtMTlqODFNNDljSEttWkN5VTFwZkJmNTJETGN2aG9DMXlCNWN6UGpmMEl3MzMtUmg4MkNhWXROMURfdGVrdGtPVDBQWlZGeS1NTkI2anZnc3RBdFJPYVcwSlROMk51THpZSFhEVXQ5YURadzVBdE1vUnZNd2Vhb2otRjJVaXc?oc=5",
         "tags": [
           "it boltwise"
+        ]
+      },
+      {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): RBC bestätigt Einstufung „Sector Perform“ und Kursziel 1 - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-27T07:00:00+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): RBC bestätigt Einstufung „Sector Perform“ und Kursziel 1 AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGpMMDczRWZLOGFmcDB5d0dSajBVRHVYMUpaS3RFa0E3Qi1zMHEwSm1sdHFVOFItdnM3dmZJdk9UUGR1d3VNTmFBWFJBT3YzcDQ5SlVxWFFqblZFUTFGTU1LdGcyUjBIZUM4bFEzYXlsRC1id3dNOVUzZFhyZXkxdE5ta1NkSUJlMVFpQkY4ZW1DVHVYUGI2am9tUGg1bDFlLUVWRFl4d25SNnFBa1phZ1J1NXFnanZUZ0F4Z3ZvbklOTzBGMEE?oc=5",
+        "tags": [
+          "AD HOC NEWS"
         ]
       },
       {
@@ -490,7 +488,7 @@
       {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-21T17:41:04+00:00",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
         "summary": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
