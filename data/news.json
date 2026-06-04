@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T10:41:11.348190+00:00",
+  "generatedAt": "2026-06-04T13:55:24.974299+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -130,6 +130,16 @@
     ],
     "pfs": [
       {
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-04T12:02:00+00:00",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
+        "tags": [
+          "Teltarif"
+        ]
+      },
+      {
         "title": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel - appgefahren.de",
         "source": "appgefahren.de",
         "publishedAt": "2026-06-02T10:39:37+00:00",
@@ -147,6 +157,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FUF9SdFppLTBqNy1Hd2JvNjFmRVRXamRGT0Vkd19kd2FTUHRHcVk2dmhHMl9oWmljaUQwMGRfRXY5cnp4dWE3dGtXYlZhVVkzVWVOYmVHTEhjLWpMcUowb2NVVWFfbzdZandydGRnd3NmdnhFTEFNX3pGVWXSAYIBQVVfeXFMTXBnY2tKbzZPdWJKQUE3anhvQWJDbXJCLXVRVk5lUnZjQ2FjN3Ytem5uNWtwaUI3b19TSFJJLVZoZ3pTQVcxN1hhdXF4cWgwYkxOMzVObGwtMEluT2Zfb2ZVa3A5dGpuUTNsbThlT1NjcVNFZFFQOUhlY2RQdEpnNXk5Zw?oc=5",
         "tags": [
           "X-Sense"
+        ]
+      },
+      {
+        "title": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-06-01T09:19:00+00:00",
+        "summary": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTZXOElud3U0NjltMW1KRWs3WERVZ0czTmZGbzBwZHNxejRYbXlSalB2NDJKMlB3R2dUdmJaSHhjX2RmcW9PWThmeXVkdHpzZTNxY3QtOFFYY0FpMHMzeFo2SElNaGR4cVVLdTczemYtdXVEemxoVDJnRXRsSWJRNDFQVXRpbENqbEIwcEprX2JHQXM?oc=5",
+        "tags": [
+          "Computer Bild"
         ]
       },
       {
@@ -190,31 +210,11 @@
         ]
       },
       {
-        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
         "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-30T07:00:00+00:00",
         "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -242,13 +242,13 @@
         ]
       },
       {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-27T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
         "tags": [
-          "FAZ"
+          "Bosch"
         ]
       }
     ],
@@ -279,16 +279,6 @@
         "publishedAt": "2026-05-24T07:00:00+00:00",
         "summary": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9rcXNYeGF1WU1lVEl6dHVnSlpkdlZVU094Qk1hbTFHUTNhaGVBR1NvcHQ5dktDdzNRVzlxXy1zLXg0amJfamZONEVyNUNJSloyRFNYRUp1Z0otaDVZV1B4dHU2MVVhRFpsWWUzTEJCbWdOMU9YSEMzazBtZy1MX3NiZFNjb0loNlFIOVpyc1RHTmJOSkwtMXNzRlRVT3RoZEUwUm43OGF4WUJPTmNMNlBiYndick4yN0dKb2dVakt6aG15MVhBNQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Hospitals Chennai erweitert globalen Patientenzugang mit neuem Informationszentrum in Chattogram, Bangladesch - Apollo Hospitals",
-        "source": "Apollo Hospitals",
-        "publishedAt": "2026-05-15T20:30:19+00:00",
-        "summary": "Apollo Hospitals Chennai erweitert globalen Patientenzugang mit neuem Informationszentrum in Chattogram, Bangladesch Apollo Hospitals",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZENueW9wN2hvcXRmSWpUVTJGQ01PLThmcVpaSUhpVDVOcHBaMWE0R0JQVFYtVkVCdTJBS1dlRXZRZFV3U0pqR1kzMEdKYmtYU19HT0hCY1VNWW9WYk5pNG1yTDJRMjdNdjVyY0ZxVV9JNlY1VGs4b2x4dXQ1WGp6MkRxWnlxX1JYNTFJMERwbjVEa2RZUXdYVUFwQ0o4NUtLVnpKM0wzRXZTaEFpV3oySXJ1Q3RmSTFWZTVPU0RyMkZCZGtBQXlKelF1eUp5Mm5FVmYwNDdBNTBXV2pKOXBsUmdtalIwQ3IxSm85NW0yVS1aWHc?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -372,9 +362,29 @@
         "tags": [
           "GEZE"
         ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
       }
     ],
     "trends": [
+      {
+        "title": "Mit KI zu schnelleren Sanierungsentscheidungen - db deutsche bauzeitung",
+        "source": "db deutsche bauzeitung",
+        "publishedAt": "2026-06-04T12:05:34+00:00",
+        "summary": "Mit KI zu schnelleren Sanierungsentscheidungen db deutsche bauzeitung",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOHNUVHRhVzU5WjdtWWpkcFpFLUNfaXFvTm9JdkRSaHRnMUl2NkpuclI2NHlUVUhRSHhPTXNZOThNMnoxcThWVU8wVTl3blVxcV9qOFhiQTJHdXdoMmp4N0tKTXd0MDY4SDNCRnlKZnN4cmd5dlZZTEVhV2N1eng2MkZVaHVLSHpBSDlBV3FjYXRFSkpHeFhPblhBNV9lQmFMRXdVVQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
       {
         "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -393,6 +403,17 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJkVUpyWHlLWVppSUU5Vlo3UUpuQWRpS0NyT2xoYXlNZ0JYZHNVb2VpR3lGU1BFazlZS0hub2owaENXWlFVOHFNaDd5czBVdWladmZaT3JibVV2NnlkcUczeXM0YTJ2Q3RVSFpMWksyS2ZzbWNHc3lFX2tuY3p5X3BWUkRDYUdLc1VDT3RtNUVHWDJJMmtSaE1CcWFHR29WaW1jZnhORHp6VTBzQWw5am9TeS04SnFnTFdmNUZ1MDFQdw?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren - european-circle.de",
+        "source": "european-circle.de",
+        "publishedAt": "2026-05-31T17:46:59+00:00",
+        "summary": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren european-circle.de",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcl9sV3VybkROaTV1c1ViMl8zdzhkSVNUWkpEMEpydXh1ZGF4Y1JKVjRURHJNalNwVTluYkJLa2FLbzJWcGs4cXpucTdrcVhIXzY1a1RGMmVDWE9oWFRMRXBXQTJLTGhwdE8yMU9mNGpoTmFoX3FTcXltNWd4OWJyeEJYeGJBVkZnay02SjIwZWxwMl9mWHE1eW5CZXd4dzlmbUI3WWJwckRlNXJqaHhlS1FEVkgxUFUzc29sTVhsSk0yTkY3MVE5RkpwbE1UUTdReUtBX010N0NlWWhiWks0a0NSMXk0eEFMNmM5UEdka1VVaU9wTXM0?oc=5",
+        "tags": [
+          "KI",
+          "AI"
         ]
       },
       {
@@ -426,10 +447,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T14:22:09+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -443,16 +464,6 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmhBejloeEdQa1JhSWduVlNuZ2dSTmNJejNyV2VNaXlKUEZzTnpqSVJXaUtVbUlMNFFKS3FJeEd2ZW9SM0VUUFZuWUllQ2ZZR1AzZ1QzOGZOaWswSEpqWjk0a0pqanR3VE5lVXI0WkFsdnpURHZNRk1PN2lyajNEdHJRcnYwNFJoaVdjTkxLVHBfTG1hRVZFNzBhVUo3VHIwU1k2Uk8zYTE3QWdMR0Q5TGpqWQ?oc=5",
         "tags": [
           "Nachhaltigkeit"
-        ]
-      },
-      {
-        "title": "TU Berlin warnt: 96% sanierungsbedürftig, Brandschutz-Urteile und 2,4 Mrd. fehlen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-27T10:50:18+00:00",
-        "summary": "TU Berlin warnt: 96% sanierungsbedürftig, Brandschutz-Urteile und 2,4 Mrd. fehlen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUx0UWFQVHFWaHJtVDhTOTUzRTVuYmtlc3lVVW9veldsOXhrRE5RUnYtMTlqODFNNDljSEttWkN5VTFwZkJmNTJETGN2aG9DMXlCNWN6UGpmMEl3MzMtUmg4MkNhWXROMURfdGVrdGtPVDBQWlZGeS1NTkI2anZnc3RBdFJPYVcwSlROMk51THpZSFhEVXQ5YURadzVBdE1vUnZNd2Vhb2otRjJVaXc?oc=5",
-        "tags": [
-          "it boltwise"
         ]
       },
       {
@@ -481,16 +492,6 @@
         "publishedAt": "2026-05-22T13:11:38+00:00",
         "summary": "Johnson Controls Intl-Aktie (IE00BY7QL619): Quartalszahlen, Gebäudetechnik-Trends und was Anleger j AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWU0QmE2YWNYRE50M3A1RVdFblpZdHR1UTF6MG56SHFpNkdDZXdrVVR3SjdTcV9hM1RaSXlPd1VxN1hSY1dXd2lrV2NmMUdOME0xaF9TTFp1TGZTenFwVkRxYXNGci0zRE9ITDc1MVNUdW5keU5BZUxMMTVXcTMwdTJ2bFR5MzNyM2ZFT2F1MkdSbmJodlgzNHEwLXZzRjVlN1dOMi1FWDJ2alpEanY4MGZzekw?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
