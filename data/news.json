@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T19:19:57.321547+00:00",
+  "generatedAt": "2026-06-04T21:10:22.044419+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -140,6 +140,17 @@
         ]
       },
       {
+        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-02T13:56:58+00:00",
+        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel - appgefahren.de",
         "source": "appgefahren.de",
         "publishedAt": "2026-06-02T10:39:37+00:00",
@@ -157,16 +168,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FUF9SdFppLTBqNy1Hd2JvNjFmRVRXamRGT0Vkd19kd2FTUHRHcVk2dmhHMl9oWmljaUQwMGRfRXY5cnp4dWE3dGtXYlZhVVkzVWVOYmVHTEhjLWpMcUowb2NVVWFfbzdZandydGRnd3NmdnhFTEFNX3pGVWXSAYIBQVVfeXFMTXBnY2tKbzZPdWJKQUE3anhvQWJDbXJCLXVRVk5lUnZjQ2FjN3Ytem5uNWtwaUI3b19TSFJJLVZoZ3pTQVcxN1hhdXF4cWgwYkxOMzVObGwtMEluT2Zfb2ZVa3A5dGpuUTNsbThlT1NjcVNFZFFQOUhlY2RQdEpnNXk5Zw?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-06-01T09:19:00+00:00",
-        "summary": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTZXOElud3U0NjltMW1KRWs3WERVZ0czTmZGbzBwZHNxejRYbXlSalB2NDJKMlB3R2dUdmJaSHhjX2RmcW9PWThmeXVkdHpzZTNxY3QtOFFYY0FpMHMzeFo2SElNaGR4cVVLdTczemYtdXVEemxoVDJnRXRsSWJRNDFQVXRpbENqbEIwcEprX2JHQXM?oc=5",
-        "tags": [
-          "Computer Bild"
         ]
       },
       {
@@ -200,23 +201,13 @@
         ]
       },
       {
-        "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
-        "source": "Stimme",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "publishedAt": "2026-04-30T07:00:00+00:00",
+        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
         "tags": [
-          "Bosch"
+          "SmarthomeAssistent"
         ]
       },
       {
@@ -242,13 +233,23 @@
         ]
       },
       {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-27T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
         "tags": [
-          "FAZ"
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Neuer Bewegungsmelder von Bosch integriert Notlicht - iphone-ticker.de",
+        "source": "iphone-ticker.de",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Neuer Bewegungsmelder von Bosch integriert Notlicht iphone-ticker.de",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXo4Tm5HbVBKb1V5d3VVMWFuaE55dGRRNTI5VFc0NE04bGx5YW1uYm5sTUhTU19meTNMaDJXczhlLU1QN2RZcTJKb1MwWHpuRW94RWFxWElreUdjdHVoRFM1QTdIa19JekJvaVRMcnJxMnNFREpLMTExbEZEc2dPZWhQRktNYTZRNFctY2t4WWl2dw?oc=5",
+        "tags": [
+          "Bosch"
         ]
       }
     ],
@@ -269,6 +270,16 @@
         "publishedAt": "2026-05-24T07:00:00+00:00",
         "summary": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9rcXNYeGF1WU1lVEl6dHVnSlpkdlZVU094Qk1hbTFHUTNhaGVBR1NvcHQ5dktDdzNRVzlxXy1zLXg0amJfamZONEVyNUNJSloyRFNYRUp1Z0otaDVZV1B4dHU2MVVhRFpsWWUzTEJCbWdOMU9YSEMzazBtZy1MX3NiZFNjb0loNlFIOVpyc1RHTmJOSkwtMXNzRlRVT3RoZEUwUm43OGF4WUJPTmNMNlBiYndick4yN0dKb2dVakt6aG15MVhBNQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Hospitals Chennai erweitert globalen Patientenzugang mit neuem Informationszentrum in Chattogram, Bangladesch - Apollo Hospitals",
+        "source": "Apollo Hospitals",
+        "publishedAt": "2026-05-15T20:30:19+00:00",
+        "summary": "Apollo Hospitals Chennai erweitert globalen Patientenzugang mit neuem Informationszentrum in Chattogram, Bangladesch Apollo Hospitals",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZENueW9wN2hvcXRmSWpUVTJGQ01PLThmcVpaSUhpVDVOcHBaMWE0R0JQVFYtVkVCdTJBS1dlRXZRZFV3U0pqR1kzMEdKYmtYU19HT0hCY1VNWW9WYk5pNG1yTDJRMjdNdjVyY0ZxVV9JNlY1VGs4b2x4dXQ1WGp6MkRxWnlxX1JYNTFJMERwbjVEa2RZUXdYVUFwQ0o4NUtLVnpKM0wzRXZTaEFpV3oySXJ1Q3RmSTFWZTVPU0RyMkZCZGtBQXlKelF1eUp5Mm5FVmYwNDdBNTBXV2pKOXBsUmdtalIwQ3IxSm85NW0yVS1aWHc?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -359,16 +370,6 @@
         "publishedAt": "2026-01-17T08:00:00+00:00",
         "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-14T10:47:12+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
         ]
