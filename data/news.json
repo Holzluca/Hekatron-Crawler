@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T19:14:57.235436+00:00",
+  "generatedAt": "2026-06-05T21:06:31.772544+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -36,16 +36,6 @@
         ]
       },
       {
-        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-05-22T09:14:00+00:00",
-        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
-        "tags": [
-          "elektro.net"
-        ]
-      },
-      {
         "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-05-05T12:32:58+00:00",
@@ -54,16 +44,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-27T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
         ]
       },
       {
@@ -126,6 +106,28 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
+      },
+      {
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
+        "title": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-03-10T07:00:00+00:00",
+        "summary": "Speedy 400: Erster CO₂‑Flachbettlaser mit maschinenintegriertem Brandschutz – entwickelt von Trotec Laser mit Unterstützung von Siemens PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWGNZalhmNkEwczhjWGNsUGZWRDFwcmdPMmdwUXk4TWhQa29jUlJReURtZVYzME5UWjdtS2tlZW1TTUxxcEp5Mjlsdmxjb1ZBc2wxY1ZsMUtUNDczNlRVOG4tQzZxUDd4OENCT1NLb2sycmNlRDdtT1JmNFpkY2RrVmJJYlVBb0V4enBDZ2NDVTM1ZHpyN2YtcFFKQUJFc0xQN2lMdGlYR1hKaER4RVhibWJISERyNXBQUHJPWUJaSHdQUFRhakZ0NHAzQTJOT1BaYmhobmF3UkZiS0dGdF9TYXkwR2xfNms3aExlaTdqQ2FCSEpsLXlkZWtBX1BRekdaMjMweWJKaE5wbkUtelBJNlNvMUV6eHpBcE9RLTBaNTF5RUhja1dUNURB?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
       }
     ],
     "pfs": [
@@ -137,17 +139,6 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
           "Teltarif"
-        ]
-      },
-      {
-        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-02T13:56:58+00:00",
-        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
         ]
       },
       {
@@ -231,6 +222,16 @@
         ]
       },
       {
+        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
         "source": "mobiFlip",
         "publishedAt": "2026-04-29T07:00:00+00:00",
@@ -255,11 +256,31 @@
     ],
     "doors": [
       {
+        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
+        "source": "Reifenpresse.de",
+        "publishedAt": "2026-06-01T12:55:56+00:00",
+        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
+        "tags": [
+          "Reifenpresse.de"
+        ]
+      },
+      {
         "title": "Apollo Global Management-Aktie (US0376123065): Kurs im Fokus nach jüngstem Branchen-Update - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-28T19:29:02+00:00",
         "summary": "Apollo Global Management-Aktie (US0376123065): Kurs im Fokus nach jüngstem Branchen-Update AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOG43Ny1RaUgyT0FsZDBweC1EYTdtaXYzMXlEejVNalNXU3RlS0h0RkhYQkhZbjVYODFVeTJrZ2d0RGtuS0hsVG9ZdUdjcFA4c0pVYTgyZVdRbFFUZjZiUVRobm5MYUlkWmJTb2pydFdMVnRkNjRtQ2pIUkdjWE1oUFJoVEFWb1Y0S2hkRTlfWW9haHlrenF5cUhRcy1nbWh6WDNsODZaRUdZMkM2NDdPczVhTlNNdmU1VmpIajJ3?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management-Aktie (US0376123065): Asset-Manager aus den USA mit starkem Wachstum und ak - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-27T07:03:11+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Asset-Manager aus den USA mit starkem Wachstum und ak AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMFdidzlmSzloR1hDYU1ud19relE5c1Y2LVp1ODcwZ3dOM0NMb1Y4THVjRUkyWFROT25udG8zUzRLZGNQbGxZb0JGMVdaVGh3RWdYSkUtbnN0RkxIM2VUaGk3LWVwRVZqMXFtQVlTM0dOUEpBakpOaUV2MW4yV215dzZDanpnWHF5cVBDUUJ0N0NvWWJCWlNqZnFuVzRPdHFBMnRyRUhJZllIRlZhd1pYMXBsM01GOXNZbnFEY1JkdTg1dDZRSlA0?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -280,6 +301,16 @@
         "publishedAt": "2026-05-13T07:00:00+00:00",
         "summary": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVNpemJnUkZZNUdXcEFlRG9FSVZIZHJLLVh2eHNNNC1mel9JMDFGX2tEMHdPaDhTSXFmb1BxRTZXcFVWeW1OZzIyUDhtZkpYRmdyTy01TkQ0OXR0TTM2eUR3Q0Z0Z1JlVFBuN3FiaGxvZG5DbUVtLU1aX3F6ckZXLWNJX0Rnb1VnbVl4bXFOc3RNb0M2WVlZYlFvN3QtLUdZTGVMMVYtWEhkZEhmR0lYd1BBX0NOV0tZN2gzSlNUMG00Ujg?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-13T07:00:00+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -343,36 +374,6 @@
         "tags": [
           "GEZE"
         ]
-      },
-      {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-14T10:47:12+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
@@ -394,17 +395,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJkVUpyWHlLWVppSUU5Vlo3UUpuQWRpS0NyT2xoYXlNZ0JYZHNVb2VpR3lGU1BFazlZS0hub2owaENXWlFVOHFNaDd5czBVdWladmZaT3JibVV2NnlkcUczeXM0YTJ2Q3RVSFpMWksyS2ZzbWNHc3lFX2tuY3p5X3BWUkRDYUdLc1VDT3RtNUVHWDJJMmtSaE1CcWFHR29WaW1jZnhORHp6VTBzQWw5am9TeS04SnFnTFdmNUZ1MDFQdw?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren - european-circle.de",
-        "source": "european-circle.de",
-        "publishedAt": "2026-05-31T17:46:59+00:00",
-        "summary": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren european-circle.de",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcl9sV3VybkROaTV1c1ViMl8zdzhkSVNUWkpEMEpydXh1ZGF4Y1JKVjRURHJNalNwVTluYkJLa2FLbzJWcGs4cXpucTdrcVhIXzY1a1RGMmVDWE9oWFRMRXBXQTJLTGhwdE8yMU9mNGpoTmFoX3FTcXltNWd4OWJyeEJYeGJBVkZnay02SjIwZWxwMl9mWHE1eW5CZXd4dzlmbUI3WWJwckRlNXJqaHhlS1FEVkgxUFUzc29sTVhsSk0yTkY3MVE5RkpwbE1UUTdReUtBX010N0NlWWhiWks0a0NSMXk0eEFMNmM5UEdka1VVaU9wTXM0?oc=5",
-        "tags": [
-          "KI",
-          "AI"
         ]
       },
       {
@@ -468,21 +458,21 @@
         ]
       },
       {
-        "title": "Rockwool nach Q1 2025: Steinwolle zwischen Baukonjunktur und Energiewende - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-26T07:13:21+00:00",
-        "summary": "Rockwool nach Q1 2025: Steinwolle zwischen Baukonjunktur und Energiewende it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQm1zTWRFZGgwRktUVkgyMXBXZVdya3dmRmJySFNwWlZpV1E0dGNUc2NPRUg3WjNIaDdpZlVMY0VRendMYTBOQUlSMTJzRG1mR3RoSUxxU0o2YUlKTF9vb0RQN2JRT19JSWstcDVQQkV0a3FDZjJ5YllvbDFucllpbGltcTB2VHNGQ2NERkpxcWdRWV92UEQwSTJOd0lnMWJqU3pBU0p5aw?oc=5",
-        "tags": [
-          "it boltwise"
-        ]
-      },
-      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Wie der Gebäudeprofi vom Trend zur Energieeffizienz profitie - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-24T13:35:02+00:00",
         "summary": "Johnson Controls-Aktie (IE00BY7QL619): Wie der Gebäudeprofi vom Trend zur Energieeffizienz profitie AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkowa0NLVXg4QlFLRnlEQUpJSXlYRHNnbE5XWkVCck5qYVJicUM5b3BPd3hqUnRmWWpvRWVkZEszWmVtS1JFSHNLUkpTU3ZZVEJLXzBFcERNU2kwUFJkd29Rd1I1YzZob2NxejFjWktzQWUtY1d3NzJkbW5RaE5ZZ1gyUUpsZTJPNnZkd3FSQjNGSXRnSF9DdDFVQ1NuYWEzQy1TQnViNktUMDhORXlfcFQtdGNnMTllSG1UajNoRmY0Ylk4STJ2X3VB?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Johnson Controls Intl-Aktie (IE00BY7QL619): Quartalszahlen, Gebäudetechnik-Trends und was Anleger j - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-22T13:11:38+00:00",
+        "summary": "Johnson Controls Intl-Aktie (IE00BY7QL619): Quartalszahlen, Gebäudetechnik-Trends und was Anleger j AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWU0QmE2YWNYRE50M3A1RVdFblpZdHR1UTF6MG56SHFpNkdDZXdrVVR3SjdTcV9hM1RaSXlPd1VxN1hSY1dXd2lrV2NmMUdOME0xaF9TTFp1TGZTenFwVkRxYXNGci0zRE9ITDc1MVNUdW5keU5BZUxMMTVXcTMwdTJ2bFR5MzNyM2ZFT2F1MkdSbmJodlgzNHEwLXZzRjVlN1dOMi1FWDJ2alpEanY4MGZzekw?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
@@ -495,6 +485,16 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
+        "summary": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren Nau",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHprSmRudlp3THhaTUhRY2RjbXVsdWFWSnhTMkQwSFNYSnVhSTM3T0ptUnY1ZGEtWER5N2d1TmEzcXpsOTl0YWJ1LXlZazcyZ08tN0I2MkpRdDB3NVNCUmV6eXhReFM0NzVvNGEtczNuZ1JHUmhoelVHQTIzUnRueTZyWi1yRXlCMTlERjVVVG5lam0tMmFTTzBNbzRNbkIxN0FtVzJIaHlFMVhCYUxSUDI2SQ?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       }
     ]
