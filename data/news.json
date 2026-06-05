@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T00:01:01.984807+00:00",
+  "generatedAt": "2026-06-05T04:54:20.924404+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -181,6 +181,16 @@
         ]
       },
       {
+        "title": "Sie haben keine Rauchmelder installiert? Diese Strafen drohen - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-05-27T09:48:56+00:00",
+        "summary": "Sie haben keine Rauchmelder installiert? Diese Strafen drohen CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEZ0Z3MtbVBCUTlDVDNkeDZhYTdETkZsQVJKRkFUWFpYdE1CVUVCTUFlU1ZBTTBxdjVfQ1lydTEtamN1bW9lWHNIRzJQelVmbUpMRjI3VXhrZm5WTThidk5faWRTX0UwLXplMTFQVWlpZlJMSHNsMi1sV2dOU1JFX0ZoZXNHRDM1S0k0TW9FbzdiSkxXOEoycl9peDUyaVk5U1hPM0pBNklFZVBRYXc0T1J1aWE5NFItMXJYdEVUMHZiNnNla1pzajA0ZEFweFZiaWgwb2RETzNpa045a1AzaQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Wichtige Frist läuft noch 2026 ab: Viele Rauchmelder müssen ausgetauscht werden - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-05-27T07:00:00+00:00",
@@ -241,29 +251,9 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "doors": [
-      {
-        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
-        "source": "Reifenpresse.de",
-        "publishedAt": "2026-06-01T12:55:56+00:00",
-        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
-        "tags": [
-          "Reifenpresse.de"
-        ]
-      },
       {
         "title": "Apollo Global Management-Aktie (US0376123065): Kurs im Fokus nach jüngstem Branchen-Update - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -280,16 +270,6 @@
         "publishedAt": "2026-05-24T07:00:00+00:00",
         "summary": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9rcXNYeGF1WU1lVEl6dHVnSlpkdlZVU094Qk1hbTFHUTNhaGVBR1NvcHQ5dktDdzNRVzlxXy1zLXg0amJfamZONEVyNUNJSloyRFNYRUp1Z0otaDVZV1B4dHU2MVVhRFpsWWUzTEJCbWdOMU9YSEMzazBtZy1MX3NiZFNjb0loNlFIOVpyc1RHTmJOSkwtMXNzRlRVT3RoZEUwUm43OGF4WUJPTmNMNlBiYndick4yN0dKb2dVakt6aG15MVhBNQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-13T07:00:00+00:00",
-        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -372,6 +352,26 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-14T10:47:12+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
         ]
       }
     ],
@@ -468,16 +468,6 @@
         ]
       },
       {
-        "title": "TU Berlin warnt: 96% sanierungsbedürftig, Brandschutz-Urteile und 2,4 Mrd. fehlen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-27T10:50:18+00:00",
-        "summary": "TU Berlin warnt: 96% sanierungsbedürftig, Brandschutz-Urteile und 2,4 Mrd. fehlen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUx0UWFQVHFWaHJtVDhTOTUzRTVuYmtlc3lVVW9veldsOXhrRE5RUnYtMTlqODFNNDljSEttWkN5VTFwZkJmNTJETGN2aG9DMXlCNWN6UGpmMEl3MzMtUmg4MkNhWXROMURfdGVrdGtPVDBQWlZGeS1NTkI2anZnc3RBdFJPYVcwSlROMk51THpZSFhEVXQ5YURadzVBdE1vUnZNd2Vhb2otRjJVaXc?oc=5",
-        "tags": [
-          "it boltwise"
-        ]
-      },
-      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): RBC bestätigt Einstufung „Sector Perform“ und Kursziel 1 - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-27T07:00:00+00:00",
@@ -485,6 +475,16 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGpMMDczRWZLOGFmcDB5d0dSajBVRHVYMUpaS3RFa0E3Qi1zMHEwSm1sdHFVOFItdnM3dmZJdk9UUGR1d3VNTmFBWFJBT3YzcDQ5SlVxWFFqblZFUTFGTU1LdGcyUjBIZUM4bFEzYXlsRC1id3dNOVUzZFhyZXkxdE5ta1NkSUJlMVFpQkY4ZW1DVHVYUGI2am9tUGg1bDFlLUVWRFl4d25SNnFBa1phZ1J1NXFnanZUZ0F4Z3ZvbklOTzBGMEE?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Rockwool nach Q1 2025: Steinwolle zwischen Baukonjunktur und Energiewende - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-26T07:13:21+00:00",
+        "summary": "Rockwool nach Q1 2025: Steinwolle zwischen Baukonjunktur und Energiewende it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQm1zTWRFZGgwRktUVkgyMXBXZVdya3dmRmJySFNwWlZpV1E0dGNUc2NPRUg3WjNIaDdpZlVMY0VRendMYTBOQUlSMTJzRG1mR3RoSUxxU0o2YUlKTF9vb0RQN2JRT19JSWstcDVQQkV0a3FDZjJ5YllvbDFucllpbGltcTB2VHNGQ2NERkpxcWdRWV92UEQwSTJOd0lnMWJqU3pBU0p5aw?oc=5",
+        "tags": [
+          "it boltwise"
         ]
       },
       {
