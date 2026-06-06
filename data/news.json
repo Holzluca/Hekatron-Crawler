@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T20:06:19.458117+00:00",
+  "generatedAt": "2026-06-06T21:35:48.574165+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -275,11 +275,11 @@
         ]
       },
       {
-        "title": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück - AD HOC NEWS",
+        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-13T07:00:00+00:00",
-        "summary": "Apollo Tyres Ltd-Aktie (INE404A01024): Vorstandsmitglied Berjis Desai tritt zurück AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVNpemJnUkZZNUdXcEFlRG9FSVZIZHJLLVh2eHNNNC1mel9JMDFGX2tEMHdPaDhTSXFmb1BxRTZXcFVWeW1OZzIyUDhtZkpYRmdyTy01TkQ0OXR0TTM2eUR3Q0Z0Z1JlVFBuN3FiaGxvZG5DbUVtLU1aX3F6ckZXLWNJX0Rnb1VnbVl4bXFOc3RNb0M2WVlZYlFvN3QtLUdZTGVMMVYtWEhkZEhmR0lYd1BBX0NOV0tZN2gzSlNUMG00Ujg?oc=5",
+        "publishedAt": "2026-05-12T07:00:00+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUlMdE8yRWpiT2xmeC1QS1Q5eFhlcWxucDRmTWZOWEw2dUdheUR6Wm16RHJHWWZSRzlaWURRNWoyclRJU2k5bk1EZkR3NnRBaW5KZl82S2R0bUZaclZoSllkNkRfQ3RHTVhNS3lGaTQ1eEFhTW1LU0QzN0xSRkJWaVN5dnZ1bGh2T1hfb2NreG5EY1N0SXBFb3p6TllWRWRvMVJRX0FncnNSczJ1WHJUcThNdUJ6YV95cS1QWVk2NDJjQkVhRGlj?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -345,16 +345,6 @@
         ]
       },
       {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
         "title": "Rose in Wiesbaden - cineplex.de",
         "source": "cineplex.de",
         "publishedAt": "2026-02-03T15:21:31+00:00",
@@ -370,6 +360,16 @@
         "publishedAt": "2026-01-17T08:00:00+00:00",
         "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-14T10:47:12+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
         ]
@@ -414,6 +414,17 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVMzaXpQNWJlM1llTWpheFFIdUc3X015NERsYkVyWXhQU0dNZmdZcWd1LThkLWpjOTRXWmctSlYtQmdmUXFSM196Y05ib2p3eU5iMGdmWG9oV3JWNEdzYmNiTDJJd2dlV0dEV0xTSC05OGcyelg1OTNJQ1lFOEgzZkJDVjY4UnNQLTAyZUZCTHl1Nno4NlJLejV5aU1udw?oc=5",
         "tags": [
           "it boltwise"
+        ]
+      },
+      {
+        "title": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren - european-circle.de",
+        "source": "european-circle.de",
+        "publishedAt": "2026-05-31T17:46:59+00:00",
+        "summary": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren european-circle.de",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcl9sV3VybkROaTV1c1ViMl8zdzhkSVNUWkpEMEpydXh1ZGF4Y1JKVjRURHJNalNwVTluYkJLa2FLbzJWcGs4cXpucTdrcVhIXzY1a1RGMmVDWE9oWFRMRXBXQTJLTGhwdE8yMU9mNGpoTmFoX3FTcXltNWd4OWJyeEJYeGJBVkZnay02SjIwZWxwMl9mWHE1eW5CZXd4dzlmbUI3WWJwckRlNXJqaHhlS1FEVkgxUFUzc29sTVhsSk0yTkY3MVE5RkpwbE1UUTdReUtBX010N0NlWWhiWks0a0NSMXk0eEFMNmM5UEdka1VVaU9wTXM0?oc=5",
+        "tags": [
+          "KI",
+          "AI"
         ]
       },
       {
@@ -482,16 +493,6 @@
         "publishedAt": "2026-05-21T07:00:00+00:00",
         "summary": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-20T15:06:21+00:00",
-        "summary": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajR4ZGFZYUl2emcyZzdMdjZLdFpZYWNnWHNtdFotUmdTQklldDVzOG9URHo4VkVyejdDb3BUdVQwVzBUZ2VYYUVKNVIzeVA4Tk03WTlpZTUzTWRUNWJNVUt3Tjk5TU9UWDNwRFhtdFlSNU9LQlZYTExIMDJ5VS1hYXVfSm41RDZnODYta2FKVnQ2c3RLS0R2M0d6OXdFRGxxUmZZT2JIMU5mRldiMnNXdEs1NXQ?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
