@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T00:01:45.690150+00:00",
+  "generatedAt": "2026-06-06T04:34:30.715667+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -408,16 +408,6 @@
         ]
       },
       {
-        "title": "Brandschutz ab 50 Mitarbeitenden: Neue Regeln für Sicherheitsbeauftragte - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-31T09:32:34+00:00",
-        "summary": "Brandschutz ab 50 Mitarbeitenden: Neue Regeln für Sicherheitsbeauftragte it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0NRQUxYdVhTc1pJdWJoVkU4QzF3N3RUVFRGT0E4c09jc0JCaXRxcE1DRllHWFFIMHFrVnF1ZUNBVjF0Smx2d3dQdjRuTHVTdGVHYUJ1bGhkZWhaZzRLQzh5VVdLUlNid3JPVzhJcS1zN1YwcmI0aTZrdjBlb3p4UXVrZU5aRFhVZ0ZXaFlabmF5Z0JSSHhGbndadmk1RzZpNF9XVEUwYw?oc=5",
-        "tags": [
-          "it boltwise"
-        ]
-      },
-      {
         "title": "VdS-Zertifizierung für Sauerstoffreduktionssysteme schafft neue Brandschutz-Planungsgrundlage - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-05-31T03:42:02+00:00",
@@ -488,13 +478,23 @@
         ]
       },
       {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
-        "source": "Logistra",
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
+        "source": "LOGISTRA",
         "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
+        "summary": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren Nau",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHprSmRudlp3THhaTUhRY2RjbXVsdWFWSnhTMkQwSFNYSnVhSTM3T0ptUnY1ZGEtWER5N2d1TmEzcXpsOTl0YWJ1LXlZazcyZ08tN0I2MkpRdDB3NVNCUmV6eXhReFM0NzVvNGEtczNuZ1JHUmhoelVHQTIzUnRueTZyWi1yRXlCMTlERjVVVG5lam0tMmFTTzBNbzRNbkIxN0FtVzJIaHlFMVhCYUxSUDI2SQ?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       }
     ]
