@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T22:39:21.248487+00:00",
+  "generatedAt": "2026-06-06T00:01:45.690150+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -478,16 +478,6 @@
         ]
       },
       {
-        "title": "Johnson Controls Intl-Aktie (IE00BY7QL619): Quartalszahlen, Gebäudetechnik-Trends und was Anleger j - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-22T13:11:38+00:00",
-        "summary": "Johnson Controls Intl-Aktie (IE00BY7QL619): Quartalszahlen, Gebäudetechnik-Trends und was Anleger j AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdWU0QmE2YWNYRE50M3A1RVdFblpZdHR1UTF6MG56SHFpNkdDZXdrVVR3SjdTcV9hM1RaSXlPd1VxN1hSY1dXd2lrV2NmMUdOME0xaF9TTFp1TGZTenFwVkRxYXNGci0zRE9ITDc1MVNUdW5keU5BZUxMMTVXcTMwdTJ2bFR5MzNyM2ZFT2F1MkdSbmJodlgzNHEwLXZzRjVlN1dOMi1FWDJ2alpEanY4MGZzekw?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-21T07:00:00+00:00",
@@ -495,6 +485,16 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
+        "source": "Logistra",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
