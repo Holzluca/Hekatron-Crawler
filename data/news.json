@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T16:10:16.210370+00:00",
+  "generatedAt": "2026-06-07T17:46:22.509708+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -130,17 +130,6 @@
     ],
     "pfs": [
       {
-        "title": "Immer wieder sonntags KW 23: Neuer Apple TV, E-Bike-Neuerungen von Bosch, illegale Streams und Gemini im Smart Home - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-06-07T04:30:00+00:00",
-        "summary": "Immer wieder sonntags KW 23: Neuer Apple TV, E-Bike-Neuerungen von Bosch, illegale Streams und Gemini im Smart Home Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWlMTjFJc0VkTWxzWHJPVG5kT3Zvem14MEJjZldiZXJKLWVRdHBPYTNCUlhHVEJPWEdoLWMyVFVoZkp0MURlSlQyV1d5VS1yT3kwckpDUmdiZzJydW5FVUlOUXFHQUtTdzk4NmIybGVBWWx4SzZ6d1FLbm9Sck44WHhUeGZuQ2RSWTV2WVNjYlVUY1czYVV0TER3VENwVjRka1lzazZUTHFjcFpzR1dqUEZoVEhlTmxka1BlUlVVOXpudW1jWUcyd3JSMmFVb202WGRoRGpuVG91Zw?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-04T12:02:00+00:00",
@@ -151,17 +140,6 @@
         ]
       },
       {
-        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-02T13:56:58+00:00",
-        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel - appgefahren.de",
         "source": "appgefahren.de",
         "publishedAt": "2026-06-02T10:39:37+00:00",
@@ -169,26 +147,6 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnVWUFRSMGVPUVRNcGsyMmE0VXV2Vks2MUVtSHVEdlJ0UmYwWk50ZlNYdTMwV2NCSGhZa2R2X0xlNTlJNTJhbTl2Z1NDSVRrSlNDOXY3WWxSQW1KZGVZdHdfeUZuYTg3aG5ManNrZzNndWt4N3o1VjJHMHc0a0R6MS1YSm05SE9FZ0RGaXBEOHNaeHRaRXphOUpfcHJzVFU?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "X-Sense integriert Warnmelder in Home Assistant - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-06-02T07:03:30+00:00",
-        "summary": "X-Sense integriert Warnmelder in Home Assistant mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FUF9SdFppLTBqNy1Hd2JvNjFmRVRXamRGT0Vkd19kd2FTUHRHcVk2dmhHMl9oWmljaUQwMGRfRXY5cnp4dWE3dGtXYlZhVVkzVWVOYmVHTEhjLWpMcUowb2NVVWFfbzdZandydGRnd3NmdnhFTEFNX3pGVWXSAYIBQVVfeXFMTXBnY2tKbzZPdWJKQUE3anhvQWJDbXJCLXVRVk5lUnZjQ2FjN3Ytem5uNWtwaUI3b19TSFJJLVZoZ3pTQVcxN1hhdXF4cWgwYkxOMzVObGwtMEluT2Zfb2ZVa3A5dGpuUTNsbThlT1NjcVNFZFFQOUhlY2RQdEpnNXk5Zw?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Smarter Schutz fürs Zuhause: Bosch Alarm-Set im Deal - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Smarter Schutz fürs Zuhause: Bosch Alarm-Set im Deal Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGdaMHVUemJ2TjJFd2ZYNlRtdktmR2x5Z2RSVE5tbnlVb3N2b2xibkU1SndhRV9CdkwyLXdPX1otaVgyRE5yVWRuRFI5SkZkc3NkSW96WlExbnQwWmRWZ0R1RUxLd25uSXljYXRVWGk0UDcxS3pRQ0xNTkpZY19SUWo5aDJpVlZ5S2ZWZ0tXNWQ1aEFpaHpGdDVUR3VaSlcwazNuMGN2eEdJaDQwclVaZ3dFcmI1OHVFYnBr?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -222,34 +180,74 @@
         ]
       },
       {
-        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
-          "SmarthomeAssistent"
+          "FAZ"
         ]
       },
       {
-        "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
-        "source": "Stimme",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
+        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
+        "source": "Berliner Morgenpost",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
         "tags": [
-          "Bosch"
+          "Ei"
         ]
       },
       {
-        "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
+        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
+        "source": "WELT",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
         "tags": [
-          "Bosch",
-          "Smart Home"
+          "WELT"
+        ]
+      },
+      {
+        "title": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest - Berliner Kurier",
+        "source": "Berliner Kurier",
+        "publishedAt": "2026-04-24T07:00:00+00:00",
+        "summary": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest Berliner Kurier",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGgyNDhFd3N5UGFvX1RSR1ZsLWhab3MzcU1FWElGX2FCVVFBTHBQQm5OOC1YTjB2ZHdWX0kyazJuRFhDcmY3ZXhiekZLVXBQOWw5NklHZmRET0hONXRrV1FidjRKdzRTOTFOYUxELWZDX3luaVpIT29RLW5EaTlfQ3kyVmJfX0RZY2FMNVUxbVJ3WkxJZFhrOEJhT2pJMjk0TFN5VlV2VENzTUxpTm44bGV6TUQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
+      },
+      {
+        "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0tPNFp0VjVPNDIyY3ItTndWZ1FFdjY4RnZQTFRkRWVwTjAxMnNlTXdtbm41ZnJqNUNMNGJtV2tuTURKaW9hOEJIZlZtZVNxQ0FOclJzLWo?oc=5",
+        "tags": [
+          "Ei",
+          "Pyrexx"
+        ]
+      },
+      {
+        "title": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen - Tages-Anzeiger",
+        "source": "Tages-Anzeiger",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Stiftung Warentest liess Rauchmelder durchfallen – und muss jetzt Schadenersatz zahlen Tages-Anzeiger",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnF4WXZXTm11TDVWU1loWlJsTDVBdnFGaDVRdS0yLTFkX0wyOGJjRThxQlQ5SEoyR2c3NzJjY2E2RzhXSi16ZExSODFhLTVzVWxPR1VtdjVqREdtYjBUdHZUdUJBdnR6VUNkNUtxTmFZYkJLRTFzMTNFZmthX0RTLWhQZkRFdlJVV25uUVFWR3pYbkNoTUdLbjV2ZVVFODBjWUVlVEl3?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -407,6 +405,17 @@
         ]
       },
       {
+        "title": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren - european-circle.de",
+        "source": "european-circle.de",
+        "publishedAt": "2026-05-31T17:46:59+00:00",
+        "summary": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren european-circle.de",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcl9sV3VybkROaTV1c1ViMl8zdzhkSVNUWkpEMEpydXh1ZGF4Y1JKVjRURHJNalNwVTluYkJLa2FLbzJWcGs4cXpucTdrcVhIXzY1a1RGMmVDWE9oWFRMRXBXQTJLTGhwdE8yMU9mNGpoTmFoX3FTcXltNWd4OWJyeEJYeGJBVkZnay02SjIwZWxwMl9mWHE1eW5CZXd4dzlmbUI3WWJwckRlNXJqaHhlS1FEVkgxUFUzc29sTVhsSk0yTkY3MVE5RkpwbE1UUTdReUtBX010N0NlWWhiWks0a0NSMXk0eEFMNmM5UEdka1VVaU9wTXM0?oc=5",
+        "tags": [
+          "KI",
+          "AI"
+        ]
+      },
+      {
         "title": "VdS-Zertifizierung für Sauerstoffreduktionssysteme schafft neue Brandschutz-Planungsgrundlage - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-05-31T03:42:02+00:00",
@@ -483,16 +492,6 @@
         "publishedAt": "2026-05-20T15:06:21+00:00",
         "summary": "Johnson Controls Intl-Aktie (IE0004762810): Quartalszahlen, Kursrücksetzer und neue Chancen im Geb� AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajR4ZGFZYUl2emcyZzdMdjZLdFpZYWNnWHNtdFotUmdTQklldDVzOG9URHo4VkVyejdDb3BUdVQwVzBUZ2VYYUVKNVIzeVA4Tk03WTlpZTUzTWRUNWJNVUt3Tjk5TU9UWDNwRFhtdFlSNU9LQlZYTExIMDJ5VS1hYXVfSm41RDZnODYta2FKVnQ2c3RLS0R2M0d6OXdFRGxxUmZZT2JIMU5mRldiMnNXdEs1NXQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-19T18:36:30+00:00",
-        "summary": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUY4UEhmX2RFSE80VzNUbnkwNjJ0TXVwRDZtLTlrRGRRcVdxRVgyTDNWZ2VjU09iWV9KTG1GbXpRNnBKYXY5Zk9rRTNKWVRIbGdSRDlnNHRUcTY4VzdHVXlia2NualhVdjNUVEl2LV8tdGw3eTh1dmFEQVdGcDQ5U1Jkay02NjExVkJSblJ3RmJqNGVacTJXY2RreENtdkRaVkFyX3JUbFZwbnhKaGtxVGhsQzd6XzdXdms0RE5nNUw?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
