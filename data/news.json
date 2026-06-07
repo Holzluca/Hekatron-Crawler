@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-06-07T11:04:14.334924+00:00",
+  "generatedAt": "2026-06-07T12:58:03.735335+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-04T12:02:00+00:00",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
+        "tags": [
+          "Teltarif"
+        ]
+      },
       {
         "title": "Brandschutz wird smart: Siemens stellt Sinteso Nova vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -67,6 +77,16 @@
         ]
       },
       {
+        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-23T13:31:53+00:00",
+        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -77,14 +97,13 @@
         ]
       },
       {
-        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-04-02T07:00:00+00:00",
-        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWpOTk1BNmJFcExNelFqUXRJX21qLTN5UHd3YW5HTU9kamE1YjFha0NRZ3FNbnR2eExNQ3A0eTRDdE9RbEVWNGpWM19NWU5PaWlPVHdvci1GY3ZCRjBkajZCX0Fqd1NWNzg5ZmRJMTNsQXRCdWMzdUZnV0UyT1JNc05wMGxHbjZOa3NqQTBDTjJ6UFVxSHBmaUh4d08tNlpndEx1MENBbmNGbDBaWk9iOEFTTXZmRXpUUmpaanJ3?oc=5",
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
-          "Siemens",
-          "Brandschutz"
+          "Siemens"
         ]
       },
       {
@@ -103,27 +122,6 @@
         "publishedAt": "2026-04-01T07:00:00+00:00",
         "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
-      },
-      {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
-        "source": "Aargauer Zeitung",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -152,6 +150,17 @@
         ]
       },
       {
+        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-02T13:56:58+00:00",
+        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel - appgefahren.de",
         "source": "appgefahren.de",
         "publishedAt": "2026-06-02T10:39:37+00:00",
@@ -169,16 +178,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FUF9SdFppLTBqNy1Hd2JvNjFmRVRXamRGT0Vkd19kd2FTUHRHcVk2dmhHMl9oWmljaUQwMGRfRXY5cnp4dWE3dGtXYlZhVVkzVWVOYmVHTEhjLWpMcUowb2NVVWFfbzdZandydGRnd3NmdnhFTEFNX3pGVWXSAYIBQVVfeXFMTXBnY2tKbzZPdWJKQUE3anhvQWJDbXJCLXVRVk5lUnZjQ2FjN3Ytem5uNWtwaUI3b19TSFJJLVZoZ3pTQVcxN1hhdXF4cWgwYkxOMzVObGwtMEluT2Zfb2ZVa3A5dGpuUTNsbThlT1NjcVNFZFFQOUhlY2RQdEpnNXk5Zw?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-06-01T09:19:00+00:00",
-        "summary": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTZXOElud3U0NjltMW1KRWs3WERVZ0czTmZGbzBwZHNxejRYbXlSalB2NDJKMlB3R2dUdmJaSHhjX2RmcW9PWThmeXVkdHpzZTNxY3QtOFFYY0FpMHMzeFo2SElNaGR4cVVLdTczemYtdXVEemxoVDJnRXRsSWJRNDFQVXRpbENqbEIwcEprX2JHQXM?oc=5",
-        "tags": [
-          "Computer Bild"
         ]
       },
       {
@@ -242,27 +241,18 @@
         ]
       },
       {
-        "title": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
+        "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
+        "source": "mobiFlip",
         "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch bringt Bewegungsmelder II [+M] mit Matter auf den Markt SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXJkUVNJS3RzMFc5TE1FQUJpYldSeXJoaUpWZG9zd3pOa01Wcm5TclFNYWd0SDRsaDlpT2MwMDdOdGRxZVZtZVEtS2N0azQ0ZUoyS0hKUHlDc0tvMWhmdmRuak9lSUoxR09IMVZvbnZhVnVnbkVOVnowbVA1c1BjTXNVc2hwLUNqS1RUMHRnOVFVejVfN29OYg?oc=5",
+        "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
         "tags": [
-          "Bosch"
+          "Bosch",
+          "Smart Home"
         ]
       }
     ],
     "doors": [
-      {
-        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
-        "source": "Reifenpresse.de",
-        "publishedAt": "2026-06-01T12:55:56+00:00",
-        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
-        "tags": [
-          "Reifenpresse.de"
-        ]
-      },
       {
         "title": "Apollo Global Management-Aktie (US0376123065): Kurs im Fokus nach jüngstem Branchen-Update - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -372,6 +362,16 @@
         "tags": [
           "Handelsblatt"
         ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-14T10:47:12+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
       }
     ],
     "trends": [
@@ -403,6 +403,17 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJkVUpyWHlLWVppSUU5Vlo3UUpuQWRpS0NyT2xoYXlNZ0JYZHNVb2VpR3lGU1BFazlZS0hub2owaENXWlFVOHFNaDd5czBVdWladmZaT3JibVV2NnlkcUczeXM0YTJ2Q3RVSFpMWksyS2ZzbWNHc3lFX2tuY3p5X3BWUkRDYUdLc1VDT3RtNUVHWDJJMmtSaE1CcWFHR29WaW1jZnhORHp6VTBzQWw5am9TeS04SnFnTFdmNUZ1MDFQdw?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren - european-circle.de",
+        "source": "european-circle.de",
+        "publishedAt": "2026-05-31T17:46:59+00:00",
+        "summary": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren european-circle.de",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcl9sV3VybkROaTV1c1ViMl8zdzhkSVNUWkpEMEpydXh1ZGF4Y1JKVjRURHJNalNwVTluYkJLa2FLbzJWcGs4cXpucTdrcVhIXzY1a1RGMmVDWE9oWFRMRXBXQTJLTGhwdE8yMU9mNGpoTmFoX3FTcXltNWd4OWJyeEJYeGJBVkZnay02SjIwZWxwMl9mWHE1eW5CZXd4dzlmbUI3WWJwckRlNXJqaHhlS1FEVkgxUFUzc29sTVhsSk0yTkY3MVE5RkpwbE1UUTdReUtBX010N0NlWWhiWks0a0NSMXk0eEFMNmM5UEdka1VVaU9wTXM0?oc=5",
+        "tags": [
+          "KI",
+          "AI"
         ]
       },
       {
@@ -457,43 +468,33 @@
         ]
       },
       {
-        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-18T07:00:00+00:00",
-        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): RBC bestätigt Einstufung „Sector Perform“ und Kursziel 1 - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-27T07:00:00+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): RBC bestätigt Einstufung „Sector Perform“ und Kursziel 1 AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGpMMDczRWZLOGFmcDB5d0dSajBVRHVYMUpaS3RFa0E3Qi1zMHEwSm1sdHFVOFItdnM3dmZJdk9UUGR1d3VNTmFBWFJBT3YzcDQ5SlVxWFFqblZFUTFGTU1LdGcyUjBIZUM4bFEzYXlsRC1id3dNOVUzZFhyZXkxdE5ta1NkSUJlMVFpQkY4ZW1DVHVYUGI2am9tUGg1bDFlLUVWRFl4d25SNnFBa1phZ1J1NXFnanZUZ0F4Z3ZvbklOTzBGMEE?oc=5",
         "tags": [
-          "KI"
+          "AD HOC NEWS"
         ]
       },
       {
-        "title": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme - BornCity",
-        "source": "BornCity",
-        "publishedAt": "2026-05-16T07:00:00+00:00",
-        "summary": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme BornCity",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Wie der Gebäudeprofi vom Trend zur Energieeffizienz profitie - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-24T13:35:02+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Wie der Gebäudeprofi vom Trend zur Energieeffizienz profitie AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkowa0NLVXg4QlFLRnlEQUpJSXlYRHNnbE5XWkVCck5qYVJicUM5b3BPd3hqUnRmWWpvRWVkZEszWmVtS1JFSHNLUkpTU3ZZVEJLXzBFcERNU2kwUFJkd29Rd1I1YzZob2NxejFjWktzQWUtY1d3NzJkbW5RaE5ZZ1gyUUpsZTJPNnZkd3FSQjNGSXRnSF9DdDFVQ1NuYWEzQy1TQnViNktUMDhORXlfcFQtdGNnMTllSG1UajNoRmY0Ylk4STJ2X3VB?oc=5",
         "tags": [
-          "KI"
+          "AD HOC NEWS"
         ]
       },
       {
-        "title": "Digitalisierung im Brandschutz - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-05-13T07:00:00+00:00",
-        "summary": "Digitalisierung im Brandschutz elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXRvTzRYMVhTclhteDRlX1pPaDh6cGtBWXVhRmlhWjNONkdEUzA2UHdnQV9yalQtU05JM294cGZFRzZmUWg0b0RmbEs2REZYZ3hVMGFkTV9zeDM0SkNwRWlRTkhFZWEwUjJ3NlJla2pEVUxVLTFGSk1paTRqakZLQ29SVTVhT2tjWkpSa2VxYTRtY1JIOXBMdUE1NzB4b1RuZVBNOGU2RlAxRXhXOW8yb2ZSRQ?oc=5",
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
-          "elektro.net"
-        ]
-      },
-      {
-        "title": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik - HaustechnikDialog",
-        "source": "HaustechnikDialog",
-        "publishedAt": "2026-05-12T22:00:18+00:00",
-        "summary": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik HaustechnikDialog",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczVzVmJDa2V1SHZkNFVPYVBnSWJrcm0tbk00VjNwYnMzSmprbXI4bHdmV0xHWjJVTEdjakI2NGRoOWhVNXpUcGRqdnFodW9TQl9UbWdEdmpLQUM3QVFxOXd0d3pzMkhjeHFycWE2aVJPT21sYWdpeWE5emJ1cmpaanVQZnJMVU94RHJqdTluYmNGYlJnTXA0cWQxSXRZWElSUHljMHUzS0VhOUxuRTZxZEtmaWdRRmNQcXZ6UQ?oc=5",
-        "tags": [
-          "Gebäudeautomation"
+          "AD HOC NEWS"
         ]
       }
     ]
