@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-06-08T11:52:04.411512+00:00",
+  "generatedAt": "2026-06-08T15:37:36.271217+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-05T02:44:45+00:00",
-        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
@@ -126,9 +116,29 @@
           "Siemens",
           "Brandschutz"
         ]
+      },
+      {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "Neue Zürcher Zeitung"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Bosch Smart-System im Test: So intelligent fährt das E-Bike - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-07T15:55:00+00:00",
+        "summary": "Bosch Smart-System im Test: So intelligent fährt das E-Bike Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTVhYLXMtZS1mNmtZQ19sRzY3WkVjUTJmLWxyUlNQcmV0OGd2TzFPR01WRUx2ZzU1aDNURGtqd1FmQ2VhQTlxOUhENUZWNHI3by1xZ052ekQwM0R3VngyRDIweG9ralp0aU9FYkdCUU41ODJVcDRKdjM3UlNkZUJ3R3JUQ2lMU0xIMjZES0FKYVZ5dw?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
       {
         "title": "Immer wieder sonntags KW 23: Neuer Apple TV, E-Bike-Neuerungen von Bosch, illegale Streams und Gemini im Smart Home - Caschys Blog",
         "source": "Caschys Blog",
@@ -151,14 +161,13 @@
         ]
       },
       {
-        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-02T13:56:58+00:00",
-        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
+        "title": "8 Modelle, 1 klarer Sieger: Rauchmelder Test - RTL.de",
+        "source": "RTL.de",
+        "publishedAt": "2026-06-04T07:00:00+00:00",
+        "summary": "8 Modelle, 1 klarer Sieger: Rauchmelder Test RTL.de",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
         "tags": [
-          "Ei",
-          "X-Sense"
+          "RTL.de"
         ]
       },
       {
@@ -182,6 +191,16 @@
         ]
       },
       {
+        "title": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-06-01T09:19:00+00:00",
+        "summary": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTZXOElud3U0NjltMW1KRWs3WERVZ0czTmZGbzBwZHNxejRYbXlSalB2NDJKMlB3R2dUdmJaSHhjX2RmcW9PWThmeXVkdHpzZTNxY3QtOFFYY0FpMHMzeFo2SElNaGR4cVVLdTczemYtdXVEemxoVDJnRXRsSWJRNDFQVXRpbENqbEIwcEprX2JHQXM?oc=5",
+        "tags": [
+          "Computer Bild"
+        ]
+      },
+      {
         "title": "Smarter Schutz fürs Zuhause: Bosch Alarm-Set im Deal - Computer Bild",
         "source": "Computer Bild",
         "publishedAt": "2026-05-28T07:00:00+00:00",
@@ -199,16 +218,6 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTFydnlVS0tobEZSUTB3ZFBJMzdyNXI2d1lXXzhmeTZGSG43SENCR1lraDNzUEJWUkdRUnhJZll2R1M1U29PdzM5eXlaeUtFYUVQSHl4VHFhZS1YVGlKVUdSTWVmVDFWcFhTMUVNeG5KLTlHNlF6NUJROHZiM01Ma0M4d3JwSlpDdk90dlk3VFVoSDlaY0RZM2hFZkU2VWN4emozdENWR1U5M0lpbnFGMFdvSThTWk9PTGdFMw?oc=5",
         "tags": [
           "CHIP"
-        ]
-      },
-      {
-        "title": "Sie haben keine Rauchmelder installiert? Diese Strafen drohen - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-05-27T07:00:00+00:00",
-        "summary": "Sie haben keine Rauchmelder installiert? Diese Strafen drohen CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEZ0Z3MtbVBCUTlDVDNkeDZhYTdETkZsQVJKRkFUWFpYdE1CVUVCTUFlU1ZBTTBxdjVfQ1lydTEtamN1bW9lWHNIRzJQelVmbUpMRjI3VXhrZm5WTThidk5faWRTX0UwLXplMTFQVWlpZlJMSHNsMi1sV2dOU1JFX0ZoZXNHRDM1S0k0TW9FbzdiSkxXOEoycl9peDUyaVk5U1hPM0pBNklFZVBRYXc0T1J1aWE5NFItMXJYdEVUMHZiNnNla1pzajA0ZEFweFZiaWgwb2RETzNpa045a1AzaQ?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -239,17 +248,6 @@
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       }
     ],
@@ -377,6 +375,26 @@
     ],
     "trends": [
       {
+        "title": "Johnson Controls setzt „Innovation-Studio“-Tour in Deutschland fort – nächster Halt Berlin - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-06-08T11:54:00+00:00",
+        "summary": "Johnson Controls setzt „Innovation-Studio“-Tour in Deutschland fort – nächster Halt Berlin PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR0FFSmRfQ0ZzMl8xOGZaOU96bS1ULVExR2ZYY3Y5bE5vVEVYY1RuZjRaaXdVRDM0ZWxELWMxRFdVaGV4QzFYakdBUUNrSHhfeklSWDlyOTlrSURNOU9vQUZEQS1FanIxU19KUWpiT0V6ZF9uVHFWTG8yS2hvazBNejZYa2lmUzdMVk1zWUg3V2J0b3d4TExicUpiVl9tM3ZGVjhHSmZTcDZ4dGZEN1BJaHdTMTZaREFvWXJ2b1c5MWdRSTdTWE5LWVRrdGZhdlNkc3F6NGg3SDExbThTbElxbDJ3WE1tVENYTHBFcEJSU2VHWEhwNWRQMXZtMA?oc=5",
+        "tags": [
+          "PresseBox"
+        ]
+      },
+      {
+        "title": "Künstliche Intelligenz im Brandschutz: Grundlagen verstehen, Chancen bewerten, Risiken einordnen. - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-06-08T06:31:00+00:00",
+        "summary": "Künstliche Intelligenz im Brandschutz: Grundlagen verstehen, Chancen bewerten, Risiken einordnen. PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcG00b1lsYmVRY2liT2ZuUWhrTDItSEpocURJLVR4M1lqTk5PR19QdS10Y2d1MG90Mmx1QUdXaF9sZ1BJVHpkcHRHa1pCU200WlE0OFhmajlxbzhuOWhIZGtKWXFILW45Rm9jTGM5RWlQQ2E0ajVETjhwZ2dLbjdtSnd2SFg4ZUZXSzdpaTJTNzM3SGVRX05aemJEU0tuRXlnZHlqaEtfMnFHWGVtdWc0akdQbHdjR3l1eHRYYjJqSXhSNGJ5XzAtdkRUcTd5Ri0zZEh3XzhwYk5HUjN0SWIyVTY1RnFXQ2VjY0dONGdBSERaMWw1V0dFemJIYVkxX1BYS3oyNnVQNA?oc=5",
+        "tags": [
+          "PresseBox"
+        ]
+      },
+      {
         "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-02T16:07:14+00:00",
@@ -439,10 +457,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
+        "source": "Euronews",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -476,26 +494,6 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
-        "source": "Logistra",
-        "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren - Nau",
-        "source": "Nau",
-        "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren Nau",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHprSmRudlp3THhaTUhRY2RjbXVsdWFWSnhTMkQwSFNYSnVhSTM3T0ptUnY1ZGEtWER5N2d1TmEzcXpsOTl0YWJ1LXlZazcyZ08tN0I2MkpRdDB3NVNCUmV6eXhReFM0NzVvNGEtczNuZ1JHUmhoelVHQTIzUnRueTZyWi1yRXlCMTlERjVVVG5lam0tMmFTTzBNbzRNbkIxN0FtVzJIaHlFMVhCYUxSUDI2SQ?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
         ]
       }
     ]
