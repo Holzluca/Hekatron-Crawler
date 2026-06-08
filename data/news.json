@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T15:37:36.271217+00:00",
+  "generatedAt": "2026-06-08T18:21:42.114369+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -43,16 +43,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-05-22T09:14:00+00:00",
-        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
-        "tags": [
-          "elektro.net"
         ]
       },
       {
@@ -126,6 +116,16 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -171,6 +171,17 @@
         ]
       },
       {
+        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-02T13:56:58+00:00",
+        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel - appgefahren.de",
         "source": "appgefahren.de",
         "publishedAt": "2026-06-02T10:39:37+00:00",
@@ -188,16 +199,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FUF9SdFppLTBqNy1Hd2JvNjFmRVRXamRGT0Vkd19kd2FTUHRHcVk2dmhHMl9oWmljaUQwMGRfRXY5cnp4dWE3dGtXYlZhVVkzVWVOYmVHTEhjLWpMcUowb2NVVWFfbzdZandydGRnd3NmdnhFTEFNX3pGVWXSAYIBQVVfeXFMTXBnY2tKbzZPdWJKQUE3anhvQWJDbXJCLXVRVk5lUnZjQ2FjN3Ytem5uNWtwaUI3b19TSFJJLVZoZ3pTQVcxN1hhdXF4cWgwYkxOMzVObGwtMEluT2Zfb2ZVa3A5dGpuUTNsbThlT1NjcVNFZFFQOUhlY2RQdEpnNXk5Zw?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-06-01T09:19:00+00:00",
-        "summary": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTZXOElud3U0NjltMW1KRWs3WERVZ0czTmZGbzBwZHNxejRYbXlSalB2NDJKMlB3R2dUdmJaSHhjX2RmcW9PWThmeXVkdHpzZTNxY3QtOFFYY0FpMHMzeFo2SElNaGR4cVVLdTczemYtdXVEemxoVDJnRXRsSWJRNDFQVXRpbENqbEIwcEprX2JHQXM?oc=5",
-        "tags": [
-          "Computer Bild"
         ]
       },
       {
@@ -263,16 +264,6 @@
         ]
       },
       {
-        "title": "Schon der achte Fall: AfD-Mitarbeiter wieder Zugang zum Bundestag verwehrt - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-05-26T08:26:00+00:00",
-        "summary": "Schon der achte Fall: AfD-Mitarbeiter wieder Zugang zum Bundestag verwehrt apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHJoNXBIbUJkRmRWRmxiS3BVejRYQmEyemY4Tm1YT0VaYkFaajF2TmlFYVpMb2dBYTFPM0RFZ2Z6eTROR0lhd3RaS3VFeTFSa015R0dnanFaN20wMUFYMUdUajc3NzBKOGpFeXdzRnJ3OGUyM0V3VVZzbnE0dW5OQ3dncnpxN2dzTHY1Q2pJME1yMXVuVkdkVjlYc2V4VUc5Q3c?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-24T07:00:00+00:00",
@@ -308,6 +299,16 @@
         "publishedAt": "2026-05-05T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie (US0376123065): Interesse an Shell LNG-Anteil AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGZ5Q3drLXVvZzA4RGJvQ0J0S3ZyeFdtWGlicW4zS2lnRTY2N3g2cmJoNDMyRmJpdVprV3dXNXdfU0IwRGVSa1dkTzA4dHdxa0kwU3BpUlZyQkVYTDRqV0RqWjIwOVZybjBkNnFha09YbUMyZEUyS1NKUjRGVDNsd21QeDVIdVV5MEhBMHFac1JJTUlXRmdDMmk3V1I0TnU0dmlGWEMtNFAzS2pXTV9uRWVKTUs1U2JOZjIzWG93?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -395,6 +396,16 @@
         ]
       },
       {
+        "title": "Wettbewerbsvorteil durch intelligente Gebäudetechnik - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-06-05T12:10:00+00:00",
+        "summary": "Wettbewerbsvorteil durch intelligente Gebäudetechnik elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzltMVhodl85U0tYMWZGbjF2d2hZTGxMNU9PbnlVTFUyc2gxd0NTNlJlcDNGaHZybVJBNnVrakZSZERCcVNFUVR4SnNzRi1fMzNSUTRiQXBXVUQxSEFKbENvUEJOaGV4anl2T3ZrN0dQWnd1Ylp0WU5qUWtxN2tMVU1DNG41Rmo3SnZSTGwtZjk3UmhRM2p2QnhSWlVLUQ?oc=5",
+        "tags": [
+          "elektro.net"
+        ]
+      },
+      {
         "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-02T16:07:14+00:00",
@@ -457,10 +468,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -482,16 +493,6 @@
         "publishedAt": "2026-05-27T07:00:00+00:00",
         "summary": "Johnson Controls-Aktie (IE00BY7QL619): RBC bestätigt Einstufung „Sector Perform“ und Kursziel 1 AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGpMMDczRWZLOGFmcDB5d0dSajBVRHVYMUpaS3RFa0E3Qi1zMHEwSm1sdHFVOFItdnM3dmZJdk9UUGR1d3VNTmFBWFJBT3YzcDQ5SlVxWFFqblZFUTFGTU1LdGcyUjBIZUM4bFEzYXlsRC1id3dNOVUzZFhyZXkxdE5ta1NkSUJlMVFpQkY4ZW1DVHVYUGI2am9tUGg1bDFlLUVWRFl4d25SNnFBa1phZ1J1NXFnanZUZ0F4Z3ZvbklOTzBGMEE?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
