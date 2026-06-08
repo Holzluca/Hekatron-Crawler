@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:38:34.802022+00:00",
+  "generatedAt": "2026-06-08T22:21:44.413091+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -161,17 +161,6 @@
         ]
       },
       {
-        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-02T13:56:58+00:00",
-        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel - appgefahren.de",
         "source": "appgefahren.de",
         "publishedAt": "2026-06-02T10:39:37+00:00",
@@ -222,16 +211,6 @@
         ]
       },
       {
-        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
         "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-30T07:00:00+00:00",
@@ -251,6 +230,27 @@
           "Bosch",
           "Smart Home"
         ]
+      },
+      {
+        "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
       }
     ],
     "doors": [
@@ -260,16 +260,6 @@
         "publishedAt": "2026-05-28T19:29:02+00:00",
         "summary": "Apollo Global Management-Aktie (US0376123065): Kurs im Fokus nach jüngstem Branchen-Update AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOG43Ny1RaUgyT0FsZDBweC1EYTdtaXYzMXlEejVNalNXU3RlS0h0RkhYQkhZbjVYODFVeTJrZ2d0RGtuS0hsVG9ZdUdjcFA4c0pVYTgyZVdRbFFUZjZiUVRobm5MYUlkWmJTb2pydFdMVnRkNjRtQ2pIUkdjWE1oUFJoVEFWb1Y0S2hkRTlfWW9haHlrenF5cUhRcy1nbWh6WDNsODZaRUdZMkM2NDdPczVhTlNNdmU1VmpIajJ3?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Schon der achte Fall: AfD-Mitarbeiter wieder Zugang zum Bundestag verwehrt - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-05-26T08:26:00+00:00",
-        "summary": "Schon der achte Fall: AfD-Mitarbeiter wieder Zugang zum Bundestag verwehrt apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHJoNXBIbUJkRmRWRmxiS3BVejRYQmEyemY4Tm1YT0VaYkFaajF2TmlFYVpMb2dBYTFPM0RFZ2Z6eTROR0lhd3RaS3VFeTFSa015R0dnanFaN20wMUFYMUdUajc3NzBKOGpFeXdzRnJ3OGUyM0V3VVZzbnE0dW5OQ3dncnpxN2dzTHY1Q2pJME1yMXVuVkdkVjlYc2V4VUc5Q3c?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -373,19 +363,19 @@
         "tags": [
           "cineplex.de"
         ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
       }
     ],
     "trends": [
-      {
-        "title": "Johnson Controls setzt „Innovation-Studio“-Tour in Deutschland fort – nächster Halt Berlin - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-06-08T11:54:00+00:00",
-        "summary": "Johnson Controls setzt „Innovation-Studio“-Tour in Deutschland fort – nächster Halt Berlin PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR0FFSmRfQ0ZzMl8xOGZaOU96bS1ULVExR2ZYY3Y5bE5vVEVYY1RuZjRaaXdVRDM0ZWxELWMxRFdVaGV4QzFYakdBUUNrSHhfeklSWDlyOTlrSURNOU9vQUZEQS1FanIxU19KUWpiT0V6ZF9uVHFWTG8yS2hvazBNejZYa2lmUzdMVk1zWUg3V2J0b3d4TExicUpiVl9tM3ZGVjhHSmZTcDZ4dGZEN1BJaHdTMTZaREFvWXJ2b1c5MWdRSTdTWE5LWVRrdGZhdlNkc3F6NGg3SDExbThTbElxbDJ3WE1tVENYTHBFcEJSU2VHWEhwNWRQMXZtMA?oc=5",
-        "tags": [
-          "PresseBox"
-        ]
-      },
       {
         "title": "Künstliche Intelligenz im Brandschutz: Grundlagen verstehen, Chancen bewerten, Risiken einordnen. - PresseBox",
         "source": "PresseBox",
@@ -417,13 +407,14 @@
         ]
       },
       {
-        "title": "VdS-Zertifizierung für Sauerstoffreduktionssysteme schafft neue Brandschutz-Planungsgrundlage - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-31T03:42:02+00:00",
-        "summary": "VdS-Zertifizierung für Sauerstoffreduktionssysteme schafft neue Brandschutz-Planungsgrundlage it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTl83WWZSYVpOcGd6UEg3bmVCUWxleU9HVldkeTk5R3g1eXllN3gybW1veUNONktGbHUySkNKcFhPUGJ5Q3h4dUR3THJ2NEZuaEIwYzNBUkEyQmZhR05KemduRFJGdEgzc3dhWlY0S0lELW1NTUdRTDJ2MjhDYUlZOXUtUFFsOXFXWnNxb1o3b2dzOEFGMnBwblEtZG1NVjJmb3ZBRUI2T0VJWU9JS2gtdnRFeEVQTHhLd2YxMklzU0d3Mkla?oc=5",
+        "title": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren - european-circle.de",
+        "source": "european-circle.de",
+        "publishedAt": "2026-05-31T17:46:59+00:00",
+        "summary": "Airbus und BMW schließen Vereinbarungen mit der französischen Mistral, um KI in Verteidigungs- und Sicherheitssysteme zu integrieren european-circle.de",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcl9sV3VybkROaTV1c1ViMl8zdzhkSVNUWkpEMEpydXh1ZGF4Y1JKVjRURHJNalNwVTluYkJLa2FLbzJWcGs4cXpucTdrcVhIXzY1a1RGMmVDWE9oWFRMRXBXQTJLTGhwdE8yMU9mNGpoTmFoX3FTcXltNWd4OWJyeEJYeGJBVkZnay02SjIwZWxwMl9mWHE1eW5CZXd4dzlmbUI3WWJwckRlNXJqaHhlS1FEVkgxUFUzc29sTVhsSk0yTkY3MVE5RkpwbE1UUTdReUtBX010N0NlWWhiWks0a0NSMXk0eEFMNmM5UEdka1VVaU9wTXM0?oc=5",
         "tags": [
-          "it boltwise"
+          "KI",
+          "AI"
         ]
       },
       {
@@ -485,6 +476,16 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
+        "source": "Logistra",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
