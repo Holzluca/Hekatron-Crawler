@@ -1,28 +1,8 @@
 {
-  "generatedAt": "2026-06-09T16:28:13.191082+00:00",
+  "generatedAt": "2026-06-09T18:30:42.764989+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-05T02:44:45+00:00",
-        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T12:02:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
       {
         "title": "Brandschutz wird smart: Siemens stellt Sinteso Nova vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -126,6 +106,27 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
       }
     ],
     "pfs": [
@@ -174,6 +175,46 @@
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0tyY05yNHA5R0ZIU3FCbVdPU3BDMFFzd3ZPd29mTFhWVjNNZFk0amszMGxyeUgxOWRrelFMNl9meWs4Mmw5LWtTZ1hIbXYwUDA3MjkweS1yRVUyNFFPQk8wZmdaekZFblRwSFp6R3lNR0pZUXFxTVVjd0RaTmJHd2hTbzg5RHVoMFV5d2w0RzhUUFo3X0U3dEpB?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ01jZDEyRFRKU2ZaRHVNSUZUWmxKa2kzeE96TmFwVUE0NkppdDF5ZzFvY216ZWNxandXQnFObjJTNjYxWXd3Yy1XSllydHl6bmJ2d1h4bGNrc0ZPeHBGVU05Y3JSbkxIdFpjYnctbzE3UU5KUmdMN2RFWWhzTmpVOEVBZXdQekM0MFlUR0hxZzhvTUNLaTNiWk5R?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa3hLeFJaZU1ZVmZsU0dRdEtiNVJHMDdzYll1Zkp3MGltQjZ3Umppc3h4UDF3QWstckRJaHRoYWh1U1pXektmSUNJeHdOcDhCWE9jQkpOY19yQXd1NldCRXQxRVJUY2JYU0hvX0J4ZjgxYThrS1ZqUW45dU41UDJpMEtPeHo4cmJmdlJEbGZMTXpvWlM2enpfSGRn?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDc3di0tTHRFSjB5czhseWtfR1NvZi1aZ1lKSS1xaWFPN0tPbDF3MGxGalFCSzRUUjh4TWROSXBUT2wwQ250UjlNV2FpbGNBVXJJbU4yQVRWNldoVXk3Z1V4NmNKek5SUGNjbU9BTFhOZFVyaUZaLTk4NG5DMTgtdV9mSlVGaVdNUnlBTm5xeHk5X1NYMkd5ZW1B?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnQzWlFRMTRXR1RiUnVhUlVVdkF4MVpRdG1IdFpIcDVWeHc2ZzA3YzJJTHc3T3dETU1PcXYtczltZ0lzbkQ5dG5CWGFLcks3RENIZjc2bFRwZGVJTDRJNnRCeUN5QlRzeXowdE9raDlTSjJHa1FFMjJTbzM1SVRENWFGbkxmUmp4bUZkY0ZXUTA2NWdkMElkaDhUMA?oc=5",
         "tags": [
           "Bosch"
@@ -190,6 +231,16 @@
         ]
       },
       {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1RhWTNEUkZYYXhMR2UxVEFfWGhHMWx4MkZQT01oMXJ2eVhKdWZFdW5qZVUwN3RzaEhoU0drVDF3aFB3VThZYmpBUWI2MDVpQlhqUnUwSDVGTk9ONVI0VDNDVi15U2VHUi1lZVZlVDZiZENNaks1Wm9YaVZ0dnh5Yk1kTEVjbm9nbVFiSWd4ZW9uN2pfZTZLYnNB?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Immer wieder sonntags KW 23: Neuer Apple TV, E-Bike-Neuerungen von Bosch, illegale Streams und Gemini im Smart Home - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-06-07T04:30:00+00:00",
@@ -198,56 +249,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T12:02:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
-      {
-        "title": "8 Modelle, 1 klarer Sieger: Rauchmelder Test - RTL.de",
-        "source": "RTL.de",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "8 Modelle, 1 klarer Sieger: Rauchmelder Test RTL.de",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
-        "tags": [
-          "RTL.de"
-        ]
-      },
-      {
-        "title": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel - appgefahren.de",
-        "source": "appgefahren.de",
-        "publishedAt": "2026-06-02T10:39:37+00:00",
-        "summary": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel appgefahren.de",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnVWUFRSMGVPUVRNcGsyMmE0VXV2Vks2MUVtSHVEdlJ0UmYwWk50ZlNYdTMwV2NCSGhZa2R2X0xlNTlJNTJhbTl2Z1NDSVRrSlNDOXY3WWxSQW1KZGVZdHdfeUZuYTg3aG5ManNrZzNndWt4N3o1VjJHMHc0a0R6MS1YSm05SE9FZ0RGaXBEOHNaeHRaRXphOUpfcHJzVFU?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "X-Sense integriert Warnmelder in Home Assistant - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-06-02T07:03:30+00:00",
-        "summary": "X-Sense integriert Warnmelder in Home Assistant mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FUF9SdFppLTBqNy1Hd2JvNjFmRVRXamRGT0Vkd19kd2FTUHRHcVk2dmhHMl9oWmljaUQwMGRfRXY5cnp4dWE3dGtXYlZhVVkzVWVOYmVHTEhjLWpMcUowb2NVVWFfbzdZandydGRnd3NmdnhFTEFNX3pGVWXSAYIBQVVfeXFMTXBnY2tKbzZPdWJKQUE3anhvQWJDbXJCLXVRVk5lUnZjQ2FjN3Ytem5uNWtwaUI3b19TSFJJLVZoZ3pTQVcxN1hhdXF4cWgwYkxOMzVObGwtMEluT2Zfb2ZVa3A5dGpuUTNsbThlT1NjcVNFZFFQOUhlY2RQdEpnNXk5Zw?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Smarter Schutz fürs Zuhause: Bosch Alarm-Set im Deal - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Smarter Schutz fürs Zuhause: Bosch Alarm-Set im Deal Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGdaMHVUemJ2TjJFd2ZYNlRtdktmR2x5Z2RSVE5tbnlVb3N2b2xibkU1SndhRV9CdkwyLXdPX1otaVgyRE5yVWRuRFI5SkZkc3NkSW96WlExbnQwWmRWZ0R1RUxLd25uSXljYXRVWGk0UDcxS3pRQ0xNTkpZY19SUWo5aDJpVlZ5S2ZWZ0tXNWQ1aEFpaHpGdDVUR3VaSlcwazNuMGN2eEdJaDQwclVaZ3dFcmI1OHVFYnBr?oc=5",
-        "tags": [
-          "Bosch"
         ]
       }
     ],
@@ -395,16 +396,6 @@
         ]
       },
       {
-        "title": "Gebäudesanierung als KI-gestützte Effizienzstrategie: Warum der Bestand gewinnt - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-04T21:58:45+00:00",
-        "summary": "Gebäudesanierung als KI-gestützte Effizienzstrategie: Warum der Bestand gewinnt it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazhFSzJKeS1UM2QtMGtUbEVDanpZSkxHUHFMZ2RkNHdoeVJQMkRLQ3FtNkF4bWlLczZtcjY1eVpLZlJYWVgtT0VGSEhyaUFuOE9ucmhOTmp2UDZpRDFIVG9GUmZXNmEyTUdSeGJ0QVlGaXl2Zml1bFR6LWIxMGpNa1N5MnpuTHRJZEZvNWlXaktHSWxfZjByQjhfOGpSWElGN1ROV0hfc0dNQUpwMXVJbll3?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-02T16:07:14+00:00",
@@ -456,6 +447,16 @@
         ]
       },
       {
+        "title": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-27T23:03:04+00:00",
+        "summary": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmhBejloeEdQa1JhSWduVlNuZ2dSTmNJejNyV2VNaXlKUEZzTnpqSVJXaUtVbUlMNFFKS3FJeEd2ZW9SM0VUUFZuWUllQ2ZZR1AzZ1QzOGZOaWswSEpqWjk0a0pqanR3VE5lVXI0WkFsdnpURHZNRk1PN2lyajNEdHJRcnYwNFJoaVdjTkxLVHBfTG1hRVZFNzBhVUo3VHIwU1k2Uk8zYTE3QWdMR0Q5TGpqWQ?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
+      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): RBC bestätigt Einstufung „Sector Perform“ und Kursziel 1 - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-27T07:00:00+00:00",
@@ -486,13 +487,13 @@
         ]
       },
       {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
-        "source": "LOGISTRA",
+        "title": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren - Nau",
+        "source": "Nau",
         "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
+        "summary": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren Nau",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHprSmRudlp3THhaTUhRY2RjbXVsdWFWSnhTMkQwSFNYSnVhSTM3T0ptUnY1ZGEtWER5N2d1TmEzcXpsOTl0YWJ1LXlZazcyZ08tN0I2MkpRdDB3NVNCUmV6eXhReFM0NzVvNGEtczNuZ1JHUmhoelVHQTIzUnRueTZyWi1yRXlCMTlERjVVVG5lam0tMmFTTzBNbzRNbkIxN0FtVzJIaHlFMVhCYUxSUDI2SQ?oc=5",
         "tags": [
-          "KI"
+          "Nachhaltigkeit"
         ]
       }
     ]
