@@ -1,28 +1,8 @@
 {
-  "generatedAt": "2026-06-09T02:36:17.048003+00:00",
+  "generatedAt": "2026-06-09T06:43:40.925497+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-05T02:44:45+00:00",
-        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T12:02:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
       {
         "title": "Brandschutz wird smart: Siemens stellt Sinteso Nova vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -126,6 +106,27 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
       }
     ],
     "pfs": [
@@ -158,17 +159,6 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
         "tags": [
           "RTL.de"
-        ]
-      },
-      {
-        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-02T13:56:58+00:00",
-        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
         ]
       },
       {
@@ -222,16 +212,6 @@
         ]
       },
       {
-        "title": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "IKEA Dirigera: Smarthome-Hub wird deutlich teurer SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3h2bTNHdnJwamx2U3BRdUtxejdSTUNQYjVkU1pvN09hSFotdTVwUFlwZmhud05zMDFhOXBCdzhmNU1aRTRPUWZFOHltaUFiUVBENzZlQ0tfM0VRWkYtVVJkbHpCMlRodVJCTDlfcXRpT1ZXZWtDU21uaThlMGN2MWN5WWc1YU1KYU5j?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
         "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
         "source": "Stimme",
         "publishedAt": "2026-04-30T07:00:00+00:00",
@@ -250,6 +230,27 @@
         "tags": [
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Bosch Smart Home Bewegungsmelder II mit Matter-Support ist da Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQkdjbDFVNk83UTlGc0UyelVXbW1JTk1CTnV5UnFKTmlmS0Q2ZENzY0VXbkFLY3RMVndjZ1hiUWNKQVNVaVJKM0IxT0tTVGZMQXA0azlRRmlYM2JRcTJ4SG1QUFVfWGI0SmE1VWhNTU9ndUlSSTlIdjJaaXJaTGZsalYtTVVpQzFSTWtBUW9aa0lTTlMzaVE?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
         ]
       }
     ],
@@ -280,16 +281,6 @@
         "publishedAt": "2026-05-24T07:00:00+00:00",
         "summary": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9rcXNYeGF1WU1lVEl6dHVnSlpkdlZVU094Qk1hbTFHUTNhaGVBR1NvcHQ5dktDdzNRVzlxXy1zLXg0amJfamZONEVyNUNJSloyRFNYRUp1Z0otaDVZV1B4dHU2MVVhRFpsWWUzTEJCbWdOMU9YSEMzazBtZy1MX3NiZFNjb0loNlFIOVpyc1RHTmJOSkwtMXNzRlRVT3RoZEUwUm43OGF4WUJPTmNMNlBiYndick4yN0dKb2dVakt6aG15MVhBNQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie (US0376041051): Warum Alternative Assets jetzt für europäische Anle - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-11T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie (US0376041051): Warum Alternative Assets jetzt für europäische Anle AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGgzWTYyN1dtRVJ2LTI5dFFaNzBReFdyaklobDEwQjFZWFNoSzNnMFVUdkhKMDB4MXlTMldwUHp0bnRXbHIxQ3Y4QVVEcDk2YU9naEpjVVVkdmJBSEtXMFNKN3htZWxrUl9aelEyT1dTUFpjQTA5aWxzYzFXdnNGRTYtMHVhMEZWUDZmV2w2dFhPLUF0MzZqbEY3SzhySkdiUU9OcjRZWS0zSVNyZWhsU3JRMnUtZzRkVTRibG9mMnktWHFtZGc?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -373,6 +364,16 @@
         "tags": [
           "cineplex.de"
         ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
       }
     ],
     "trends": [
@@ -394,16 +395,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcG00b1lsYmVRY2liT2ZuUWhrTDItSEpocURJLVR4M1lqTk5PR19QdS10Y2d1MG90Mmx1QUdXaF9sZ1BJVHpkcHRHa1pCU200WlE0OFhmajlxbzhuOWhIZGtKWXFILW45Rm9jTGM5RWlQQ2E0ajVETjhwZ2dLbjdtSnd2SFg4ZUZXSzdpaTJTNzM3SGVRX05aemJEU0tuRXlnZHlqaEtfMnFHWGVtdWc0akdQbHdjR3l1eHRYYjJqSXhSNGJ5XzAtdkRUcTd5Ri0zZEh3XzhwYk5HUjN0SWIyVTY1RnFXQ2VjY0dONGdBSERaMWw1V0dFemJIYVkxX1BYS3oyNnVQNA?oc=5",
         "tags": [
           "PresseBox"
-        ]
-      },
-      {
-        "title": "Wettbewerbsvorteil durch intelligente Gebäudetechnik - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-06-05T12:10:00+00:00",
-        "summary": "Wettbewerbsvorteil durch intelligente Gebäudetechnik elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzltMVhodl85U0tYMWZGbjF2d2hZTGxMNU9PbnlVTFUyc2gxd0NTNlJlcDNGaHZybVJBNnVrakZSZERCcVNFUVR4SnNzRi1fMzNSUTRiQXBXVUQxSEFKbENvUEJOaGV4anl2T3ZrN0dQWnd1Ylp0WU5qUWtxN2tMVU1DNG41Rmo3SnZSTGwtZjk3UmhRM2p2QnhSWlVLUQ?oc=5",
-        "tags": [
-          "elektro.net"
         ]
       },
       {
@@ -495,6 +486,16 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
+        "summary": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren Nau",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHprSmRudlp3THhaTUhRY2RjbXVsdWFWSnhTMkQwSFNYSnVhSTM3T0ptUnY1ZGEtWER5N2d1TmEzcXpsOTl0YWJ1LXlZazcyZ08tN0I2MkpRdDB3NVNCUmV6eXhReFM0NzVvNGEtczNuZ1JHUmhoelVHQTIzUnRueTZyWi1yRXlCMTlERjVVVG5lam0tMmFTTzBNbzRNbkIxN0FtVzJIaHlFMVhCYUxSUDI2SQ?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       }
     ]
