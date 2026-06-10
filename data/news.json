@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-06-10T20:21:57.245551+00:00",
+  "generatedAt": "2026-06-10T22:24:47.257466+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-05T02:44:45+00:00",
+        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
@@ -115,16 +125,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "Neue Zürcher Zeitung"
         ]
       }
     ],
@@ -333,6 +333,16 @@
         ]
       },
       {
+        "title": "Scary Movie in Wiesbaden - cineplex.de",
+        "source": "cineplex.de",
+        "publishedAt": "2026-03-07T04:14:35+00:00",
+        "summary": "Scary Movie in Wiesbaden cineplex.de",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRXBWWkltS09MSnBoSW5ydzI4bmJRVE5iM2NaWjdkR1dhVHpuTVh0T1g4RDZ4TXBHR1pqMEt6N0k2NGtmTFVDb3llVEkxeTBwZUFzbktRckM0T09hSnN4aGIzS09TanBhc2VTd1k0MW1QbEdxN2VNeQ?oc=5",
+        "tags": [
+          "cineplex.de"
+        ]
+      },
+      {
         "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-03-06T08:00:00+00:00",
@@ -358,16 +368,6 @@
         "publishedAt": "2026-02-27T08:00:00+00:00",
         "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
         ]
@@ -415,17 +415,6 @@
         ]
       },
       {
-        "title": "Brandschutz: Neue Normen für RWA-Systeme seit Mai 2026 - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-30T04:39:34+00:00",
-        "summary": "Brandschutz: Neue Normen für RWA-Systeme seit Mai 2026 AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMG95NVp2cUhnZkJyb0hBNGxjUDFFUEZUVmpJZVJqLU55d2tzdDdvMmx3Qk1EQmtiMHY1VEUzUEtadk1jRTZGQzBFS2gxMTBGOFJxa095ZHktZzhnaXNIMHVrM1JCSE0zZ1drSnl5SWtGQ2hlT2kyckVLblJxRHBoTmtwdjJ2TkF2eUl5ZVFyNmRwa0NCSzlvNkZqNXBhWjhndDM4?oc=5",
-        "tags": [
-          "AI",
-          "Normen"
-        ]
-      },
-      {
         "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
         "source": "TGA+E Fachplaner",
         "publishedAt": "2026-05-29T03:00:08+00:00",
@@ -436,23 +425,13 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
+        "source": "Euronews",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
-        ]
-      },
-      {
-        "title": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-27T23:03:04+00:00",
-        "summary": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmhBejloeEdQa1JhSWduVlNuZ2dSTmNJejNyV2VNaXlKUEZzTnpqSVJXaUtVbUlMNFFKS3FJeEd2ZW9SM0VUUFZuWUllQ2ZZR1AzZ1QzOGZOaWswSEpqWjk0a0pqanR3VE5lVXI0WkFsdnpURHZNRk1PN2lyajNEdHJRcnYwNFJoaVdjTkxLVHBfTG1hRVZFNzBhVUo3VHIwU1k2Uk8zYTE3QWdMR0Q5TGpqWQ?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
         ]
       },
       {
@@ -486,13 +465,33 @@
         ]
       },
       {
-        "title": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren - Nau",
-        "source": "Nau",
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
+        "source": "LOGISTRA",
         "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "Nachhaltigkeit: So lassen sich Gebäude klimafreundlich sanieren Nau",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHprSmRudlp3THhaTUhRY2RjbXVsdWFWSnhTMkQwSFNYSnVhSTM3T0ptUnY1ZGEtWER5N2d1TmEzcXpsOTl0YWJ1LXlZazcyZ08tN0I2MkpRdDB3NVNCUmV6eXhReFM0NzVvNGEtczNuZ1JHUmhoelVHQTIzUnRueTZyWi1yRXlCMTlERjVVVG5lam0tMmFTTzBNbzRNbkIxN0FtVzJIaHlFMVhCYUxSUDI2SQ?oc=5",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
         "tags": [
-          "Nachhaltigkeit"
+          "KI"
+        ]
+      },
+      {
+        "title": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-19T18:36:30+00:00",
+        "summary": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUY4UEhmX2RFSE80VzNUbnkwNjJ0TXVwRDZtLTlrRGRRcVdxRVgyTDNWZ2VjU09iWV9KTG1GbXpRNnBKYXY5Zk9rRTNKWVRIbGdSRDlnNHRUcTY4VzdHVXlia2NualhVdjNUVEl2LV8tdGw3eTh1dmFEQVdGcDQ5U1Jkay02NjExVkJSblJ3RmJqNGVacTJXY2RreENtdkRaVkFyX3JUbFZwbnhKaGtxVGhsQzd6XzdXdms0RE5nNUw?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Insiderverkauf im Mai 2026 wirft Fragen zur Bewertung auf - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-19T07:00:00+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Insiderverkauf im Mai 2026 wirft Fragen zur Bewertung auf AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPazVweUVMUFRPMEItV0NsSEFTak1LT3ZKbTViLW9nQXNabUlfUEM4U3RsQmMtb3NXUTM5Wms5RTFyNnViaVA3M3gzQk8tSjhic29VVmRGd1l5Y3NId0NXV21QRl9ZZ1pyRW41bUVuS1ZGakZDY1duellMQ2Z4Ujg5T0wwWkd4dXRSSWxFaWdzanhGQ2YzQnFVMkdmbzJjRm16YUE3emJPa29QcnBqRjEyQ2dfalQ3eFQ3MnZjZ2s1SGc3bFF0R1E?oc=5",
+        "tags": [
+          "AI"
         ]
       }
     ]
