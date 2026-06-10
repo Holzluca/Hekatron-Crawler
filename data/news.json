@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T11:07:35.571703+00:00",
+  "generatedAt": "2026-06-10T14:33:49.070037+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -43,16 +43,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-05-22T07:00:00+00:00",
-        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
-        "tags": [
-          "elektro.net"
         ]
       },
       {
@@ -126,6 +116,16 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -155,6 +155,46 @@
         "publishedAt": "2026-06-09T11:10:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFFpc1ByLVgzWHFyemlfdlRlODN1c2NzeG1KWDFzU1hNLTBVenR5SE9PVTBKWGE0cGJ0cGtMc3VOTG9fYm8xeHdjWFVQSWR2T3RPaE5adkxpdkEydm5EbTRJNkNGV3ZaYXdnWTlINHV6LUt4NG9GS1JrVkZBZmU2MV9tSF90MDJZejZfTUNfeFY?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnYySnpvR3lDdjZSQXhQNzRkOVJQblREcTNuV2dyaXNkLTlQSVRzcDJZdHQ4UzdBTlp5SUZfNDIwMEU4LUhMemZqd2k3YmlaUlh2cEVvdlFvc3FXZk40V25IWkt1cS05bnEtVzNlLUY0MFd6MTZ3eTZnTnRLS3gzMVpVdkh0dW9CUno1UVV6TTlWSWNzQzFNa1Z3?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0tyY05yNHA5R0ZIU3FCbVdPU3BDMFFzd3ZPd29mTFhWVjNNZFk0amszMGxyeUgxOWRrelFMNl9meWs4Mmw5LWtTZ1hIbXYwUDA3MjkweS1yRVUyNFFPQk8wZmdaekZFblRwSFp6R3lNR0pZUXFxTVVjd0RaTmJHd2hTbzg5RHVoMFV5d2w0RzhUUFo3X0U3dEpB?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnQzWlFRMTRXR1RiUnVhUlVVdkF4MVpRdG1IdFpIcDVWeHc2ZzA3YzJJTHc3T3dETU1PcXYtczltZ0lzbkQ5dG5CWGFLcks3RENIZjc2bFRwZGVJTDRJNnRCeUN5QlRzeXowdE9raDlTSjJHa1FFMjJTbzM1SVRENWFGbkxmUmp4bUZkY0ZXUTA2NWdkMElkaDhUMA?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWYybXg4NW5ISHo2dF80NEtoOXNLVXNrS3loWGhJRmljR2FPdWhWQ0ZPcEp4NGZoYmoxeHkzYkhkOUFnT09ENGtqLUNYd3RsUHhEcnRnV1ptRDcxd0RYX0U4SGFubEE3WmNLV2YweElHMncxaHl4YVJqMl9MbndJSm9fWFl0Z2ZQREY1a3c0MVdYRmNGbzdKR3Jraw?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -201,54 +241,13 @@
         ]
       },
       {
-        "title": "Wichtige Frist läuft noch 2026 ab: Viele Rauchmelder müssen ausgetauscht werden - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-05-27T07:00:00+00:00",
-        "summary": "Wichtige Frist läuft noch 2026 ab: Viele Rauchmelder müssen ausgetauscht werden CHIP",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTFydnlVS0tobEZSUTB3ZFBJMzdyNXI2d1lXXzhmeTZGSG43SENCR1lraDNzUEJWUkdRUnhJZll2R1M1U29PdzM5eXlaeUtFYUVQSHl4VHFhZS1YVGlKVUdSTWVmVDFWcFhTMUVNeG5KLTlHNlF6NUJROHZiM01Ma0M4d3JwSlpDdk90dlk3VFVoSDlaY0RZM2hFZkU2VWN4emozdENWR1U5M0lpbnFGMFdvSThTWk9PTGdFMw?oc=5",
-        "tags": [
-          "CHIP"
-        ]
-      },
-      {
-        "title": "Sie haben keine Rauchmelder installiert? Diese Strafen drohen - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-05-27T07:00:00+00:00",
-        "summary": "Sie haben keine Rauchmelder installiert? Diese Strafen drohen CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEZ0Z3MtbVBCUTlDVDNkeDZhYTdETkZsQVJKRkFUWFpYdE1CVUVCTUFlU1ZBTTBxdjVfQ1lydTEtamN1bW9lWHNIRzJQelVmbUpMRjI3VXhrZm5WTThidk5faWRTX0UwLXplMTFQVWlpZlJMSHNsMi1sV2dOU1JFX0ZoZXNHRDM1S0k0TW9FbzdiSkxXOEoycl9peDUyaVk5U1hPM0pBNklFZVBRYXc0T1J1aWE5NFItMXJYdEVUMHZiNnNla1pzajA0ZEFweFZiaWgwb2RETzNpa045a1AzaQ?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Thunderbird 150.0.2: Sicherheitsupdate für den Mail-Client steht bereit Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2FDTXVTSTlLYWMzUDZOQ3RhUHkyOWxCQ1YxdHBQSnZtU2RMcHU2d1c5b19aSTFLclYzXzRFNVBsSi1KQUllOXUtVGkyTEpzMG9reFE0VjlpbzNRMW9ZQ1NsZmZ0LWd6QVM2ODBRaW56c3pIdUNRekxudC1iMS1ub0ktSmhBQmlTSUI3bVBmRzgyTWFRazlONERxZTItd1BXMXNz?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet - mobiFlip",
+        "title": "X-Sense integriert Warnmelder in Home Assistant - mobiFlip",
         "source": "mobiFlip",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Bosch Smart Home Bewegungsmelder II [+M] mit Matter startet mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHZzVU9veTNDSlo3U0RYSktyQnpKRFVHZlhkZlQyX0I4YjhydDBjaUxVb0djRmNPSWdvZEVISVVFem1tXzRyd2p2NjNkZmxZRUJKUS0xNVFKMVVBZk1LWFdNd3lHU2NpNk5fV0N4MkJvc090dVk1VXhsSVA1SS1hcGRnSVVSOXg50gGOAUFVX3lxTE8xT0Qzd2d4akFGVC1TYmxrWFhETTd6b1JHRnZtTUloR05VS3JxaHU2SVYwbG95T3BFVjlWdFE5cGthSG1pX1gzUzFJb09ZNGhhMV9maFdjS3BaUnI2TExEQlZpOENtVkFlVlV0aHk4LTc2NHV6UFcwbTJlRzFnVWhqblJTMzNBOUFscWp4ZEE?oc=5",
+        "publishedAt": "2026-06-02T07:03:30+00:00",
+        "summary": "X-Sense integriert Warnmelder in Home Assistant mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FUF9SdFppLTBqNy1Hd2JvNjFmRVRXamRGT0Vkd19kd2FTUHRHcVk2dmhHMl9oWmljaUQwMGRfRXY5cnp4dWE3dGtXYlZhVVkzVWVOYmVHTEhjLWpMcUowb2NVVWFfbzdZandydGRnd3NmdnhFTEFNX3pGVWXSAYIBQVVfeXFMTXBnY2tKbzZPdWJKQUE3anhvQWJDbXJCLXVRVk5lUnZjQ2FjN3Ytem5uNWtwaUI3b19TSFJJLVZoZ3pTQVcxN1hhdXF4cWgwYkxOMzVObGwtMEluT2Zfb2ZVa3A5dGpuUTNsbThlT1NjcVNFZFFQOUhlY2RQdEpnNXk5Zw?oc=5",
         "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-27T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
+          "X-Sense"
         ]
       }
     ],
@@ -364,11 +363,11 @@
         ]
       },
       {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
+        "source": "bm-online.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
         ]
