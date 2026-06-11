@@ -1,28 +1,8 @@
 {
-  "generatedAt": "2026-06-11T12:26:17.962128+00:00",
+  "generatedAt": "2026-06-11T16:34:05.881980+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-05T02:44:45+00:00",
-        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T12:02:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
       {
         "title": "Brandschutz wird smart: Siemens stellt Sinteso Nova vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -87,26 +67,6 @@
         ]
       },
       {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-02T19:56:17+00:00",
@@ -125,6 +85,47 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
+        "source": "Aargauer Zeitung",
+        "publishedAt": "2026-03-30T07:00:00+00:00",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -353,21 +354,21 @@
         ]
       },
       {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
         "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
         "source": "handwerk.com",
         "publishedAt": "2026-02-27T08:00:00+00:00",
         "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
+        "source": "bm-online.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
         ]
