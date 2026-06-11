@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T23:54:57.890325+00:00",
+  "generatedAt": "2026-06-11T02:59:48.344699+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -170,16 +170,6 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0tyY05yNHA5R0ZIU3FCbVdPU3BDMFFzd3ZPd29mTFhWVjNNZFk0amszMGxyeUgxOWRrelFMNl9meWs4Mmw5LWtTZ1hIbXYwUDA3MjkweS1yRVUyNFFPQk8wZmdaekZFblRwSFp6R3lNR0pZUXFxTVVjd0RaTmJHd2hTbzg5RHVoMFV5d2w0RzhUUFo3X0U3dEpB?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
@@ -248,6 +238,16 @@
         "tags": [
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-04T12:02:00+00:00",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
+        "tags": [
+          "Teltarif"
         ]
       }
     ],
@@ -333,6 +333,16 @@
         ]
       },
       {
+        "title": "Scary Movie in Wiesbaden - cineplex.de",
+        "source": "cineplex.de",
+        "publishedAt": "2026-03-07T04:14:35+00:00",
+        "summary": "Scary Movie in Wiesbaden cineplex.de",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRXBWWkltS09MSnBoSW5ydzI4bmJRVE5iM2NaWjdkR1dhVHpuTVh0T1g4RDZ4TXBHR1pqMEt6N0k2NGtmTFVDb3llVEkxeTBwZUFzbktRckM0T09hSnN4aGIzS09TanBhc2VTd1k0MW1QbEdxN2VNeQ?oc=5",
+        "tags": [
+          "cineplex.de"
+        ]
+      },
+      {
         "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-03-06T08:00:00+00:00",
@@ -358,16 +368,6 @@
         "publishedAt": "2026-02-27T08:00:00+00:00",
         "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
         "tags": [
           "GEZE"
         ]
@@ -436,10 +436,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
