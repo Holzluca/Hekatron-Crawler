@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T06:29:21.760058+00:00",
+  "generatedAt": "2026-06-12T10:49:52.879312+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -87,6 +87,16 @@
         ]
       },
       {
+        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-23T13:31:53+00:00",
+        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -115,16 +125,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "Neue Zürcher Zeitung"
         ]
       }
     ],
@@ -353,6 +353,16 @@
         ]
       },
       {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
         "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
         "source": "handwerk.com",
         "publishedAt": "2026-02-27T08:00:00+00:00",
@@ -360,16 +370,6 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
         "tags": [
           "GEZE"
-        ]
-      },
-      {
-        "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
-        "source": "CoinDesk",
-        "publishedAt": "2026-02-15T08:00:00+00:00",
-        "summary": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
-        "tags": [
-          "Apollo"
         ]
       }
     ],
@@ -486,13 +486,13 @@
         ]
       },
       {
-        "title": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-19T18:36:30+00:00",
-        "summary": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUY4UEhmX2RFSE80VzNUbnkwNjJ0TXVwRDZtLTlrRGRRcVdxRVgyTDNWZ2VjU09iWV9KTG1GbXpRNnBKYXY5Zk9rRTNKWVRIbGdSRDlnNHRUcTY4VzdHVXlia2NualhVdjNUVEl2LV8tdGw3eTh1dmFEQVdGcDQ5U1Jkay02NjExVkJSblJ3RmJqNGVacTJXY2RreENtdkRaVkFyX3JUbFZwbnhKaGtxVGhsQzd6XzdXdms0RE5nNUw?oc=5",
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
+        "source": "LOGISTRA",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
         "tags": [
-          "AD HOC NEWS"
+          "KI"
         ]
       }
     ]
