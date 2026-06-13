@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T16:11:04.333627+00:00",
+  "generatedAt": "2026-06-13T17:51:18.837885+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -283,16 +283,6 @@
         ]
       },
       {
-        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
-        "source": "Reifenpresse.de",
-        "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
-        "tags": [
-          "Reifenpresse.de"
-        ]
-      },
-      {
         "title": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-24T07:00:00+00:00",
@@ -370,6 +360,16 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
+        "source": "bm-online.de",
+        "publishedAt": "2026-02-11T08:00:00+00:00",
+        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
+        "tags": [
+          "GEZE"
         ]
       }
     ],
