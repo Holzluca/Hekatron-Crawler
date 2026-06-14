@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-06-14T01:41:41.801516+00:00",
+  "generatedAt": "2026-06-14T06:29:14.389010+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-05T02:44:45+00:00",
-        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
@@ -125,6 +115,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -323,6 +323,16 @@
         ]
       },
       {
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
+        "source": "handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
         "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
         "source": "CoinDesk",
         "publishedAt": "2026-02-15T08:00:00+00:00",
@@ -360,16 +370,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-01-09T08:00:00+00:00",
-        "summary": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0pWckZOaXZ5Q29ManhrUl85SXprYno2aklXb25sNzM3NlJHWmNXam0tODNDbkkzVlF5U3JnY0VBWTVCYUJncElHM2UyRlhnTUhQWE5henQxQk1pTk5vdDgzSUhPTkNXbzdwQTQ0SlZualpIVURsQkQ4X1RlTHVoYnhhMTFCOUg2eDR0cEpIRTl0MkdhUEtWUm9MRTl3eDR5ckM4Ui1XbEJGNDlHTml6REVZd1NWb1Y5TmZ0ZlVwWU04NjQ?oc=5",
-        "tags": [
-          "Apollo"
         ]
       }
     ],
@@ -428,7 +428,7 @@
       {
         "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
         "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-05-29T07:00:00+00:00",
+        "publishedAt": "2026-05-29T03:00:08+00:00",
         "summary": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert TGA+E Fachplaner",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
         "tags": [
