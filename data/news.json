@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T20:45:33.713972+00:00",
+  "generatedAt": "2026-06-14T22:04:13.407089+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -140,6 +140,16 @@
         ]
       },
       {
+        "title": "Osram veröffentlicht Update für WLAN-Steckdosen: Es bringt ein praktisches Feature - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-06-09T11:31:12+00:00",
+        "summary": "Osram veröffentlicht Update für WLAN-Steckdosen: Es bringt ein praktisches Feature Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3kwRWhjeDA4VUtHcHo3Z19YdkRUdHk0d0pYbUZ4M1hMYzNBdzc0Z0RNaXMyMjdhOVU5WWFaM1lXb1M4VndROWl2VmpsT3BGb0tXaDR3eFlPN2o4U1Y3Q2kxMzJXaGk3a2xVQmRCMFJnVVdMdWlXaXFHWEFXbFB3NklCVUE2N2t0ZjF6djZqQWpTTVZFdVBaMENwZkNjMzRHUHpmSDJZamZiUGxaeHR5bzR3?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
@@ -190,11 +200,31 @@
         ]
       },
       {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDc3di0tTHRFSjB5czhseWtfR1NvZi1aZ1lKSS1xaWFPN0tPbDF3MGxGalFCSzRUUjh4TWROSXBUT2wwQ250UjlNV2FpbGNBVXJJbU4yQVRWNldoVXk3Z1V4NmNKek5SUGNjbU9BTFhOZFVyaUZaLTk4NG5DMTgtdV9mSlVGaVdNUnlBTm5xeHk5X1NYMkd5ZW1B?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 Teltarif",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWYybXg4NW5ISHo2dF80NEtoOXNLVXNrS3loWGhJRmljR2FPdWhWQ0ZPcEp4NGZoYmoxeHkzYkhkOUFnT09ENGtqLUNYd3RsUHhEcnRnV1ptRDcxd0RYX0U4SGFubEE3WmNLV2YweElHMncxaHl4YVJqMl9MbndJSm9fWFl0Z2ZQREY1a3c0MVdYRmNGbzdKR3Jraw?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 7/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 7/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1RhWTNEUkZYYXhMR2UxVEFfWGhHMWx4MkZQT01oMXJ2eVhKdWZFdW5qZVUwN3RzaEhoU0drVDF3aFB3VThZYmpBUWI2MDVpQlhqUnUwSDVGTk9ONVI0VDNDVi15U2VHUi1lZVZlVDZiZENNaks1Wm9YaVZ0dnh5Yk1kTEVjbm9nbVFiSWd4ZW9uN2pfZTZLYnNB?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -219,49 +249,9 @@
         "tags": [
           "RTL.de"
         ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
-      {
-        "title": "X-Sense integriert Warnmelder in Home Assistant - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-06-02T07:00:00+00:00",
-        "summary": "X-Sense integriert Warnmelder in Home Assistant mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FUF9SdFppLTBqNy1Hd2JvNjFmRVRXamRGT0Vkd19kd2FTUHRHcVk2dmhHMl9oWmljaUQwMGRfRXY5cnp4dWE3dGtXYlZhVVkzVWVOYmVHTEhjLWpMcUowb2NVVWFfbzdZandydGRnd3NmdnhFTEFNX3pGVWXSAYIBQVVfeXFMTXBnY2tKbzZPdWJKQUE3anhvQWJDbXJCLXVRVk5lUnZjQ2FjN3Ytem5uNWtwaUI3b19TSFJJLVZoZ3pTQVcxN1hhdXF4cWgwYkxOMzVObGwtMEluT2Zfb2ZVa3A5dGpuUTNsbThlT1NjcVNFZFFQOUhlY2RQdEpnNXk5Zw?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Warm wohnen, weniger zahlen: Smarte Thermostate im Test 2026 Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTZXOElud3U0NjltMW1KRWs3WERVZ0czTmZGbzBwZHNxejRYbXlSalB2NDJKMlB3R2dUdmJaSHhjX2RmcW9PWThmeXVkdHpzZTNxY3QtOFFYY0FpMHMzeFo2SElNaGR4cVVLdTczemYtdXVEemxoVDJnRXRsSWJRNDFQVXRpbENqbEIwcEprX2JHQXM?oc=5",
-        "tags": [
-          "Computer Bild"
-        ]
       }
     ],
     "doors": [
-      {
-        "title": "Broadcom, Apollo, Blackstone starten Plattform für künstliche Intelligenz im Wert von 35 Milliarden US-Dollar - de.qz.com",
-        "source": "de.qz.com",
-        "publishedAt": "2026-06-10T11:43:02+00:00",
-        "summary": "Broadcom, Apollo, Blackstone starten Plattform für künstliche Intelligenz im Wert von 35 Milliarden US-Dollar de.qz.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREUzX1N3c1pNZlEtU0hGVm92TnhPcjB2azZINWxFcWMtS2JNb1dfaUZ0Nkdic1NqTy1tQ2xUbDFXaTNXbzJUS2NwRlVsSWprOXhKX2g1OVZCWUNhNUhqT091TWstQ1VVRU16dFptMlI2UTFlaHpQa005c3lSQ0JVR0NyZDA?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Türtechnik erfüllt Brandschutzanforderungen - elektro.net",
         "source": "elektro.net",
@@ -280,16 +270,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUVE5R2hQZU0xb28wUW1VT09tOE84OEV3OHJZZ1IyZ2lXT2dvcGxWRm5IS2xtVnp3YlFUM0ZhV3BuRGNwQk9pU0FaVW84UnAydWxMOU4tdHBRMVFTN1ozQXMtLWxrcmU5X3RQQmNkVHlldklVX09OaGVRLTZScHBHaXhUd2g4RnJqa084VldNMldRWXFrWi1TcjZYVE5HZjJIX1NOaUhYLUlTMUsyOHRYa3dPTHdmNzdOV1R3NmJiVmlkZGNGZjZLUUhtX05aYjM0VlNtS3BWWVBRRnNfTy1ya2RsdTZqQQ?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
-        "source": "Reifenpresse.de",
-        "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
-        "tags": [
-          "Reifenpresse.de"
         ]
       },
       {
@@ -371,6 +351,26 @@
         "tags": [
           "GEZE"
         ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-14T10:47:12+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
       }
     ],
     "trends": [
@@ -412,6 +412,17 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJkVUpyWHlLWVppSUU5Vlo3UUpuQWRpS0NyT2xoYXlNZ0JYZHNVb2VpR3lGU1BFazlZS0hub2owaENXWlFVOHFNaDd5czBVdWladmZaT3JibVV2NnlkcUczeXM0YTJ2Q3RVSFpMWksyS2ZzbWNHc3lFX2tuY3p5X3BWUkRDYUdLc1VDT3RtNUVHWDJJMmtSaE1CcWFHR29WaW1jZnhORHp6VTBzQWw5am9TeS04SnFnTFdmNUZ1MDFQdw?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Brandschutz: Neue Normen für RWA-Systeme seit Mai 2026 - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-30T04:39:34+00:00",
+        "summary": "Brandschutz: Neue Normen für RWA-Systeme seit Mai 2026 AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMG95NVp2cUhnZkJyb0hBNGxjUDFFUEZUVmpJZVJqLU55d2tzdDdvMmx3Qk1EQmtiMHY1VEUzUEtadk1jRTZGQzBFS2gxMTBGOFJxa095ZHktZzhnaXNIMHVrM1JCSE0zZ1drSnl5SWtGQ2hlT2kyckVLblJxRHBoTmtwdjJ2TkF2eUl5ZVFyNmRwa0NCSzlvNkZqNXBhWjhndDM4?oc=5",
+        "tags": [
+          "AI",
+          "Normen"
         ]
       },
       {
@@ -481,16 +492,6 @@
         "publishedAt": "2026-05-24T07:00:00+00:00",
         "summary": "Johnson Controls-Aktie (IE00BY7QL619): Wie der Gebäudeprofi vom Trend zur Energieeffizienz profitie AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkowa0NLVXg4QlFLRnlEQUpJSXlYRHNnbE5XWkVCck5qYVJicUM5b3BPd3hqUnRmWWpvRWVkZEszWmVtS1JFSHNLUkpTU3ZZVEJLXzBFcERNU2kwUFJkd29Rd1I1YzZob2NxejFjWktzQWUtY1d3NzJkbW5RaE5ZZ1gyUUpsZTJPNnZkd3FSQjNGSXRnSF9DdDFVQ1NuYWEzQy1TQnViNktUMDhORXlfcFQtdGNnMTllSG1UajNoRmY0Ylk4STJ2X3VB?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
