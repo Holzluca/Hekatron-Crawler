@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-06-14T23:44:17.544577+00:00",
+  "generatedAt": "2026-06-15T03:35:06.627216+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-05T02:44:45+00:00",
+        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
@@ -14,11 +24,11 @@
         ]
       },
       {
-        "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
+        "title": "Brandschutz wird smart: Siemens stellt Sinteso Nova vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-02T16:07:14+00:00",
-        "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
+        "publishedAt": "2026-06-02T22:39:16+00:00",
+        "summary": "Brandschutz wird smart: Siemens stellt Sinteso Nova vor AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRll2cW1pNXlpSkpZcmVpVUljeEcwM3dqd0VEZktxZDNfOFlPNk82aU50dWM2V2Ntd1BFYm41c2lpY3RHZmhHQkU3VUlKX3ZNbGpxZUZQOE5Kc09QT0lCTFFPT09RdWFsVjlqeTdhTTJlT1psdFZ1enRXZ2dzVkNpOFNmNEdtUWgxTExFaEhxYloydmtoZWNKLXN0S0RnMkYzOXpN?oc=5",
         "tags": [
           "Siemens",
           "Brandschutz"
@@ -112,16 +122,6 @@
         "publishedAt": "2026-04-01T07:00:00+00:00",
         "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
-        "source": "Aargauer Zeitung",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -229,6 +229,17 @@
         ]
       },
       {
+        "title": "Immer wieder sonntags KW 23: Neuer Apple TV, E-Bike-Neuerungen von Bosch, illegale Streams und Gemini im Smart Home - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-06-07T04:30:00+00:00",
+        "summary": "Immer wieder sonntags KW 23: Neuer Apple TV, E-Bike-Neuerungen von Bosch, illegale Streams und Gemini im Smart Home Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWlMTjFJc0VkTWxzWHJPVG5kT3Zvem14MEJjZldiZXJKLWVRdHBPYTNCUlhHVEJPWEdoLWMyVFVoZkp0MURlSlQyV1d5VS1yT3kwckpDUmdiZzJydW5FVUlOUXFHQUtTdzk4NmIybGVBWWx4SzZ6d1FLbm9Sck44WHhUeGZuQ2RSWTV2WVNjYlVUY1czYVV0TER3VENwVjRka1lzazZUTHFjcFpzR1dqUEZoVEhlTmxka1BlUlVVOXpudW1jWUcyd3JSMmFVb202WGRoRGpuVG91Zw?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "8 Modelle, 1 klarer Sieger: Rauchmelder Test - RTL.de",
         "source": "RTL.de",
         "publishedAt": "2026-06-04T07:00:00+00:00",
@@ -236,16 +247,6 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
         "tags": [
           "RTL.de"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
         ]
       }
     ],
@@ -286,16 +287,6 @@
         "publishedAt": "2026-05-08T07:00:00+00:00",
         "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie (US0376123065): Interesse an Shell LNG-Anteil - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie (US0376123065): Interesse an Shell LNG-Anteil AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGZ5Q3drLXVvZzA4RGJvQ0J0S3ZyeFdtWGlicW4zS2lnRTY2N3g2cmJoNDMyRmJpdVprV3dXNXdfU0IwRGVSa1dkTzA4dHdxa0kwU3BpUlZyQkVYTDRqV0RqWjIwOVZybjBkNnFha09YbUMyZEUyS1NKUjRGVDNsd21QeDVIdVV5MEhBMHFac1JJTUlXRmdDMmk3V1I0TnU0dmlGWEMtNFAzS2pXTV9uRWVKTUs1U2JOZjIzWG93?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -351,16 +342,6 @@
         ]
       },
       {
-        "title": "Geze: Türschließer erhält German Design Award - bm-online.de",
-        "source": "bm-online.de",
-        "publishedAt": "2026-02-11T08:00:00+00:00",
-        "summary": "Geze: Türschließer erhält German Design Award bm-online.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjRNbzlscVpuRzIybFIzM3dIVWd5SzZIdUJrREM3aklvaW9IejE4TEpzQXprU3BaOWp6Q3hRRWM0VlBaMkw0ZnI5V3JMLWN1WXZLNGVFcE9IekpMLVhtVjVLWGdwY1owY1pTVWk2QXg5M0VHRzFFY09UV3NqWW0xS2tPQ3NYd3FQS1FOaktMWFU0d3JzLVdV?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
         "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
         "source": "Handelsblatt",
         "publishedAt": "2026-01-17T08:00:00+00:00",
@@ -368,6 +349,26 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
           "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-14T10:47:12+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-01-09T08:00:00+00:00",
+        "summary": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0pWckZOaXZ5Q29ManhrUl85SXprYno2aklXb25sNzM3NlJHWmNXam0tODNDbkkzVlF5U3JnY0VBWTVCYUJncElHM2UyRlhnTUhQWE5henQxQk1pTk5vdDgzSUhPTkNXbzdwQTQ0SlZualpIVURsQkQ4X1RlTHVoYnhhMTFCOUg2eDR0cEpIRTl0MkdhUEtWUm9MRTl3eDR5ckM4Ui1XbEJGNDlHTml6REVZd1NWb1Y5TmZ0ZlVwWU04NjQ?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
@@ -390,16 +391,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWNRdUU1SGhqU3FMQ3lWbnlIMHl2anVyWVAwVWN2QmNVRjZRXzhQREhLQTEwTmozdi1ZYk1fTUZGaHNReFJJYWtNLUQyMHl3SExORW4yakZ5Wm5VQnVDaFBMOHRoTkFma0g0N195WGZzLU1yTnhEQjRhRzV6bkM4cDE0eEN5Tm5xRG8tYUJMTFV2c1VvVGpucVMwd1JrZTF2TWREc0htcw?oc=5",
         "tags": [
           "it boltwise"
-        ]
-      },
-      {
-        "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-02T16:07:14+00:00",
-        "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
@@ -476,7 +467,7 @@
       {
         "title": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation - it boltwise",
         "source": "it boltwise",
-        "publishedAt": "2026-05-25T07:00:00+00:00",
+        "publishedAt": "2026-05-25T21:22:54+00:00",
         "summary": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation it boltwise",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOG9tYzRUUF9TbWtTdXhZSlYwZnRpX25BVEY2Qi1sdkJYcTZTNzltRnBrMnZ1eUFHN2dCVGN2am5Oc2NOWkFHVXZnSGNCQXZBYlMxNkFsaGc1Q2J3QVZnZm9Ma2JlbmV4WU5nZjZyN2c3Zy1ZXzJGZHRKeEJDd2FneXFQZF9aZlN3d1V4WUFLNlFPQnM1NFlmdE44QjZ2Tk9wZV9tblR5dHpQTFk?oc=5",
         "tags": [
@@ -490,6 +481,16 @@
         "publishedAt": "2026-05-24T07:00:00+00:00",
         "summary": "Johnson Controls-Aktie (IE00BY7QL619): Wie der Gebäudeprofi vom Trend zur Energieeffizienz profitie AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkowa0NLVXg4QlFLRnlEQUpJSXlYRHNnbE5XWkVCck5qYVJicUM5b3BPd3hqUnRmWWpvRWVkZEszWmVtS1JFSHNLUkpTU3ZZVEJLXzBFcERNU2kwUFJkd29Rd1I1YzZob2NxejFjWktzQWUtY1d3NzJkbW5RaE5ZZ1gyUUpsZTJPNnZkd3FSQjNGSXRnSF9DdDFVQ1NuYWEzQy1TQnViNktUMDhORXlfcFQtdGNnMTllSG1UajNoRmY0Ylk4STJ2X3VB?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-21T07:00:00+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Quartalszahlen, Ausblick und Kursentwicklung im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
