@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T09:55:58.153510+00:00",
+  "generatedAt": "2026-06-15T15:43:09.256603+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,6 +21,17 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
           "Teltarif"
+        ]
+      },
+      {
+        "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-02T16:07:14+00:00",
+        "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       },
       {
@@ -85,6 +96,17 @@
         ]
       },
       {
+        "title": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "Siemens und Attabotics revolutionieren Brandschutz in Fabriken AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbWpOTk1BNmJFcExNelFqUXRJX21qLTN5UHd3YW5HTU9kamE1YjFha0NRZ3FNbnR2eExNQ3A0eTRDdE9RbEVWNGpWM19NWU5PaWlPVHdvci1GY3ZCRjBkajZCX0Fqd1NWNzg5ZmRJMTNsQXRCdWMzdUZnV0UyT1JNc05wMGxHbjZOa3NqQTBDTjJ6UFVxSHBmaUh4d08tNlpndEx1MENBbmNGbDBaWk9iOEFTTXZmRXpUUmpaanJ3?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
         "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
         "source": "Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -100,26 +122,6 @@
         "publishedAt": "2026-04-01T07:00:00+00:00",
         "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
-        "source": "Aargauer Zeitung",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -228,16 +230,6 @@
         ]
       },
       {
-        "title": "8 Modelle, 1 klarer Sieger: Rauchmelder Test - RTL.de",
-        "source": "RTL.de",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "8 Modelle, 1 klarer Sieger: Rauchmelder Test RTL.de",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
-        "tags": [
-          "RTL.de"
-        ]
-      },
-      {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-04T07:00:00+00:00",
@@ -245,6 +237,16 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
           "Teltarif"
+        ]
+      },
+      {
+        "title": "8 Modelle, 1 klarer Sieger: Rauchmelder Test - RTL.de",
+        "source": "RTL.de",
+        "publishedAt": "2026-06-04T07:00:00+00:00",
+        "summary": "8 Modelle, 1 klarer Sieger: Rauchmelder Test RTL.de",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
+        "tags": [
+          "RTL.de"
         ]
       }
     ],
@@ -372,6 +374,16 @@
     ],
     "trends": [
       {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Analysten verweisen auf Rechenzentrums-Boom - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-14T09:19:44+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Analysten verweisen auf Rechenzentrums-Boom AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVhCeThCNTY3cVgyMUFoR0JwMFN3UHFfUEh2dXRKdkdGVTNhVm1fNmxWUk83aGlvZzJKM3hZYzNpb0JzSG0xTkctTE5UcURpTERQSFBpVHdBTllsOE15aWRiQnVpdEJ5cUMtd3Jyc2JoMFFPZmNfdXdSelpTcmlaMU81UG9qbC1RMzRMSEdWVHVKZXR4b2ZJeFhuVC10bHlsZnAxbkIySkVUdUdZUTN1QTJOMzZiY1lzVGc?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
         "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
         "source": "TGA+E Fachplaner",
         "publishedAt": "2026-06-09T08:11:23+00:00",
@@ -412,10 +424,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -480,16 +492,6 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTZIdmxfTFBpb05tMzVWSVk5UnZtb0lJRDNMMFZMYUFqemtSTkVWY0JuX0R1Wlh3dUJaV0lTX3BsSEF6NjV6eTE5QVBRSWhpVmR4UU8zVWNSWklzbzRiRE15N0R3YmlqN2J2RVJ2Vkw5RktKNXpKUEtyWElBNndGejBYTjlyR1dJZnJONldMeG9CMUxsSi1lYzZVMTlaOGh0TUJkV0xCcDhodnpRbDNBYS1ycnc3V1JoVDBWU0xtdw?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
-        "source": "LOGISTRA",
-        "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
