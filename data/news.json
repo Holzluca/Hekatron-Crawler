@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T22:06:55.948004+00:00",
+  "generatedAt": "2026-06-16T23:53:51.277730+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -376,16 +376,6 @@
     ],
     "trends": [
       {
-        "title": "Mit KI-gestützter Plattform: Wie L&T Technology Services mit i-BEMS Gebäude smarter macht - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-15T16:16:57+00:00",
-        "summary": "Mit KI-gestützter Plattform: Wie L&T Technology Services mit i-BEMS Gebäude smarter macht AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSXNnRk1kenVRcDdZTTRQaTg2VUlKM2szcERZemJiRUNrZXA2bkZfZDM4NW5KOUh3OFVyUHFxR1RXZm1HOVVkT3JwT1Z2RVYwWS1RMEJkUHowVHdFcF9pcm1nV0MwSVI3T0g3WVB4bFQtcUczYnV2VC1zcUZ0UXdBV0luTFdVT1Q4RzVzOW9rWlBBMFRxbm5JLVVkOVcxN2ZpNzlFMFBXZ0s5Vm5wVVZSRjhobFVDQ00zTWU0Z1VlUVRiREhQaGg4clpB?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Analysten verweisen auf Rechenzentrums-Boom - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-14T09:19:44+00:00",
@@ -436,10 +426,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -453,6 +443,16 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmhBejloeEdQa1JhSWduVlNuZ2dSTmNJejNyV2VNaXlKUEZzTnpqSVJXaUtVbUlMNFFKS3FJeEd2ZW9SM0VUUFZuWUllQ2ZZR1AzZ1QzOGZOaWswSEpqWjk0a0pqanR3VE5lVXI0WkFsdnpURHZNRk1PN2lyajNEdHJRcnYwNFJoaVdjTkxLVHBfTG1hRVZFNzBhVUo3VHIwU1k2Uk8zYTE3QWdMR0Q5TGpqWQ?oc=5",
         "tags": [
           "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "TU Berlin warnt: 96% sanierungsbedürftig, Brandschutz-Urteile und 2,4 Mrd. fehlen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-27T07:00:00+00:00",
+        "summary": "TU Berlin warnt: 96% sanierungsbedürftig, Brandschutz-Urteile und 2,4 Mrd. fehlen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUx0UWFQVHFWaHJtVDhTOTUzRTVuYmtlc3lVVW9veldsOXhrRE5RUnYtMTlqODFNNDljSEttWkN5VTFwZkJmNTJETGN2aG9DMXlCNWN6UGpmMEl3MzMtUmg4MkNhWXROMURfdGVrdGtPVDBQWlZGeS1NTkI2anZnc3RBdFJPYVcwSlROMk51THpZSFhEVXQ5YURadzVBdE1vUnZNd2Vhb2otRjJVaXc?oc=5",
+        "tags": [
+          "it boltwise"
         ]
       },
       {
