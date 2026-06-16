@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T05:43:09.951831+00:00",
+  "generatedAt": "2026-06-16T11:00:31.064683+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -179,16 +179,6 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa3hLeFJaZU1ZVmZsU0dRdEtiNVJHMDdzYll1Zkp3MGltQjZ3Umppc3h4UDF3QWstckRJaHRoYWh1U1pXektmSUNJeHdOcDhCWE9jQkpOY19yQXd1NldCRXQxRVJUY2JYU0hvX0J4ZjgxYThrS1ZqUW45dU41UDJpMEtPeHo4cmJmdlJEbGZMTXpvWlM2enpfSGRn?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 11/12 - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
@@ -199,11 +189,11 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 - Teltarif",
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWYybXg4NW5ISHo2dF80NEtoOXNLVXNrS3loWGhJRmljR2FPdWhWQ0ZPcEp4NGZoYmoxeHkzYkhkOUFnT09ENGtqLUNYd3RsUHhEcnRnV1ptRDcxd0RYX0U4SGFubEE3WmNLV2YweElHMncxaHl4YVJqMl9MbndJSm9fWFl0Z2ZQREY1a3c0MVdYRmNGbzdKR3Jraw?oc=5",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa3hLeFJaZU1ZVmZsU0dRdEtiNVJHMDdzYll1Zkp3MGltQjZ3Umppc3h4UDF3QWstckRJaHRoYWh1U1pXektmSUNJeHdOcDhCWE9jQkpOY19yQXd1NldCRXQxRVJUY2JYU0hvX0J4ZjgxYThrS1ZqUW45dU41UDJpMEtPeHo4cmJmdlJEbGZMTXpvWlM2enpfSGRn?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -214,6 +204,16 @@
         "publishedAt": "2026-06-09T11:10:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 Teltarif",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDc3di0tTHRFSjB5czhseWtfR1NvZi1aZ1lKSS1xaWFPN0tPbDF3MGxGalFCSzRUUjh4TWROSXBUT2wwQ250UjlNV2FpbGNBVXJJbU4yQVRWNldoVXk3Z1V4NmNKek5SUGNjbU9BTFhOZFVyaUZaLTk4NG5DMTgtdV9mSlVGaVdNUnlBTm5xeHk5X1NYMkd5ZW1B?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWYybXg4NW5ISHo2dF80NEtoOXNLVXNrS3loWGhJRmljR2FPdWhWQ0ZPcEp4NGZoYmoxeHkzYkhkOUFnT09ENGtqLUNYd3RsUHhEcnRnV1ptRDcxd0RYX0U4SGFubEE3WmNLV2YweElHMncxaHl4YVJqMl9MbndJSm9fWFl0Z2ZQREY1a3c0MVdYRmNGbzdKR3Jraw?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -322,6 +322,16 @@
         ]
       },
       {
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
         "source": "Gebäude-Energieberater",
         "publishedAt": "2026-03-03T08:00:00+00:00",
@@ -359,16 +369,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-01-09T08:00:00+00:00",
-        "summary": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0pWckZOaXZ5Q29ManhrUl85SXprYno2aklXb25sNzM3NlJHWmNXam0tODNDbkkzVlF5U3JnY0VBWTVCYUJncElHM2UyRlhnTUhQWE5henQxQk1pTk5vdDgzSUhPTkNXbzdwQTQ0SlZualpIVURsQkQ4X1RlTHVoYnhhMTFCOUg2eDR0cEpIRTl0MkdhUEtWUm9MRTl3eDR5ckM4Ui1XbEJGNDlHTml6REVZd1NWb1Y5TmZ0ZlVwWU04NjQ?oc=5",
-        "tags": [
-          "Apollo"
         ]
       }
     ],
@@ -444,10 +444,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
