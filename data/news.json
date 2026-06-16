@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T19:54:00.062636+00:00",
+  "generatedAt": "2026-06-16T22:06:55.948004+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -254,16 +254,6 @@
     ],
     "doors": [
       {
-        "title": "The Furious in Wiesbaden - cineplex.de",
-        "source": "cineplex.de",
-        "publishedAt": "2026-06-15T16:21:28+00:00",
-        "summary": "The Furious in Wiesbaden cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ieDNBLVlGN29PemZEb2MzMU9Ody0yZHhkZ1dIeVZvOERxRHhZOHZaRUFTOUdOdzBzVEdEVlV5c1o5UnhldjRmYlI1NDA5ZW55SGlWUWZyMWNZSkVqdEo5anBVWTZYcWc4UW56Y2xUd2lsRnUwNFNWaQ?oc=5",
-        "tags": [
-          "cineplex.de"
-        ]
-      },
-      {
         "title": "Türtechnik erfüllt Brandschutzanforderungen - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-06-10T05:00:00+00:00",
@@ -281,16 +271,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUVE5R2hQZU0xb28wUW1VT09tOE84OEV3OHJZZ1IyZ2lXT2dvcGxWRm5IS2xtVnp3YlFUM0ZhV3BuRGNwQk9pU0FaVW84UnAydWxMOU4tdHBRMVFTN1ozQXMtLWxrcmU5X3RQQmNkVHlldklVX09OaGVRLTZScHBHaXhUd2g4RnJqa084VldNMldRWXFrWi1TcjZYVE5HZjJIX1NOaUhYLUlTMUsyOHRYa3dPTHdmNzdOV1R3NmJiVmlkZGNGZjZLUUhtX05aYjM0VlNtS3BWWVBRRnNfTy1ya2RsdTZqQQ?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
-        "source": "Reifenpresse.de",
-        "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
-        "tags": [
-          "Reifenpresse.de"
         ]
       },
       {
@@ -371,6 +351,26 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-17T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-14T10:47:12+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
         ]
       }
     ],
