@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T22:13:11.070342+00:00",
+  "generatedAt": "2026-06-16T00:08:16.166545+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,6 +11,16 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-04T07:00:00+00:00",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
+        "tags": [
+          "Teltarif"
         ]
       },
       {
@@ -111,16 +121,6 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -383,6 +383,16 @@
         ]
       },
       {
+        "title": "Mit digitalem Zwilling und 24/7-Service: Wie das Asset-Retrofit von thyssenkrupp Fahrtreppen fit fü - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-15T11:03:24+00:00",
+        "summary": "Mit digitalem Zwilling und 24/7-Service: Wie das Asset-Retrofit von thyssenkrupp Fahrtreppen fit fü AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWUlTOWxGZzlSc29fTlVXSnBuRDdJTDhYM0pDejVpWjF0b0dvSVF1Nnc0WmpEeGtlNC1fNVJEMzhoUkJ4ejFyUWNuVGJDeTZMRXBCTjNUeWNpQ00zaEpNejNLS2FhQThoZnZESzVoS0p6MUN0MXF1LTJWdzQyVnd3LXZ6RjU4LVpaMUdCQThCQWdzNXhCenhxdkhpVnpLSFpTOUR2ZUswSnItRTVjelhLMUVpdHlhWDhMZkxoZ29Dakc1bjA?oc=5",
+        "tags": [
+          "Retrofit"
+        ]
+      },
+      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Analysten verweisen auf Rechenzentrums-Boom - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-14T09:19:44+00:00",
@@ -410,16 +420,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWNRdUU1SGhqU3FMQ3lWbnlIMHl2anVyWVAwVWN2QmNVRjZRXzhQREhLQTEwTmozdi1ZYk1fTUZGaHNReFJJYWtNLUQyMHl3SExORW4yakZ5Wm5VQnVDaFBMOHRoTkFma0g0N195WGZzLU1yTnhEQjRhRzV6bkM4cDE0eEN5Tm5xRG8tYUJMTFV2c1VvVGpucVMwd1JrZTF2TWREc0htcw?oc=5",
         "tags": [
           "it boltwise"
-        ]
-      },
-      {
-        "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-02T16:07:14+00:00",
-        "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
