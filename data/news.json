@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-06-17T03:29:12.990782+00:00",
+  "generatedAt": "2026-06-17T08:41:13.364414+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-05T02:44:45+00:00",
+        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
@@ -115,17 +125,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
       }
     ],
     "pfs": [
@@ -202,10 +201,10 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 9/12 - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 9/12 Teltarif",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa3hLeFJaZU1ZVmZsU0dRdEtiNVJHMDdzYll1Zkp3MGltQjZ3Umppc3h4UDF3QWstckRJaHRoYWh1U1pXektmSUNJeHdOcDhCWE9jQkpOY19yQXd1NldCRXQxRVJUY2JYU0hvX0J4ZjgxYThrS1ZqUW45dU41UDJpMEtPeHo4cmJmdlJEbGZMTXpvWlM2enpfSGRn?oc=5",
         "tags": [
           "Bosch"
@@ -272,16 +271,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUVE5R2hQZU0xb28wUW1VT09tOE84OEV3OHJZZ1IyZ2lXT2dvcGxWRm5IS2xtVnp3YlFUM0ZhV3BuRGNwQk9pU0FaVW84UnAydWxMOU4tdHBRMVFTN1ozQXMtLWxrcmU5X3RQQmNkVHlldklVX09OaGVRLTZScHBHaXhUd2g4RnJqa084VldNMldRWXFrWi1TcjZYVE5HZjJIX1NOaUhYLUlTMUsyOHRYa3dPTHdmNzdOV1R3NmJiVmlkZGNGZjZLUUhtX05aYjM0VlNtS3BWWVBRRnNfTy1ya2RsdTZqQQ?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
-        "source": "Reifenpresse.de",
-        "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
-        "tags": [
-          "Reifenpresse.de"
         ]
       },
       {
@@ -373,9 +362,29 @@
         "tags": [
           "Handelsblatt"
         ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-01-14T10:47:12+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
       }
     ],
     "trends": [
+      {
+        "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-06-17T08:20:23+00:00",
+        "summary": "Gemeinderat investiert in moderne Gebäudetechnik Nau",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
+        "tags": [
+          "Nau"
+        ]
+      },
       {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Analysten verweisen auf Rechenzentrums-Boom - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -483,16 +492,6 @@
         "publishedAt": "2026-05-21T07:00:00+00:00",
         "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Neubau für die FAU: Millionen für Hörsaalzentrum und KI-Rechenzentrum - Franken Fernsehen",
-        "source": "Franken Fernsehen",
-        "publishedAt": "2026-05-20T07:00:00+00:00",
-        "summary": "Neubau für die FAU: Millionen für Hörsaalzentrum und KI-Rechenzentrum Franken Fernsehen",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUEhVUEhST3lVWEp4MkFZMlR3SWQyb2pSQnE1ZWhUbndnVGJjWm55N3ZFX0ZoaXdCeE1mWDl3NzdHemJwcHE1Y184SXdSYU1pZWphSEVnU3gzNlFmaGV2RW1xVlBzeEx3SFJoQ2pLMHhrcFI5RkRWZVJWaFZGUG83S2Y5Q2h2NjkzMzU3dVBmVnhVa0RObV9PMmtCYXBVUU95ank2NzFfRHVyOXFmc3FGcjBOUFlLcVV4N0RNWg?oc=5",
         "tags": [
           "KI"
         ]
