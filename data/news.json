@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T09:51:21.496248+00:00",
+  "generatedAt": "2026-06-18T12:51:20.485214+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -76,6 +76,16 @@
         ]
       },
       {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
+        ]
+      },
+      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -113,17 +123,6 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
         ]
       }
     ],
@@ -171,16 +170,6 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 11/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 11/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnQzWlFRMTRXR1RiUnVhUlVVdkF4MVpRdG1IdFpIcDVWeHc2ZzA3YzJJTHc3T3dETU1PcXYtczltZ0lzbkQ5dG5CWGFLcks3RENIZjc2bFRwZGVJTDRJNnRCeUN5QlRzeXowdE9raDlTSjJHa1FFMjJTbzM1SVRENWFGbkxmUmp4bUZkY0ZXUTA2NWdkMElkaDhUMA?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 9/12 - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
@@ -191,21 +180,21 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDc3di0tTHRFSjB5czhseWtfR1NvZi1aZ1lKSS1xaWFPN0tPbDF3MGxGalFCSzRUUjh4TWROSXBUT2wwQ250UjlNV2FpbGNBVXJJbU4yQVRWNldoVXk3Z1V4NmNKek5SUGNjbU9BTFhOZFVyaUZaLTk4NG5DMTgtdV9mSlVGaVdNUnlBTm5xeHk5X1NYMkd5ZW1B?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 Teltarif",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWYybXg4NW5ISHo2dF80NEtoOXNLVXNrS3loWGhJRmljR2FPdWhWQ0ZPcEp4NGZoYmoxeHkzYkhkOUFnT09ENGtqLUNYd3RsUHhEcnRnV1ptRDcxd0RYX0U4SGFubEE3WmNLV2YweElHMncxaHl4YVJqMl9MbndJSm9fWFl0Z2ZQREY1a3c0MVdYRmNGbzdKR3Jraw?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 7/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 7/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1RhWTNEUkZYYXhMR2UxVEFfWGhHMWx4MkZQT01oMXJ2eVhKdWZFdW5qZVUwN3RzaEhoU0drVDF3aFB3VThZYmpBUWI2MDVpQlhqUnUwSDVGTk9ONVI0VDNDVi15U2VHUi1lZVZlVDZiZENNaks1Wm9YaVZ0dnh5Yk1kTEVjbm9nbVFiSWd4ZW9uN2pfZTZLYnNB?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -231,6 +220,26 @@
         ]
       },
       {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 11/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 11/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnQzWlFRMTRXR1RiUnVhUlVVdkF4MVpRdG1IdFpIcDVWeHc2ZzA3YzJJTHc3T3dETU1PcXYtczltZ0lzbkQ5dG5CWGFLcks3RENIZjc2bFRwZGVJTDRJNnRCeUN5QlRzeXowdE9raDlTSjJHa1FFMjJTbzM1SVRENWFGbkxmUmp4bUZkY0ZXUTA2NWdkMElkaDhUMA?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDc3di0tTHRFSjB5czhseWtfR1NvZi1aZ1lKSS1xaWFPN0tPbDF3MGxGalFCSzRUUjh4TWROSXBUT2wwQ250UjlNV2FpbGNBVXJJbU4yQVRWNldoVXk3Z1V4NmNKek5SUGNjbU9BTFhOZFVyaUZaLTk4NG5DMTgtdV9mSlVGaVdNUnlBTm5xeHk5X1NYMkd5ZW1B?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Immer wieder sonntags KW 23: Neuer Apple TV, E-Bike-Neuerungen von Bosch, illegale Streams und Gemini im Smart Home - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-06-07T04:30:00+00:00",
@@ -239,16 +248,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
         ]
       }
     ],
@@ -264,10 +263,10 @@
         ]
       },
       {
-        "title": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Fokus - AD HOC NEWS",
+        "title": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Foku - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-18T05:12:56+00:00",
-        "summary": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Fokus AD HOC NEWS",
+        "summary": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Foku AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjJJWDFnclo2bkZBVWpVV3AtdUNZRkNKUTZFbHVfdHZET054NWpDZDQzQkh5RXhHRWgzeGJnUWphMFBNVUtodW1VUlFMeXpkTGFJdEowaWNiaFdheVE1NlhkSnNRUmNYbEJLME93R29yVVAxYlJ2b29sS3BxTTlNRTBDU3p5Z3JoQU9DcHZlTHhNUUdSMTl6SGNHVTVjUVhlclA2ei1yVXhna05qNmNRRXEzZjU4dUtzaWcxem4wNWVEOFptX1B1LXpLcw?oc=5",
         "tags": [
           "Apollo"
@@ -324,6 +323,16 @@
         ]
       },
       {
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
         "source": "Handelsblatt",
         "publishedAt": "2026-03-31T07:00:00+00:00",
@@ -361,16 +370,6 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
         ]
       }
     ],
@@ -446,10 +445,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
+        "source": "Euronews",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
