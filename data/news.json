@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T22:57:22.792887+00:00",
+  "generatedAt": "2026-06-18T00:16:14.993612+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -66,6 +66,17 @@
         ]
       },
       {
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-05-05T12:32:58+00:00",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-04-27T07:00:00+00:00",
@@ -114,16 +125,6 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
-      },
-      {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -155,6 +156,16 @@
         "publishedAt": "2026-06-09T11:10:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 Teltarif",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnYySnpvR3lDdjZSQXhQNzRkOVJQblREcTNuV2dyaXNkLTlQSVRzcDJZdHQ4UzdBTlp5SUZfNDIwMEU4LUhMemZqd2k3YmlaUlh2cEVvdlFvc3FXZk40V25IWkt1cS05bnEtVzNlLUY0MFd6MTZ3eTZnTnRLS3gzMVpVdkh0dW9CUno1UVV6TTlWSWNzQzFNa1Z3?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 11/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 11/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnQzWlFRMTRXR1RiUnVhUlVVdkF4MVpRdG1IdFpIcDVWeHc2ZzA3YzJJTHc3T3dETU1PcXYtczltZ0lzbkQ5dG5CWGFLcks3RENIZjc2bFRwZGVJTDRJNnRCeUN5QlRzeXowdE9raDlTSjJHa1FFMjJTbzM1SVRENWFGbkxmUmp4bUZkY0ZXUTA2NWdkMElkaDhUMA?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -238,16 +249,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 - Stimme",
-        "source": "Stimme",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "Bosch kündigt Homeoffice-Modell: Mehr Präsenz im Büro ab August 2026 Stimme",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSGxZUm9pUEVrczFUdW9IS0lvUGozZ0l4czU2bllzWkZOUkhhVEJHVm1JdHRnZm5lMVRaMTd6REtvc3N3T043WG00WlVDM0ZBM25aQzRoTGo5bEVBMGhoYnBnaWoxVjRPVk5maU1YYnZRS0ZzYURoOHBBcXk3NGlPaWVYT3NSMVpiM2lzQWFJLUVSTmYtV0ZwS1RfSnNjeVRpWFlOT1hLN2FIeHRsLXpMODJab2VHeVpiY1ZOcHBDN084RFlCRGhRZ2laN0dfT2l4VW5fTE5Pd2t5YkVKYTg1dENwcmk0WkdHbmtSeXlB?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "doors": [
@@ -269,6 +270,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUVE5R2hQZU0xb28wUW1VT09tOE84OEV3OHJZZ1IyZ2lXT2dvcGxWRm5IS2xtVnp3YlFUM0ZhV3BuRGNwQk9pU0FaVW84UnAydWxMOU4tdHBRMVFTN1ozQXMtLWxrcmU5X3RQQmNkVHlldklVX09OaGVRLTZScHBHaXhUd2g4RnJqa084VldNMldRWXFrWi1TcjZYVE5HZjJIX1NOaUhYLUlTMUsyOHRYa3dPTHdmNzdOV1R3NmJiVmlkZGNGZjZLUUhtX05aYjM0VlNtS3BWWVBRRnNfTy1ya2RsdTZqQQ?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
+        "source": "Reifenpresse.de",
+        "publishedAt": "2026-06-01T07:00:00+00:00",
+        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
+        "tags": [
+          "Reifenpresse.de"
         ]
       },
       {
@@ -360,16 +371,6 @@
         "tags": [
           "Handelsblatt"
         ]
-      },
-      {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-14T10:47:12+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
@@ -454,16 +455,6 @@
         ]
       },
       {
-        "title": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-27T23:03:04+00:00",
-        "summary": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmhBejloeEdQa1JhSWduVlNuZ2dSTmNJejNyV2VNaXlKUEZzTnpqSVJXaUtVbUlMNFFKS3FJeEd2ZW9SM0VUUFZuWUllQ2ZZR1AzZ1QzOGZOaWswSEpqWjk0a0pqanR3VE5lVXI0WkFsdnpURHZNRk1PN2lyajNEdHJRcnYwNFJoaVdjTkxLVHBfTG1hRVZFNzBhVUo3VHIwU1k2Uk8zYTE3QWdMR0Q5TGpqWQ?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
-        ]
-      },
-      {
         "title": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-05-25T07:00:00+00:00",
@@ -472,6 +463,16 @@
         "tags": [
           "Gebäudeautomation",
           "ESG"
+        ]
+      },
+      {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Wie der Gebäudeprofi vom Trend zur Energieeffizienz profitie - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-24T07:00:00+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Wie der Gebäudeprofi vom Trend zur Energieeffizienz profitie AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkowa0NLVXg4QlFLRnlEQUpJSXlYRHNnbE5XWkVCck5qYVJicUM5b3BPd3hqUnRmWWpvRWVkZEszWmVtS1JFSHNLUkpTU3ZZVEJLXzBFcERNU2kwUFJkd29Rd1I1YzZob2NxejFjWktzQWUtY1d3NzJkbW5RaE5ZZ1gyUUpsZTJPNnZkd3FSQjNGSXRnSF9DdDFVQ1NuYWEzQy1TQnViNktUMDhORXlfcFQtdGNnMTllSG1UajNoRmY0Ylk4STJ2X3VB?oc=5",
+        "tags": [
+          "AD HOC NEWS"
         ]
       },
       {
