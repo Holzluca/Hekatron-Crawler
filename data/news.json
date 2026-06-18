@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T05:13:45.751583+00:00",
+  "generatedAt": "2026-06-18T09:51:21.496248+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -76,16 +76,6 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -123,6 +113,17 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       }
     ],
@@ -253,6 +254,26 @@
     ],
     "doors": [
       {
+        "title": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-18T07:01:06+00:00",
+        "summary": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0xfc1BHTV90MnN4TTZYOWpoVzVUS196dGRBTWhIamlZMUlodEp3d1dfeVBiQ1JmYVVUNnZpemo4VVlWejY1QTEzQ1ZVeld3djhtNDctd1RQcFRzaElZUnUyQVNGSlFuQWR5WGMzczN6Y3p2ZVh6ZE9YYTFCdExRcUNZcnFkVkFGa0dJZmMtNmxrSUJGU2lMYVB1bkJySWl3NDdRUHF3eW9KeXoxWU9RZkdERjRmNUJOSnZlMHc2a3BoY1lFdUYtdw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-18T05:12:56+00:00",
+        "summary": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjJJWDFnclo2bkZBVWpVV3AtdUNZRkNKUTZFbHVfdHZET054NWpDZDQzQkh5RXhHRWgzeGJnUWphMFBNVUtodW1VUlFMeXpkTGFJdEowaWNiaFdheVE1NlhkSnNRUmNYbEJLME93R29yVVAxYlJ2b29sS3BxTTlNRTBDU3p5Z3JoQU9DcHZlTHhNUUdSMTl6SGNHVTVjUVhlclA2ei1yVXhna05qNmNRRXEzZjU4dUtzaWcxem4wNWVEOFptX1B1LXpLcw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Türtechnik erfüllt Brandschutzanforderungen - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-06-10T05:00:00+00:00",
@@ -351,26 +372,6 @@
         "tags": [
           "GEZE"
         ]
-      },
-      {
-        "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
-        "source": "CoinDesk",
-        "publishedAt": "2026-02-15T08:00:00+00:00",
-        "summary": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
@@ -382,16 +383,6 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
         "tags": [
           "Nau"
-        ]
-      },
-      {
-        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
-        "source": "Handelsblatt Live",
-        "publishedAt": "2026-06-16T12:41:46+00:00",
-        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
-        "tags": [
-          "Handelsblatt Live"
         ]
       },
       {
@@ -455,23 +446,13 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
-        ]
-      },
-      {
-        "title": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-27T23:03:04+00:00",
-        "summary": "Nachhaltigkeit: Stuttgart kämpft um 1960er-Gebäude statt Abriss AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmhBejloeEdQa1JhSWduVlNuZ2dSTmNJejNyV2VNaXlKUEZzTnpqSVJXaUtVbUlMNFFKS3FJeEd2ZW9SM0VUUFZuWUllQ2ZZR1AzZ1QzOGZOaWswSEpqWjk0a0pqanR3VE5lVXI0WkFsdnpURHZNRk1PN2lyajNEdHJRcnYwNFJoaVdjTkxLVHBfTG1hRVZFNzBhVUo3VHIwU1k2Uk8zYTE3QWdMR0Q5TGpqWQ?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
         ]
       },
       {
@@ -491,6 +472,26 @@
         "publishedAt": "2026-05-21T07:00:00+00:00",
         "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-19T18:36:30+00:00",
+        "summary": "Carrier Global Corp.-Aktie (ISIN US14448C1045): Dividendentermin und jüngste Kursbewegung im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUY4UEhmX2RFSE80VzNUbnkwNjJ0TXVwRDZtLTlrRGRRcVdxRVgyTDNWZ2VjU09iWV9KTG1GbXpRNnBKYXY5Zk9rRTNKWVRIbGdSRDlnNHRUcTY4VzdHVXlia2NualhVdjNUVEl2LV8tdGw3eTh1dmFEQVdGcDQ5U1Jkay02NjExVkJSblJ3RmJqNGVacTJXY2RreENtdkRaVkFyX3JUbFZwbnhKaGtxVGhsQzd6XzdXdms0RE5nNUw?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
+        "source": "BASIC thinking",
+        "publishedAt": "2026-05-19T03:45:03+00:00",
+        "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
         "tags": [
           "KI"
         ]
