@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T15:46:34.279021+00:00",
+  "generatedAt": "2026-06-19T17:50:41.749771+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,16 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
           "Teltarif"
-        ]
-      },
-      {
-        "title": "Feuertrutz Juni: Intelligente Brandmelder und autonome Systeme im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-03T11:09:35+00:00",
-        "summary": "Feuertrutz Juni: Intelligente Brandmelder und autonome Systeme im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWVUSlh0ZmdTZzZhNzZwSk5NdzQ5dkNnaldGWGxIRy1LWFU3MmR1SkZzUVFsSWFYVGl5YVVZNWgxbXdHQlNwdGQ4dDZaMV8xTmFfSHMyTExLUElTb2hjd2R0WWdSWjZ3QzlpaEJVb3VObjZ2N3pCMmItd1NnUF9wcjZPTEhpVFBCX2Vydl81U3VmZDVQU2lYWlNxXzVISjNxZEl1ZEFNVTRwODVmZjVmYjRZdllISG1l?oc=5",
-        "tags": [
-          "AD HOC NEWS"
         ]
       },
       {
@@ -124,6 +114,16 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -145,16 +145,6 @@
         "publishedAt": "2026-06-09T11:10:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 Teltarif",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnYySnpvR3lDdjZSQXhQNzRkOVJQblREcTNuV2dyaXNkLTlQSVRzcDJZdHQ4UzdBTlp5SUZfNDIwMEU4LUhMemZqd2k3YmlaUlh2cEVvdlFvc3FXZk40V25IWkt1cS05bnEtVzNlLUY0MFd6MTZ3eTZnTnRLS3gzMVpVdkh0dW9CUno1UVV6TTlWSWNzQzFNa1Z3?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ01jZDEyRFRKU2ZaRHVNSUZUWmxKa2kzeE96TmFwVUE0NkppdDF5ZzFvY216ZWNxandXQnFObjJTNjYxWXd3Yy1XSllydHl6bmJ2d1h4bGNrc0ZPeHBGVU05Y3JSbkxIdFpjYnctbzE3UU5KUmdMN2RFWWhzTmpVOEVBZXdQekM0MFlUR0hxZzhvTUNLaTNiWk5R?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -205,6 +195,16 @@
         "publishedAt": "2026-06-09T07:00:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFFpc1ByLVgzWHFyemlfdlRlODN1c2NzeG1KWDFzU1hNLTBVenR5SE9PVTBKWGE0cGJ0cGtMc3VOTG9fYm8xeHdjWFVQSWR2T3RPaE5adkxpdkEydm5EbTRJNkNGV3ZaYXdnWTlINHV6LUt4NG9GS1JrVkZBZmU2MV9tSF90MDJZejZfTUNfeFY?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ01jZDEyRFRKU2ZaRHVNSUZUWmxKa2kzeE96TmFwVUE0NkppdDF5ZzFvY216ZWNxandXQnFObjJTNjYxWXd3Yy1XSllydHl6bmJ2d1h4bGNrc0ZPeHBGVU05Y3JSbkxIdFpjYnctbzE3UU5KUmdMN2RFWWhzTmpVOEVBZXdQekM0MFlUR0hxZzhvTUNLaTNiWk5R?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -445,10 +445,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
