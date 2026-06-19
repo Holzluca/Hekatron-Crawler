@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-06-19T22:29:35.146855+00:00",
+  "generatedAt": "2026-06-19T23:37:52.975866+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-05T02:44:45+00:00",
-        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
@@ -124,6 +114,16 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -137,6 +137,16 @@
           "Bosch",
           "Rauchwarnmelder",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Test: Die beste WLAN-Steckdose - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-06-16T07:00:00+00:00",
+        "summary": "Test: Die beste WLAN-Steckdose FAZ",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rOGp2VUUzWXl3c04zaUpnNkZWMDRDVzRRVllZWUwwbGtoelZfTExuUTBteU1lYWFVeEpxUEdjckN0TWMzS0VibzJCX2ZCVU9uUExIYmJvcWJrYzRDblRVUFJnQXl1M25qWGpyTE54dw?oc=5",
+        "tags": [
+          "FAZ"
         ]
       },
       {
@@ -237,17 +247,6 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3kwRWhjeDA4VUtHcHo3Z19YdkRUdHk0d0pYbUZ4M1hMYzNBdzc0Z0RNaXMyMjdhOVU5WWFaM1lXb1M4VndROWl2VmpsT3BGb0tXaDR3eFlPN2o4U1Y3Q2kxMzJXaGk3a2xVQmRCMFJnVVdMdWlXaXFHWEFXbFB3NklCVUE2N2t0ZjF6djZqQWpTTVZFdVBaMENwZkNjMzRHUHpmSDJZamZiUGxaeHR5bzR3?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Immer wieder sonntags KW 23: Neuer Apple TV, E-Bike-Neuerungen von Bosch, illegale Streams und Gemini im Smart Home - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-06-07T04:30:00+00:00",
-        "summary": "Immer wieder sonntags KW 23: Neuer Apple TV, E-Bike-Neuerungen von Bosch, illegale Streams und Gemini im Smart Home Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWlMTjFJc0VkTWxzWHJPVG5kT3Zvem14MEJjZldiZXJKLWVRdHBPYTNCUlhHVEJPWEdoLWMyVFVoZkp0MURlSlQyV1d5VS1yT3kwckpDUmdiZzJydW5FVUlOUXFHQUtTdzk4NmIybGVBWWx4SzZ6d1FLbm9Sck44WHhUeGZuQ2RSWTV2WVNjYlVUY1czYVV0TER3VENwVjRka1lzazZUTHFjcFpzR1dqUEZoVEhlTmxka1BlUlVVOXpudW1jWUcyd3JSMmFVb202WGRoRGpuVG91Zw?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       }
     ],
@@ -385,16 +384,6 @@
         ]
       },
       {
-        "title": "Siemens Aktie: Fehlalarm in Desigo CC - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-15T03:36:04+00:00",
-        "summary": "Siemens Aktie: Fehlalarm in Desigo CC AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Analysten verweisen auf Rechenzentrums-Boom - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-14T09:19:44+00:00",
@@ -493,6 +482,16 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-14T07:00:00+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Übernahme von Alloy Enterprises abgeschlossen AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFkxa0JrNTVFVTJvM3R4Nlg1WGF0Wk5FelBaWG45WHVvQ2R3eVluYjdYbHV1QkxvTU4tTWs3bjBvWmx6R2M2OEpGT3NWYWRQSFBKOXViQkxreC1PVDlFNVJkVnlFVWtVTGhYZEVJLVdXY2xTNFBkWDQ1U05oVEUtdk5PcmVOMS01QVNSbXg2TWpLQklHMjhldV9GSklsaGtUVkRfMkdHcEp6R2hjQmIza2Z4VVllRDRTNDgwVlpCaTh1UmNiYVE?oc=5",
+        "tags": [
+          "AD HOC NEWS"
         ]
       }
     ]
