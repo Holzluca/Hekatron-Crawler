@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T07:36:23.359591+00:00",
+  "generatedAt": "2026-06-19T12:01:16.203697+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -190,16 +190,6 @@
         ]
       },
       {
-        "title": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T07:00:00+00:00",
@@ -235,6 +225,16 @@
         "publishedAt": "2026-06-09T07:00:00+00:00",
         "summary": "Osram veröffentlicht Update für WLAN-Steckdosen: Es bringt ein praktisches Feature Netzwelt",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3kwRWhjeDA4VUtHcHo3Z19YdkRUdHk0d0pYbUZ4M1hMYzNBdzc0Z0RNaXMyMjdhOVU5WWFaM1lXb1M4VndROWl2VmpsT3BGb0tXaDR3eFlPN2o4U1Y3Q2kxMzJXaGk3a2xVQmRCMFJnVVdMdWlXaXFHWEFXbFB3NklCVUE2N2t0ZjF6djZqQWpTTVZFdVBaMENwZkNjMzRHUHpmSDJZamZiUGxaeHR5bzR3?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
+        "summary": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
         "tags": [
           "Ei"
         ]
@@ -375,6 +375,16 @@
     ],
     "trends": [
       {
+        "title": "Durch den Entwurf der Verordnung über die Dezentralisierung der Zuständigkeit für die Festlegung von Standards und Normen im Bereich der Gebäude und Büros. - شبكة تواصل الإخبارية",
+        "source": "شبكة تواصل الإخبارية",
+        "publishedAt": "2026-06-19T11:03:44+00:00",
+        "summary": "Durch den Entwurf der Verordnung über die Dezentralisierung der Zuständigkeit für die Festlegung von Standards und Normen im Bereich der Gebäude und Büros. شبكة تواصل الإخبارية",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05VjI3Q1V3V3JsS0NMREZmLVA1dzI2ZEZSYVNyM05FMnBrenlaUWg0UmtqVC1TT1pQc20zOE4xTmVHVUdEVTBYTTRCang3dlo4c2l3?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
         "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
         "source": "Nau",
         "publishedAt": "2026-06-17T08:20:23+00:00",
@@ -382,26 +392,6 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
         "tags": [
           "Nau"
-        ]
-      },
-      {
-        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
-        "source": "Handelsblatt Live",
-        "publishedAt": "2026-06-16T12:41:46+00:00",
-        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
-        "tags": [
-          "Handelsblatt Live"
-        ]
-      },
-      {
-        "title": "Siemens Aktie: Fehlalarm in Desigo CC - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-15T03:36:04+00:00",
-        "summary": "Siemens Aktie: Fehlalarm in Desigo CC AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
         ]
       },
       {
@@ -445,10 +435,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -491,6 +481,16 @@
         "publishedAt": "2026-05-18T07:00:00+00:00",
         "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme - BornCity",
+        "source": "BornCity",
+        "publishedAt": "2026-05-16T07:00:00+00:00",
+        "summary": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme BornCity",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
         "tags": [
           "KI"
         ]
