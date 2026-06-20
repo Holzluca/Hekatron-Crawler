@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T02:47:50.516159+00:00",
+  "generatedAt": "2026-06-20T06:57:24.527568+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,16 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
           "Teltarif"
-        ]
-      },
-      {
-        "title": "Feuertrutz Juni: Intelligente Brandmelder und autonome Systeme im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-03T11:09:35+00:00",
-        "summary": "Feuertrutz Juni: Intelligente Brandmelder und autonome Systeme im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWVUSlh0ZmdTZzZhNzZwSk5NdzQ5dkNnaldGWGxIRy1LWFU3MmR1SkZzUVFsSWFYVGl5YVVZNWgxbXdHQlNwdGQ4dDZaMV8xTmFfSHMyTExLUElTb2hjd2R0WWdSWjZ3QzlpaEJVb3VObjZ2N3pCMmItd1NnUF9wcjZPTEhpVFBCX2Vydl81U3VmZDVQU2lYWlNxXzVISjNxZEl1ZEFNVTRwODVmZjVmYjRZdllISG1l?oc=5",
-        "tags": [
-          "AD HOC NEWS"
         ]
       },
       {
@@ -123,6 +113,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -253,6 +253,26 @@
     ],
     "doors": [
       {
+        "title": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-18T07:01:06+00:00",
+        "summary": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0xfc1BHTV90MnN4TTZYOWpoVzVUS196dGRBTWhIamlZMUlodEp3d1dfeVBiQ1JmYVVUNnZpemo4VVlWejY1QTEzQ1ZVeld3djhtNDctd1RQcFRzaElZUnUyQVNGSlFuQWR5WGMzczN6Y3p2ZVh6ZE9YYTFCdExRcUNZcnFkVkFGa0dJZmMtNmxrSUJGU2lMYVB1bkJySWl3NDdRUHF3eW9KeXoxWU9RZkdERjRmNUJOSnZlMHc2a3BoY1lFdUYtdw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Foku - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-18T05:12:56+00:00",
+        "summary": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Foku AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjJJWDFnclo2bkZBVWpVV3AtdUNZRkNKUTZFbHVfdHZET054NWpDZDQzQkh5RXhHRWgzeGJnUWphMFBNVUtodW1VUlFMeXpkTGFJdEowaWNiaFdheVE1NlhkSnNRUmNYbEJLME93R29yVVAxYlJ2b29sS3BxTTlNRTBDU3p5Z3JoQU9DcHZlTHhNUUdSMTl6SGNHVTVjUVhlclA2ei1yVXhna05qNmNRRXEzZjU4dUtzaWcxem4wNWVEOFptX1B1LXpLcw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Türtechnik erfüllt Brandschutzanforderungen - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-06-10T05:00:00+00:00",
@@ -263,21 +283,31 @@
         ]
       },
       {
-        "title": "Apollo Hospitals und Mayapada Healthcare besiegeln strategische Allianz zur Neugestaltung der Gesundheitsversorgung in Indonesien - Apollo Hospitals",
+        "title": "Apollo Hospitals erweitert den Zugang zu fortschrittlicher medizinischer Versorgung in Mumbai mit einem neuen Spezialzentrum in Dadar - Apollo Hospitals",
         "source": "Apollo Hospitals",
-        "publishedAt": "2026-05-25T08:24:25+00:00",
-        "summary": "Apollo Hospitals und Mayapada Healthcare besiegeln strategische Allianz zur Neugestaltung der Gesundheitsversorgung in Indonesien Apollo Hospitals",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdk1uZ29uNE1sYVVHMHVENjhoeldocExOMWZCZ3J1MjlrNE42ME94bEo5aFFCN0dDeXpGcTdRWWVoNXU3TzRJTXRSOHFNLWp6RmFtQlI2REloZmJvU2FNLS01RWwzcEhqUXZJTE93M2V5ZjdlQjFHS09Sem5rSnF5Zmk4NWNnN2JFR3JKNW52aWRmcVBadGYwdHpPWnhVWmxGV1MxTHdTSXNubHMwVExnejl3VnVzTElEbUQ1ckQ2NXBsUjZMdkhNTnFKWGN6dDVYaWpSQ3hDZ25kTFBEV3BRR042c1EzS2pTMkNURkdEX1NOMjEwOUE?oc=5",
+        "publishedAt": "2026-06-07T13:09:47+00:00",
+        "summary": "Apollo Hospitals erweitert den Zugang zu fortschrittlicher medizinischer Versorgung in Mumbai mit einem neuen Spezialzentrum in Dadar Apollo Hospitals",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUVE5R2hQZU0xb28wUW1VT09tOE84OEV3OHJZZ1IyZ2lXT2dvcGxWRm5IS2xtVnp3YlFUM0ZhV3BuRGNwQk9pU0FaVW84UnAydWxMOU4tdHBRMVFTN1ozQXMtLWxrcmU5X3RQQmNkVHlldklVX09OaGVRLTZScHBHaXhUd2g4RnJqa084VldNMldRWXFrWi1TcjZYVE5HZjJIX1NOaUhYLUlTMUsyOHRYa3dPTHdmNzdOV1R3NmJiVmlkZGNGZjZLUUhtX05aYjM0VlNtS3BWWVBRRnNfTy1ya2RsdTZqQQ?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Wolfram Weimers Sprecher im Berliner Kanzleramt und am Tegernsee stimmten sich über Presseanfragen ab - apollo-news.net",
-        "source": "apollo-news.net",
+        "title": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-05-24T07:00:00+00:00",
-        "summary": "Wolfram Weimers Sprecher im Berliner Kanzleramt und am Tegernsee stimmten sich über Presseanfragen ab apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjVuTHFVU3Q0dGJMbXVfRmlwTUVtN3RJSy0xUGY0cWIwc1R4dGtkTUp0aDhrYzRPQWU1ZklHQXZOemFUTTVHZG5zY0xlcEhjNzFUeE5oMVprcVVBM2pZRXhhSnozQ3hyQW40dkluY3lfa0tZc0VhclJudnpReFBaNEZHLXctU2kwejJEbGEzQnUwbE9IT2JpWlVqOU9URFFnanY0NVAxTUJmdzZPYTlWZUhrNWRQZGJ5V2xOWEpyODlxa0k?oc=5",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9rcXNYeGF1WU1lVEl6dHVnSlpkdlZVU094Qk1hbTFHUTNhaGVBR1NvcHQ5dktDdzNRVzlxXy1zLXg0amJfamZONEVyNUNJSloyRFNYRUp1Z0otaDVZV1B4dHU2MVVhRFpsWWUzTEJCbWdOMU9YSEMzazBtZy1MX3NiZFNjb0loNlFIOVpyc1RHTmJOSkwtMXNzRlRVT3RoZEUwUm43OGF4WUJPTmNMNlBiYndick4yN0dKb2dVakt6aG15MVhBNQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
+        "publishedAt": "2026-05-08T07:00:00+00:00",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -303,73 +333,43 @@
         ]
       },
       {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
-          "Augsburger Allgemeine"
+          "Handelsblatt"
         ]
       },
       {
-        "title": "Spider-Man: Brand New Day in Wiesbaden - cineplex.de",
+        "title": "Scary Movie in Wiesbaden - cineplex.de",
         "source": "cineplex.de",
-        "publishedAt": "2026-04-03T07:53:38+00:00",
-        "summary": "Spider-Man: Brand New Day in Wiesbaden cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzBBS0EzcjNic1FIYnFMUHZBMG81Vm5oWHNSNzI0VWplcEZacV9BcGo5THlIbklUQVAxRkRKR2YweDJlSi1SaHBXX2JZaDJoSjVXVHBkbnNfYnluSU1SaTJzeldtbEoyaFdlTF9QOXlwaHJzNWZERE51VzJMOU1hZDh0eGJZcW1w?oc=5",
+        "publishedAt": "2026-03-07T04:14:35+00:00",
+        "summary": "Scary Movie in Wiesbaden cineplex.de",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRXBWWkltS09MSnBoSW5ydzI4bmJRVE5iM2NaWjdkR1dhVHpuTVh0T1g4RDZ4TXBHR1pqMEt6N0k2NGtmTFVDb3llVEkxeTBwZUFzbktRckM0T09hSnN4aGIzS09TanBhc2VTd1k0MW1QbEdxN2VNeQ?oc=5",
         "tags": [
           "cineplex.de"
         ]
       },
       {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
         "tags": [
-          "GEZE"
+          "Business Insider Deutschland"
         ]
       },
       {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Digitale Souveränität: „Autarkie ist ein Mythos“ - brutkasten",
-        "source": "brutkasten",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "Digitale Souveränität: „Autarkie ist ein Mythos“ brutkasten",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0MG85eXdlRlhpNGVEcWdYWlRuWmNrMHMwQTk4UkpIX21kRElYVlB1TWpQN25FUk1kYUw5blVUVFZ1M3ZsWTRxdXlDeTVhcHdZWjVjYUlxLWhjYXFUTTdIR1QwNDUzcTRuR1Ew?oc=5",
-        "tags": [
-          "brutkasten"
-        ]
-      },
-      {
-        "title": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-01-09T08:00:00+00:00",
-        "summary": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0pWckZOaXZ5Q29ManhrUl85SXprYno2aklXb25sNzM3NlJHWmNXam0tODNDbkkzVlF5U3JnY0VBWTVCYUJncElHM2UyRlhnTUhQWE5henQxQk1pTk5vdDgzSUhPTkNXbzdwQTQ0SlZualpIVURsQkQ4X1RlTHVoYnhhMTFCOUg2eDR0cEpIRTl0MkdhUEtWUm9MRTl3eDR5ckM4Ui1XbEJGNDlHTml6REVZd1NWb1Y5TmZ0ZlVwWU04NjQ?oc=5",
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Trade Republic zeigt sich „höchst zufrieden“ mit Fondsstart - DER PLATOW Brief",
-        "source": "DER PLATOW Brief",
-        "publishedAt": "2025-09-16T07:00:00+00:00",
-        "summary": "Trade Republic zeigt sich „höchst zufrieden“ mit Fondsstart DER PLATOW Brief",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXlvZ19KTU5FWHZNU2xyOFRvVGJRUEJYWmlKWTRWaWhXVUJrT0J6OF9SYWc1WkNQek1MX18xOHNqNTl3WUhUNHVkSG5oeWRkMGFfYnFWSE1XVFRFOUp3SXpxWVVGZ1l4VGY3djNMR2hPcXpqVjdudjlSY1laVy0yLU1vXzkxaU9GUFBreGVpbzVreFQz?oc=5",
-        "tags": [
-          "DER PLATOW Brief"
         ]
       }
     ],
@@ -456,10 +456,10 @@
         ]
       },
       {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
-        "source": "Logistra",
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
+        "source": "LOGISTRA",
         "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
         "tags": [
           "KI"
