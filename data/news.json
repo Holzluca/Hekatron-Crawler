@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-06-20T16:13:19.797249+00:00",
+  "generatedAt": "2026-06-20T17:52:43.860531+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-05T02:44:45+00:00",
+        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
@@ -27,7 +37,7 @@
       {
         "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-02T16:07:14+00:00",
+        "publishedAt": "2026-06-02T07:00:00+00:00",
         "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
         "tags": [
@@ -111,16 +121,6 @@
         "publishedAt": "2026-04-01T07:00:00+00:00",
         "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
-        "source": "Aargauer Zeitung",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -292,16 +292,6 @@
         ]
       },
       {
-        "title": "Verkaufswagenkonzept im Reifengeschäft - Reifenpresse.de",
-        "source": "Reifenpresse.de",
-        "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Verkaufswagenkonzept im Reifengeschäft Reifenpresse.de",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkdlbUVZR2ZRaHRuNUt0RGd0Ukd5aEFsZ3pMcy0wZVFjUjFxajZ1c2Q1VVRMeEdVRFdRdEpXODNzTE9tb0JfNU5RV0d3eGVKT2pMcVhtcTl5TEZheWFiQ3VubF9aZThjZnhlRF9Zbi16VGJ5TVV3QzJOdUYwV1NLSw?oc=5",
-        "tags": [
-          "Reifenpresse.de"
-        ]
-      },
-      {
         "title": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-24T07:00:00+00:00",
@@ -369,6 +359,16 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
         ]
       }
     ],
