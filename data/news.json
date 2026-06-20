@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T22:01:52.501706+00:00",
+  "generatedAt": "2026-06-20T23:42:59.360728+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -140,16 +140,6 @@
         ]
       },
       {
-        "title": "Test: Die beste WLAN-Steckdose - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-06-16T07:00:00+00:00",
-        "summary": "Test: Die beste WLAN-Steckdose FAZ",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rOGp2VUUzWXl3c04zaUpnNkZWMDRDVzRRVllZWUwwbGtoelZfTExuUTBteU1lYWFVeEpxUEdjckN0TWMzS0VibzJCX2ZCVU9uUExIYmJvcWJrYzRDblRVUFJnQXl1M25qWGpyTE54dw?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
-      {
         "title": "Paramount+ startet Animationsserie Among Us in Deutschland - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-06-10T07:00:00+00:00",
@@ -240,13 +230,23 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 - Teltarif",
         "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWYybXg4NW5ISHo2dF80NEtoOXNLVXNrS3loWGhJRmljR2FPdWhWQ0ZPcEp4NGZoYmoxeHkzYkhkOUFnT09ENGtqLUNYd3RsUHhEcnRnV1ptRDcxd0RYX0U4SGFubEE3WmNLV2YweElHMncxaHl4YVJqMl9MbndJSm9fWFl0Z2ZQREY1a3c0MVdYRmNGbzdKR3Jraw?oc=5",
         "tags": [
-          "Teltarif"
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Osram veröffentlicht Update für WLAN-Steckdosen: Es bringt ein praktisches Feature - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
+        "summary": "Osram veröffentlicht Update für WLAN-Steckdosen: Es bringt ein praktisches Feature Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3kwRWhjeDA4VUtHcHo3Z19YdkRUdHk0d0pYbUZ4M1hMYzNBdzc0Z0RNaXMyMjdhOVU5WWFaM1lXb1M4VndROWl2VmpsT3BGb0tXaDR3eFlPN2o4U1Y3Q2kxMzJXaGk3a2xVQmRCMFJnVVdMdWlXaXFHWEFXbFB3NklCVUE2N2t0ZjF6djZqQWpTTVZFdVBaMENwZkNjMzRHUHpmSDJZamZiUGxaeHR5bzR3?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
