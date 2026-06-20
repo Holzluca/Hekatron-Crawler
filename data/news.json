@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-06-20T20:48:04.016960+00:00",
+  "generatedAt": "2026-06-20T22:01:52.501706+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-05T02:44:45+00:00",
-        "summary": "Siemens bringt KI-Brandmelder mit Cloud-Anbindung für mehr Sicherheit it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb2lKWk9TUld4U3Z0SjJQc1lOWWduMjBUT0JkeTJ6UUZndUl2RWdTWjVNRkhpQXpJU0xzc185THExbEdqZTY0WkZsU2lzMTJPaExsVGJ5S09ZVDJRblp2RUwyVk1WVGI0TFVrNlpBV3JRbHNlZjI0c05yc0JTQW5OZ1dLMlVVYmR5QzlhVzlaaVZMX3dzM1M2azczY3NyMFgwWW0xSg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
@@ -37,7 +27,7 @@
       {
         "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-02T16:07:14+00:00",
+        "publishedAt": "2026-06-02T07:00:00+00:00",
         "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
         "tags": [
@@ -124,6 +114,16 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Luzerner Zeitung",
+        "source": "Luzerner Zeitung",
+        "publishedAt": "2026-03-30T07:00:00+00:00",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Luzerner Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ192TDhDQzVvVFpXUEphMVhlRWdOejNRR2VEZElQR2UtQUczODBVaHY2UjlhMzAyNGx2WE5iM256Y3FXRnlVZDlNOUE4Wk5iTGZrcnhGbGdGc1c3clVEY2x1SGs4bnVtcjRqSk1OM3VkVldHd3JEdlU2UlpCaFZaeUxFSGdTQ0N6a1gzNE5qUUZXRTAyMEQ3VmZPRFFDdVROdWRGWExPVURkaUU?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -137,6 +137,16 @@
           "Bosch",
           "Rauchwarnmelder",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Test: Die beste WLAN-Steckdose - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-06-16T07:00:00+00:00",
+        "summary": "Test: Die beste WLAN-Steckdose FAZ",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rOGp2VUUzWXl3c04zaUpnNkZWMDRDVzRRVllZWUwwbGtoelZfTExuUTBteU1lYWFVeEpxUEdjckN0TWMzS0VibzJCX2ZCVU9uUExIYmJvcWJrYzRDblRVUFJnQXl1M25qWGpyTE54dw?oc=5",
+        "tags": [
+          "FAZ"
         ]
       },
       {
@@ -230,23 +240,13 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 - Teltarif",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWYybXg4NW5ISHo2dF80NEtoOXNLVXNrS3loWGhJRmljR2FPdWhWQ0ZPcEp4NGZoYmoxeHkzYkhkOUFnT09ENGtqLUNYd3RsUHhEcnRnV1ptRDcxd0RYX0U4SGFubEE3WmNLV2YweElHMncxaHl4YVJqMl9MbndJSm9fWFl0Z2ZQREY1a3c0MVdYRmNGbzdKR3Jraw?oc=5",
+        "publishedAt": "2026-06-04T07:00:00+00:00",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Osram veröffentlicht Update für WLAN-Steckdosen: Es bringt ein praktisches Feature - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "Osram veröffentlicht Update für WLAN-Steckdosen: Es bringt ein praktisches Feature Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3kwRWhjeDA4VUtHcHo3Z19YdkRUdHk0d0pYbUZ4M1hMYzNBdzc0Z0RNaXMyMjdhOVU5WWFaM1lXb1M4VndROWl2VmpsT3BGb0tXaDR3eFlPN2o4U1Y3Q2kxMzJXaGk3a2xVQmRCMFJnVVdMdWlXaXFHWEFXbFB3NklCVUE2N2t0ZjF6djZqQWpTTVZFdVBaMENwZkNjMzRHUHpmSDJZamZiUGxaeHR5bzR3?oc=5",
-        "tags": [
-          "Ei"
+          "Teltarif"
         ]
       }
     ],
