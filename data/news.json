@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T08:23:18.715504+00:00",
+  "generatedAt": "2026-06-21T11:27:38.759744+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -66,16 +66,6 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -116,14 +106,23 @@
         ]
       },
       {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Luzerner Zeitung",
+        "source": "Luzerner Zeitung",
+        "publishedAt": "2026-03-30T07:00:00+00:00",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Luzerner Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ192TDhDQzVvVFpXUEphMVhlRWdOejNRR2VEZElQR2UtQUczODBVaHY2UjlhMzAyNGx2WE5iM256Y3FXRnlVZDlNOUE4Wk5iTGZrcnhGbGdGc1c3clVEY2x1SGs4bnVtcjRqSk1OM3VkVldHd3JEdlU2UlpCaFZaeUxFSGdTQ0N6a1gzNE5qUUZXRTAyMEQ3VmZPRFFDdVROdWRGWExPVURkaUU?oc=5",
         "tags": [
-          "Siemens",
-          "Brandschutz"
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -255,9 +254,9 @@
       {
         "title": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet - simplywall.st",
         "source": "simplywall.st",
-        "publishedAt": "2026-06-20T23:13:15+00:00",
+        "publishedAt": "2026-06-21T05:12:30+00:00",
         "summary": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcHg0RFVqb0w0LXZYUkNOeVZFVWJiM0dtSGFtUl9JUkV1Vzh1X1R1QTRTZm1hV2tYM3JiVlY0azlmNm1VSEFEbU5xQUZsZG9fZnQ2MTJiakg1Sk9rZWhVc01TUzN2VExYYTZUSER3YnY5V3FsVGs4VlBLLVpnRzhZMTRpLUFvdDRNR1VXX1ItRko5aURKTGstLUZlb29UOEVnNVdpT2N2RFREdGlKd3JDeUdNSGZEWWxFeVVBSTJ2eXdtNlhoMHRvcmwzZUZoM3NLSmtOQ2JLdUtzWWlxX1hDajU1bzhkYktFcE9va1930gHzAUFVX3lxTE1rT1UtUGhfSXE0M3dsSFhMU2JpS3BYdGhiRnlmYTFWUUJ5aUZyNmRCVWFpSVpKNWdUQXJaclYxeVgtd3FKMFRKcmZnTGM3bmU3RC1RdnhWN2JZV3BqZkZrTUo3NzN4dEZGTjZhRWRvNXlYdFVrSDU5bmJhYjRxZzF6cHFVcWc3dV83WlpZZ1VzN1NVS2YwS0ZXQnpfLS1Dbzd5WllyemJ5a0JCa2xIR1UtX3FqZkFSVlpZa2dnbmRMMkpaV3A1cXE4Z0ZNbkNfZ1drWFlOQy15R3NLblJNa2hTRk5Ec1d6RHV2dlF4TUFBc040TQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa09VLVBoX0lxNDN3bEhYTFNiaUtwWHRoYkZ5ZmExVlFCeWlGcjZkQlVhaUlaSjVnVEFyWnJWMXlYLXdxSjBUSnJmZ0xjN25lN0QtUXZ4VjdiWVdwamZGa01KNzczeHRGRk42YUVkbzV5WHRVa0g1OW5iYWI0cWcxenBxVXFnN3VfN1paWWdVczdTVUtmMEtGV0J6Xy0tQ283eVpZcnpieWtCQmtsSEdVLV9xamZBUlZaWWtnZ25kTDJKWldwNXFxOGdGTW5DX2dXa1hZTkMteUdzS25STWtoU0ZORHNXekR1dnZReE1BQXNONE3SAfMBQVVfeXFMTWtPVS1QaF9JcTQzd2xIWExTYmlLcFh0aGJGeWZhMVZRQnlpRnI2ZEJVYWlJWko1Z1RBclpyVjF5WC13cUowVEpyZmdMYzduZTdELVF2eFY3YllXcGpmRmtNSjc3M3h0RkZONmFFZG81eVh0VWtINTluYmFiNHFnMXpwcVVxZzd1XzdaWllnVXM3U1VLZjBLRldCel8tLUNvN3laWXJ6YnlrQkJrbEhHVS1fcWpmQVJWWllrZ2duZEwySlpXcDVxcThnRk1uQ19nV2tYWU5DLXlHc0tuUk1raFNGTkRzV3pEdXZ2UXhNQUFzTjRN?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -333,6 +332,16 @@
         ]
       },
       {
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
         "source": "Handelsblatt",
         "publishedAt": "2026-03-31T07:00:00+00:00",
@@ -360,16 +369,6 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
         ]
       }
     ],
@@ -426,6 +425,16 @@
         ]
       },
       {
+        "title": "TU Berlin geschlossen: Brandschutz-Lücken treffen 350 Vorlesungen und Stadtaufsicht - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-03T07:00:00+00:00",
+        "summary": "TU Berlin geschlossen: Brandschutz-Lücken treffen 350 Vorlesungen und Stadtaufsicht it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGRYbjVIdV9uLWo0MXRWUFNUbEJuNmU1NWgtRkhnX09rMkFfT09hWkZmMVU3bW1ZQ3dzS3AtajhYSk53VHAyQjY5dXJZYUFDOGx1VllIdWQyZHJHT0ViekJsQUk5Qkd5S0NtRXZmUTJOaVFwaGc5S0FSZm5DNFJ0YXlRaHYwMDBCeExiX01PaXJEWUt6SVduM3Y5Ym5zZWM2T1ZXSVNFbmptMExXUE9UMDZUZ1BHUQ?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
         "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-02T07:00:00+00:00",
@@ -464,16 +473,6 @@
         "tags": [
           "Gebäudeautomation",
           "ESG"
-        ]
-      },
-      {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
-        "source": "Logistra",
-        "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
