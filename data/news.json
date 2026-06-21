@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T03:30:56.378567+00:00",
+  "generatedAt": "2026-06-21T08:23:18.715504+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -116,13 +116,14 @@
         ]
       },
       {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Luzerner Zeitung",
-        "source": "Luzerner Zeitung",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Luzerner Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ192TDhDQzVvVFpXUEphMVhlRWdOejNRR2VEZElQR2UtQUczODBVaHY2UjlhMzAyNGx2WE5iM256Y3FXRnlVZDlNOUE4Wk5iTGZrcnhGbGdGc1c3clVEY2x1SGs4bnVtcjRqSk1OM3VkVldHd3JEdlU2UlpCaFZaeUxFSGdTQ0N6a1gzNE5qUUZXRTAyMEQ3VmZPRFFDdVROdWRGWExPVURkaUU?oc=5",
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
         "tags": [
-          "Siemens"
+          "Siemens",
+          "Brandschutz"
         ]
       }
     ],
@@ -157,16 +158,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2pnVmZ5dXk3Wmw3WWllYXN5RkZCbFJaODYtLV94cGFPMUlNN0NnWm8zWU5iMXlpRmU3M3hsQlNsOXV4Y05pbEowa3VmWTVtLWVlWHlxZjdRSE5ibm8zVmxNblBsblJaU1lLU0Q1Rm5pZ2dKU0lIWUxMendkNW9Hb3hDWkxULW1CRlhIdlh5cDg?oc=5",
         "tags": [
           "Caschys Blog"
-        ]
-      },
-      {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnYySnpvR3lDdjZSQXhQNzRkOVJQblREcTNuV2dyaXNkLTlQSVRzcDJZdHQ4UzdBTlp5SUZfNDIwMEU4LUhMemZqd2k3YmlaUlh2cEVvdlFvc3FXZk40V25IWkt1cS05bnEtVzNlLUY0MFd6MTZ3eTZnTnRLS3gzMVpVdkh0dW9CUno1UVV6TTlWSWNzQzFNa1Z3?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -205,6 +196,16 @@
         "publishedAt": "2026-06-09T07:00:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFFpc1ByLVgzWHFyemlfdlRlODN1c2NzeG1KWDFzU1hNLTBVenR5SE9PVTBKWGE0cGJ0cGtMc3VOTG9fYm8xeHdjWFVQSWR2T3RPaE5adkxpdkEydm5EbTRJNkNGV3ZaYXdnWTlINHV6LUt4NG9GS1JrVkZBZmU2MV9tSF90MDJZejZfTUNfeFY?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnYySnpvR3lDdjZSQXhQNzRkOVJQblREcTNuV2dyaXNkLTlQSVRzcDJZdHQ4UzdBTlp5SUZfNDIwMEU4LUhMemZqd2k3YmlaUlh2cEVvdlFvc3FXZk40V25IWkt1cS05bnEtVzNlLUY0MFd6MTZ3eTZnTnRLS3gzMVpVdkh0dW9CUno1UVV6TTlWSWNzQzFNa1Z3?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -251,6 +252,16 @@
       }
     ],
     "doors": [
+      {
+        "title": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet - simplywall.st",
+        "source": "simplywall.st",
+        "publishedAt": "2026-06-20T23:13:15+00:00",
+        "summary": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcHg0RFVqb0w0LXZYUkNOeVZFVWJiM0dtSGFtUl9JUkV1Vzh1X1R1QTRTZm1hV2tYM3JiVlY0azlmNm1VSEFEbU5xQUZsZG9fZnQ2MTJiakg1Sk9rZWhVc01TUzN2VExYYTZUSER3YnY5V3FsVGs4VlBLLVpnRzhZMTRpLUFvdDRNR1VXX1ItRko5aURKTGstLUZlb29UOEVnNVdpT2N2RFREdGlKd3JDeUdNSGZEWWxFeVVBSTJ2eXdtNlhoMHRvcmwzZUZoM3NLSmtOQ2JLdUtzWWlxX1hDajU1bzhkYktFcE9va1930gHzAUFVX3lxTE1rT1UtUGhfSXE0M3dsSFhMU2JpS3BYdGhiRnlmYTFWUUJ5aUZyNmRCVWFpSVpKNWdUQXJaclYxeVgtd3FKMFRKcmZnTGM3bmU3RC1RdnhWN2JZV3BqZkZrTUo3NzN4dEZGTjZhRWRvNXlYdFVrSDU5bmJhYjRxZzF6cHFVcWc3dV83WlpZZ1VzN1NVS2YwS0ZXQnpfLS1Dbzd5WllyemJ5a0JCa2xIR1UtX3FqZkFSVlpZa2dnbmRMMkpaV3A1cXE4Z0ZNbkNfZ1drWFlOQy15R3NLblJNa2hTRk5Ec1d6RHV2dlF4TUFBc040TQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus - AD HOC NEWS",
         "source": "AD HOC NEWS",
@@ -317,16 +328,6 @@
         "publishedAt": "2026-05-05T07:00:00+00:00",
         "summary": "Apollo Global Management Aktie (US0376123065): Interesse an Shell LNG-Anteil AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGZ5Q3drLXVvZzA4RGJvQ0J0S3ZyeFdtWGlicW4zS2lnRTY2N3g2cmJoNDMyRmJpdVprV3dXNXdfU0IwRGVSa1dkTzA4dHdxa0kwU3BpUlZyQkVYTDRqV0RqWjIwOVZybjBkNnFha09YbUMyZEUyS1NKUjRGVDNsd21QeDVIdVV5MEhBMHFac1JJTUlXRmdDMmk3V1I0TnU0dmlGWEMtNFAzS2pXTV9uRWVKTUs1U2JOZjIzWG93?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-20T07:00:00+00:00",
-        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -404,6 +405,17 @@
         ]
       },
       {
+        "title": "Zwei neue Gebäude für die TH Aschaffenburg - Rund 6.000 Quadratmeter für Digitales und Nachhaltigkeit - TV Mainfranken",
+        "source": "TV Mainfranken",
+        "publishedAt": "2026-06-09T15:30:00+00:00",
+        "summary": "Zwei neue Gebäude für die TH Aschaffenburg - Rund 6.000 Quadratmeter für Digitales und Nachhaltigkeit TV Mainfranken",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQk5XWFBtZ1BlSTRaU29ZUzdncVh1aXVGRThQeTNqb3lIRDRhRXpBbmE1d2xRdGlHRUgyNzZ5NkNYMmJwXzhzcFJ4LWZSd1lGSUtUQWFTeXZ0c0pSM05RRC0wOGVDN3h3dmktWmsyZnFoQW9MNHBpbHoyYUdPMjNtdmh2dUdTQVR5NGNwTVBEcmhxb21SaW1zc1AxM01SYUNxaXVvVnNMWUozeXh2UTYycWx5Z3JDSlIyNm5NVUQyNE5WaGtXUEV6SkJtWGpBMDRHSUljSjVOU3BVaGljbWhITFVB?oc=5",
+        "tags": [
+          "AI",
+          "Nachhaltigkeit"
+        ]
+      },
+      {
         "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
         "source": "TGA+E Fachplaner",
         "publishedAt": "2026-06-09T08:11:23+00:00",
@@ -411,16 +423,6 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "TU Berlin geschlossen: Brandschutz-Lücken treffen 350 Vorlesungen und Stadtaufsicht - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-03T07:00:00+00:00",
-        "summary": "TU Berlin geschlossen: Brandschutz-Lücken treffen 350 Vorlesungen und Stadtaufsicht it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGRYbjVIdV9uLWo0MXRWUFNUbEJuNmU1NWgtRkhnX09rMkFfT09hWkZmMVU3bW1ZQ3dzS3AtajhYSk53VHAyQjY5dXJZYUFDOGx1VllIdWQyZHJHT0ViekJsQUk5Qkd5S0NtRXZmUTJOaVFwaGc5S0FSZm5DNFJ0YXlRaHYwMDBCeExiX01PaXJEWUt6SVduM3Y5Ym5zZWM2T1ZXSVNFbmptMExXUE9UMDZUZ1BHUQ?oc=5",
-        "tags": [
-          "it boltwise"
         ]
       },
       {
@@ -444,10 +446,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
+        "source": "Euronews",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -465,10 +467,10 @@
         ]
       },
       {
-        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - LOGISTRA",
-        "source": "LOGISTRA",
+        "title": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus - Logistra",
+        "source": "Logistra",
         "publishedAt": "2026-05-21T07:00:00+00:00",
-        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus LOGISTRA",
+        "summary": "ZIA zeichnet KI-Flächenmonitoring von Wemolo im Innovationsradar 2026 aus Logistra",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0lzR2Jkb0JMbU9RY3QyMG5JYkQ5a3JjV1pabTJuSXNtRmJmMHg2NzliSXFiY1lIalc1ZjRJSHE1LS1wZmRWOWFqSDVZZjdlX25URXl6MDBnRGYxYU13T1FHaWs2T0FXX29QUkZBdlZMdzhUTS1UWldXLWhrTW9YUXZMNkdQSGhLRVJPazFuYzR5ay0wbGxnamc4a1A4WXotcHkya0Q0NkNESnFzWXR4cg?oc=5",
         "tags": [
           "KI"
