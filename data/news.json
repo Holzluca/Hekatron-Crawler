@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T18:57:47.722835+00:00",
+  "generatedAt": "2026-06-21T20:25:17.123887+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -160,16 +160,6 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnYySnpvR3lDdjZSQXhQNzRkOVJQblREcTNuV2dyaXNkLTlQSVRzcDJZdHQ4UzdBTlp5SUZfNDIwMEU4LUhMemZqd2k3YmlaUlh2cEVvdlFvc3FXZk40V25IWkt1cS05bnEtVzNlLUY0MFd6MTZ3eTZnTnRLS3gzMVpVdkh0dW9CUno1UVV6TTlWSWNzQzFNa1Z3?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 9/12 - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
@@ -205,6 +195,16 @@
         "publishedAt": "2026-06-09T07:00:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFFpc1ByLVgzWHFyemlfdlRlODN1c2NzeG1KWDFzU1hNLTBVenR5SE9PVTBKWGE0cGJ0cGtMc3VOTG9fYm8xeHdjWFVQSWR2T3RPaE5adkxpdkEydm5EbTRJNkNGV3ZaYXdnWTlINHV6LUt4NG9GS1JrVkZBZmU2MV9tSF90MDJZejZfTUNfeFY?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnYySnpvR3lDdjZSQXhQNzRkOVJQblREcTNuV2dyaXNkLTlQSVRzcDJZdHQ4UzdBTlp5SUZfNDIwMEU4LUhMemZqd2k3YmlaUlh2cEVvdlFvc3FXZk40V25IWkt1cS05bnEtVzNlLUY0MFd6MTZ3eTZnTnRLS3gzMVpVdkh0dW9CUno1UVV6TTlWSWNzQzFNa1Z3?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -279,6 +279,16 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjJJWDFnclo2bkZBVWpVV3AtdUNZRkNKUTZFbHVfdHZET054NWpDZDQzQkh5RXhHRWgzeGJnUWphMFBNVUtodW1VUlFMeXpkTGFJdEowaWNiaFdheVE1NlhkSnNRUmNYbEJLME93R29yVVAxYlJ2b29sS3BxTTlNRTBDU3p5Z3JoQU9DcHZlTHhNUUdSMTl6SGNHVTVjUVhlclA2ei1yVXhna05qNmNRRXEzZjU4dUtzaWcxem4wNWVEOFptX1B1LXpLcw?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Türtechnik erfüllt Brandschutzanforderungen - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-06-10T05:00:00+00:00",
+        "summary": "Türtechnik erfüllt Brandschutzanforderungen elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2tiWWhrV0dMTnU2TV9SOGNjQ2tocWNqX2NobkVoVlBBOE8yMXMwTEU1SEtlcGVvVHdXMVdTT1lRMWJsNy1IUkFxOUczMG1FN2Fsd2tVSU16Y1hyellqUlpLeHVialhWSVZxRjhFa2pmcmFlYjh4Z1FZZWlQLXlzZzlCUQ?oc=5",
+        "tags": [
+          "elektro.net"
         ]
       },
       {
@@ -360,16 +370,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
       }
     ],
     "trends": [
@@ -411,6 +411,17 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVhCeThCNTY3cVgyMUFoR0JwMFN3UHFfUEh2dXRKdkdGVTNhVm1fNmxWUk83aGlvZzJKM3hZYzNpb0JzSG0xTkctTE5UcURpTERQSFBpVHdBTllsOE15aWRiQnVpdEJ5cUMtd3Jyc2JoMFFPZmNfdXdSelpTcmlaMU81UG9qbC1RMzRMSEdWVHVKZXR4b2ZJeFhuVC10bHlsZnAxbkIySkVUdUdZUTN1QTJOMzZiY1lzVGc?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Zwei neue Gebäude für die TH Aschaffenburg - Rund 6.000 Quadratmeter für Digitales und Nachhaltigkeit - TV Mainfranken",
+        "source": "TV Mainfranken",
+        "publishedAt": "2026-06-09T15:30:00+00:00",
+        "summary": "Zwei neue Gebäude für die TH Aschaffenburg - Rund 6.000 Quadratmeter für Digitales und Nachhaltigkeit TV Mainfranken",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQk5XWFBtZ1BlSTRaU29ZUzdncVh1aXVGRThQeTNqb3lIRDRhRXpBbmE1d2xRdGlHRUgyNzZ5NkNYMmJwXzhzcFJ4LWZSd1lGSUtUQWFTeXZ0c0pSM05RRC0wOGVDN3h3dmktWmsyZnFoQW9MNHBpbHoyYUdPMjNtdmh2dUdTQVR5NGNwTVBEcmhxb21SaW1zc1AxM01SYUNxaXVvVnNMWUozeXh2UTYycWx5Z3JDSlIyNm5NVUQyNE5WaGtXUEV6SkJtWGpBMDRHSUljSjVOU3BVaGljbWhITFVB?oc=5",
+        "tags": [
+          "AI",
+          "Nachhaltigkeit"
         ]
       },
       {
@@ -472,16 +483,6 @@
         "tags": [
           "Gebäudeautomation",
           "ESG"
-        ]
-      },
-      {
-        "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
-        "source": "BASIC thinking",
-        "publishedAt": "2026-05-19T03:45:03+00:00",
-        "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
