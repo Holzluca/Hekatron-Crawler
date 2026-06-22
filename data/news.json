@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T07:32:44.453630+00:00",
+  "generatedAt": "2026-06-22T13:30:03.366195+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -96,16 +96,6 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "Neue Zürcher Zeitung"
-        ]
-      },
-      {
         "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
         "source": "SAVE AG",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -113,6 +103,16 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "Neue Zürcher Zeitung"
         ]
       },
       {
@@ -313,21 +313,21 @@
         ]
       },
       {
+        "title": "Baden‑Württemberg‑Tag: Oberkirch feiert 300 Jahre Brennrecht - Baden Online",
+        "source": "Baden Online",
+        "publishedAt": "2026-05-17T07:00:00+00:00",
+        "summary": "Baden‑Württemberg‑Tag: Oberkirch feiert 300 Jahre Brennrecht Baden Online",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bVBrMDRBd01Mc3dnNlMwUUVsNFVtT3ZZM2R6bVYxYXdQWVdOS0QtQmhhSEpxTGNDT29UWHhQS3VGN05Pa1pIVmV1bTZObDUtU2JwNE13UWs3MlJld1Q4Mm93ZzBIakVYUlVVUXBDRkNzR3E3YnNVWHVfaktUdU0?oc=5",
+        "tags": [
+          "Baden Online"
+        ]
+      },
+      {
         "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
         "source": "Logistik Online",
         "publishedAt": "2026-05-08T07:00:00+00:00",
         "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie (US0376123065): Interesse an Shell LNG-Anteil - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-05T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie (US0376123065): Interesse an Shell LNG-Anteil AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGZ5Q3drLXVvZzA4RGJvQ0J0S3ZyeFdtWGlicW4zS2lnRTY2N3g2cmJoNDMyRmJpdVprV3dXNXdfU0IwRGVSa1dkTzA4dHdxa0kwU3BpUlZyQkVYTDRqV0RqWjIwOVZybjBkNnFha09YbUMyZEUyS1NKUjRGVDNsd21QeDVIdVV5MEhBMHFac1JJTUlXRmdDMmk3V1I0TnU0dmlGWEMtNFAzS2pXTV9uRWVKTUs1U2JOZjIzWG93?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -395,23 +395,13 @@
         ]
       },
       {
-        "title": "Gemeinderat investiert in moderne Gebäudetechnik - nau.ch",
-        "source": "nau.ch",
+        "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
+        "source": "Nau",
         "publishedAt": "2026-06-17T08:20:23+00:00",
-        "summary": "Gemeinderat investiert in moderne Gebäudetechnik nau.ch",
+        "summary": "Gemeinderat investiert in moderne Gebäudetechnik Nau",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
         "tags": [
-          "nau.ch"
-        ]
-      },
-      {
-        "title": "Siemens Aktie: Fehlalarm in Desigo CC - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-15T03:36:04+00:00",
-        "summary": "Siemens Aktie: Fehlalarm in Desigo CC AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
+          "Nau"
         ]
       },
       {
@@ -476,16 +466,6 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
-        "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
         "title": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-05-25T07:00:00+00:00",
@@ -494,6 +474,26 @@
         "tags": [
           "Gebäudeautomation",
           "ESG"
+        ]
+      },
+      {
+        "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
+        "source": "BASIC thinking",
+        "publishedAt": "2026-05-19T03:45:03+00:00",
+        "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-18T07:00:00+00:00",
+        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
