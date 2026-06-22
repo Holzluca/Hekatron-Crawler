@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T01:59:46.419102+00:00",
+  "generatedAt": "2026-06-22T07:32:44.453630+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -76,16 +76,6 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -124,6 +114,17 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
       }
     ],
     "pfs": [
@@ -160,16 +161,6 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnYySnpvR3lDdjZSQXhQNzRkOVJQblREcTNuV2dyaXNkLTlQSVRzcDJZdHQ4UzdBTlp5SUZfNDIwMEU4LUhMemZqd2k3YmlaUlh2cEVvdlFvc3FXZk40V25IWkt1cS05bnEtVzNlLUY0MFd6MTZ3eTZnTnRLS3gzMVpVdkh0dW9CUno1UVV6TTlWSWNzQzFNa1Z3?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 7/12 - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T11:10:00+00:00",
@@ -195,6 +186,16 @@
         "publishedAt": "2026-06-09T07:00:00+00:00",
         "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFFpc1ByLVgzWHFyemlfdlRlODN1c2NzeG1KWDFzU1hNLTBVenR5SE9PVTBKWGE0cGJ0cGtMc3VOTG9fYm8xeHdjWFVQSWR2T3RPaE5adkxpdkEydm5EbTRJNkNGV3ZaYXdnWTlINHV6LUt4NG9GS1JrVkZBZmU2MV9tSF90MDJZejZfTUNfeFY?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnYySnpvR3lDdjZSQXhQNzRkOVJQblREcTNuV2dyaXNkLTlQSVRzcDJZdHQ4UzdBTlp5SUZfNDIwMEU4LUhMemZqd2k3YmlaUlh2cEVvdlFvc3FXZk40V25IWkt1cS05bnEtVzNlLUY0MFd6MTZ3eTZnTnRLS3gzMVpVdkh0dW9CUno1UVV6TTlWSWNzQzFNa1Z3?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -374,6 +375,56 @@
     ],
     "trends": [
       {
+        "title": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-21T13:35:07+00:00",
+        "summary": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeERzUzVJX1pUdkVYTU5VOUZaQ3Jaa2dzYVN1T2FibERORmM5N2tra1ZJMDVneUI3bHNHbUZiMTd5ZmRFeVVpemcyOEdqQVZOOU8xSGZRaXBsQjg4azNjNnFIZm83a1dQZl9nYjVrRzhYd2VQUXU4ZWhkcHFoZUxmWjVSVEZLckcxQndmNmJ3b2xXSnQ5WkowOTRTeVpVcnllOHBiVUdvNzdwMHJIU21tWWN2UWZjQlNJbmpV?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-20T13:23:27+00:00",
+        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Gemeinderat investiert in moderne Gebäudetechnik - nau.ch",
+        "source": "nau.ch",
+        "publishedAt": "2026-06-17T08:20:23+00:00",
+        "summary": "Gemeinderat investiert in moderne Gebäudetechnik nau.ch",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
+        "tags": [
+          "nau.ch"
+        ]
+      },
+      {
+        "title": "Siemens Aktie: Fehlalarm in Desigo CC - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-15T03:36:04+00:00",
+        "summary": "Siemens Aktie: Fehlalarm in Desigo CC AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Johnson Controls-Aktie (IE00BY7QL619): Analysten verweisen auf Rechenzentrums-Boom - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-14T09:19:44+00:00",
+        "summary": "Johnson Controls-Aktie (IE00BY7QL619): Analysten verweisen auf Rechenzentrums-Boom AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVhCeThCNTY3cVgyMUFoR0JwMFN3UHFfUEh2dXRKdkdGVTNhVm1fNmxWUk83aGlvZzJKM3hZYzNpb0JzSG0xTkctTE5UcURpTERQSFBpVHdBTllsOE15aWRiQnVpdEJ5cUMtd3Jyc2JoMFFPZmNfdXdSelpTcmlaMU81UG9qbC1RMzRMSEdWVHVKZXR4b2ZJeFhuVC10bHlsZnAxbkIySkVUdUdZUTN1QTJOMzZiY1lzVGc?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
         "title": "Zwei neue Gebäude für die TH Aschaffenburg - Rund 6.000 Quadratmeter für Digitales und Nachhaltigkeit - TV Mainfranken",
         "source": "TV Mainfranken",
         "publishedAt": "2026-06-09T15:30:00+00:00",
@@ -382,6 +433,16 @@
         "tags": [
           "AI",
           "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
+        "publishedAt": "2026-06-09T08:11:23+00:00",
+        "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour TGA+E Fachplaner",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -425,73 +486,14 @@
         ]
       },
       {
-        "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
-        "source": "BASIC thinking",
-        "publishedAt": "2026-05-19T03:45:03+00:00",
-        "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
+        "title": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation - it boltwise",
         "source": "it boltwise",
-        "publishedAt": "2026-05-18T07:00:00+00:00",
-        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
+        "publishedAt": "2026-05-25T07:00:00+00:00",
+        "summary": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOG9tYzRUUF9TbWtTdXhZSlYwZnRpX25BVEY2Qi1sdkJYcTZTNzltRnBrMnZ1eUFHN2dCVGN2am5Oc2NOWkFHVXZnSGNCQXZBYlMxNkFsaGc1Q2J3QVZnZm9Ma2JlbmV4WU5nZjZyN2c3Zy1ZXzJGZHRKeEJDd2FneXFQZF9aZlN3d1V4WUFLNlFPQnM1NFlmdE44QjZ2Tk9wZV9tblR5dHpQTFk?oc=5",
         "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "München testet Materialkataster für Gebäude - immobilienmanager",
-        "source": "immobilienmanager",
-        "publishedAt": "2026-05-11T07:00:00+00:00",
-        "summary": "München testet Materialkataster für Gebäude immobilienmanager",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGN1RDlHWXBtTzdqRXlyZW83SkRCRlFPdkZmTXRTSm1LR3M3Y3BLeHlFamUyTW1NRVNQSER0UTdVSE1WY0NXSG5mQkZHYXVfblJYQW5nSjY0clJvakgwRWNySUg3UkdMWnNnSnIzdGNpWUV3Q3ptQXNweWZVUDcxYjlVck9MaGgwY0dkVVN5SDNFQQ?oc=5",
-        "tags": [
-          "immobilienmanager"
-        ]
-      },
-      {
-        "title": "Aareon bietet Cloud-Lösung für KI - Der Facility Manager",
-        "source": "Der Facility Manager",
-        "publishedAt": "2026-04-30T07:00:00+00:00",
-        "summary": "Aareon bietet Cloud-Lösung für KI Der Facility Manager",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUk9OWWFEd0g2bkJZdENRSjhocnJ4dzkyOExRMGg4WW9QcWRMT25odUdzODJmWEZhelhfdndycjNxNnJyalBIVFFFeGVUWUoxTFBTdERYSkIybGVPb1lTdE40aHpUSWMtWEU0YVoyQjV4OGJ3bGtmODcxNVNlZ2xubjhMa0c?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI im Vermessungswesen - egovernment.de",
-        "source": "egovernment.de",
-        "publishedAt": "2026-04-08T07:00:00+00:00",
-        "summary": "KI im Vermessungswesen egovernment.de",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUDQtUmN2bnRpN3dKSENZSVhXbXFVSDhjdElSVjBhdm10UUtDUFlxd3hDUTQtNGFxZFhGQlpTWUdTSHB6eThfeUlpX3Z4ajZyMWNxUkFBOU1wMl93eV9Rb0lna2RTdVBjbURtSkpraTR2dWY5SkVnM0czVXIzWllYRGFoMWw1dWZqNlBFQmd3?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen - Stimme",
-        "source": "Stimme",
-        "publishedAt": "2026-04-06T07:00:00+00:00",
-        "summary": "KI-Rechenzentrum in Neckarwestheim: Gebäude soll sich in Landschaft einfügen Stimme",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMXBlVXMzVHRncHF4N19oXy1EZjdnN2pKckVWejc5cGVkVWhfNUc2YVZkLTVxYkNhQlF2cFZ4VWtGcmx5cEdyaWNJUXNrM09yRGF0TzF0bmZDRTdySFNpa0pIdWdhbmFaUzBvV2pyMkY4NmJjSzdyb2dQVG1IYTUzM0QwczhBazhOeFFXai1TNXRVZDMxSG9rV0phM0RHVGY5eW15cmNYRzljelVGMXBFelVXYnVIN1hOaUZIemp2elgxakVpb01GM2hzazkyZnBuWVVDUVE2ZUU4Z3JFTVN6UGJ2VF82SkQ5N1hzZXVhaDBuOFl3NElyM0h3?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "SWR Aktuell. . 🤨 Lost Places im Sonderangebot https://1.ard.de/ki-burgen !? 🏰 Blöd nur, dass die Gebäude nicht echt sind. KI-generierte Videos mit Fake-Immobilienanzeigen tauchen immer öfter in den Timelines auf. Doch egal ob Burgen in der Pfalz oder Vill - facebook.com",
-        "source": "facebook.com",
-        "publishedAt": "2026-03-16T07:00:00+00:00",
-        "summary": "SWR Aktuell. . 🤨 Lost Places im Sonderangebot https://1.ard.de/ki-burgen !? 🏰 Blöd nur, dass die Gebäude nicht echt sind. KI-generierte Videos mit Fake-Immobilienanzeigen tauchen immer öfter in den Timelines auf. Doch egal ob Burgen in der Pfalz oder Vill facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNemFHWXRxSTlZRUhJa1lIb3NQNTdnX0V6RFc1VDZ1VnNYelBWRDA1NU4xdTFyc21nWGVUZ0duN3JLdV80bjNqaGJJRTNMdzVBaUNNTnB2bTFQTFFWelMxS2JFb01ibkxsTUZfOE5kcVFLMlVNbW4ya0lDRU1OVTEtdXJRRnpqN2dzSGJZRmw1SDNxWVhkRkpDc2JlSjcyVE4zOWpEZUgxZ1VBQjZEaG1oeld3ZWltaWFORzZqbFppanZnd3VwTXNWSm02anVySDl4UVJTQURra3lKN3NiMnRUODFyWWp3dw?oc=5",
-        "tags": [
-          "KI"
+          "Gebäudeautomation",
+          "ESG"
         ]
       }
     ]
