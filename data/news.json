@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T04:38:33.538993+00:00",
+  "generatedAt": "2026-06-23T08:25:46.911764+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -19,17 +19,6 @@
         "publishedAt": "2026-06-03T07:00:00+00:00",
         "summary": "Brandschutz wird smart: Siemens stellt Sinteso Nova vor AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRll2cW1pNXlpSkpZcmVpVUljeEcwM3dqd0VEZktxZDNfOFlPNk82aU50dWM2V2Ntd1BFYm41c2lpY3RHZmhHQkU3VUlKX3ZNbGpxZUZQOE5Kc09QT0lCTFFPT09RdWFsVjlqeTdhTTJlT1psdFZ1enRXZ2dzVkNpOFNmNEdtUWgxTExFaEhxYloydmtoZWNKLXN0S0RnMkYzOXpN?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
-      },
-      {
-        "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-02T07:00:00+00:00",
-        "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
         "tags": [
           "Siemens",
           "Brandschutz"
@@ -124,9 +113,50 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Smarter als ein penetrantes Piepen: Dieser clevere Rauchmelder schaltet beim Alarm sogar das Licht auf dem Fluchtweg an! - GameStar",
+        "source": "GameStar",
+        "publishedAt": "2026-06-23T07:59:00+00:00",
+        "summary": "Smarter als ein penetrantes Piepen: Dieser clevere Rauchmelder schaltet beim Alarm sogar das Licht auf dem Fluchtweg an! GameStar",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJkNjdYUEd6djc2VEZOeDhlM215Vy1VLTVabGlkZ1lyMzAxcXVyWmlpWUEzQTZmbzBjUzZKRm5WVTQxanU1Z0dHdGg0SjBsMV81blhwbkhPSzBtanRvN3FsN1h2NnhpNkZFbVNjTkM4TUhMQjlQLUJwSXk3QVhzVTBTVXE4TElRbVZtOGxqLVlXZw?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert - Ntv",
+        "source": "Ntv",
+        "publishedAt": "2026-06-23T07:53:00+00:00",
+        "summary": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert Ntv",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZThCZ3VHclRMeDN2aUFGWUMxVmk1QjhieVh1dnRCYnlyVEJCWmY1VlFvbTVrYWVjX2hfNXNMUFg1cUNjSEFGMTl3MnZEdGNQNUZCeVljZHpTUnVBYkU1bjZwamgzX2NnS2luZk1hakVVMnpoQTVDSW14SERPSUJBcmxGOTNad2RoQl84SXBSSC0yWUNOaXZHYTJmWXgwWmoyMzRRRm5rbjMxbDBo?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Smart Home Schnäppchen: Günstig auf moderne Haussteuerung umsteigen - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-23T06:45:00+00:00",
+        "summary": "Smart Home Schnäppchen: Günstig auf moderne Haussteuerung umsteigen Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yTWZZSGQybDlYcllMTGNWZHNXZVYzT1pNM0JBMmpOaWUzV3ZUOU5UNkJjRlYzcFlMVzh5QTMyVWgtWTJYNXFJbE5hcDFRcmc2UEVpbGI2QUpON21raDEzdUtYM2p2M1pzWmhELUlZd2JEWTdwME5NdGFoaDE?oc=5",
+        "tags": [
+          "Ei",
+          "Smart Home"
+        ]
+      },
       {
         "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
@@ -216,69 +246,9 @@
         "tags": [
           "Bosch"
         ]
-      },
-      {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 11/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 11/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnQzWlFRMTRXR1RiUnVhUlVVdkF4MVpRdG1IdFpIcDVWeHc2ZzA3YzJJTHc3T3dETU1PcXYtczltZ0lzbkQ5dG5CWGFLcks3RENIZjc2bFRwZGVJTDRJNnRCeUN5QlRzeXowdE9raDlTSjJHa1FFMjJTbzM1SVRENWFGbkxmUmp4bUZkY0ZXUTA2NWdkMElkaDhUMA?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 9/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 9/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa3hLeFJaZU1ZVmZsU0dRdEtiNVJHMDdzYll1Zkp3MGltQjZ3Umppc3h4UDF3QWstckRJaHRoYWh1U1pXektmSUNJeHdOcDhCWE9jQkpOY19yQXd1NldCRXQxRVJUY2JYU0hvX0J4ZjgxYThrS1ZqUW45dU41UDJpMEtPeHo4cmJmdlJEbGZMTXpvWlM2enpfSGRn?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWYybXg4NW5ISHo2dF80NEtoOXNLVXNrS3loWGhJRmljR2FPdWhWQ0ZPcEp4NGZoYmoxeHkzYkhkOUFnT09ENGtqLUNYd3RsUHhEcnRnV1ptRDcxd0RYX0U4SGFubEE3WmNLV2YweElHMncxaHl4YVJqMl9MbndJSm9fWFl0Z2ZQREY1a3c0MVdYRmNGbzdKR3Jraw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "doors": [
-      {
-        "title": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet - simplywall.st",
-        "source": "simplywall.st",
-        "publishedAt": "2026-06-21T05:12:30+00:00",
-        "summary": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNa09VLVBoX0lxNDN3bEhYTFNiaUtwWHRoYkZ5ZmExVlFCeWlGcjZkQlVhaUlaSjVnVEFyWnJWMXlYLXdxSjBUSnJmZ0xjN25lN0QtUXZ4VjdiWVdwamZGa01KNzczeHRGRk42YUVkbzV5WHRVa0g1OW5iYWI0cWcxenBxVXFnN3VfN1paWWdVczdTVUtmMEtGV0J6Xy0tQ283eVpZcnpieWtCQmtsSEdVLV9xamZBUlZaWWtnZ25kTDJKWldwNXFxOGdGTW5DX2dXa1hZTkMteUdzS25STWtoU0ZORHNXekR1dnZReE1BQXNONE3SAfMBQVVfeXFMTWtPVS1QaF9JcTQzd2xIWExTYmlLcFh0aGJGeWZhMVZRQnlpRnI2ZEJVYWlJWko1Z1RBclpyVjF5WC13cUowVEpyZmdMYzduZTdELVF2eFY3YllXcGpmRmtNSjc3M3h0RkZONmFFZG81eVh0VWtINTluYmFiNHFnMXpwcVVxZzd1XzdaWllnVXM3U1VLZjBLRldCel8tLUNvN3laWXJ6YnlrQkJrbEhHVS1fcWpmQVJWWllrZ2duZEwySlpXcDVxcThnRk1uQ19nV2tYWU5DLXlHc0tuUk1raFNGTkRzV3pEdXZ2UXhNQUFzTjRN?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-18T07:01:06+00:00",
-        "summary": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0xfc1BHTV90MnN4TTZYOWpoVzVUS196dGRBTWhIamlZMUlodEp3d1dfeVBiQ1JmYVVUNnZpemo4VVlWejY1QTEzQ1ZVeld3djhtNDctd1RQcFRzaElZUnUyQVNGSlFuQWR5WGMzczN6Y3p2ZVh6ZE9YYTFCdExRcUNZcnFkVkFGa0dJZmMtNmxrSUJGU2lMYVB1bkJySWl3NDdRUHF3eW9KeXoxWU9RZkdERjRmNUJOSnZlMHc2a3BoY1lFdUYtdw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Foku - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-18T05:12:56+00:00",
-        "summary": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Foku AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjJJWDFnclo2bkZBVWpVV3AtdUNZRkNKUTZFbHVfdHZET054NWpDZDQzQkh5RXhHRWgzeGJnUWphMFBNVUtodW1VUlFMeXpkTGFJdEowaWNiaFdheVE1NlhkSnNRUmNYbEJLME93R29yVVAxYlJ2b29sS3BxTTlNRTBDU3p5Z3JoQU9DcHZlTHhNUUdSMTl6SGNHVTVjUVhlclA2ei1yVXhna05qNmNRRXEzZjU4dUtzaWcxem4wNWVEOFptX1B1LXpLcw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Türtechnik erfüllt Brandschutzanforderungen - elektro.net",
         "source": "elektro.net",
@@ -290,73 +260,33 @@
         ]
       },
       {
-        "title": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut - AD HOC NEWS",
+        "title": "Apollo Hospitals und Mayapada Healthcare besiegeln strategische Allianz zur Neugestaltung der Gesundheitsversorgung in Indonesien - Apollo Hospitals",
+        "source": "Apollo Hospitals",
+        "publishedAt": "2026-05-25T08:24:25+00:00",
+        "summary": "Apollo Hospitals und Mayapada Healthcare besiegeln strategische Allianz zur Neugestaltung der Gesundheitsversorgung in Indonesien Apollo Hospitals",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdk1uZ29uNE1sYVVHMHVENjhoeldocExOMWZCZ3J1MjlrNE42ME94bEo5aFFCN0dDeXpGcTdRWWVoNXU3TzRJTXRSOHFNLWp6RmFtQlI2REloZmJvU2FNLS01RWwzcEhqUXZJTE93M2V5ZjdlQjFHS09Sem5rSnF5Zmk4NWNnN2JFR3JKNW52aWRmcVBadGYwdHpPWnhVWmxGV1MxTHdTSXNubHMwVExnejl3VnVzTElEbUQ1ckQ2NXBsUjZMdkhNTnFKWGN6dDVYaWpSQ3hDZ25kTFBEV3BRR042c1EzS2pTMkNURkdEX1NOMjEwOUE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management-Aktie (US0376123065): Was der jüngste Ergebnisbericht und die wachsende Kr - AD HOC NEWS",
         "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-24T07:00:00+00:00",
-        "summary": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9rcXNYeGF1WU1lVEl6dHVnSlpkdlZVU094Qk1hbTFHUTNhaGVBR1NvcHQ5dktDdzNRVzlxXy1zLXg0amJfamZONEVyNUNJSloyRFNYRUp1Z0otaDVZV1B4dHU2MVVhRFpsWWUzTEJCbWdOMU9YSEMzazBtZy1MX3NiZFNjb0loNlFIOVpyc1RHTmJOSkwtMXNzRlRVT3RoZEUwUm43OGF4WUJPTmNMNlBiYndick4yN0dKb2dVakt6aG15MVhBNQ?oc=5",
+        "publishedAt": "2026-05-19T07:00:00+00:00",
+        "summary": "Apollo Global Management-Aktie (US0376123065): Was der jüngste Ergebnisbericht und die wachsende Kr AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM1JFTW1TQ3F1MG5DeGdUbkNzWlo2SHluRjVwWEtoRlFfeHNTUmxVSW0zSWItRmJfSFpBalFWVGVYN29sa3E1RTRPV0V3cV9xQk9aUmhBNVVXaVFWbF9TdlhKUFlubHVvYnN2dGhncnBRNkFJSTJibllNSVROdDVSSl9TU0J4aGNKeWNZazBCcUFtaTllOFJDbXJxNEsxYktjN09oTDgyYl8wTFlncG1TU01FcTFFY0dwY2VV?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Baden‑Württemberg‑Tag: Oberkirch feiert 300 Jahre Brennrecht - Baden Online",
-        "source": "Baden Online",
-        "publishedAt": "2026-05-17T07:00:00+00:00",
-        "summary": "Baden‑Württemberg‑Tag: Oberkirch feiert 300 Jahre Brennrecht Baden Online",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bVBrMDRBd01Mc3dnNlMwUUVsNFVtT3ZZM2R6bVYxYXdQWVdOS0QtQmhhSEpxTGNDT29UWHhQS3VGN05Pa1pIVmV1bTZObDUtU2JwNE13UWs3MlJld1Q4Mm93ZzBIakVYUlVVUXBDRkNzR3E3YnNVWHVfaktUdU0?oc=5",
+        "title": "Editorial – \"The dictator\" is leaving - Lëtzebuerger Journal",
+        "source": "Lëtzebuerger Journal",
+        "publishedAt": "2026-04-15T07:00:00+00:00",
+        "summary": "Editorial – \"The dictator\" is leaving Lëtzebuerger Journal",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CNG1nQkJwOWVjWG1qSjl0WkluYVNZWlJ2N1RuZVhLNWlkNlR0U0RNOWFRcFU3U2RSSnhJZy1pZGpRRjdZZ25HbVFZdXhSUGdMSDd2WDc2VGgtTlVZ?oc=5",
         "tags": [
-          "Baden Online"
-        ]
-      },
-      {
-        "title": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-05-13T07:00:00+00:00",
-        "summary": "Apollo Global Management-Aktie (US0376123065): Alternative Asset Manager mit starkem Wachstum AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemF2MDBUSEZlVEFGS1pQemJMOEJBcVhSOHlaVXZxQXhVNU9leklXR1pqX0NVakRqS1IyTV9JOWFycnk3VTdvb015UkFhaDNadDlUZE9UQWxfTkNTU1dSRWJjUERZaXhXNHBlYUZ3WDk0d3lBZnNuQXplaWN4dlZnTHNuWDlJYTNNamRnZzUzNkJxYWhtMVFLN2VNLUpRNFQ2WldncXVpTDZXODRoUGRqT1MwYXZjTzgzWFJZZ25HbS1qVUJpUDRv?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
-        "source": "Logistik Online",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
+          "Dictator"
         ]
       },
       {
@@ -367,6 +297,76 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Digitale Souveränität: „Autarkie ist ein Mythos“ - brutkasten",
+        "source": "brutkasten",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "Digitale Souveränität: „Autarkie ist ein Mythos“ brutkasten",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0MG85eXdlRlhpNGVEcWdYWlRuWmNrMHMwQTk4UkpIX21kRElYVlB1TWpQN25FUk1kYUw5blVUVFZ1M3ZsWTRxdXlDeTVhcHdZWjVjYUlxLWhjYXFUTTdIR1QwNDUzcTRuR1Ew?oc=5",
+        "tags": [
+          "brutkasten"
+        ]
+      },
+      {
+        "title": "Wegen sexueller Belästigung und Messergewalt: Havel-Therme begrenzt Einlass für Männer - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-01-13T08:00:00+00:00",
+        "summary": "Wegen sexueller Belästigung und Messergewalt: Havel-Therme begrenzt Einlass für Männer apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZC1MOTU2c2UxbVlnejRtNFNsbW9NN3V0cDVrTjJpQzl6d0ZZNUpBQTBrZnBYaDZZSkc0ZDNDSjFJRWwwdTRUd1Jfei1yWjlidmNPWl9vZ2c4dUV5R3A3MnVaVnJwQ0J4V2t1YjNwNmFOT0p4M1pudy1ZcUFDWkZLdHZNMDJVbFFEMDRTNURDSEdIQ1FmMkVJODZaTm5mSWczMS1JQnRlT2k5S1k?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Weimer Group weist Vorwürfe dreist zurück: Kritik stammt „aus rechten Kreisen und erklärt sich damit“ - nius.de",
+        "source": "nius.de",
+        "publishedAt": "2025-11-17T08:00:00+00:00",
+        "summary": "Weimer Group weist Vorwürfe dreist zurück: Kritik stammt „aus rechten Kreisen und erklärt sich damit“ nius.de",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00YVB3clVwZHIzOGd6TkY5Z19GV1lDUV9BQWFJcEpuMnRoRGJJSndmdko4UnJ2UERMXzJwdnE5MUQyVjJ5X3BoNHFkN0hQWlAza0RQMjhPSVZLS195OGhuZ0FwVFFEdkpUQnE5RUtRc09VWW53UVUxVld6bGQ?oc=5",
+        "tags": [
+          "nius.de"
+        ]
+      },
+      {
+        "title": "Wegen Enthüllungen über Weimer Media Group: Söder lässt staatliche Förderung des Ludwig-Erhard-Gipfels überprüfen - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2025-11-17T08:00:00+00:00",
+        "summary": "Wegen Enthüllungen über Weimer Media Group: Söder lässt staatliche Förderung des Ludwig-Erhard-Gipfels überprüfen apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTVdUR0pKSDNibFU0aU1LaEpCTWphZnh0aWhIVXJ0bWUyRGZFWjhxOGZFRFZ4dkpVV3hZZ3NfbHFVWTZPVlJQb19IZlpKakhmdEJDN3dBZVVha21iWVVLY1llLTVFV2lRbjYyRnlScjRNNDVGdWJncnNYZzl4RllvMVNKZEtERWJjLUFxTmVVXzZCZ0lVTTdfWENsMklYaHM1YjRpbzRneDVhcHB2ay1FSi1NcEZlNjBpQ2U3NTZTYjg1WkpxNmJWMmdfWGN3TWdEUXpmdGZzN2hETzBqeHFObGxkQ19TREU?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo erweitert Wealth-Plattform mit drei Evergreen-ELTIFs und erschließt breiteren Zugang zu privaten Märkten - MarketScreener Deutschland",
+        "source": "MarketScreener Deutschland",
+        "publishedAt": "2025-09-24T07:00:00+00:00",
+        "summary": "Apollo erweitert Wealth-Plattform mit drei Evergreen-ELTIFs und erschließt breiteren Zugang zu privaten Märkten MarketScreener Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZDZ2QUJZRldFTElEZVJkYzY5NkJpYWQ5RTBpSkRkanM0aTZLNmY4dXY5RGN3YUhyZW1nUDdpS09SdVd4MXJVUmJYT1p3VFNGbWJmSnNrSlN4N1hLVGctSkVZV2VPR2c3MzRqMmFRNjA1VzZkQmVqaXhnYTNiaFZxX0V2T2ZEbGhFY3ZBV0xuYXdjWmNGRU1GNTczVS1zY0VpYkpoRzdXOWxzRzJkRXZaa0lxZ1lrNW1ab1JndWlDZ2RnSk1wRFNiR050MEFuTThTNGxxWVp3eW1uWXk2SU1pTnRVYlFnLWlLendMeWVCVHhUVVNTRWJEaHQ2QQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Securitize arbeitet mit Apollo zusammen, um Zugang zu einem blockchain-basierten Kreditfonds zu bieten. - Bitcoin News",
+        "source": "Bitcoin News",
+        "publishedAt": "2025-01-30T08:00:00+00:00",
+        "summary": "Securitize arbeitet mit Apollo zusammen, um Zugang zu einem blockchain-basierten Kreditfonds zu bieten. Bitcoin News",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVVBKSkRnb01PNFRibUxtcjJoUjhXRmdOTE9UVWl5cWd4UzNEUFp5TjBlbnp2NThodUJkRUZvd2hHMDRsRVFTN2RSZ19XVnNWaE44bHZHWTllOUFCaWp1NkJ3LWxTWkMzeTRiQVlYZk85VzMzRF8zVmY0UWRCM2FETjd4RzFYbEJZUk12TUc5OEQzdUxTSkFzaWNCNnhxQmtGTVNwNVlTeXkwNG0wZzZZSEZXenV1ZzlXOUxkMzk5S0pyWnN5RWZkenBR?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "DSA: X-Untersuchung abgeschlossen – es droht eine Millionenstrafe - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2025-01-24T08:00:00+00:00",
+        "summary": "DSA: X-Untersuchung abgeschlossen – es droht eine Millionenstrafe apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX1l2eG0tOXA3ZXBLNFJkMF9LbGZ1bVp2dXNrY1hzcHVpeW1kejFnM0dBUXBWd1NOSXg5QkNPSFItTFZhbWJuVFJoZ0M0UnRVY0hxRVAwMDRlZmNmcm95M0wzakFSNWFPT3p5Wlp1VGZKYzVBNHpxbVJJbVBWNVQ5LWdqWVFnQV9kN0tjVERwZWtkZkZIcHg3UjZCaWpaOWJVVk51S0NyTjhpZVlXa3kzeg?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
@@ -392,6 +392,16 @@
         ]
       },
       {
+        "title": "Normenkontrollrat: Günstiger bauen mit einfachen Standards - staatsanzeiger.de",
+        "source": "staatsanzeiger.de",
+        "publishedAt": "2026-06-18T08:28:00+00:00",
+        "summary": "Normenkontrollrat: Günstiger bauen mit einfachen Standards staatsanzeiger.de",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1CQ1EyQVZOcW1LZ1hod0NEdjIwbW5RVk83UF94RmltWHpfVXpBaGdHT1ZLUVRlOTMwczE3NVBXNTVMaGtpelJvUC1PQmRPTFgzX3hhN0xUNm5nZGYwSmJJXy1zT1hYdk55UEV0MkdnclJmZFdaTGRMNzdTSUVWSE9odTdiOGpyWEdWVnJXbjZQSlpodGs0aHVSc3BtbmZJcUJpbjhaUmZGdzVlcmRZRm1R?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
         "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
         "source": "Nau",
         "publishedAt": "2026-06-17T08:20:23+00:00",
@@ -399,6 +409,16 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
         "tags": [
           "Nau"
+        ]
+      },
+      {
+        "title": "Siemens Aktie: Fehlalarm in Desigo CC - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-15T03:36:04+00:00",
+        "summary": "Siemens Aktie: Fehlalarm in Desigo CC AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
+        "tags": [
+          "AD HOC NEWS"
         ]
       },
       {
@@ -414,7 +434,7 @@
       {
         "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
         "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-06-09T08:11:23+00:00",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
         "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour TGA+E Fachplaner",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
         "tags": [
@@ -432,16 +452,6 @@
         ]
       },
       {
-        "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-02T07:00:00+00:00",
-        "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
         "source": "TGA+E Fachplaner",
         "publishedAt": "2026-05-29T07:00:00+00:00",
@@ -449,16 +459,6 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
-        "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
-        "tags": [
-          "AI"
         ]
       },
       {
@@ -475,7 +475,7 @@
       {
         "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
         "source": "BASIC thinking",
-        "publishedAt": "2026-05-19T03:45:03+00:00",
+        "publishedAt": "2026-05-19T07:00:00+00:00",
         "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
         "tags": [
