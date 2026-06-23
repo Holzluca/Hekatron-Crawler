@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T22:44:52.305213+00:00",
+  "generatedAt": "2026-06-23T23:51:50.949011+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -126,16 +126,6 @@
     ],
     "pfs": [
       {
-        "title": "Amazon Prime Day 2026: Die besten Smarthome-Deals auf einen Blick - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-06-23T14:11:13+00:00",
-        "summary": "Amazon Prime Day 2026: Die besten Smarthome-Deals auf einen Blick Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2s1VmhyaDJoNHZzVnlfaldOb2t0VWF5QWFUQm9oOUx0VXZ4Ym0tY3dHYVBSVTZMdkpIcmNuM0RpYXhDLS15czhLM2RUa1B2by12UEdycDhTU0x5UTZRaXZicG01dU1UZHE0Vk56cGVXNW1ScWxJcExrXzJ5eUhBU08tdmU0RlF4TlFlLXpDSTMyNWxKSnd2d2dLZkhOVFV6eFBuWi1zazRwZw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden - connect.de",
         "source": "connect.de",
         "publishedAt": "2026-06-23T12:33:26+00:00",
@@ -187,37 +177,6 @@
         ]
       },
       {
-        "title": "Smart Home Schnäppchen: Günstig auf moderne Haussteuerung umsteigen - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-23T06:45:00+00:00",
-        "summary": "Smart Home Schnäppchen: Günstig auf moderne Haussteuerung umsteigen Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yTWZZSGQybDlYcllMTGNWZHNXZVYzT1pNM0JBMmpOaWUzV3ZUOU5UNkJjRlYzcFlMVzh5QTMyVWgtWTJYNXFJbE5hcDFRcmc2UEVpbGI2QUpON21raDEzdUtYM2p2M1pzWmhELUlZd2JEWTdwME5NdGFoaDE?oc=5",
-        "tags": [
-          "Ei",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-22T23:24:32+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-22T22:37:18+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Paramount+ startet Animationsserie Among Us in Deutschland - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-06-10T07:00:00+00:00",
@@ -238,13 +197,53 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFFpc1ByLVgzWHFyemlfdlRlODN1c2NzeG1KWDFzU1hNLTBVenR5SE9PVTBKWGE0cGJ0cGtMc3VOTG9fYm8xeHdjWFVQSWR2T3RPaE5adkxpdkEydm5EbTRJNkNGV3ZaYXdnWTlINHV6LUt4NG9GS1JrVkZBZmU2MV9tSF90MDJZejZfTUNfeFY?oc=5",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 10/12 Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWYybXg4NW5ISHo2dF80NEtoOXNLVXNrS3loWGhJRmljR2FPdWhWQ0ZPcEp4NGZoYmoxeHkzYkhkOUFnT09ENGtqLUNYd3RsUHhEcnRnV1ptRDcxd0RYX0U4SGFubEE3WmNLV2YweElHMncxaHl4YVJqMl9MbndJSm9fWFl0Z2ZQREY1a3c0MVdYRmNGbzdKR3Jraw?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-04T07:00:00+00:00",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
+        "tags": [
+          "Teltarif"
+        ]
+      },
+      {
+        "title": "8 Modelle, 1 klarer Sieger: Rauchmelder Test - RTL.de",
+        "source": "RTL.de",
+        "publishedAt": "2026-06-04T07:00:00+00:00",
+        "summary": "8 Modelle, 1 klarer Sieger: Rauchmelder Test RTL.de",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
+        "tags": [
+          "RTL.de"
+        ]
+      },
+      {
+        "title": "Sie haben keine Rauchmelder installiert? Diese Strafen drohen - chip.de",
+        "source": "chip.de",
+        "publishedAt": "2026-05-27T09:48:56+00:00",
+        "summary": "Sie haben keine Rauchmelder installiert? Diese Strafen drohen chip.de",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEZ0Z3MtbVBCUTlDVDNkeDZhYTdETkZsQVJKRkFUWFpYdE1CVUVCTUFlU1ZBTTBxdjVfQ1lydTEtamN1bW9lWHNIRzJQelVmbUpMRjI3VXhrZm5WTThidk5faWRTX0UwLXplMTFQVWlpZlJMSHNsMi1sV2dOU1JFX0ZoZXNHRDM1S0k0TW9FbzdiSkxXOEoycl9peDUyaVk5U1hPM0pBNklFZVBRYXc0T1J1aWE5NFItMXJYdEVUMHZiNnNla1pzajA0ZEFweFZiaWgwb2RETzNpa045a1AzaQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Wichtige Frist läuft noch 2026 ab: Viele Rauchmelder müssen ausgetauscht werden - chip.de",
+        "source": "chip.de",
+        "publishedAt": "2026-05-27T07:00:00+00:00",
+        "summary": "Wichtige Frist läuft noch 2026 ab: Viele Rauchmelder müssen ausgetauscht werden chip.de",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTFydnlVS0tobEZSUTB3ZFBJMzdyNXI2d1lXXzhmeTZGSG43SENCR1lraDNzUEJWUkdRUnhJZll2R1M1U29PdzM5eXlaeUtFYUVQSHl4VHFhZS1YVGlKVUdSTWVmVDFWcFhTMUVNeG5KLTlHNlF6NUJROHZiM01Ma0M4d3JwSlpDdk90dlk3VFVoSDlaY0RZM2hFZkU2VWN4emozdENWR1U5M0lpbnFGMFdvSThTWk9PTGdFMw?oc=5",
+        "tags": [
+          "chip.de"
         ]
       }
     ],
@@ -413,16 +412,6 @@
         ]
       },
       {
-        "title": "Normenkontrollrat: Günstiger bauen mit einfachen Standards - staatsanzeiger.de",
-        "source": "staatsanzeiger.de",
-        "publishedAt": "2026-06-18T08:28:00+00:00",
-        "summary": "Normenkontrollrat: Günstiger bauen mit einfachen Standards staatsanzeiger.de",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1CQ1EyQVZOcW1LZ1hod0NEdjIwbW5RVk83UF94RmltWHpfVXpBaGdHT1ZLUVRlOTMwczE3NVBXNTVMaGtpelJvUC1PQmRPTFgzX3hhN0xUNm5nZGYwSmJJXy1zT1hYdk55UEV0MkdnclJmZFdaTGRMNzdTSUVWSE9odTdiOGpyWEdWVnJXbjZQSlpodGs0aHVSc3BtbmZJcUJpbjhaUmZGdzVlcmRZRm1R?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
         "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
         "source": "Nau",
         "publishedAt": "2026-06-17T08:20:23+00:00",
@@ -430,16 +419,6 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
         "tags": [
           "Nau"
-        ]
-      },
-      {
-        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
-        "source": "Handelsblatt Live",
-        "publishedAt": "2026-06-16T12:41:46+00:00",
-        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
-        "tags": [
-          "Handelsblatt Live"
         ]
       },
       {
@@ -488,6 +467,27 @@
         "publishedAt": "2026-05-29T07:00:00+00:00",
         "summary": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert TGA+E Fachplaner",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-25T07:00:00+00:00",
+        "summary": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOG9tYzRUUF9TbWtTdXhZSlYwZnRpX25BVEY2Qi1sdkJYcTZTNzltRnBrMnZ1eUFHN2dCVGN2am5Oc2NOWkFHVXZnSGNCQXZBYlMxNkFsaGc1Q2J3QVZnZm9Ma2JlbmV4WU5nZjZyN2c3Zy1ZXzJGZHRKeEJDd2FneXFQZF9aZlN3d1V4WUFLNlFPQnM1NFlmdE44QjZ2Tk9wZV9tblR5dHpQTFk?oc=5",
+        "tags": [
+          "Gebäudeautomation",
+          "ESG"
+        ]
+      },
+      {
+        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-18T07:00:00+00:00",
+        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
         "tags": [
           "KI"
         ]
