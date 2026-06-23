@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T11:37:36.841376+00:00",
+  "generatedAt": "2026-06-23T14:36:15.957542+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,26 @@
     ],
     "pfs": [
       {
+        "title": "Prime Day 2026: Smarthome-Deals im Überblick - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-06-23T14:11:13+00:00",
+        "summary": "Prime Day 2026: Smarthome-Deals im Überblick Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2s1VmhyaDJoNHZzVnlfaldOb2t0VWF5QWFUQm9oOUx0VXZ4Ym0tY3dHYVBSVTZMdkpIcmNuM0RpYXhDLS15czhLM2RUa1B2by12UEdycDhTU0x5UTZRaXZicG01dU1UZHE0Vk56cGVXNW1ScWxJcExrXzJ5eUhBU08tdmU0RlF4TlFlLXpDSTMyNWxKSnd2d2dLZkhOVFV6eFBuWi1zazRwZw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden - connect.de",
+        "source": "connect.de",
+        "publishedAt": "2026-06-23T12:33:26+00:00",
+        "summary": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden connect.de",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG4wRlJBSUhRZmlWSmtKNUJWY1ZId2RhNlhQc1NWUnN6eXpqbFF3dXNDaVFXSnRDMmg0Q19iYTBfR1hoV1FwVHRmWHNCSDQzS1BRRHhuZHBfcDJaeWlKMWdkeGFOY3Z4M3VaQW1vSTFrbWJNRDNYUGxRXzEwNkc5U3NDdm9rc3NCUXlGTy1rLUtqMVhqZ2YxeHdOMFBPdUU?oc=5",
+        "tags": [
+          "connect.de"
+        ]
+      },
+      {
         "title": "Sicherheitstechnik von X-Sense zum Prime Day reduziert - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-06-23T09:52:28+00:00",
@@ -199,6 +219,16 @@
         ]
       },
       {
+        "title": "Test: Die beste WLAN-Steckdose - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-06-16T07:00:00+00:00",
+        "summary": "Test: Die beste WLAN-Steckdose FAZ",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rOGp2VUUzWXl3c04zaUpnNkZWMDRDVzRRVllZWUwwbGtoelZfTExuUTBteU1lYWFVeEpxUEdjckN0TWMzS0VibzJCX2ZCVU9uUExIYmJvcWJrYzRDblRVUFJnQXl1M25qWGpyTE54dw?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
         "title": "Paramount+ startet Animationsserie Among Us in Deutschland - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-06-10T07:00:00+00:00",
@@ -216,36 +246,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFFpc1ByLVgzWHFyemlfdlRlODN1c2NzeG1KWDFzU1hNLTBVenR5SE9PVTBKWGE0cGJ0cGtMc3VOTG9fYm8xeHdjWFVQSWR2T3RPaE5adkxpdkEydm5EbTRJNkNGV3ZaYXdnWTlINHV6LUt4NG9GS1JrVkZBZmU2MV9tSF90MDJZejZfTUNfeFY?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 4/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdnYySnpvR3lDdjZSQXhQNzRkOVJQblREcTNuV2dyaXNkLTlQSVRzcDJZdHQ4UzdBTlp5SUZfNDIwMEU4LUhMemZqd2k3YmlaUlh2cEVvdlFvc3FXZk40V25IWkt1cS05bnEtVzNlLUY0MFd6MTZ3eTZnTnRLS3gzMVpVdkh0dW9CUno1UVV6TTlWSWNzQzFNa1Z3?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 8/12 Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMDc3di0tTHRFSjB5czhseWtfR1NvZi1aZ1lKSS1xaWFPN0tPbDF3MGxGalFCSzRUUjh4TWROSXBUT2wwQ250UjlNV2FpbGNBVXJJbU4yQVRWNldoVXk3Z1V4NmNKek5SUGNjbU9BTFhOZFVyaUZaLTk4NG5DMTgtdV9mSlVGaVdNUnlBTm5xeHk5X1NYMkd5ZW1B?oc=5",
-        "tags": [
-          "Bosch"
         ]
       }
     ],
@@ -281,6 +281,16 @@
         ]
       },
       {
+        "title": "Türtechnik erfüllt Brandschutzanforderungen - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-06-10T05:00:00+00:00",
+        "summary": "Türtechnik erfüllt Brandschutzanforderungen elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2tiWWhrV0dMTnU2TV9SOGNjQ2tocWNqX2NobkVoVlBBOE8yMXMwTEU1SEtlcGVvVHdXMVdTT1lRMWJsNy1IUkFxOUczMG1FN2Fsd2tVSU16Y1hyellqUlpLeHVialhWSVZxRjhFa2pmcmFlYjh4Z1FZZWlQLXlzZzlCUQ?oc=5",
+        "tags": [
+          "elektro.net"
+        ]
+      },
+      {
         "title": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-05-24T07:00:00+00:00",
@@ -288,16 +298,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9rcXNYeGF1WU1lVEl6dHVnSlpkdlZVU094Qk1hbTFHUTNhaGVBR1NvcHQ5dktDdzNRVzlxXy1zLXg0amJfamZONEVyNUNJSloyRFNYRUp1Z0otaDVZV1B4dHU2MVVhRFpsWWUzTEJCbWdOMU9YSEMzazBtZy1MX3NiZFNjb0loNlFIOVpyc1RHTmJOSkwtMXNzRlRVT3RoZEUwUm43OGF4WUJPTmNMNlBiYndick4yN0dKb2dVakt6aG15MVhBNQ?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Baden‑Württemberg‑Tag: Oberkirch feiert 300 Jahre Brennrecht - Baden Online",
-        "source": "Baden Online",
-        "publishedAt": "2026-05-17T07:00:00+00:00",
-        "summary": "Baden‑Württemberg‑Tag: Oberkirch feiert 300 Jahre Brennrecht Baden Online",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54bVBrMDRBd01Mc3dnNlMwUUVsNFVtT3ZZM2R6bVYxYXdQWVdOS0QtQmhhSEpxTGNDT29UWHhQS3VGN05Pa1pIVmV1bTZObDUtU2JwNE13UWs3MlJld1Q4Mm93ZzBIakVYUlVVUXBDRkNzR3E3YnNVWHVfaktUdU0?oc=5",
-        "tags": [
-          "Baden Online"
         ]
       },
       {
@@ -341,6 +341,16 @@
         ]
       },
       {
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
+        "source": "handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
         "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
         "source": "CoinDesk",
         "publishedAt": "2026-02-15T08:00:00+00:00",
@@ -358,16 +368,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
           "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-01-09T08:00:00+00:00",
-        "summary": "Apollo Global Management: Wie der alternative Investment-Gigant zur Infrastruktur des globalen Kapitals wird AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0pWckZOaXZ5Q29ManhrUl85SXprYno2aklXb25sNzM3NlJHWmNXam0tODNDbkkzVlF5U3JnY0VBWTVCYUJncElHM2UyRlhnTUhQWE5henQxQk1pTk5vdDgzSUhPTkNXbzdwQTQ0SlZualpIVURsQkQ4X1RlTHVoYnhhMTFCOUg2eDR0cEpIRTl0MkdhUEtWUm9MRTl3eDR5ckM4Ui1XbEJGNDlHTml6REVZd1NWb1Y5TmZ0ZlVwWU04NjQ?oc=5",
-        "tags": [
-          "Apollo"
         ]
       }
     ],
@@ -410,6 +410,16 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
         "tags": [
           "Nau"
+        ]
+      },
+      {
+        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
+        "source": "Handelsblatt Live",
+        "publishedAt": "2026-06-16T12:41:46+00:00",
+        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
+        "tags": [
+          "Handelsblatt Live"
         ]
       },
       {
@@ -479,16 +489,6 @@
         "publishedAt": "2026-05-19T07:00:00+00:00",
         "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-18T07:00:00+00:00",
-        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
         "tags": [
           "KI"
         ]
