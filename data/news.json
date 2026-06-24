@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-06-24T15:30:35.221861+00:00",
+  "generatedAt": "2026-06-24T17:49:26.756298+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-04T07:00:00+00:00",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
+        "tags": [
+          "Teltarif"
+        ]
+      },
       {
         "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
         "source": "Siemens press",
@@ -14,6 +24,26 @@
         ]
       },
       {
+        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-05-22T07:00:00+00:00",
+        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
+        "tags": [
+          "elektro.net"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-04-27T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
         "title": "Cybersecurity für die Pharmaproduktion - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-23T13:31:53+00:00",
@@ -21,6 +51,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
         ]
       },
       {
@@ -44,16 +84,6 @@
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
         "source": "Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -61,6 +91,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -78,49 +118,9 @@
         "source": "Siemens press",
         "publishedAt": "2026-03-27T07:00:00+00:00",
         "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Mit dieser Überwachungskamera jagen Sie jeden Einbrecher in die Flucht – jetzt auch günstiger! - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-03-25T07:00:00+00:00",
-        "summary": "Mit dieser Überwachungskamera jagen Sie jeden Einbrecher in die Flucht – jetzt auch günstiger! Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbU5qdHl0anBuaXVUd2k1dVN1VHJjc3RVTVVJTXVIbEVvVU5Ib3IwclJMbFVFYm5kWmcwUkdubThSRExhbnBWLTktYmRuZlpCa0k1d0VyVElhRzZZdTNoT01neDA1WDdYaXNtVXRtZEN0YndwQ29VUG5FVVRxMkVXSzlnak5CZE5yaldtbGwwN0hnMzJxcnA5UzhtWjFiYmhubU9leXczQW9kcmJraU5V?oc=5",
-        "tags": [
-          "Computer Bild"
-        ]
-      },
-      {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt - Ntv",
-        "source": "Ntv",
-        "publishedAt": "2026-01-13T08:00:00+00:00",
-        "summary": "Baden-Württemberg: Bosch-Werk mit 600 Mitarbeitern zweimal an einem Tag geräumt Ntv",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUklXOEN4cm02eE4xLXRRS3N3SENXdkxhd0hmRjFsb3gyMXdLdzVPTmpYSkl1U1BSLTNqeGd4VW9PaXg5YlBrX05wNnNldHlCNFR5SVB6X1dOVHdCYkxVaDIwOXc1a2dteHM1ZU5Hb0Zpa0ltOW9QWEpXakdBV1p5ZmdudFJtOUlXVWFlZ1NJV0FOLTN4VWEzVzFiRGcyVTBUR0lCdElMMlRuZGozV2FKdTlTbENoTTV1TEhCMXVfS25fckVyRnc?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Disconebel löst Feuerwehreinsatz in Bruchsal am Freitag aus - Badische Neueste Nachrichten",
-        "source": "Badische Neueste Nachrichten",
-        "publishedAt": "2026-01-11T08:00:00+00:00",
-        "summary": "Disconebel löst Feuerwehreinsatz in Bruchsal am Freitag aus Badische Neueste Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2pUd3V3SzBSN1pvSDVWdmZkUDY2bVJrcnZQZHFLWm9zYVRERHYyR0VvOFFYa2ZWUlJONkktQzBFd1d5cF9LaF9Da0lxTVhPQW5JLXRhTWVHbmV1S1ZKQndxR3hGNDBVZkZsNjFuWjk4bnZjZlRTRmFQWGxNYURheHJZRVNicDdZb3dZ?oc=5",
-        "tags": [
-          "Badische Neueste Nachrichten"
         ]
       }
     ],
@@ -413,16 +413,6 @@
         ]
       },
       {
-        "title": "Normenkontrollrat: Günstiger bauen mit einfachen Standards - staatsanzeiger.de",
-        "source": "staatsanzeiger.de",
-        "publishedAt": "2026-06-18T08:28:00+00:00",
-        "summary": "Normenkontrollrat: Günstiger bauen mit einfachen Standards staatsanzeiger.de",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1CQ1EyQVZOcW1LZ1hod0NEdjIwbW5RVk83UF94RmltWHpfVXpBaGdHT1ZLUVRlOTMwczE3NVBXNTVMaGtpelJvUC1PQmRPTFgzX3hhN0xUNm5nZGYwSmJJXy1zT1hYdk55UEV0MkdnclJmZFdaTGRMNzdTSUVWSE9odTdiOGpyWEdWVnJXbjZQSlpodGs0aHVSc3BtbmZJcUJpbjhaUmZGdzVlcmRZRm1R?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
         "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
         "source": "Nau",
         "publishedAt": "2026-06-17T08:20:23+00:00",
@@ -430,6 +420,16 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
         "tags": [
           "Nau"
+        ]
+      },
+      {
+        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
+        "source": "Handelsblatt Live",
+        "publishedAt": "2026-06-16T12:41:46+00:00",
+        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
+        "tags": [
+          "Handelsblatt Live"
         ]
       },
       {
@@ -473,6 +473,16 @@
         ]
       },
       {
+        "title": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude - Rheinische Anzeigenblätter",
+        "source": "Rheinische Anzeigenblätter",
+        "publishedAt": "2026-05-29T07:00:00+00:00",
+        "summary": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude Rheinische Anzeigenblätter",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRU05cTJPbjAzTl9TYW1odVZlS0NsX0EwSzhIVFduejZNUmlibENyNHBHQW95UzV0N2p1SUhfVjNBRDU4NmFXSEY5ckFkMVhIOXRraEIyMVR4RVJvVWRRcXVSNVhZenNfVmlRNGk2b0UtdlEwSVVwZHdxLVhLYXY1M21TWXVfTDhIZzlzTW03ZW41bnV3bF9sM1lCeXJDY3lLXzlXTVVsSy1nRkxkQlROQnAwZjRieXJWLTNSNUJNYm1BRHZTeUJJNUEwcmhTdw?oc=5",
+        "tags": [
+          "Rheinische Anzeigenblätter"
+        ]
+      },
+      {
         "title": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-05-25T07:00:00+00:00",
@@ -481,16 +491,6 @@
         "tags": [
           "Gebäudeautomation",
           "ESG"
-        ]
-      },
-      {
-        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-18T07:00:00+00:00",
-        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
