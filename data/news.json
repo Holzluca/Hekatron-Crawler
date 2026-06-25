@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T20:52:16.629091+00:00",
+  "generatedAt": "2026-06-25T22:17:13.286578+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -137,6 +137,16 @@
         ]
       },
       {
+        "title": "X Sense Rauchmelder - iphone-ticker.de",
+        "source": "iphone-ticker.de",
+        "publishedAt": "2026-06-25T11:54:27+00:00",
+        "summary": "X Sense Rauchmelder iphone-ticker.de",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTlZWnN1U2tpdml1R2FRSzZPd2dFZmJaNEFYSzdYaHA5LWNlanpJa3dNUFRhdEVycUZSb2twMnQtTHNwck9mZFZjYVFWUS0tTWVfc0hOU1ZiSWFWZHlkSk45NWNZVDNWZjZtM09IbXdZMHZMd2l1VzNvOWVKZllaQUtsVV94QkdnaVpJSTNOSHQzTGlwTUpabE5sSUZ0dWxiSWVQVjdOTTE3anJjS3ZIcGRrRFNoZw?oc=5",
+        "tags": [
+          "iphone-ticker.de"
+        ]
+      },
+      {
         "title": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht - GameStar",
         "source": "GameStar",
         "publishedAt": "2026-06-25T11:16:00+00:00",
@@ -238,16 +248,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Chrome 149: Google schließt 33 Sicherheitslücken - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-06-17T07:00:00+00:00",
-        "summary": "Chrome 149: Google schließt 33 Sicherheitslücken Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUR2eExVR2pfdDE4VnVpYzVkZXR6a21VNnBxS2t5SC01aEtfVDlibV9IS01fejlFUVJRMHpicXgweDVQWGxmalRTdjRQaVprTWFxdVZRcERKMS1NS3ZkaE95bzBId2kwc2I0aEs2X2FsVjJVNlB0dG15a3VwdWxMdTc5VXhuQQ?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
@@ -312,13 +312,13 @@
         ]
       },
       {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
         "tags": [
-          "Augsburger Allgemeine"
+          "Apollo"
         ]
       },
       {
@@ -385,16 +385,6 @@
         ]
       },
       {
-        "title": "Telehouse eröffnet das „Gebäude N“ - DataCenter-Insider",
-        "source": "DataCenter-Insider",
-        "publishedAt": "2026-06-23T16:00:00+00:00",
-        "summary": "Telehouse eröffnet das „Gebäude N“ DataCenter-Insider",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkNlb2Jnclc1cEtXQXBhQVV2RlBJSGw4X2RPZ1NtM0lRU0pwY09KWERCRWg1NXRQSDBydlZvQUVUazJSVlUyY3FVX3AyY3AwSHp6N1d4R3MzQ0d1dVZTblMyYkdrVHhaWm10ckI2OGI2YnVMNWNRZWQ0eDFMMzZMc2Uza2ZidTg1X21kSXZQQzBKLU9yS1BvRGVjbE81ZFZ1d0F5ek5BOA?oc=5",
-        "tags": [
-          "DataCenter-Insider"
-        ]
-      },
-      {
         "title": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-06-21T13:35:07+00:00",
@@ -402,16 +392,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeERzUzVJX1pUdkVYTU5VOUZaQ3Jaa2dzYVN1T2FibERORmM5N2tra1ZJMDVneUI3bHNHbUZiMTd5ZmRFeVVpemcyOEdqQVZOOU8xSGZRaXBsQjg4azNjNnFIZm83a1dQZl9nYjVrRzhYd2VQUXU4ZWhkcHFoZUxmWjVSVEZLckcxQndmNmJ3b2xXSnQ5WkowOTRTeVpVcnllOHBiVUdvNzdwMHJIU21tWWN2UWZjQlNJbmpV?oc=5",
         "tags": [
           "Ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "Normenkontrollrat: Günstiger bauen mit einfachen Standards - staatsanzeiger.de",
-        "source": "staatsanzeiger.de",
-        "publishedAt": "2026-06-18T08:28:00+00:00",
-        "summary": "Normenkontrollrat: Günstiger bauen mit einfachen Standards staatsanzeiger.de",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1CQ1EyQVZOcW1LZ1hod0NEdjIwbW5RVk83UF94RmltWHpfVXpBaGdHT1ZLUVRlOTMwczE3NVBXNTVMaGtpelJvUC1PQmRPTFgzX3hhN0xUNm5nZGYwSmJJXy1zT1hYdk55UEV0MkdnclJmZFdaTGRMNzdTSUVWSE9odTdiOGpyWEdWVnJXbjZQSlpodGs0aHVSc3BtbmZJcUJpbjhaUmZGdzVlcmRZRm1R?oc=5",
-        "tags": [
-          "Normen"
         ]
       },
       {
@@ -493,6 +473,26 @@
         "tags": [
           "Gebäudeautomation",
           "ESG"
+        ]
+      },
+      {
+        "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
+        "source": "BASIC thinking",
+        "publishedAt": "2026-05-19T07:00:00+00:00",
+        "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-18T07:00:00+00:00",
+        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
