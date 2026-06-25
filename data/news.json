@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T08:19:07.272948+00:00",
+  "generatedAt": "2026-06-25T11:12:29.993904+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -51,6 +51,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
         ]
       },
       {
@@ -112,19 +122,19 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Amazon Prime Day 2026: Die besten Smarthome-Deals auf einen Blick - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-06-25T08:17:48+00:00",
+        "summary": "Amazon Prime Day 2026: Die besten Smarthome-Deals auf einen Blick Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2s1VmhyaDJoNHZzVnlfaldOb2t0VWF5QWFUQm9oOUx0VXZ4Ym0tY3dHYVBSVTZMdkpIcmNuM0RpYXhDLS15czhLM2RUa1B2by12UEdycDhTU0x5UTZRaXZicG01dU1UZHE0Vk56cGVXNW1ScWxJcExrXzJ5eUhBU08tdmU0RlF4TlFlLXpDSTMyNWxKSnd2d2dLZkhOVFV6eFBuWi1zazRwZw?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
       {
         "title": "Ei Electronics Ei650 Rauchmelder für 18,84€ - klamm.de",
         "source": "klamm.de",
@@ -134,16 +144,6 @@
         "tags": [
           "Ei",
           "Ei Electronics"
-        ]
-      },
-      {
-        "title": "Amazon Prime Day 2026: Die besten Smarthome-Deals auf einen Blick - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-06-23T14:11:13+00:00",
-        "summary": "Amazon Prime Day 2026: Die besten Smarthome-Deals auf einen Blick Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2s1VmhyaDJoNHZzVnlfaldOb2t0VWF5QWFUQm9oOUx0VXZ4Ym0tY3dHYVBSVTZMdkpIcmNuM0RpYXhDLS15czhLM2RUa1B2by12UEdycDhTU0x5UTZRaXZicG01dU1UZHE0Vk56cGVXNW1ScWxJcExrXzJ5eUhBU08tdmU0RlF4TlFlLXpDSTMyNWxKSnd2d2dLZkhOVFV6eFBuWi1zazRwZw?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -231,7 +231,7 @@
       {
         "title": "Chrome 149: Google schließt 33 Sicherheitslücken - Caschys Blog",
         "source": "Caschys Blog",
-        "publishedAt": "2026-06-17T04:26:00+00:00",
+        "publishedAt": "2026-06-17T07:00:00+00:00",
         "summary": "Chrome 149: Google schließt 33 Sicherheitslücken Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUR2eExVR2pfdDE4VnVpYzVkZXR6a21VNnBxS2t5SC01aEtfVDlibV9IS01fejlFUVJRMHpicXgweDVQWGxmalRTdjRQaVprTWFxdVZRcERKMS1NS3ZkaE95bzBId2kwc2I0aEs2X2FsVjJVNlB0dG15a3VwdWxMdTc5VXhuQQ?oc=5",
         "tags": [
@@ -288,16 +288,6 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2tiWWhrV0dMTnU2TV9SOGNjQ2tocWNqX2NobkVoVlBBOE8yMXMwTEU1SEtlcGVvVHdXMVdTT1lRMWJsNy1IUkFxOUczMG1FN2Fsd2tVSU16Y1hyellqUlpLeHVialhWSVZxRjhFa2pmcmFlYjh4Z1FZZWlQLXlzZzlCUQ?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-05-24T07:00:00+00:00",
-        "summary": "Apollo Global Management-Aktie (US0376123065): Wachstumsstrategie, frische Quartalszahlen und Bedeut Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW9rcXNYeGF1WU1lVEl6dHVnSlpkdlZVU094Qk1hbTFHUTNhaGVBR1NvcHQ5dktDdzNRVzlxXy1zLXg0amJfamZONEVyNUNJSloyRFNYRUp1Z0otaDVZV1B4dHU2MVVhRFpsWWUzTEJCbWdOMU9YSEMzazBtZy1MX3NiZFNjb0loNlFIOVpyc1RHTmJOSkwtMXNzRlRVT3RoZEUwUm43OGF4WUJPTmNMNlBiYndick4yN0dKb2dVakt6aG15MVhBNQ?oc=5",
-        "tags": [
-          "Apollo"
         ]
       },
       {
@@ -368,6 +358,16 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
+        "source": "CoinDesk",
+        "publishedAt": "2026-02-15T08:00:00+00:00",
+        "summary": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
@@ -444,16 +444,6 @@
         ]
       },
       {
-        "title": "Siemens Aktie: Fehlalarm in Desigo CC - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-06-15T07:00:00+00:00",
-        "summary": "Siemens Aktie: Fehlalarm in Desigo CC Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
-        "tags": [
-          "Ad-hoc-news.de"
-        ]
-      },
-      {
         "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
         "source": "TGA+E Fachplaner",
         "publishedAt": "2026-06-09T07:00:00+00:00",
@@ -491,6 +481,16 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRU05cTJPbjAzTl9TYW1odVZlS0NsX0EwSzhIVFduejZNUmlibENyNHBHQW95UzV0N2p1SUhfVjNBRDU4NmFXSEY5ckFkMVhIOXRraEIyMVR4RVJvVWRRcXVSNVhZenNfVmlRNGk2b0UtdlEwSVVwZHdxLVhLYXY1M21TWXVfTDhIZzlzTW03ZW41bnV3bF9sM1lCeXJDY3lLXzlXTVVsSy1nRkxkQlROQnAwZjRieXJWLTNSNUJNYm1BRHZTeUJJNUEwcmhTdw?oc=5",
         "tags": [
           "Rheinische Anzeigenblätter"
+        ]
+      },
+      {
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
+        "source": "Euronews",
+        "publishedAt": "2026-05-28T07:00:00+00:00",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
+        "tags": [
+          "AI"
         ]
       }
     ]
