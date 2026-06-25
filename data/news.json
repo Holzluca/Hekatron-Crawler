@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T22:44:55.511638+00:00",
+  "generatedAt": "2026-06-25T00:03:43.396453+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -198,6 +198,16 @@
         ]
       },
       {
+        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-22T23:24:32+00:00",
+        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
+        "tags": [
+          "SmarthomeAssistent"
+        ]
+      },
+      {
         "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-06-22T22:37:18+00:00",
@@ -215,16 +225,6 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUR2eExVR2pfdDE4VnVpYzVkZXR6a21VNnBxS2t5SC01aEtfVDlibV9IS01fejlFUVJRMHpicXgweDVQWGxmalRTdjRQaVprTWFxdVZRcERKMS1NS3ZkaE95bzBId2kwc2I0aEs2X2FsVjJVNlB0dG15a3VwdWxMdTc5VXhuQQ?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Test: Die beste WLAN-Steckdose - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-06-16T07:00:00+00:00",
-        "summary": "Test: Die beste WLAN-Steckdose FAZ",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rOGp2VUUzWXl3c04zaUpnNkZWMDRDVzRRVllZWUwwbGtoelZfTExuUTBteU1lYWFVeEpxUEdjckN0TWMzS0VibzJCX2ZCVU9uUExIYmJvcWJrYzRDblRVUFJnQXl1M25qWGpyTE54dw?oc=5",
-        "tags": [
-          "FAZ"
         ]
       },
       {
