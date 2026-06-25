@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T04:41:54.591171+00:00",
+  "generatedAt": "2026-06-25T08:19:07.272948+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -51,16 +51,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
         ]
       },
       {
@@ -122,9 +112,30 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Ei Electronics Ei650 Rauchmelder für 18,84€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-06-23T17:04:43+00:00",
+        "summary": "Ei Electronics Ei650 Rauchmelder für 18,84€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmF1c2gzYlpJUEJRTnNYVUwzdkYwa3MxM0stSzVnSnpVYlB1RnpTdDVsYU52ZnEzNlplQUdSLWoxVEFzYUxhYVpXcmR5enA1WnpxOVdfZ3lJeXVSazhXdGJvOGVjRDZGZE9oNWktUFJ4QmpPc0xfUDBmMUFEdU5LX0lGTW9vYmxCWFZmSQ?oc=5",
+        "tags": [
+          "Ei",
+          "Ei Electronics"
+        ]
+      },
       {
         "title": "Amazon Prime Day 2026: Die besten Smarthome-Deals auf einen Blick - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
@@ -236,16 +247,6 @@
         "tags": [
           "Caschys Blog"
         ]
-      },
-      {
-        "title": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
@@ -277,6 +278,16 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjJJWDFnclo2bkZBVWpVV3AtdUNZRkNKUTZFbHVfdHZET054NWpDZDQzQkh5RXhHRWgzeGJnUWphMFBNVUtodW1VUlFMeXpkTGFJdEowaWNiaFdheVE1NlhkSnNRUmNYbEJLME93R29yVVAxYlJ2b29sS3BxTTlNRTBDU3p5Z3JoQU9DcHZlTHhNUUdSMTl6SGNHVTVjUVhlclA2ei1yVXhna05qNmNRRXEzZjU4dUtzaWcxem4wNWVEOFptX1B1LXpLcw?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Türtechnik erfüllt Brandschutzanforderungen - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-06-10T05:00:00+00:00",
+        "summary": "Türtechnik erfüllt Brandschutzanforderungen elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2tiWWhrV0dMTnU2TV9SOGNjQ2tocWNqX2NobkVoVlBBOE8yMXMwTEU1SEtlcGVvVHdXMVdTT1lRMWJsNy1IUkFxOUczMG1FN2Fsd2tVSU16Y1hyellqUlpLeHVialhWSVZxRjhFa2pmcmFlYjh4Z1FZZWlQLXlzZzlCUQ?oc=5",
+        "tags": [
+          "elektro.net"
         ]
       },
       {
@@ -350,23 +361,13 @@
         ]
       },
       {
-        "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
-        "source": "CoinDesk",
-        "publishedAt": "2026-02-15T08:00:00+00:00",
-        "summary": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
+        "source": "handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
         "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-01-17T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
+          "GEZE"
         ]
       }
     ],
@@ -443,6 +444,16 @@
         ]
       },
       {
+        "title": "Siemens Aktie: Fehlalarm in Desigo CC - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-06-15T07:00:00+00:00",
+        "summary": "Siemens Aktie: Fehlalarm in Desigo CC Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
+        ]
+      },
+      {
         "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
         "source": "TGA+E Fachplaner",
         "publishedAt": "2026-06-09T07:00:00+00:00",
@@ -480,17 +491,6 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRU05cTJPbjAzTl9TYW1odVZlS0NsX0EwSzhIVFduejZNUmlibENyNHBHQW95UzV0N2p1SUhfVjNBRDU4NmFXSEY5ckFkMVhIOXRraEIyMVR4RVJvVWRRcXVSNVhZenNfVmlRNGk2b0UtdlEwSVVwZHdxLVhLYXY1M21TWXVfTDhIZzlzTW03ZW41bnV3bF9sM1lCeXJDY3lLXzlXTVVsSy1nRkxkQlROQnAwZjRieXJWLTNSNUJNYm1BRHZTeUJJNUEwcmhTdw?oc=5",
         "tags": [
           "Rheinische Anzeigenblätter"
-        ]
-      },
-      {
-        "title": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-25T07:00:00+00:00",
-        "summary": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOG9tYzRUUF9TbWtTdXhZSlYwZnRpX25BVEY2Qi1sdkJYcTZTNzltRnBrMnZ1eUFHN2dCVGN2am5Oc2NOWkFHVXZnSGNCQXZBYlMxNkFsaGc1Q2J3QVZnZm9Ma2JlbmV4WU5nZjZyN2c3Zy1ZXzJGZHRKeEJDd2FneXFQZF9aZlN3d1V4WUFLNlFPQnM1NFlmdE44QjZ2Tk9wZV9tblR5dHpQTFk?oc=5",
-        "tags": [
-          "Gebäudeautomation",
-          "ESG"
         ]
       }
     ]
