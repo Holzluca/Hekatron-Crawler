@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T06:50:12.092449+00:00",
+  "generatedAt": "2026-06-26T10:18:33.463389+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -51,6 +51,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
         ]
       },
       {
@@ -112,19 +122,39 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-26T09:20:00+00:00",
+        "summary": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QLXduUFJ3YWhIYjRTUGQweXliVm03N2FYRDV6S1VQa0FqREZoQW55TTNCQjhud3l6TVlWWFJEaUxnUi01TzRLMmM0QkFSSC1VNDJDTjR5NHN1U05uVGRjdVZtZDFHZm5UbzNKSnRsTUo5M3A4SDl3ei1R?oc=5",
+        "tags": [
+          "Teltarif"
+        ]
+      },
+      {
+        "title": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Personen und Geräusche besser erkennen - GoogleWatchBlog",
+        "source": "GoogleWatchBlog",
+        "publishedAt": "2026-06-26T09:00:59+00:00",
+        "summary": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Personen und Geräusche besser erkennen GoogleWatchBlog",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnRtU0tQU20xckpjSnpGV2o3eVFSVS01UmJFc2NpbTRsX3QxQkdiYlFLSWFfbjRIemxmLUNLam5Dbms4dWtMYzJPZnREbExkY014ODVrZDVHNjFnaTNWU1RLVjYwSlptQ0p4bGE0anhweUNxRWZfTG1JOWUxSkk4WVVQN2paclpnR3RkNXo2MFNwMHJYYkRScGxmU2p5dVg0bjAwbTh2YjU1N2F0aDhieTJxdHlXV0JMRTNIYk1LbEI3TDl5ZmdWY3R5amJySEFmVnfSAdcBQVVfeXFMUFkxYzgxR1Jkc1lTOFRVa2lCN1V3eVNhTU0wXy1kVWdQTEVGaFhVQzBEYmNlNWNubE5iSjhwYU10c1pkcjVwanRXN0drMVNXVXBtQ3lwQVJ4LWFUWGxEWXRvMWZzSTIwZnBRTWdUczY2VDlVYmlveHRJN0dyeWVGRVlzNDlGS3hMaE5WZlNmWGRybU4zYWprMkt4aFdOWFpPenIyTVNRWkxEMHNWZ3NPRXRvYnZZYWQ3UTZSQVpVRjhKUnNrQllnRHR3MUVlTVNZWmI5dlhReGs?oc=5",
+        "tags": [
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-26T06:53:18+00:00",
+        "summary": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
       {
         "title": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen - iphone-ticker.de",
         "source": "iphone-ticker.de",
@@ -214,37 +244,6 @@
         "publishedAt": "2026-06-23T07:53:00+00:00",
         "summary": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert Ntv",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZThCZ3VHclRMeDN2aUFGWUMxVmk1QjhieVh1dnRCYnlyVEJCWmY1VlFvbTVrYWVjX2hfNXNMUFg1cUNjSEFGMTl3MnZEdGNQNUZCeVljZHpTUnVBYkU1bjZwamgzX2NnS2luZk1hakVVMnpoQTVDSW14SERPSUJBcmxGOTNad2RoQl84SXBSSC0yWUNOaXZHYTJmWXgwWmoyMzRRRm5rbjMxbDBo?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Smart Home Schnäppchen: Günstig auf moderne Haussteuerung umsteigen - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-23T06:45:00+00:00",
-        "summary": "Smart Home Schnäppchen: Günstig auf moderne Haussteuerung umsteigen Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yTWZZSGQybDlYcllMTGNWZHNXZVYzT1pNM0JBMmpOaWUzV3ZUOU5UNkJjRlYzcFlMVzh5QTMyVWgtWTJYNXFJbE5hcDFRcmc2UEVpbGI2QUpON21raDEzdUtYM2p2M1pzWmhELUlZd2JEWTdwME5NdGFoaDE?oc=5",
-        "tags": [
-          "Ei",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-22T23:24:32+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-22T22:37:18+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
         "tags": [
           "Ei"
         ]
