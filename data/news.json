@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T17:14:06.304903+00:00",
+  "generatedAt": "2026-06-26T19:15:56.331912+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -300,16 +300,6 @@
         ]
       },
       {
-        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-20T07:00:00+00:00",
-        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-17T07:00:00+00:00",
@@ -367,6 +357,16 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal - CoinDesk",
+        "source": "CoinDesk",
+        "publishedAt": "2026-02-15T08:00:00+00:00",
+        "summary": "Der Wall-Street-Riese Apollo folgt BlackRock beim Vorstoß in DeFi mit Morpho-Token-Deal CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2VnQVhUMkxTODNheW9rX0dNbWNEWGJPS1VvcjFGdXZvc3hsemVBSGUyMGNieGZqVkktX0pzYkpseFRBMjB2dWJmSFpmOG0taklZaGhGNHVuT2RIMVJJekZjbWpNN194SURDNDdZaG53T2NCR1F3V0JPN3pla09fNEFaYmRHZk5SZzhvT2pLNHQ3WTFUQURlT0ctRHR1THptYkdfeGRIWnk2NXp4SGZ3RHZpMGo0Zw?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
@@ -463,6 +463,17 @@
         ]
       },
       {
+        "title": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-25T07:00:00+00:00",
+        "summary": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOG9tYzRUUF9TbWtTdXhZSlYwZnRpX25BVEY2Qi1sdkJYcTZTNzltRnBrMnZ1eUFHN2dCVGN2am5Oc2NOWkFHVXZnSGNCQXZBYlMxNkFsaGc1Q2J3QVZnZm9Ma2JlbmV4WU5nZjZyN2c3Zy1ZXzJGZHRKeEJDd2FneXFQZF9aZlN3d1V4WUFLNlFPQnM1NFlmdE44QjZ2Tk9wZV9tblR5dHpQTFk?oc=5",
+        "tags": [
+          "Gebäudeautomation",
+          "ESG"
+        ]
+      },
+      {
         "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
         "source": "BASIC thinking",
         "publishedAt": "2026-05-19T07:00:00+00:00",
@@ -478,16 +489,6 @@
         "publishedAt": "2026-05-18T07:00:00+00:00",
         "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme - BornCity",
-        "source": "BornCity",
-        "publishedAt": "2026-05-16T07:00:00+00:00",
-        "summary": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme BornCity",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
         "tags": [
           "KI"
         ]
