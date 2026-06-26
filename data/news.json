@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T10:18:33.463389+00:00",
+  "generatedAt": "2026-06-26T12:30:01.044149+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -126,6 +126,16 @@
     ],
     "pfs": [
       {
+        "title": "Brandschutz-Upgrade zum Prime Day: Dieses Smart-Home-Angebot sollten Hausbesitzer jetzt kennen - FOCUS online",
+        "source": "FOCUS online",
+        "publishedAt": "2026-06-26T11:29:00+00:00",
+        "summary": "Brandschutz-Upgrade zum Prime Day: Dieses Smart-Home-Angebot sollten Hausbesitzer jetzt kennen FOCUS online",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTzNvRjlVSk1nSGpudnd1NnNkQzRXZk5PSEhFbEZVdFlaTlpseHpWMVNENHFDaHYwZ2NYSFZSUy1HWkdhNkZGRUZycThDQ29wbG5IS2pYZFExdFRabGRsV3cwc1g0QTg3cTNfM0VjVlBpbWNZSzdSY0ZVTDVuUXQweUdTTG9SNTNxZVVFV1AyTWlQN3ZUMkpXWjBMZXZNdlFJMTdSeXdvRzh0ZHprX3U4eVl6ZUJfeE9zYVBYekx2RUttWWJpODF4NldYNlAyeV9IMXBZTGwxbGJTSU10SHcxeHIxMTEyMjNBd3NTQ2lpdk8zTU45ZE5lNVc4TXRub1MtYVpFdHMweWZ3ZWR2dG10Rnpn?oc=5",
+        "tags": [
+          "FOCUS online"
+        ]
+      },
+      {
         "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-26T09:20:00+00:00",
@@ -236,16 +246,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEU0Y19LNGFva2VqcXdmUERDUEc1TjdGNHRYX0ZETy1PaUZOdkxrTG1QVXBhbzY4VTZTYzMzczU5c0FmUmNFOGdZdlJock8wVWF5c21yNzJ4U2NaYkp2bkc5TVA5ck4wWnZuLUZVU2tZVFM3ZWljbG1MRlA4bkY4d2NzTmZXT05WSVE?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert - Ntv",
-        "source": "Ntv",
-        "publishedAt": "2026-06-23T07:53:00+00:00",
-        "summary": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert Ntv",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZThCZ3VHclRMeDN2aUFGWUMxVmk1QjhieVh1dnRCYnlyVEJCWmY1VlFvbTVrYWVjX2hfNXNMUFg1cUNjSEFGMTl3MnZEdGNQNUZCeVljZHpTUnVBYkU1bjZwamgzX2NnS2luZk1hakVVMnpoQTVDSW14SERPSUJBcmxGOTNad2RoQl84SXBSSC0yWUNOaXZHYTJmWXgwWmoyMzRRRm5rbjMxbDBo?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
