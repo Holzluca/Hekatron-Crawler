@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T21:04:09.551460+00:00",
+  "generatedAt": "2026-06-26T22:42:35.967006+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -383,16 +383,6 @@
         ]
       },
       {
-        "title": "Digitaler Wandel: Weiner Gebäudeservice aus Einsiedl stärkt Zukunft durch KI-Workshops - MeinBezirk.at",
-        "source": "MeinBezirk.at",
-        "publishedAt": "2026-06-23T16:19:05+00:00",
-        "summary": "Digitaler Wandel: Weiner Gebäudeservice aus Einsiedl stärkt Zukunft durch KI-Workshops MeinBezirk.at",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVV0WUdEc3U1NkJkWEVnMW41NWlNTTZHek53ZnZBUDZpYmQ1QlJhbUl4eUljUkpScWUzak5OLUIydHVhdk1BakdkaGJRRnFOaTM5SUtKeXYxeE1maUpwNHFGVzU0S1VPNEM3cnpIeGZETVRzLVRMWXFnN2F3MU81R1h5MXplWi1sMGlFSDhlbjAwYXRLOG4wZGZ4Zi1adnZ1eHZRSVgwbE5lcEJXM09YNGJ4WFdKYXRjYjZLa2NQOHVCdw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-06-21T13:35:07+00:00",
@@ -473,22 +463,31 @@
         ]
       },
       {
-        "title": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-25T07:00:00+00:00",
-        "summary": "Johnson Controls: Quartalszahlen und ESG-Impulse für die Gebäudeautomation it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOG9tYzRUUF9TbWtTdXhZSlYwZnRpX25BVEY2Qi1sdkJYcTZTNzltRnBrMnZ1eUFHN2dCVGN2am5Oc2NOWkFHVXZnSGNCQXZBYlMxNkFsaGc1Q2J3QVZnZm9Ma2JlbmV4WU5nZjZyN2c3Zy1ZXzJGZHRKeEJDd2FneXFQZF9aZlN3d1V4WUFLNlFPQnM1NFlmdE44QjZ2Tk9wZV9tblR5dHpQTFk?oc=5",
-        "tags": [
-          "Gebäudeautomation",
-          "ESG"
-        ]
-      },
-      {
         "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
         "source": "BASIC thinking",
         "publishedAt": "2026-05-19T07:00:00+00:00",
         "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-05-18T07:00:00+00:00",
+        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme - BornCity",
+        "source": "BornCity",
+        "publishedAt": "2026-05-16T07:00:00+00:00",
+        "summary": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme BornCity",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
         "tags": [
           "KI"
         ]
