@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T20:35:57.009555+00:00",
+  "generatedAt": "2026-06-27T21:58:21.261605+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -126,6 +126,17 @@
     ],
     "pfs": [
       {
+        "title": "Amazon: X-Sense Smart Home-Basisstation - Ntv",
+        "source": "Ntv",
+        "publishedAt": "2026-06-27T11:08:25+00:00",
+        "summary": "Amazon: X-Sense Smart Home-Basisstation Ntv",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUc0RkFjd0Zmak5VSXZ5YWVEWFppbnh4MjlLRGRvWWxjMndOdTNZdE9yaTBjZ0xPVHBlWVp6NFhPT3VWRTN3aGJ2ZmUwa01xZnhOc3BxUGlaS1JsMlZfUWpqZTB6aDhqVEVzenNjUnRnV2lfeUpsdUdFUExrTElRbmVDU28zU1NvYWNKRzg2cmpodw?oc=5",
+        "tags": [
+          "X-Sense",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Brandschutz-Upgrade zum Prime Day: Dieses Smart-Home-Angebot sollten Hausbesitzer jetzt kennen - FOCUS online",
         "source": "FOCUS online",
         "publishedAt": "2026-06-26T11:29:00+00:00",
@@ -136,16 +147,6 @@
         ]
       },
       {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-26T09:08:32+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
         "title": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Personen und Geräusche besser erkennen - GoogleWatchBlog",
         "source": "GoogleWatchBlog",
         "publishedAt": "2026-06-26T09:00:59+00:00",
@@ -153,16 +154,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnRtU0tQU20xckpjSnpGV2o3eVFSVS01UmJFc2NpbTRsX3QxQkdiYlFLSWFfbjRIemxmLUNLam5Dbms4dWtMYzJPZnREbExkY014ODVrZDVHNjFnaTNWU1RLVjYwSlptQ0p4bGE0anhweUNxRWZfTG1JOWUxSkk4WVVQN2paclpnR3RkNXo2MFNwMHJYYkRScGxmU2p5dVg0bjAwbTh2YjU1N2F0aDhieTJxdHlXV0JMRTNIYk1LbEI3TDl5ZmdWY3R5amJySEFmVnfSAdcBQVVfeXFMUFkxYzgxR1Jkc1lTOFRVa2lCN1V3eVNhTU0wXy1kVWdQTEVGaFhVQzBEYmNlNWNubE5iSjhwYU10c1pkcjVwanRXN0drMVNXVXBtQ3lwQVJ4LWFUWGxEWXRvMWZzSTIwZnBRTWdUczY2VDlVYmlveHRJN0dyeWVGRVlzNDlGS3hMaE5WZlNmWGRybU4zYWprMkt4aFdOWFpPenIyTVNRWkxEMHNWZ3NPRXRvYnZZYWQ3UTZSQVpVRjhKUnNrQllnRHR3MUVlTVNZWmI5dlhReGs?oc=5",
         "tags": [
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-26T06:53:18+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -246,6 +237,16 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEU0Y19LNGFva2VqcXdmUERDUEc1TjdGNHRYX0ZETy1PaUZOdkxrTG1QVXBhbzY4VTZTYzMzczU5c0FmUmNFOGdZdlJock8wVWF5c21yNzJ4U2NaYkp2bkc5TVA5ck4wWnZuLUZVU2tZVFM3ZWljbG1MRlA4bkY4d2NzTmZXT05WSVE?oc=5",
         "tags": [
           "X-Sense"
+        ]
+      },
+      {
+        "title": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert - Ntv",
+        "source": "Ntv",
+        "publishedAt": "2026-06-23T07:53:00+00:00",
+        "summary": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert Ntv",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZThCZ3VHclRMeDN2aUFGWUMxVmk1QjhieVh1dnRCYnlyVEJCWmY1VlFvbTVrYWVjX2hfNXNMUFg1cUNjSEFGMTl3MnZEdGNQNUZCeVljZHpTUnVBYkU1bjZwamgzX2NnS2luZk1hakVVMnpoQTVDSW14SERPSUJBcmxGOTNad2RoQl84SXBSSC0yWUNOaXZHYTJmWXgwWmoyMzRRRm5rbjMxbDBo?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -331,16 +332,6 @@
         ]
       },
       {
-        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-04-05T07:00:00+00:00",
-        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
-        ]
-      },
-      {
         "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
         "source": "Handelsblatt",
         "publishedAt": "2026-03-31T07:00:00+00:00",
@@ -368,6 +359,16 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
         ]
       }
     ],
