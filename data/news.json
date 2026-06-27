@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-06-27T14:58:29.882267+00:00",
+  "generatedAt": "2026-06-27T16:07:33.177678+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
       {
         "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
         "source": "Siemens press",
@@ -21,26 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-05-22T07:00:00+00:00",
-        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
-        "tags": [
-          "elektro.net"
-        ]
-      },
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-04-27T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
         ]
       },
       {
@@ -74,16 +44,6 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "Neue Zürcher Zeitung"
-        ]
-      },
-      {
         "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
         "source": "SAVE AG",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -94,11 +54,32 @@
         ]
       },
       {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Luzerner Zeitung",
-        "source": "Luzerner Zeitung",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Luzerner Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ192TDhDQzVvVFpXUEphMVhlRWdOejNRR2VEZElQR2UtQUczODBVaHY2UjlhMzAyNGx2WE5iM256Y3FXRnlVZDlNOUE4Wk5iTGZrcnhGbGdGc1c3clVEY2x1SGs4bnVtcjRqSk1OM3VkVldHd3JEdlU2UlpCaFZaeUxFSGdTQ0N6a1gzNE5qUUZXRTAyMEQ3VmZPRFFDdVROdWRGWExPVURkaUU?oc=5",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -114,13 +95,34 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Verlässliche Lösungen von Siemens für höchste Sicherheit in Re ... - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Verlässliche Lösungen von Siemens für höchste Sicherheit in Re ... Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONXBBUXpOX01lRHR4cVUzakxQdTA0bHdmQkZoN1paWWMxV3VXMEVnWkNKM2x4VW5RaHJtbEFVTTlfYThBMWl0Yl9HZ0JZUGJ0UFBUR2pYXzVnYVlEc09TaXYteG8tM05Fb1FXSVFYRHJ4T1RfZzRGNGtXZjlaVU0tNlJ2cEJISUFKTHYtVjJ1NGQxSGVzZmtfMlk5Qk4xMV9BOGxLTmVKUzUwOW56X1JLLXBkQ3I5SkxxN05URUp0cWVybG9MNFkw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Mängel beim Brandschutz auch an Hildesheimer Werner-von-Siemens-Schule – mit fatalen Folgen - Hildesheimer Allgemeine Zeitung",
+        "source": "Hildesheimer Allgemeine Zeitung",
+        "publishedAt": "2025-07-16T07:00:00+00:00",
+        "summary": "Mängel beim Brandschutz auch an Hildesheimer Werner-von-Siemens-Schule – mit fatalen Folgen Hildesheimer Allgemeine Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckd6QXd6amJyNkIycnNMdVc5SFhUTW9CZ3ZDTHd0T1Z4OGl4U3B0MW5LX2pnN0E5REQ2Yl9jR25uZ1M1QUVNNnNzem1TT1pBaGNhOGRVcmRZLU5HQlVhcEtZZmZ0eDRBLV9BTURrNnd4TTR0cmtUU1NTR1FtbUNPa3NHVDdRWm5XMk1IWjBVUG1sOWhIYTcwV01OMnBJOEQyRXl6TmhIZmVpS016SGtqRTRYMF9wU0dwREpNTW1JVkJxdmZuM040YUFZNEYySHBFMWpLcEFCTk9nZw?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       }
     ],
@@ -251,11 +253,31 @@
     ],
     "doors": [
       {
+        "title": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet - simplywall.st",
+        "source": "simplywall.st",
+        "publishedAt": "2026-06-20T23:13:15+00:00",
+        "summary": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcHg0RFVqb0w0LXZYUkNOeVZFVWJiM0dtSGFtUl9JUkV1Vzh1X1R1QTRTZm1hV2tYM3JiVlY0azlmNm1VSEFEbU5xQUZsZG9fZnQ2MTJiakg1Sk9rZWhVc01TUzN2VExYYTZUSER3YnY5V3FsVGs4VlBLLVpnRzhZMTRpLUFvdDRNR1VXX1ItRko5aURKTGstLUZlb29UOEVnNVdpT2N2RFREdGlKd3JDeUdNSGZEWWxFeVVBSTJ2eXdtNlhoMHRvcmwzZUZoM3NLSmtOQ2JLdUtzWWlxX1hDajU1bzhkYktFcE9va1930gHzAUFVX3lxTE1rT1UtUGhfSXE0M3dsSFhMU2JpS3BYdGhiRnlmYTFWUUJ5aUZyNmRCVWFpSVpKNWdUQXJaclYxeVgtd3FKMFRKcmZnTGM3bmU3RC1RdnhWN2JZV3BqZkZrTUo3NzN4dEZGTjZhRWRvNXlYdFVrSDU5bmJhYjRxZzF6cHFVcWc3dV83WlpZZ1VzN1NVS2YwS0ZXQnpfLS1Dbzd5WllyemJ5a0JCa2xIR1UtX3FqZkFSVlpZa2dnbmRMMkpaV3A1cXE4Z0ZNbkNfZ1drWFlOQy15R3NLblJNa2hTRk5Ec1d6RHV2dlF4TUFBc040TQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-06-18T07:01:06+00:00",
         "summary": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0xfc1BHTV90MnN4TTZYOWpoVzVUS196dGRBTWhIamlZMUlodEp3d1dfeVBiQ1JmYVVUNnZpemo4VVlWejY1QTEzQ1ZVeld3djhtNDctd1RQcFRzaElZUnUyQVNGSlFuQWR5WGMzczN6Y3p2ZVh6ZE9YYTFCdExRcUNZcnFkVkFGa0dJZmMtNmxrSUJGU2lMYVB1bkJySWl3NDdRUHF3eW9KeXoxWU9RZkdERjRmNUJOSnZlMHc2a3BoY1lFdUYtdw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Foku - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-06-18T05:12:56+00:00",
+        "summary": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Foku Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjJJWDFnclo2bkZBVWpVV3AtdUNZRkNKUTZFbHVfdHZET054NWpDZDQzQkh5RXhHRWgzeGJnUWphMFBNVUtodW1VUlFMeXpkTGFJdEowaWNiaFdheVE1NlhkSnNRUmNYbEJLME93R29yVVAxYlJ2b29sS3BxTTlNRTBDU3p5Z3JoQU9DcHZlTHhNUUdSMTl6SGNHVTVjUVhlclA2ei1yVXhna05qNmNRRXEzZjU4dUtzaWcxem4wNWVEOFptX1B1LXpLcw?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -271,21 +293,11 @@
         ]
       },
       {
-        "title": "Rocky im Cineplex Biberach - cineplex.de",
-        "source": "cineplex.de",
-        "publishedAt": "2026-05-28T16:20:36+00:00",
-        "summary": "Rocky im Cineplex Biberach cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MN3EtODdIcGVfRzFVWVIxRjBnYUpHaUVuY0xJMmNWRmo4M0NmTTd1NlhPcW9DblN4U1hsRHoxakNpLTZLYTBpRjVzRmM1RWxYQVBqSkdyWXNQY2dUMUZQY0NVWm0xQ0FNT3IzaVZvTQ?oc=5",
-        "tags": [
-          "cineplex.de"
-        ]
-      },
-      {
-        "title": "Schon der achte Fall: AfD-Mitarbeiter wieder Zugang zum Bundestag verwehrt - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-05-26T07:00:00+00:00",
-        "summary": "Schon der achte Fall: AfD-Mitarbeiter wieder Zugang zum Bundestag verwehrt apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHJoNXBIbUJkRmRWRmxiS3BVejRYQmEyemY4Tm1YT0VaYkFaajF2TmlFYVpMb2dBYTFPM0RFZ2Z6eTROR0lhd3RaS3VFeTFSa015R0dnanFaN20wMUFYMUdUajc3NzBKOGpFeXdzRnJ3OGUyM0V3VVZzbnE0dW5OQ3dncnpxN2dzTHY1Q2pJME1yMXVuVkdkVjlYc2V4VUc5Q3c?oc=5",
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
+        "publishedAt": "2026-05-08T07:00:00+00:00",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -296,6 +308,46 @@
         "publishedAt": "2026-04-20T07:00:00+00:00",
         "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -319,56 +371,6 @@
         "tags": [
           "GEZE"
         ]
-      },
-      {
-        "title": "Hype um Apollo Global Management: Warum plötzlich alle über diesen Finanz-Giganten reden - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-02-01T08:00:00+00:00",
-        "summary": "Hype um Apollo Global Management: Warum plötzlich alle über diesen Finanz-Giganten reden Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVR5eVJ0aHVoWWFKQTZyN01sdE1TZVIwOGdDSWxVTVd1all2V1AwaEZBa1F0VVRoYVR5Q211X2tTSnFRTW54NzhmU1RZMS1UYUdKWmZYdnE5TWVrTFBtUnA0M2lCamtzYXozZHUyUUNvcHhJcDhkQi1lMmhmLWROM1FXcWRqZUo5c2xIdWZjcTBORTdKUVU2ZldjODlFQUMxUDFpcmJDQmlkZVpYcTFyQi1jZzdVc1IzbV9Ha1ZGTUl3RjdK?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Wegen Enthüllungen über Weimer Media Group: Söder lässt staatliche Förderung des Ludwig-Erhard-Gipfels überprüfen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2025-11-17T08:00:00+00:00",
-        "summary": "Wegen Enthüllungen über Weimer Media Group: Söder lässt staatliche Förderung des Ludwig-Erhard-Gipfels überprüfen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTVdUR0pKSDNibFU0aU1LaEpCTWphZnh0aWhIVXJ0bWUyRGZFWjhxOGZFRFZ4dkpVV3hZZ3NfbHFVWTZPVlJQb19IZlpKakhmdEJDN3dBZVVha21iWVVLY1llLTVFV2lRbjYyRnlScjRNNDVGdWJncnNYZzl4RllvMVNKZEtERWJjLUFxTmVVXzZCZ0lVTTdfWENsMklYaHM1YjRpbzRneDVhcHB2ay1FSi1NcEZlNjBpQ2U3NTZTYjg1WkpxNmJWMmdfWGN3TWdEUXpmdGZzN2hETzBqeHFObGxkQ19TREU?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo erweitert Wealth-Plattform mit drei Evergreen-ELTIFs und erschließt breiteren Zugang zu privaten Märkten - MarketScreener Deutschland",
-        "source": "MarketScreener Deutschland",
-        "publishedAt": "2025-09-24T07:00:00+00:00",
-        "summary": "Apollo erweitert Wealth-Plattform mit drei Evergreen-ELTIFs und erschließt breiteren Zugang zu privaten Märkten MarketScreener Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZDZ2QUJZRldFTElEZVJkYzY5NkJpYWQ5RTBpSkRkanM0aTZLNmY4dXY5RGN3YUhyZW1nUDdpS09SdVd4MXJVUmJYT1p3VFNGbWJmSnNrSlN4N1hLVGctSkVZV2VPR2c3MzRqMmFRNjA1VzZkQmVqaXhnYTNiaFZxX0V2T2ZEbGhFY3ZBV0xuYXdjWmNGRU1GNTczVS1zY0VpYkpoRzdXOWxzRzJkRXZaa0lxZ1lrNW1ab1JndWlDZ2RnSk1wRFNiR050MEFuTThTNGxxWVp3eW1uWXk2SU1pTnRVYlFnLWlLendMeWVCVHhUVVNTRWJEaHQ2QQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Neubauer will den Titel verteidigen: Vorjahrssieger Hermann Neubauer zündet den Toyota GR Yaris Rally2 - MeinBezirk.at",
-        "source": "MeinBezirk.at",
-        "publishedAt": "2025-09-17T07:00:00+00:00",
-        "summary": "Neubauer will den Titel verteidigen: Vorjahrssieger Hermann Neubauer zündet den Toyota GR Yaris Rally2 MeinBezirk.at",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTkI2Z3dTcl9WRWpSc0JmMmY2ZnZzRkRQUVM5ZTZyYnl2a3JDUWw2Qk0xRXl0ZElCZExTdUdMZ1dXTjJ1T1k5RHBUbTBFeG1xU1NSQW5Lblo5SzJYZG9leG9jV2FSc0lNMzBDbmp2NzVDaE1WWXg0Qi1kWjRIWjVRRExoR3c3YkZJZDBqVXVHbFlRUURxM3NvU1A2N29kOE9IcHVrUDBnUnBIUFFhbElKZGNjZG4tVTJBTUpoWDBlU3B5Ylowck9LRQ?oc=5",
-        "tags": [
-          "MeinBezirk.at"
-        ]
-      },
-      {
-        "title": "Apollo: Milliarden-Deal mit RWE - The Pioneer",
-        "source": "The Pioneer",
-        "publishedAt": "2025-09-09T07:00:00+00:00",
-        "summary": "Apollo: Milliarden-Deal mit RWE The Pioneer",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlZLaFhmVVMyNV9QQjhxWHFocExzLS1OVlNlOUtKZnc0Ykd5Q2UzRXNQVUJqbmFvb1NRSmc0anNMOHFxSkRYVTFTaXNXUDIyRjBmQXExN0xhZXlBZ0tsRnFNMm5HNDJwdkZONk1IZ2ppTko4WDg0SDI2aXp0XzFsdlc2dGZDMEVDTHc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -389,6 +391,16 @@
         "publishedAt": "2026-06-21T13:35:07+00:00",
         "summary": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeERzUzVJX1pUdkVYTU5VOUZaQ3Jaa2dzYVN1T2FibERORmM5N2tra1ZJMDVneUI3bHNHbUZiMTd5ZmRFeVVpemcyOEdqQVZOOU8xSGZRaXBsQjg4azNjNnFIZm83a1dQZl9nYjVrRzhYd2VQUXU4ZWhkcHFoZUxmWjVSVEZLckcxQndmNmJ3b2xXSnQ5WkowOTRTeVpVcnllOHBiVUdvNzdwMHJIU21tWWN2UWZjQlNJbmpV?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-06-20T13:23:27+00:00",
+        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
           "Ad-hoc-news.de"
         ]
@@ -479,16 +491,6 @@
         "publishedAt": "2026-05-19T07:00:00+00:00",
         "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-18T07:00:00+00:00",
-        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
         "tags": [
           "KI"
         ]
