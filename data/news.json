@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T15:00:45.844589+00:00",
+  "generatedAt": "2026-06-28T16:41:20.778458+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -405,6 +405,16 @@
         ]
       },
       {
+        "title": "Normenkontrollrat: Günstiger bauen mit einfachen Standards - staatsanzeiger.de",
+        "source": "staatsanzeiger.de",
+        "publishedAt": "2026-06-18T08:28:00+00:00",
+        "summary": "Normenkontrollrat: Günstiger bauen mit einfachen Standards staatsanzeiger.de",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1CQ1EyQVZOcW1LZ1hod0NEdjIwbW5RVk83UF94RmltWHpfVXpBaGdHT1ZLUVRlOTMwczE3NVBXNTVMaGtpelJvUC1PQmRPTFgzX3hhN0xUNm5nZGYwSmJJXy1zT1hYdk55UEV0MkdnclJmZFdaTGRMNzdTSUVWSE9odTdiOGpyWEdWVnJXbjZQSlpodGs0aHVSc3BtbmZJcUJpbjhaUmZGdzVlcmRZRm1R?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
         "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
         "source": "Nau",
         "publishedAt": "2026-06-17T08:20:23+00:00",
@@ -475,23 +485,13 @@
         ]
       },
       {
-        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-18T07:00:00+00:00",
-        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
+        "title": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik - HaustechnikDialog",
+        "source": "HaustechnikDialog",
+        "publishedAt": "2026-05-13T07:00:00+00:00",
+        "summary": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik HaustechnikDialog",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczVzVmJDa2V1SHZkNFVPYVBnSWJrcm0tbk00VjNwYnMzSmprbXI4bHdmV0xHWjJVTEdjakI2NGRoOWhVNXpUcGRqdnFodW9TQl9UbWdEdmpLQUM3QVFxOXd0d3pzMkhjeHFycWE2aVJPT21sYWdpeWE5emJ1cmpaanVQZnJMVU94RHJqdTluYmNGYlJnTXA0cWQxSXRZWElSUHljMHUzS0VhOUxuRTZxZEtmaWdRRmNQcXZ6UQ?oc=5",
         "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "»In weiten Teilen kaum verständlich«: Normenkontrollrat zerpflückt schwarz-rotes Heizungsgesetz - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-05-14T07:00:00+00:00",
-        "summary": "»In weiten Teilen kaum verständlich«: Normenkontrollrat zerpflückt schwarz-rotes Heizungsgesetz Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVFpQaDZ4MWdSbGF2NlRXOE1SVmYyZFNycE1LcFhXOU90Z3Q5aEk2MXVZaXg3bFVPaGh1Wk9RZnN2Uk0tcEgtbUxJbnNLQjFkOGZJZVVLamZlaVJJWnc4M2lvMTVpbUZaZTBXRS15TFVMSGtIR1ZNcFRta25ZdjlVU2xVWGxhT1hQMHpaNE9lbEJSMUlhQm9iYXotNjU1MlR2OGJWTmptM1JSRXpHNnltVzlZRlhGdlNFek9kNU1idldVaUtObkRQUDZnM25ZUU5xN3plbG41UlNFX01oRG1DRjZ1eXlNaXN3?oc=5",
-        "tags": [
-          "Normen"
+          "Gebäudeautomation"
         ]
       }
     ]
