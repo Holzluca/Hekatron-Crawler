@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T23:04:22.786485+00:00",
+  "generatedAt": "2026-06-28T01:31:54.144899+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -84,16 +84,6 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "Neue Zürcher Zeitung"
-        ]
-      },
-      {
         "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
         "source": "SAVE AG",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -101,6 +91,16 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "Neue Zürcher Zeitung"
         ]
       },
       {
@@ -188,6 +188,16 @@
         ]
       },
       {
+        "title": "X Sense Rauchmelder - iphone-ticker.de",
+        "source": "iphone-ticker.de",
+        "publishedAt": "2026-06-25T11:54:27+00:00",
+        "summary": "X Sense Rauchmelder iphone-ticker.de",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTlZWnN1U2tpdml1R2FRSzZPd2dFZmJaNEFYSzdYaHA5LWNlanpJa3dNUFRhdEVycUZSb2twMnQtTHNwck9mZFZjYVFWUS0tTWVfc0hOU1ZiSWFWZHlkSk45NWNZVDNWZjZtM09IbXdZMHZMd2l1VzNvOWVKZllaQUtsVV94QkdnaVpJSTNOSHQzTGlwTUpabE5sSUZ0dWxiSWVQVjdOTTE3anJjS3ZIcGRrRFNoZw?oc=5",
+        "tags": [
+          "iphone-ticker.de"
+        ]
+      },
+      {
         "title": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht - GameStar",
         "source": "GameStar",
         "publishedAt": "2026-06-25T11:16:00+00:00",
@@ -236,17 +246,6 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG4wRlJBSUhRZmlWSmtKNUJWY1ZId2RhNlhQc1NWUnN6eXpqbFF3dXNDaVFXSnRDMmg0Q19iYTBfR1hoV1FwVHRmWHNCSDQzS1BRRHhuZHBfcDJaeWlKMWdkeGFOY3Z4M3VaQW1vSTFrbWJNRDNYUGxRXzEwNkc5U3NDdm9rc3NCUXlGTy1rLUtqMVhqZ2YxeHdOMFBPdUU?oc=5",
         "tags": [
           "connect.de"
-        ]
-      },
-      {
-        "title": "Sicherheitstechnik von X-Sense zum Prime Day reduziert - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-06-23T09:52:28+00:00",
-        "summary": "Sicherheitstechnik von X-Sense zum Prime Day reduziert FAZ",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ2JHazdyV2toQzd1T3lmOC1aMTZsRXVjaXRXQnhTMjNJWjNTSXFjcFktXzdRMHk2eFFEMHIwTDl1ZDYyZTVhcE9sNmlpQWRrbjNxXzhkLW5vdnpXWnBnT0hJSy0tZkF4b0cxUlVqZlBBZGM1aDQwVkdoS3BYb2FhNUF2SG80QWszREtLQTRfTk1YVVB2cGJqbGs1WQ?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
         ]
       }
     ],
@@ -332,6 +331,16 @@
         ]
       },
       {
+        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-05T07:00:00+00:00",
@@ -359,16 +368,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
         "tags": [
           "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
         ]
       }
     ],
@@ -465,10 +464,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
