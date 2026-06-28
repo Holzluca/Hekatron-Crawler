@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T11:43:46.706374+00:00",
+  "generatedAt": "2026-06-28T13:24:23.080473+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -168,6 +168,16 @@
         ]
       },
       {
+        "title": "Rauchmelder Test 2026 • Die 7 besten Rauchmelder im Vergleich - RTL.de",
+        "source": "RTL.de",
+        "publishedAt": "2026-06-26T07:00:00+00:00",
+        "summary": "Rauchmelder Test 2026 • Die 7 besten Rauchmelder im Vergleich RTL.de",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-06-26T06:53:18+00:00",
@@ -237,16 +247,6 @@
         "tags": [
           "Ei",
           "Ei Electronics"
-        ]
-      },
-      {
-        "title": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden - connect.de",
-        "source": "connect.de",
-        "publishedAt": "2026-06-23T12:33:26+00:00",
-        "summary": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden connect.de",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG4wRlJBSUhRZmlWSmtKNUJWY1ZId2RhNlhQc1NWUnN6eXpqbFF3dXNDaVFXSnRDMmg0Q19iYTBfR1hoV1FwVHRmWHNCSDQzS1BRRHhuZHBfcDJaeWlKMWdkeGFOY3Z4M3VaQW1vSTFrbWJNRDNYUGxRXzEwNkc5U3NDdm9rc3NCUXlGTy1rLUtqMVhqZ2YxeHdOMFBPdUU?oc=5",
-        "tags": [
-          "connect.de"
         ]
       }
     ],
@@ -485,13 +485,13 @@
         ]
       },
       {
-        "title": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-05-18T07:00:00+00:00",
-        "summary": "Brandschutz im Wandel: Neue Regeln, KI gegen Fehlalarme und Fachkräftemangel it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWo1STZ0aHdwNkVQVTlXNWM4S0cyRFVMNk5tUnBxRzRwTXp1ZFFYdlRVa0xBY0hpajY2bkxCNHVITzZHUUlrSjBLTGgtcVJsUEF1RkFyNVViNmJZcklKSHdLV0M2bWIweUQxVFZ6U1FhZ05WMjd0dURqbE9UZGRwSmJBV0dFekpXQ1dSNTJwWUFFWkNsTHQtTnY1R19QWlZ5WVdSN0N2S183dDA?oc=5",
+        "title": "»In weiten Teilen kaum verständlich«: Normenkontrollrat zerpflückt schwarz-rotes Heizungsgesetz - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-05-14T07:00:00+00:00",
+        "summary": "»In weiten Teilen kaum verständlich«: Normenkontrollrat zerpflückt schwarz-rotes Heizungsgesetz Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVFpQaDZ4MWdSbGF2NlRXOE1SVmYyZFNycE1LcFhXOU90Z3Q5aEk2MXVZaXg3bFVPaGh1Wk9RZnN2Uk0tcEgtbUxJbnNLQjFkOGZJZVVLamZlaVJJWnc4M2lvMTVpbUZaZTBXRS15TFVMSGtIR1ZNcFRta25ZdjlVU2xVWGxhT1hQMHpaNE9lbEJSMUlhQm9iYXotNjU1MlR2OGJWTmptM1JSRXpHNnltVzlZRlhGdlNFek9kNU1idldVaUtObkRQUDZnM25ZUU5xN3plbG41UlNFX01oRG1DRjZ1eXlNaXN3?oc=5",
         "tags": [
-          "KI"
+          "Normen"
         ]
       }
     ]
