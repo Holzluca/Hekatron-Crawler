@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T20:21:24.041052+00:00",
+  "generatedAt": "2026-06-29T21:50:07.355875+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -188,16 +188,6 @@
         ]
       },
       {
-        "title": "Rauchmelder Test 2026 • Die 7 besten Rauchmelder im Vergleich - RTL.de",
-        "source": "RTL.de",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Rauchmelder Test 2026 • Die 7 besten Rauchmelder im Vergleich RTL.de",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-06-26T06:53:18+00:00",
@@ -246,6 +236,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden - connect.de",
+        "source": "connect.de",
+        "publishedAt": "2026-06-23T12:33:26+00:00",
+        "summary": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden connect.de",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG4wRlJBSUhRZmlWSmtKNUJWY1ZId2RhNlhQc1NWUnN6eXpqbFF3dXNDaVFXSnRDMmg0Q19iYTBfR1hoV1FwVHRmWHNCSDQzS1BRRHhuZHBfcDJaeWlKMWdkeGFOY3Z4M3VaQW1vSTFrbWJNRDNYUGxRXzEwNkc5U3NDdm9rc3NCUXlGTy1rLUtqMVhqZ2YxeHdOMFBPdUU?oc=5",
+        "tags": [
+          "connect.de"
         ]
       }
     ],
@@ -404,6 +404,16 @@
         ]
       },
       {
+        "title": "Normenkontrollrat: Günstiger bauen mit einfachen Standards - staatsanzeiger.de",
+        "source": "staatsanzeiger.de",
+        "publishedAt": "2026-06-18T08:28:00+00:00",
+        "summary": "Normenkontrollrat: Günstiger bauen mit einfachen Standards staatsanzeiger.de",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1CQ1EyQVZOcW1LZ1hod0NEdjIwbW5RVk83UF94RmltWHpfVXpBaGdHT1ZLUVRlOTMwczE3NVBXNTVMaGtpelJvUC1PQmRPTFgzX3hhN0xUNm5nZGYwSmJJXy1zT1hYdk55UEV0MkdnclJmZFdaTGRMNzdTSUVWSE9odTdiOGpyWEdWVnJXbjZQSlpodGs0aHVSc3BtbmZJcUJpbjhaUmZGdzVlcmRZRm1R?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
         "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
         "source": "Nau",
         "publishedAt": "2026-06-17T08:20:23+00:00",
@@ -481,16 +491,6 @@
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "»In weiten Teilen kaum verständlich«: Normenkontrollrat zerpflückt schwarz-rotes Heizungsgesetz - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-05-14T07:00:00+00:00",
-        "summary": "»In weiten Teilen kaum verständlich«: Normenkontrollrat zerpflückt schwarz-rotes Heizungsgesetz Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVFpQaDZ4MWdSbGF2NlRXOE1SVmYyZFNycE1LcFhXOU90Z3Q5aEk2MXVZaXg3bFVPaGh1Wk9RZnN2Uk0tcEgtbUxJbnNLQjFkOGZJZVVLamZlaVJJWnc4M2lvMTVpbUZaZTBXRS15TFVMSGtIR1ZNcFRta25ZdjlVU2xVWGxhT1hQMHpaNE9lbEJSMUlhQm9iYXotNjU1MlR2OGJWTmptM1JSRXpHNnltVzlZRlhGdlNFek9kNU1idldVaUtObkRQUDZnM25ZUU5xN3plbG41UlNFX01oRG1DRjZ1eXlNaXN3?oc=5",
-        "tags": [
-          "Normen"
         ]
       }
     ]
