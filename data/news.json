@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T21:50:07.355875+00:00",
+  "generatedAt": "2026-06-29T22:50:15.772724+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -148,16 +148,6 @@
         ]
       },
       {
-        "title": "Brandschutz-Upgrade zum Prime Day: Dieses Smart-Home-Angebot sollten Hausbesitzer jetzt kennen - FOCUS online",
-        "source": "FOCUS online",
-        "publishedAt": "2026-06-26T11:29:00+00:00",
-        "summary": "Brandschutz-Upgrade zum Prime Day: Dieses Smart-Home-Angebot sollten Hausbesitzer jetzt kennen FOCUS online",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTzNvRjlVSk1nSGpudnd1NnNkQzRXZk5PSEhFbEZVdFlaTlpseHpWMVNENHFDaHYwZ2NYSFZSUy1HWkdhNkZGRUZycThDQ29wbG5IS2pYZFExdFRabGRsV3cwc1g0QTg3cTNfM0VjVlBpbWNZSzdSY0ZVTDVuUXQweUdTTG9SNTNxZVVFV1AyTWlQN3ZUMkpXWjBMZXZNdlFJMTdSeXdvRzh0ZHprX3U4eVl6ZUJfeE9zYVBYekx2RUttWWJpODF4NldYNlAyeV9IMXBZTGwxbGJTSU10SHcxeHIxMTEyMjNBd3NTQ2lpdk8zTU45ZE5lNVc4TXRub1MtYVpFdHMweWZ3ZWR2dG10Rnpn?oc=5",
-        "tags": [
-          "FOCUS online"
-        ]
-      },
-      {
         "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-26T09:20:00+00:00",
@@ -185,6 +175,16 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUY2wwMTZPYi1ESW53NFg4eFpJem9SQ1RQenJDZDdhNjlvYmFYaEFtSlctdG5WM2d6TURlTVYwSGNrS0tNNjZYeXlBaXRaOU5xd2fSAdcBQVVfeXFMUFkxYzgxR1Jkc1lTOFRVa2lCN1V3eVNhTU0wXy1kVWdQTEVGaFhVQzBEYmNlNWNubE5iSjhwYU10c1pkcjVwanRXN0drMVNXVXBtQ3lwQVJ4LWFUWGxEWXRvMWZzSTIwZnBRTWdUczY2VDlVYmlveHRJN0dyeWVGRVlzNDlGS3hMaE5WZlNmWGRybU4zYWprMkt4aFdOWFpPenIyTVNRWkxEMHNWZ3NPRXRvYnZZYWQ3UTZSQVpVRjhKUnNrQllnRHR3MUVlTVNZWmI5dlhReGs?oc=5",
         "tags": [
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Rauchmelder Test 2026 • Die 7 besten Rauchmelder im Vergleich - RTL.de",
+        "source": "RTL.de",
+        "publishedAt": "2026-06-26T07:00:00+00:00",
+        "summary": "Rauchmelder Test 2026 • Die 7 besten Rauchmelder im Vergleich RTL.de",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -239,13 +239,14 @@
         ]
       },
       {
-        "title": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden - connect.de",
-        "source": "connect.de",
-        "publishedAt": "2026-06-23T12:33:26+00:00",
-        "summary": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden connect.de",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG4wRlJBSUhRZmlWSmtKNUJWY1ZId2RhNlhQc1NWUnN6eXpqbFF3dXNDaVFXSnRDMmg0Q19iYTBfR1hoV1FwVHRmWHNCSDQzS1BRRHhuZHBfcDJaeWlKMWdkeGFOY3Z4M3VaQW1vSTFrbWJNRDNYUGxRXzEwNkc5U3NDdm9rc3NCUXlGTy1rLUtqMVhqZ2YxeHdOMFBPdUU?oc=5",
+        "title": "Ei Electronics Ei650 Rauchmelder für 18,84€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-06-23T17:04:43+00:00",
+        "summary": "Ei Electronics Ei650 Rauchmelder für 18,84€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmF1c2gzYlpJUEJRTnNYVUwzdkYwa3MxM0stSzVnSnpVYlB1RnpTdDVsYU52ZnEzNlplQUdSLWoxVEFzYUxhYVpXcmR5enA1WnpxOVdfZ3lJeXVSazhXdGJvOGVjRDZGZE9oNWktUFJ4QmpPc0xfUDBmMUFEdU5LX0lGTW9vYmxCWFZmSQ?oc=5",
         "tags": [
-          "connect.de"
+          "Ei",
+          "Ei Electronics"
         ]
       }
     ],
@@ -404,19 +405,9 @@
         ]
       },
       {
-        "title": "Normenkontrollrat: Günstiger bauen mit einfachen Standards - staatsanzeiger.de",
-        "source": "staatsanzeiger.de",
-        "publishedAt": "2026-06-18T08:28:00+00:00",
-        "summary": "Normenkontrollrat: Günstiger bauen mit einfachen Standards staatsanzeiger.de",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1CQ1EyQVZOcW1LZ1hod0NEdjIwbW5RVk83UF94RmltWHpfVXpBaGdHT1ZLUVRlOTMwczE3NVBXNTVMaGtpelJvUC1PQmRPTFgzX3hhN0xUNm5nZGYwSmJJXy1zT1hYdk55UEV0MkdnclJmZFdaTGRMNzdTSUVWSE9odTdiOGpyWEdWVnJXbjZQSlpodGs0aHVSc3BtbmZJcUJpbjhaUmZGdzVlcmRZRm1R?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
         "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
         "source": "Nau",
-        "publishedAt": "2026-06-17T08:20:23+00:00",
+        "publishedAt": "2026-06-17T07:00:00+00:00",
         "summary": "Gemeinderat investiert in moderne Gebäudetechnik Nau",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
         "tags": [
@@ -491,6 +482,16 @@
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "»In weiten Teilen kaum verständlich«: Normenkontrollrat zerpflückt schwarz-rotes Heizungsgesetz - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-05-14T07:00:00+00:00",
+        "summary": "»In weiten Teilen kaum verständlich«: Normenkontrollrat zerpflückt schwarz-rotes Heizungsgesetz Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVFpQaDZ4MWdSbGF2NlRXOE1SVmYyZFNycE1LcFhXOU90Z3Q5aEk2MXVZaXg3bFVPaGh1Wk9RZnN2Uk0tcEgtbUxJbnNLQjFkOGZJZVVLamZlaVJJWnc4M2lvMTVpbUZaZTBXRS15TFVMSGtIR1ZNcFRta25ZdjlVU2xVWGxhT1hQMHpaNE9lbEJSMUlhQm9iYXotNjU1MlR2OGJWTmptM1JSRXpHNnltVzlZRlhGdlNFek9kNU1idldVaUtObkRQUDZnM25ZUU5xN3plbG41UlNFX01oRG1DRjZ1eXlNaXN3?oc=5",
+        "tags": [
+          "Normen"
         ]
       }
     ]
