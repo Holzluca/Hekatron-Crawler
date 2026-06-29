@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T11:54:17.091845+00:00",
+  "generatedAt": "2026-06-29T15:35:52.477143+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "DEAL | Bosch Spotless + für 249,00 € im Angebot! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-27T13:58:11+00:00",
+        "summary": "DEAL | Bosch Spotless + für 249,00 € im Angebot! SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXo3NjAtZlBiMW5NTF9kandDWVBtLTBBWVRCZFg5WVlWOUhtVUVxNFFwWE0xYUtUcjAxelVnZ1dJX0E5WWZScDFyZDlfeU03MDZtazNRZUEwSzdydExEeWtLaVZjV2x0LXktMkxKSmNJalZzdlg2M1Bfd1ZXbG05UGxkMS1iZ3NaekZxa3RPUlQ?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Amazon: X-Sense Smart Home-Basisstation - Ntv",
         "source": "Ntv",
         "publishedAt": "2026-06-27T11:08:25+00:00",
@@ -237,16 +247,6 @@
         "tags": [
           "Ei",
           "Ei Electronics"
-        ]
-      },
-      {
-        "title": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden - connect.de",
-        "source": "connect.de",
-        "publishedAt": "2026-06-23T12:33:26+00:00",
-        "summary": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden connect.de",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG4wRlJBSUhRZmlWSmtKNUJWY1ZId2RhNlhQc1NWUnN6eXpqbFF3dXNDaVFXSnRDMmg0Q19iYTBfR1hoV1FwVHRmWHNCSDQzS1BRRHhuZHBfcDJaeWlKMWdkeGFOY3Z4M3VaQW1vSTFrbWJNRDNYUGxRXzEwNkc5U3NDdm9rc3NCUXlGTy1rLUtqMVhqZ2YxeHdOMFBPdUU?oc=5",
-        "tags": [
-          "connect.de"
         ]
       }
     ],
