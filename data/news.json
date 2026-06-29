@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T22:50:15.772724+00:00",
+  "generatedAt": "2026-06-29T23:57:58.504765+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -374,17 +374,6 @@
     ],
     "trends": [
       {
-        "title": "AlpSemi erhält 17 Millionen Euro, um Festkörper-Schutzschalter für Gebäude und KI-Rechenzentren zu entwickeln - Unite.AI",
-        "source": "Unite.AI",
-        "publishedAt": "2026-06-23T16:49:57+00:00",
-        "summary": "AlpSemi erhält 17 Millionen Euro, um Festkörper-Schutzschalter für Gebäude und KI-Rechenzentren zu entwickeln Unite.AI",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3dpcjlpQXBNQzVRTzlRRDQ3MTM0S0tTRVVmZHI3UUxqNUk2ZmgwXzhkMHdiS3BjTXRzc0FaWkpCNzNqOXRpeVd5RnlaR0MwRTc4QU8tVWhiLS0xNXg3ZnJ0MFdrRTlGdFR2cE1JNGFjRWYzSnFheDMxV3p1QXNMZzdzcDZBMng4azgyM2FaQnNFM3RXanpWYURvNDZzUThxQ1Nhemw0Vl8zVVRmSW11cW5YQllqSldMNmxiSDkzRQ?oc=5",
-        "tags": [
-          "KI",
-          "AI"
-        ]
-      },
-      {
         "title": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-21T13:35:07+00:00",
@@ -405,23 +394,23 @@
         ]
       },
       {
+        "title": "Normenkontrollrat: Günstiger bauen mit einfachen Standards - staatsanzeiger.de",
+        "source": "staatsanzeiger.de",
+        "publishedAt": "2026-06-18T08:28:00+00:00",
+        "summary": "Normenkontrollrat: Günstiger bauen mit einfachen Standards staatsanzeiger.de",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1CQ1EyQVZOcW1LZ1hod0NEdjIwbW5RVk83UF94RmltWHpfVXpBaGdHT1ZLUVRlOTMwczE3NVBXNTVMaGtpelJvUC1PQmRPTFgzX3hhN0xUNm5nZGYwSmJJXy1zT1hYdk55UEV0MkdnclJmZFdaTGRMNzdTSUVWSE9odTdiOGpyWEdWVnJXbjZQSlpodGs0aHVSc3BtbmZJcUJpbjhaUmZGdzVlcmRZRm1R?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
         "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
         "source": "Nau",
-        "publishedAt": "2026-06-17T07:00:00+00:00",
+        "publishedAt": "2026-06-17T08:20:23+00:00",
         "summary": "Gemeinderat investiert in moderne Gebäudetechnik Nau",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
         "tags": [
           "Nau"
-        ]
-      },
-      {
-        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
-        "source": "Handelsblatt Live",
-        "publishedAt": "2026-06-16T12:41:46+00:00",
-        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
-        "tags": [
-          "Handelsblatt Live"
         ]
       },
       {
@@ -455,16 +444,6 @@
         ]
       },
       {
-        "title": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude - Rheinische Anzeigenblätter",
-        "source": "Rheinische Anzeigenblätter",
-        "publishedAt": "2026-05-29T07:00:00+00:00",
-        "summary": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude Rheinische Anzeigenblätter",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRU05cTJPbjAzTl9TYW1odVZlS0NsX0EwSzhIVFduejZNUmlibENyNHBHQW95UzV0N2p1SUhfVjNBRDU4NmFXSEY5ckFkMVhIOXRraEIyMVR4RVJvVWRRcXVSNVhZenNfVmlRNGk2b0UtdlEwSVVwZHdxLVhLYXY1M21TWXVfTDhIZzlzTW03ZW41bnV3bF9sM1lCeXJDY3lLXzlXTVVsSy1nRkxkQlROQnAwZjRieXJWLTNSNUJNYm1BRHZTeUJJNUEwcmhTdw?oc=5",
-        "tags": [
-          "Rheinische Anzeigenblätter"
-        ]
-      },
-      {
         "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
         "source": "Euronews",
         "publishedAt": "2026-05-28T07:00:00+00:00",
@@ -475,16 +454,6 @@
         ]
       },
       {
-        "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
-        "source": "BASIC thinking",
-        "publishedAt": "2026-05-19T07:00:00+00:00",
-        "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "»In weiten Teilen kaum verständlich«: Normenkontrollrat zerpflückt schwarz-rotes Heizungsgesetz - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-05-14T07:00:00+00:00",
@@ -492,6 +461,36 @@
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVFpQaDZ4MWdSbGF2NlRXOE1SVmYyZFNycE1LcFhXOU90Z3Q5aEk2MXVZaXg3bFVPaGh1Wk9RZnN2Uk0tcEgtbUxJbnNLQjFkOGZJZVVLamZlaVJJWnc4M2lvMTVpbUZaZTBXRS15TFVMSGtIR1ZNcFRta25ZdjlVU2xVWGxhT1hQMHpaNE9lbEJSMUlhQm9iYXotNjU1MlR2OGJWTmptM1JSRXpHNnltVzlZRlhGdlNFek9kNU1idldVaUtObkRQUDZnM25ZUU5xN3plbG41UlNFX01oRG1DRjZ1eXlNaXN3?oc=5",
         "tags": [
           "Normen"
+        ]
+      },
+      {
+        "title": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik - HaustechnikDialog",
+        "source": "HaustechnikDialog",
+        "publishedAt": "2026-05-13T07:00:00+00:00",
+        "summary": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik HaustechnikDialog",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczVzVmJDa2V1SHZkNFVPYVBnSWJrcm0tbk00VjNwYnMzSmprbXI4bHdmV0xHWjJVTEdjakI2NGRoOWhVNXpUcGRqdnFodW9TQl9UbWdEdmpLQUM3QVFxOXd0d3pzMkhjeHFycWE2aVJPT21sYWdpeWE5emJ1cmpaanVQZnJMVU94RHJqdTluYmNGYlJnTXA0cWQxSXRZWElSUHljMHUzS0VhOUxuRTZxZEtmaWdRRmNQcXZ6UQ?oc=5",
+        "tags": [
+          "Gebäudeautomation"
+        ]
+      },
+      {
+        "title": "Honeywell-Aktie (US4385161066): Quantinuum-Börsengang eingeleitet - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-05-12T07:00:00+00:00",
+        "summary": "Honeywell-Aktie (US4385161066): Quantinuum-Börsengang eingeleitet AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnFXczRFV01yTVNZZUpIMmpQU2xoeTFCS2lsWkZsUUFaX2hqa29rZ0JaU21YOEsyOEVYQVltbTRFTlpNTHhYOXg0LWhmMHdUUVlIOHAzY2NJUnNqQnhFU2E0bnFKUmNtTzd2b3MwQVBCbGFPek9SV1lRd3BCNjdYd2laQ1RjM3o0elFiNmhHSGpXZFJTbXR3UjVldUZ1UUY5eE14eF9CbUlMV1FzdTVLaEltcWxDbmNHQWdrQ3ctaw?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "München testet Materialkataster für Gebäude - immobilienmanager",
+        "source": "immobilienmanager",
+        "publishedAt": "2026-05-11T07:00:00+00:00",
+        "summary": "München testet Materialkataster für Gebäude immobilienmanager",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGN1RDlHWXBtTzdqRXlyZW83SkRCRlFPdkZmTXRTSm1LR3M3Y3BLeHlFamUyTW1NRVNQSER0UTdVSE1WY0NXSG5mQkZHYXVfblJYQW5nSjY0clJvakgwRWNySUg3UkdMWnNnSnIzdGNpWUV3Q3ptQXNweWZVUDcxYjlVck9MaGgwY0dkVVN5SDNFQQ?oc=5",
+        "tags": [
+          "immobilienmanager"
         ]
       }
     ]
