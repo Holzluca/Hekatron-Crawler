@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T16:00:16.703060+00:00",
+  "generatedAt": "2026-06-30T18:17:15.326092+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -405,6 +405,16 @@
         ]
       },
       {
+        "title": "Normenkontrollrat: Günstiger bauen mit einfachen Standards - staatsanzeiger.de",
+        "source": "staatsanzeiger.de",
+        "publishedAt": "2026-06-18T08:28:00+00:00",
+        "summary": "Normenkontrollrat: Günstiger bauen mit einfachen Standards staatsanzeiger.de",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObW1CQ1EyQVZOcW1LZ1hod0NEdjIwbW5RVk83UF94RmltWHpfVXpBaGdHT1ZLUVRlOTMwczE3NVBXNTVMaGtpelJvUC1PQmRPTFgzX3hhN0xUNm5nZGYwSmJJXy1zT1hYdk55UEV0MkdnclJmZFdaTGRMNzdTSUVWSE9odTdiOGpyWEdWVnJXbjZQSlpodGs0aHVSc3BtbmZJcUJpbjhaUmZGdzVlcmRZRm1R?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
         "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
         "source": "Handelsblatt Live",
         "publishedAt": "2026-06-16T12:41:46+00:00",
@@ -455,10 +465,10 @@
         ]
       },
       {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews",
-        "source": "Euronews",
+        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
+        "source": "Euronews.com",
         "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews",
+        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
@@ -482,16 +492,6 @@
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVFpQaDZ4MWdSbGF2NlRXOE1SVmYyZFNycE1LcFhXOU90Z3Q5aEk2MXVZaXg3bFVPaGh1Wk9RZnN2Uk0tcEgtbUxJbnNLQjFkOGZJZVVLamZlaVJJWnc4M2lvMTVpbUZaZTBXRS15TFVMSGtIR1ZNcFRta25ZdjlVU2xVWGxhT1hQMHpaNE9lbEJSMUlhQm9iYXotNjU1MlR2OGJWTmptM1JSRXpHNnltVzlZRlhGdlNFek9kNU1idldVaUtObkRQUDZnM25ZUU5xN3plbG41UlNFX01oRG1DRjZ1eXlNaXN3?oc=5",
         "tags": [
           "Normen"
-        ]
-      },
-      {
-        "title": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik - HaustechnikDialog",
-        "source": "HaustechnikDialog",
-        "publishedAt": "2026-05-13T07:00:00+00:00",
-        "summary": "IT-Sicherheit in der Gebäudeautomation – So schützt du vernetzte Haustechnik HaustechnikDialog",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPczVzVmJDa2V1SHZkNFVPYVBnSWJrcm0tbk00VjNwYnMzSmprbXI4bHdmV0xHWjJVTEdjakI2NGRoOWhVNXpUcGRqdnFodW9TQl9UbWdEdmpLQUM3QVFxOXd0d3pzMkhjeHFycWE2aVJPT21sYWdpeWE5emJ1cmpaanVQZnJMVU94RHJqdTluYmNGYlJnTXA0cWQxSXRZWElSUHljMHUzS0VhOUxuRTZxZEtmaWdRRmNQcXZ6UQ?oc=5",
-        "tags": [
-          "Gebäudeautomation"
         ]
       }
     ]
