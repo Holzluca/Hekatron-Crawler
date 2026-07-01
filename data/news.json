@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-07-01T16:02:59.825113+00:00",
+  "generatedAt": "2026-07-01T18:22:31.455208+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-06-29T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
       {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
@@ -113,16 +123,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -134,6 +134,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEx6UjZNTmE3bnZWUUc4RVZpVTlOZFVsR0VGai1IcFU1SlpKUTQtX2w5VF9ueGFqVmNvTUNETmg0dzhpamlmeDRYWU1LdWU1LU5Sa21pbWc1Vk5TOFBvVWo5WnVIU0ZDLWVGUUZjVFYtX3hvdktEZkxGc3dtUlVYUUZRZkhRdU04a0d5aUl2NnlvZw?oc=5",
         "tags": [
           "SmarthomeAssistent"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-06-29T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
         ]
       },
       {
@@ -200,11 +210,11 @@
         ]
       },
       {
-        "title": "Rauchmelder Test 2026 • Die 7 besten Rauchmelder im Vergleich - RTL.de",
-        "source": "RTL.de",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Rauchmelder Test 2026 • Die 7 besten Rauchmelder im Vergleich RTL.de",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
+        "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-26T06:53:18+00:00",
+        "summary": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
         "tags": [
           "Ei"
         ]
@@ -236,16 +246,6 @@
         "publishedAt": "2026-06-25T08:17:48+00:00",
         "summary": "Amazon Prime Day 2026: Die besten Smarthome-Deals auf einen Blick Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2s1VmhyaDJoNHZzVnlfaldOb2t0VWF5QWFUQm9oOUx0VXZ4Ym0tY3dHYVBSVTZMdkpIcmNuM0RpYXhDLS15czhLM2RUa1B2by12UEdycDhTU0x5UTZRaXZicG01dU1UZHE0Vk56cGVXNW1ScWxJcExrXzJ5eUhBU08tdmU0RlF4TlFlLXpDSTMyNWxKSnd2d2dLZkhOVFV6eFBuWi1zazRwZw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-06-24T09:28:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
         ]
@@ -375,6 +375,16 @@
     ],
     "trends": [
       {
+        "title": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-28T01:38:24+00:00",
+        "summary": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYV9Ba1BUQkIwWDZGT2VFSi1TTk5ONUVkRGlIYjdYeHVhRWtIZk9UclRLLS1VY2xtVTNIcTh6YXhYWXZkeTluSEllMnI2cUlKOWtWcnhscUJpbVFtWC1MdnhTak5obWdsMU5fdmlkbEJINDdiQ2REeXVkWHVieE1xNFgwbEZaWVB0clZlaGZER05iOWhpNnFvRFpjbnB0TzVpaHJaVTVWVVM2REFUTGp5eWtmSXpZMUF5TmFkTXplSE4zX3hmNWFJY1IxSQ?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
         "title": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt - Newsbit.de",
         "source": "Newsbit.de",
         "publishedAt": "2026-06-27T08:04:00+00:00",
@@ -483,16 +493,6 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
         "tags": [
           "AI"
-        ]
-      },
-      {
-        "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
-        "source": "BASIC thinking",
-        "publishedAt": "2026-05-19T07:00:00+00:00",
-        "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
