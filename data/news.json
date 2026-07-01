@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T21:58:00.505747+00:00",
+  "generatedAt": "2026-07-01T23:17:39.095852+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -375,6 +375,16 @@
     ],
     "trends": [
       {
+        "title": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-28T01:38:24+00:00",
+        "summary": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYV9Ba1BUQkIwWDZGT2VFSi1TTk5ONUVkRGlIYjdYeHVhRWtIZk9UclRLLS1VY2xtVTNIcTh6YXhYWXZkeTluSEllMnI2cUlKOWtWcnhscUJpbVFtWC1MdnhTak5obWdsMU5fdmlkbEJINDdiQ2REeXVkWHVieE1xNFgwbEZaWVB0clZlaGZER05iOWhpNnFvRFpjbnB0TzVpaHJaVTVWVVM2REFUTGp5eWtmSXpZMUF5TmFkTXplSE4zX3hmNWFJY1IxSQ?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
         "title": "Canyon eröffnet E-Bike-Zentrum am Standort Koblenz und setzt auf Sicherheitssysteme - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-06-27T09:00:32+00:00",
@@ -483,16 +493,6 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRU05cTJPbjAzTl9TYW1odVZlS0NsX0EwSzhIVFduejZNUmlibENyNHBHQW95UzV0N2p1SUhfVjNBRDU4NmFXSEY5ckFkMVhIOXRraEIyMVR4RVJvVWRRcXVSNVhZenNfVmlRNGk2b0UtdlEwSVVwZHdxLVhLYXY1M21TWXVfTDhIZzlzTW03ZW41bnV3bF9sM1lCeXJDY3lLXzlXTVVsSy1nRkxkQlROQnAwZjRieXJWLTNSNUJNYm1BRHZTeUJJNUEwcmhTdw?oc=5",
         "tags": [
           "Rheinische Anzeigenblätter"
-        ]
-      },
-      {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
-        "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
-        "tags": [
-          "AI"
         ]
       }
     ]
