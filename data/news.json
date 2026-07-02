@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T05:35:36.593496+00:00",
+  "generatedAt": "2026-07-02T08:47:07.244404+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -115,11 +115,11 @@
         ]
       },
       {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Luzerner Zeitung",
-        "source": "Luzerner Zeitung",
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
+        "source": "www.bote.ch",
         "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Luzerner Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ192TDhDQzVvVFpXUEphMVhlRWdOejNRR2VEZElQR2UtQUczODBVaHY2UjlhMzAyNGx2WE5iM256Y3FXRnlVZDlNOUE4Wk5iTGZrcnhGbGdGc1c3clVEY2x1SGs4bnVtcjRqSk1OM3VkVldHd3JEdlU2UlpCaFZaeUxFSGdTQ0N6a1gzNE5qUUZXRTAyMEQ3VmZPRFFDdVROdWRGWExPVURkaUU?oc=5",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -177,16 +177,6 @@
         "tags": [
           "X-Sense",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-26T09:20:00+00:00",
-        "summary": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QLXduUFJ3YWhIYjRTUGQweXliVm03N2FYRDV6S1VQa0FqREZoQW55TTNCQjhud3l6TVlWWFJEaUxnUi01TzRLMmM0QkFSSC1VNDJDTjR5NHN1U05uVGRjdVZtZDFHZm5UbzNKSnRsTUo5M3A4SDl3ei1R?oc=5",
-        "tags": [
-          "Teltarif"
         ]
       },
       {
@@ -249,6 +239,17 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Ei Electronics Ei650 Rauchmelder für 18,84€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-06-23T17:04:43+00:00",
+        "summary": "Ei Electronics Ei650 Rauchmelder für 18,84€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmF1c2gzYlpJUEJRTnNYVUwzdkYwa3MxM0stSzVnSnpVYlB1RnpTdDVsYU52ZnEzNlplQUdSLWoxVEFzYUxhYVpXcmR5enA1WnpxOVdfZ3lJeXVSazhXdGJvOGVjRDZGZE9oNWktUFJ4QmpPc0xfUDBmMUFEdU5LX0lGTW9vYmxCWFZmSQ?oc=5",
+        "tags": [
+          "Ei",
+          "Ei Electronics"
+        ]
       }
     ],
     "doors": [
@@ -275,7 +276,7 @@
       {
         "title": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet - simplywall.st",
         "source": "simplywall.st",
-        "publishedAt": "2026-06-20T23:13:15+00:00",
+        "publishedAt": "2026-06-20T07:00:00+00:00",
         "summary": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcHg0RFVqb0w0LXZYUkNOeVZFVWJiM0dtSGFtUl9JUkV1Vzh1X1R1QTRTZm1hV2tYM3JiVlY0azlmNm1VSEFEbU5xQUZsZG9fZnQ2MTJiakg1Sk9rZWhVc01TUzN2VExYYTZUSER3YnY5V3FsVGs4VlBLLVpnRzhZMTRpLUFvdDRNR1VXX1ItRko5aURKTGstLUZlb29UOEVnNVdpT2N2RFREdGlKd3JDeUdNSGZEWWxFeVVBSTJ2eXdtNlhoMHRvcmwzZUZoM3NLSmtOQ2JLdUtzWWlxX1hDajU1bzhkYktFcE9va1930gHzAUFVX3lxTE1rT1UtUGhfSXE0M3dsSFhMU2JpS3BYdGhiRnlmYTFWUUJ5aUZyNmRCVWFpSVpKNWdUQXJaclYxeVgtd3FKMFRKcmZnTGM3bmU3RC1RdnhWN2JZV3BqZkZrTUo3NzN4dEZGTjZhRWRvNXlYdFVrSDU5bmJhYjRxZzF6cHFVcWc3dV83WlpZZ1VzN1NVS2YwS0ZXQnpfLS1Dbzd5WllyemJ5a0JCa2xIR1UtX3FqZkFSVlpZa2dnbmRMMkpaV3A1cXE4Z0ZNbkNfZ1drWFlOQy15R3NLblJNa2hTRk5Ec1d6RHV2dlF4TUFBc040TQ?oc=5",
         "tags": [
@@ -374,16 +375,6 @@
       }
     ],
     "trends": [
-      {
-        "title": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-28T01:38:24+00:00",
-        "summary": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYV9Ba1BUQkIwWDZGT2VFSi1TTk5ONUVkRGlIYjdYeHVhRWtIZk9UclRLLS1VY2xtVTNIcTh6YXhYWXZkeTluSEllMnI2cUlKOWtWcnhscUJpbVFtWC1MdnhTak5obWdsMU5fdmlkbEJINDdiQ2REeXVkWHVieE1xNFgwbEZaWVB0clZlaGZER05iOWhpNnFvRFpjbnB0TzVpaHJaVTVWVVM2REFUTGp5eWtmSXpZMUF5TmFkTXplSE4zX3hmNWFJY1IxSQ?oc=5",
-        "tags": [
-          "it boltwise"
-        ]
-      },
       {
         "title": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt - Newsbit.de",
         "source": "Newsbit.de",
@@ -493,6 +484,16 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude - Rheinische Anzeigenblätter",
+        "source": "Rheinische Anzeigenblätter",
+        "publishedAt": "2026-05-29T07:00:00+00:00",
+        "summary": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude Rheinische Anzeigenblätter",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRU05cTJPbjAzTl9TYW1odVZlS0NsX0EwSzhIVFduejZNUmlibENyNHBHQW95UzV0N2p1SUhfVjNBRDU4NmFXSEY5ckFkMVhIOXRraEIyMVR4RVJvVWRRcXVSNVhZenNfVmlRNGk2b0UtdlEwSVVwZHdxLVhLYXY1M21TWXVfTDhIZzlzTW03ZW41bnV3bF9sM1lCeXJDY3lLXzlXTVVsSy1nRkxkQlROQnAwZjRieXJWLTNSNUJNYm1BRHZTeUJJNUEwcmhTdw?oc=5",
+        "tags": [
+          "Rheinische Anzeigenblätter"
         ]
       }
     ]
