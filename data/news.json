@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T20:39:53.958213+00:00",
+  "generatedAt": "2026-07-02T22:01:57.801161+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,16 +127,6 @@
     ],
     "pfs": [
       {
-        "title": "Shelly | KI-Assistenten sollen Automationen vorschlagen - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-30T09:37:42+00:00",
-        "summary": "Shelly | KI-Assistenten sollen Automationen vorschlagen SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEx6UjZNTmE3bnZWUUc4RVZpVTlOZFVsR0VGai1IcFU1SlpKUTQtX2w5VF9ueGFqVmNvTUNETmg0dzhpamlmeDRYWU1LdWU1LU5Sa21pbWc1Vk5TOFBvVWo5WnVIU0ZDLWVGUUZjVFYtX3hvdktEZkxGc3dtUlVYUUZRZkhRdU04a0d5aUl2NnlvZw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-06-29T07:00:00+00:00",
@@ -144,28 +134,6 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
-        ]
-      },
-      {
-        "title": "DEAL | Bosch Spotless Max Cam für 679,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-28T17:43:57+00:00",
-        "summary": "DEAL | Bosch Spotless Max Cam für 679,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13QjBSYlF6N2Zwa2x2X1NrSHBFSVpHRDhEMXFSZ2RNNnpWNHFBLWdoX250YS1BSWFQQlJjSWU5MlhPZHBLcE9MSlpGVkxRbWhyZTEtV3I3LXFCX09MWEI4WWZMckxhdWdQYXNuWFdlc0g3YktqV0JJdTNIT3QyZw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "DEAL | Bosch Spotless + für 249,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-27T22:17:49+00:00",
-        "summary": "DEAL | Bosch Spotless + für 249,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXo3NjAtZlBiMW5NTF9kandDWVBtLTBBWVRCZFg5WVlWOUhtVUVxNFFwWE0xYUtUcjAxelVnZ1dJX0E5WWZScDFyZDlfeU03MDZtazNRZUEwSzdydExEeWtLaVZjV2x0LXktMkxKSmNJalZzdlg2M1Bfd1ZXbG05UGxkMS1iZ3NaekZxa3RPUlQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       },
       {
@@ -180,16 +148,6 @@
         ]
       },
       {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-26T09:08:32+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
         "title": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Personen und Geräusche besser erkennen - GoogleWatchBlog",
         "source": "GoogleWatchBlog",
         "publishedAt": "2026-06-26T09:00:59+00:00",
@@ -197,16 +155,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUY2wwMTZPYi1ESW53NFg4eFpJem9SQ1RQenJDZDdhNjlvYmFYaEFtSlctdG5WM2d6TURlTVYwSGNrS0tNNjZYeXlBaXRaOU5xd2fSAdcBQVVfeXFMUFkxYzgxR1Jkc1lTOFRVa2lCN1V3eVNhTU0wXy1kVWdQTEVGaFhVQzBEYmNlNWNubE5iSjhwYU10c1pkcjVwanRXN0drMVNXVXBtQ3lwQVJ4LWFUWGxEWXRvMWZzSTIwZnBRTWdUczY2VDlVYmlveHRJN0dyeWVGRVlzNDlGS3hMaE5WZlNmWGRybU4zYWprMkt4aFdOWFpPenIyTVNRWkxEMHNWZ3NPRXRvYnZZYWQ3UTZSQVpVRjhKUnNrQllnRHR3MUVlTVNZWmI5dlhReGs?oc=5",
         "tags": [
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-26T06:53:18+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -248,6 +196,59 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Ei Electronics Ei650 Rauchmelder für 18,84€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-06-23T17:04:43+00:00",
+        "summary": "Ei Electronics Ei650 Rauchmelder für 18,84€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmF1c2gzYlpJUEJRTnNYVUwzdkYwa3MxM0stSzVnSnpVYlB1RnpTdDVsYU52ZnEzNlplQUdSLWoxVEFzYUxhYVpXcmR5enA1WnpxOVdfZ3lJeXVSazhXdGJvOGVjRDZGZE9oNWktUFJ4QmpPc0xfUDBmMUFEdU5LX0lGTW9vYmxCWFZmSQ?oc=5",
+        "tags": [
+          "Ei",
+          "Ei Electronics"
+        ]
+      },
+      {
+        "title": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden - connect.de",
+        "source": "connect.de",
+        "publishedAt": "2026-06-23T12:33:26+00:00",
+        "summary": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden connect.de",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG4wRlJBSUhRZmlWSmtKNUJWY1ZId2RhNlhQc1NWUnN6eXpqbFF3dXNDaVFXSnRDMmg0Q19iYTBfR1hoV1FwVHRmWHNCSDQzS1BRRHhuZHBfcDJaeWlKMWdkeGFOY3Z4M3VaQW1vSTFrbWJNRDNYUGxRXzEwNkc5U3NDdm9rc3NCUXlGTy1rLUtqMVhqZ2YxeHdOMFBPdUU?oc=5",
+        "tags": [
+          "connect.de"
+        ]
+      },
+      {
+        "title": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert - Ntv",
+        "source": "Ntv",
+        "publishedAt": "2026-06-23T07:00:00+00:00",
+        "summary": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert Ntv",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZThCZ3VHclRMeDN2aUFGWUMxVmk1QjhieVh1dnRCYnlyVEJCWmY1VlFvbTVrYWVjX2hfNXNMUFg1cUNjSEFGMTl3MnZEdGNQNUZCeVljZHpTUnVBYkU1bjZwamgzX2NnS2luZk1hakVVMnpoQTVDSW14SERPSUJBcmxGOTNad2RoQl84SXBSSC0yWUNOaXZHYTJmWXgwWmoyMzRRRm5rbjMxbDBo?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Chrome 149: Google schließt 33 Sicherheitslücken - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-06-17T07:00:00+00:00",
+        "summary": "Chrome 149: Google schließt 33 Sicherheitslücken Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUR2eExVR2pfdDE4VnVpYzVkZXR6a21VNnBxS2t5SC01aEtfVDlibV9IS01fejlFUVJRMHpicXgweDVQWGxmalRTdjRQaVprTWFxdVZRcERKMS1NS3ZkaE95bzBId2kwc2I0aEs2X2FsVjJVNlB0dG15a3VwdWxMdTc5VXhuQQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home Rauchwarnmelder II - 2er-Set - Ntv",
+        "source": "Ntv",
+        "publishedAt": "2026-06-16T13:31:13+00:00",
+        "summary": "Tink: Bosch Smart Home Rauchwarnmelder II - 2er-Set Ntv",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGh6WmUtbnBwOE45RGhmd1JDamJJWVhQai1rOGM0U1pSdVZLWlp5Q3ZlYTFrMlBJanpRek9zTDdkTUdhUnVYd3o4ZkVfdEJKWVFFZUxGNklldVdWQkw1Y3VDdS1sYWVTZHluN3BJTVF4RG5yV0xzVUswWDdOMXdkM2JiNHVXRDNaZkY0c2F2eXRzZw?oc=5",
+        "tags": [
+          "Bosch",
+          "Rauchwarnmelder",
+          "Smart Home"
         ]
       }
     ],
@@ -323,6 +324,16 @@
         ]
       },
       {
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
         "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
         "source": "apollo-news.net",
         "publishedAt": "2026-04-10T07:00:00+00:00",
@@ -360,16 +371,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
         "tags": [
           "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
         ]
       }
     ],
@@ -476,16 +477,6 @@
         ]
       },
       {
-        "title": "Siemens Aktie: Fehlalarm in Desigo CC - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-15T07:00:00+00:00",
-        "summary": "Siemens Aktie: Fehlalarm in Desigo CC AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Analysten verweisen auf Rechenzentrums-Boom - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-14T09:19:44+00:00",
@@ -493,6 +484,16 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVhCeThCNTY3cVgyMUFoR0JwMFN3UHFfUEh2dXRKdkdGVTNhVm1fNmxWUk83aGlvZzJKM3hZYzNpb0JzSG0xTkctTE5UcURpTERQSFBpVHdBTllsOE15aWRiQnVpdEJ5cUMtd3Jyc2JoMFFPZmNfdXdSelpTcmlaMU81UG9qbC1RMzRMSEdWVHVKZXR4b2ZJeFhuVC10bHlsZnAxbkIySkVUdUdZUTN1QTJOMzZiY1lzVGc?oc=5",
         "tags": [
           "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
+        "publishedAt": "2026-05-29T07:00:00+00:00",
+        "summary": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert TGA+E Fachplaner",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
