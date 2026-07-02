@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T11:29:05.637205+00:00",
+  "generatedAt": "2026-07-02T13:18:18.140188+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -51,6 +51,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
         ]
       },
       {
@@ -112,16 +122,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
-        "source": "www.bote.ch",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -200,6 +200,16 @@
         ]
       },
       {
+        "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-26T06:53:18+00:00",
+        "summary": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen - iphone-ticker.de",
         "source": "iphone-ticker.de",
         "publishedAt": "2026-06-25T11:57:14+00:00",
@@ -233,22 +243,11 @@
       {
         "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
         "source": "Computer Bild",
-        "publishedAt": "2026-06-24T09:28:00+00:00",
+        "publishedAt": "2026-06-24T07:00:00+00:00",
         "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Ei Electronics Ei650 Rauchmelder für 18,84€ - klamm.de",
-        "source": "klamm.de",
-        "publishedAt": "2026-06-23T17:04:43+00:00",
-        "summary": "Ei Electronics Ei650 Rauchmelder für 18,84€ klamm.de",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmF1c2gzYlpJUEJRTnNYVUwzdkYwa3MxM0stSzVnSnpVYlB1RnpTdDVsYU52ZnEzNlplQUdSLWoxVEFzYUxhYVpXcmR5enA1WnpxOVdfZ3lJeXVSazhXdGJvOGVjRDZGZE9oNWktUFJ4QmpPc0xfUDBmMUFEdU5LX0lGTW9vYmxCWFZmSQ?oc=5",
-        "tags": [
-          "Ei",
-          "Ei Electronics"
         ]
       }
     ],
@@ -276,9 +275,19 @@
       {
         "title": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet - simplywall.st",
         "source": "simplywall.st",
-        "publishedAt": "2026-06-20T23:13:15+00:00",
+        "publishedAt": "2026-06-20T07:00:00+00:00",
         "summary": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcHg0RFVqb0w0LXZYUkNOeVZFVWJiM0dtSGFtUl9JUkV1Vzh1X1R1QTRTZm1hV2tYM3JiVlY0azlmNm1VSEFEbU5xQUZsZG9fZnQ2MTJiakg1Sk9rZWhVc01TUzN2VExYYTZUSER3YnY5V3FsVGs4VlBLLVpnRzhZMTRpLUFvdDRNR1VXX1ItRko5aURKTGstLUZlb29UOEVnNVdpT2N2RFREdGlKd3JDeUdNSGZEWWxFeVVBSTJ2eXdtNlhoMHRvcmwzZUZoM3NLSmtOQ2JLdUtzWWlxX1hDajU1bzhkYktFcE9va1930gHzAUFVX3lxTE1rT1UtUGhfSXE0M3dsSFhMU2JpS3BYdGhiRnlmYTFWUUJ5aUZyNmRCVWFpSVpKNWdUQXJaclYxeVgtd3FKMFRKcmZnTGM3bmU3RC1RdnhWN2JZV3BqZkZrTUo3NzN4dEZGTjZhRWRvNXlYdFVrSDU5bmJhYjRxZzF6cHFVcWc3dV83WlpZZ1VzN1NVS2YwS0ZXQnpfLS1Dbzd5WllyemJ5a0JCa2xIR1UtX3FqZkFSVlpZa2dnbmRMMkpaV3A1cXE4Z0ZNbkNfZ1drWFlOQy15R3NLblJNa2hTRk5Ec1d6RHV2dlF4TUFBc040TQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-18T07:01:06+00:00",
+        "summary": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0xfc1BHTV90MnN4TTZYOWpoVzVUS196dGRBTWhIamlZMUlodEp3d1dfeVBiQ1JmYVVUNnZpemo4VVlWejY1QTEzQ1ZVeld3djhtNDctd1RQcFRzaElZUnUyQVNGSlFuQWR5WGMzczN6Y3p2ZVh6ZE9YYTFCdExRcUNZcnFkVkFGa0dJZmMtNmxrSUJGU2lMYVB1bkJySWl3NDdRUHF3eW9KeXoxWU9RZkdERjRmNUJOSnZlMHc2a3BoY1lFdUYtdw?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -324,6 +333,16 @@
         ]
       },
       {
+        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-05T07:00:00+00:00",
@@ -351,26 +370,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
         "tags": [
           "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
         ]
       }
     ],
@@ -467,6 +466,16 @@
         ]
       },
       {
+        "title": "Siemens Aktie: Fehlalarm in Desigo CC - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-15T07:00:00+00:00",
+        "summary": "Siemens Aktie: Fehlalarm in Desigo CC AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
         "title": "Johnson Controls-Aktie (IE00BY7QL619): Analysten verweisen auf Rechenzentrums-Boom - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-06-14T09:19:44+00:00",
@@ -484,16 +493,6 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude - Rheinische Anzeigenblätter",
-        "source": "Rheinische Anzeigenblätter",
-        "publishedAt": "2026-05-29T07:00:00+00:00",
-        "summary": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude Rheinische Anzeigenblätter",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRU05cTJPbjAzTl9TYW1odVZlS0NsX0EwSzhIVFduejZNUmlibENyNHBHQW95UzV0N2p1SUhfVjNBRDU4NmFXSEY5ckFkMVhIOXRraEIyMVR4RVJvVWRRcXVSNVhZenNfVmlRNGk2b0UtdlEwSVVwZHdxLVhLYXY1M21TWXVfTDhIZzlzTW03ZW41bnV3bF9sM1lCeXJDY3lLXzlXTVVsSy1nRkxkQlROQnAwZjRieXJWLTNSNUJNYm1BRHZTeUJJNUEwcmhTdw?oc=5",
-        "tags": [
-          "Rheinische Anzeigenblätter"
         ]
       }
     ]
