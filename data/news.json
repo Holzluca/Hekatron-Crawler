@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:15:33.041834+00:00",
+  "generatedAt": "2026-07-02T20:39:53.958213+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -51,6 +51,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
         ]
       },
       {
@@ -112,16 +122,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
-        "source": "www.bote.ch",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -275,19 +275,9 @@
       {
         "title": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet - simplywall.st",
         "source": "simplywall.st",
-        "publishedAt": "2026-06-20T23:13:15+00:00",
+        "publishedAt": "2026-06-20T07:00:00+00:00",
         "summary": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcHg0RFVqb0w0LXZYUkNOeVZFVWJiM0dtSGFtUl9JUkV1Vzh1X1R1QTRTZm1hV2tYM3JiVlY0azlmNm1VSEFEbU5xQUZsZG9fZnQ2MTJiakg1Sk9rZWhVc01TUzN2VExYYTZUSER3YnY5V3FsVGs4VlBLLVpnRzhZMTRpLUFvdDRNR1VXX1ItRko5aURKTGstLUZlb29UOEVnNVdpT2N2RFREdGlKd3JDeUdNSGZEWWxFeVVBSTJ2eXdtNlhoMHRvcmwzZUZoM3NLSmtOQ2JLdUtzWWlxX1hDajU1bzhkYktFcE9va1930gHzAUFVX3lxTE1rT1UtUGhfSXE0M3dsSFhMU2JpS3BYdGhiRnlmYTFWUUJ5aUZyNmRCVWFpSVpKNWdUQXJaclYxeVgtd3FKMFRKcmZnTGM3bmU3RC1RdnhWN2JZV3BqZkZrTUo3NzN4dEZGTjZhRWRvNXlYdFVrSDU5bmJhYjRxZzF6cHFVcWc3dV83WlpZZ1VzN1NVS2YwS0ZXQnpfLS1Dbzd5WllyemJ5a0JCa2xIR1UtX3FqZkFSVlpZa2dnbmRMMkpaV3A1cXE4Z0ZNbkNfZ1drWFlOQy15R3NLblJNa2hTRk5Ec1d6RHV2dlF4TUFBc040TQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-18T07:01:06+00:00",
-        "summary": "Apollo Global Management Aktie - Strategisches Geschäftsmodell im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0xfc1BHTV90MnN4TTZYOWpoVzVUS196dGRBTWhIamlZMUlodEp3d1dfeVBiQ1JmYVVUNnZpemo4VVlWejY1QTEzQ1ZVeld3djhtNDctd1RQcFRzaElZUnUyQVNGSlFuQWR5WGMzczN6Y3p2ZVh6ZE9YYTFCdExRcUNZcnFkVkFGa0dJZmMtNmxrSUJGU2lMYVB1bkJySWl3NDdRUHF3eW9KeXoxWU9RZkdERjRmNUJOSnZlMHc2a3BoY1lFdUYtdw?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -370,6 +360,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
         "tags": [
           "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
