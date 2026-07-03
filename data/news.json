@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T09:40:38.995816+00:00",
+  "generatedAt": "2026-07-03T12:04:53.834319+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,16 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-05-22T07:00:00+00:00",
-        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
-        "tags": [
-          "elektro.net"
         ]
       },
       {
@@ -120,6 +110,16 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -376,16 +376,6 @@
     ],
     "trends": [
       {
-        "title": "Das Bürogebäude Marceau von Gecina - Paris-Objekt mit ESG-Fokus - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-07-02T20:37:35+00:00",
-        "summary": "Das Bürogebäude Marceau von Gecina - Paris-Objekt mit ESG-Fokus Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGZKTDR4eHROUHQ2UV82aUhSazhTekxlTEVOUFdwc2tRWXk1akZBb25JNTY3SVlOcklEYnhzSGJjOWFUNngzVkpOWE9SM1JPNmtvTkdEX0VQUVo1Um92YjZpeE1GRUQ2WFhsdWdETUtIa25fY1ZPNUpfNkRqMVBYS0hOclk0cTZjTENUQjZVdlNGVjYzXzlfLXd5bjhNS1BmTlM0WGQ1Z09ERFRDdlhpa3otb3RjbjJCY0JoYUNNcw?oc=5",
-        "tags": [
-          "ESG"
-        ]
-      },
-      {
         "title": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-02T13:51:37+00:00",
@@ -393,6 +383,16 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUhFUFlDQWpMbUlRRGYwZklqeVZMZjJXZHBkTjluMWZCYlJqZG9LOXNweWxHZjRZaVpFWW83bm9rTmJaUzFUc1ZlZ2xwSTA3ZWxGd19jaUNMMTBTWGt5dGJfeEtPQ2JIMlplYkRZc0FOTHl6RHFFR1JoT0ZTM2dtbjdqNmZ3aWRFTE5RNVg3QTN6TmVtYUpJcGNBMjlXUEUwSWd6WDg1UFAxVkEyTVhJaFBLOVFGazQtZjY0d3B0Ri1FWmpyVjg3OQ?oc=5",
         "tags": [
           "Ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Hitzeschutz in Deutschland: Grüne fordern Sofortprogramm für Gebäude-Kühlung - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-29T10:38:42+00:00",
+        "summary": "Hitzeschutz in Deutschland: Grüne fordern Sofortprogramm für Gebäude-Kühlung it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDg5WU5nQUxRMmlVSnNDclpjTHVpTGFBYjhaa1ZfaEJNaTFDS2J2OVd5US1mWU1tTWUzT3V0Z05XWm1uQlFERmxjSTJKTDE5eDBvU0NLa0pEdFBLWHNYdWJ3dTZPYkdId1NIckRuLTM4eV9RWXFFOUJCRUs5WGRrVEhzemlZdjQ3NXJ2WW1FM29YUmhPRW9nb3JKTERLUHdZVHFOdExrbG5DNExnT1ZZVw?oc=5",
+        "tags": [
+          "it boltwise"
         ]
       },
       {
