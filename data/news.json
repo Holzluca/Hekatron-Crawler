@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T19:10:01.852748+00:00",
+  "generatedAt": "2026-07-03T20:36:18.220343+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,16 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-05-22T07:00:00+00:00",
-        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
-        "tags": [
-          "elektro.net"
         ]
       },
       {
@@ -94,13 +84,13 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
+        "source": "NZZ – Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern NZZ – Neue Zürcher Zeitung",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "Neue Zürcher Zeitung"
+          "NZZ – Neue Zürcher Zeitung"
         ]
       },
       {
@@ -120,6 +110,16 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -324,6 +324,16 @@
         ]
       },
       {
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-17T07:00:00+00:00",
@@ -361,16 +371,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
         ]
       }
     ],
