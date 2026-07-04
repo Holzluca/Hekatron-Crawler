@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T23:32:41.982957+00:00",
+  "generatedAt": "2026-07-04T02:23:24.278970+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -376,6 +376,16 @@
     ],
     "trends": [
       {
+        "title": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-03T23:43:01+00:00",
+        "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
+        ]
+      },
+      {
         "title": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-03T18:10:32+00:00",
@@ -383,6 +393,16 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXhKc2w2U0w5RUpFUE9YWldVM1FGRjN2YlpJU0ozbWhjbFFtUVJXekd5blhQRzVwUW1Pa3gwVUJYZ2g1Q2ViYUphY2dfRE9NYVNuU05DWFVUMEhiUndidndlQm40YkY1WU1sM0hRdmtES1RTR0ZWTnpHLUNwb0tWX0dLai1hQnVkNU1vMDNMMnZVMGhQb2lBRE1VeVA5TWxrQ3Rvb3lzT1ZHbldQc3hUcXdUWWhSanlJckZuT3ZnOXVpZ1ZfSzh2am93?oc=5",
         "tags": [
           "Ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Das Bürogebäude Marceau von Gecina - Paris-Objekt mit ESG-Fokus - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-02T20:37:35+00:00",
+        "summary": "Das Bürogebäude Marceau von Gecina - Paris-Objekt mit ESG-Fokus Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGZKTDR4eHROUHQ2UV82aUhSazhTekxlTEVOUFdwc2tRWXk1akZBb25JNTY3SVlOcklEYnhzSGJjOWFUNngzVkpOWE9SM1JPNmtvTkdEX0VQUVo1Um92YjZpeE1GRUQ2WFhsdWdETUtIa25fY1ZPNUpfNkRqMVBYS0hOclk0cTZjTENUQjZVdlNGVjYzXzlfLXd5bjhNS1BmTlM0WGQ1Z09ERFRDdlhpa3otb3RjbjJCY0JoYUNNcw?oc=5",
+        "tags": [
+          "ESG"
         ]
       },
       {
@@ -474,26 +494,6 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGpDbFhuQWpEVmo2WEs2Y0dNUEdMaUtmT2lNbW5IQmlkZTBCaWFhZFA0cS1zSE1yQjVNb1hDZkxiLWJDeVlBT2Fya3pNekhZZXYwWE0yUFVvQTNLc0IwY2hudUFMSDlsMjdRNTI2cnpVZy1HOEhyUjZOdG1FYk1fWjZnVUMxMEtXUnNzWi0xZkxZaUJpREpnUlJwM1I4YThFVkYwZy05WHN1U2stb1JNazRLOA?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-06-17T07:00:00+00:00",
-        "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour TGA+E Fachplaner",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Gemeinderat investiert in moderne Gebäudetechnik - Nau",
-        "source": "Nau",
-        "publishedAt": "2026-06-17T07:00:00+00:00",
-        "summary": "Gemeinderat investiert in moderne Gebäudetechnik Nau",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEMxVDFjV1pRRXVBYXlpS0hPYTVhaGdpdW1wQUctS2Y3RlBveVdYZTNCOUV6T3FoN21xWFpobVRvMjhiajBnc3cyZUhiU3NXTURrYlh5QWQ5VElJaHVvanpPU0dBdDFlVENJOGVaY0ZHdW1sMHlSN0ZaRDktVndhaEhzVWJtSXpNVC13emtJRQ?oc=5",
-        "tags": [
-          "Nau"
         ]
       }
     ]
