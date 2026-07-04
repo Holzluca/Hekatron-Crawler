@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:01:14.758088+00:00",
+  "generatedAt": "2026-07-04T19:43:04.008783+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -41,6 +41,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
         ]
       },
       {
@@ -113,61 +123,9 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
-      {
-        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
-        "source": "GameStar",
-        "publishedAt": "2026-07-03T14:58:00+00:00",
-        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Shelly | KI-Assistenten sollen Automationen vorschlagen - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-30T09:37:42+00:00",
-        "summary": "Shelly | KI-Assistenten sollen Automationen vorschlagen SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEx6UjZNTmE3bnZWUUc4RVZpVTlOZFVsR0VGai1IcFU1SlpKUTQtX2w5VF9ueGFqVmNvTUNETmg0dzhpamlmeDRYWU1LdWU1LU5Sa21pbWc1Vk5TOFBvVWo5WnVIU0ZDLWVGUUZjVFYtX3hvdktEZkxGc3dtUlVYUUZRZkhRdU04a0d5aUl2NnlvZw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
-        "title": "DEAL | Bosch Spotless Max Cam für 679,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-28T17:43:57+00:00",
-        "summary": "DEAL | Bosch Spotless Max Cam für 679,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13QjBSYlF6N2Zwa2x2X1NrSHBFSVpHRDhEMXFSZ2RNNnpWNHFBLWdoX250YS1BSWFQQlJjSWU5MlhPZHBLcE9MSlpGVkxRbWhyZTEtV3I3LXFCX09MWEI4WWZMckxhdWdQYXNuWFdlc0g3YktqV0JJdTNIT3QyZw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "DEAL | Bosch Spotless + für 249,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-27T22:17:49+00:00",
-        "summary": "DEAL | Bosch Spotless + für 249,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXo3NjAtZlBiMW5NTF9kandDWVBtLTBBWVRCZFg5WVlWOUhtVUVxNFFwWE0xYUtUcjAxelVnZ1dJX0E5WWZScDFyZDlfeU03MDZtazNRZUEwSzdydExEeWtLaVZjV2x0LXktMkxKSmNJalZzdlg2M1Bfd1ZXbG05UGxkMS1iZ3NaekZxa3RPUlQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
       {
         "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
@@ -186,16 +144,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUY2wwMTZPYi1ESW53NFg4eFpJem9SQ1RQenJDZDdhNjlvYmFYaEFtSlctdG5WM2d6TURlTVYwSGNrS0tNNjZYeXlBaXRaOU5xd2fSAdcBQVVfeXFMUFkxYzgxR1Jkc1lTOFRVa2lCN1V3eVNhTU0wXy1kVWdQTEVGaFhVQzBEYmNlNWNubE5iSjhwYU10c1pkcjVwanRXN0drMVNXVXBtQ3lwQVJ4LWFUWGxEWXRvMWZzSTIwZnBRTWdUczY2VDlVYmlveHRJN0dyeWVGRVlzNDlGS3hMaE5WZlNmWGRybU4zYWprMkt4aFdOWFpPenIyTVNRWkxEMHNWZ3NPRXRvYnZZYWQ3UTZSQVpVRjhKUnNrQllnRHR3MUVlTVNZWmI5dlhReGs?oc=5",
         "tags": [
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-26T06:53:18+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -240,6 +188,16 @@
         ]
       },
       {
+        "title": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden - connect.de",
+        "source": "connect.de",
+        "publishedAt": "2026-06-23T12:33:26+00:00",
+        "summary": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden connect.de",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG4wRlJBSUhRZmlWSmtKNUJWY1ZId2RhNlhQc1NWUnN6eXpqbFF3dXNDaVFXSnRDMmg0Q19iYTBfR1hoV1FwVHRmWHNCSDQzS1BRRHhuZHBfcDJaeWlKMWdkeGFOY3Z4M3VaQW1vSTFrbWJNRDNYUGxRXzEwNkc5U3NDdm9rc3NCUXlGTy1rLUtqMVhqZ2YxeHdOMFBPdUU?oc=5",
+        "tags": [
+          "connect.de"
+        ]
+      },
+      {
         "title": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-06-23T07:00:00+00:00",
@@ -247,6 +205,48 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZThCZ3VHclRMeDN2aUFGWUMxVmk1QjhieVh1dnRCYnlyVEJCWmY1VlFvbTVrYWVjX2hfNXNMUFg1cUNjSEFGMTl3MnZEdGNQNUZCeVljZHpTUnVBYkU1bjZwamgzX2NnS2luZk1hakVVMnpoQTVDSW14SERPSUJBcmxGOTNad2RoQl84SXBSSC0yWUNOaXZHYTJmWXgwWmoyMzRRRm5rbjMxbDBo?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Chrome 149: Google schließt 33 Sicherheitslücken - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-06-17T07:00:00+00:00",
+        "summary": "Chrome 149: Google schließt 33 Sicherheitslücken Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUR2eExVR2pfdDE4VnVpYzVkZXR6a21VNnBxS2t5SC01aEtfVDlibV9IS01fejlFUVJRMHpicXgweDVQWGxmalRTdjRQaVprTWFxdVZRcERKMS1NS3ZkaE95bzBId2kwc2I0aEs2X2FsVjJVNlB0dG15a3VwdWxMdTc5VXhuQQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home Rauchwarnmelder II - 2er-Set - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-06-16T13:31:13+00:00",
+        "summary": "Tink: Bosch Smart Home Rauchwarnmelder II - 2er-Set n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGh6WmUtbnBwOE45RGhmd1JDamJJWVhQai1rOGM0U1pSdVZLWlp5Q3ZlYTFrMlBJanpRek9zTDdkTUdhUnVYd3o4ZkVfdEJKWVFFZUxGNklldVdWQkw1Y3VDdS1sYWVTZHluN3BJTVF4RG5yV0xzVUswWDdOMXdkM2JiNHVXRDNaZkY0c2F2eXRzZw?oc=5",
+        "tags": [
+          "Bosch",
+          "Rauchwarnmelder",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Test: Die beste WLAN-Steckdose - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-06-16T07:00:00+00:00",
+        "summary": "Test: Die beste WLAN-Steckdose FAZ",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rOGp2VUUzWXl3c04zaUpnNkZWMDRDVzRRVllZWUwwbGtoelZfTExuUTBteU1lYWFVeEpxUEdjckN0TWMzS0VibzJCX2ZCVU9uUExIYmJvcWJrYzRDblRVUFJnQXl1M25qWGpyTE54dw?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
+        "title": "Paramount+ startet Animationsserie Among Us in Deutschland - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-06-10T07:00:00+00:00",
+        "summary": "Paramount+ startet Animationsserie Among Us in Deutschland Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2pnVmZ5dXk3Wmw3WWllYXN5RkZCbFJaODYtLV94cGFPMUlNN0NnWm8zWU5iMXlpRmU3M3hsQlNsOXV4Y05pbEowa3VmWTVtLWVlWHlxZjdRSE5ibm8zVmxNblBsblJaU1lLU0Q1Rm5pZ2dKU0lIWUxMendkNW9Hb3hDWkxULW1CRlhIdlh5cDg?oc=5",
+        "tags": [
+          "Caschys Blog"
         ]
       }
     ],
@@ -404,16 +404,6 @@
         ]
       },
       {
-        "title": "Das Bürogebäude Marceau von Gecina - Paris-Objekt mit ESG-Fokus - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-07-02T20:37:35+00:00",
-        "summary": "Das Bürogebäude Marceau von Gecina - Paris-Objekt mit ESG-Fokus Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGZKTDR4eHROUHQ2UV82aUhSazhTekxlTEVOUFdwc2tRWXk1akZBb25JNTY3SVlOcklEYnhzSGJjOWFUNngzVkpOWE9SM1JPNmtvTkdEX0VQUVo1Um92YjZpeE1GRUQ2WFhsdWdETUtIa25fY1ZPNUpfNkRqMVBYS0hOclk0cTZjTENUQjZVdlNGVjYzXzlfLXd5bjhNS1BmTlM0WGQ1Z09ERFRDdlhpa3otb3RjbjJCY0JoYUNNcw?oc=5",
-        "tags": [
-          "ESG"
-        ]
-      },
-      {
         "title": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-02T13:51:37+00:00",
@@ -431,26 +421,6 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDg5WU5nQUxRMmlVSnNDclpjTHVpTGFBYjhaa1ZfaEJNaTFDS2J2OVd5US1mWU1tTWUzT3V0Z05XWm1uQlFERmxjSTJKTDE5eDBvU0NLa0pEdFBLWHNYdWJ3dTZPYkdId1NIckRuLTM4eV9RWXFFOUJCRUs5WGRrVEhzemlZdjQ3NXJ2WW1FM29YUmhPRW9nb3JKTERLUHdZVHFOdExrbG5DNExnT1ZZVw?oc=5",
         "tags": [
           "it boltwise"
-        ]
-      },
-      {
-        "title": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-28T01:38:24+00:00",
-        "summary": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYV9Ba1BUQkIwWDZGT2VFSi1TTk5ONUVkRGlIYjdYeHVhRWtIZk9UclRLLS1VY2xtVTNIcTh6YXhYWXZkeTluSEllMnI2cUlKOWtWcnhscUJpbVFtWC1MdnhTak5obWdsMU5fdmlkbEJINDdiQ2REeXVkWHVieE1xNFgwbEZaWVB0clZlaGZER05iOWhpNnFvRFpjbnB0TzVpaHJaVTVWVVM2REFUTGp5eWtmSXpZMUF5TmFkTXplSE4zX3hmNWFJY1IxSQ?oc=5",
-        "tags": [
-          "it boltwise"
-        ]
-      },
-      {
-        "title": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt - Newsbit.de",
-        "source": "Newsbit.de",
-        "publishedAt": "2026-06-27T08:04:00+00:00",
-        "summary": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt Newsbit.de",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTnV3TkNvYk5RM1VCQzlHVTFuRm1TdHZDdWNrRThaLXJDdFN3ZVMwVUJJYjk3LUlIbkltb1U5Y2c0US1MY3dfMzBERVYxa2Q4X1A1Z21ObUF4dTlkandwc1lqalp1RDdUWi14TGNOU2xJQ0Z5a0ROZzhGNjRaMGtuODFsdw?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
@@ -485,6 +455,16 @@
         ]
       },
       {
+        "title": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-06-21T13:35:07+00:00",
+        "summary": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeERzUzVJX1pUdkVYTU5VOUZaQ3Jaa2dzYVN1T2FibERORmM5N2tra1ZJMDVneUI3bHNHbUZiMTd5ZmRFeVVpemcyOEdqQVZOOU8xSGZRaXBsQjg4azNjNnFIZm83a1dQZl9nYjVrRzhYd2VQUXU4ZWhkcHFoZUxmWjVSVEZLckcxQndmNmJ3b2xXSnQ5WkowOTRTeVpVcnllOHBiVUdvNzdwMHJIU21tWWN2UWZjQlNJbmpV?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
+        ]
+      },
+      {
         "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-06-20T13:23:27+00:00",
@@ -492,6 +472,26 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
           "Ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Trotz KI-Disruption: UBS gibt Rückendeckung für SAP-Aktie und ERP-Geschäft - IT-TIMES",
+        "source": "IT-TIMES",
+        "publishedAt": "2026-06-19T16:35:00+00:00",
+        "summary": "Trotz KI-Disruption: UBS gibt Rückendeckung für SAP-Aktie und ERP-Geschäft IT-TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGpDbFhuQWpEVmo2WEs2Y0dNUEdMaUtmT2lNbW5IQmlkZTBCaWFhZFA0cS1zSE1yQjVNb1hDZkxiLWJDeVlBT2Fya3pNekhZZXYwWE0yUFVvQTNLc0IwY2hudUFMSDlsMjdRNTI2cnpVZy1HOEhyUjZOdG1FYk1fWjZnVUMxMEtXUnNzWi0xZkxZaUJpREpnUlJwM1I4YThFVkYwZy05WHN1U2stb1JNazRLOA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
+        "publishedAt": "2026-06-17T07:00:00+00:00",
+        "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour TGA+E Fachplaner",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
