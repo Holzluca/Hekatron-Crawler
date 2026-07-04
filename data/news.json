@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T02:23:24.278970+00:00",
+  "generatedAt": "2026-07-04T05:57:56.461231+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
+        "source": "GameStar",
+        "publishedAt": "2026-07-03T14:58:00+00:00",
+        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Shelly | KI-Assistenten sollen Automationen vorschlagen - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-06-30T09:37:42+00:00",
@@ -156,17 +166,6 @@
         "tags": [
           "Ei",
           "Bosch"
-        ]
-      },
-      {
-        "title": "Amazon: X-Sense Smart Home-Basisstation - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-06-27T11:08:25+00:00",
-        "summary": "Amazon: X-Sense Smart Home-Basisstation n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUc0RkFjd0Zmak5VSXZ5YWVEWFppbnh4MjlLRGRvWWxjMndOdTNZdE9yaTBjZ0xPVHBlWVp6NFhPT3VWRTN3aGJ2ZmUwa01xZnhOc3BxUGlaS1JsMlZfUWpqZTB6aDhqVEVzenNjUnRnV2lfeUpsdUdFUExrTElRbmVDU28zU1NvYWNKRzg2cmpodw?oc=5",
-        "tags": [
-          "X-Sense",
-          "Smart Home"
         ]
       },
       {
