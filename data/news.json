@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T12:02:24.666881+00:00",
+  "generatedAt": "2026-07-04T14:07:24.665857+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
+        "source": "GameStar",
+        "publishedAt": "2026-07-03T14:58:00+00:00",
+        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Shelly | KI-Assistenten sollen Automationen vorschlagen - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-06-30T09:37:42+00:00",
@@ -238,16 +248,6 @@
         "tags": [
           "connect.de"
         ]
-      },
-      {
-        "title": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-06-23T07:00:00+00:00",
-        "summary": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZThCZ3VHclRMeDN2aUFGWUMxVmk1QjhieVh1dnRCYnlyVEJCWmY1VlFvbTVrYWVjX2hfNXNMUFg1cUNjSEFGMTl3MnZEdGNQNUZCeVljZHpTUnVBYkU1bjZwamgzX2NnS2luZk1hakVVMnpoQTVDSW14SERPSUJBcmxGOTNad2RoQl84SXBSSC0yWUNOaXZHYTJmWXgwWmoyMzRRRm5rbjMxbDBo?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
@@ -312,16 +312,6 @@
         ]
       },
       {
-        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-20T07:00:00+00:00",
-        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-17T07:00:00+00:00",
@@ -369,6 +359,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
         "tags": [
           "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
@@ -434,16 +434,6 @@
         ]
       },
       {
-        "title": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt - Newsbit.de",
-        "source": "Newsbit.de",
-        "publishedAt": "2026-06-27T08:04:00+00:00",
-        "summary": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt Newsbit.de",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTnV3TkNvYk5RM1VCQzlHVTFuRm1TdHZDdWNrRThaLXJDdFN3ZVMwVUJJYjk3LUlIbkltb1U5Y2c0US1MY3dfMzBERVYxa2Q4X1A1Z21ObUF4dTlkandwc1lqalp1RDdUWi14TGNOU2xJQ0Z5a0ROZzhGNjRaMGtuODFsdw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Durchbruch bei agentischer KI: UBS prognostiziert AMD eine beschleunigte Adaption - IT-TIMES",
         "source": "IT-TIMES",
         "publishedAt": "2026-06-26T06:30:00+00:00",
@@ -492,6 +482,16 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
           "Ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Trotz KI-Disruption: UBS gibt Rückendeckung für SAP-Aktie und ERP-Geschäft - IT-TIMES",
+        "source": "IT-TIMES",
+        "publishedAt": "2026-06-19T16:35:00+00:00",
+        "summary": "Trotz KI-Disruption: UBS gibt Rückendeckung für SAP-Aktie und ERP-Geschäft IT-TIMES",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGpDbFhuQWpEVmo2WEs2Y0dNUEdMaUtmT2lNbW5IQmlkZTBCaWFhZFA0cS1zSE1yQjVNb1hDZkxiLWJDeVlBT2Fya3pNekhZZXYwWE0yUFVvQTNLc0IwY2hudUFMSDlsMjdRNTI2cnpVZy1HOEhyUjZOdG1FYk1fWjZnVUMxMEtXUnNzWi0xZkxZaUJpREpnUlJwM1I4YThFVkYwZy05WHN1U2stb1JNazRLOA?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
