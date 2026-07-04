@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T14:07:24.665857+00:00",
+  "generatedAt": "2026-07-04T15:39:34.241169+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -312,6 +312,16 @@
         ]
       },
       {
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-17T07:00:00+00:00",
@@ -359,16 +369,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
         "tags": [
           "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
         ]
       }
     ],
@@ -424,13 +424,13 @@
         ]
       },
       {
-        "title": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-28T01:38:24+00:00",
-        "summary": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYV9Ba1BUQkIwWDZGT2VFSi1TTk5ONUVkRGlIYjdYeHVhRWtIZk9UclRLLS1VY2xtVTNIcTh6YXhYWXZkeTluSEllMnI2cUlKOWtWcnhscUJpbVFtWC1MdnhTak5obWdsMU5fdmlkbEJINDdiQ2REeXVkWHVieE1xNFgwbEZaWVB0clZlaGZER05iOWhpNnFvRFpjbnB0TzVpaHJaVTVWVVM2REFUTGp5eWtmSXpZMUF5TmFkTXplSE4zX3hmNWFJY1IxSQ?oc=5",
+        "title": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt - Newsbit.de",
+        "source": "Newsbit.de",
+        "publishedAt": "2026-06-27T08:04:00+00:00",
+        "summary": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt Newsbit.de",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTnV3TkNvYk5RM1VCQzlHVTFuRm1TdHZDdWNrRThaLXJDdFN3ZVMwVUJJYjk3LUlIbkltb1U5Y2c0US1MY3dfMzBERVYxa2Q4X1A1Z21ObUF4dTlkandwc1lqalp1RDdUWi14TGNOU2xJQ0Z5a0ROZzhGNjRaMGtuODFsdw?oc=5",
         "tags": [
-          "it boltwise"
+          "KI"
         ]
       },
       {
