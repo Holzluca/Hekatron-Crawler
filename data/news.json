@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:43:04.008783+00:00",
+  "generatedAt": "2026-07-04T20:48:30.942389+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -188,16 +188,6 @@
         ]
       },
       {
-        "title": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden - connect.de",
-        "source": "connect.de",
-        "publishedAt": "2026-06-23T12:33:26+00:00",
-        "summary": "Warum smarte, vernetzte Rauchmelder für viele Haushalte sinnvoller werden connect.de",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG4wRlJBSUhRZmlWSmtKNUJWY1ZId2RhNlhQc1NWUnN6eXpqbFF3dXNDaVFXSnRDMmg0Q19iYTBfR1hoV1FwVHRmWHNCSDQzS1BRRHhuZHBfcDJaeWlKMWdkeGFOY3Z4M3VaQW1vSTFrbWJNRDNYUGxRXzEwNkc5U3NDdm9rc3NCUXlGTy1rLUtqMVhqZ2YxeHdOMFBPdUU?oc=5",
-        "tags": [
-          "connect.de"
-        ]
-      },
-      {
         "title": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-06-23T07:00:00+00:00",
@@ -247,6 +237,16 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2pnVmZ5dXk3Wmw3WWllYXN5RkZCbFJaODYtLV94cGFPMUlNN0NnWm8zWU5iMXlpRmU3M3hsQlNsOXV4Y05pbEowa3VmWTVtLWVlWHlxZjdRSE5ibm8zVmxNblBsblJaU1lLU0Q1Rm5pZ2dKU0lIWUxMendkNW9Hb3hDWkxULW1CRlhIdlh5cDg?oc=5",
         "tags": [
           "Caschys Blog"
+        ]
+      },
+      {
+        "title": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-09T07:00:00+00:00",
+        "summary": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -374,16 +374,6 @@
     ],
     "trends": [
       {
-        "title": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-07-04T10:32:59+00:00",
-        "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
-        "tags": [
-          "Ad-hoc-news.de"
-        ]
-      },
-      {
         "title": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-03T23:43:01+00:00",
@@ -424,6 +414,26 @@
         ]
       },
       {
+        "title": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-28T01:38:24+00:00",
+        "summary": "US-Schläge in Iran verschärfen die Lage im Persischen Golf und testen maritime Sicherheitssysteme it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYV9Ba1BUQkIwWDZGT2VFSi1TTk5ONUVkRGlIYjdYeHVhRWtIZk9UclRLLS1VY2xtVTNIcTh6YXhYWXZkeTluSEllMnI2cUlKOWtWcnhscUJpbVFtWC1MdnhTak5obWdsMU5fdmlkbEJINDdiQ2REeXVkWHVieE1xNFgwbEZaWVB0clZlaGZER05iOWhpNnFvRFpjbnB0TzVpaHJaVTVWVVM2REFUTGp5eWtmSXpZMUF5TmFkTXplSE4zX3hmNWFJY1IxSQ?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
+        "title": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt - Newsbit.de",
+        "source": "Newsbit.de",
+        "publishedAt": "2026-06-27T08:04:00+00:00",
+        "summary": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt Newsbit.de",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTnV3TkNvYk5RM1VCQzlHVTFuRm1TdHZDdWNrRThaLXJDdFN3ZVMwVUJJYjk3LUlIbkltb1U5Y2c0US1MY3dfMzBERVYxa2Q4X1A1Z21ObUF4dTlkandwc1lqalp1RDdUWi14TGNOU2xJQ0Z5a0ROZzhGNjRaMGtuODFsdw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Durchbruch bei agentischer KI: UBS prognostiziert AMD eine beschleunigte Adaption - IT-TIMES",
         "source": "IT-TIMES",
         "publishedAt": "2026-06-26T06:30:00+00:00",
@@ -452,16 +462,6 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkNlb2Jnclc1cEtXQXBhQVV2RlBJSGw4X2RPZ1NtM0lRU0pwY09KWERCRWg1NXRQSDBydlZvQUVUazJSVlUyY3FVX3AyY3AwSHp6N1d4R3MzQ0d1dVZTblMyYkdrVHhaWm10ckI2OGI2YnVMNWNRZWQ0eDFMMzZMc2Uza2ZidTg1X21kSXZQQzBKLU9yS1BvRGVjbE81ZFZ1d0F5ek5BOA?oc=5",
         "tags": [
           "DataCenter-Insider"
-        ]
-      },
-      {
-        "title": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-06-21T13:35:07+00:00",
-        "summary": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeERzUzVJX1pUdkVYTU5VOUZaQ3Jaa2dzYVN1T2FibERORmM5N2tra1ZJMDVneUI3bHNHbUZiMTd5ZmRFeVVpemcyOEdqQVZOOU8xSGZRaXBsQjg4azNjNnFIZm83a1dQZl9nYjVrRzhYd2VQUXU4ZWhkcHFoZUxmWjVSVEZLckcxQndmNmJ3b2xXSnQ5WkowOTRTeVpVcnllOHBiVUdvNzdwMHJIU21tWWN2UWZjQlNJbmpV?oc=5",
-        "tags": [
-          "Ad-hoc-news.de"
         ]
       },
       {
