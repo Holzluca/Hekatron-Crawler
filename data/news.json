@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T02:47:38.503314+00:00",
+  "generatedAt": "2026-07-05T06:35:09.700577+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -104,17 +104,6 @@
         ]
       },
       {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
         "source": "www.bote.ch",
         "publishedAt": "2026-03-30T07:00:00+00:00",
@@ -123,9 +112,51 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Shelly | KI-Assistenten sollen Automationen vorschlagen - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-30T09:37:42+00:00",
+        "summary": "Shelly | KI-Assistenten sollen Automationen vorschlagen SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEx6UjZNTmE3bnZWUUc4RVZpVTlOZFVsR0VGai1IcFU1SlpKUTQtX2w5VF9ueGFqVmNvTUNETmg0dzhpamlmeDRYWU1LdWU1LU5Sa21pbWc1Vk5TOFBvVWo5WnVIU0ZDLWVGUUZjVFYtX3hvdktEZkxGc3dtUlVYUUZRZkhRdU04a0d5aUl2NnlvZw?oc=5",
+        "tags": [
+          "SmarthomeAssistent"
+        ]
+      },
+      {
+        "title": "DEAL | Bosch Spotless Max Cam für 679,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-28T17:43:57+00:00",
+        "summary": "DEAL | Bosch Spotless Max Cam für 679,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13QjBSYlF6N2Zwa2x2X1NrSHBFSVpHRDhEMXFSZ2RNNnpWNHFBLWdoX250YS1BSWFQQlJjSWU5MlhPZHBLcE9MSlpGVkxRbWhyZTEtV3I3LXFCX09MWEI4WWZMckxhdWdQYXNuWFdlc0g3YktqV0JJdTNIT3QyZw?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "DEAL | Bosch Spotless + für 249,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-27T22:17:49+00:00",
+        "summary": "DEAL | Bosch Spotless + für 249,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXo3NjAtZlBiMW5NTF9kandDWVBtLTBBWVRCZFg5WVlWOUhtVUVxNFFwWE0xYUtUcjAxelVnZ1dJX0E5WWZScDFyZDlfeU03MDZtazNRZUEwSzdydExEeWtLaVZjV2x0LXktMkxKSmNJalZzdlg2M1Bfd1ZXbG05UGxkMS1iZ3NaekZxa3RPUlQ?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
       {
         "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
@@ -144,6 +175,26 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUY2wwMTZPYi1ESW53NFg4eFpJem9SQ1RQenJDZDdhNjlvYmFYaEFtSlctdG5WM2d6TURlTVYwSGNrS0tNNjZYeXlBaXRaOU5xd2fSAdcBQVVfeXFMUFkxYzgxR1Jkc1lTOFRVa2lCN1V3eVNhTU0wXy1kVWdQTEVGaFhVQzBEYmNlNWNubE5iSjhwYU10c1pkcjVwanRXN0drMVNXVXBtQ3lwQVJ4LWFUWGxEWXRvMWZzSTIwZnBRTWdUczY2VDlVYmlveHRJN0dyeWVGRVlzNDlGS3hMaE5WZlNmWGRybU4zYWprMkt4aFdOWFpPenIyTVNRWkxEMHNWZ3NPRXRvYnZZYWQ3UTZSQVpVRjhKUnNrQllnRHR3MUVlTVNZWmI5dlhReGs?oc=5",
         "tags": [
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-26T07:00:00+00:00",
+        "summary": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QLXduUFJ3YWhIYjRTUGQweXliVm03N2FYRDV6S1VQa0FqREZoQW55TTNCQjhud3l6TVlWWFJEaUxnUi01TzRLMmM0QkFSSC1VNDJDTjR5NHN1U05uVGRjdVZtZDFHZm5UbzNKSnRsTUo5M3A4SDl3ei1R?oc=5",
+        "tags": [
+          "Teltarif"
+        ]
+      },
+      {
+        "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-26T06:53:18+00:00",
+        "summary": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -196,87 +247,25 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Chrome 149: Google schließt 33 Sicherheitslücken - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-06-17T07:00:00+00:00",
-        "summary": "Chrome 149: Google schließt 33 Sicherheitslücken Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUR2eExVR2pfdDE4VnVpYzVkZXR6a21VNnBxS2t5SC01aEtfVDlibV9IS01fejlFUVJRMHpicXgweDVQWGxmalRTdjRQaVprTWFxdVZRcERKMS1NS3ZkaE95bzBId2kwc2I0aEs2X2FsVjJVNlB0dG15a3VwdWxMdTc5VXhuQQ?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home Rauchwarnmelder II - 2er-Set - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-06-16T13:31:13+00:00",
-        "summary": "Tink: Bosch Smart Home Rauchwarnmelder II - 2er-Set n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGh6WmUtbnBwOE45RGhmd1JDamJJWVhQai1rOGM0U1pSdVZLWlp5Q3ZlYTFrMlBJanpRek9zTDdkTUdhUnVYd3o4ZkVfdEJKWVFFZUxGNklldVdWQkw1Y3VDdS1sYWVTZHluN3BJTVF4RG5yV0xzVUswWDdOMXdkM2JiNHVXRDNaZkY0c2F2eXRzZw?oc=5",
-        "tags": [
-          "Bosch",
-          "Rauchwarnmelder",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Test: Die beste WLAN-Steckdose - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-06-16T07:00:00+00:00",
-        "summary": "Test: Die beste WLAN-Steckdose FAZ",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rOGp2VUUzWXl3c04zaUpnNkZWMDRDVzRRVllZWUwwbGtoelZfTExuUTBteU1lYWFVeEpxUEdjckN0TWMzS0VibzJCX2ZCVU9uUExIYmJvcWJrYzRDblRVUFJnQXl1M25qWGpyTE54dw?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
-      {
-        "title": "Paramount+ startet Animationsserie Among Us in Deutschland - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-06-10T07:00:00+00:00",
-        "summary": "Paramount+ startet Animationsserie Among Us in Deutschland Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2pnVmZ5dXk3Wmw3WWllYXN5RkZCbFJaODYtLV94cGFPMUlNN0NnWm8zWU5iMXlpRmU3M3hsQlNsOXV4Y05pbEowa3VmWTVtLWVlWHlxZjdRSE5ibm8zVmxNblBsblJaU1lLU0Q1Rm5pZ2dKU0lIWUxMendkNW9Hb3hDWkxULW1CRlhIdlh5cDg?oc=5",
-        "tags": [
-          "Caschys Blog"
-        ]
-      },
-      {
-        "title": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Private Credit Fund von Apollo Global Management - Rendite-orientiertes Anlageprodukt im Priv - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
+        "title": "Apollo Private Credit Fund von Apollo Global Management - Rendite-orientiertes Anlageprodukt im Priv - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-01T09:05:46+00:00",
-        "summary": "Apollo Private Credit Fund von Apollo Global Management - Rendite-orientiertes Anlageprodukt im Priv Ad-hoc-news.de",
+        "summary": "Apollo Private Credit Fund von Apollo Global Management - Rendite-orientiertes Anlageprodukt im Priv AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lkSU5lSHU5dHZDZTFqNmlWbWhMMEhDWjhlOFd2SzhBSGNGLURtRDVfUTNkUlpUdmtzTHNRa0RBeGhPNFNpTlhaaFpQczNEN3BuZEZOZXFBUFA4cmhBMnNQTk9rRnpudWNYZkxkYXBBdUNZdWMtU3c5WjlwRFdaVVFJa1VfcGZNa3RhcXFxdmt0VUo5c3B6RGxKQmpOalQyWDF5aWhuWmV6X2hVbDhrVXd4Vmw?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
+        "title": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-06-28T09:22:24+00:00",
-        "summary": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich Ad-hoc-news.de",
+        "summary": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDk5cmV5Zm5MNVZJdGZuNDhoRmNHWmRVWmhoOXljampkSS1kTjdLQWNiNWdGVy0wQWJIWnFZbDRfV2w2MTZHWnlGa1NqclptTkRaWW5RV0MzSHBJXzhvNmQ2X3RaMHNjTmxiU2hIT3VvdG9XZmJRei1CeFRSOWJ1MkhIekRhVzV0bTVDb3F1Z0FEbjkyaURpZGpHUi1keEFVV0VBQ2pTNW9WVmwyQV83aWZLLWdmeWZVTUE?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Foku - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-06-18T05:12:56+00:00",
-        "summary": "Apollo Global Management Aktie - Kooperation mit Morningstar Wealth rückt Privatmärkte in den Foku Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbjJJWDFnclo2bkZBVWpVV3AtdUNZRkNKUTZFbHVfdHZET054NWpDZDQzQkh5RXhHRWgzeGJnUWphMFBNVUtodW1VUlFMeXpkTGFJdEowaWNiaFdheVE1NlhkSnNRUmNYbEJLME93R29yVVAxYlJ2b29sS3BxTTlNRTBDU3p5Z3JoQU9DcHZlTHhNUUdSMTl6SGNHVTVjUVhlclA2ei1yVXhna05qNmNRRXEzZjU4dUtzaWcxem4wNWVEOFptX1B1LXpLcw?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -332,6 +321,16 @@
         ]
       },
       {
+        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-05T07:00:00+00:00",
@@ -374,43 +373,43 @@
     ],
     "trends": [
       {
-        "title": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
+        "title": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-04T10:32:59+00:00",
-        "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� Ad-hoc-news.de",
+        "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
         "tags": [
-          "Ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
-        "title": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
+        "title": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-03T23:43:01+00:00",
-        "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik Ad-hoc-news.de",
+        "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
         "tags": [
-          "Ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
-        "title": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
+        "title": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-03T18:10:32+00:00",
-        "summary": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick Ad-hoc-news.de",
+        "summary": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXhKc2w2U0w5RUpFUE9YWldVM1FGRjN2YlpJU0ozbWhjbFFtUVJXekd5blhQRzVwUW1Pa3gwVUJYZ2g1Q2ViYUphY2dfRE9NYVNuU05DWFVUMEhiUndidndlQm40YkY1WU1sM0hRdmtES1RTR0ZWTnpHLUNwb0tWX0dLai1hQnVkNU1vMDNMMnZVMGhQb2lBRE1VeVA5TWxrQ3Rvb3lzT1ZHbldQc3hUcXdUWWhSanlJckZuT3ZnOXVpZ1ZfSzh2am93?oc=5",
         "tags": [
-          "Ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
-        "title": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
+        "title": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-02T13:51:37+00:00",
-        "summary": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit Ad-hoc-news.de",
+        "summary": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUhFUFlDQWpMbUlRRGYwZklqeVZMZjJXZHBkTjluMWZCYlJqZG9LOXNweWxHZjRZaVpFWW83bm9rTmJaUzFUc1ZlZ2xwSTA3ZWxGd19jaUNMMTBTWGt5dGJfeEtPQ2JIMlplYkRZc0FOTHl6RHFFR1JoT0ZTM2dtbjdqNmZ3aWRFTE5RNVg3QTN6TmVtYUpJcGNBMjlXUEUwSWd6WDg1UFAxVkEyTVhJaFBLOVFGazQtZjY0d3B0Ri1FWmpyVjg3OQ?oc=5",
         "tags": [
-          "Ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
@@ -424,13 +423,13 @@
         ]
       },
       {
-        "title": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt - Newsbit.de",
-        "source": "Newsbit.de",
-        "publishedAt": "2026-06-27T08:04:00+00:00",
-        "summary": "BlackRock: KI-Euphorie „saugt Sauerstoff\" aus dem Bitcoin-Markt Newsbit.de",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTnV3TkNvYk5RM1VCQzlHVTFuRm1TdHZDdWNrRThaLXJDdFN3ZVMwVUJJYjk3LUlIbkltb1U5Y2c0US1MY3dfMzBERVYxa2Q4X1A1Z21ObUF4dTlkandwc1lqalp1RDdUWi14TGNOU2xJQ0Z5a0ROZzhGNjRaMGtuODFsdw?oc=5",
+        "title": "Aperio C100 von ASSA ABLOY: Funk-Retrofit für digitale Bürozugänge - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-27T17:55:46+00:00",
+        "summary": "Aperio C100 von ASSA ABLOY: Funk-Retrofit für digitale Bürozugänge it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDU1LWlZZmVZcDBZVzVWM2dHa2tCZjd6YXc5VkZYemVTZ2N6Rl9DNmdlRHo4bFVPZTRZNktreTU2SDlvcUxUektiX3B2cUUzRUY2dk14cHlWTXZxb1hFTnBsWGFkSUp6N29vSkptRmx0V1NwUHRCZ3dfQkJQT0tuQzdnTVhadmVadUM0bFRDOXdBd1EyRUZSM2tBUFROV3hYUGc?oc=5",
         "tags": [
-          "KI"
+          "Retrofit"
         ]
       },
       {
@@ -465,23 +464,23 @@
         ]
       },
       {
-        "title": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
+        "title": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-06-21T13:35:07+00:00",
-        "summary": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung Ad-hoc-news.de",
+        "summary": "Johnson Controls Aktie - Hintergrund zur Geschäftsausrichtung AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeERzUzVJX1pUdkVYTU5VOUZaQ3Jaa2dzYVN1T2FibERORmM5N2tra1ZJMDVneUI3bHNHbUZiMTd5ZmRFeVVpemcyOEdqQVZOOU8xSGZRaXBsQjg4azNjNnFIZm83a1dQZl9nYjVrRzhYd2VQUXU4ZWhkcHFoZUxmWjVSVEZLckcxQndmNmJ3b2xXSnQ5WkowOTRTeVpVcnllOHBiVUdvNzdwMHJIU21tWWN2UWZjQlNJbmpV?oc=5",
         "tags": [
-          "Ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
-        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
+        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-06-20T13:23:27+00:00",
-        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus Ad-hoc-news.de",
+        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
-          "Ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
