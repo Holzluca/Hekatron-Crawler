@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T21:17:45.387462+00:00",
+  "generatedAt": "2026-07-07T22:35:19.635457+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -169,6 +169,16 @@
         ]
       },
       {
+        "title": "Amazon: X-Sense Smarter Rauchmelder WLAN mit Sprachausgabe - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-06-27T16:08:36+00:00",
+        "summary": "Amazon: X-Sense Smarter Rauchmelder WLAN mit Sprachausgabe n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVlKNkpjd1hGWFlaUkpSamNYNVhyZVZWV2dsQ1pKWHg5elBIN1MwNWc5bGpGSjR1cmlaX1U4TlgzWlBlUDVzMkR4dUNHRWc3ZVRPanJoMTE1Q0llWmx3MlpMVTNKWmtuWlg5YnVmVTJHUEk0dm9aR044Zk5CdVlzVTRFMXZBVFdBbG1JdlR2VklNMDQ5d0ZiSlNiaw?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Amazon: X-Sense Smart Home-Basisstation - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-06-27T11:08:25+00:00",
@@ -239,16 +249,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-06-24T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
@@ -258,16 +258,6 @@
         "publishedAt": "2026-07-01T09:05:46+00:00",
         "summary": "Apollo Private Credit Fund von Apollo Global Management - Rendite-orientiertes Anlageprodukt im Priv AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2lkSU5lSHU5dHZDZTFqNmlWbWhMMEhDWjhlOFd2SzhBSGNGLURtRDVfUTNkUlpUdmtzTHNRa0RBeGhPNFNpTlhaaFpQczNEN3BuZEZOZXFBUFA4cmhBMnNQTk9rRnpudWNYZkxkYXBBdUNZdWMtU3c5WjlwRFdaVVFJa1VfcGZNa3RhcXFxdmt0VUo5c3B6RGxKQmpOalQyWDF5aWhuWmV6X2hVbDhrVXd4Vmw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-28T09:22:24+00:00",
-        "summary": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDk5cmV5Zm5MNVZJdGZuNDhoRmNHWmRVWmhoOXljampkSS1kTjdLQWNiNWdGVy0wQWJIWnFZbDRfV2w2MTZHWnlGa1NqclptTkRaWW5RV0MzSHBJXzhvNmQ2X3RaMHNjTmxiU2hIT3VvdG9XZmJRei1CeFRSOWJ1MkhIekRhVzV0bTVDb3F1Z0FEbjkyaURpZGpHUi1keEFVV0VBQ2pTNW9WVmwyQV83aWZLLWdmeWZVTUE?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -370,6 +360,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
         "tags": [
           "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
