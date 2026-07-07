@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T01:14:29.743185+00:00",
+  "generatedAt": "2026-07-07T05:30:28.791400+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -131,7 +131,7 @@
         "source": "GoogleWatchBlog",
         "publishedAt": "2026-07-06T11:00:30+00:00",
         "summary": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen GoogleWatchBlog",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLWpfNUYzUm9hR0ZMcC1XSm9mV2VCYzJTbGlNOThoWFNZWUoweTVUdFFSSVlSYWZfOWxoWTNfajZYdjVuZ2d1VnNTNmhHVzNONTBJYnJsTjZsU0pHUWJuVVRyNEVIV204N1VtSUhvc25rRW16UVF5WXRXUDVPejFERnZmNUplc3RCbnJtQi1lR21RUkdpRmtpbFJXWVdXcW41RmhGMHNXUTFrUFMxRlJ3djQ5Rkh5dGxxT1dEaXBYbk9xNEtsRGxCUlNfMEJZYmxjcGpiQtIB2gFBVV95cUxPUHY1UmxOTENZdmZqUzNKSjYydWp0WGFOZnlwUXdUeE1FcGdCa1lxY2EySWtwQ1gwYkVvZHJ5UEtwckkzQW9OSXAxZU8wYUpVdlhkR1Q2eWRaa29sMWFjdjE2Ujd6aDFlVEtBaHdXZ2ZOVURJeFh0OXAyb2lLeW12dWZvVHFCQWhCWTJLcVh2MlhFZkMwMWhWbUFMUFp5U0MtckJyRkh5YVpPYW51N1JraWcyenQ1Njdxb0NaZWVscjFobTNseVRMVzNlQmxFTGNWLUt6ck90d1RWUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPZWhlZmRISGFtckluQzRmRUZLQ1hocElmQ3h6Y0dBcE91WVB5Rnhsa3V4NGRHdDVxQlNZNTNhc0RxeVowZ212RG9YV0d1dWk5dmfSAdoBQVVfeXFMT1B2NVJsTkxDWXZmalMzSko2MnVqdFhhTmZ5cFF3VHhNRXBnQmtZcWNhMklrcENYMGJFb2RyeVBLcHJJM0FvTklwMWVPMGFKVXZYZEdUNnlkWmtvbDFhY3YxNlI3emgxZVRLQWh3V2dmTlVESXhYdDlwMm9pS3ltdnVmb1RxQkFoQlkyS3FYdjJYRWZDMDFoVm1BTFBaeVNDLXJCckZIeWFaT2FudTdSa2lnMnp0NTY3cW9DWmVlbHIxaG0zbHlUTFczZUJsRUxjVi1LenJPdHdUVlE?oc=5",
         "tags": [
           "Smart Home"
         ]
@@ -385,17 +385,6 @@
         ]
       },
       {
-        "title": "KI-generierter Spot: Rysm und Drees & Sommer trommeln mit schwebenden Möbeln für Nachhaltigkeit - Horizont.net",
-        "source": "Horizont.net",
-        "publishedAt": "2026-07-06T09:48:59+00:00",
-        "summary": "KI-generierter Spot: Rysm und Drees & Sommer trommeln mit schwebenden Möbeln für Nachhaltigkeit Horizont.net",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWEM0WV9YYUFsaEVYOXRodlItS0ZBbDM3WTdERy1iS2pHRTV0VFFpck9YZGpBMWxHZVRQUDhpTERFLTFoVmxxTS0taEE2aWFIMFpybVRacFNvWmVBVmpjQkE1a2JTOWtqWXMwam90LTUwTlQ0ZWhrYy1MczhzV242NTVqLVdxcTRnTEZlMDBRTjJLOVh2ZzlTc1ZaeHpyeUZRZUhnWjBEX0hjM0RzcnBuNHZSVFptOERETWVLT3IyMFZSMWZFZ0RrZXJVVEJPTmZfd0ZIRGhjVEVKZzdqRmhuMXhQSQ?oc=5",
-        "tags": [
-          "KI",
-          "Nachhaltigkeit"
-        ]
-      },
-      {
         "title": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-07-04T10:32:59+00:00",
@@ -491,6 +480,16 @@
         "publishedAt": "2026-06-19T16:35:00+00:00",
         "summary": "Trotz KI-Disruption: UBS gibt Rückendeckung für SAP-Aktie und ERP-Geschäft IT-TIMES",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGpDbFhuQWpEVmo2WEs2Y0dNUEdMaUtmT2lNbW5IQmlkZTBCaWFhZFA0cS1zSE1yQjVNb1hDZkxiLWJDeVlBT2Fya3pNekhZZXYwWE0yUFVvQTNLc0IwY2hudUFMSDlsMjdRNTI2cnpVZy1HOEhyUjZOdG1FYk1fWjZnVUMxMEtXUnNzWi0xZkxZaUJpREpnUlJwM1I4YThFVkYwZy05WHN1U2stb1JNazRLOA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
+        "publishedAt": "2026-06-17T07:00:00+00:00",
+        "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour TGA+E Fachplaner",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
         "tags": [
           "KI"
         ]
