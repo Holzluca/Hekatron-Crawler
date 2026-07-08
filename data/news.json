@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T05:34:23.420787+00:00",
+  "generatedAt": "2026-07-08T08:15:07.294919+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -376,6 +376,46 @@
     ],
     "trends": [
       {
+        "title": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-07-04T10:32:59+00:00",
+        "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-07-03T23:43:01+00:00",
+        "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-07-03T18:10:32+00:00",
+        "summary": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXhKc2w2U0w5RUpFUE9YWldVM1FGRjN2YlpJU0ozbWhjbFFtUVJXekd5blhQRzVwUW1Pa3gwVUJYZ2g1Q2ViYUphY2dfRE9NYVNuU05DWFVUMEhiUndidndlQm40YkY1WU1sM0hRdmtES1RTR0ZWTnpHLUNwb0tWX0dLai1hQnVkNU1vMDNMMnZVMGhQb2lBRE1VeVA5TWxrQ3Rvb3lzT1ZHbldQc3hUcXdUWWhSanlJckZuT3ZnOXVpZ1ZfSzh2am93?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-07-02T13:51:37+00:00",
+        "summary": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUhFUFlDQWpMbUlRRGYwZklqeVZMZjJXZHBkTjluMWZCYlJqZG9LOXNweWxHZjRZaVpFWW83bm9rTmJaUzFUc1ZlZ2xwSTA3ZWxGd19jaUNMMTBTWGt5dGJfeEtPQ2JIMlplYkRZc0FOTHl6RHFFR1JoT0ZTM2dtbjdqNmZ3aWRFTE5RNVg3QTN6TmVtYUpJcGNBMjlXUEUwSWd6WDg1UFAxVkEyTVhJaFBLOVFGazQtZjY0d3B0Ri1FWmpyVjg3OQ?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
         "title": "Hitzeschutz in Deutschland: Grüne fordern Sofortprogramm für Gebäude-Kühlung - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-06-29T10:38:42+00:00",
@@ -383,6 +423,16 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDg5WU5nQUxRMmlVSnNDclpjTHVpTGFBYjhaa1ZfaEJNaTFDS2J2OVd5US1mWU1tTWUzT3V0Z05XWm1uQlFERmxjSTJKTDE5eDBvU0NLa0pEdFBLWHNYdWJ3dTZPYkdId1NIckRuLTM4eV9RWXFFOUJCRUs5WGRrVEhzemlZdjQ3NXJ2WW1FM29YUmhPRW9nb3JKTERLUHdZVHFOdExrbG5DNExnT1ZZVw?oc=5",
         "tags": [
           "it boltwise"
+        ]
+      },
+      {
+        "title": "Aperio C100 von ASSA ABLOY: Funk-Retrofit für digitale Bürozugänge - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-06-27T17:55:46+00:00",
+        "summary": "Aperio C100 von ASSA ABLOY: Funk-Retrofit für digitale Bürozugänge it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDU1LWlZZmVZcDBZVzVWM2dHa2tCZjd6YXc5VkZYemVTZ2N6Rl9DNmdlRHo4bFVPZTRZNktreTU2SDlvcUxUektiX3B2cUUzRUY2dk14cHlWTXZxb1hFTnBsWGFkSUp6N29vSkptRmx0V1NwUHRCZ3dfQkJQT0tuQzdnTVhadmVadUM0bFRDOXdBd1EyRUZSM2tBUFROV3hYUGc?oc=5",
+        "tags": [
+          "Retrofit"
         ]
       },
       {
@@ -406,13 +456,13 @@
         ]
       },
       {
-        "title": "Künstliche Intelligenz (KI) für Unternehmen der Installations- und Gebäudetechni - wko.at",
-        "source": "wko.at",
-        "publishedAt": "2026-06-17T15:18:09+00:00",
-        "summary": "Künstliche Intelligenz (KI) für Unternehmen der Installations- und Gebäudetechni wko.at",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JbTBLQ2QwdUxwYWFuMzQ5QWU2VzJNTGRPS2k3NzN0bHd1T3ZNeUMzdU9KaUFUcFI0ZnF6eVp3YkZyUUJURm10YkNIMUx4SnFPLXZFZW9YcnFsSXM2akpTSmF0ZTJWYnNkRFNZ?oc=5",
+        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-20T13:23:27+00:00",
+        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
-          "KI"
+          "AD HOC NEWS"
         ]
       },
       {
@@ -436,63 +486,13 @@
         ]
       },
       {
-        "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-05-29T07:00:00+00:00",
-        "summary": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert TGA+E Fachplaner",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
+        "title": "Siemens Aktie: Fehlalarm in Desigo CC - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-15T07:00:00+00:00",
+        "summary": "Siemens Aktie: Fehlalarm in Desigo CC AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
         "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude - Rheinische Anzeigenblätter",
-        "source": "Rheinische Anzeigenblätter",
-        "publishedAt": "2026-05-29T07:00:00+00:00",
-        "summary": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude Rheinische Anzeigenblätter",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRU05cTJPbjAzTl9TYW1odVZlS0NsX0EwSzhIVFduejZNUmlibENyNHBHQW95UzV0N2p1SUhfVjNBRDU4NmFXSEY5ckFkMVhIOXRraEIyMVR4RVJvVWRRcXVSNVhZenNfVmlRNGk2b0UtdlEwSVVwZHdxLVhLYXY1M21TWXVfTDhIZzlzTW03ZW41bnV3bF9sM1lCeXJDY3lLXzlXTVVsSy1nRkxkQlROQnAwZjRieXJWLTNSNUJNYm1BRHZTeUJJNUEwcmhTdw?oc=5",
-        "tags": [
-          "Rheinische Anzeigenblätter"
-        ]
-      },
-      {
-        "title": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive - Euronews.com",
-        "source": "Euronews.com",
-        "publishedAt": "2026-05-28T07:00:00+00:00",
-        "summary": "Airbus und BMW kooperieren mit Mistral AI bei Europas Tech-Offensive Euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUowbDN4SVlIVE9RR3dwQmJSVHB2cHd6b0ZnZXdzSVJuajFWZ1F1MWxPNFM0ZXVLeEtONko1eng2X2lPLXg0bS14ZU9laUx2eXpQam94cERTaGNXbVhXYWh5YWdwMUZtZElWNVVDVXVqVG8xUHZ3UEo4b0FDWWp6TTBGWmJaMC1GbmpxcXdId184NFZzMnRPamcxNmJOejlkWV81QTdJb19wUlRVYXhpcWV0MkRCWGRrV0k5VWE1alpuQWdTdDBTRTVn?oc=5",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "title": "Siemens Aktie: Asset Performance Advanced für Gebäude-KI - Trading-Treff",
-        "source": "Trading-Treff",
-        "publishedAt": "2026-05-20T07:00:00+00:00",
-        "summary": "Siemens Aktie: Asset Performance Advanced für Gebäude-KI Trading-Treff",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZnlnLVZCbWNNUGJnZDZXT3dkVnFYNFV2M0tHQWN4MXFMYTJqLXJFN2NpaUY5R3czX2Vtdk8yRVN6REc4Y2F0NzBET09XNzFmUzQtdkh2SVNvNG5uOElLclZvRGxXX2UtTk11UHB6VGphNkswNTZJMjV2VURxNURYX0ZSSkk1V0EtTTZlZS1jYkNBekk?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller - BASIC thinking",
-        "source": "BASIC thinking",
-        "publishedAt": "2026-05-19T07:00:00+00:00",
-        "summary": "KI aus Karlsruhe macht Gebäudesanierung 50-mal schneller BASIC thinking",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNVhTYUs1UEF2Rld1TEI5Q2tESXpUMF9sN2Q0R0FWRUxTcVpRWnlpLVVnWXdvcmNmUWhLM3BfRElnQ2NZN1VxNExKYTFBZkdqT0Z5czJzT3J2TXFheFBQLURnUDA1NUNlaTlWdGEzSXBqVVlS?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme - BornCity",
-        "source": "BornCity",
-        "publishedAt": "2026-05-16T07:00:00+00:00",
-        "summary": "Microsoft pusht KI-Offensive: Neue Assistenten und Sicherheitssysteme BornCity",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeU5zN291ZkliWGhpcDVRdlBCcEo1Wnc5Qld6WHJxRU55WUdLRGpicDNqeVhmOUtWRmRJOEJFOFdqRzhGLWo5X2ZBazhWUEJXN0ItVU90V1p4X3JKU0hvUXFocVRUaUVVaVkwUjBtZnlCQjlZcjRLRnZZRTJ4WjRwOTBmZ2dmcnFFWnRwUUNXaUhVVGh3LUxSdnl5UQ?oc=5",
-        "tags": [
-          "KI"
+          "AD HOC NEWS"
         ]
       }
     ]
