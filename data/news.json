@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-07-08T12:15:48.240309+00:00",
+  "generatedAt": "2026-07-08T14:53:38.707537+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert - it-daily",
+        "source": "it-daily",
+        "publishedAt": "2026-06-14T07:00:00+00:00",
+        "summary": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert it-daily",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0N6UzdWNVUwR2F2c2RpUTBGMVhXZF94bEdTRHRqNDdaaFRXd0g2YXNkUTZ4WmhuaDk3RDJOZFpoaDA5LXZScVhZU2hjSjBFR1lJdTNwR3VQanBESGptQXBuLTBxSDB5WGI3YkdvSlBXTWRfeC1SQ2RUeXF6WHNFZ2ZpLUV0cERIZ3VvVA?oc=5",
+        "tags": [
+          "Siemens",
+          "NSC"
+        ]
+      },
       {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
@@ -113,16 +124,6 @@
           "Siemens",
           "Brandschutz"
         ]
-      },
-      {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
-        "source": "www.bote.ch",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -180,11 +181,11 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense Smarter Rauchmelder WLAN mit Sprachausgabe - n-tv.de",
+        "title": "Amazon: X-Sense Standalone-Rauchmelder - n-tv.de",
         "source": "n-tv.de",
-        "publishedAt": "2026-06-27T16:08:36+00:00",
-        "summary": "Amazon: X-Sense Smarter Rauchmelder WLAN mit Sprachausgabe n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVlKNkpjd1hGWFlaUkpSamNYNVhyZVZWV2dsQ1pKWHg5elBIN1MwNWc5bGpGSjR1cmlaX1U4TlgzWlBlUDVzMkR4dUNHRWc3ZVRPanJoMTE1Q0llWmx3MlpMVTNKWmtuWlg5YnVmVTJHUEk0dm9aR044Zk5CdVlzVTRFMXZBVFdBbG1JdlR2VklNMDQ5d0ZiSlNiaw?oc=5",
+        "publishedAt": "2026-06-27T16:05:51+00:00",
+        "summary": "Amazon: X-Sense Standalone-Rauchmelder n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHJDVmdNZVI2cllBYjFoMnRJd3JLSmJBbDJnTEppdmxXOUJTc2hfNThzY0wwU1RCWE82QjNvdmprTndERG9kT2pEQXZtbU9nQ1doMlNOWW9nN0JKNks1Qnk3UmdVQnVKdWU5bHpuYlU2dHdrRTAxbVVtVzQzc21ZRQ?oc=5",
         "tags": [
           "X-Sense"
         ]
