@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T12:12:24.175991+00:00",
+  "generatedAt": "2026-07-10T15:10:00.763911+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -284,16 +284,6 @@
         ]
       },
       {
-        "title": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-28T09:22:24+00:00",
-        "summary": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDk5cmV5Zm5MNVZJdGZuNDhoRmNHWmRVWmhoOXljampkSS1kTjdLQWNiNWdGVy0wQWJIWnFZbDRfV2w2MTZHWnlGa1NqclptTkRaWW5RV0MzSHBJXzhvNmQ2X3RaMHNjTmxiU2hIT3VvdG9XZmJRei1CeFRSOWJ1MkhIekRhVzV0bTVDb3F1Z0FEbjkyaURpZGpHUi1keEFVV0VBQ2pTNW9WVmwyQV83aWZLLWdmeWZVTUE?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Was die Morningstar-Partnerschaft von Apollo Global Management (APO) im Bereich „Retail Private Markets Access“ für die Aktionäre bedeutet - simplywall.st",
         "source": "simplywall.st",
         "publishedAt": "2026-06-20T07:00:00+00:00",
@@ -372,9 +362,29 @@
         "tags": [
           "Augsburger Allgemeine"
         ]
+      },
+      {
+        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-04-05T07:00:00+00:00",
+        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
       }
     ],
     "trends": [
+      {
+        "title": "Brandschutz 2026: KRITIS-Gesetz und PFAS-Verbot verschärfen Regeln - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-07-10T11:41:04+00:00",
+        "summary": "Brandschutz 2026: KRITIS-Gesetz und PFAS-Verbot verschärfen Regeln AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3NVRy1fRGxwUURyN2pDU0d0VmRlU245TElPWEgzdlBWeUd0amg0RFVnaG5nODY3d3k4Skh0TEQtSG80a3d0R1AzVFE5azFDSFZQUG9SNEh4Qi1pTmNncUwtR0RGYkp4clMwYkJiR2RkcHdOamhzZmFVemhReGoxOGV4ZGRFMjZiZWw5SHBRUGxsVm53RFJndkdfWUc3MjdpVE1Xb0pHMFcyNGR3eV85TzA3UQ?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
       {
         "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft",
         "source": "energiezukunft",
@@ -383,16 +393,6 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3pKbWFPSldHc216MUZjX3ZGT29ucmFsWkpaRk8zQlJ2WXcxeGF6VUNFTHNfMjZhTUlpU3M3YkV6OFBQN0RReE92cy1NMUtzbTN1b2xwMnNwUWRrcVBLSUFFS3NITF90ZE1aYkliUi1vWnlwdUZVdmJiTVEtQndsRW1hYklJR0Z3WHFyWS16c1U2d1dyQmlIbmdSMGdTSlBDTU1Z?oc=5",
         "tags": [
           "Normen"
-        ]
-      },
-      {
-        "title": "Fuchs & Eule sammelt 10 Mio. EUR für KI-gestützte Gebäudesanierung ein - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-07-08T06:01:05+00:00",
-        "summary": "Fuchs & Eule sammelt 10 Mio. EUR für KI-gestützte Gebäudesanierung ein Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGaTVfbDBiMDBpWU1pN0dxVV9TTUJWSTFUX3BOTXZOeDNNa1I1cHJkbTRXUTZ3bmZKMENRUWhhSjdGbFJ4eVVLeVd4UmlnQzA1WkF4QmZoMU8?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
