@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T09:23:59.479896+00:00",
+  "generatedAt": "2026-07-10T12:12:24.175991+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -254,6 +254,16 @@
     ],
     "doors": [
       {
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-10T10:11:03+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
         "source": "Handelsblatt",
         "publishedAt": "2026-07-06T10:20:00+00:00",
@@ -274,13 +284,13 @@
         ]
       },
       {
-        "title": "Steckerlfischfiasko in Wiesbaden - cineplex.de",
-        "source": "cineplex.de",
-        "publishedAt": "2026-06-30T11:38:30+00:00",
-        "summary": "Steckerlfischfiasko in Wiesbaden cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2FkQnlpT2JfNFpuRFo3Y0NPMmswUjM2Rkpwd2w5MThTRFpza2xRSkFBX2lRVkdXVDZlc3h2cHNnU0x3RFlkMmhTUllSaHVaUWFoNU8wWk03NzBlSDA3NzcydE8zRFBZRjVBdU9HN0lzYkNjWE5zOWdNUHZGN3FyV1hGYw?oc=5",
+        "title": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-28T09:22:24+00:00",
+        "summary": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDk5cmV5Zm5MNVZJdGZuNDhoRmNHWmRVWmhoOXljampkSS1kTjdLQWNiNWdGVy0wQWJIWnFZbDRfV2w2MTZHWnlGa1NqclptTkRaWW5RV0MzSHBJXzhvNmQ2X3RaMHNjTmxiU2hIT3VvdG9XZmJRei1CeFRSOWJ1MkhIekRhVzV0bTVDb3F1Z0FEbjkyaURpZGpHUi1keEFVV0VBQ2pTNW9WVmwyQV83aWZLLWdmeWZVTUE?oc=5",
         "tags": [
-          "cineplex.de"
+          "Apollo"
         ]
       },
       {
@@ -362,16 +372,6 @@
         "tags": [
           "Augsburger Allgemeine"
         ]
-      },
-      {
-        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-04-05T07:00:00+00:00",
-        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
-        ]
       }
     ],
     "trends": [
@@ -446,16 +446,6 @@
         ]
       },
       {
-        "title": "Durchbruch bei agentischer KI: UBS prognostiziert AMD eine beschleunigte Adaption - IT-TIMES",
-        "source": "IT-TIMES",
-        "publishedAt": "2026-06-26T06:30:00+00:00",
-        "summary": "Durchbruch bei agentischer KI: UBS prognostiziert AMD eine beschleunigte Adaption IT-TIMES",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHRvQy16M2dmRHdqbVRlRlFWc0JaMkxXdXA5UlpxN2JKSXk4NjltQjVCa0hXOEhQRFVlbWdtX2JfTHhnSzNLNENKTEJ5Ml9VTUp5dTRKa3NRNmVZM0xtOENlRmVWalFpMHFpN200MndYYzdPZzhNeXVIRzQzQTB2MzNOQlN1V0pQTkI3dnpqWHZIci1sanFkVkk3Rm80MmdDOGJ1VVdmUElQc3BwMDV6TzYzM1ZwYVJS?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Telehouse eröffnet das „Gebäude N“ - DataCenter-Insider",
         "source": "DataCenter-Insider",
         "publishedAt": "2026-06-23T16:00:00+00:00",
@@ -493,6 +483,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
         "tags": [
           "Handelsblatt Live"
+        ]
+      },
+      {
+        "title": "Siemens Aktie: Fehlalarm in Desigo CC - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-06-15T07:00:00+00:00",
+        "summary": "Siemens Aktie: Fehlalarm in Desigo CC AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVZXOWh3LVYzVXd4bjB6UklWelJ1YUh1RHppamN1TER2SUJIeVp4TU1ENFpDWndCVUZsdjhScHpfcUxPLVYzRlJaaTFkWVd3ZzlxN0ZsLW1HUnRyUEh1a3A5MzBNMVlDVW0xRjc5WFZBWTF5SWdRZmIzQUhkejRJZ1dfVXpZZ2NvX3dMZlpHVXhXVWZycWhmR2RqTQ?oc=5",
+        "tags": [
+          "AD HOC NEWS"
         ]
       }
     ]
