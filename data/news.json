@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T02:04:04.170605+00:00",
+  "generatedAt": "2026-07-11T05:24:51.848682+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -148,6 +148,16 @@
         ]
       },
       {
+        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
+        "source": "GameStar",
+        "publishedAt": "2026-07-03T14:58:00+00:00",
+        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Amazon: X-Sense Standalone-Rauchmelder - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-06-27T16:05:51+00:00",
@@ -238,16 +248,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Test: Die beste WLAN-Steckdose - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-06-16T07:00:00+00:00",
-        "summary": "Test: Die beste WLAN-Steckdose FAZ",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rOGp2VUUzWXl3c04zaUpnNkZWMDRDVzRRVllZWUwwbGtoelZfTExuUTBteU1lYWFVeEpxUEdjckN0TWMzS0VibzJCX2ZCVU9uUExIYmJvcWJrYzRDblRVUFJnQXl1M25qWGpyTE54dw?oc=5",
-        "tags": [
-          "FAZ"
-        ]
       }
     ],
     "doors": [
@@ -282,13 +282,13 @@
         ]
       },
       {
-        "title": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-06-28T09:22:24+00:00",
-        "summary": "Apollo Global Management erweitert Kreditplattform, Aktie im Finanzsektorvergleich ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDk5cmV5Zm5MNVZJdGZuNDhoRmNHWmRVWmhoOXljampkSS1kTjdLQWNiNWdGVy0wQWJIWnFZbDRfV2w2MTZHWnlGa1NqclptTkRaWW5RV0MzSHBJXzhvNmQ2X3RaMHNjTmxiU2hIT3VvdG9XZmJRei1CeFRSOWJ1MkhIekRhVzV0bTVDb3F1Z0FEbjkyaURpZGpHUi1keEFVV0VBQ2pTNW9WVmwyQV83aWZLLWdmeWZVTUE?oc=5",
+        "title": "Steckerlfischfiasko in Wiesbaden - cineplex.de",
+        "source": "cineplex.de",
+        "publishedAt": "2026-06-30T11:38:30+00:00",
+        "summary": "Steckerlfischfiasko in Wiesbaden cineplex.de",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2FkQnlpT2JfNFpuRFo3Y0NPMmswUjM2Rkpwd2w5MThTRFpza2xRSkFBX2lRVkdXVDZlc3h2cHNnU0x3RFlkMmhTUllSaHVaUWFoNU8wWk03NzBlSDA3NzcydE8zRFBZRjVBdU9HN0lzYkNjWE5zOWdNUHZGN3FyV1hGYw?oc=5",
         "tags": [
-          "Apollo"
+          "cineplex.de"
         ]
       },
       {
@@ -362,13 +362,13 @@
         ]
       },
       {
-        "title": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
         "tags": [
-          "Apollo"
+          "Augsburger Allgemeine"
         ]
       }
     ],
@@ -381,16 +381,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlA1RGZNZ0hnRVZmUzJlNG5JQVVYUzVOaUZIT01KSHR2cjNDTjZ2Tmd4djV5bjdaX1ZkUTJWLTVDcU8zcElZdU9uLWVENHE2c0doOFpUZnppdE5uaHpVLWMtRlN4NXR5SXRPVTJRaUlfRHptOVZmN2t5alk5WS1MZkgyUzBtdWVPdllxR2wxOWEyTk01Q1ZnRm44ZXM3c3d5cFlyci1ySkV6eEJnOXhMYkZvcUp5UndzdUMydl85NDBHSEhLMWQzZw?oc=5",
         "tags": [
           "Normen"
-        ]
-      },
-      {
-        "title": "Brandschutz 2026: KRITIS-Gesetz und PFAS-Verbot verschärfen Regeln - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-07-10T11:41:04+00:00",
-        "summary": "Brandschutz 2026: KRITIS-Gesetz und PFAS-Verbot verschärfen Regeln ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3NVRy1fRGxwUURyN2pDU0d0VmRlU245TElPWEgzdlBWeUd0amg0RFVnaG5nODY3d3k4Skh0TEQtSG80a3d0R1AzVFE5azFDSFZQUG9SNEh4Qi1pTmNncUwtR0RGYkp4clMwYkJiR2RkcHdOamhzZmFVemhReGoxOGV4ZGRFMjZiZWw5SHBRUGxsVm53RFJndkdfWUc3MjdpVE1Xb0pHMFcyNGR3eV85TzA3UQ?oc=5",
-        "tags": [
-          "ad-hoc-news.de"
         ]
       },
       {
@@ -411,6 +401,17 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc2s0Z3RLSkh1LXI5enVNTlJueWtSNVBrU25KNWdWLVR0MFJmcVpDWUk5MmYtb2dLTjhVMnRBWk04aXBfUzEzUGUyUnVSa0FWY2U2dFROaVZ2Q3JyODA4TWZSaDJ1UjJTWlI5T21kWTN6eURrbGEzbzZrVE1zRmhEeXFKcDkwR0tfMVdUbVpVQ2ZHQm16VDNBcnpvYW9lZmRyRmlhSzBrWTNQalFFbHpsZVJUTjd5Nmd0SGZoSDB4WFZ0RFpZN1p0R0FoNTVjcjB5VFdORDVhQk9iUlk0cy1ad1N0Z2Y?oc=5",
         "tags": [
           "kreiszeitung-wochenblatt.de"
+        ]
+      },
+      {
+        "title": "KI-generierter Spot: Rysm und Drees & Sommer trommeln mit schwebenden Möbeln für Nachhaltigkeit - Horizont.net",
+        "source": "Horizont.net",
+        "publishedAt": "2026-07-06T09:48:59+00:00",
+        "summary": "KI-generierter Spot: Rysm und Drees & Sommer trommeln mit schwebenden Möbeln für Nachhaltigkeit Horizont.net",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWEM0WV9YYUFsaEVYOXRodlItS0ZBbDM3WTdERy1iS2pHRTV0VFFpck9YZGpBMWxHZVRQUDhpTERFLTFoVmxxTS0taEE2aWFIMFpybVRacFNvWmVBVmpjQkE1a2JTOWtqWXMwam90LTUwTlQ0ZWhrYy1MczhzV242NTVqLVdxcTRnTEZlMDBRTjJLOVh2ZzlTc1ZaeHpyeUZRZUhnWjBEX0hjM0RzcnBuNHZSVFptOERETWVLT3IyMFZSMWZFZ0RrZXJVVEJPTmZfd0ZIRGhjVEVKZzdqRmhuMXhQSQ?oc=5",
+        "tags": [
+          "KI",
+          "Nachhaltigkeit"
         ]
       },
       {
