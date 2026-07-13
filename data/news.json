@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T01:02:55.135520+00:00",
+  "generatedAt": "2026-07-13T04:55:23.783052+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -252,6 +252,16 @@
     ],
     "doors": [
       {
+        "title": "Die Apollo-Global-Management-Aktie bleibt von wachsendem verwalteten Vermögen gestützt - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-07-12T22:26:38+00:00",
+        "summary": "Die Apollo-Global-Management-Aktie bleibt von wachsendem verwalteten Vermögen gestützt ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2FOaVZEQTZQd09CeHRNcFlFMzRYeDJwWGlXbldoZVhScGlGc0NvdGY5bnVReXlNWlI5UWtkQ1plUktCZE1NQ3dfNEUwZk5pN0w0ZXNUQTJKVkJtM3l5TUpBSU1Yc2gzY3dGTmVscTdkZUJxVUJhRzJZaExVRTU1QlM2RDBxY1A4YWNkb2dXMjJJREFDQ0FYakVIVVhObHdOYnU5YXlMbVFsd1RMbU9zajE4eExJLTlfTjVQTGU5OU5iYmJER3c?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Die Apollo-Hospitals-Aktie bleibt vom Gesundheitswachstum in Indien gestützt - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
         "publishedAt": "2026-07-11T11:41:47+00:00",
@@ -360,16 +370,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -409,6 +409,16 @@
         "publishedAt": "2026-07-09T04:04:45+00:00",
         "summary": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf energiezukunft",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3pKbWFPSldHc216MUZjX3ZGT29ucmFsWkpaRk8zQlJ2WXcxeGF6VUNFTHNfMjZhTUlpU3M3YkV6OFBQN0RReE92cy1NMUtzbTN1b2xwMnNwUWRrcVBLSUFFS3NITF90ZE1aYkliUi1vWnlwdUZVdmJiTVEtQndsRW1hYklJR0Z3WHFyWS16c1U2d1dyQmlIbmdSMGdTSlBDTU1Z?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
+        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
+        "source": "Haufe. Intelligenz, die bewegt.",
+        "publishedAt": "2026-07-08T06:00:00+00:00",
+        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
         "tags": [
           "Normen"
         ]
@@ -461,16 +471,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUhFUFlDQWpMbUlRRGYwZklqeVZMZjJXZHBkTjluMWZCYlJqZG9LOXNweWxHZjRZaVpFWW83bm9rTmJaUzFUc1ZlZ2xwSTA3ZWxGd19jaUNMMTBTWGt5dGJfeEtPQ2JIMlplYkRZc0FOTHl6RHFFR1JoT0ZTM2dtbjdqNmZ3aWRFTE5RNVg3QTN6TmVtYUpJcGNBMjlXUEUwSWd6WDg1UFAxVkEyTVhJaFBLOVFGazQtZjY0d3B0Ri1FWmpyVjg3OQ?oc=5",
         "tags": [
           "ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "Aperio C100 von ASSA ABLOY: Funk-Retrofit für digitale Bürozugänge - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-06-27T17:55:46+00:00",
-        "summary": "Aperio C100 von ASSA ABLOY: Funk-Retrofit für digitale Bürozugänge it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDU1LWlZZmVZcDBZVzVWM2dHa2tCZjd6YXc5VkZYemVTZ2N6Rl9DNmdlRHo4bFVPZTRZNktreTU2SDlvcUxUektiX3B2cUUzRUY2dk14cHlWTXZxb1hFTnBsWGFkSUp6N29vSkptRmx0V1NwUHRCZ3dfQkJQT0tuQzdnTVhadmVadUM0bFRDOXdBd1EyRUZSM2tBUFROV3hYUGc?oc=5",
-        "tags": [
-          "Retrofit"
         ]
       },
       {
