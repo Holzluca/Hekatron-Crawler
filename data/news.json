@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T10:40:06.478662+00:00",
+  "generatedAt": "2026-07-14T12:06:25.436112+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,16 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTHZ1TFVpdllLRnl4a0pBaG1iNlg0RDZuM1hINUk1WUt2TnZHYWVjMDNfcU0yM3VOQzRpX2lpNnl4TzdzZEpMMEE5VURNS0FrQTBMaTF3NHpRZTJPWGZHTHlELUQwM2piX2VUSEs2d2lJaWpPamxhamxJX0lERU9PTTFUYk9lQjViOC1nM2ZPbm93VVFPN084UWVsQzJHeFpXWGlIWXE4cktUUjV5aVg4MjZLRDlsOEVIdEYwZzdBSUw?oc=5",
         "tags": [
           "Spherical Insights"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
         ]
       },
       {
@@ -71,6 +61,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-07T19:59:10+00:00",
+        "summary": "Unbemannt, aber nie unbeaufsichtigt Siemens",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -126,6 +126,16 @@
       }
     ],
     "pfs": [
+      {
+        "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - Autobild.de",
+        "source": "Autobild.de",
+        "publishedAt": "2026-07-14T10:20:00+00:00",
+        "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger Autobild.de",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGlpSEZUQlBmNVRieHUtZkl6NldUU0Y3bTZDSTdTTGpIVWVRNUdTdl9DSmt1X3FQUTdyV09FNF9heFdud25RMFphbWV1M05JWjBDR09kTG9BeHA0WTA5ei1YWnJKRnczb0hZWDMzSzA1ekdETk9ISmZxVGNCT2hfZkZ2VnhOYmxpVGpaZEVqZGo5SnRxNUptQjNEUWtsU1Q0c21OWmhsVjZfbVc1Y3o4?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
       {
         "title": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung - Netzwelt",
         "source": "Netzwelt",
@@ -238,19 +248,29 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht - GameStar",
-        "source": "GameStar",
-        "publishedAt": "2026-06-25T07:00:00+00:00",
-        "summary": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht GameStar",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJkNjdYUEd6djc2VEZOeDhlM215Vy1VLTVabGlkZ1lyMzAxcXVyWmlpWUEzQTZmbzBjUzZKRm5WVTQxanU1Z0dHdGg0SjBsMV81blhwbkhPSzBtanRvN3FsN1h2NnhpNkZFbVNjTkM4TUhMQjlQLUJwSXk3QVhzVTBTVXE4TElRbVZtOGxqLVlXZw?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
+      {
+        "title": "Die Apollo-Global-Management-Aktie profitiert vom starken Wachstum im Kreditgeschäft - Ad Hoc News",
+        "source": "Ad Hoc News",
+        "publishedAt": "2026-07-14T10:52:11+00:00",
+        "summary": "Die Apollo-Global-Management-Aktie profitiert vom starken Wachstum im Kreditgeschäft Ad Hoc News",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZEU4eHRaUjIyc2dSNjBvMm5PR0g2d3JhZU9PT2t2V0g0dVpnazRvdlBsV09SNlhPUEZKX3FWNE9uY05aYmVnNnVlRW9xa2N6TjJHaXJXSUZKdHFfOWJ0XzZfQTNCRlNoUm9scnIyMWhsNl9pMlZLcktIUjVjLTFVaFlmT3JXY0ROYXVwMmNxU2F2MHEtektOVlMyS3V0Rmx2dWdmOWdWWnBqRVRYcDJ1XzhYUkV0S1lYMWIxUWhvckJsX25keUd3?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "GEZE: Barrierefreie und sichere Fluchtwege - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-07-14T04:20:00+00:00",
+        "summary": "GEZE: Barrierefreie und sichere Fluchtwege Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kZFhXNkJNV1I4TU1yc2Z6SlBJckFVUFpxaTRJUzhKR0Vfb19Lb2VoQWp1UVMxenRTRDhraGVTWDVxYVE5cEo4ZVN2LWJZZnJiTlBVaUpZbTBLNzRK?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
       {
         "title": "Die Apollo-Global-Management-Aktie bleibt von wachsendem verwalteten Vermögen gestützt - Ad Hoc News",
         "source": "Ad Hoc News",
@@ -350,26 +370,6 @@
         "tags": [
           "cineplex.de"
         ]
-      },
-      {
-        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
-        "source": "Logistik Online",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-20T07:00:00+00:00",
-        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -399,6 +399,16 @@
         "publishedAt": "2026-07-12T11:13:45+00:00",
         "summary": "Die Honeywell-International-Aktie bleibt vom breit aufgestellten Industriegschäft gestützt Ad Hoc News",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzZndWtseV8zOVZhWlNXRnl3dWpTbkhoSU5XSFVPcXo1cGkzZzhjT3l2THRLREJnUXU4VzVTM1J3TkI0ZlhUVHVYNEZtbEtrVVlBTTRieDBFbmhuY05iMEduNm9kNS00R2kzQ2xCU2VaZFdSZXV0MzExcXBSN19qSFR2S09SNUQ1WG9DdEdIR1h1TXZwYmNJWDVPcDVKTmZrMXVTcS1yNmJkOXBMTjlONERxUTNieVJLWU1Fc0xZTkg?oc=5",
+        "tags": [
+          "Ad Hoc News"
+        ]
+      },
+      {
+        "title": "Die Honeywell-International-Aktie bleibt vom breiten Industriegeschäft gestützt - Ad Hoc News",
+        "source": "Ad Hoc News",
+        "publishedAt": "2026-07-11T06:55:18+00:00",
+        "summary": "Die Honeywell-International-Aktie bleibt vom breiten Industriegeschäft gestützt Ad Hoc News",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ0Z1T0liR3RpTmhnY01yVFVjV2prbElpbU1HSTYwWW5JR25ZWVplM3F4TEdEVVNsUWxiRE16VFQ1UWROSjEtTDdGdEZaYWhXbFNFYzJHVS1pTTZDOUU3M0NYYUR5eTZWX1M0bHRsOVJIaWNzWHhkb1kyZ2UwZ0lUUi1RbkU0YTAxWi1xQklXSktUcmNfQkduckY3Vm5YUlVvMjViN2FDNmh0eEp2RHBhTlF0empSdWdmMUJJanZRbUEtNUs0SHZmZmpR?oc=5",
         "tags": [
           "Ad Hoc News"
         ]
@@ -479,16 +489,6 @@
         "publishedAt": "2026-07-03T18:10:32+00:00",
         "summary": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick Ad Hoc News",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXhKc2w2U0w5RUpFUE9YWldVM1FGRjN2YlpJU0ozbWhjbFFtUVJXekd5blhQRzVwUW1Pa3gwVUJYZ2g1Q2ViYUphY2dfRE9NYVNuU05DWFVUMEhiUndidndlQm40YkY1WU1sM0hRdmtES1RTR0ZWTnpHLUNwb0tWX0dLai1hQnVkNU1vMDNMMnZVMGhQb2lBRE1VeVA5TWxrQ3Rvb3lzT1ZHbldQc3hUcXdUWWhSanlJckZuT3ZnOXVpZ1ZfSzh2am93?oc=5",
-        "tags": [
-          "Ad Hoc News"
-        ]
-      },
-      {
-        "title": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit - Ad Hoc News",
-        "source": "Ad Hoc News",
-        "publishedAt": "2026-07-02T13:51:37+00:00",
-        "summary": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit Ad Hoc News",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUhFUFlDQWpMbUlRRGYwZklqeVZMZjJXZHBkTjluMWZCYlJqZG9LOXNweWxHZjRZaVpFWW83bm9rTmJaUzFUc1ZlZ2xwSTA3ZWxGd19jaUNMMTBTWGt5dGJfeEtPQ2JIMlplYkRZc0FOTHl6RHFFR1JoT0ZTM2dtbjdqNmZ3aWRFTE5RNVg3QTN6TmVtYUpJcGNBMjlXUEUwSWd6WDg1UFAxVkEyTVhJaFBLOVFGazQtZjY0d3B0Ri1FWmpyVjg3OQ?oc=5",
         "tags": [
           "Ad Hoc News"
         ]
