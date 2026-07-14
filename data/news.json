@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T14:21:35.085780+00:00",
+  "generatedAt": "2026-07-14T15:54:12.519983+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -64,16 +64,6 @@
         ]
       },
       {
-        "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-07T19:59:10+00:00",
-        "summary": "Unbemannt, aber nie unbeaufsichtigt Siemens",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-02T19:56:17+00:00",
@@ -120,6 +110,16 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -262,16 +262,6 @@
         ]
       },
       {
-        "title": "GEZE: Barrierefreie und sichere Fluchtwege - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-07-14T04:20:00+00:00",
-        "summary": "GEZE: Barrierefreie und sichere Fluchtwege Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kZFhXNkJNV1I4TU1yc2Z6SlBJckFVUFpxaTRJUzhKR0Vfb19Lb2VoQWp1UVMxenRTRDhraGVTWDVxYVE5cEo4ZVN2LWJZZnJiTlBVaUpZbTBLNzRK?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
         "title": "Die Apollo-Global-Management-Aktie bleibt von wachsendem verwalteten Vermögen gestützt - Ad Hoc News",
         "source": "Ad Hoc News",
         "publishedAt": "2026-07-12T22:26:38+00:00",
@@ -370,9 +360,29 @@
         "tags": [
           "cineplex.de"
         ]
+      },
+      {
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
+        "publishedAt": "2026-05-08T07:00:00+00:00",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
+      {
+        "title": "EU AI Act: Strafen bis 35 Millionen Euro ab 2. August - Ad Hoc News",
+        "source": "Ad Hoc News",
+        "publishedAt": "2026-07-13T18:51:12+00:00",
+        "summary": "EU AI Act: Strafen bis 35 Millionen Euro ab 2. August Ad Hoc News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU2lLdXhXOGJiM2ZOOEhwdjloZlBTX2Z1WWtSSmhSdFo1TGtUbHFuSnZBLU9veTBjWkVsY0dWOUxwa2Njc0x4R2ZUczlIelZCazQ2MDJJY3V5NTZsdWE2VWt4a284aEN6TnZjTl9KZjBLTktjQ2tBWkF1YUdDQllTMENvRUxxN0x6cHh4UU9CYnlBeXFxSmJJWnhObEdQdjg?oc=5",
+        "tags": [
+          "AI"
+        ]
+      },
       {
         "title": "Die Johnson-Controls-Aktie zeigt stabile Entwicklung nach Rebranding und US-Rebound - Ad Hoc News",
         "source": "Ad Hoc News",
@@ -479,16 +489,6 @@
         "publishedAt": "2026-07-02T13:51:37+00:00",
         "summary": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit Ad Hoc News",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUhFUFlDQWpMbUlRRGYwZklqeVZMZjJXZHBkTjluMWZCYlJqZG9LOXNweWxHZjRZaVpFWW83bm9rTmJaUzFUc1ZlZ2xwSTA3ZWxGd19jaUNMMTBTWGt5dGJfeEtPQ2JIMlplYkRZc0FOTHl6RHFFR1JoT0ZTM2dtbjdqNmZ3aWRFTE5RNVg3QTN6TmVtYUpJcGNBMjlXUEUwSWd6WDg1UFAxVkEyTVhJaFBLOVFGazQtZjY0d3B0Ri1FWmpyVjg3OQ?oc=5",
-        "tags": [
-          "Ad Hoc News"
-        ]
-      },
-      {
-        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - Ad Hoc News",
-        "source": "Ad Hoc News",
-        "publishedAt": "2026-06-20T13:23:27+00:00",
-        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus Ad Hoc News",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
           "Ad Hoc News"
         ]
