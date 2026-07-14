@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T22:30:35.489496+00:00",
+  "generatedAt": "2026-07-14T23:46:36.141822+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,16 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTHZ1TFVpdllLRnl4a0pBaG1iNlg0RDZuM1hINUk1WUt2TnZHYWVjMDNfcU0yM3VOQzRpX2lpNnl4TzdzZEpMMEE5VURNS0FrQTBMaTF3NHpRZTJPWGZHTHlELUQwM2piX2VUSEs2d2lJaWpPamxhamxJX0lERU9PTTFUYk9lQjViOC1nM2ZPbm93VVFPN084UWVsQzJHeFpXWGlIWXE4cktUUjV5aVg4MjZLRDlsOEVIdEYwZzdBSUw?oc=5",
         "tags": [
           "Spherical Insights"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
         ]
       },
       {
@@ -71,6 +61,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-07T19:59:10+00:00",
+        "summary": "Unbemannt, aber nie unbeaufsichtigt Siemens",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -240,11 +240,11 @@
         ]
       },
       {
-        "title": "Amazon Prime Day 2026: Die besten Smarthome-Deals auf einen Blick - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-06-25T08:17:48+00:00",
-        "summary": "Amazon Prime Day 2026: Die besten Smarthome-Deals auf einen Blick Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2s1VmhyaDJoNHZzVnlfaldOb2t0VWF5QWFUQm9oOUx0VXZ4Ym0tY3dHYVBSVTZMdkpIcmNuM0RpYXhDLS15czhLM2RUa1B2by12UEdycDhTU0x5UTZRaXZicG01dU1UZHE0Vk56cGVXNW1ScWxJcExrXzJ5eUhBU08tdmU0RlF4TlFlLXpDSTMyNWxKSnd2d2dLZkhOVFV6eFBuWi1zazRwZw?oc=5",
+        "title": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht - GameStar",
+        "source": "GameStar",
+        "publishedAt": "2026-06-25T07:00:00+00:00",
+        "summary": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht GameStar",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJkNjdYUEd6djc2VEZOeDhlM215Vy1VLTVabGlkZ1lyMzAxcXVyWmlpWUEzQTZmbzBjUzZKRm5WVTQxanU1Z0dHdGg0SjBsMV81blhwbkhPSzBtanRvN3FsN1h2NnhpNkZFbVNjTkM4TUhMQjlQLUJwSXk3QVhzVTBTVXE4TElRbVZtOGxqLVlXZw?oc=5",
         "tags": [
           "Ei"
         ]
@@ -394,6 +394,16 @@
         ]
       },
       {
+        "title": "Die Honeywell-International-Aktie bleibt vom breiten Industriegeschäft gestützt - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-11T06:55:18+00:00",
+        "summary": "Die Honeywell-International-Aktie bleibt vom breiten Industriegeschäft gestützt Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ0Z1T0liR3RpTmhnY01yVFVjV2prbElpbU1HSTYwWW5JR25ZWVplM3F4TEdEVVNsUWxiRE16VFQ1UWROSjEtTDdGdEZaYWhXbFNFYzJHVS1pTTZDOUU3M0NYYUR5eTZWX1M0bHRsOVJIaWNzWHhkb1kyZ2UwZ0lUUi1RbkU0YTAxWi1xQklXSktUcmNfQkduckY3Vm5YUlVvMjViN2FDNmh0eEp2RHBhTlF0empSdWdmMUJJanZRbUEtNUs0SHZmZmpR?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
+        ]
+      },
+      {
         "title": "Normen-Notruf und Gebäudetyp E: Wie Sie rechtssicher, einfacher und günstiger bauen - Anwalt.de",
         "source": "Anwalt.de",
         "publishedAt": "2026-07-10T23:13:27+00:00",
@@ -404,13 +414,13 @@
         ]
       },
       {
-        "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft",
-        "source": "energiezukunft",
-        "publishedAt": "2026-07-09T04:04:45+00:00",
-        "summary": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf energiezukunft",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3pKbWFPSldHc216MUZjX3ZGT29ucmFsWkpaRk8zQlJ2WXcxeGF6VUNFTHNfMjZhTUlpU3M3YkV6OFBQN0RReE92cy1NMUtzbTN1b2xwMnNwUWRrcVBLSUFFS3NITF90ZE1aYkliUi1vWnlwdUZVdmJiTVEtQndsRW1hYklJR0Z3WHFyWS16c1U2d1dyQmlIbmdSMGdTSlBDTU1Z?oc=5",
+        "title": "Brandschutz 2026: KRITIS-Gesetz und PFAS-Verbot verschärfen Regeln - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-10T11:41:04+00:00",
+        "summary": "Brandschutz 2026: KRITIS-Gesetz und PFAS-Verbot verschärfen Regeln Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3NVRy1fRGxwUURyN2pDU0d0VmRlU245TElPWEgzdlBWeUd0amg0RFVnaG5nODY3d3k4Skh0TEQtSG80a3d0R1AzVFE5azFDSFZQUG9SNEh4Qi1pTmNncUwtR0RGYkp4clMwYkJiR2RkcHdOamhzZmFVemhReGoxOGV4ZGRFMjZiZWw5SHBRUGxsVm53RFJndkdfWUc3MjdpVE1Xb0pHMFcyNGR3eV85TzA3UQ?oc=5",
         "tags": [
-          "Normen"
+          "Ad-hoc-news.de"
         ]
       },
       {
@@ -481,16 +491,6 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
           "Ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-06-17T07:00:00+00:00",
-        "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour TGA+E Fachplaner",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
