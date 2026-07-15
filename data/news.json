@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T04:46:24.110468+00:00",
+  "generatedAt": "2026-07-15T07:10:11.050922+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -64,6 +64,16 @@
         ]
       },
       {
+        "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-07T19:59:10+00:00",
+        "summary": "Unbemannt, aber nie unbeaufsichtigt Siemens",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-02T19:56:17+00:00",
@@ -81,17 +91,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
-        ]
-      },
-      {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
         ]
       },
       {
@@ -414,13 +413,13 @@
         ]
       },
       {
-        "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft",
-        "source": "energiezukunft",
-        "publishedAt": "2026-07-09T04:04:45+00:00",
-        "summary": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf energiezukunft",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3pKbWFPSldHc216MUZjX3ZGT29ucmFsWkpaRk8zQlJ2WXcxeGF6VUNFTHNfMjZhTUlpU3M3YkV6OFBQN0RReE92cy1NMUtzbTN1b2xwMnNwUWRrcVBLSUFFS3NITF90ZE1aYkliUi1vWnlwdUZVdmJiTVEtQndsRW1hYklJR0Z3WHFyWS16c1U2d1dyQmlIbmdSMGdTSlBDTU1Z?oc=5",
+        "title": "Brandschutz 2026: KRITIS-Gesetz und PFAS-Verbot verschärfen Regeln - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-10T11:41:04+00:00",
+        "summary": "Brandschutz 2026: KRITIS-Gesetz und PFAS-Verbot verschärfen Regeln Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3NVRy1fRGxwUURyN2pDU0d0VmRlU245TElPWEgzdlBWeUd0amg0RFVnaG5nODY3d3k4Skh0TEQtSG80a3d0R1AzVFE5azFDSFZQUG9SNEh4Qi1pTmNncUwtR0RGYkp4clMwYkJiR2RkcHdOamhzZmFVemhReGoxOGV4ZGRFMjZiZWw5SHBRUGxsVm53RFJndkdfWUc3MjdpVE1Xb0pHMFcyNGR3eV85TzA3UQ?oc=5",
         "tags": [
-          "Normen"
+          "Ad-hoc-news.de"
         ]
       },
       {
