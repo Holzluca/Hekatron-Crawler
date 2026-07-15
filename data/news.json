@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T01:51:50.989292+00:00",
+  "generatedAt": "2026-07-15T04:46:24.110468+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -64,16 +64,6 @@
         ]
       },
       {
-        "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-07T19:59:10+00:00",
-        "summary": "Unbemannt, aber nie unbeaufsichtigt Siemens",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-02T19:56:17+00:00",
@@ -91,6 +81,17 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       },
       {
@@ -261,6 +262,16 @@
         ]
       },
       {
+        "title": "GEZE: Barrierefreie und sichere Fluchtwege - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-07-14T04:20:00+00:00",
+        "summary": "GEZE: Barrierefreie und sichere Fluchtwege Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kZFhXNkJNV1I4TU1yc2Z6SlBJckFVUFpxaTRJUzhKR0Vfb19Lb2VoQWp1UVMxenRTRDhraGVTWDVxYVE5cEo4ZVN2LWJZZnJiTlBVaUpZbTBLNzRK?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
         "title": "Die Apollo-Global-Management-Aktie bleibt von wachsendem verwalteten Vermögen gestützt - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-12T22:26:38+00:00",
@@ -359,16 +370,6 @@
         "tags": [
           "cineplex.de"
         ]
-      },
-      {
-        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
-        "source": "Logistik Online",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -410,16 +411,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlA1RGZNZ0hnRVZmUzJlNG5JQVVYUzVOaUZIT01KSHR2cjNDTjZ2Tmd4djV5bjdaX1ZkUTJWLTVDcU8zcElZdU9uLWVENHE2c0doOFpUZnppdE5uaHpVLWMtRlN4NXR5SXRPVTJRaUlfRHptOVZmN2t5alk5WS1MZkgyUzBtdWVPdllxR2wxOWEyTk01Q1ZnRm44ZXM3c3d5cFlyci1ySkV6eEJnOXhMYkZvcUp5UndzdUMydl85NDBHSEhLMWQzZw?oc=5",
         "tags": [
           "Normen"
-        ]
-      },
-      {
-        "title": "Brandschutz 2026: KRITIS-Gesetz und PFAS-Verbot verschärfen Regeln - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-07-10T11:41:04+00:00",
-        "summary": "Brandschutz 2026: KRITIS-Gesetz und PFAS-Verbot verschärfen Regeln Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3NVRy1fRGxwUURyN2pDU0d0VmRlU245TElPWEgzdlBWeUd0amg0RFVnaG5nODY3d3k4Skh0TEQtSG80a3d0R1AzVFE5azFDSFZQUG9SNEh4Qi1pTmNncUwtR0RGYkp4clMwYkJiR2RkcHdOamhzZmFVemhReGoxOGV4ZGRFMjZiZWw5SHBRUGxsVm53RFJndkdfWUc3MjdpVE1Xb0pHMFcyNGR3eV85TzA3UQ?oc=5",
-        "tags": [
-          "Ad-hoc-news.de"
         ]
       },
       {
@@ -488,6 +479,16 @@
         "publishedAt": "2026-07-02T13:51:37+00:00",
         "summary": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUhFUFlDQWpMbUlRRGYwZklqeVZMZjJXZHBkTjluMWZCYlJqZG9LOXNweWxHZjRZaVpFWW83bm9rTmJaUzFUc1ZlZ2xwSTA3ZWxGd19jaUNMMTBTWGt5dGJfeEtPQ2JIMlplYkRZc0FOTHl6RHFFR1JoT0ZTM2dtbjdqNmZ3aWRFTE5RNVg3QTN6TmVtYUpJcGNBMjlXUEUwSWd6WDg1UFAxVkEyTVhJaFBLOVFGazQtZjY0d3B0Ri1FWmpyVjg3OQ?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-06-20T13:23:27+00:00",
+        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
           "Ad-hoc-news.de"
         ]
