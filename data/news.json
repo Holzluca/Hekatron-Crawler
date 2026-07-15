@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T23:46:36.141822+00:00",
+  "generatedAt": "2026-07-15T01:51:50.989292+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -94,32 +94,31 @@
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens und neue Regeln treiben smarten Brandschutz voran - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Siemens und neue Regeln treiben smarten Brandschutz voran Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckhnRmRfZmd1NGJBRG9WUXRmMGRvcGxoQ1lLdXh1MGNTRWdsU1dBZlRVaXEwWElndXJKWklOeGtLV1pET0ozTjc3NFFTRHI3ejNZUlNBdFI2RnhUdF9XSXl2SHRqLXA4YTBKdEdCYXdXam03TGpBUTJmdW5OZEp4MjJhRGRrLUtvSTFDbmxoZWVWMEk1MkNjU1Z1WGRmeGNFWUtKSnZyTlBBSHdsRDM4dlo0NVQxcEE?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
         "source": "www.bote.ch",
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -160,7 +159,7 @@
       {
         "title": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen - GoogleWatchBlog",
         "source": "GoogleWatchBlog",
-        "publishedAt": "2026-07-06T11:00:59+00:00",
+        "publishedAt": "2026-07-06T07:00:00+00:00",
         "summary": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen GoogleWatchBlog",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLWpfNUYzUm9hR0ZMcC1XSm9mV2VCYzJTbGlNOThoWFNZWUoweTVUdFFSSVlSYWZfOWxoWTNfajZYdjVuZ2d1VnNTNmhHVzNONTBJYnJsTjZsU0pHUWJuVVRyNEVIV204N1VtSUhvc25rRW16UVF5WXRXUDVPejFERnZmNUplc3RCbnJtQi1lR21RUkdpRmtpbFJXWVdXcW41RmhGMHNXUTFrUFMxRlJ3djQ5Rkh5dGxxT1dEaXBYbk9xNEtsRGxCUlNfMEJZYmxjcGpiQtIB2gFBVV95cUxPUHY1UmxOTENZdmZqUzNKSjYydWp0WGFOZnlwUXdUeE1FcGdCa1lxY2EySWtwQ1gwYkVvZHJ5UEtwckkzQW9OSXAxZU8wYUpVdlhkR1Q2eWRaa29sMWFjdjE2Ujd6aDFlVEtBaHdXZ2ZOVURJeFh0OXAyb2lLeW12dWZvVHFCQWhCWTJLcVh2MlhFZkMwMWhWbUFMUFp5U0MtckJyRkh5YVpPYW51N1JraWcyenQ1Njdxb0NaZWVscjFobTNseVRMVzNlQmxFTGNWLUt6ck90d1RWUQ?oc=5",
         "tags": [
@@ -374,6 +373,16 @@
     ],
     "trends": [
       {
+        "title": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-14T18:26:18+00:00",
+        "summary": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEw4NExSSFVRU0lzZlpLVUtRMUpVa1ctY2JzcWlOVHFzNTNLN1NET21aWERmcElaYzVDdklyQTdqMDd4Y0VnMlNQTzRzbUw1TllTczVzM0xyeFVkS1p6OGl4MTI0MGo0VE9jRXZTTkp2Smppc2ZVcWFvU216a1h2cEJzZWdGQUdhcGxrSEFqa19IVzY4Z1dpb3V4MTA3dFl5VVhia25lekNna1FWbFZWZUhNWFB5MzFsTXc?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
+        ]
+      },
+      {
         "title": "Die Johnson-Controls-Aktie zeigt stabile Entwicklung nach Rebranding und US-Rebound - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-13T04:33:18+00:00",
@@ -389,16 +398,6 @@
         "publishedAt": "2026-07-12T11:13:45+00:00",
         "summary": "Die Honeywell-International-Aktie bleibt vom breit aufgestellten Industriegschäft gestützt Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzZndWtseV8zOVZhWlNXRnl3dWpTbkhoSU5XSFVPcXo1cGkzZzhjT3l2THRLREJnUXU4VzVTM1J3TkI0ZlhUVHVYNEZtbEtrVVlBTTRieDBFbmhuY05iMEduNm9kNS00R2kzQ2xCU2VaZFdSZXV0MzExcXBSN19qSFR2S09SNUQ1WG9DdEdIR1h1TXZwYmNJWDVPcDVKTmZrMXVTcS1yNmJkOXBMTjlONERxUTNieVJLWU1Fc0xZTkg?oc=5",
-        "tags": [
-          "Ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "Die Honeywell-International-Aktie bleibt vom breiten Industriegeschäft gestützt - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-07-11T06:55:18+00:00",
-        "summary": "Die Honeywell-International-Aktie bleibt vom breiten Industriegeschäft gestützt Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ0Z1T0liR3RpTmhnY01yVFVjV2prbElpbU1HSTYwWW5JR25ZWVplM3F4TEdEVVNsUWxiRE16VFQ1UWROSjEtTDdGdEZaYWhXbFNFYzJHVS1pTTZDOUU3M0NYYUR5eTZWX1M0bHRsOVJIaWNzWHhkb1kyZ2UwZ0lUUi1RbkU0YTAxWi1xQklXSktUcmNfQkduckY3Vm5YUlVvMjViN2FDNmh0eEp2RHBhTlF0empSdWdmMUJJanZRbUEtNUs0SHZmZmpR?oc=5",
         "tags": [
           "Ad-hoc-news.de"
         ]
@@ -421,6 +420,16 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3NVRy1fRGxwUURyN2pDU0d0VmRlU245TElPWEgzdlBWeUd0amg0RFVnaG5nODY3d3k4Skh0TEQtSG80a3d0R1AzVFE5azFDSFZQUG9SNEh4Qi1pTmNncUwtR0RGYkp4clMwYkJiR2RkcHdOamhzZmFVemhReGoxOGV4ZGRFMjZiZWw5SHBRUGxsVm53RFJndkdfWUc3MjdpVE1Xb0pHMFcyNGR3eV85TzA3UQ?oc=5",
         "tags": [
           "Ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft",
+        "source": "energiezukunft",
+        "publishedAt": "2026-07-09T04:04:45+00:00",
+        "summary": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf energiezukunft",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3pKbWFPSldHc216MUZjX3ZGT29ucmFsWkpaRk8zQlJ2WXcxeGF6VUNFTHNfMjZhTUlpU3M3YkV6OFBQN0RReE92cy1NMUtzbTN1b2xwMnNwUWRrcVBLSUFFS3NITF90ZE1aYkliUi1vWnlwdUZVdmJiTVEtQndsRW1hYklJR0Z3WHFyWS16c1U2d1dyQmlIbmdSMGdTSlBDTU1Z?oc=5",
+        "tags": [
+          "Normen"
         ]
       },
       {
@@ -479,16 +488,6 @@
         "publishedAt": "2026-07-02T13:51:37+00:00",
         "summary": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUhFUFlDQWpMbUlRRGYwZklqeVZMZjJXZHBkTjluMWZCYlJqZG9LOXNweWxHZjRZaVpFWW83bm9rTmJaUzFUc1ZlZ2xwSTA3ZWxGd19jaUNMMTBTWGt5dGJfeEtPQ2JIMlplYkRZc0FOTHl6RHFFR1JoT0ZTM2dtbjdqNmZ3aWRFTE5RNVg3QTN6TmVtYUpJcGNBMjlXUEUwSWd6WDg1UFAxVkEyTVhJaFBLOVFGazQtZjY0d3B0Ri1FWmpyVjg3OQ?oc=5",
-        "tags": [
-          "Ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-06-20T13:23:27+00:00",
-        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
           "Ad-hoc-news.de"
         ]
