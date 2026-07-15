@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T11:08:05.596298+00:00",
+  "generatedAt": "2026-07-15T12:49:22.568944+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -84,16 +84,6 @@
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
         "source": "www.bote.ch",
         "publishedAt": "2026-03-30T07:00:00+00:00",
@@ -122,9 +112,30 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Neue Rauchwarnmelder-Generation von Pyrexx - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-07-15T11:48:00+00:00",
+        "summary": "Neue Rauchwarnmelder-Generation von Pyrexx elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTkdRTUcwWV9PNHFGcHZyTVhWblVtcUVVcmtzZVFLRWlCM3dnWV9yd1ZCUkhSZnRMRnpEaUJJRDhZaWh6VllOZEVoc2NOOHlOXzQ5VDNjdTBoSWQ1ODZucXhvc2xRZ0I1TVAxRHZud1JyNkJRUk9XQ3FhTHhwc00?oc=5",
+        "tags": [
+          "Pyrexx",
+          "Rauchwarnmelder"
+        ]
+      },
       {
         "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - Autobild.de",
         "source": "Autobild.de",
@@ -236,16 +247,6 @@
         "tags": [
           "Ei",
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht - GameStar",
-        "source": "GameStar",
-        "publishedAt": "2026-06-25T07:00:00+00:00",
-        "summary": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht GameStar",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJkNjdYUEd6djc2VEZOeDhlM215Vy1VLTVabGlkZ1lyMzAxcXVyWmlpWUEzQTZmbzBjUzZKRm5WVTQxanU1Z0dHdGg0SjBsMV81blhwbkhPSzBtanRvN3FsN1h2NnhpNkZFbVNjTkM4TUhMQjlQLUJwSXk3QVhzVTBTVXE4TElRbVZtOGxqLVlXZw?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
