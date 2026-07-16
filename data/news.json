@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T19:39:13.096632+00:00",
+  "generatedAt": "2026-07-16T20:51:04.733534+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -352,21 +352,21 @@
         ]
       },
       {
-        "title": "Scary Movie im Cineplex Baunatal - cineplex.de",
-        "source": "cineplex.de",
-        "publishedAt": "2026-05-20T14:45:39+00:00",
-        "summary": "Scary Movie im Cineplex Baunatal cineplex.de",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JRERobVNQZnNsYURjakptZUh4aFZ0eU51X1FTYjRGTXhzZ2lRcVNKRTNVZXJTQzVFV01QMlBSVnhpUTNvYXloNkdnQlhxZzdtY3hwYngwUnZENnQ2dkdSYTdMNEpzVXp2a0JyOTV5N3YxUlVCMFJr?oc=5",
-        "tags": [
-          "cineplex.de"
-        ]
-      },
-      {
         "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
         "source": "Logistik Online",
         "publishedAt": "2026-05-08T07:00:00+00:00",
         "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -434,16 +434,6 @@
         ]
       },
       {
-        "title": "Über 73,5 Millionen Euro für die Hochschulen in Osnabrück - Osnabrücker Rundschau",
-        "source": "Osnabrücker Rundschau",
-        "publishedAt": "2026-07-10T15:00:05+00:00",
-        "summary": "Über 73,5 Millionen Euro für die Hochschulen in Osnabrück Osnabrücker Rundschau",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbF9RQVdpbVcybDd3T3JHc0FwdWFBUW9XRDgtOGZ3WFBEN1VMWGRLQmdNcjdTU1hHNVQxZXNTMjdKS0JoaG5jT1NFWGdXdTZzdG5YZS02MjhpOURUOVZRR25UVnBwdnFrdlM5ZWRBYk5XRFkwNDdqSTNQdTI3aGd1RGxTMEJMc0pVZVcxSVNWd3l5Y1VYVnJ6RURkSUo?oc=5",
-        "tags": [
-          "Osnabrücker Rundschau"
-        ]
-      },
-      {
         "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
         "source": "Haufe. Intelligenz, die bewegt.",
         "publishedAt": "2026-07-08T06:00:00+00:00",
@@ -456,7 +446,7 @@
       {
         "title": "War es Sabotage?: Gasaustritt in leerstehendem Gebäude in Maschen: Polizei ermittelt, Zeugen gesucht - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
-        "publishedAt": "2026-07-06T12:11:18+00:00",
+        "publishedAt": "2026-07-06T07:00:00+00:00",
         "summary": "War es Sabotage?: Gasaustritt in leerstehendem Gebäude in Maschen: Polizei ermittelt, Zeugen gesucht kreiszeitung-wochenblatt.de",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc2s0Z3RLSkh1LXI5enVNTlJueWtSNVBrU25KNWdWLVR0MFJmcVpDWUk5MmYtb2dLTjhVMnRBWk04aXBfUzEzUGUyUnVSa0FWY2U2dFROaVZ2Q3JyODA4TWZSaDJ1UjJTWlI5T21kWTN6eURrbGEzbzZrVE1zRmhEeXFKcDkwR0tfMVdUbVpVQ2ZHQm16VDNBcnpvYW9lZmRyRmlhSzBrWTNQalFFbHpsZVJUTjd5Nmd0SGZoSDB4WFZ0RFpZN1p0R0FoNTVjcjB5VFdORDVhQk9iUlk0cy1ad1N0Z2Y?oc=5",
         "tags": [
@@ -489,6 +479,16 @@
         "publishedAt": "2026-07-02T13:51:37+00:00",
         "summary": "Honeywell Ventilator von Honeywell - Industrie-Lüfter setzt auf robuste Sicherheit Ad Hoc News",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUhFUFlDQWpMbUlRRGYwZklqeVZMZjJXZHBkTjluMWZCYlJqZG9LOXNweWxHZjRZaVpFWW83bm9rTmJaUzFUc1ZlZ2xwSTA3ZWxGd19jaUNMMTBTWGt5dGJfeEtPQ2JIMlplYkRZc0FOTHl6RHFFR1JoT0ZTM2dtbjdqNmZ3aWRFTE5RNVg3QTN6TmVtYUpJcGNBMjlXUEUwSWd6WDg1UFAxVkEyTVhJaFBLOVFGazQtZjY0d3B0Ri1FWmpyVjg3OQ?oc=5",
+        "tags": [
+          "Ad Hoc News"
+        ]
+      },
+      {
+        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - Ad Hoc News",
+        "source": "Ad Hoc News",
+        "publishedAt": "2026-06-20T13:23:27+00:00",
+        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus Ad Hoc News",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
           "Ad Hoc News"
         ]
