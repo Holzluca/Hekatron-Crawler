@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T13:55:50.101331+00:00",
+  "generatedAt": "2026-07-16T15:29:08.398810+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -148,6 +148,16 @@
         ]
       },
       {
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-07-14T09:00:00+00:00",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung - Netzwelt",
         "source": "Netzwelt",
         "publishedAt": "2026-07-11T07:12:00+00:00",
@@ -237,17 +247,6 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-06-25T11:57:14+00:00",
-        "summary": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2cwN2NWdWhVeU52QmQ5RW5EQ2pLTUN6b3hTLW8wcVlZVDcxWWZ1OWtSQUU5a01INVRMeDliVHoxWWRZelBXQTFkMTUxaTZ5eEZ4bUFtbmd0MGlldURneTM5NE05amUxZEhWOUZnUzNyUEVyTHFBYkFMbmV2ZmNBenhUVWxkdW5BejJqUVlKZXhRM2VxZVltZg?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
         ]
       }
     ],
