@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T04:05:53.341198+00:00",
+  "generatedAt": "2026-07-17T06:35:18.392117+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -199,16 +199,6 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense Standalone-Rauchmelder - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-06-27T16:05:51+00:00",
-        "summary": "Amazon: X-Sense Standalone-Rauchmelder n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHJDVmdNZVI2cllBYjFoMnRJd3JLSmJBbDJnTEppdmxXOUJTc2hfNThzY0wwU1RCWE82QjNvdmprTndERG9kT2pEQXZtbU9nQ1doMlNOWW9nN0JKNks1Qnk3UmdVQnVKdWU5bHpuYlU2dHdrRTAxbVVtVzQzc21ZRQ?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Amazon: X-Sense Smart Home-Basisstation - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-06-27T11:08:25+00:00",
@@ -247,6 +237,17 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen - iphone-ticker.de",
+        "source": "iphone-ticker.de",
+        "publishedAt": "2026-06-25T11:57:14+00:00",
+        "summary": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen iphone-ticker.de",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2cwN2NWdWhVeU52QmQ5RW5EQ2pLTUN6b3hTLW8wcVlZVDcxWWZ1OWtSQUU5a01INVRMeDliVHoxWWRZelBXQTFkMTUxaTZ5eEZ4bUFtbmd0MGlldURneTM5NE05amUxZEhWOUZnUzNyUEVyTHFBYkFMbmV2ZmNBenhUVWxkdW5BejJqUVlKZXhRM2VxZVltZg?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
         ]
       }
     ],
@@ -362,13 +363,13 @@
         ]
       },
       {
-        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-20T07:00:00+00:00",
-        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
         "tags": [
-          "Apollo"
+          "Augsburger Allgemeine"
         ]
       }
     ],
@@ -424,16 +425,6 @@
         ]
       },
       {
-        "title": "Die Honeywell-International-Aktie bleibt vom breiten Industriegeschäft gestützt - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-07-11T06:55:18+00:00",
-        "summary": "Die Honeywell-International-Aktie bleibt vom breiten Industriegeschäft gestützt ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ0Z1T0liR3RpTmhnY01yVFVjV2prbElpbU1HSTYwWW5JR25ZWVplM3F4TEdEVVNsUWxiRE16VFQ1UWROSjEtTDdGdEZaYWhXbFNFYzJHVS1pTTZDOUU3M0NYYUR5eTZWX1M0bHRsOVJIaWNzWHhkb1kyZ2UwZ0lUUi1RbkU0YTAxWi1xQklXSktUcmNfQkduckY3Vm5YUlVvMjViN2FDNmh0eEp2RHBhTlF0empSdWdmMUJJanZRbUEtNUs0SHZmZmpR?oc=5",
-        "tags": [
-          "ad-hoc-news.de"
-        ]
-      },
-      {
         "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
         "source": "Haufe. Intelligenz, die bewegt.",
         "publishedAt": "2026-07-08T06:00:00+00:00",
@@ -469,6 +460,16 @@
         "publishedAt": "2026-07-03T23:43:01+00:00",
         "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
+        "tags": [
+          "ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-07-03T18:10:32+00:00",
+        "summary": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXhKc2w2U0w5RUpFUE9YWldVM1FGRjN2YlpJU0ozbWhjbFFtUVJXekd5blhQRzVwUW1Pa3gwVUJYZ2g1Q2ViYUphY2dfRE9NYVNuU05DWFVUMEhiUndidndlQm40YkY1WU1sM0hRdmtES1RTR0ZWTnpHLUNwb0tWX0dLai1hQnVkNU1vMDNMMnZVMGhQb2lBRE1VeVA5TWxrQ3Rvb3lzT1ZHbldQc3hUcXdUWWhSanlJckZuT3ZnOXVpZ1ZfSzh2am93?oc=5",
         "tags": [
           "ad-hoc-news.de"
         ]
