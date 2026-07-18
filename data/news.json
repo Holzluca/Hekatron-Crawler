@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T14:33:02.797368+00:00",
+  "generatedAt": "2026-07-18T15:50:13.517893+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -210,16 +210,6 @@
         ]
       },
       {
-        "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QLXduUFJ3YWhIYjRTUGQweXliVm03N2FYRDV6S1VQa0FqREZoQW55TTNCQjhud3l6TVlWWFJEaUxnUi01TzRLMmM0QkFSSC1VNDJDTjR5NHN1U05uVGRjdVZtZDFHZm5UbzNKSnRsTUo5M3A4SDl3ei1R?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
-      {
         "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-06-26T07:00:00+00:00",
@@ -227,6 +217,16 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
         "tags": [
           "SmarthomeAssistent"
+        ]
+      },
+      {
+        "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-26T07:00:00+00:00",
+        "summary": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QLXduUFJ3YWhIYjRTUGQweXliVm03N2FYRDV6S1VQa0FqREZoQW55TTNCQjhud3l6TVlWWFJEaUxnUi01TzRLMmM0QkFSSC1VNDJDTjR5NHN1U05uVGRjdVZtZDFHZm5UbzNKSnRsTUo5M3A4SDl3ei1R?oc=5",
+        "tags": [
+          "Teltarif"
         ]
       },
       {
