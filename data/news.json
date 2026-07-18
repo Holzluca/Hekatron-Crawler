@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T08:00:47.911163+00:00",
+  "generatedAt": "2026-07-18T09:53:01.759804+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,17 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTHZ1TFVpdllLRnl4a0pBaG1iNlg0RDZuM1hINUk1WUt2TnZHYWVjMDNfcU0yM3VOQzRpX2lpNnl4TzdzZEpMMEE5VURNS0FrQTBMaTF3NHpRZTJPWGZHTHlELUQwM2piX2VUSEs2d2lJaWpPamxhamxJX0lERU9PTTFUYk9lQjViOC1nM2ZPbm93VVFPN084UWVsQzJHeFpXWGlIWXE4cktUUjV5aVg4MjZLRDlsOEVIdEYwZzdBSUw?oc=5",
         "tags": [
           "Spherical Insights"
-        ]
-      },
-      {
-        "title": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert - it-daily",
-        "source": "it-daily",
-        "publishedAt": "2026-06-14T07:00:00+00:00",
-        "summary": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert it-daily",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0N6UzdWNVUwR2F2c2RpUTBGMVhXZF94bEdTRHRqNDdaaFRXd0g2YXNkUTZ4WmhuaDk3RDJOZFpoaDA5LXZScVhZU2hjSjBFR1lJdTNwR3VQanBESGptQXBuLTBxSDB5WGI3YkdvSlBXTWRfeC1SQ2RUeXF6WHNFZ2ZpLUV0cERIZ3VvVA?oc=5",
-        "tags": [
-          "Siemens",
-          "NSC"
         ]
       },
       {
@@ -120,6 +109,16 @@
         "publishedAt": "2026-03-27T07:00:00+00:00",
         "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -435,16 +434,6 @@
         ]
       },
       {
-        "title": "Die Honeywell-International-Aktie bleibt vom breiten Industriegeschäft gestützt - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-07-11T06:55:18+00:00",
-        "summary": "Die Honeywell-International-Aktie bleibt vom breiten Industriegeschäft gestützt ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ0Z1T0liR3RpTmhnY01yVFVjV2prbElpbU1HSTYwWW5JR25ZWVplM3F4TEdEVVNsUWxiRE16VFQ1UWROSjEtTDdGdEZaYWhXbFNFYzJHVS1pTTZDOUU3M0NYYUR5eTZWX1M0bHRsOVJIaWNzWHhkb1kyZ2UwZ0lUUi1RbkU0YTAxWi1xQklXSktUcmNfQkduckY3Vm5YUlVvMjViN2FDNmh0eEp2RHBhTlF0empSdWdmMUJJanZRbUEtNUs0SHZmZmpR?oc=5",
-        "tags": [
-          "ad-hoc-news.de"
-        ]
-      },
-      {
         "title": "Über 73,5 Millionen Euro für die Hochschulen in Osnabrück - Osnabrücker Rundschau",
         "source": "Osnabrücker Rundschau",
         "publishedAt": "2026-07-10T15:00:05+00:00",
@@ -457,7 +446,7 @@
       {
         "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
         "source": "Haufe. Intelligenz, die bewegt.",
-        "publishedAt": "2026-07-08T07:00:00+00:00",
+        "publishedAt": "2026-07-08T06:00:00+00:00",
         "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
         "tags": [
@@ -490,6 +479,16 @@
         "publishedAt": "2026-07-03T23:43:01+00:00",
         "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
+        "tags": [
+          "ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-07-03T18:10:32+00:00",
+        "summary": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXhKc2w2U0w5RUpFUE9YWldVM1FGRjN2YlpJU0ozbWhjbFFtUVJXekd5blhQRzVwUW1Pa3gwVUJYZ2g1Q2ViYUphY2dfRE9NYVNuU05DWFVUMEhiUndidndlQm40YkY1WU1sM0hRdmtES1RTR0ZWTnpHLUNwb0tWX0dLai1hQnVkNU1vMDNMMnZVMGhQb2lBRE1VeVA5TWxrQ3Rvb3lzT1ZHbldQc3hUcXdUWWhSanlJckZuT3ZnOXVpZ1ZfSzh2am93?oc=5",
         "tags": [
           "ad-hoc-news.de"
         ]
