@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T00:58:03.288988+00:00",
+  "generatedAt": "2026-07-19T04:21:43.365916+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,17 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert - it-daily",
-        "source": "it-daily",
-        "publishedAt": "2026-06-14T07:00:00+00:00",
-        "summary": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert it-daily",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0N6UzdWNVUwR2F2c2RpUTBGMVhXZF94bEdTRHRqNDdaaFRXd0g2YXNkUTZ4WmhuaDk3RDJOZFpoaDA5LXZScVhZU2hjSjBFR1lJdTNwR3VQanBESGptQXBuLTBxSDB5WGI3YkdvSlBXTWRfeC1SQ2RUeXF6WHNFZ2ZpLUV0cERIZ3VvVA?oc=5",
-        "tags": [
-          "Siemens",
-          "NSC"
         ]
       },
       {
@@ -95,6 +84,16 @@
         ]
       },
       {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
         "source": "www.bote.ch",
         "publishedAt": "2026-03-30T07:00:00+00:00",
@@ -158,16 +157,6 @@
         ]
       },
       {
-        "title": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-07-11T07:12:00+00:00",
-        "summary": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFo3Yzk2akxJVVJfeWdJb3Q4N1VRS0wtYlEyWkVvTFdpTVgxeWZfLUR6M3c5LWl2ZmFvVHFuMjhhU1dZVmtFUW8yMlY1ZGNRTkxSWjlPdTQxRzNjSTVaQllWU0tQYU1hY19mOG5saGxQV3BMWWI3czAxQ1JFdVB5V2dvYS1QQ3ZIYzM0OUZCUF8zU2h5OUtwU05qTk5pVU9uUjZDVnBVNDFEMkZVWE9IazIzSk85VzFwbThDZGFMRlVkVm8?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Smart Home und mehr günstiger: IKEA: 15-Euro-Gutschein für Family-Mitglieder abstauben - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-07-08T10:00:00+00:00",
@@ -210,16 +199,6 @@
         ]
       },
       {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
-      },
-      {
         "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-26T07:00:00+00:00",
@@ -227,6 +206,16 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QLXduUFJ3YWhIYjRTUGQweXliVm03N2FYRDV6S1VQa0FqREZoQW55TTNCQjhud3l6TVlWWFJEaUxnUi01TzRLMmM0QkFSSC1VNDJDTjR5NHN1U05uVGRjdVZtZDFHZm5UbzNKSnRsTUo5M3A4SDl3ei1R?oc=5",
         "tags": [
           "Teltarif"
+        ]
+      },
+      {
+        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-26T07:00:00+00:00",
+        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
+        "tags": [
+          "SmarthomeAssistent"
         ]
       },
       {
@@ -248,6 +237,16 @@
         "tags": [
           "Ei",
           "X-Sense"
+        ]
+      },
+      {
+        "title": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht - GameStar",
+        "source": "GameStar",
+        "publishedAt": "2026-06-25T07:00:00+00:00",
+        "summary": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht GameStar",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJkNjdYUEd6djc2VEZOeDhlM215Vy1VLTVabGlkZ1lyMzAxcXVyWmlpWUEzQTZmbzBjUzZKRm5WVTQxanU1Z0dHdGg0SjBsMV81blhwbkhPSzBtanRvN3FsN1h2NnhpNkZFbVNjTkM4TUhMQjlQLUJwSXk3QVhzVTBTVXE4TElRbVZtOGxqLVlXZw?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -375,16 +374,6 @@
     ],
     "trends": [
       {
-        "title": "Hochtief baut mit: Meta erweitert KI-Campus auf 5 GW - ingenieur.de",
-        "source": "ingenieur.de",
-        "publishedAt": "2026-07-17T06:24:00+00:00",
-        "summary": "Hochtief baut mit: Meta erweitert KI-Campus auf 5 GW ingenieur.de",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUlCdElqUV8zeHdNLUFLRnUyVnNxdFJpUEJSWUVJSWpEVnVfSFVWRXlwWnp0R1Z2Y2ZXTVR6Sm9DYWJIU1FxN1UzNVJseEdYZm5mQWFlUEhvTkY0OVZEdUdyb3pYek52emNsSlp5cXlTQWxQNVZmaUIxdUZkaHNTSWlHQUVGVTh1OUZQd2w3MC0yeEFDeENfWXk4SlBQS2NQeFV3eA?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Die Honeywell-Aktie zeigt stabile Perspektiven im Industrie- und Luftfahrtsektor - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
         "publishedAt": "2026-07-16T06:19:23+00:00",
@@ -392,16 +381,6 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW5DWHpCVFBSRGRDT3pfX0Jadjdkd003M0JyeEFzclFNazBySTBqY0hHM0l3OWFrZGlLd3BCLWtYQ19IaTlZdnlEaXk0WWk4enJzcEpFMkxUckkzRHdBcFllQk5ic1pZamVER0pxbFJXcDlUTmJTUkQxSGRUVGFsdW01WGI3Q2RrbTUyeTF2eUpRdnMweXdDTnVwWjZxWW80bTJuTDZIQTVzbmxoemVRRk8xWlVkMzk3bGVTUi1Gcw?oc=5",
         "tags": [
           "ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "CircularInFoam entwickelt nachhaltige Dämmstoffe mit halogenfreiem Brandschutz - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-07-16T04:16:56+00:00",
-        "summary": "CircularInFoam entwickelt nachhaltige Dämmstoffe mit halogenfreiem Brandschutz Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Md0RNZlFqdFRqVGRnOWRlbF9pZWN6MkRHYTJ1SkRXVU54SEdLMUxCR2F5SndpbW9ub3l3SWt2N2lSMXFVbHE2cFFPNHZOb1BjclozSk9SS0ZjWkZ3?oc=5",
-        "tags": [
-          "Baulinks"
         ]
       },
       {
@@ -492,6 +471,26 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXhKc2w2U0w5RUpFUE9YWldVM1FGRjN2YlpJU0ozbWhjbFFtUVJXekd5blhQRzVwUW1Pa3gwVUJYZ2g1Q2ViYUphY2dfRE9NYVNuU05DWFVUMEhiUndidndlQm40YkY1WU1sM0hRdmtES1RTR0ZWTnpHLUNwb0tWX0dLai1hQnVkNU1vMDNMMnZVMGhQb2lBRE1VeVA5TWxrQ3Rvb3lzT1ZHbldQc3hUcXdUWWhSanlJckZuT3ZnOXVpZ1ZfSzh2am93?oc=5",
         "tags": [
           "ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-06-20T13:23:27+00:00",
+        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
+        "tags": [
+          "ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
+        "publishedAt": "2026-06-17T07:00:00+00:00",
+        "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour TGA+E Fachplaner",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
