@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T07:03:10.389810+00:00",
+  "generatedAt": "2026-07-19T09:24:22.449489+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,17 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert - it-daily",
-        "source": "it-daily",
-        "publishedAt": "2026-06-14T07:00:00+00:00",
-        "summary": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert it-daily",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0N6UzdWNVUwR2F2c2RpUTBGMVhXZF94bEdTRHRqNDdaaFRXd0g2YXNkUTZ4WmhuaDk3RDJOZFpoaDA5LXZScVhZU2hjSjBFR1lJdTNwR3VQanBESGptQXBuLTBxSDB5WGI3YkdvSlBXTWRfeC1SQ2RUeXF6WHNFZ2ZpLUV0cERIZ3VvVA?oc=5",
-        "tags": [
-          "Siemens",
-          "NSC"
         ]
       },
       {
@@ -123,6 +112,16 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -189,6 +188,16 @@
         ]
       },
       {
+        "title": "Amazon: X-Sense Standalone-Rauchmelder - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-06-27T16:05:51+00:00",
+        "summary": "Amazon: X-Sense Standalone-Rauchmelder n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHJDVmdNZVI2cllBYjFoMnRJd3JLSmJBbDJnTEppdmxXOUJTc2hfNThzY0wwU1RCWE82QjNvdmprTndERG9kT2pEQXZtbU9nQ1doMlNOWW9nN0JKNks1Qnk3UmdVQnVKdWU5bHpuYlU2dHdrRTAxbVVtVzQzc21ZRQ?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Amazon: X-Sense Smart Home-Basisstation - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-06-27T11:08:25+00:00",
@@ -238,16 +247,6 @@
         "tags": [
           "Ei",
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht - GameStar",
-        "source": "GameStar",
-        "publishedAt": "2026-06-25T07:00:00+00:00",
-        "summary": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht GameStar",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJkNjdYUEd6djc2VEZOeDhlM215Vy1VLTVabGlkZ1lyMzAxcXVyWmlpWUEzQTZmbzBjUzZKRm5WVTQxanU1Z0dHdGg0SjBsMV81blhwbkhPSzBtanRvN3FsN1h2NnhpNkZFbVNjTkM4TUhMQjlQLUJwSXk3QVhzVTBTVXE4TElRbVZtOGxqLVlXZw?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
@@ -447,7 +446,7 @@
       {
         "title": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
-        "publishedAt": "2026-07-04T10:32:59+00:00",
+        "publishedAt": "2026-07-04T07:00:00+00:00",
         "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
         "tags": [
