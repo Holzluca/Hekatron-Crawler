@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T04:21:43.365916+00:00",
+  "generatedAt": "2026-07-19T07:03:10.389810+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,6 +11,17 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert - it-daily",
+        "source": "it-daily",
+        "publishedAt": "2026-06-14T07:00:00+00:00",
+        "summary": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert it-daily",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0N6UzdWNVUwR2F2c2RpUTBGMVhXZF94bEdTRHRqNDdaaFRXd0g2YXNkUTZ4WmhuaDk3RDJOZFpoaDA5LXZScVhZU2hjSjBFR1lJdTNwR3VQanBESGptQXBuLTBxSDB5WGI3YkdvSlBXTWRfeC1SQ2RUeXF6WHNFZ2ZpLUV0cERIZ3VvVA?oc=5",
+        "tags": [
+          "Siemens",
+          "NSC"
         ]
       },
       {
@@ -112,16 +123,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -199,16 +200,6 @@
         ]
       },
       {
-        "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QLXduUFJ3YWhIYjRTUGQweXliVm03N2FYRDV6S1VQa0FqREZoQW55TTNCQjhud3l6TVlWWFJEaUxnUi01TzRLMmM0QkFSSC1VNDJDTjR5NHN1U05uVGRjdVZtZDFHZm5UbzNKSnRsTUo5M3A4SDl3ei1R?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
-      {
         "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-06-26T07:00:00+00:00",
@@ -216,6 +207,16 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
         "tags": [
           "SmarthomeAssistent"
+        ]
+      },
+      {
+        "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-26T07:00:00+00:00",
+        "summary": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QLXduUFJ3YWhIYjRTUGQweXliVm03N2FYRDV6S1VQa0FqREZoQW55TTNCQjhud3l6TVlWWFJEaUxnUi01TzRLMmM0QkFSSC1VNDJDTjR5NHN1U05uVGRjdVZtZDFHZm5UbzNKSnRsTUo5M3A4SDl3ei1R?oc=5",
+        "tags": [
+          "Teltarif"
         ]
       },
       {
