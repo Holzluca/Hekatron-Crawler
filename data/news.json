@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T16:51:06.362614+00:00",
+  "generatedAt": "2026-07-19T17:53:10.150512+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -374,6 +374,16 @@
     ],
     "trends": [
       {
+        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-07-19T17:18:21+00:00",
+        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEZUNHZ1YzI5T3N3UDRFY1hGVUVaMFRIMlZPUDMwU2lPZUtLbnB6NWJ1ZUdJam45ZVhDT0xRVkhuM1EwQ2U1YTlZdlo0R2xPWXlQdEVZajhqdHBadEVEVExEQWdMNXpmME1QLVZsdnRWdWlEU3pEaHV6enI0NnpLV0JtcS12WDRqUHhTdFFpZUxLcVV5NTFQUVhXa25fRHNLWlM1ODc3Nmh1ZTQydnN1cDhJNW9sQQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-19T11:37:19+00:00",
@@ -479,16 +489,6 @@
         "publishedAt": "2026-07-03T18:10:32+00:00",
         "summary": "Carrier Global fokussiert Gebäudetechnik. Klimatisierung und Sicherheit im Blick ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXhKc2w2U0w5RUpFUE9YWldVM1FGRjN2YlpJU0ozbWhjbFFtUVJXekd5blhQRzVwUW1Pa3gwVUJYZ2g1Q2ViYUphY2dfRE9NYVNuU05DWFVUMEhiUndidndlQm40YkY1WU1sM0hRdmtES1RTR0ZWTnpHLUNwb0tWX0dLai1hQnVkNU1vMDNMMnZVMGhQb2lBRE1VeVA5TWxrQ3Rvb3lzT1ZHbldQc3hUcXdUWWhSanlJckZuT3ZnOXVpZ1ZfSzh2am93?oc=5",
-        "tags": [
-          "ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-06-20T13:23:27+00:00",
-        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
           "ad-hoc-news.de"
         ]
