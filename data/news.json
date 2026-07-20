@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T16:53:17.592194+00:00",
+  "generatedAt": "2026-07-20T18:49:27.296639+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -252,20 +252,20 @@
     ],
     "doors": [
       {
-        "title": "Die Apollo-Global-Management-Aktie profitiert vom starken Wachstum im Kreditgeschäft - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Die Apollo-Global-Management-Aktie profitiert vom starken Wachstum im Kreditgeschäft - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-14T10:52:11+00:00",
-        "summary": "Die Apollo-Global-Management-Aktie profitiert vom starken Wachstum im Kreditgeschäft ad-hoc-news.de",
+        "summary": "Die Apollo-Global-Management-Aktie profitiert vom starken Wachstum im Kreditgeschäft Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZEU4eHRaUjIyc2dSNjBvMm5PR0g2d3JhZU9PT2t2V0g0dVpnazRvdlBsV09SNlhPUEZKX3FWNE9uY05aYmVnNnVlRW9xa2N6TjJHaXJXSUZKdHFfOWJ0XzZfQTNCRlNoUm9scnIyMWhsNl9pMlZLcktIUjVjLTFVaFlmT3JXY0ROYXVwMmNxU2F2MHEtektOVlMyS3V0Rmx2dWdmOWdWWnBqRVRYcDJ1XzhYUkV0S1lYMWIxUWhvckJsX25keUd3?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Die Apollo-Hospitals-Aktie bleibt vom Gesundheitswachstum in Indien gestützt - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Die Apollo-Hospitals-Aktie bleibt vom Gesundheitswachstum in Indien gestützt - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-11T11:41:47+00:00",
-        "summary": "Die Apollo-Hospitals-Aktie bleibt vom Gesundheitswachstum in Indien gestützt ad-hoc-news.de",
+        "summary": "Die Apollo-Hospitals-Aktie bleibt vom Gesundheitswachstum in Indien gestützt Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZDg3YnF6RXZsX25HVS1RTVhUUW91TU01c1VBaG1mWkZWaGxSTFJoNUh6QUNwcHJpeFNyVGZYeVRiMGpEYXNHem9pVTVvZWlOY1lfeWQwZDRULXp5Nk5XeFpyenk4djZFVmQ4NlpSWVRUR2p2Vi16dC1TS3BTQ29ZMjJxVkNVSTQ2ZGxqcG1ORGV0ODR2RUJVLXc4dWM1QkhCVmlJMFY4d1FRTk5UN1d0ZWU2VnZ1M3h1SFNqX3JhUlpka1N0?oc=5",
         "tags": [
           "Apollo"
@@ -374,6 +374,16 @@
     ],
     "trends": [
       {
+        "title": "Google baut KI-Campus in Österreich – Milliardenprojekt entfacht Streit um Umwelt und Wasser - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-07-20T10:00:00+00:00",
+        "summary": "Google baut KI-Campus in Österreich – Milliardenprojekt entfacht Streit um Umwelt und Wasser Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ3Y0ZFA3bWlCbTlXYXpwa2NFMW9zS01tZ285RG52RW9qS0RLbDJqb0FRd25Yd2VrUFVwUkNGZm5EcWpGdFdua2dicE5xWmdXWVQwLThkYlBXcnVFMXNOR1dGZ1RRNFdRQXFRVTNkVDJCMUhGOHNWcEg5d1dpUEtieFlWSnRXR0ktdXdXQ0dUQVZ0c0JtTXQ2RXdlUXU3WVZBMExLSWY3ZHUyUVpnVDNhYWx2ZG9mc3RXTTNEVThtYUxWdHdhLWc?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
         "publishedAt": "2026-07-20T06:15:31+00:00",
@@ -384,11 +394,21 @@
         ]
       },
       {
-        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-19T17:18:21+00:00",
-        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde ad-hoc-news.de",
+        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEZUNHZ1YzI5T3N3UDRFY1hGVUVaMFRIMlZPUDMwU2lPZUtLbnB6NWJ1ZUdJam45ZVhDT0xRVkhuM1EwQ2U1YTlZdlo0R2xPWXlQdEVZajhqdHBadEVEVExEQWdMNXpmME1QLVZsdnRWdWlEU3pEaHV6enI0NnpLV0JtcS12WDRqUHhTdFFpZUxLcVV5NTFQUVhXa25fRHNLWlM1ODc3Nmh1ZTQydnN1cDhJNW9sQQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-07-19T15:05:33+00:00",
+        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU181RDNNcDVNSVhpTlJtVGhUdWZMenVPVERTcTcya19oa2c0bFZrTDVKbzF4MHhCN0JKemlNVzdPWHF3aTA2YkZMVlBZS0VzUEVxcnh0RHZpSThNNEhhMjFUZEFNYkhXN3dFWnJHRDA0TGdqN3dEUlFULWJxVzNiSVN5empiNlk4TURaTHhBTFp5Nzljc2FnRFEycWtyQWJ3XzlpbTlkWkU0eHlQZjgwZlFtSVZZajNFd25jeXpOZ0hpQ0Z1a29iMFpYZHhkNXU4SGhZ?oc=5",
         "tags": [
           "KI"
         ]
@@ -404,43 +424,33 @@
         ]
       },
       {
-        "title": "Die Honeywell-Aktie zeigt stabile Perspektiven im Industrie- und Luftfahrtsektor - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Die Honeywell-Aktie zeigt stabile Perspektiven im Industrie- und Luftfahrtsektor - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-16T06:19:23+00:00",
-        "summary": "Die Honeywell-Aktie zeigt stabile Perspektiven im Industrie- und Luftfahrtsektor ad-hoc-news.de",
+        "summary": "Die Honeywell-Aktie zeigt stabile Perspektiven im Industrie- und Luftfahrtsektor Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW5DWHpCVFBSRGRDT3pfX0Jadjdkd003M0JyeEFzclFNazBySTBqY0hHM0l3OWFrZGlLd3BCLWtYQ19IaTlZdnlEaXk0WWk4enJzcEpFMkxUckkzRHdBcFllQk5ic1pZamVER0pxbFJXcDlUTmJTUkQxSGRUVGFsdW01WGI3Q2RrbTUyeTF2eUpRdnMweXdDTnVwWjZxWW80bTJuTDZIQTVzbmxoemVRRk8xWlVkMzk3bGVTUi1Gcw?oc=5",
         "tags": [
-          "ad-hoc-news.de"
+          "Ad-hoc-news.de"
         ]
       },
       {
-        "title": "quer komplett: Ganze Sendung vom 16.07.2026 | BR.de - BR",
-        "source": "BR",
-        "publishedAt": "2026-07-15T15:55:39+00:00",
-        "summary": "quer komplett: Ganze Sendung vom 16.07.2026 | BR.de BR",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmYzlTUTNtcEhlZ0U1bHVaVzFuam1lNVJfWWhaMjczS1o0ajE0Zk5ORzFpeXlLYURsenhHSWNLWjkydU9EYWVIc3ZhSHE4Vi1SdV93Qm1UWGV4MGt3T3dBSFpmUEFORW14amhfa0lQMWpoTlJYRi1oTHBJSlR1T1U?oc=5",
-        "tags": [
-          "BR"
-        ]
-      },
-      {
-        "title": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-14T18:26:18+00:00",
-        "summary": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt ad-hoc-news.de",
+        "summary": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEw4NExSSFVRU0lzZlpLVUtRMUpVa1ctY2JzcWlOVHFzNTNLN1NET21aWERmcElaYzVDdklyQTdqMDd4Y0VnMlNQTzRzbUw1TllTczVzM0xyeFVkS1p6OGl4MTI0MGo0VE9jRXZTTkp2Smppc2ZVcWFvU216a1h2cEJzZWdGQUdhcGxrSEFqa19IVzY4Z1dpb3V4MTA3dFl5VVhia25lekNna1FWbFZWZUhNWFB5MzFsTXc?oc=5",
         "tags": [
-          "ad-hoc-news.de"
+          "Ad-hoc-news.de"
         ]
       },
       {
-        "title": "Die Honeywell-International-Aktie bleibt vom breit aufgestellten Industriegschäft gestützt - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Die Honeywell-International-Aktie bleibt vom breit aufgestellten Industriegschäft gestützt - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-12T11:13:45+00:00",
-        "summary": "Die Honeywell-International-Aktie bleibt vom breit aufgestellten Industriegschäft gestützt ad-hoc-news.de",
+        "summary": "Die Honeywell-International-Aktie bleibt vom breit aufgestellten Industriegschäft gestützt Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzZndWtseV8zOVZhWlNXRnl3dWpTbkhoSU5XSFVPcXo1cGkzZzhjT3l2THRLREJnUXU4VzVTM1J3TkI0ZlhUVHVYNEZtbEtrVVlBTTRieDBFbmhuY05iMEduNm9kNS00R2kzQ2xCU2VaZFdSZXV0MzExcXBSN19qSFR2S09SNUQ1WG9DdEdIR1h1TXZwYmNJWDVPcDVKTmZrMXVTcS1yNmJkOXBMTjlONERxUTNieVJLWU1Fc0xZTkg?oc=5",
         "tags": [
-          "ad-hoc-news.de"
+          "Ad-hoc-news.de"
         ]
       },
       {
@@ -474,23 +484,13 @@
         ]
       },
       {
-        "title": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-04T07:00:00+00:00",
-        "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� ad-hoc-news.de",
+        "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
         "tags": [
-          "ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-07-03T23:43:01+00:00",
-        "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
-        "tags": [
-          "ad-hoc-news.de"
+          "Ad-hoc-news.de"
         ]
       }
     ]
