@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T13:23:31.366554+00:00",
+  "generatedAt": "2026-07-20T15:26:17.393923+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -394,16 +394,6 @@
         ]
       },
       {
-        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - MSN",
-        "source": "MSN",
-        "publishedAt": "2026-07-19T15:05:33+00:00",
-        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern MSN",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU181RDNNcDVNSVhpTlJtVGhUdWZMenVPVERTcTcya19oa2c0bFZrTDVKbzF4MHhCN0JKemlNVzdPWHF3aTA2YkZMVlBZS0VzUEVxcnh0RHZpSThNNEhhMjFUZEFNYkhXN3dFWnJHRDA0TGdqN3dEUlFULWJxVzNiSVN5empiNlk4TURaTHhBTFp5Nzljc2FnRFEycWtyQWJ3XzlpbTlkWkU0eHlQZjgwZlFtSVZZajNFd25jeXpOZ0hpQ0Z1a29iMFpYZHhkNXU4SGhZ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-19T11:37:19+00:00",
@@ -421,6 +411,16 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW5DWHpCVFBSRGRDT3pfX0Jadjdkd003M0JyeEFzclFNazBySTBqY0hHM0l3OWFrZGlLd3BCLWtYQ19IaTlZdnlEaXk0WWk4enJzcEpFMkxUckkzRHdBcFllQk5ic1pZamVER0pxbFJXcDlUTmJTUkQxSGRUVGFsdW01WGI3Q2RrbTUyeTF2eUpRdnMweXdDTnVwWjZxWW80bTJuTDZIQTVzbmxoemVRRk8xWlVkMzk3bGVTUi1Gcw?oc=5",
         "tags": [
           "ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "quer komplett: Ganze Sendung vom 16.07.2026 | BR.de - BR",
+        "source": "BR",
+        "publishedAt": "2026-07-15T15:55:39+00:00",
+        "summary": "quer komplett: Ganze Sendung vom 16.07.2026 | BR.de BR",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmYzlTUTNtcEhlZ0U1bHVaVzFuam1lNVJfWWhaMjczS1o0ajE0Zk5ORzFpeXlLYURsenhHSWNLWjkydU9EYWVIc3ZhSHE4Vi1SdV93Qm1UWGV4MGt3T3dBSFpmUEFORW14amhfa0lQMWpoTlJYRi1oTHBJSlR1T1U?oc=5",
+        "tags": [
+          "BR"
         ]
       },
       {
