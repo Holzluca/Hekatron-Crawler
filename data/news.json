@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T21:39:18.166629+00:00",
+  "generatedAt": "2026-07-20T22:53:07.023164+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -85,16 +85,6 @@
         ]
       },
       {
-        "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-07T19:59:10+00:00",
-        "summary": "Unbemannt, aber nie unbeaufsichtigt Siemens",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-02T19:56:17+00:00",
@@ -120,6 +110,16 @@
         "publishedAt": "2026-04-01T07:00:00+00:00",
         "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
+        "source": "www.bote.ch",
+        "publishedAt": "2026-03-30T07:00:00+00:00",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -262,6 +262,16 @@
         ]
       },
       {
+        "title": "GEZE: Barrierefreie und sichere Fluchtwege - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-07-14T04:20:00+00:00",
+        "summary": "GEZE: Barrierefreie und sichere Fluchtwege Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kZFhXNkJNV1I4TU1yc2Z6SlBJckFVUFpxaTRJUzhKR0Vfb19Lb2VoQWp1UVMxenRTRDhraGVTWDVxYVE5cEo4ZVN2LWJZZnJiTlBVaUpZbTBLNzRK?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
         "title": "Die Apollo-Hospitals-Aktie bleibt vom Gesundheitswachstum in Indien gestützt - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-11T11:41:47+00:00",
@@ -360,16 +370,6 @@
         "tags": [
           "Business Insider Deutschland"
         ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -421,16 +421,6 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW5DWHpCVFBSRGRDT3pfX0Jadjdkd003M0JyeEFzclFNazBySTBqY0hHM0l3OWFrZGlLd3BCLWtYQ19IaTlZdnlEaXk0WWk4enJzcEpFMkxUckkzRHdBcFllQk5ic1pZamVER0pxbFJXcDlUTmJTUkQxSGRUVGFsdW01WGI3Q2RrbTUyeTF2eUpRdnMweXdDTnVwWjZxWW80bTJuTDZIQTVzbmxoemVRRk8xWlVkMzk3bGVTUi1Gcw?oc=5",
         "tags": [
           "Ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "quer komplett: Ganze Sendung vom 16.07.2026 | BR.de - BR",
-        "source": "BR",
-        "publishedAt": "2026-07-15T15:55:39+00:00",
-        "summary": "quer komplett: Ganze Sendung vom 16.07.2026 | BR.de BR",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmYzlTUTNtcEhlZ0U1bHVaVzFuam1lNVJfWWhaMjczS1o0ajE0Zk5ORzFpeXlLYURsenhHSWNLWjkydU9EYWVIc3ZhSHE4Vi1SdV93Qm1UWGV4MGt3T3dBSFpmUEFORW14amhfa0lQMWpoTlJYRi1oTHBJSlR1T1U?oc=5",
-        "tags": [
-          "BR"
         ]
       },
       {
@@ -489,6 +479,16 @@
         "publishedAt": "2026-07-04T07:00:00+00:00",
         "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-03T23:43:01+00:00",
+        "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
         "tags": [
           "Ad-hoc-news.de"
         ]
