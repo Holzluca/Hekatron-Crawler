@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:53:07.023164+00:00",
+  "generatedAt": "2026-07-20T23:52:05.259476+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -262,16 +262,6 @@
         ]
       },
       {
-        "title": "GEZE: Barrierefreie und sichere Fluchtwege - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-07-14T04:20:00+00:00",
-        "summary": "GEZE: Barrierefreie und sichere Fluchtwege Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kZFhXNkJNV1I4TU1yc2Z6SlBJckFVUFpxaTRJUzhKR0Vfb19Lb2VoQWp1UVMxenRTRDhraGVTWDVxYVE5cEo4ZVN2LWJZZnJiTlBVaUpZbTBLNzRK?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
         "title": "Die Apollo-Hospitals-Aktie bleibt vom Gesundheitswachstum in Indien gestützt - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-11T11:41:47+00:00",
@@ -369,6 +359,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
         "tags": [
           "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
