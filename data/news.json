@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T19:09:40.154343+00:00",
+  "generatedAt": "2026-07-21T20:41:57.870660+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -252,6 +252,16 @@
     ],
     "doors": [
       {
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
+        "publishedAt": "2026-07-21T19:00:31+00:00",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "88 Millionen weg: Louvre öffnet wieder – doch die Kronjuwelen fehlen noch immer - KOSMO | Eine starke Verbindung!",
         "source": "KOSMO | Eine starke Verbindung!",
         "publishedAt": "2026-07-21T10:28:22+00:00",
@@ -359,16 +369,6 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTndBZ0d6T1UxN29QNjF6V2VvRVFieUdEMFZMVHVoS0N3bHIwQ1JzYzFlcURyUERxdWQybVZvM0hkQW1Fb2dFOC1Bb2l5V1NPbnkzRkdFZlFfSDFoSmhrUVdUbE4wcDZjRFUtUE9fOWkyT1lXbTVMZE9JVWRFMEVFaHE0STFlcTFuWmxONmRvZzkxSXZ1Z0M0TTVXTVFEc3ViR1BnRjE5X2hIZzlEQ21JbFNJR1FzYlNvSHV6VVZ6eHFWeFhrTzdj?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
         ]
       }
     ],
