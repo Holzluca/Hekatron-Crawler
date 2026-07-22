@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T09:06:38.795463+00:00",
+  "generatedAt": "2026-07-22T11:23:47.256938+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -85,16 +85,6 @@
         ]
       },
       {
-        "title": "Nova-Brandmelder ermöglichen Ferndiagnosen - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Nova-Brandmelder ermöglichen Ferndiagnosen elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmRUNllLN041WnY4cjAtTWRjQjFhMDdEb3ozZjhaVDkycllyZmQwWlNRT2FhMmY3YV9aR0hIaTVramt0V042RnppaldjaWJuelJkekZYcW1RSXFhalVtNGw5RUZSNjlEdmQ3NjFfeHQ0VWpxYWJUWmgyX2F4NGkydg?oc=5",
-        "tags": [
-          "elektro.net"
-        ]
-      },
-      {
         "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-07T19:59:10+00:00",
@@ -122,6 +112,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -165,17 +165,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFo3Yzk2akxJVVJfeWdJb3Q4N1VRS0wtYlEyWkVvTFdpTVgxeWZfLUR6M3c5LWl2ZmFvVHFuMjhhU1dZVmtFUW8yMlY1ZGNRTkxSWjlPdTQxRzNjSTVaQllWU0tQYU1hY19mOG5saGxQV3BMWWI3czAxQ1JFdVB5V2dvYS1QQ3ZIYzM0OUZCUF8zU2h5OUtwU05qTk5pVU9uUjZDVnBVNDFEMkZVWE9IazIzSk85VzFwbThDZGFMRlVkVm8?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Smart Home und mehr günstiger: IKEA: 15-Euro-Gutschein für Family-Mitglieder abstauben - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-07-08T10:00:00+00:00",
-        "summary": "Smart Home und mehr günstiger: IKEA: 15-Euro-Gutschein für Family-Mitglieder abstauben Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUpZQnQxNzUxMVVGU3o2anQ2UUJPNDMtQ1pNS1QzdzV2SGhNSEE5WFBCYkVTSjNzSGkzdE0tekRfUGRJa3dDVTZiSnR6OUppUmpxc1NPNkJpamd0NVpaNG1BOG9YcnFUNnpEOUMwdWwwX1V0aXJrbFNlYmV6TnpIMU1lbXFZQ3FfcFpmRGtrWXBqcnJWbEVQTGsweE8zeVIxNkt6WkNJUUpGU01iRS1PUDJUUjdDMkU?oc=5",
-        "tags": [
-          "Ei",
-          "Smart Home"
         ]
       },
       {
@@ -248,9 +237,29 @@
           "Ei",
           "X-Sense"
         ]
+      },
+      {
+        "title": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht - GameStar",
+        "source": "GameStar",
+        "publishedAt": "2026-06-25T07:00:00+00:00",
+        "summary": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht GameStar",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJkNjdYUEd6djc2VEZOeDhlM215Vy1VLTVabGlkZ1lyMzAxcXVyWmlpWUEzQTZmbzBjUzZKRm5WVTQxanU1Z0dHdGg0SjBsMV81blhwbkhPSzBtanRvN3FsN1h2NnhpNkZFbVNjTkM4TUhMQjlQLUJwSXk3QVhzVTBTVXE4TElRbVZtOGxqLVlXZw?oc=5",
+        "tags": [
+          "Ei"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
+        "source": "KOHA.net",
+        "publishedAt": "2026-07-22T09:23:13+00:00",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
         "source": "exxpress",
@@ -360,16 +369,6 @@
         "tags": [
           "Handelsblatt"
         ]
-      },
-      {
-        "title": "Apollo Global Management startet UK-LTAF; TAKKION-Deal im Fokus; Epstein-Klage belastet Reputation - Goldesel.de",
-        "source": "Goldesel.de",
-        "publishedAt": "2026-03-10T07:00:00+00:00",
-        "summary": "Apollo Global Management startet UK-LTAF; TAKKION-Deal im Fokus; Epstein-Klage belastet Reputation Goldesel.de",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTndBZ0d6T1UxN29QNjF6V2VvRVFieUdEMFZMVHVoS0N3bHIwQ1JzYzFlcURyUERxdWQybVZvM0hkQW1Fb2dFOC1Bb2l5V1NPbnkzRkdFZlFfSDFoSmhrUVdUbE4wcDZjRFUtUE9fOWkyT1lXbTVMZE9JVWRFMEVFaHE0STFlcTFuWmxONmRvZzkxSXZ1Z0M0TTVXTVFEc3ViR1BnRjE5X2hIZzlEQ21JbFNJR1FzYlNvSHV6VVZ6eHFWeFhrTzdj?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -444,16 +443,6 @@
         ]
       },
       {
-        "title": "Die Johnson-Controls-Aktie zeigt stabile Entwicklung nach Rebranding und US-Rebound - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-07-13T04:33:18+00:00",
-        "summary": "Die Johnson-Controls-Aktie zeigt stabile Entwicklung nach Rebranding und US-Rebound Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSVU5MENEelI1ZkxYVUlTQlhlZzFtM1l2TXNqalU1aWdrbkZmanFVUnMxNVRlYjlFYzlqbnJ3NEhRVjlBbm5Xc3VScC1ZNGNrRVJHWGx0WU8ybVdYVWVoY0NSbkZoTmRSR25ycTNSQXpyZTVGMG9yN1laNi16c3lYOXRENDJXLUxGZnVsZldkZGtjNjU5U3M1Z1daN1MxWHNLd2ZTQ19NWkN2ZmxYTjVISnN6Vy1keDlPUW5KRWhWLVRCdzMtTWs2SmVtaw?oc=5",
-        "tags": [
-          "Ad-hoc-news.de"
-        ]
-      },
-      {
         "title": "Die Honeywell-International-Aktie bleibt vom breit aufgestellten Industriegschäft gestützt - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-12T11:13:45+00:00",
@@ -489,6 +478,16 @@
         "publishedAt": "2026-07-04T07:00:00+00:00",
         "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-03T23:43:01+00:00",
+        "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
         "tags": [
           "Ad-hoc-news.de"
         ]
