@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T00:13:59.720933+00:00",
+  "generatedAt": "2026-07-22T03:55:40.882603+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -85,6 +85,16 @@
         ]
       },
       {
+        "title": "Nova-Brandmelder ermöglichen Ferndiagnosen - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "summary": "Nova-Brandmelder ermöglichen Ferndiagnosen elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmRUNllLN041WnY4cjAtTWRjQjFhMDdEb3ozZjhaVDkycllyZmQwWlNRT2FhMmY3YV9aR0hIaTVramt0V042RnppaldjaWJuelJkekZYcW1RSXFhalVtNGw5RUZSNjlEdmQ3NjFfeHQ0VWpxYWJUWmgyX2F4NGkydg?oc=5",
+        "tags": [
+          "elektro.net"
+        ]
+      },
+      {
         "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-07T19:59:10+00:00",
@@ -112,16 +122,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "Neue Zürcher Zeitung"
-        ]
-      },
-      {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -252,6 +252,16 @@
     ],
     "doors": [
       {
+        "title": "Die Apollo-Global-Management-Aktie profitiert von starkem Gewinnsprung im ersten Quartal - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-22T03:39:19+00:00",
+        "summary": "Die Apollo-Global-Management-Aktie profitiert von starkem Gewinnsprung im ersten Quartal Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMDQySjZqV0NLUkU2RVlyMXg1TXpfdjRJSjdSMzYtSVhGZHN2Q0pyZ3Fxc1VmUlhRdnlUam1FczBIVWREQmdrV1Y3Qm81TTFXZHdvZVFGWEhMRVJqUWhwb3EtU21RUEpncF9oVzJBTTJWSV8xaVNWc1hqT2RKbHcweHE4RHFONGFRNkQ1NGhuVF9wbXRGZ3NSd0xnRFFxNnl4Wm9zbE5qM3JLQldQM0l6emZ6b3hWTVB2dXJ5ckRYWnZHVnROblR3YVRQbU0?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
         "source": "exxpress",
         "publishedAt": "2026-07-21T19:00:31+00:00",
@@ -360,16 +370,6 @@
         "tags": [
           "Handelsblatt"
         ]
-      },
-      {
-        "title": "Apollo Global Management startet UK-LTAF; TAKKION-Deal im Fokus; Epstein-Klage belastet Reputation - Goldesel.de",
-        "source": "Goldesel.de",
-        "publishedAt": "2026-03-10T07:00:00+00:00",
-        "summary": "Apollo Global Management startet UK-LTAF; TAKKION-Deal im Fokus; Epstein-Klage belastet Reputation Goldesel.de",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTndBZ0d6T1UxN29QNjF6V2VvRVFieUdEMFZMVHVoS0N3bHIwQ1JzYzFlcURyUERxdWQybVZvM0hkQW1Fb2dFOC1Bb2l5V1NPbnkzRkdFZlFfSDFoSmhrUVdUbE4wcDZjRFUtUE9fOWkyT1lXbTVMZE9JVWRFMEVFaHE0STFlcTFuWmxONmRvZzkxSXZ1Z0M0TTVXTVFEc3ViR1BnRjE5X2hIZzlEQ21JbFNJR1FzYlNvSHV6VVZ6eHFWeFhrTzdj?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -421,16 +421,6 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW5DWHpCVFBSRGRDT3pfX0Jadjdkd003M0JyeEFzclFNazBySTBqY0hHM0l3OWFrZGlLd3BCLWtYQ19IaTlZdnlEaXk0WWk4enJzcEpFMkxUckkzRHdBcFllQk5ic1pZamVER0pxbFJXcDlUTmJTUkQxSGRUVGFsdW01WGI3Q2RrbTUyeTF2eUpRdnMweXdDTnVwWjZxWW80bTJuTDZIQTVzbmxoemVRRk8xWlVkMzk3bGVTUi1Gcw?oc=5",
         "tags": [
           "Ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "Vernetzter Brandschutz erhöht Sicherheit und Effizienz - Elektropraktiker",
-        "source": "Elektropraktiker",
-        "publishedAt": "2026-07-15T12:12:47+00:00",
-        "summary": "Vernetzter Brandschutz erhöht Sicherheit und Effizienz Elektropraktiker",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU3lPMlFNMEgzOE1Zc1ZBQklpc0dTU0FrZFVZNHphV3JSUHFJQXcteHBPejVHT09EUWFiemt1Rnd6c0IwenNQUlpzbGRaNDdaRDFmZ0ZFb1FVeFRHUE15THR1QnB6QzM0aTNzdnV1d0N4aExnSXpSbndCUFFiRjV4ckZmYjFBbXkzMmFIZmRPWEhFQnVDakdmRkRfeFlXN082YUpmOHhmVWotX082M2EzODBnRG9pOWphVkpVMmdCYm9LSzA?oc=5",
-        "tags": [
-          "Elektropraktiker"
         ]
       },
       {
@@ -491,6 +481,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc2s0Z3RLSkh1LXI5enVNTlJueWtSNVBrU25KNWdWLVR0MFJmcVpDWUk5MmYtb2dLTjhVMnRBWk04aXBfUzEzUGUyUnVSa0FWY2U2dFROaVZ2Q3JyODA4TWZSaDJ1UjJTWlI5T21kWTN6eURrbGEzbzZrVE1zRmhEeXFKcDkwR0tfMVdUbVpVQ2ZHQm16VDNBcnpvYW9lZmRyRmlhSzBrWTNQalFFbHpsZVJUTjd5Nmd0SGZoSDB4WFZ0RFpZN1p0R0FoNTVjcjB5VFdORDVhQk9iUlk0cy1ad1N0Z2Y?oc=5",
         "tags": [
           "kreiszeitung-wochenblatt.de"
+        ]
+      },
+      {
+        "title": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-04T07:00:00+00:00",
+        "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
         ]
       }
     ]
