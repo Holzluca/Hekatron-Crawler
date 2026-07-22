@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-07-21T23:02:17.549910+00:00",
+  "generatedAt": "2026-07-22T00:13:59.720933+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Top 20 Unternehmen im globalen Markt für Brandmeldesensoren - Spherical Insights",
-        "source": "Spherical Insights",
-        "publishedAt": "2026-07-18T16:43:12+00:00",
-        "summary": "Top 20 Unternehmen im globalen Markt für Brandmeldesensoren Spherical Insights",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMmhrTDY3LVFxbHBCcVpicEFrWmVwb19GZ2F6MkxzQmU5MDVjYXhfWlg4Q0laTVg4aDNMRThrVmhXTFk1eFdCd3h3T3gxRnhzTUppZ094SlBnTjFKenJkTjItSTJMTHpacjVlN1JEUXpoZHh5RVZoTGM0NzBLbzVLYVFCY1BMOFFNN19ZMlBPMm1fWV9MeHNFdDV3T1NyMWpBR3dDNVk2U2VPc0c1VFhDUUFJbWlRSE5YTWJmTExvbHZuNF9NWXFiQ1NxNE1EUWNNZXVrSzYyUElyMUE?oc=5",
-        "tags": [
-          "Spherical Insights"
-        ]
-      },
       {
         "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
         "source": "Baulinks",
@@ -95,16 +85,6 @@
         ]
       },
       {
-        "title": "Nova-Brandmelder ermöglichen Ferndiagnosen - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Nova-Brandmelder ermöglichen Ferndiagnosen elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmRUNllLN041WnY4cjAtTWRjQjFhMDdEb3ozZjhaVDkycllyZmQwWlNRT2FhMmY3YV9aR0hIaTVramt0V042RnppaldjaWJuelJkekZYcW1RSXFhalVtNGw5RUZSNjlEdmQ3NjFfeHQ0VWpxYWJUWmgyX2F4NGkydg?oc=5",
-        "tags": [
-          "elektro.net"
-        ]
-      },
-      {
         "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-07T19:59:10+00:00",
@@ -120,6 +100,26 @@
         "publishedAt": "2026-04-02T19:56:17+00:00",
         "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -394,6 +394,16 @@
         ]
       },
       {
+        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - MSN",
+        "source": "MSN",
+        "publishedAt": "2026-07-19T15:05:33+00:00",
+        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU181RDNNcDVNSVhpTlJtVGhUdWZMenVPVERTcTcya19oa2c0bFZrTDVKbzF4MHhCN0JKemlNVzdPWHF3aTA2YkZMVlBZS0VzUEVxcnh0RHZpSThNNEhhMjFUZEFNYkhXN3dFWnJHRDA0TGdqN3dEUlFULWJxVzNiSVN5empiNlk4TURaTHhBTFp5Nzljc2FnRFEycWtyQWJ3XzlpbTlkWkU0eHlQZjgwZlFtSVZZajNFd25jeXpOZ0hpQ0Z1a29iMFpYZHhkNXU4SGhZ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-19T11:37:19+00:00",
@@ -481,16 +491,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc2s0Z3RLSkh1LXI5enVNTlJueWtSNVBrU25KNWdWLVR0MFJmcVpDWUk5MmYtb2dLTjhVMnRBWk04aXBfUzEzUGUyUnVSa0FWY2U2dFROaVZ2Q3JyODA4TWZSaDJ1UjJTWlI5T21kWTN6eURrbGEzbzZrVE1zRmhEeXFKcDkwR0tfMVdUbVpVQ2ZHQm16VDNBcnpvYW9lZmRyRmlhSzBrWTNQalFFbHpsZVJUTjd5Nmd0SGZoSDB4WFZ0RFpZN1p0R0FoNTVjcjB5VFdORDVhQk9iUlk0cy1ad1N0Z2Y?oc=5",
         "tags": [
           "kreiszeitung-wochenblatt.de"
-        ]
-      },
-      {
-        "title": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-07-04T07:00:00+00:00",
-        "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
-        "tags": [
-          "Ad-hoc-news.de"
         ]
       }
     ]
