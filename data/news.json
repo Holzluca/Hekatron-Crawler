@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T12:15:05.698199+00:00",
+  "generatedAt": "2026-07-24T14:18:57.857548+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - Autobild.de",
+        "source": "Autobild.de",
+        "publishedAt": "2026-07-24T12:00:00+00:00",
+        "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger Autobild.de",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzRUb3AyOU1kOHlTZU9yNkV2UDBzLTA3T2duWWd6SkdwcV83Vml1RHN6SjlJMkpHQ1lLVGtZUlVNNlhzeExIQVF5Z1lDdFRLY0FPOW5XdHJRLXVHbmVtVU13RTN5UnJmSGlvNU9JTThXaDBfWlE3clhiZnNmZXVxc1c5SEFUZ1lZSnhoZk94T3BuTVAtSXg2dGVmbVpIbGtRX0RrV0M5S1ZSMGk0QlFV?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Neue Rauchwarnmelder-Generation von Pyrexx - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-07-15T11:48:00+00:00",
@@ -135,16 +145,6 @@
         "tags": [
           "Pyrexx",
           "Rauchwarnmelder"
-        ]
-      },
-      {
-        "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - Autobild.de",
-        "source": "Autobild.de",
-        "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger Autobild.de",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaGlpSEZUQlBmNVRieHUtZkl6NldUU0Y3bTZDSTdTTGpIVWVRNUdTdl9DSmt1X3FQUTdyV09FNF9heFdud25RMFphbWV1M05JWjBDR09kTG9BeHA0WTA5ei1YWnJKRnczb0hZWDMzSzA1ekdETk9ISmZxVGNCT2hfZkZ2VnhOYmxpVGpaZEVqZGo5SnRxNUptQjNEUWtsU1Q0c21OWmhsVjZfbVc1Y3o4?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
