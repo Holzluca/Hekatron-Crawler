@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T02:06:05.766781+00:00",
+  "generatedAt": "2026-07-24T05:33:56.528045+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -251,6 +251,16 @@
     ],
     "doors": [
       {
+        "title": "Keine Akteneinsicht für Journalisten mehr: Noch schärfere Einschränkungen beim Informationsfreiheitsgesetz geplant - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-07-24T04:32:37+00:00",
+        "summary": "Keine Akteneinsicht für Journalisten mehr: Noch schärfere Einschränkungen beim Informationsfreiheitsgesetz geplant apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaDFkUXJWMTNReGlCbm9Rd1JuQW1hMk9RYU8xT2Ixb2FEdThwSE42ZXNLclBiUnY3dFNuZWxOQTZFSk0xd1VoUFZ6X0NTdXpkQm56RXJsbERDb0JvY0s0cVdURlI2OTAwV3V4akZJM1ZpaXZGTnhOYmdVVjRkWjgwRlZIN3hiQWNmaTZub3VtMkY1T05KdkdNRDNxM0hOblg1S3kzX3pRSGNyM25mNmlOQ3pMZkhhMExUZlJfVHlaZFAtZmdfTWE3eEVOcUVqSEdQX1lOWTFvNA?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
         "source": "KOHA.net",
         "publishedAt": "2026-07-22T09:23:13+00:00",
@@ -359,16 +369,6 @@
         "tags": [
           "Augsburger Allgemeine"
         ]
-      },
-      {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
@@ -433,16 +433,6 @@
         ]
       },
       {
-        "title": "Vernetzter Brandschutz erhöht Sicherheit und Effizienz - Elektropraktiker",
-        "source": "Elektropraktiker",
-        "publishedAt": "2026-07-15T12:12:47+00:00",
-        "summary": "Vernetzter Brandschutz erhöht Sicherheit und Effizienz Elektropraktiker",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU3lPMlFNMEgzOE1Zc1ZBQklpc0dTU0FrZFVZNHphV3JSUHFJQXcteHBPejVHT09EUWFiemt1Rnd6c0IwenNQUlpzbGRaNDdaRDFmZ0ZFb1FVeFRHUE15THR1QnB6QzM0aTNzdnV1d0N4aExnSXpSbndCUFFiRjV4ckZmYjFBbXkzMmFIZmRPWEhFQnVDakdmRkRfeFlXN082YUpmOHhmVWotX082M2EzODBnRG9pOWphVkpVMmdCYm9LSzA?oc=5",
-        "tags": [
-          "Elektropraktiker"
-        ]
-      },
-      {
         "title": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-14T18:26:18+00:00",
@@ -488,6 +478,16 @@
         "publishedAt": "2026-07-04T07:00:00+00:00",
         "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
+        "tags": [
+          "Ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-03T23:43:01+00:00",
+        "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
         "tags": [
           "Ad-hoc-news.de"
         ]
