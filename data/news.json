@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T08:14:25.522742+00:00",
+  "generatedAt": "2026-07-24T10:31:54.104716+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -105,13 +105,13 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
+        "source": "NZZ – Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern NZZ – Neue Zürcher Zeitung",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "Neue Zürcher Zeitung"
+          "NZZ – Neue Zürcher Zeitung"
         ]
       },
       {
@@ -433,6 +433,16 @@
         ]
       },
       {
+        "title": "Vernetzter Brandschutz erhöht Sicherheit und Effizienz - Elektropraktiker",
+        "source": "Elektropraktiker",
+        "publishedAt": "2026-07-15T12:12:47+00:00",
+        "summary": "Vernetzter Brandschutz erhöht Sicherheit und Effizienz Elektropraktiker",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU3lPMlFNMEgzOE1Zc1ZBQklpc0dTU0FrZFVZNHphV3JSUHFJQXcteHBPejVHT09EUWFiemt1Rnd6c0IwenNQUlpzbGRaNDdaRDFmZ0ZFb1FVeFRHUE15THR1QnB6QzM0aTNzdnV1d0N4aExnSXpSbndCUFFiRjV4ckZmYjFBbXkzMmFIZmRPWEhFQnVDakdmRkRfeFlXN082YUpmOHhmVWotX082M2EzODBnRG9pOWphVkpVMmdCYm9LSzA?oc=5",
+        "tags": [
+          "Elektropraktiker"
+        ]
+      },
+      {
         "title": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt - Ad-hoc-news.de",
         "source": "Ad-hoc-news.de",
         "publishedAt": "2026-07-14T18:26:18+00:00",
@@ -478,16 +488,6 @@
         "publishedAt": "2026-07-04T07:00:00+00:00",
         "summary": "Honeywell International stärkt seine Position. Der Technologiekonzern setzt auf breite Industriepr� Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQWc4MGlfX3N5ZHNNbVIwcC1SRmV5Uk05dkVPMHJjZmFDei1Sb2NYd1pDbF9lUGV1VElQbGI1dkR2azdEUUEwUjlod3lxNHRnSGlTeVpYUHlBSUllUHhsYVM2b3FCOXNZc0dISTkwdldmWlNON2hZdmRUYWk5WlBWRE9fbWxoVnlBX0gteUhmelpYOXhkQ2Y4WmZOY2YwZnkxTElVRFc2NWRudFZNQVpJU0EzS21sQzFJbkdzMTY0NmdkOFR4QU93?oc=5",
-        "tags": [
-          "Ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-07-03T23:43:01+00:00",
-        "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
         "tags": [
           "Ad-hoc-news.de"
         ]
