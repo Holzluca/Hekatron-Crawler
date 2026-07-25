@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T21:48:13.997942+00:00",
+  "generatedAt": "2026-07-25T22:47:10.127457+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,17 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert - it-daily",
-        "source": "it-daily",
-        "publishedAt": "2026-06-14T07:00:00+00:00",
-        "summary": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert it-daily",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0N6UzdWNVUwR2F2c2RpUTBGMVhXZF94bEdTRHRqNDdaaFRXd0g2YXNkUTZ4WmhuaDk3RDJOZFpoaDA5LXZScVhZU2hjSjBFR1lJdTNwR3VQanBESGptQXBuLTBxSDB5WGI3YkdvSlBXTWRfeC1SQ2RUeXF6WHNFZ2ZpLUV0cERIZ3VvVA?oc=5",
-        "tags": [
-          "Siemens",
-          "NSC"
         ]
       },
       {
@@ -52,6 +41,17 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-05-05T12:32:58+00:00",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       },
       {
@@ -105,13 +105,13 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
-        "source": "NZZ – Neue Zürcher Zeitung",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern NZZ – Neue Zürcher Zeitung",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – in der Schweiz entsteht die neueste Generation von Brandmeldern Neue Zürcher Zeitung",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "NZZ – Neue Zürcher Zeitung"
+          "Neue Zürcher Zeitung"
         ]
       },
       {
@@ -394,6 +394,16 @@
         ]
       },
       {
+        "title": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand - verbaende.com",
+        "source": "verbaende.com",
+        "publishedAt": "2026-07-23T09:23:55+00:00",
+        "summary": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand verbaende.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEFkdXUxNGstTHpFSWN2Nm44MTRSWm14TjE3aUtpcHJVVVNwV2R0Qm1HbkpJdVlma290QXRqVVR6NGtZNVlERlp4WE16czd6VFNrQzM3WkIydW9ZYWEwa3pHQ2N0OGkxZ3ZLU19LRVdsdk5DaDd4cl9nZFF4ZmZSMXY3dnlESjAwRmt6a1R5clN3eTFxMzFRNWVEZVF4MklVU1N4RWxVcmEyNF9JaEpDZ0ZLVEdfakE?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
+      {
         "title": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
         "publishedAt": "2026-07-20T06:15:31+00:00",
@@ -431,16 +441,6 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-07-14T18:26:18+00:00",
-        "summary": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEw4NExSSFVRU0lzZlpLVUtRMUpVa1ctY2JzcWlOVHFzNTNLN1NET21aWERmcElaYzVDdklyQTdqMDd4Y0VnMlNQTzRzbUw1TllTczVzM0xyeFVkS1p6OGl4MTI0MGo0VE9jRXZTTkp2Smppc2ZVcWFvU216a1h2cEJzZWdGQUdhcGxrSEFqa19IVzY4Z1dpb3V4MTA3dFl5VVhia25lekNna1FWbFZWZUhNWFB5MzFsTXc?oc=5",
-        "tags": [
-          "AD HOC NEWS"
         ]
       },
       {
