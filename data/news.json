@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T23:59:47.365989+00:00",
+  "generatedAt": "2026-07-25T03:21:26.567345+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -137,17 +137,6 @@
         ]
       },
       {
-        "title": "Neue Rauchwarnmelder-Generation von Pyrexx - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-07-15T11:48:00+00:00",
-        "summary": "Neue Rauchwarnmelder-Generation von Pyrexx elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTkdRTUcwWV9PNHFGcHZyTVhWblVtcUVVcmtzZVFLRWlCM3dnWV9yd1ZCUkhSZnRMRnpEaUJJRDhZaWh6VllOZEVoc2NOOHlOXzQ5VDNjdTBoSWQ1ODZucXhvc2xRZ0I1TVAxRHZud1JyNkJRUk9XQ3FhTHhwc00?oc=5",
-        "tags": [
-          "Pyrexx",
-          "Rauchwarnmelder"
-        ]
-      },
-      {
         "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
         "source": "Computer Bild",
         "publishedAt": "2026-07-14T07:00:00+00:00",
@@ -188,13 +177,24 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense Standalone-Rauchmelder - n-tv.de",
+        "title": "Amazon: X-Sense Smarter Rauchmelder WLAN mit Sprachausgabe - n-tv.de",
         "source": "n-tv.de",
-        "publishedAt": "2026-06-27T16:05:51+00:00",
-        "summary": "Amazon: X-Sense Standalone-Rauchmelder n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHJDVmdNZVI2cllBYjFoMnRJd3JLSmJBbDJnTEppdmxXOUJTc2hfNThzY0wwU1RCWE82QjNvdmprTndERG9kT2pEQXZtbU9nQ1doMlNOWW9nN0JKNks1Qnk3UmdVQnVKdWU5bHpuYlU2dHdrRTAxbVVtVzQzc21ZRQ?oc=5",
+        "publishedAt": "2026-06-27T16:08:36+00:00",
+        "summary": "Amazon: X-Sense Smarter Rauchmelder WLAN mit Sprachausgabe n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVlKNkpjd1hGWFlaUkpSamNYNVhyZVZWV2dsQ1pKWHg5elBIN1MwNWc5bGpGSjR1cmlaX1U4TlgzWlBlUDVzMkR4dUNHRWc3ZVRPanJoMTE1Q0llWmx3MlpMVTNKWmtuWlg5YnVmVTJHUEk0dm9aR044Zk5CdVlzVTRFMXZBVFdBbG1JdlR2VklNMDQ5d0ZiSlNiaw?oc=5",
         "tags": [
           "X-Sense"
+        ]
+      },
+      {
+        "title": "Amazon: X-Sense Smart Home-Basisstation - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-06-27T11:08:25+00:00",
+        "summary": "Amazon: X-Sense Smart Home-Basisstation n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUc0RkFjd0Zmak5VSXZ5YWVEWFppbnh4MjlLRGRvWWxjMndOdTNZdE9yaTBjZ0xPVHBlWVp6NFhPT3VWRTN3aGJ2ZmUwa01xZnhOc3BxUGlaS1JsMlZfUWpqZTB6aDhqVEVzenNjUnRnV2lfeUpsdUdFUExrTElRbmVDU28zU1NvYWNKRzg2cmpodw?oc=5",
+        "tags": [
+          "X-Sense",
+          "Smart Home"
         ]
       },
       {
