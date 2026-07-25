@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T22:47:10.127457+00:00",
+  "generatedAt": "2026-07-25T23:54:29.201978+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,6 +11,17 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert - it-daily",
+        "source": "it-daily",
+        "publishedAt": "2026-06-14T07:00:00+00:00",
+        "summary": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert it-daily",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0N6UzdWNVUwR2F2c2RpUTBGMVhXZF94bEdTRHRqNDdaaFRXd0g2YXNkUTZ4WmhuaDk3RDJOZFpoaDA5LXZScVhZU2hjSjBFR1lJdTNwR3VQanBESGptQXBuLTBxSDB5WGI3YkdvSlBXTWRfeC1SQ2RUeXF6WHNFZ2ZpLUV0cERIZ3VvVA?oc=5",
+        "tags": [
+          "Siemens",
+          "NSC"
         ]
       },
       {
@@ -41,17 +52,6 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-05-05T12:32:58+00:00",
-        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
         ]
       },
       {
