@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T08:15:01.364599+00:00",
+  "generatedAt": "2026-07-26T10:15:59.927548+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,17 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert - it-daily",
-        "source": "it-daily",
-        "publishedAt": "2026-06-14T07:00:00+00:00",
-        "summary": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert it-daily",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0N6UzdWNVUwR2F2c2RpUTBGMVhXZF94bEdTRHRqNDdaaFRXd0g2YXNkUTZ4WmhuaDk3RDJOZFpoaDA5LXZScVhZU2hjSjBFR1lJdTNwR3VQanBESGptQXBuLTBxSDB5WGI3YkdvSlBXTWRfeC1SQ2RUeXF6WHNFZ2ZpLUV0cERIZ3VvVA?oc=5",
-        "tags": [
-          "Siemens",
-          "NSC"
         ]
       },
       {
@@ -123,6 +112,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ – Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -445,6 +444,16 @@
         ]
       },
       {
+        "title": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-07-14T18:26:18+00:00",
+        "summary": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEw4NExSSFVRU0lzZlpLVUtRMUpVa1ctY2JzcWlOVHFzNTNLN1NET21aWERmcElaYzVDdklyQTdqMDd4Y0VnMlNQTzRzbUw1TllTczVzM0xyeFVkS1p6OGl4MTI0MGo0VE9jRXZTTkp2Smppc2ZVcWFvU216a1h2cEJzZWdGQUdhcGxrSEFqa19IVzY4Z1dpb3V4MTA3dFl5VVhia25lekNna1FWbFZWZUhNWFB5MzFsTXc?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
         "title": "Die Honeywell-International-Aktie bleibt vom breit aufgestellten Industriegschäft gestützt - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-07-12T11:13:45+00:00",
@@ -480,16 +489,6 @@
         "publishedAt": "2026-07-03T23:43:01+00:00",
         "summary": "EMCOR Services Northeast von EMCOR Group Inc - Servicemodell für Gebäudetechnik AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2VuMUlLS01GTnF3MXBRSHFGR0k0RmgwSzFLRXVuZ1B1UDVnVGZKX2VodThtOFM3RGhCQm1DN3dYVXlaVjZiRzdBR19JbG1qZ3FhMVRmcDREMVdWdTdwX29RZUM1bmFobEM0emNTWkNLOXN2cWRkVkJMTHdoN0xxaW8yU1NkQUJtSXlrLVhzUGZnczVOM2RhemFPbENQNjJZUXBjblBITzJHemY3dUxKNFc1MlNjU2NTLXdSV3JsMA?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-06-20T13:23:27+00:00",
-        "summary": "Johnson Controls Aktie - Analystenkonsens und Bewertung im Fokus AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczluVGRUSWNzYW1CaVloMGxsN2xMbHNzdTB1bUNOdkVzSTlqeVFsODNNM3N2YXFxS1J3T2ZhSzZnbEpVNzQxRXlZd1VpRGVOQWE2c2JTcDdQS04yLTBPU1ZxZnBzcklVMTdoY1RDYm84RFFDWDltUGRFZlZpRDFuSHY2WHYzcmVURmNicEM5b3RHRjhtUVpJX3BXbTVwNFBoUm9WZDRiMG5LUm82OXA5XzVlQXZ3TjdBNnpyVFh3?oc=5",
         "tags": [
           "AD HOC NEWS"
         ]
