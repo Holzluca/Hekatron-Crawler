@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T16:57:43.174706+00:00",
+  "generatedAt": "2026-07-26T18:01:54.650552+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -414,6 +414,18 @@
         ]
       },
       {
+        "title": "Smart Buildings sichern: PKI in der Gebäudeautomation - protector.de",
+        "source": "protector.de",
+        "publishedAt": "2026-07-20T13:46:41+00:00",
+        "summary": "Smart Buildings sichern: PKI in der Gebäudeautomation protector.de",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53N0xsS2RleUVkOU1iNHpTS1BKbUt5UGwteVNHd3A5bkQxNTQ1dUl6RVVWTElhckNud0liWlo3Zm1QNDhjTEs0MVZJMFVOMkFSbEUzVkJLc1V4cDVVNlVTdC1KYW1NOXYwWnBXdXRfM016TkRWRUlSbmo1TXlXQm8?oc=5",
+        "tags": [
+          "Smart Building",
+          "Gebäudeautomation",
+          "KI"
+        ]
+      },
+      {
         "title": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
         "publishedAt": "2026-07-20T06:15:31+00:00",
@@ -481,16 +493,6 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbF9RQVdpbVcybDd3T3JHc0FwdWFBUW9XRDgtOGZ3WFBEN1VMWGRLQmdNcjdTU1hHNVQxZXNTMjdKS0JoaG5jT1NFWGdXdTZzdG5YZS02MjhpOURUOVZRR25UVnBwdnFrdlM5ZWRBYk5XRFkwNDdqSTNQdTI3aGd1RGxTMEJMc0pVZVcxSVNWd3l5Y1VYVnJ6RURkSUo?oc=5",
         "tags": [
           "Osnabrücker Rundschau"
-        ]
-      },
-      {
-        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
-        "source": "Haufe. Intelligenz, die bewegt.",
-        "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
-        "tags": [
-          "Normen"
         ]
       }
     ]
