@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T22:00:24.797021+00:00",
+  "generatedAt": "2026-07-27T23:11:28.602328+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -221,16 +221,6 @@
         ]
       },
       {
-        "title": "Prime Day endet heute Nacht: Die besten Smart-Home-Deals zum Schlussspurt - HouseControllers",
-        "source": "HouseControllers",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Prime Day endet heute Nacht: Die besten Smart-Home-Deals zum Schlussspurt HouseControllers",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wQ3NoRl9SekpiSkZnbXN0Mnktc3R4R01HU2lHQmJ6UzVfR0FERHNpMktMU3J1djk4XzFLRm5iMDhJR3BzYkRVS1ppcVN1M1BGWFBIZ2JMakxTYkYxNGVZM1ZNbjF2X1ktQVlTdXBFcHUwTFQ0MDE4RnBlaw?oc=5",
-        "tags": [
-          "HouseControllers"
-        ]
-      },
-      {
         "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-26T07:00:00+00:00",
@@ -249,9 +239,30 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen - iphone-ticker.de",
+        "source": "iphone-ticker.de",
+        "publishedAt": "2026-06-25T07:00:00+00:00",
+        "summary": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen iphone-ticker.de",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2cwN2NWdWhVeU52QmQ5RW5EQ2pLTUN6b3hTLW8wcVlZVDcxWWZ1OWtSQUU5a01INVRMeDliVHoxWWRZelBXQTFkMTUxaTZ5eEZ4bUFtbmd0MGlldURneTM5NE05amUxZEhWOUZnUzNyUEVyTHFBYkFMbmV2ZmNBenhUVWxkdW5BejJqUVlKZXhRM2VxZVltZg?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T02:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
+        "tags": [
+          "Börsen-Zeitung"
+        ]
+      },
       {
         "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
         "source": "KOHA.net",
@@ -360,16 +371,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Apollo Global Management startet UK-LTAF; TAKKION-Deal im Fokus; Epstein-Klage belastet Reputation - Goldesel.de",
-        "source": "Goldesel.de",
-        "publishedAt": "2026-03-10T07:00:00+00:00",
-        "summary": "Apollo Global Management startet UK-LTAF; TAKKION-Deal im Fokus; Epstein-Klage belastet Reputation Goldesel.de",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTndBZ0d6T1UxN29QNjF6V2VvRVFieUdEMFZMVHVoS0N3bHIwQ1JzYzFlcURyUERxdWQybVZvM0hkQW1Fb2dFOC1Bb2l5V1NPbnkzRkdFZlFfSDFoSmhrUVdUbE4wcDZjRFUtUE9fOWkyT1lXbTVMZE9JVWRFMEVFaHE0STFlcTFuWmxONmRvZzkxSXZ1Z0M0TTVXTVFEc3ViR1BnRjE5X2hIZzlEQ21JbFNJR1FzYlNvSHV6VVZ6eHFWeFhrTzdj?oc=5",
-        "tags": [
-          "Apollo"
         ]
       }
     ],
