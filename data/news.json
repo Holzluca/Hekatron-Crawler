@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T15:57:02.830119+00:00",
+  "generatedAt": "2026-07-27T17:41:04.305974+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -396,6 +396,18 @@
         ]
       },
       {
+        "title": "Smart Buildings sichern: PKI in der Gebäudeautomation - protector.de",
+        "source": "protector.de",
+        "publishedAt": "2026-07-20T13:46:41+00:00",
+        "summary": "Smart Buildings sichern: PKI in der Gebäudeautomation protector.de",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53N0xsS2RleUVkOU1iNHpTS1BKbUt5UGwteVNHd3A5bkQxNTQ1dUl6RVVWTElhckNud0liWlo3Zm1QNDhjTEs0MVZJMFVOMkFSbEUzVkJLc1V4cDVVNlVTdC1KYW1NOXYwWnBXdXRfM016TkRWRUlSbmo1TXlXQm8?oc=5",
+        "tags": [
+          "Smart Building",
+          "Gebäudeautomation",
+          "KI"
+        ]
+      },
+      {
         "title": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
         "publishedAt": "2026-07-20T06:15:31+00:00",
@@ -441,16 +453,6 @@
         "publishedAt": "2026-07-14T18:26:18+00:00",
         "summary": "Die Johnson-Controls-Aktie bleibt von stabilem Gebäude- und Automationsgeschäft gestützt Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSEw4NExSSFVRU0lzZlpLVUtRMUpVa1ctY2JzcWlOVHFzNTNLN1NET21aWERmcElaYzVDdklyQTdqMDd4Y0VnMlNQTzRzbUw1TllTczVzM0xyeFVkS1p6OGl4MTI0MGo0VE9jRXZTTkp2Smppc2ZVcWFvU216a1h2cEJzZWdGQUdhcGxrSEFqa19IVzY4Z1dpb3V4MTA3dFl5VVhia25lekNna1FWbFZWZUhNWFB5MzFsTXc?oc=5",
-        "tags": [
-          "Ad-hoc-news.de"
-        ]
-      },
-      {
-        "title": "Die Johnson-Controls-Aktie zeigt stabile Entwicklung nach Rebranding und US-Rebound - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-07-13T04:33:18+00:00",
-        "summary": "Die Johnson-Controls-Aktie zeigt stabile Entwicklung nach Rebranding und US-Rebound Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSVU5MENEelI1ZkxYVUlTQlhlZzFtM1l2TXNqalU1aWdrbkZmanFVUnMxNVRlYjlFYzlqbnJ3NEhRVjlBbm5Xc3VScC1ZNGNrRVJHWGx0WU8ybVdYVWVoY0NSbkZoTmRSR25ycTNSQXpyZTVGMG9yN1laNi16c3lYOXRENDJXLUxGZnVsZldkZGtjNjU5U3M1Z1daN1MxWHNLd2ZTQ19NWkN2ZmxYTjVISnN6Vy1keDlPUW5KRWhWLVRCdzMtTWs2SmVtaw?oc=5",
         "tags": [
           "Ad-hoc-news.de"
         ]
