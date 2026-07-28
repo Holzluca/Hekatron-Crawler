@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T06:23:44.275866+00:00",
+  "generatedAt": "2026-07-28T09:14:42.728458+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -221,6 +221,16 @@
         ]
       },
       {
+        "title": "Prime Day endet heute Nacht: Die besten Smart-Home-Deals zum Schlussspurt - HouseControllers",
+        "source": "HouseControllers",
+        "publishedAt": "2026-06-26T07:00:00+00:00",
+        "summary": "Prime Day endet heute Nacht: Die besten Smart-Home-Deals zum Schlussspurt HouseControllers",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wQ3NoRl9SekpiSkZnbXN0Mnktc3R4R01HU2lHQmJ6UzVfR0FERHNpMktMU3J1djk4XzFLRm5iMDhJR3BzYkRVS1ppcVN1M1BGWFBIZ2JMakxTYkYxNGVZM1ZNbjF2X1ktQVlTdXBFcHUwTFQ0MDE4RnBlaw?oc=5",
+        "tags": [
+          "HouseControllers"
+        ]
+      },
+      {
         "title": "Bis zu 47 Prozent Rabatt: Rauch-, CO- und Wassersensoren im Angebot - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-26T07:00:00+00:00",
@@ -238,17 +248,6 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-06-25T07:00:00+00:00",
-        "summary": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2cwN2NWdWhVeU52QmQ5RW5EQ2pLTUN6b3hTLW8wcVlZVDcxWWZ1OWtSQUU5a01INVRMeDliVHoxWWRZelBXQTFkMTUxaTZ5eEZ4bUFtbmd0MGlldURneTM5NE05amUxZEhWOUZnUzNyUEVyTHFBYkFMbmV2ZmNBenhUVWxkdW5BejJqUVlKZXhRM2VxZVltZg?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
         ]
       }
     ],
