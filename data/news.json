@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T13:54:46.963728+00:00",
+  "generatedAt": "2026-07-29T15:46:47.076861+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Sicher wohnen: tink rabattiert Eufy & Bosch - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-07-29T14:19:00+00:00",
+        "summary": "Sicher wohnen: tink rabattiert Eufy & Bosch Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmZNTmI4aXdhVzY3cEVRUEtsYU5xcEpEV0I3TUc3OXlsTDVlcUJOY0tmS2drbGNYWll3dDBJcXVqZ2ZuMmh5dzViX2g5aXg1ZDFiZFJTMU5LbUdlaTBEbnNWdnZqTm92XzVBVzRXakVkSGU0Ml9FWTk3S1d2SW1nd09XWTduZ3dRUmlXbE1pamI?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - Autobild.de",
         "source": "Autobild.de",
         "publishedAt": "2026-07-24T12:00:00+00:00",
@@ -188,6 +198,18 @@
         ]
       },
       {
+        "title": "Amazon: X-Sense Smart Home Sicherheitssystem AS12 - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-06-27T16:04:16+00:00",
+        "summary": "Amazon: X-Sense Smart Home Sicherheitssystem AS12 n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM2FpdEFpRzNPNm4ydTNrSXc5VUdNR05pckFUa2N1ZW9aN3lid0MtcXNoWDNtbjI1ZWxmd3VpenJWZHFLSHBoaDRqR3BHNDJ5ZXduVWcwNmUyaGtnODJBQ0xoVERFY3p2akJwTHVOMjVJZlkzYnZ5cWRhUFNHbkVjdVJZWktDMFhJUldCTm5Pcw?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Amazon: X-Sense Smart Home-Basisstation - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-06-27T11:08:25+00:00",
@@ -226,27 +248,6 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QLXduUFJ3YWhIYjRTUGQweXliVm03N2FYRDV6S1VQa0FqREZoQW55TTNCQjhud3l6TVlWWFJEaUxnUi01TzRLMmM0QkFSSC1VNDJDTjR5NHN1U05uVGRjdVZtZDFHZm5UbzNKSnRsTUo5M3A4SDl3ei1R?oc=5",
         "tags": [
           "Teltarif"
-        ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Heizkörperthermostate-Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanpCY19nd3pLNlVaQ0lvVWE3Z0pEVVhEc0kxY2FTZXRvS18zeURJdmwteVdieHk2YU9LWlFvaUhWY0pyaXNycUJCRnRrRGpaTzgyZW5TZ3hoam1nU3ZvdnlSNEV2RUdRUFRWWllTSVdmUUlrdFVCR21QZ29iN25CV1dneERWbDdIWUVGRzJXNzdqLXQzTFJHODhDVldGY2py?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-06-25T07:00:00+00:00",
-        "summary": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2cwN2NWdWhVeU52QmQ5RW5EQ2pLTUN6b3hTLW8wcVlZVDcxWWZ1OWtSQUU5a01INVRMeDliVHoxWWRZelBXQTFkMTUxaTZ5eEZ4bUFtbmd0MGlldURneTM5NE05amUxZEhWOUZnUzNyUEVyTHFBYkFMbmV2ZmNBenhUVWxkdW5BejJqUVlKZXhRM2VxZVltZg?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
         ]
       }
     ],
@@ -406,10 +407,10 @@
         ]
       },
       {
-        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - MSN",
-        "source": "MSN",
+        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - msn.com",
+        "source": "msn.com",
         "publishedAt": "2026-07-19T19:28:17+00:00",
-        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern MSN",
+        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern msn.com",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdEN6RGozVGVWblFRbndCU0RlYUdzX2haOWR5NXBLdEptTFRUYXZ5NExydUFWcE1jTlNWVFRtRWVGWEd6WWFORC1lM1l4c183cVpJRm0yUFpoQkpIS1BMZkUzejNkanFsaks4Yk1Bc3pkVkNya0tNay1FNGZ2dXdlZHBkb2tuN3A0THBZQVh1OWlQYld2Y3JlWGNuaGFVblctNXRlOWpObHVTWUthRnVNRldINFVweHdwOE9wTTZrTHJzTENyZVlINmJaeWszTlN1Q1JibXBOZGtyQQ?oc=5",
         "tags": [
           "KI"
@@ -433,6 +434,16 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-07-13T11:26:55+00:00",
+        "summary": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa2Y1TlBENDFsdzRDTlBXT05SOFRyYkhCOTJkcWNWT19admxOLXF2V3ZHRTh6SWxESThWLXZBaEJxbWt3allEOE5QVzYwbU1yQkFVLWtPaEk3a19pOFVvdk84bGhqWlFjUXZoMVdDZzh5ZG54QkJRdnI2ZC1BOTRkT0hFT2czWllDSy1wakstTVVPbFRXekJib0RpUVluNXJBVUE?oc=5",
+        "tags": [
+          "it boltwise"
         ]
       },
       {
@@ -483,16 +494,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
         "tags": [
           "Handelsblatt Live"
-        ]
-      },
-      {
-        "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-05-29T07:00:00+00:00",
-        "summary": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert TGA+E Fachplaner",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
