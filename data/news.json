@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T21:24:09.320498+00:00",
+  "generatedAt": "2026-08-02T22:25:39.228158+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -75,16 +75,6 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -122,6 +112,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ – Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -188,10 +188,10 @@
         ]
       },
       {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - computerbild.de",
-        "source": "computerbild.de",
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
+        "source": "Computer Bild",
         "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser computerbild.de",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
@@ -322,10 +322,10 @@
         ]
       },
       {
-        "title": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen - de.tradingview.com",
-        "source": "de.tradingview.com",
+        "title": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen - TradingView",
+        "source": "TradingView",
         "publishedAt": "2026-06-15T07:00:00+00:00",
-        "summary": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen de.tradingview.com",
+        "summary": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen TradingView",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNMkdzeERZSjIwUzh0bmRGSHVIbkxGWXM2TFV3RDY5amdpd1pTcFczY2xRSVh3UEdtMjBFN2FSa25kMExvMGp0ekZod2dTMlhFdENrSFZBVDZyaEdKZDJuelpRLVVfak1mNnRGZDJBc0lURnNZSi0w?oc=5",
         "tags": [
           "Apollo"
