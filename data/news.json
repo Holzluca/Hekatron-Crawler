@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T20:26:55.762684+00:00",
+  "generatedAt": "2026-08-02T21:24:09.320498+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -75,6 +75,16 @@
         ]
       },
       {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
+        ]
+      },
+      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -112,16 +122,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ – Neue Zürcher Zeitung"
-        ]
-      },
-      {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -178,13 +178,13 @@
         ]
       },
       {
-        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - bild.de",
-        "source": "bild.de",
+        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - BILD",
+        "source": "BILD",
         "publishedAt": "2026-07-23T09:28:46+00:00",
-        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause bild.de",
+        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause BILD",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
-          "bild.de"
+          "BILD"
         ]
       },
       {
@@ -240,25 +240,25 @@
         ]
       },
       {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - smarthomeassistent.de",
-        "source": "smarthomeassistent.de",
+        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
         "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag smarthomeassistent.de",
+        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
         "tags": [
-          "smarthomeassistent.de"
+          "SmarthomeAssistent"
         ]
       }
     ],
     "doors": [
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
-        "source": "t3n.de",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
         "publishedAt": "2026-07-28T09:10:35+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n.de"
+          "t3n"
         ]
       },
       {
@@ -292,13 +292,13 @@
         ]
       },
       {
-        "title": "88 Millionen weg: Louvre öffnet wieder – doch die Kronjuwelen fehlen noch immer - kosmo.at",
-        "source": "kosmo.at",
+        "title": "88 Millionen weg: Louvre öffnet wieder – doch die Kronjuwelen fehlen noch immer - KOSMO | Eine starke Verbindung!",
+        "source": "KOSMO | Eine starke Verbindung!",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "88 Millionen weg: Louvre öffnet wieder – doch die Kronjuwelen fehlen noch immer kosmo.at",
+        "summary": "88 Millionen weg: Louvre öffnet wieder – doch die Kronjuwelen fehlen noch immer KOSMO | Eine starke Verbindung!",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajlRcE8zREtYNjlXYzBnXzJ6ZlNxZzVNckg4UElNYzhMb3U1TUJvQkpsN2VlOXNLdkVTakd3RVlsZjhkRHBfaUFfS3RNUk9tdnkxNTJ2Z3ZnYWI5VVdkLWJ4NUFwRTlMSlo4dzFKMEdHN0lNcUFXdU9EVnNvVWhQcWxJRElDU3p5eTZEZGZZTmRwNFgzVUpkS0JLeFJjVU5E?oc=5",
         "tags": [
-          "kosmo.at"
+          "KOSMO | Eine starke Verbindung!"
         ]
       },
       {
@@ -322,10 +322,10 @@
         ]
       },
       {
-        "title": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen - TradingView",
-        "source": "TradingView",
+        "title": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen - de.tradingview.com",
+        "source": "de.tradingview.com",
         "publishedAt": "2026-06-15T07:00:00+00:00",
-        "summary": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen TradingView",
+        "summary": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen de.tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNMkdzeERZSjIwUzh0bmRGSHVIbkxGWXM2TFV3RDY5amdpd1pTcFczY2xRSVh3UEdtMjBFN2FSa25kMExvMGp0ekZod2dTMlhFdENrSFZBVDZyaEdKZDJuelpRLVVfak1mNnRGZDJBc0lURnNZSi0w?oc=5",
         "tags": [
           "Apollo"
@@ -374,13 +374,13 @@
     ],
     "trends": [
       {
-        "title": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-07-31T00:39:39+00:00",
-        "summary": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation AD HOC NEWS",
+        "summary": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd05nRHlFRUpoOTVfbEdyYjh4WHl6VEt1X0x6SmxPaU9jZnJFLThJdENhVjdJUDNpaGhrRU5RbVR1M2Rpc1RKejgyZFk1Ql9kQWtpLWxaVi1qTjRzejdGM0ZicXIyMW9jZEZhc3BqSzNKMkdBOWFKM2ZsNGtMdFlFa3A1T2Y3TWRaRkVPcEVNRVIzaG9ERWdJLU1IOHJmeEFGNnBPY2hEMzA3MnJUMlk5Y1JUVlFodU16dFE?oc=5",
         "tags": [
-          "AD HOC NEWS"
+          "ad-hoc-news.de"
         ]
       },
       {
@@ -394,10 +394,10 @@
         ]
       },
       {
-        "title": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-07-23T13:02:17+00:00",
-        "summary": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar AD HOC NEWS",
+        "summary": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHZHNmdXb0c2bDFmR2dIeVJnejRTMHhxZ3V3RHhJbHNUdk5VWW9uNlZydXhDcHZtSFdSQUthN08xdENNUmlUMXBVLThmYzJfSXBtclY5SXA4bHRJRElPcUlnY0FHZGdDbWlDcDlSaFpmZDdJV2hvYXhVRlM4ek9BWktwNFJUMF9zNVZvV1NuQUR6N1AzVlh6ck10NUhUM29BNVJoTTVPRzgtNmxzT0FJNnFCUjk?oc=5",
         "tags": [
           "Cybersecurity"
@@ -406,7 +406,7 @@
       {
         "title": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
-        "publishedAt": "2026-07-20T07:00:00+00:00",
+        "publishedAt": "2026-07-20T06:15:31+00:00",
         "summary": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? kreiszeitung-wochenblatt.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVp1SEhzS2tpMm9KLU5Vd1dzRE8wRmFXZFNqamdWd1FleV9FR0t3WV9hWWlxeVdhOGFCeEIxYzNLUjQwTF9ROURzX01aUllVOEtWTFRmbWpUTk1USFlOeTZwR2tmR3IzZXFtbktXaWZNdWR2QXBVNS0zWDloZWQ3N1hDN1g1ZUROOWpMYW9EQWZ3WlVmVHpCRlJRVDBUa1JYdFN3aXpDS291R1l1eE92V2l2bURXZnFzWENCc3FfSmRsSDVlUlhUUkxnbjdIZW9y?oc=5",
         "tags": [
@@ -414,10 +414,10 @@
         ]
       },
       {
-        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-07-19T17:18:21+00:00",
-        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde AD HOC NEWS",
+        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEZUNHZ1YzI5T3N3UDRFY1hGVUVaMFRIMlZPUDMwU2lPZUtLbnB6NWJ1ZUdJam45ZVhDT0xRVkhuM1EwQ2U1YTlZdlo0R2xPWXlQdEVZajhqdHBadEVEVExEQWdMNXpmME1QLVZsdnRWdWlEU3pEaHV6enI0NnpLV0JtcS12WDRqUHhTdFFpZUxLcVV5NTFQUVhXa25fRHNLWlM1ODc3Nmh1ZTQydnN1cDhJNW9sQQ?oc=5",
         "tags": [
           "KI"
@@ -484,13 +484,13 @@
         ]
       },
       {
-        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - live.handelsblatt.com",
-        "source": "live.handelsblatt.com",
+        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
+        "source": "Handelsblatt Live",
         "publishedAt": "2026-06-16T07:00:00+00:00",
-        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte live.handelsblatt.com",
+        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
         "tags": [
-          "live.handelsblatt.com"
+          "Handelsblatt Live"
         ]
       }
     ]
