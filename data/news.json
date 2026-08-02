@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T14:25:04.412710+00:00",
+  "generatedAt": "2026-08-02T16:52:41.184552+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,10 +34,10 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - press.siemens.com",
-        "source": "press.siemens.com",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
         "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude press.siemens.com",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
@@ -72,16 +72,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
         ]
       },
       {
@@ -123,6 +113,16 @@
         "tags": [
           "NZZ – Neue Zürcher Zeitung"
         ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -148,10 +148,10 @@
         ]
       },
       {
-        "title": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos - HouseControllers",
-        "source": "HouseControllers",
+        "title": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos - housecontrollers.de",
+        "source": "housecontrollers.de",
         "publishedAt": "2026-07-29T16:44:20+00:00",
-        "summary": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos HouseControllers",
+        "summary": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos housecontrollers.de",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTVyNGQ2WmY0aV8ycUhqT182czB4RjVBOGNhUk83UnBlal9QeDZNSEJJUW9HVUdtdm1Va3VVS2had0J5eVRvTkNrMzNoRjNFQW1Cb2tkaGUzejBqaU0xVjFnZGZzS3lXM2Z2SUxiYkRFMWtrMjdMbEJxMjRBUXE2Vw?oc=5",
         "tags": [
           "Bosch"
@@ -178,13 +178,13 @@
         ]
       },
       {
-        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - BILD",
-        "source": "BILD",
+        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - bild.de",
+        "source": "bild.de",
         "publishedAt": "2026-07-23T09:28:46+00:00",
-        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause BILD",
+        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause bild.de",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
-          "BILD"
+          "bild.de"
         ]
       },
       {
@@ -240,13 +240,13 @@
         ]
       },
       {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - smarthomeassistent.de",
-        "source": "smarthomeassistent.de",
+        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
         "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag smarthomeassistent.de",
+        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
         "tags": [
-          "smarthomeassistent.de"
+          "SmarthomeAssistent"
         ]
       }
     ],
@@ -272,20 +272,10 @@
         ]
       },
       {
-        "title": "EQS-News: Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - boerse.de - boerse.de",
-        "source": "boerse.de",
-        "publishedAt": "2026-07-27T11:00:00+00:00",
-        "summary": "EQS-News: Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - boerse.de boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckxHS3JRMVlXRkdRNnBOc1FVb1RYZHpSNkdKTGVwVVg4RF9DS0Z2eGxDeG1YeHZESjJkY2hVWksxUXltcEdfZ0w5a0pVQlg0TlZFbTZ5U2gwLXRjM2s3d1ByVDdNUXVETVVrenB4M2tfM2FiZFI0Q0JROXBjNFFjTFNfZ1JPN2d3R3B2NGFQNHhlSnU3eWE3Xy1HWDA0c1k4LW9PYjBELWNGVVZxSklpSVYtS1FvZDNNbG9Ud2FYUW5aYW5aT3U3S0QtSW02OE5wN2JCNUZmVmhDbnc1QzJLZ0tMWjZaXzRtdnZ1NFY2RGzSAfYBQVVfeXFMUFo2VnF1elVfNm9IZVE1QlBvRG9iYzBxdHotWTZ1aGxNWk5naENlYkZmeEtGRWpuNEZndFhQa2Q1dzdCTU5vSGRyVm1RZTlEXzIzVVV0d2tKazRtb2hiOEkyX2VCcWJPdEQ2RzhCeWJEVnd4MWxwVzJMeGVIUEUyMUFOQWdCMmNEM3lhUjk2UVE0VHNkRFBsU0hpNk9QUUcyYVJJdUt1cUpydWZiTHlVcWZNTEtYNzRfUm83VVlmaXAyVWZGZWx2T3drblNfQ2thRDdtRkZwZEY3Wm5HOVVGNS00OUpoNjFKaWNaT0YwZnFmMFhITGFn?oc=5",
-        "tags": [
-          "boerse.de"
-        ]
-      },
-      {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
+        "source": "koha.net",
         "publishedAt": "2026-07-22T09:23:13+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -302,13 +292,13 @@
         ]
       },
       {
-        "title": "88 Millionen weg: Louvre öffnet wieder – doch die Kronjuwelen fehlen noch immer - KOSMO | Eine starke Verbindung!",
-        "source": "KOSMO | Eine starke Verbindung!",
+        "title": "88 Millionen weg: Louvre öffnet wieder – doch die Kronjuwelen fehlen noch immer - kosmo.at",
+        "source": "kosmo.at",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "88 Millionen weg: Louvre öffnet wieder – doch die Kronjuwelen fehlen noch immer KOSMO | Eine starke Verbindung!",
+        "summary": "88 Millionen weg: Louvre öffnet wieder – doch die Kronjuwelen fehlen noch immer kosmo.at",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajlRcE8zREtYNjlXYzBnXzJ6ZlNxZzVNckg4UElNYzhMb3U1TUJvQkpsN2VlOXNLdkVTakd3RVlsZjhkRHBfaUFfS3RNUk9tdnkxNTJ2Z3ZnYWI5VVdkLWJ4NUFwRTlMSlo4dzFKMEdHN0lNcUFXdU9EVnNvVWhQcWxJRElDU3p5eTZEZGZZTmRwNFgzVUpkS0JLeFJjVU5E?oc=5",
         "tags": [
-          "KOSMO | Eine starke Verbindung!"
+          "kosmo.at"
         ]
       },
       {
@@ -370,6 +360,16 @@
         "tags": [
           "Augsburger Allgemeine"
         ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
       }
     ],
     "trends": [
@@ -406,7 +406,7 @@
       {
         "title": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? - kreiszeitung-wochenblatt.de",
         "source": "kreiszeitung-wochenblatt.de",
-        "publishedAt": "2026-07-20T06:15:31+00:00",
+        "publishedAt": "2026-07-20T07:00:00+00:00",
         "summary": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? kreiszeitung-wochenblatt.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVp1SEhzS2tpMm9KLU5Vd1dzRE8wRmFXZFNqamdWd1FleV9FR0t3WV9hWWlxeVdhOGFCeEIxYzNLUjQwTF9ROURzX01aUllVOEtWTFRmbWpUTk1USFlOeTZwR2tmR3IzZXFtbktXaWZNdWR2QXBVNS0zWDloZWQ3N1hDN1g1ZUROOWpMYW9EQWZ3WlVmVHpCRlJRVDBUa1JYdFN3aXpDS291R1l1eE92V2l2bURXZnFzWENCc3FfSmRsSDVlUlhUUkxnbjdIZW9y?oc=5",
         "tags": [
@@ -464,10 +464,10 @@
         ]
       },
       {
-        "title": "Trotz KI-Disruption: UBS gibt Rückendeckung für SAP-Aktie und ERP-Geschäft - it-times.de",
-        "source": "it-times.de",
+        "title": "Trotz KI-Disruption: UBS gibt Rückendeckung für SAP-Aktie und ERP-Geschäft - IT-TIMES",
+        "source": "IT-TIMES",
         "publishedAt": "2026-06-19T07:00:00+00:00",
-        "summary": "Trotz KI-Disruption: UBS gibt Rückendeckung für SAP-Aktie und ERP-Geschäft it-times.de",
+        "summary": "Trotz KI-Disruption: UBS gibt Rückendeckung für SAP-Aktie und ERP-Geschäft IT-TIMES",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGpDbFhuQWpEVmo2WEs2Y0dNUEdMaUtmT2lNbW5IQmlkZTBCaWFhZFA0cS1zSE1yQjVNb1hDZkxiLWJDeVlBT2Fya3pNekhZZXYwWE0yUFVvQTNLc0IwY2hudUFMSDlsMjdRNTI2cnpVZy1HOEhyUjZOdG1FYk1fWjZnVUMxMEtXUnNzWi0xZkxZaUJpREpnUlJwM1I4YThFVkYwZy05WHN1U2stb1JNazRLOA?oc=5",
         "tags": [
           "KI"
