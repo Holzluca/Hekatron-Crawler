@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T20:42:10.178307+00:00",
+  "generatedAt": "2026-08-03T22:02:05.598631+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,13 +34,13 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "Teltarif"
+          "teltarif.de"
         ]
       },
       {
@@ -148,10 +148,10 @@
         ]
       },
       {
-        "title": "8 WLAN-Steckdosen für 80 Euro: Smart Home nachrüsten - Teltarif",
-        "source": "Teltarif",
+        "title": "8 WLAN-Steckdosen für 80 Euro: Smart Home nachrüsten - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-07-30T13:45:00+00:00",
-        "summary": "8 WLAN-Steckdosen für 80 Euro: Smart Home nachrüsten Teltarif",
+        "summary": "8 WLAN-Steckdosen für 80 Euro: Smart Home nachrüsten teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbFZSNjhrWEdSTTR1MmlaeXJuZWJJRE1HMzhUQ18wT3lDOXM0LVFudmp5cHl3aEhuVHFxS3lhVjJjZ2p5VGxOUmhaV3Y3UHNrRThsbkVUVGlONC1tNE1yM3o5aUhfTi04NlFWaGs1MFpzR2tlR0s2TkJGWkN2YXlXU2hIQQ?oc=5",
         "tags": [
           "Smart Home"
@@ -168,10 +168,10 @@
         ]
       },
       {
-        "title": "Sicher wohnen: tink rabattiert Eufy & Bosch - Teltarif",
-        "source": "Teltarif",
+        "title": "Sicher wohnen: tink rabattiert Eufy & Bosch - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-07-29T14:19:00+00:00",
-        "summary": "Sicher wohnen: tink rabattiert Eufy & Bosch Teltarif",
+        "summary": "Sicher wohnen: tink rabattiert Eufy & Bosch teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmZNTmI4aXdhVzY3cEVRUEtsYU5xcEpEV0I3TUc3OXlsTDVlcUJOY0tmS2drbGNYWll3dDBJcXVqZ2ZuMmh5dzViX2g5aXg1ZDFiZFJTMU5LbUdlaTBEbnNWdnZqTm92XzVBVzRXakVkSGU0Ml9FWTk3S1d2SW1nd09XWTduZ3dRUmlXbE1pamI?oc=5",
         "tags": [
           "Bosch"
@@ -208,10 +208,10 @@
         ]
       },
       {
-        "title": "Smart Home und mehr günstiger: IKEA: 15-Euro-Gutschein für Family-Mitglieder abstauben - Caschys Blog",
-        "source": "Caschys Blog",
+        "title": "Smart Home und mehr günstiger: IKEA: 15-Euro-Gutschein für Family-Mitglieder abstauben - stadt-bremerhaven.de",
+        "source": "stadt-bremerhaven.de",
         "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "Smart Home und mehr günstiger: IKEA: 15-Euro-Gutschein für Family-Mitglieder abstauben Caschys Blog",
+        "summary": "Smart Home und mehr günstiger: IKEA: 15-Euro-Gutschein für Family-Mitglieder abstauben stadt-bremerhaven.de",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUpZQnQxNzUxMVVGU3o2anQ2UUJPNDMtQ1pNS1QzdzV2SGhNSEE5WFBCYkVTSjNzSGkzdE0tekRfUGRJa3dDVTZiSnR6OUppUmpxc1NPNkJpamd0NVpaNG1BOG9YcnFUNnpEOUMwdWwwX1V0aXJrbFNlYmV6TnpIMU1lbXFZQ3FfcFpmRGtrWXBqcnJWbEVQTGsweE8zeVIxNkt6WkNJUUpGU01iRS1PUDJUUjdDMkU?oc=5",
         "tags": [
           "Ei",
@@ -279,16 +279,6 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
           "TradingView"
-        ]
-      },
-      {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
-        "publishedAt": "2026-07-22T09:23:13+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
-        "tags": [
-          "Apollo"
         ]
       },
       {
@@ -369,6 +359,16 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
         "tags": [
           "Augsburger Allgemeine"
+        ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
         ]
       }
     ],
