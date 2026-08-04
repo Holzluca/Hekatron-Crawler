@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T05:13:11.066070+00:00",
+  "generatedAt": "2026-08-04T07:58:48.431963+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -95,16 +95,6 @@
         ]
       },
       {
-        "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-07T19:59:10+00:00",
-        "summary": "Unbemannt, aber nie unbeaufsichtigt Siemens",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-02T19:56:17+00:00",
@@ -122,6 +112,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ – Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - news.save.ch",
+        "source": "news.save.ch",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor news.save.ch",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -178,13 +178,13 @@
         ]
       },
       {
-        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - BILD",
-        "source": "BILD",
+        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - bild.de",
+        "source": "bild.de",
         "publishedAt": "2026-07-23T09:28:46+00:00",
-        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause BILD",
+        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause bild.de",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
-          "BILD"
+          "bild.de"
         ]
       },
       {
@@ -384,50 +384,40 @@
         ]
       },
       {
-        "title": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-31T00:39:39+00:00",
-        "summary": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation ad-hoc-news.de",
+        "summary": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd05nRHlFRUpoOTVfbEdyYjh4WHl6VEt1X0x6SmxPaU9jZnJFLThJdENhVjdJUDNpaGhrRU5RbVR1M2Rpc1RKejgyZFk1Ql9kQWtpLWxaVi1qTjRzejdGM0ZicXIyMW9jZEZhc3BqSzNKMkdBOWFKM2ZsNGtMdFlFa3A1T2Y3TWRaRkVPcEVNRVIzaG9ERWdJLU1IOHJmeEFGNnBPY2hEMzA3MnJUMlk5Y1JUVlFodU16dFE?oc=5",
         "tags": [
-          "ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
-        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifePR",
-        "source": "lifePR",
+        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifepr.de",
+        "source": "lifepr.de",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifePR",
+        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifepr.de",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaXhnNVUxV09JU1FpQjFjZ1o1S0Rha0VUbU5hVEJJUmtBbEF5cFhZOUN6OGlZT3BnUFdXSzFDNG5SQy1rMGFJakZLWWZjV09iUGtiX0lseGp3NVdOa0ZmdzE4ZzdmZTRGRkdjdmFzN3BJLWhGS25IZXI5dlAtQVlsVE9OLUNoY2QxdlFMYU9aYmhwdVFoSG55WnM1dTYwZDdOWE8xVVBld0VDbnhYX1V3eUVYbGVqWjBSV24xdjZ3Mkh3a1QtM3U0Y1BHRzJ4NzgweFZxN1lxNnl1cXZwczlqZ1NJM1l1eXVTU25ick45YXdvc21CZjV3TQ?oc=5",
         "tags": [
           "Gebäudeautomation"
         ]
       },
       {
-        "title": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-23T13:02:17+00:00",
-        "summary": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar ad-hoc-news.de",
+        "summary": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHZHNmdXb0c2bDFmR2dIeVJnejRTMHhxZ3V3RHhJbHNUdk5VWW9uNlZydXhDcHZtSFdSQUthN08xdENNUmlUMXBVLThmYzJfSXBtclY5SXA4bHRJRElPcUlnY0FHZGdDbWlDcDlSaFpmZDdJV2hvYXhVRlM4ek9BWktwNFJUMF9zNVZvV1NuQUR6N1AzVlh6ck10NUhUM29BNVJoTTVPRzgtNmxzT0FJNnFCUjk?oc=5",
         "tags": [
           "Cybersecurity"
         ]
       },
       {
-        "title": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? - kreiszeitung-wochenblatt.de",
-        "source": "kreiszeitung-wochenblatt.de",
-        "publishedAt": "2026-07-20T07:00:00+00:00",
-        "summary": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? kreiszeitung-wochenblatt.de",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVp1SEhzS2tpMm9KLU5Vd1dzRE8wRmFXZFNqamdWd1FleV9FR0t3WV9hWWlxeVdhOGFCeEIxYzNLUjQwTF9ROURzX01aUllVOEtWTFRmbWpUTk1USFlOeTZwR2tmR3IzZXFtbktXaWZNdWR2QXBVNS0zWDloZWQ3N1hDN1g1ZUROOWpMYW9EQWZ3WlVmVHpCRlJRVDBUa1JYdFN3aXpDS291R1l1eE92V2l2bURXZnFzWENCc3FfSmRsSDVlUlhUUkxnbjdIZW9y?oc=5",
-        "tags": [
-          "kreiszeitung-wochenblatt.de"
-        ]
-      },
-      {
-        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-19T17:18:21+00:00",
-        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde ad-hoc-news.de",
+        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEZUNHZ1YzI5T3N3UDRFY1hGVUVaMFRIMlZPUDMwU2lPZUtLbnB6NWJ1ZUdJam45ZVhDT0xRVkhuM1EwQ2U1YTlZdlo0R2xPWXlQdEVZajhqdHBadEVEVExEQWdMNXpmME1QLVZsdnRWdWlEU3pEaHV6enI0NnpLV0JtcS12WDRqUHhTdFFpZUxLcVV5NTFQUVhXa25fRHNLWlM1ODc3Nmh1ZTQydnN1cDhJNW9sQQ?oc=5",
         "tags": [
           "KI"
@@ -489,6 +479,16 @@
         "publishedAt": "2026-06-19T07:00:00+00:00",
         "summary": "Trotz KI-Disruption: UBS gibt Rückendeckung für SAP-Aktie und ERP-Geschäft IT-TIMES",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGpDbFhuQWpEVmo2WEs2Y0dNUEdMaUtmT2lNbW5IQmlkZTBCaWFhZFA0cS1zSE1yQjVNb1hDZkxiLWJDeVlBT2Fya3pNekhZZXYwWE0yUFVvQTNLc0IwY2hudUFMSDlsMjdRNTI2cnpVZy1HOEhyUjZOdG1FYk1fWjZnVUMxMEtXUnNzWi0xZkxZaUJpREpnUlJwM1I4YThFVkYwZy05WHN1U2stb1JNazRLOA?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
+        "publishedAt": "2026-06-17T07:00:00+00:00",
+        "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour TGA+E Fachplaner",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
         "tags": [
           "KI"
         ]
