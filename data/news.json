@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T17:10:41.684655+00:00",
+  "generatedAt": "2026-08-04T19:05:16.733048+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -95,16 +95,6 @@
         ]
       },
       {
-        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-02T19:56:17+00:00",
-        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
         "source": "NZZ – Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -120,6 +110,16 @@
         "publishedAt": "2026-04-01T07:00:00+00:00",
         "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
+        "source": "www.bote.ch",
+        "publishedAt": "2026-03-30T07:00:00+00:00",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -272,13 +272,13 @@
         ]
       },
       {
-        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
-        "source": "TradingView",
+        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - de.tradingview.com",
+        "source": "de.tradingview.com",
         "publishedAt": "2026-07-27T11:00:03+00:00",
-        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau TradingView",
+        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau de.tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
-          "TradingView"
+          "de.tradingview.com"
         ]
       },
       {
@@ -302,30 +302,30 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
+        "source": "businessinsider.de",
         "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       },
       {
-        "title": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen - TradingView",
-        "source": "TradingView",
+        "title": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen - de.tradingview.com",
+        "source": "de.tradingview.com",
         "publishedAt": "2026-06-15T07:00:00+00:00",
-        "summary": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen TradingView",
+        "summary": "Apollo Commercial wird Vermögenswerte veräußern und nach dem Verkauf des Portfolios Kapital zurückzahlen de.tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNMkdzeERZSjIwUzh0bmRGSHVIbkxGWXM2TFV3RDY5amdpd1pTcFczY2xRSVh3UEdtMjBFN2FSa25kMExvMGp0ekZod2dTMlhFdENrSFZBVDZyaEdKZDJuelpRLVVfak1mNnRGZDJBc0lURnNZSi0w?oc=5",
         "tags": [
           "Apollo"
@@ -362,13 +362,13 @@
         ]
       },
       {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       }
     ],
@@ -424,23 +424,23 @@
         ]
       },
       {
-        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
+        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - businessinsider.de",
+        "source": "businessinsider.de",
         "publishedAt": "2026-07-19T11:37:19+00:00",
-        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern Business Insider Deutschland",
+        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern businessinsider.de",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
           "KI"
         ]
       },
       {
-        "title": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude - it-boltwise.de",
-        "source": "it-boltwise.de",
+        "title": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude - it boltwise",
+        "source": "it boltwise",
         "publishedAt": "2026-07-13T11:26:55+00:00",
-        "summary": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude it-boltwise.de",
+        "summary": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude it boltwise",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa2Y1TlBENDFsdzRDTlBXT05SOFRyYkhCOTJkcWNWT19admxOLXF2V3ZHRTh6SWxESThWLXZBaEJxbWt3allEOE5QVzYwbU1yQkFVLWtPaEk3a19pOFVvdk84bGhqWlFjUXZoMVdDZzh5ZG54QkJRdnI2ZC1BOTRkT0hFT2czWllDSy1wakstTVVPbFRXekJib0RpUVluNXJBVUE?oc=5",
         "tags": [
-          "it-boltwise.de"
+          "it boltwise"
         ]
       },
       {
