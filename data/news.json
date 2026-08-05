@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T01:56:12.134829+00:00",
+  "generatedAt": "2026-08-05T05:11:58.064866+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -178,10 +178,10 @@
         ]
       },
       {
-        "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - Autobild.de",
-        "source": "Autobild.de",
+        "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - autobild.de",
+        "source": "autobild.de",
         "publishedAt": "2026-07-24T12:00:00+00:00",
-        "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger Autobild.de",
+        "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger autobild.de",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzRUb3AyOU1kOHlTZU9yNkV2UDBzLTA3T2duWWd6SkdwcV83Vml1RHN6SjlJMkpHQ1lLVGtZUlVNNlhzeExIQVF5Z1lDdFRLY0FPOW5XdHJRLXVHbmVtVU13RTN5UnJmSGlvNU9JTThXaDBfWlE3clhiZnNmZXVxc1c5SEFUZ1lZSnhoZk94T3BuTVAtSXg2dGVmbVpIbGtRX0RrV0M5S1ZSMGk0QlFV?oc=5",
         "tags": [
           "Ei"
@@ -208,17 +208,6 @@
         ]
       },
       {
-        "title": "Smart Home und mehr günstiger: IKEA: 15-Euro-Gutschein für Family-Mitglieder abstauben - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "Smart Home und mehr günstiger: IKEA: 15-Euro-Gutschein für Family-Mitglieder abstauben Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUpZQnQxNzUxMVVGU3o2anQ2UUJPNDMtQ1pNS1QzdzV2SGhNSEE5WFBCYkVTSjNzSGkzdE0tekRfUGRJa3dDVTZiSnR6OUppUmpxc1NPNkJpamd0NVpaNG1BOG9YcnFUNnpEOUMwdWwwX1V0aXJrbFNlYmV6TnpIMU1lbXFZQ3FfcFpmRGtrWXBqcnJWbEVQTGsweE8zeVIxNkt6WkNJUUpGU01iRS1PUDJUUjdDMkU?oc=5",
-        "tags": [
-          "Ei",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen - GoogleWatchBlog",
         "source": "GoogleWatchBlog",
         "publishedAt": "2026-07-06T07:00:00+00:00",
@@ -229,10 +218,10 @@
         ]
       },
       {
-        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - gamestar.de",
-        "source": "gamestar.de",
+        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
+        "source": "GameStar",
         "publishedAt": "2026-07-03T07:00:00+00:00",
-        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll gamestar.de",
+        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
         "tags": [
           "Ei"
@@ -248,17 +237,27 @@
           "X-Sense",
           "Smart Home"
         ]
+      },
+      {
+        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-06-26T07:00:00+00:00",
+        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
+        "tags": [
+          "SmarthomeAssistent"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
-        "source": "t3n.de",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
         "publishedAt": "2026-07-28T09:10:35+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n.de"
+          "t3n"
         ]
       },
       {
@@ -394,11 +393,11 @@
         ]
       },
       {
-        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifePR",
-        "source": "lifePR",
+        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - Deutscher Presseindex",
+        "source": "Deutscher Presseindex",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifePR",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaXhnNVUxV09JU1FpQjFjZ1o1S0Rha0VUbU5hVEJJUmtBbEF5cFhZOUN6OGlZT3BnUFdXSzFDNG5SQy1rMGFJakZLWWZjV09iUGtiX0lseGp3NVdOa0ZmdzE4ZzdmZTRGRkdjdmFzN3BJLWhGS25IZXI5dlAtQVlsVE9OLUNoY2QxdlFMYU9aYmhwdVFoSG55WnM1dTYwZDdOWE8xVVBld0VDbnhYX1V3eUVYbGVqWjBSV24xdjZ3Mkh3a1QtM3U0Y1BHRzJ4NzgweFZxN1lxNnl1cXZwczlqZ1NJM1l1eXVTU25ick45YXdvc21CZjV3TQ?oc=5",
+        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 Deutscher Presseindex",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGl3UHFZWTRON2xhanJ5MzZvU2gtclg2a2F2V2FPYjB3T1ZMSnhKOFJ4cnJFVXhJTXBYdGh4RURGUzBPOUVoTkxsRG5hYmxWek1WZU1Pcmp4Wl94cEdOLXhnN24xcTc2X3p5YVM1X1pKMkxBNTBOSzlGbl9fWUpmU2d0dVMzeU5RbVFHUjBvdjRTQWQ0MXBLNlBVVVBvbjVvM3BWMUsxbnFFMlFRVjlaZnlhTHRIZVNhaDJrS1NkQVZ1UENBRDAyOFhqT3BiX2l3Z0VoT1J1Ym4?oc=5",
         "tags": [
           "Gebäudeautomation"
         ]
@@ -444,13 +443,13 @@
         ]
       },
       {
-        "title": "Über 73,5 Millionen Euro für die Hochschulen in Osnabrück - Osnabrücker Rundschau",
-        "source": "Osnabrücker Rundschau",
+        "title": "Über 73,5 Millionen Euro für die Hochschulen in Osnabrück - os-rundschau.de",
+        "source": "os-rundschau.de",
         "publishedAt": "2026-07-10T15:00:05+00:00",
-        "summary": "Über 73,5 Millionen Euro für die Hochschulen in Osnabrück Osnabrücker Rundschau",
+        "summary": "Über 73,5 Millionen Euro für die Hochschulen in Osnabrück os-rundschau.de",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbF9RQVdpbVcybDd3T3JHc0FwdWFBUW9XRDgtOGZ3WFBEN1VMWGRLQmdNcjdTU1hHNVQxZXNTMjdKS0JoaG5jT1NFWGdXdTZzdG5YZS02MjhpOURUOVZRR25UVnBwdnFrdlM5ZWRBYk5XRFkwNDdqSTNQdTI3aGd1RGxTMEJMc0pVZVcxSVNWd3l5Y1VYVnJ6RURkSUo?oc=5",
         "tags": [
-          "Osnabrücker Rundschau"
+          "os-rundschau.de"
         ]
       },
       {
@@ -464,10 +463,10 @@
         ]
       },
       {
-        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
-        "source": "Haufe. Intelligenz, die bewegt.",
+        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - haufe.de",
+        "source": "haufe.de",
         "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
+        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung haufe.de",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
         "tags": [
           "Normen"
