@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T07:59:47.120667+00:00",
+  "generatedAt": "2026-08-05T10:42:16.305730+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -24,10 +24,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
-        "source": "baulinks.de",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
+        "source": "Baulinks",
         "publishedAt": "2026-07-13T04:16:59+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -85,10 +85,10 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - imtest.de",
-        "source": "imtest.de",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte imtest.de",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
@@ -105,13 +105,13 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
-        "source": "NZZ – Neue Zürcher Zeitung",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - nzz.ch",
+        "source": "nzz.ch",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ – Neue Zürcher Zeitung",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern nzz.ch",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "NZZ – Neue Zürcher Zeitung"
+          "nzz.ch"
         ]
       },
       {
@@ -126,6 +126,16 @@
       }
     ],
     "pfs": [
+      {
+        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - chip.de",
+        "source": "chip.de",
+        "publishedAt": "2026-08-05T07:02:00+00:00",
+        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung chip.de",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYklkNWtfYW5ydUFfM0NzRm1jWGp3R3ZqV3RTa1dMNlpWR3liYVE5ZnhkZXJoaGNIbS0xSkJaY1JWSG9MTDlUVVFHR19MdkhJOTJaZ0hnRkxveV9rRGpLRkNsRThKNUx1ZUp1YjJJQno1SVNsSXExVkZxcy1TbkVxOGU4RmhzbVhFZmZBd2c5aVF6QTZ5VWFVdnUyZVZKTUZaN1Jmc2lwNlBzRUtRd05kR19qUGVtLVNnbzVwak5OUkRPdm5GMjUyaFlUMkMwdG1xaDhSYXA2bEY1Sk9pOTVMRTdkMWZfamU4WkFnUTlUZkt2UHZl?oc=5",
+        "tags": [
+          "Hager"
+        ]
+      },
       {
         "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - Teltarif",
         "source": "Teltarif",
@@ -158,10 +168,10 @@
         ]
       },
       {
-        "title": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos - HouseControllers",
-        "source": "HouseControllers",
+        "title": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos - housecontrollers.de",
+        "source": "housecontrollers.de",
         "publishedAt": "2026-07-29T16:44:20+00:00",
-        "summary": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos HouseControllers",
+        "summary": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos housecontrollers.de",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTVyNGQ2WmY0aV8ycUhqT182czB4RjVBOGNhUk83UnBlal9QeDZNSEJJUW9HVUdtdm1Va3VVS2had0J5eVRvTkNrMzNoRjNFQW1Cb2tkaGUzejBqaU0xVjFnZGZzS3lXM2Z2SUxiYkRFMWtrMjdMbEJxMjRBUXE2Vw?oc=5",
         "tags": [
           "Bosch"
@@ -218,10 +228,10 @@
         ]
       },
       {
-        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - gamestar.de",
-        "source": "gamestar.de",
+        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
+        "source": "GameStar",
         "publishedAt": "2026-07-03T07:00:00+00:00",
-        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll gamestar.de",
+        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
         "tags": [
           "Ei"
@@ -236,16 +246,6 @@
         "tags": [
           "X-Sense",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
         ]
       }
     ],
@@ -341,23 +341,23 @@
         ]
       },
       {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - augsburger-allgemeine.de",
+        "source": "augsburger-allgemeine.de",
         "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt augsburger-allgemeine.de",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
         "tags": [
-          "Augsburger Allgemeine"
+          "augsburger-allgemeine.de"
         ]
       },
       {
-        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
+        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - augsburger-allgemeine.de",
+        "source": "augsburger-allgemeine.de",
         "publishedAt": "2026-04-05T07:00:00+00:00",
-        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen Augsburger Allgemeine",
+        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen augsburger-allgemeine.de",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
         "tags": [
-          "Augsburger Allgemeine"
+          "augsburger-allgemeine.de"
         ]
       },
       {
@@ -383,13 +383,23 @@
         ]
       },
       {
-        "title": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen - DER PLATOW Brief",
+        "source": "DER PLATOW Brief",
+        "publishedAt": "2026-07-31T15:26:22+00:00",
+        "summary": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen DER PLATOW Brief",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdm85YS1kZ3Aydmwzc2M0VkZPNGZxN1ZpMWRsQnhEYXZ1TFBzNU5YUGVmM3ZmX0U1MVlvNk1IY1RINUhVTDd6YWpDMjJ2NS1TX3F6TEtCUWhkVVhxUFYzMVhrbDFHREd0ZEc4VWNIa0RJalZUM3liRWkySllfdG1mVW9JcExUNHNzeHJvbkM2Nlgxd0wtLWNPUGpVU00?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-31T00:39:39+00:00",
-        "summary": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation ad-hoc-news.de",
+        "summary": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd05nRHlFRUpoOTVfbEdyYjh4WHl6VEt1X0x6SmxPaU9jZnJFLThJdENhVjdJUDNpaGhrRU5RbVR1M2Rpc1RKejgyZFk1Ql9kQWtpLWxaVi1qTjRzejdGM0ZicXIyMW9jZEZhc3BqSzNKMkdBOWFKM2ZsNGtMdFlFa3A1T2Y3TWRaRkVPcEVNRVIzaG9ERWdJLU1IOHJmeEFGNnBPY2hEMzA3MnJUMlk5Y1JUVlFodU16dFE?oc=5",
         "tags": [
-          "ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
@@ -403,20 +413,20 @@
         ]
       },
       {
-        "title": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-23T13:02:17+00:00",
-        "summary": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar ad-hoc-news.de",
+        "summary": "Maschinenverordnung: Cybersecurity-Pflicht für Hersteller ab Januar AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHZHNmdXb0c2bDFmR2dIeVJnejRTMHhxZ3V3RHhJbHNUdk5VWW9uNlZydXhDcHZtSFdSQUthN08xdENNUmlUMXBVLThmYzJfSXBtclY5SXA4bHRJRElPcUlnY0FHZGdDbWlDcDlSaFpmZDdJV2hvYXhVRlM4ek9BWktwNFJUMF9zNVZvV1NuQUR6N1AzVlh6ck10NUhUM29BNVJoTTVPRzgtNmxzT0FJNnFCUjk?oc=5",
         "tags": [
           "Cybersecurity"
         ]
       },
       {
-        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-19T17:18:21+00:00",
-        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde ad-hoc-news.de",
+        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEZUNHZ1YzI5T3N3UDRFY1hGVUVaMFRIMlZPUDMwU2lPZUtLbnB6NWJ1ZUdJam45ZVhDT0xRVkhuM1EwQ2U1YTlZdlo0R2xPWXlQdEVZajhqdHBadEVEVExEQWdMNXpmME1QLVZsdnRWdWlEU3pEaHV6enI0NnpLV0JtcS12WDRqUHhTdFFpZUxLcVV5NTFQUVhXa25fRHNLWlM1ODc3Nmh1ZTQydnN1cDhJNW9sQQ?oc=5",
         "tags": [
           "KI"
@@ -425,7 +435,7 @@
       {
         "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-19T11:37:19+00:00",
+        "publishedAt": "2026-07-19T07:00:00+00:00",
         "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
@@ -480,16 +490,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc2s0Z3RLSkh1LXI5enVNTlJueWtSNVBrU25KNWdWLVR0MFJmcVpDWUk5MmYtb2dLTjhVMnRBWk04aXBfUzEzUGUyUnVSa0FWY2U2dFROaVZ2Q3JyODA4TWZSaDJ1UjJTWlI5T21kWTN6eURrbGEzbzZrVE1zRmhEeXFKcDkwR0tfMVdUbVpVQ2ZHQm16VDNBcnpvYW9lZmRyRmlhSzBrWTNQalFFbHpsZVJUTjd5Nmd0SGZoSDB4WFZ0RFpZN1p0R0FoNTVjcjB5VFdORDVhQk9iUlk0cy1ad1N0Z2Y?oc=5",
         "tags": [
           "kreiszeitung-wochenblatt.de"
-        ]
-      },
-      {
-        "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - tga-fachplaner.de",
-        "source": "tga-fachplaner.de",
-        "publishedAt": "2026-06-17T07:00:00+00:00",
-        "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour tga-fachplaner.de",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
