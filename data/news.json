@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T08:33:05.448069+00:00",
+  "generatedAt": "2026-08-07T09:54:42.680194+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -198,21 +198,21 @@
         ]
       },
       {
+        "title": "Test: Der beste smarte Wassermelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-07-22T07:00:00+00:00",
+        "summary": "Test: Der beste smarte Wassermelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FTW1OMk5GZnIzTlNoZEg0dUFqQWRXX1hFVXhnZTlKRDZOOGVHQzlvbXJ3NXhZMVlaQzcxR0FGVENCaGd3OG1neWdjWGpJUkVMUE5WUm9hWjZDYnJsQUJMelAtOExuRnpnU1Zva2ViRDZzLWV3NGc?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
         "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
         "source": "Computer Bild",
         "publishedAt": "2026-07-14T07:00:00+00:00",
         "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-07-11T07:00:00+00:00",
-        "summary": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFo3Yzk2akxJVVJfeWdJb3Q4N1VRS0wtYlEyWkVvTFdpTVgxeWZfLUR6M3c5LWl2ZmFvVHFuMjhhU1dZVmtFUW8yMlY1ZGNRTkxSWjlPdTQxRzNjSTVaQllWU0tQYU1hY19mOG5saGxQV3BMWWI3czAxQ1JFdVB5V2dvYS1QQ3ZIYzM0OUZCUF8zU2h5OUtwU05qTk5pVU9uUjZDVnBVNDFEMkZVWE9IazIzSk85VzFwbThDZGFMRlVkVm8?oc=5",
         "tags": [
           "Ei"
         ]
@@ -260,13 +260,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
-        "source": "t3n.de",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n.de"
+          "t3n"
         ]
       },
       {
@@ -280,13 +280,13 @@
         ]
       },
       {
-        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - de.tradingview.com",
-        "source": "de.tradingview.com",
+        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
+        "source": "TradingView",
         "publishedAt": "2026-07-27T11:00:03+00:00",
-        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau de.tradingview.com",
+        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau TradingView",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
-          "de.tradingview.com"
+          "TradingView"
         ]
       },
       {
@@ -300,10 +300,10 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
-        "source": "koha.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
+        "source": "KOHA.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -320,13 +320,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
-        "source": "handelsblatt.com",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "handelsblatt.com"
+          "Handelsblatt"
         ]
       },
       {
@@ -442,13 +442,13 @@
         ]
       },
       {
-        "title": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude - it boltwise",
-        "source": "it boltwise",
+        "title": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude - it-boltwise.de",
+        "source": "it-boltwise.de",
         "publishedAt": "2026-07-13T11:26:55+00:00",
-        "summary": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude it boltwise",
+        "summary": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude it-boltwise.de",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa2Y1TlBENDFsdzRDTlBXT05SOFRyYkhCOTJkcWNWT19admxOLXF2V3ZHRTh6SWxESThWLXZBaEJxbWt3allEOE5QVzYwbU1yQkFVLWtPaEk3a19pOFVvdk84bGhqWlFjUXZoMVdDZzh5ZG54QkJRdnI2ZC1BOTRkT0hFT2czWllDSy1wakstTVVPbFRXekJib0RpUVluNXJBVUE?oc=5",
         "tags": [
-          "it boltwise"
+          "it-boltwise.de"
         ]
       },
       {
@@ -482,13 +482,13 @@
         ]
       },
       {
-        "title": "War es Sabotage?: Gasaustritt in leerstehendem Gebäude in Maschen: Polizei ermittelt, Zeugen gesucht - kreiszeitung-wochenblatt.de",
-        "source": "kreiszeitung-wochenblatt.de",
-        "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "War es Sabotage?: Gasaustritt in leerstehendem Gebäude in Maschen: Polizei ermittelt, Zeugen gesucht kreiszeitung-wochenblatt.de",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc2s0Z3RLSkh1LXI5enVNTlJueWtSNVBrU25KNWdWLVR0MFJmcVpDWUk5MmYtb2dLTjhVMnRBWk04aXBfUzEzUGUyUnVSa0FWY2U2dFROaVZ2Q3JyODA4TWZSaDJ1UjJTWlI5T21kWTN6eURrbGEzbzZrVE1zRmhEeXFKcDkwR0tfMVdUbVpVQ2ZHQm16VDNBcnpvYW9lZmRyRmlhSzBrWTNQalFFbHpsZVJUTjd5Nmd0SGZoSDB4WFZ0RFpZN1p0R0FoNTVjcjB5VFdORDVhQk9iUlk0cy1ad1N0Z2Y?oc=5",
+        "title": "Telehouse eröffnet das „Gebäude N“ - datacenter-insider.de",
+        "source": "datacenter-insider.de",
+        "publishedAt": "2026-06-23T07:00:00+00:00",
+        "summary": "Telehouse eröffnet das „Gebäude N“ datacenter-insider.de",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkNlb2Jnclc1cEtXQXBhQVV2RlBJSGw4X2RPZ1NtM0lRU0pwY09KWERCRWg1NXRQSDBydlZvQUVUazJSVlUyY3FVX3AyY3AwSHp6N1d4R3MzQ0d1dVZTblMyYkdrVHhaWm10ckI2OGI2YnVMNWNRZWQ0eDFMMzZMc2Uza2ZidTg1X21kSXZQQzBKLU9yS1BvRGVjbE81ZFZ1d0F5ek5BOA?oc=5",
         "tags": [
-          "kreiszeitung-wochenblatt.de"
+          "datacenter-insider.de"
         ]
       }
     ]
