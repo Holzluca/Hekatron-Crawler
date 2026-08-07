@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T12:48:20.618100+00:00",
+  "generatedAt": "2026-08-07T14:07:36.447111+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -44,10 +44,10 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - press.siemens.com",
+        "source": "press.siemens.com",
         "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude press.siemens.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
@@ -127,10 +127,10 @@
     ],
     "pfs": [
       {
-        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - chip.de",
-        "source": "chip.de",
+        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - CHIP",
+        "source": "CHIP",
         "publishedAt": "2026-08-05T07:02:00+00:00",
-        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung chip.de",
+        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung CHIP",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYklkNWtfYW5ydUFfM0NzRm1jWGp3R3ZqV3RTa1dMNlpWR3liYVE5ZnhkZXJoaGNIbS0xSkJaY1JWSG9MTDlUVVFHR19MdkhJOTJaZ0hnRkxveV9rRGpLRkNsRThKNUx1ZUp1YjJJQno1SVNsSXExVkZxcy1TbkVxOGU4RmhzbVhFZmZBd2c5aVF6QTZ5VWFVdnUyZVZKTUZaN1Jmc2lwNlBzRUtRd05kR19qUGVtLVNnbzVwak5OUkRPdm5GMjUyaFlUMkMwdG1xaDhSYXA2bEY1Sk9pOTVMRTdkMWZfamU4WkFnUTlUZkt2UHZl?oc=5",
         "tags": [
           "Hager"
@@ -198,6 +198,16 @@
         ]
       },
       {
+        "title": "Test: Der beste smarte Wassermelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-07-22T07:00:00+00:00",
+        "summary": "Test: Der beste smarte Wassermelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FTW1OMk5GZnIzTlNoZEg0dUFqQWRXX1hFVXhnZTlKRDZOOGVHQzlvbXJ3NXhZMVlaQzcxR0FGVENCaGd3OG1neWdjWGpJUkVMUE5WUm9hWjZDYnJsQUJMelAtOExuRnpnU1Zva2ViRDZzLWV3NGc?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
         "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
         "source": "Computer Bild",
         "publishedAt": "2026-07-14T07:00:00+00:00",
@@ -236,16 +246,6 @@
         "tags": [
           "SmarthomeAssistent"
         ]
-      },
-      {
-        "title": "Prime Day endet heute Nacht: Die besten Smart-Home-Deals zum Schlussspurt - HouseControllers",
-        "source": "HouseControllers",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "Prime Day endet heute Nacht: Die besten Smart-Home-Deals zum Schlussspurt HouseControllers",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wQ3NoRl9SekpiSkZnbXN0Mnktc3R4R01HU2lHQmJ6UzVfR0FERHNpMktMU3J1djk4XzFLRm5iMDhJR3BzYkRVS1ppcVN1M1BGWFBIZ2JMakxTYkYxNGVZM1ZNbjF2X1ktQVlTdXBFcHUwTFQ0MDE4RnBlaw?oc=5",
-        "tags": [
-          "HouseControllers"
-        ]
       }
     ],
     "doors": [
@@ -260,6 +260,16 @@
         ]
       },
       {
+        "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
+        "source": "tippinpoint.ch",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden tippinpoint.ch",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
+        "tags": [
+          "tippinpoint.ch"
+        ]
+      },
+      {
         "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
         "source": "t3n",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -267,16 +277,6 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
           "t3n"
-        ]
-      },
-      {
-        "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
-        "source": "tippinpoint.ch",
-        "publishedAt": "2026-07-28T05:45:49+00:00",
-        "summary": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden tippinpoint.ch",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
-        "tags": [
-          "tippinpoint.ch"
         ]
       },
       {
@@ -350,23 +350,23 @@
         ]
       },
       {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - augsburger-allgemeine.de",
-        "source": "augsburger-allgemeine.de",
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt augsburger-allgemeine.de",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
         "tags": [
-          "augsburger-allgemeine.de"
+          "Augsburger Allgemeine"
         ]
       },
       {
-        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - augsburger-allgemeine.de",
-        "source": "augsburger-allgemeine.de",
+        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-05T07:00:00+00:00",
-        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen augsburger-allgemeine.de",
+        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
         "tags": [
-          "augsburger-allgemeine.de"
+          "Augsburger Allgemeine"
         ]
       }
     ],
@@ -382,10 +382,10 @@
         ]
       },
       {
-        "title": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen - DER PLATOW Brief",
-        "source": "DER PLATOW Brief",
+        "title": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen - brief.platow.de",
+        "source": "brief.platow.de",
         "publishedAt": "2026-07-31T15:26:22+00:00",
-        "summary": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen DER PLATOW Brief",
+        "summary": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen brief.platow.de",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdm85YS1kZ3Aydmwzc2M0VkZPNGZxN1ZpMWRsQnhEYXZ1TFBzNU5YUGVmM3ZmX0U1MVlvNk1IY1RINUhVTDd6YWpDMjJ2NS1TX3F6TEtCUWhkVVhxUFYzMVhrbDFHREd0ZEc4VWNIa0RJalZUM3liRWkySllfdG1mVW9JcExUNHNzeHJvbkM2Nlgxd0wtLWNPUGpVU00?oc=5",
         "tags": [
           "KI"
@@ -442,16 +442,6 @@
         ]
       },
       {
-        "title": "Über 73,5 Millionen Euro für die Hochschulen in Osnabrück - Osnabrücker Rundschau",
-        "source": "Osnabrücker Rundschau",
-        "publishedAt": "2026-07-10T15:00:05+00:00",
-        "summary": "Über 73,5 Millionen Euro für die Hochschulen in Osnabrück Osnabrücker Rundschau",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbF9RQVdpbVcybDd3T3JHc0FwdWFBUW9XRDgtOGZ3WFBEN1VMWGRLQmdNcjdTU1hHNVQxZXNTMjdKS0JoaG5jT1NFWGdXdTZzdG5YZS02MjhpOURUOVZRR25UVnBwdnFrdlM5ZWRBYk5XRFkwNDdqSTNQdTI3aGd1RGxTMEJMc0pVZVcxSVNWd3l5Y1VYVnJ6RURkSUo?oc=5",
-        "tags": [
-          "Osnabrücker Rundschau"
-        ]
-      },
-      {
         "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft.eu",
         "source": "energiezukunft.eu",
         "publishedAt": "2026-07-09T04:04:45+00:00",
@@ -472,13 +462,13 @@
         ]
       },
       {
-        "title": "Telehouse eröffnet das „Gebäude N“ - datacenter-insider.de",
-        "source": "datacenter-insider.de",
+        "title": "Telehouse eröffnet das „Gebäude N“ - DataCenter-Insider",
+        "source": "DataCenter-Insider",
         "publishedAt": "2026-06-23T07:00:00+00:00",
-        "summary": "Telehouse eröffnet das „Gebäude N“ datacenter-insider.de",
+        "summary": "Telehouse eröffnet das „Gebäude N“ DataCenter-Insider",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkNlb2Jnclc1cEtXQXBhQVV2RlBJSGw4X2RPZ1NtM0lRU0pwY09KWERCRWg1NXRQSDBydlZvQUVUazJSVlUyY3FVX3AyY3AwSHp6N1d4R3MzQ0d1dVZTblMyYkdrVHhaWm10ckI2OGI2YnVMNWNRZWQ0eDFMMzZMc2Uza2ZidTg1X21kSXZQQzBKLU9yS1BvRGVjbE81ZFZ1d0F5ek5BOA?oc=5",
         "tags": [
-          "datacenter-insider.de"
+          "DataCenter-Insider"
         ]
       },
       {
@@ -489,6 +479,16 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
+        "source": "Handelsblatt Live",
+        "publishedAt": "2026-06-16T07:00:00+00:00",
+        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
+        "tags": [
+          "Handelsblatt Live"
         ]
       }
     ]
