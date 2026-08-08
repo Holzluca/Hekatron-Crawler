@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T09:30:49.195397+00:00",
+  "generatedAt": "2026-08-08T10:24:29.606347+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -24,10 +24,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
-        "source": "baulinks.de",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
+        "source": "Baulinks",
         "publishedAt": "2026-07-13T04:16:59+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -127,10 +127,10 @@
     ],
     "pfs": [
       {
-        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - CHIP",
-        "source": "CHIP",
+        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - chip.de",
+        "source": "chip.de",
         "publishedAt": "2026-08-05T07:02:00+00:00",
-        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung CHIP",
+        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung chip.de",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYklkNWtfYW5ydUFfM0NzRm1jWGp3R3ZqV3RTa1dMNlpWR3liYVE5ZnhkZXJoaGNIbS0xSkJaY1JWSG9MTDlUVVFHR19MdkhJOTJaZ0hnRkxveV9rRGpLRkNsRThKNUx1ZUp1YjJJQno1SVNsSXExVkZxcy1TbkVxOGU4RmhzbVhFZmZBd2c5aVF6QTZ5VWFVdnUyZVZKTUZaN1Jmc2lwNlBzRUtRd05kR19qUGVtLVNnbzVwak5OUkRPdm5GMjUyaFlUMkMwdG1xaDhSYXA2bEY1Sk9pOTVMRTdkMWZfamU4WkFnUTlUZkt2UHZl?oc=5",
         "tags": [
           "Hager"
@@ -168,6 +168,16 @@
         ]
       },
       {
+        "title": "Smarte Heizkörperthermostate im Test: Jetzt für den Winter vorsorgen - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-07-31T07:00:00+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Jetzt für den Winter vorsorgen IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUDk0WGExTW56MTJGbjQyRlRxWWV2SlZwelozV3hDOGFvaEFrNGs3cTNNODRmVmk0RmJUVEo3NGppTUotUVNIcGZ4RnVkek9HTEhRWG1LZHlDSmVCNXNkOVVJOFpGd0pLenJiVkJxOV9DWlBJbVVDRmsza0taTS1sYkpSbEM0MXh5UnRham5WNnY?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos - HouseControllers",
         "source": "HouseControllers",
         "publishedAt": "2026-07-29T16:44:20+00:00",
@@ -188,13 +198,13 @@
         ]
       },
       {
-        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - BILD",
-        "source": "BILD",
+        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - bild.de",
+        "source": "bild.de",
         "publishedAt": "2026-07-23T09:28:46+00:00",
-        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause BILD",
+        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause bild.de",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
-          "BILD"
+          "bild.de"
         ]
       },
       {
@@ -208,10 +218,10 @@
         ]
       },
       {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - computerbild.de",
-        "source": "computerbild.de",
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
+        "source": "Computer Bild",
         "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser computerbild.de",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
@@ -236,19 +246,19 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-29T07:00:00+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
       }
     ],
     "doors": [
+      {
+        "title": "Die Credit Suisse verkauft einen grossen Teil des Verbriefungsgeschäfts an Apollo - tippinpoint.ch",
+        "source": "tippinpoint.ch",
+        "publishedAt": "2026-08-08T04:49:35+00:00",
+        "summary": "Die Credit Suisse verkauft einen grossen Teil des Verbriefungsgeschäfts an Apollo tippinpoint.ch",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDBTZk80ZG1qcGJKOFFKT0N1b0xPZmJkYm9zUEdUS3VFdUFPRGJnb013SV9lOWExMEJIcDJnZ0xxVWZfTDJ3TlQtQlNpR1Rkbk5WYl9DSHJLaWFjZjEteDlJQjVISENPejFQcWRjcHJrRWtZV3V4VVU2cV8zQmsyZ2pMd3JHcEZubTVSc1hPMERkd3F3OHFudTFsdXJvelVxMTR5Wng2SkJ4WmZZYWthV2htcThlWVdydlh5YWc3OHNQR2h0Rjk0?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Apollo sticht Castlelake im Kampf um Easyjet aus - Börsen-Zeitung",
         "source": "Börsen-Zeitung",
@@ -357,16 +367,6 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - augsburger-allgemeine.de",
-        "source": "augsburger-allgemeine.de",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt augsburger-allgemeine.de",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
-        "tags": [
-          "augsburger-allgemeine.de"
         ]
       }
     ],
