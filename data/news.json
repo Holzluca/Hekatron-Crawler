@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T21:28:21.953658+00:00",
+  "generatedAt": "2026-08-08T21:56:05.109690+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -188,10 +188,10 @@
         ]
       },
       {
-        "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - Autobild.de",
-        "source": "Autobild.de",
+        "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - autobild.de",
+        "source": "autobild.de",
         "publishedAt": "2026-07-24T12:00:00+00:00",
-        "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger Autobild.de",
+        "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger autobild.de",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzRUb3AyOU1kOHlTZU9yNkV2UDBzLTA3T2duWWd6SkdwcV83Vml1RHN6SjlJMkpHQ1lLVGtZUlVNNlhzeExIQVF5Z1lDdFRLY0FPOW5XdHJRLXVHbmVtVU13RTN5UnJmSGlvNU9JTThXaDBfWlE3clhiZnNmZXVxc1c5SEFUZ1lZSnhoZk94T3BuTVAtSXg2dGVmbVpIbGtRX0RrV0M5S1ZSMGk0QlFV?oc=5",
         "tags": [
           "Ei"
@@ -280,16 +280,6 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
-        "source": "t3n",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
-        "tags": [
-          "t3n"
-        ]
-      },
-      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -297,6 +287,16 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
           "tippinpoint.ch"
+        ]
+      },
+      {
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
+        "tags": [
+          "t3n"
         ]
       },
       {
@@ -340,13 +340,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
-        "source": "handelsblatt.com",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "handelsblatt.com"
+          "Handelsblatt"
         ]
       },
       {
@@ -452,10 +452,10 @@
         ]
       },
       {
-        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - haufe.de",
-        "source": "haufe.de",
+        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
+        "source": "Haufe. Intelligenz, die bewegt.",
         "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung haufe.de",
+        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
         "tags": [
           "Normen"
