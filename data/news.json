@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T01:19:23.130814+00:00",
+  "generatedAt": "2026-08-08T03:06:23.229043+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -168,10 +168,10 @@
         ]
       },
       {
-        "title": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos - housecontrollers.de",
-        "source": "housecontrollers.de",
+        "title": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos - HouseControllers",
+        "source": "HouseControllers",
         "publishedAt": "2026-07-29T16:44:20+00:00",
-        "summary": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos housecontrollers.de",
+        "summary": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos HouseControllers",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTVyNGQ2WmY0aV8ycUhqT182czB4RjVBOGNhUk83UnBlal9QeDZNSEJJUW9HVUdtdm1Va3VVS2had0J5eVRvTkNrMzNoRjNFQW1Cb2tkaGUzejBqaU0xVjFnZGZzS3lXM2Z2SUxiYkRFMWtrMjdMbEJxMjRBUXE2Vw?oc=5",
         "tags": [
           "Bosch"
@@ -198,13 +198,13 @@
         ]
       },
       {
-        "title": "Test: Der beste smarte Wassermelder - faz.net",
-        "source": "faz.net",
+        "title": "Test: Der beste smarte Wassermelder - FAZ",
+        "source": "FAZ",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Test: Der beste smarte Wassermelder faz.net",
+        "summary": "Test: Der beste smarte Wassermelder FAZ",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FTW1OMk5GZnIzTlNoZEg0dUFqQWRXX1hFVXhnZTlKRDZOOGVHQzlvbXJ3NXhZMVlaQzcxR0FGVENCaGd3OG1neWdjWGpJUkVMUE5WUm9hWjZDYnJsQUJMelAtOExuRnpnU1Zva2ViRDZzLWV3NGc?oc=5",
         "tags": [
-          "faz.net"
+          "FAZ"
         ]
       },
       {
@@ -251,10 +251,10 @@
     ],
     "doors": [
       {
-        "title": "Apollo sticht Castlelake im Kampf um Easyjet aus - boersen-zeitung.de",
-        "source": "boersen-zeitung.de",
+        "title": "Apollo sticht Castlelake im Kampf um Easyjet aus - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
         "publishedAt": "2026-08-06T05:35:00+00:00",
-        "summary": "Apollo sticht Castlelake im Kampf um Easyjet aus boersen-zeitung.de",
+        "summary": "Apollo sticht Castlelake im Kampf um Easyjet aus Börsen-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUJZVnYydUlLX1FYLWttdnU5c0JWbjVwTmMyOUVnQmlNcUxoM1YwQnl0WVZySWZSSVJwUDg0UFhlZnZOcWZoOTdFZDczSWRtZHVXYWJHQTI0LXQ2a1ZLQ2piSGRwUlNnRjd0M0pQbzdJSHpWQTBEZ3RvWEllLS12d1o2Q21tSEQzX2l3NzRqQkRJcTM5U3pV?oc=5",
         "tags": [
           "Apollo"
@@ -271,6 +271,16 @@
         ]
       },
       {
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
+        "tags": [
+          "t3n"
+        ]
+      },
+      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -278,16 +288,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
           "tippinpoint.ch"
-        ]
-      },
-      {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
-        "source": "t3n.de",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
-        "tags": [
-          "t3n.de"
         ]
       },
       {
@@ -301,20 +301,20 @@
         ]
       },
       {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - boersen-zeitung.de",
-        "source": "boersen-zeitung.de",
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland boersen-zeitung.de",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
-          "boersen-zeitung.de"
+          "Börsen-Zeitung"
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
+        "source": "koha.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -383,10 +383,10 @@
         ]
       },
       {
-        "title": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen - DER PLATOW Brief",
-        "source": "DER PLATOW Brief",
+        "title": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen - brief.platow.de",
+        "source": "brief.platow.de",
         "publishedAt": "2026-07-31T15:26:22+00:00",
-        "summary": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen DER PLATOW Brief",
+        "summary": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen brief.platow.de",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdm85YS1kZ3Aydmwzc2M0VkZPNGZxN1ZpMWRsQnhEYXZ1TFBzNU5YUGVmM3ZmX0U1MVlvNk1IY1RINUhVTDd6YWpDMjJ2NS1TX3F6TEtCUWhkVVhxUFYzMVhrbDFHREd0ZEc4VWNIa0RJalZUM3liRWkySllfdG1mVW9JcExUNHNzeHJvbkM2Nlgxd0wtLWNPUGpVU00?oc=5",
         "tags": [
           "KI"
@@ -433,13 +433,13 @@
         ]
       },
       {
-        "title": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude - it boltwise",
-        "source": "it boltwise",
+        "title": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude - it-boltwise.de",
+        "source": "it-boltwise.de",
         "publishedAt": "2026-07-13T11:26:55+00:00",
-        "summary": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude it boltwise",
+        "summary": "HCOB refinanziert Premier Modular: 360 Mio. GBP für modulare Gebäude it-boltwise.de",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa2Y1TlBENDFsdzRDTlBXT05SOFRyYkhCOTJkcWNWT19admxOLXF2V3ZHRTh6SWxESThWLXZBaEJxbWt3allEOE5QVzYwbU1yQkFVLWtPaEk3a19pOFVvdk84bGhqWlFjUXZoMVdDZzh5ZG54QkJRdnI2ZC1BOTRkT0hFT2czWllDSy1wakstTVVPbFRXekJib0RpUVluNXJBVUE?oc=5",
         "tags": [
-          "it boltwise"
+          "it-boltwise.de"
         ]
       },
       {
