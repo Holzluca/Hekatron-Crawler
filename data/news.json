@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-08-09T05:42:32.387012+00:00",
+  "generatedAt": "2026-08-09T06:43:58.909423+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
-        "source": "simplywall.st",
-        "publishedAt": "2026-08-01T07:00:00+00:00",
-        "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz0gHoAUFVX3lxTE1aLVRfaFkxekNBc2xqV2tRWV8zMDNCRnhJaVRLaFI0ZmlLNlZWdlFnZlNldFRXQmEzWDQxSkFzbUNHVmtHMnF6UnJYSzJOb21mS1RTc3E0S21QMXFUeEFlSTJYMmFsS2laYmtoMmNlYTRKWUFPWk5ncTJfMV9pUHFLMkJDcWNHVHB2QW8wOW13SVJwa29lTGMzLVJpU2FJamttTk81NHo4MF9hNWFBRF9rdEVhdlNLcFg0R2dMTlB6ZmkycXJCV2xIUWJwc3Vja0U0NFItTWNqUmNSWlZCaDVud3E2ODdJZ3M?oc=5",
-        "tags": [
-          "Honeywell"
-        ]
-      },
       {
         "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
         "source": "ingenieur.de",
@@ -123,9 +113,29 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
+        "source": "NZZ – Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ – Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "NZZ – Neue Zürcher Zeitung"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Test: Der beste Kohlenmonoxid-Melder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-06T07:00:00+00:00",
+        "summary": "Test: Der beste Kohlenmonoxid-Melder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTDRrc05PblNKcFI2V1RFSG1CVmhQUEVQNFdUT0FnQ0FMOWlkejRYbXFLVVhma3IycjU1UkJ5UktvbklBNHFSUFItam1BcHZoOWY0d3RYNXdvaHgzVzMycXM3c0JSazBRQ0RjNDI1X0VCYUM4Z0ZV?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
       {
         "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - CHIP",
         "source": "CHIP",
@@ -198,13 +208,13 @@
         ]
       },
       {
-        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - BILD",
-        "source": "BILD",
+        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - bild.de",
+        "source": "bild.de",
         "publishedAt": "2026-07-23T09:28:46+00:00",
-        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause BILD",
+        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause bild.de",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
-          "BILD"
+          "bild.de"
         ]
       },
       {
@@ -236,16 +246,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-29T07:00:00+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
       }
     ],
     "doors": [
@@ -260,10 +260,10 @@
         ]
       },
       {
-        "title": "Apollo sticht Castlelake im Kampf um Easyjet aus - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
+        "title": "Apollo sticht Castlelake im Kampf um Easyjet aus - boersen-zeitung.de",
+        "source": "boersen-zeitung.de",
         "publishedAt": "2026-08-06T05:35:00+00:00",
-        "summary": "Apollo sticht Castlelake im Kampf um Easyjet aus Börsen-Zeitung",
+        "summary": "Apollo sticht Castlelake im Kampf um Easyjet aus boersen-zeitung.de",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUJZVnYydUlLX1FYLWttdnU5c0JWbjVwTmMyOUVnQmlNcUxoM1YwQnl0WVZySWZSSVJwUDg0UFhlZnZOcWZoOTdFZDczSWRtZHVXYWJHQTI0LXQ2a1ZLQ2piSGRwUlNnRjd0M0pQbzdJSHpWQTBEZ3RvWEllLS12d1o2Q21tSEQzX2l3NzRqQkRJcTM5U3pV?oc=5",
         "tags": [
           "Apollo"
@@ -310,13 +310,13 @@
         ]
       },
       {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - boersen-zeitung.de",
+        "source": "boersen-zeitung.de",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland boersen-zeitung.de",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
-          "Börsen-Zeitung"
+          "boersen-zeitung.de"
         ]
       },
       {
@@ -360,10 +360,10 @@
         ]
       },
       {
-        "title": "Interroll übernimmt Royal Apollo Group - logistik-online.ch",
-        "source": "logistik-online.ch",
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
         "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group logistik-online.ch",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
@@ -376,7 +376,7 @@
         "source": "simplywall.st",
         "publishedAt": "2026-08-01T07:00:00+00:00",
         "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz0gHoAUFVX3lxTE1aLVRfaFkxekNBc2xqV2tRWV8zMDNCRnhJaVRLaFI0ZmlLNlZWdlFnZlNldFRXQmEzWDQxSkFzbUNHVmtHMnF6UnJYSzJOb21mS1RTc3E0S21QMXFUeEFlSTJYMmFsS2laYmtoMmNlYTRKWUFPWk5ncTJfMV9pUHFLMkJDcWNHVHB2QW8wOW13SVJwa29lTGMzLVJpU2FJamttTk81NHo4MF9hNWFBRF9rdEVhdlNLcFg0R2dMTlB6ZmkycXJCV2xIUWJwc3Vja0U0NFItTWNqUmNSWlZCaDVud3E2ODdJZ3M?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
         "tags": [
           "simplywall.st"
         ]
