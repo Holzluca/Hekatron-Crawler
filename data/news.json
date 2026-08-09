@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T09:32:47.416195+00:00",
+  "generatedAt": "2026-08-09T10:26:33.578474+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,13 +127,13 @@
     ],
     "pfs": [
       {
-        "title": "Test: Der beste Kohlenmonoxid-Melder - FAZ",
-        "source": "FAZ",
+        "title": "Test: Der beste Kohlenmonoxid-Melder - faz.net",
+        "source": "faz.net",
         "publishedAt": "2026-08-06T07:00:00+00:00",
-        "summary": "Test: Der beste Kohlenmonoxid-Melder FAZ",
+        "summary": "Test: Der beste Kohlenmonoxid-Melder faz.net",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTDRrc05PblNKcFI2V1RFSG1CVmhQUEVQNFdUT0FnQ0FMOWlkejRYbXFLVVhma3IycjU1UkJ5UktvbklBNHFSUFItam1BcHZoOWY0d3RYNXdvaHgzVzMycXM3c0JSazBRQ0RjNDI1X0VCYUM4Z0ZV?oc=5",
         "tags": [
-          "FAZ"
+          "faz.net"
         ]
       },
       {
@@ -382,10 +382,10 @@
         ]
       },
       {
-        "title": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen - DER PLATOW Brief",
-        "source": "DER PLATOW Brief",
+        "title": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen - brief.platow.de",
+        "source": "brief.platow.de",
         "publishedAt": "2026-07-31T15:26:22+00:00",
-        "summary": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen DER PLATOW Brief",
+        "summary": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen brief.platow.de",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdm85YS1kZ3Aydmwzc2M0VkZPNGZxN1ZpMWRsQnhEYXZ1TFBzNU5YUGVmM3ZmX0U1MVlvNk1IY1RINUhVTDd6YWpDMjJ2NS1TX3F6TEtCUWhkVVhxUFYzMVhrbDFHREd0ZEc4VWNIa0RJalZUM3liRWkySllfdG1mVW9JcExUNHNzeHJvbkM2Nlgxd0wtLWNPUGpVU00?oc=5",
         "tags": [
           "KI"
@@ -442,10 +442,10 @@
         ]
       },
       {
-        "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft",
-        "source": "energiezukunft",
+        "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft.eu",
+        "source": "energiezukunft.eu",
         "publishedAt": "2026-07-09T04:04:45+00:00",
-        "summary": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf energiezukunft",
+        "summary": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf energiezukunft.eu",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3pKbWFPSldHc216MUZjX3ZGT29ucmFsWkpaRk8zQlJ2WXcxeGF6VUNFTHNfMjZhTUlpU3M3YkV6OFBQN0RReE92cy1NMUtzbTN1b2xwMnNwUWRrcVBLSUFFS3NITF90ZE1aYkliUi1vWnlwdUZVdmJiTVEtQndsRW1hYklJR0Z3WHFyWS16c1U2d1dyQmlIbmdSMGdTSlBDTU1Z?oc=5",
         "tags": [
           "Normen"
