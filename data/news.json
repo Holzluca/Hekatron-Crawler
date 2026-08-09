@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T13:43:32.760847+00:00",
+  "generatedAt": "2026-08-09T14:27:55.632090+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -95,10 +95,10 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - imtest.de",
+        "source": "imtest.de",
         "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte imtest.de",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
@@ -178,10 +178,10 @@
         ]
       },
       {
-        "title": "Smarte Heizkörperthermostate im Test: Jetzt für den Winter vorsorgen - IMTEST",
-        "source": "IMTEST",
+        "title": "Smarte Heizkörperthermostate im Test: Jetzt für den Winter vorsorgen - imtest.de",
+        "source": "imtest.de",
         "publishedAt": "2026-07-31T07:00:00+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Jetzt für den Winter vorsorgen IMTEST",
+        "summary": "Smarte Heizkörperthermostate im Test: Jetzt für den Winter vorsorgen imtest.de",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUDk0WGExTW56MTJGbjQyRlRxWWV2SlZwelozV3hDOGFvaEFrNGs3cTNNODRmVmk0RmJUVEo3NGppTUotUVNIcGZ4RnVkek9HTEhRWG1LZHlDSmVCNXNkOVVJOFpGd0pLenJiVkJxOV9DWlBJbVVDRmsza0taTS1sYkpSbEM0MXh5UnRham5WNnY?oc=5",
         "tags": [
           "Ei"
@@ -198,9 +198,19 @@
         ]
       },
       {
+        "title": "Sicher wohnen: tink rabattiert Eufy & Bosch - teltarif.de",
+        "source": "teltarif.de",
+        "publishedAt": "2026-07-29T07:00:00+00:00",
+        "summary": "Sicher wohnen: tink rabattiert Eufy & Bosch teltarif.de",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmZNTmI4aXdhVzY3cEVRUEtsYU5xcEpEV0I3TUc3OXlsTDVlcUJOY0tmS2drbGNYWll3dDBJcXVqZ2ZuMmh5dzViX2g5aXg1ZDFiZFJTMU5LbUdlaTBEbnNWdnZqTm92XzVBVzRXakVkSGU0Ml9FWTk3S1d2SW1nd09XWTduZ3dRUmlXbE1pamI?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - Autobild.de",
         "source": "Autobild.de",
-        "publishedAt": "2026-07-24T12:00:00+00:00",
+        "publishedAt": "2026-07-24T07:00:00+00:00",
         "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger Autobild.de",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzRUb3AyOU1kOHlTZU9yNkV2UDBzLTA3T2duWWd6SkdwcV83Vml1RHN6SjlJMkpHQ1lLVGtZUlVNNlhzeExIQVF5Z1lDdFRLY0FPOW5XdHJRLXVHbmVtVU13RTN5UnJmSGlvNU9JTThXaDBfWlE3clhiZnNmZXVxc1c5SEFUZ1lZSnhoZk94T3BuTVAtSXg2dGVmbVpIbGtRX0RrV0M5S1ZSMGk0QlFV?oc=5",
         "tags": [
@@ -228,21 +238,11 @@
         ]
       },
       {
-        "title": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung - netzwelt.de",
-        "source": "netzwelt.de",
+        "title": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung - Netzwelt",
+        "source": "Netzwelt",
         "publishedAt": "2026-07-11T07:00:00+00:00",
-        "summary": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung netzwelt.de",
+        "summary": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung Netzwelt",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFo3Yzk2akxJVVJfeWdJb3Q4N1VRS0wtYlEyWkVvTFdpTVgxeWZfLUR6M3c5LWl2ZmFvVHFuMjhhU1dZVmtFUW8yMlY1ZGNRTkxSWjlPdTQxRzNjSTVaQllWU0tQYU1hY19mOG5saGxQV3BMWWI3czAxQ1JFdVB5V2dvYS1QQ3ZIYzM0OUZCUF8zU2h5OUtwU05qTk5pVU9uUjZDVnBVNDFEMkZVWE9IazIzSk85VzFwbThDZGFMRlVkVm8?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
-        "source": "GameStar",
-        "publishedAt": "2026-07-03T07:00:00+00:00",
-        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
         "tags": [
           "Ei"
         ]
@@ -290,13 +290,13 @@
         ]
       },
       {
-        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
-        "source": "TradingView",
+        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - de.tradingview.com",
+        "source": "de.tradingview.com",
         "publishedAt": "2026-07-27T11:00:03+00:00",
-        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau TradingView",
+        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau de.tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
-          "TradingView"
+          "de.tradingview.com"
         ]
       },
       {
