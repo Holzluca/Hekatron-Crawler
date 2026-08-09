@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T07:48:21.537306+00:00",
+  "generatedAt": "2026-08-09T08:34:17.785551+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,13 +34,13 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
-        "source": "teltarif.de",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "teltarif.de"
+          "Teltarif"
         ]
       },
       {
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Test: Der beste Kohlenmonoxid-Melder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-06T07:00:00+00:00",
+        "summary": "Test: Der beste Kohlenmonoxid-Melder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTDRrc05PblNKcFI2V1RFSG1CVmhQUEVQNFdUT0FnQ0FMOWlkejRYbXFLVVhma3IycjU1UkJ5UktvbklBNHFSUFItam1BcHZoOWY0d3RYNXdvaHgzVzMycXM3c0JSazBRQ0RjNDI1X0VCYUM4Z0ZV?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
         "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-08-05T07:02:00+00:00",
@@ -137,10 +147,10 @@
         ]
       },
       {
-        "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - teltarif.de",
-        "source": "teltarif.de",
+        "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - Teltarif",
+        "source": "Teltarif",
         "publishedAt": "2026-08-04T13:45:00+00:00",
-        "summary": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter teltarif.de",
+        "summary": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter Teltarif",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTGQxcXUyUjc2NWJZbVdfeUtIR25WamYwV1Y0WXNoNnk1QmRyWW9ZcjIxWnVyeDBKUlo4VEp0VnVpNzV1aTJsbXd3WXFidUpaUXhfclA0RndJd0t1Ri1TVlQ1Q0RfWWxjSXotNzRR?oc=5",
         "tags": [
           "Ei"
@@ -208,10 +218,10 @@
         ]
       },
       {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
-        "source": "Computer Bild",
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - computerbild.de",
+        "source": "computerbild.de",
         "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser computerbild.de",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
@@ -236,16 +246,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-29T07:00:00+00:00",
-        "summary": "Amazon Prime Day 2026 | Die besten Smarthome Angebote | Letzter Tag SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3NGOWt1OGtCTkRzQzc3bVlURV8yaVdWNmJCenpuZWtKNWdueGR3MHhEZGVIZUdlaW80MGNDLUlDRzJWMkpNX2d2cTJUc0t6TGNZUnZFdUpDQ1ZGTVpaN25BNHNmb2NDdDFqSnZmeHZuaEpBanBXdUF2TlFadmphZko3Y0ZzM0pGRXJrZDE3Zw?oc=5",
-        "tags": [
-          "SmarthomeAssistent"
-        ]
       }
     ],
     "doors": [
@@ -260,10 +260,10 @@
         ]
       },
       {
-        "title": "Apollo sticht Castlelake im Kampf um Easyjet aus - boersen-zeitung.de",
-        "source": "boersen-zeitung.de",
+        "title": "Apollo sticht Castlelake im Kampf um Easyjet aus - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
         "publishedAt": "2026-08-06T05:35:00+00:00",
-        "summary": "Apollo sticht Castlelake im Kampf um Easyjet aus boersen-zeitung.de",
+        "summary": "Apollo sticht Castlelake im Kampf um Easyjet aus Börsen-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUJZVnYydUlLX1FYLWttdnU5c0JWbjVwTmMyOUVnQmlNcUxoM1YwQnl0WVZySWZSSVJwUDg0UFhlZnZOcWZoOTdFZDczSWRtZHVXYWJHQTI0LXQ2a1ZLQ2piSGRwUlNnRjd0M0pQbzdJSHpWQTBEZ3RvWEllLS12d1o2Q21tSEQzX2l3NzRqQkRJcTM5U3pV?oc=5",
         "tags": [
           "Apollo"
@@ -300,13 +300,13 @@
         ]
       },
       {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - boersen-zeitung.de",
-        "source": "boersen-zeitung.de",
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland boersen-zeitung.de",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
-          "boersen-zeitung.de"
+          "Börsen-Zeitung"
         ]
       },
       {
