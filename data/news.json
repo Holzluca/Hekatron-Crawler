@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T11:01:16.415809+00:00",
+  "generatedAt": "2026-08-09T11:53:21.552354+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -208,20 +208,20 @@
         ]
       },
       {
-        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - BILD",
-        "source": "BILD",
+        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - bild.de",
+        "source": "bild.de",
         "publishedAt": "2026-07-23T09:28:46+00:00",
-        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause BILD",
+        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause bild.de",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
-          "BILD"
+          "bild.de"
         ]
       },
       {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - computerbild.de",
-        "source": "computerbild.de",
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
+        "source": "Computer Bild",
         "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser computerbild.de",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
@@ -238,10 +238,10 @@
         ]
       },
       {
-        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
-        "source": "GameStar",
+        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - gamestar.de",
+        "source": "gamestar.de",
         "publishedAt": "2026-07-03T07:00:00+00:00",
-        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
+        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll gamestar.de",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
         "tags": [
           "Ei"
@@ -300,6 +300,16 @@
         ]
       },
       {
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
+        "tags": [
+          "Börsen-Zeitung"
+        ]
+      },
+      {
         "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
         "source": "KOHA.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
@@ -310,10 +320,10 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
+        "source": "businessinsider.de",
         "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
@@ -358,16 +368,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-20T07:00:00+00:00",
-        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -382,10 +382,10 @@
         ]
       },
       {
-        "title": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen - DER PLATOW Brief",
-        "source": "DER PLATOW Brief",
+        "title": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen - brief.platow.de",
+        "source": "brief.platow.de",
         "publishedAt": "2026-07-31T15:26:22+00:00",
-        "summary": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen DER PLATOW Brief",
+        "summary": "Buberls Halbjahres-Bilanz: Solide Zahlen, hohle KI-Phrasen brief.platow.de",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdm85YS1kZ3Aydmwzc2M0VkZPNGZxN1ZpMWRsQnhEYXZ1TFBzNU5YUGVmM3ZmX0U1MVlvNk1IY1RINUhVTDd6YWpDMjJ2NS1TX3F6TEtCUWhkVVhxUFYzMVhrbDFHREd0ZEc4VWNIa0RJalZUM3liRWkySllfdG1mVW9JcExUNHNzeHJvbkM2Nlgxd0wtLWNPUGpVU00?oc=5",
         "tags": [
           "KI"
@@ -402,10 +402,10 @@
         ]
       },
       {
-        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - Deutscher Presseindex",
-        "source": "Deutscher Presseindex",
+        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - deutscherpresseindex.de",
+        "source": "deutscherpresseindex.de",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 Deutscher Presseindex",
+        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 deutscherpresseindex.de",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGl3UHFZWTRON2xhanJ5MzZvU2gtclg2a2F2V2FPYjB3T1ZMSnhKOFJ4cnJFVXhJTXBYdGh4RURGUzBPOUVoTkxsRG5hYmxWek1WZU1Pcmp4Wl94cEdOLXhnN24xcTc2X3p5YVM1X1pKMkxBNTBOSzlGbl9fWUpmU2d0dVMzeU5RbVFHUjBvdjRTQWQ0MXBLNlBVVVBvbjVvM3BWMUsxbnFFMlFRVjlaZnlhTHRIZVNhaDJrS1NkQVZ1UENBRDAyOFhqT3BiX2l3Z0VoT1J1Ym4?oc=5",
         "tags": [
           "Gebäudeautomation"
@@ -422,10 +422,10 @@
         ]
       },
       {
-        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
+        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - businessinsider.de",
+        "source": "businessinsider.de",
         "publishedAt": "2026-07-19T07:00:00+00:00",
-        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern Business Insider Deutschland",
+        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern businessinsider.de",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
           "KI"
