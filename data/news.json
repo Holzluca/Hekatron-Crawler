@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T17:45:34.656652+00:00",
+  "generatedAt": "2026-08-10T18:47:23.367889+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -178,16 +178,6 @@
         ]
       },
       {
-        "title": "Heizkosten automatisch senken: Zehn smarte Thermostate im Vergleich - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-07-31T07:00:00+00:00",
-        "summary": "Heizkosten automatisch senken: Zehn smarte Thermostate im Vergleich IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUDk0WGExTW56MTJGbjQyRlRxWWV2SlZwelozV3hDOGFvaEFrNGs3cTNNODRmVmk0RmJUVEo3NGppTUotUVNIcGZ4RnVkek9HTEhRWG1LZHlDSmVCNXNkOVVJOFpGd0pLenJiVkJxOV9DWlBJbVVDRmsza0taTS1sYkpSbEM0MXh5UnRham5WNnY?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos - HouseControllers",
         "source": "HouseControllers",
         "publishedAt": "2026-07-29T16:44:20+00:00",
@@ -246,6 +236,16 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
+        "source": "GameStar",
+        "publishedAt": "2026-07-03T07:00:00+00:00",
+        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
+        "tags": [
+          "Ei"
+        ]
       }
     ],
     "doors": [
@@ -270,16 +270,6 @@
         ]
       },
       {
-        "title": "EasyJet-Übernahme: Apollo und Castlelake kämpfen bis zum 7. August - aktien.news",
-        "source": "aktien.news",
-        "publishedAt": "2026-08-03T14:43:27+00:00",
-        "summary": "EasyJet-Übernahme: Apollo und Castlelake kämpfen bis zum 7. August aktien.news",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN05oWVVEMzNEVWFYVlFhZm1LeWcxOUozcTFLdGxhdlU4ajlCWGJ2eFdDWHFPYUpyc3JEMW5LTmc4SHNhUTBRc3U4eFZ3VUVDOVJsMkNWaHpZM3VSTkxlc29aLWY2dm1jQzVObGNLVUNsLVBSNVNLMlFKTFNnSkpHX2xEdmtmZm1oRm5CaDR5alJzdw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -290,13 +280,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
-        "source": "t3n.de",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n.de"
+          "t3n"
         ]
       },
       {
@@ -310,10 +300,10 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
+        "source": "koha.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -367,6 +357,16 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
         "tags": [
           "Augsburger Allgemeine"
+        ]
+      },
+      {
+        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
@@ -432,10 +432,10 @@
         ]
       },
       {
-        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
-        "source": "Haufe. Intelligenz, die bewegt.",
+        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - haufe.de",
+        "source": "haufe.de",
         "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
+        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung haufe.de",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
         "tags": [
           "Normen"
@@ -462,10 +462,10 @@
         ]
       },
       {
-        "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
+        "title": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour - tga-fachplaner.de",
+        "source": "tga-fachplaner.de",
         "publishedAt": "2026-06-17T07:00:00+00:00",
-        "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour TGA+E Fachplaner",
+        "summary": "16. und 17.06.2026, Berlin, Olympiastadion - Johnson Controls: Energie­effi­zienz, KI und Digi­ta­li­sie­rung on Tour tga-fachplaner.de",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
         "tags": [
           "KI"
@@ -482,10 +482,10 @@
         ]
       },
       {
-        "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
+        "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - tga-fachplaner.de",
+        "source": "tga-fachplaner.de",
         "publishedAt": "2026-05-29T07:00:00+00:00",
-        "summary": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert TGA+E Fachplaner",
+        "summary": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert tga-fachplaner.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
         "tags": [
           "KI"
