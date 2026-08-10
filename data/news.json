@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T01:14:53.840170+00:00",
+  "generatedAt": "2026-08-10T03:23:32.590520+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -16,7 +16,7 @@
       {
         "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
         "source": "ingenieur.de",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "publishedAt": "2026-07-28T13:00:00+00:00",
         "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
@@ -24,10 +24,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
-        "source": "baulinks.de",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
+        "source": "Baulinks",
         "publishedAt": "2026-07-13T04:16:59+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -238,10 +238,10 @@
         ]
       },
       {
-        "title": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung - netzwelt.de",
-        "source": "netzwelt.de",
+        "title": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung - Netzwelt",
+        "source": "Netzwelt",
         "publishedAt": "2026-07-11T07:00:00+00:00",
-        "summary": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung netzwelt.de",
+        "summary": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung Netzwelt",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFo3Yzk2akxJVVJfeWdJb3Q4N1VRS0wtYlEyWkVvTFdpTVgxeWZfLUR6M3c5LWl2ZmFvVHFuMjhhU1dZVmtFUW8yMlY1ZGNRTkxSWjlPdTQxRzNjSTVaQllWU0tQYU1hY19mOG5saGxQV3BMWWI3czAxQ1JFdVB5V2dvYS1QQ3ZIYzM0OUZCUF8zU2h5OUtwU05qTk5pVU9uUjZDVnBVNDFEMkZVWE9IazIzSk85VzFwbThDZGFMRlVkVm8?oc=5",
         "tags": [
           "Ei"
@@ -260,10 +260,10 @@
         ]
       },
       {
-        "title": "Apollo sticht Castlelake im Kampf um Easyjet aus - boersen-zeitung.de",
-        "source": "boersen-zeitung.de",
+        "title": "Apollo sticht Castlelake im Kampf um Easyjet aus - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
         "publishedAt": "2026-08-06T05:35:00+00:00",
-        "summary": "Apollo sticht Castlelake im Kampf um Easyjet aus boersen-zeitung.de",
+        "summary": "Apollo sticht Castlelake im Kampf um Easyjet aus Börsen-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUJZVnYydUlLX1FYLWttdnU5c0JWbjVwTmMyOUVnQmlNcUxoM1YwQnl0WVZySWZSSVJwUDg0UFhlZnZOcWZoOTdFZDczSWRtZHVXYWJHQTI0LXQ2a1ZLQ2piSGRwUlNnRjd0M0pQbzdJSHpWQTBEZ3RvWEllLS12d1o2Q21tSEQzX2l3NzRqQkRJcTM5U3pV?oc=5",
         "tags": [
           "Apollo"
@@ -432,23 +432,33 @@
         ]
       },
       {
-        "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft.eu",
-        "source": "energiezukunft.eu",
+        "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft",
+        "source": "energiezukunft",
         "publishedAt": "2026-07-09T04:04:45+00:00",
-        "summary": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf energiezukunft.eu",
+        "summary": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf energiezukunft",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3pKbWFPSldHc216MUZjX3ZGT29ucmFsWkpaRk8zQlJ2WXcxeGF6VUNFTHNfMjZhTUlpU3M3YkV6OFBQN0RReE92cy1NMUtzbTN1b2xwMnNwUWRrcVBLSUFFS3NITF90ZE1aYkliUi1vWnlwdUZVdmJiTVEtQndsRW1hYklJR0Z3WHFyWS16c1U2d1dyQmlIbmdSMGdTSlBDTU1Z?oc=5",
         "tags": [
           "Normen"
         ]
       },
       {
-        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
-        "source": "Haufe. Intelligenz, die bewegt.",
+        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - haufe.de",
+        "source": "haufe.de",
         "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
+        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung haufe.de",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
         "tags": [
           "Normen"
+        ]
+      },
+      {
+        "title": "War es Sabotage?: Gasaustritt in leerstehendem Gebäude in Maschen: Polizei ermittelt, Zeugen gesucht - kreiszeitung-wochenblatt.de",
+        "source": "kreiszeitung-wochenblatt.de",
+        "publishedAt": "2026-07-06T07:00:00+00:00",
+        "summary": "War es Sabotage?: Gasaustritt in leerstehendem Gebäude in Maschen: Polizei ermittelt, Zeugen gesucht kreiszeitung-wochenblatt.de",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc2s0Z3RLSkh1LXI5enVNTlJueWtSNVBrU25KNWdWLVR0MFJmcVpDWUk5MmYtb2dLTjhVMnRBWk04aXBfUzEzUGUyUnVSa0FWY2U2dFROaVZ2Q3JyODA4TWZSaDJ1UjJTWlI5T21kWTN6eURrbGEzbzZrVE1zRmhEeXFKcDkwR0tfMVdUbVpVQ2ZHQm16VDNBcnpvYW9lZmRyRmlhSzBrWTNQalFFbHpsZVJUTjd5Nmd0SGZoSDB4WFZ0RFpZN1p0R0FoNTVjcjB5VFdORDVhQk9iUlk0cy1ad1N0Z2Y?oc=5",
+        "tags": [
+          "kreiszeitung-wochenblatt.de"
         ]
       },
       {
@@ -479,16 +489,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
         "tags": [
           "Handelsblatt Live"
-        ]
-      },
-      {
-        "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-05-29T07:00:00+00:00",
-        "summary": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert TGA+E Fachplaner",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
