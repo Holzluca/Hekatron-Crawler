@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T09:55:39.011202+00:00",
+  "generatedAt": "2026-08-10T11:02:59.027717+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -218,20 +218,20 @@
         ]
       },
       {
-        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - BILD",
-        "source": "BILD",
+        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - bild.de",
+        "source": "bild.de",
         "publishedAt": "2026-07-23T09:28:46+00:00",
-        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause BILD",
+        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause bild.de",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
-          "BILD"
+          "bild.de"
         ]
       },
       {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - computerbild.de",
-        "source": "computerbild.de",
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
+        "source": "Computer Bild",
         "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser computerbild.de",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
@@ -320,13 +320,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       },
       {
@@ -432,16 +432,6 @@
         ]
       },
       {
-        "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft",
-        "source": "energiezukunft",
-        "publishedAt": "2026-07-09T04:04:45+00:00",
-        "summary": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf energiezukunft",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3pKbWFPSldHc216MUZjX3ZGT29ucmFsWkpaRk8zQlJ2WXcxeGF6VUNFTHNfMjZhTUlpU3M3YkV6OFBQN0RReE92cy1NMUtzbTN1b2xwMnNwUWRrcVBLSUFFS3NITF90ZE1aYkliUi1vWnlwdUZVdmJiTVEtQndsRW1hYklJR0Z3WHFyWS16c1U2d1dyQmlIbmdSMGdTSlBDTU1Z?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
         "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
         "source": "Haufe. Intelligenz, die bewegt.",
         "publishedAt": "2026-07-08T07:00:00+00:00",
@@ -482,13 +472,23 @@
         ]
       },
       {
-        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
-        "source": "Handelsblatt Live",
+        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - live.handelsblatt.com",
+        "source": "live.handelsblatt.com",
         "publishedAt": "2026-06-16T07:00:00+00:00",
-        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
+        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte live.handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
         "tags": [
-          "Handelsblatt Live"
+          "live.handelsblatt.com"
+        ]
+      },
+      {
+        "title": "Sicherheit neu gedacht: Vom Hersteller zur Unternehmensgruppe - Schwäbische Post",
+        "source": "Schwäbische Post",
+        "publishedAt": "2026-06-14T07:00:00+00:00",
+        "summary": "Sicherheit neu gedacht: Vom Hersteller zur Unternehmensgruppe Schwäbische Post",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR1lTaGFQT3ZxTENVTXUzMTBfeGMwa2tRcTdfQl9xcU03bzhDOUZyYU5TbC1KbExNZVY4WVhIZ2VheG1McG0xZjV1MTN4ZWNJMlh5QWREWGtma0Y1NTVHZDBJbTJYMXVnVmw3NGRNcU1IMW5aWDdCV2FUWEt4Ty1TblczbjhaaEdhVkVGMDBMb3NtdG5tX3hpbWNwU1d5ZTBLczh0X0ljX2JHc1pYUVBueGdudjNxOGdhTU51bkVYeVUyZXM2MEMwZ3BKM19DdWlxNllKN0RtMlpfTW85aHBVekRsNkhNd0pmTkhuX0ZTQWZ6S1U?oc=5",
+        "tags": [
+          "Schwäbische Post"
         ]
       }
     ]
