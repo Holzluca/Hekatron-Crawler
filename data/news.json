@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T03:23:32.590520+00:00",
+  "generatedAt": "2026-08-10T05:03:59.531064+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -16,7 +16,7 @@
       {
         "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
         "source": "ingenieur.de",
-        "publishedAt": "2026-07-28T13:00:00+00:00",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
         "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
@@ -218,13 +218,13 @@
         ]
       },
       {
-        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - bild.de",
-        "source": "bild.de",
+        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - BILD",
+        "source": "BILD",
         "publishedAt": "2026-07-23T09:28:46+00:00",
-        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause bild.de",
+        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause BILD",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
-          "bild.de"
+          "BILD"
         ]
       },
       {
@@ -320,13 +320,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       },
       {
@@ -399,16 +399,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGl3UHFZWTRON2xhanJ5MzZvU2gtclg2a2F2V2FPYjB3T1ZMSnhKOFJ4cnJFVXhJTXBYdGh4RURGUzBPOUVoTkxsRG5hYmxWek1WZU1Pcmp4Wl94cEdOLXhnN24xcTc2X3p5YVM1X1pKMkxBNTBOSzlGbl9fWUpmU2d0dVMzeU5RbVFHUjBvdjRTQWQ0MXBLNlBVVVBvbjVvM3BWMUsxbnFFMlFRVjlaZnlhTHRIZVNhaDJrS1NkQVZ1UENBRDAyOFhqT3BiX2l3Z0VoT1J1Ym4?oc=5",
         "tags": [
           "Gebäudeautomation"
-        ]
-      },
-      {
-        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-07-19T17:18:21+00:00",
-        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEZUNHZ1YzI5T3N3UDRFY1hGVUVaMFRIMlZPUDMwU2lPZUtLbnB6NWJ1ZUdJam45ZVhDT0xRVkhuM1EwQ2U1YTlZdlo0R2xPWXlQdEVZajhqdHBadEVEVExEQWdMNXpmME1QLVZsdnRWdWlEU3pEaHV6enI0NnpLV0JtcS12WDRqUHhTdFFpZUxLcVV5NTFQUVhXa25fRHNLWlM1ODc3Nmh1ZTQydnN1cDhJNW9sQQ?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
@@ -489,6 +479,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
         "tags": [
           "Handelsblatt Live"
+        ]
+      },
+      {
+        "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
+        "publishedAt": "2026-05-29T07:00:00+00:00",
+        "summary": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert TGA+E Fachplaner",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
