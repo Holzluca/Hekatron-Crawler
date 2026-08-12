@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T06:52:14.860833+00:00",
+  "generatedAt": "2026-08-12T08:10:52.192657+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -74,10 +74,10 @@
         ]
       },
       {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
+        "title": "Cybersecurity für die Pharmaproduktion - siemens.com",
+        "source": "siemens.com",
         "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
+        "summary": "Cybersecurity für die Pharmaproduktion siemens.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
@@ -94,20 +94,20 @@
         ]
       },
       {
-        "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
-        "source": "Siemens",
+        "title": "Unbemannt, aber nie unbeaufsichtigt - siemens.com",
+        "source": "siemens.com",
         "publishedAt": "2026-04-07T19:59:10+00:00",
-        "summary": "Unbemannt, aber nie unbeaufsichtigt Siemens",
+        "summary": "Unbemannt, aber nie unbeaufsichtigt siemens.com",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
         "tags": [
           "Siemens"
         ]
       },
       {
-        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
-        "source": "Siemens",
+        "title": "Keppel Data Centres in Frankfurt/Main - siemens.com",
+        "source": "siemens.com",
         "publishedAt": "2026-04-02T19:56:17+00:00",
-        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "summary": "Keppel Data Centres in Frankfurt/Main siemens.com",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "Siemens"
@@ -126,13 +126,14 @@
     ],
     "pfs": [
       {
-        "title": "Weniger Energiekosten: Diese 8 Smart‑Home‑Gadgets rechnen sich schnell - giga.de",
-        "source": "giga.de",
-        "publishedAt": "2026-08-11T06:24:02+00:00",
-        "summary": "Weniger Energiekosten: Diese 8 Smart‑Home‑Gadgets rechnen sich schnell giga.de",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOE9VM1Z3ZUk4a0piUFhaUTRSRUg5NkFVRExrc0VKTTJCTng4ZDRTTDZVWFVpT0JPUEdHU0dmSDRqSWlFb0xWWHQzRFZSX0JlYlpuTlhHUmJmdW9jQ2pNYUU0ZGExRnY2S29aNXBJaXpfMUl5SWdGV09DN3VUUGZWazdiQ1VxRXNnZzFfMmx1VVhhVi1TLU9RM3NaOUdYNWhBM1dvdUdnVFdTN2ducmIwc3hjTnB0ZEZhVElIY3NuOA?oc=5",
+        "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-08-12T06:45:45+00:00",
+        "summary": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZIcnB1SlQ5NUtNdXZ6YzM4U1dxQkoxSVp1UjlkWkVhSTVwR091WGx6N0ZSQksta1NmMXg2RmpkUnZCbllJN3pEWkhjODVzWXpzTVNBUEFfOFF6alpza2U1Vy1HcFFXb0xRZFI4dVI0RGVjS3hMbG82N3ZlYXFpeGZ0N1N6MjF1S1ZfWnRXZGVWT1FxVmJOVndkcmNEQ0w50gGmAUFVX3lxTE5HUFpmQnZ6UXc0VExEYlVKU2pyNkg3YVJkNXFnb0JtdFZac2dyNlJYMkVNckpXZzJoLWRFaWR5UlExYWlpeDNvTHRQYWxiS1ktcG5ncVY0THRqUFVZNmFMektnMmNCUThndl9BRmMzWDg5aXAzV08wY0R1alZlcXBEVWtFd1ZwWWh0RF9lVzFzOHBuaFQ0X3pKZHA2TmVqS1Izc0VaN0E?oc=5",
         "tags": [
-          "giga.de"
+          "Ei",
+          "Bosch"
         ]
       },
       {
@@ -146,10 +147,10 @@
         ]
       },
       {
-        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - CHIP",
-        "source": "CHIP",
+        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - chip.de",
+        "source": "chip.de",
         "publishedAt": "2026-08-05T07:02:00+00:00",
-        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung CHIP",
+        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung chip.de",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYklkNWtfYW5ydUFfM0NzRm1jWGp3R3ZqV3RTa1dMNlpWR3liYVE5ZnhkZXJoaGNIbS0xSkJaY1JWSG9MTDlUVVFHR19MdkhJOTJaZ0hnRkxveV9rRGpLRkNsRThKNUx1ZUp1YjJJQno1SVNsSXExVkZxcy1TbkVxOGU4RmhzbVhFZmZBd2c5aVF6QTZ5VWFVdnUyZVZKTUZaN1Jmc2lwNlBzRUtRd05kR19qUGVtLVNnbzVwak5OUkRPdm5GMjUyaFlUMkMwdG1xaDhSYXA2bEY1Sk9pOTVMRTdkMWZfamU4WkFnUTlUZkt2UHZl?oc=5",
         "tags": [
           "Hager"
@@ -217,10 +218,10 @@
         ]
       },
       {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
-        "source": "Computer Bild",
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - computerbild.de",
+        "source": "computerbild.de",
         "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser computerbild.de",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
@@ -237,10 +238,10 @@
         ]
       },
       {
-        "title": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen - googlewatchblog.de",
-        "source": "googlewatchblog.de",
+        "title": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen - GoogleWatchBlog",
+        "source": "GoogleWatchBlog",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen googlewatchblog.de",
+        "summary": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen GoogleWatchBlog",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLWpfNUYzUm9hR0ZMcC1XSm9mV2VCYzJTbGlNOThoWFNZWUoweTVUdFFSSVlSYWZfOWxoWTNfajZYdjVuZ2d1VnNTNmhHVzNONTBJYnJsTjZsU0pHUWJuVVRyNEVIV204N1VtSUhvc25rRW16UVF5WXRXUDVPejFERnZmNUplc3RCbnJtQi1lR21RUkdpRmtpbFJXWVdXcW41RmhGMHNXUTFrUFMxRlJ3djQ5Rkh5dGxxT1dEaXBYbk9xNEtsRGxCUlNfMEJZYmxjcGpiQtIB2gFBVV95cUxPUHY1UmxOTENZdmZqUzNKSjYydWp0WGFOZnlwUXdUeE1FcGdCa1lxY2EySWtwQ1gwYkVvZHJ5UEtwckkzQW9OSXAxZU8wYUpVdlhkR1Q2eWRaa29sMWFjdjE2Ujd6aDFlVEtBaHdXZ2ZOVURJeFh0OXAyb2lLeW12dWZvVHFCQWhCWTJLcVh2MlhFZkMwMWhWbUFMUFp5U0MtckJyRkh5YVpPYW51N1JraWcyenQ1Njdxb0NaZWVscjFobTNseVRMVzNlQmxFTGNWLUt6ck90d1RWUQ?oc=5",
         "tags": [
           "Smart Home"
@@ -259,10 +260,10 @@
         ]
       },
       {
-        "title": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase - de.finance.yahoo.com",
-        "source": "de.finance.yahoo.com",
+        "title": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase - Yahoo Finanzen Deutschland",
+        "source": "Yahoo Finanzen Deutschland",
         "publishedAt": "2026-08-03T07:00:00+00:00",
-        "summary": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase de.finance.yahoo.com",
+        "summary": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase Yahoo Finanzen Deutschland",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXZGcTYyNlNsOGVqTTkyTnEyNzdGbURXaGRjdE5RUEJTR3Zqa3I0VTh1RkJMWWlneVd2M3NTNHEteHVISHFwQVpFNUltN2JYV1kzMjNzMlJmaVF3N2d4X3R3TElkaXZXcXhNNHFUanozdWpQUG1JQmRkaEx4ZHlVTGpETkVFYkZOajVPZWpIZGFlTUFaOTlObA?oc=5",
         "tags": [
           "Apollo"
@@ -371,13 +372,13 @@
     ],
     "trends": [
       {
-        "title": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa - konii.de",
-        "source": "konii.de",
+        "title": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa - Konii",
+        "source": "Konii",
         "publishedAt": "2026-08-11T05:56:41+00:00",
-        "summary": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa konii.de",
+        "summary": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa Konii",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa01WQ3pWYlRUNjlaek1uNFRsUEdoc2pGcENweFhJaE5fS1FHZHVLUHJ3LVk5aWl6YlJTYWprN1dZbzZPVzcxZnFNOHRYeFVzOC01Z1hjQ2M3UHpCQURRVEpYZ1hTRVcyYXVpSFM2RWJVTElKWTV5MFhHRkpqU19UUzJOQkRtQk16YjBneV9ja1paNmhjLWxGbVJ4cFpxYVNvOWlPdmdB?oc=5",
         "tags": [
-          "konii.de"
+          "Konii"
         ]
       },
       {
