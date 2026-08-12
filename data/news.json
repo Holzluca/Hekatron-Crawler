@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T17:26:14.674526+00:00",
+  "generatedAt": "2026-08-12T18:24:51.468703+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -44,20 +44,20 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "Teltarif"
+          "teltarif.de"
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - press.siemens.com",
+        "source": "press.siemens.com",
         "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude press.siemens.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
@@ -74,17 +74,6 @@
         ]
       },
       {
-        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-05-05T12:32:58+00:00",
-        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "Cybersecurity für die Pharmaproduktion - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-23T13:31:53+00:00",
@@ -95,10 +84,10 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - imtest.de",
+        "source": "imtest.de",
         "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte imtest.de",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
@@ -122,6 +111,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
+        "source": "NZZ – Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ – Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "NZZ – Neue Zürcher Zeitung"
         ]
       }
     ],
@@ -169,10 +168,10 @@
         ]
       },
       {
-        "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - Teltarif",
-        "source": "Teltarif",
+        "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-08-04T13:45:00+00:00",
-        "summary": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter Teltarif",
+        "summary": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTGQxcXUyUjc2NWJZbVdfeUtIR25WamYwV1Y0WXNoNnk1QmRyWW9ZcjIxWnVyeDBKUlo4VEp0VnVpNzV1aTJsbXd3WXFidUpaUXhfclA0RndJd0t1Ri1TVlQ1Q0RfWWxjSXotNzRR?oc=5",
         "tags": [
           "Ei"
@@ -187,26 +186,6 @@
         "tags": [
           "Ei",
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos - HouseControllers",
-        "source": "HouseControllers",
-        "publishedAt": "2026-07-29T16:44:20+00:00",
-        "summary": "Nuki Smart Lock Pro ab 349 Euro: Tink Highlight Deals mit Husqvarna, Bosch und Sonos HouseControllers",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTVyNGQ2WmY0aV8ycUhqT182czB4RjVBOGNhUk83UnBlal9QeDZNSEJJUW9HVUdtdm1Va3VVS2had0J5eVRvTkNrMzNoRjNFQW1Cb2tkaGUzejBqaU0xVjFnZGZzS3lXM2Z2SUxiYkRFMWtrMjdMbEJxMjRBUXE2Vw?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Sicher wohnen: tink rabattiert Eufy & Bosch - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-07-29T07:00:00+00:00",
-        "summary": "Sicher wohnen: tink rabattiert Eufy & Bosch Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmZNTmI4aXdhVzY3cEVRUEtsYU5xcEpEV0I3TUc3OXlsTDVlcUJOY0tmS2drbGNYWll3dDBJcXVqZ2ZuMmh5dzViX2g5aXg1ZDFiZFJTMU5LbUdlaTBEbnNWdnZqTm92XzVBVzRXakVkSGU0Ml9FWTk3S1d2SW1nd09XWTduZ3dRUmlXbE1pamI?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -230,10 +209,10 @@
         ]
       },
       {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
-        "source": "Computer Bild",
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - computerbild.de",
+        "source": "computerbild.de",
         "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser computerbild.de",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
@@ -245,6 +224,26 @@
         "publishedAt": "2026-07-11T07:00:00+00:00",
         "summary": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung Netzwelt",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFo3Yzk2akxJVVJfeWdJb3Q4N1VRS0wtYlEyWkVvTFdpTVgxeWZfLUR6M3c5LWl2ZmFvVHFuMjhhU1dZVmtFUW8yMlY1ZGNRTkxSWjlPdTQxRzNjSTVaQllWU0tQYU1hY19mOG5saGxQV3BMWWI3czAxQ1JFdVB5V2dvYS1QQ3ZIYzM0OUZCUF8zU2h5OUtwU05qTk5pVU9uUjZDVnBVNDFEMkZVWE9IazIzSk85VzFwbThDZGFMRlVkVm8?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen - GoogleWatchBlog",
+        "source": "GoogleWatchBlog",
+        "publishedAt": "2026-07-06T07:00:00+00:00",
+        "summary": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen GoogleWatchBlog",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLWpfNUYzUm9hR0ZMcC1XSm9mV2VCYzJTbGlNOThoWFNZWUoweTVUdFFSSVlSYWZfOWxoWTNfajZYdjVuZ2d1VnNTNmhHVzNONTBJYnJsTjZsU0pHUWJuVVRyNEVIV204N1VtSUhvc25rRW16UVF5WXRXUDVPejFERnZmNUplc3RCbnJtQi1lR21RUkdpRmtpbFJXWVdXcW41RmhGMHNXUTFrUFMxRlJ3djQ5Rkh5dGxxT1dEaXBYbk9xNEtsRGxCUlNfMEJZYmxjcGpiQtIB2gFBVV95cUxPUHY1UmxOTENZdmZqUzNKSjYydWp0WGFOZnlwUXdUeE1FcGdCa1lxY2EySWtwQ1gwYkVvZHJ5UEtwckkzQW9OSXAxZU8wYUpVdlhkR1Q2eWRaa29sMWFjdjE2Ujd6aDFlVEtBaHdXZ2ZOVURJeFh0OXAyb2lLeW12dWZvVHFCQWhCWTJLcVh2MlhFZkMwMWhWbUFMUFp5U0MtckJyRkh5YVpPYW51N1JraWcyenQ1Njdxb0NaZWVscjFobTNseVRMVzNlQmxFTGNWLUt6ck90d1RWUQ?oc=5",
+        "tags": [
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
+        "source": "GameStar",
+        "publishedAt": "2026-07-03T07:00:00+00:00",
+        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
         "tags": [
           "Ei"
         ]
@@ -282,23 +281,13 @@
         ]
       },
       {
-        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
-        "source": "TradingView",
+        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - de.tradingview.com",
+        "source": "de.tradingview.com",
         "publishedAt": "2026-07-27T11:00:03+00:00",
-        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau TradingView",
+        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau de.tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
-          "TradingView"
-        ]
-      },
-      {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
-        "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
-        "tags": [
-          "Apollo"
+          "de.tradingview.com"
         ]
       },
       {
@@ -370,6 +359,16 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-04-05T07:00:00+00:00",
+        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
       }
     ],
     "trends": [
@@ -394,13 +393,13 @@
         ]
       },
       {
-        "title": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen - it boltwise",
-        "source": "it boltwise",
+        "title": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen - it-boltwise.de",
+        "source": "it-boltwise.de",
         "publishedAt": "2026-08-03T11:36:45+00:00",
-        "summary": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen it boltwise",
+        "summary": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen it-boltwise.de",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0huVTB6aU05R25XVzhBQUpiT2EzV1RGVFplbGlWdWpXTjJBY2NJWTRDX1JyclJEQ2JCS2doQUp1QWRsOG1tbFlrakdVeVFsdm83QlB2WkU4RnRLSjlUclhHYUhCM3FFalJpd0xwZ1g5NmFxOGxkX2h4eXNEbk1QRVR2UXl2OHpxYXkzSDlXbXA4WVFoZHpybDA3bHhFM2RBTGlrV2NPVEc1bXc1Szh3cTNNS1JxMHc?oc=5",
         "tags": [
-          "it boltwise"
+          "it-boltwise.de"
         ]
       },
       {
