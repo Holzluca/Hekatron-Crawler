@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T06:57:30.063564+00:00",
+  "generatedAt": "2026-08-13T08:20:43.643973+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,10 +127,10 @@
     ],
     "pfs": [
       {
-        "title": "ESP32-C6 und vier Sensoren: ESPHome startet eigenes Hardware-Kit - mobiFlip",
-        "source": "mobiFlip",
+        "title": "ESP32-C6 und vier Sensoren: ESPHome startet eigenes Hardware-Kit - mobiflip.de",
+        "source": "mobiflip.de",
         "publishedAt": "2026-08-13T06:42:46+00:00",
-        "summary": "ESP32-C6 und vier Sensoren: ESPHome startet eigenes Hardware-Kit mobiFlip",
+        "summary": "ESP32-C6 und vier Sensoren: ESPHome startet eigenes Hardware-Kit mobiflip.de",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQlNaYzBDcFZEVEp2UHdLQUFJYVkzYVFSZmFGWU9GOUVpR0RKSHZnZE1SSkZLSUpzOXdLZmRHTFNzV2pIZHoyUDJhZ2RMUUNfbGlvR1l0clVIOU9IQWhXZGwzTVluZmR4ZWI1QjFjOUs3UkJrVHZOd2hZUzlab2pBT0hxRHBWQlM2WXpJdGw5MDVjUQ?oc=5",
         "tags": [
           "Ei"
@@ -148,10 +148,10 @@
         ]
       },
       {
-        "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiFlip",
-        "source": "mobiFlip",
+        "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiflip.de",
+        "source": "mobiflip.de",
         "publishedAt": "2026-08-12T06:45:45+00:00",
-        "summary": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung mobiFlip",
+        "summary": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung mobiflip.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZIcnB1SlQ5NUtNdXZ6YzM4U1dxQkoxSVp1UjlkWkVhSTVwR091WGx6N0ZSQksta1NmMXg2RmpkUnZCbllJN3pEWkhjODVzWXpzTVNBUEFfOFF6alpza2U1Vy1HcFFXb0xRZFI4dVI0RGVjS3hMbG82N3ZlYXFpeGZ0N1N6MjF1S1ZfWnRXZGVWT1FxVmJOVndkcmNEQ0w50gGmAUFVX3lxTE5HUFpmQnZ6UXc0VExEYlVKU2pyNkg3YVJkNXFnb0JtdFZac2dyNlJYMkVNckpXZzJoLWRFaWR5UlExYWlpeDNvTHRQYWxiS1ktcG5ncVY0THRqUFVZNmFMektnMmNCUThndl9BRmMzWDg5aXAzV08wY0R1alZlcXBEVWtFd1ZwWWh0RF9lVzFzOHBuaFQ0X3pKZHA2TmVqS1Izc0VaN0E?oc=5",
         "tags": [
           "Ei",
@@ -220,10 +220,10 @@
         ]
       },
       {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
-        "source": "Computer Bild",
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - computerbild.de",
+        "source": "computerbild.de",
         "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser computerbild.de",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
         "tags": [
           "Ei"
@@ -282,13 +282,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
-        "source": "t3n",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
+        "source": "t3n.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n"
+          "t3n.de"
         ]
       },
       {
@@ -299,16 +299,6 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
           "TradingView"
-        ]
-      },
-      {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
-        "source": "exxpress",
-        "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
-        "tags": [
-          "Apollo"
         ]
       },
       {
@@ -370,6 +360,16 @@
         "tags": [
           "Augsburger Allgemeine"
         ]
+      },
+      {
+        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
@@ -391,6 +391,16 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa01WQ3pWYlRUNjlaek1uNFRsUEdoc2pGcENweFhJaE5fS1FHZHVLUHJ3LVk5aWl6YlJTYWprN1dZbzZPVzcxZnFNOHRYeFVzOC01Z1hjQ2M3UHpCQURRVEpYZ1hTRVcyYXVpSFM2RWJVTElKWTV5MFhHRkpqU19UUzJOQkRtQk16YjBneV9ja1paNmhjLWxGbVJ4cFpxYVNvOWlPdmdB?oc=5",
         "tags": [
           "Konii"
+        ]
+      },
+      {
+        "title": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-08-03T11:36:45+00:00",
+        "summary": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0huVTB6aU05R25XVzhBQUpiT2EzV1RGVFplbGlWdWpXTjJBY2NJWTRDX1JyclJEQ2JCS2doQUp1QWRsOG1tbFlrakdVeVFsdm83QlB2WkU4RnRLSjlUclhHYUhCM3FFalJpd0xwZ1g5NmFxOGxkX2h4eXNEbk1QRVR2UXl2OHpxYXkzSDlXbXA4WVFoZHpybDA3bHhFM2RBTGlrV2NPVEc1bXc1Szh3cTNNS1JxMHc?oc=5",
+        "tags": [
+          "it boltwise"
         ]
       },
       {
@@ -444,10 +454,10 @@
         ]
       },
       {
-        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
-        "source": "Haufe. Intelligenz, die bewegt.",
+        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - haufe.de",
+        "source": "haufe.de",
         "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
+        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung haufe.de",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
         "tags": [
           "Normen"
@@ -481,16 +491,6 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
-        "source": "Handelsblatt Live",
-        "publishedAt": "2026-06-16T07:00:00+00:00",
-        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
-        "tags": [
-          "Handelsblatt Live"
         ]
       }
     ]
