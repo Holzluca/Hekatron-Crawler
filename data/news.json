@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T14:19:51.275470+00:00",
+  "generatedAt": "2026-08-13T15:29:07.584326+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -323,13 +323,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       },
       {
@@ -385,6 +385,16 @@
         ]
       },
       {
+        "title": "KNX RF für drahtlose Smart-Home-Nachrüstung - i-Magazin",
+        "source": "i-Magazin",
+        "publishedAt": "2026-08-13T09:20:45+00:00",
+        "summary": "KNX RF für drahtlose Smart-Home-Nachrüstung i-Magazin",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFJnQUZkY0FxMmpfZlRRQTd0cU5tVllIWGo3QWRBVE1aNXNrbjlxOEVZWXZkcEMzNFFQaGMzYTZFenJKZTVsMFJkdGI3RElhT19XZVdab1YteWxUbnZqdEdvenR4Y3p4U21LLVBvd2VHelJta3g4bHVoUzFNVFgtdWJCdDd0QmozUGc?oc=5",
+        "tags": [
+          "i-Magazin"
+        ]
+      },
+      {
         "title": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa - Konii",
         "source": "Konii",
         "publishedAt": "2026-08-11T05:56:41+00:00",
@@ -392,16 +402,6 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa01WQ3pWYlRUNjlaek1uNFRsUEdoc2pGcENweFhJaE5fS1FHZHVLUHJ3LVk5aWl6YlJTYWprN1dZbzZPVzcxZnFNOHRYeFVzOC01Z1hjQ2M3UHpCQURRVEpYZ1hTRVcyYXVpSFM2RWJVTElKWTV5MFhHRkpqU19UUzJOQkRtQk16YjBneV9ja1paNmhjLWxGbVJ4cFpxYVNvOWlPdmdB?oc=5",
         "tags": [
           "Konii"
-        ]
-      },
-      {
-        "title": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-08-03T11:36:45+00:00",
-        "summary": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0huVTB6aU05R25XVzhBQUpiT2EzV1RGVFplbGlWdWpXTjJBY2NJWTRDX1JyclJEQ2JCS2doQUp1QWRsOG1tbFlrakdVeVFsdm83QlB2WkU4RnRLSjlUclhHYUhCM3FFalJpd0xwZ1g5NmFxOGxkX2h4eXNEbk1QRVR2UXl2OHpxYXkzSDlXbXA4WVFoZHpybDA3bHhFM2RBTGlrV2NPVEc1bXc1Szh3cTNNS1JxMHc?oc=5",
-        "tags": [
-          "it boltwise"
         ]
       },
       {
@@ -425,11 +425,11 @@
         ]
       },
       {
-        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - Deutscher Presseindex",
-        "source": "Deutscher Presseindex",
+        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifePR",
+        "source": "lifePR",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 Deutscher Presseindex",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGl3UHFZWTRON2xhanJ5MzZvU2gtclg2a2F2V2FPYjB3T1ZMSnhKOFJ4cnJFVXhJTXBYdGh4RURGUzBPOUVoTkxsRG5hYmxWek1WZU1Pcmp4Wl94cEdOLXhnN24xcTc2X3p5YVM1X1pKMkxBNTBOSzlGbl9fWUpmU2d0dVMzeU5RbVFHUjBvdjRTQWQ0MXBLNlBVVVBvbjVvM3BWMUsxbnFFMlFRVjlaZnlhTHRIZVNhaDJrS1NkQVZ1UENBRDAyOFhqT3BiX2l3Z0VoT1J1Ym4?oc=5",
+        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifePR",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaXhnNVUxV09JU1FpQjFjZ1o1S0Rha0VUbU5hVEJJUmtBbEF5cFhZOUN6OGlZT3BnUFdXSzFDNG5SQy1rMGFJakZLWWZjV09iUGtiX0lseGp3NVdOa0ZmdzE4ZzdmZTRGRkdjdmFzN3BJLWhGS25IZXI5dlAtQVlsVE9OLUNoY2QxdlFMYU9aYmhwdVFoSG55WnM1dTYwZDdOWE8xVVBld0VDbnhYX1V3eUVYbGVqWjBSV24xdjZ3Mkh3a1QtM3U0Y1BHRzJ4NzgweFZxN1lxNnl1cXZwczlqZ1NJM1l1eXVTU25ick45YXdvc21CZjV3TQ?oc=5",
         "tags": [
           "Gebäudeautomation"
         ]
