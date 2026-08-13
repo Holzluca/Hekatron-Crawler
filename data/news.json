@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T11:42:11.959773+00:00",
+  "generatedAt": "2026-08-13T12:55:51.378497+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -303,16 +303,6 @@
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
-        "source": "exxpress",
-        "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
@@ -371,6 +361,16 @@
         "tags": [
           "Augsburger Allgemeine"
         ]
+      },
+      {
+        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
@@ -382,16 +382,6 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa01WQ3pWYlRUNjlaek1uNFRsUEdoc2pGcENweFhJaE5fS1FHZHVLUHJ3LVk5aWl6YlJTYWprN1dZbzZPVzcxZnFNOHRYeFVzOC01Z1hjQ2M3UHpCQURRVEpYZ1hTRVcyYXVpSFM2RWJVTElKWTV5MFhHRkpqU19UUzJOQkRtQk16YjBneV9ja1paNmhjLWxGbVJ4cFpxYVNvOWlPdmdB?oc=5",
         "tags": [
           "konii.de"
-        ]
-      },
-      {
-        "title": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-08-03T11:36:45+00:00",
-        "summary": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0huVTB6aU05R25XVzhBQUpiT2EzV1RGVFplbGlWdWpXTjJBY2NJWTRDX1JyclJEQ2JCS2doQUp1QWRsOG1tbFlrakdVeVFsdm83QlB2WkU4RnRLSjlUclhHYUhCM3FFalJpd0xwZ1g5NmFxOGxkX2h4eXNEbk1QRVR2UXl2OHpxYXkzSDlXbXA4WVFoZHpybDA3bHhFM2RBTGlrV2NPVEc1bXc1Szh3cTNNS1JxMHc?oc=5",
-        "tags": [
-          "it boltwise"
         ]
       },
       {
@@ -415,11 +405,11 @@
         ]
       },
       {
-        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - Deutscher Presseindex",
-        "source": "Deutscher Presseindex",
+        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifePR",
+        "source": "lifePR",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 Deutscher Presseindex",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGl3UHFZWTRON2xhanJ5MzZvU2gtclg2a2F2V2FPYjB3T1ZMSnhKOFJ4cnJFVXhJTXBYdGh4RURGUzBPOUVoTkxsRG5hYmxWek1WZU1Pcmp4Wl94cEdOLXhnN24xcTc2X3p5YVM1X1pKMkxBNTBOSzlGbl9fWUpmU2d0dVMzeU5RbVFHUjBvdjRTQWQ0MXBLNlBVVVBvbjVvM3BWMUsxbnFFMlFRVjlaZnlhTHRIZVNhaDJrS1NkQVZ1UENBRDAyOFhqT3BiX2l3Z0VoT1J1Ym4?oc=5",
+        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifePR",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaXhnNVUxV09JU1FpQjFjZ1o1S0Rha0VUbU5hVEJJUmtBbEF5cFhZOUN6OGlZT3BnUFdXSzFDNG5SQy1rMGFJakZLWWZjV09iUGtiX0lseGp3NVdOa0ZmdzE4ZzdmZTRGRkdjdmFzN3BJLWhGS25IZXI5dlAtQVlsVE9OLUNoY2QxdlFMYU9aYmhwdVFoSG55WnM1dTYwZDdOWE8xVVBld0VDbnhYX1V3eUVYbGVqWjBSV24xdjZ3Mkh3a1QtM3U0Y1BHRzJ4NzgweFZxN1lxNnl1cXZwczlqZ1NJM1l1eXVTU25ick45YXdvc21CZjV3TQ?oc=5",
         "tags": [
           "Gebäudeautomation"
         ]
@@ -465,13 +455,13 @@
         ]
       },
       {
-        "title": "Telehouse eröffnet das „Gebäude N“ - DataCenter-Insider",
-        "source": "DataCenter-Insider",
+        "title": "Telehouse eröffnet das „Gebäude N“ - datacenter-insider.de",
+        "source": "datacenter-insider.de",
         "publishedAt": "2026-06-23T07:00:00+00:00",
-        "summary": "Telehouse eröffnet das „Gebäude N“ DataCenter-Insider",
+        "summary": "Telehouse eröffnet das „Gebäude N“ datacenter-insider.de",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkNlb2Jnclc1cEtXQXBhQVV2RlBJSGw4X2RPZ1NtM0lRU0pwY09KWERCRWg1NXRQSDBydlZvQUVUazJSVlUyY3FVX3AyY3AwSHp6N1d4R3MzQ0d1dVZTblMyYkdrVHhaWm10ckI2OGI2YnVMNWNRZWQ0eDFMMzZMc2Uza2ZidTg1X21kSXZQQzBKLU9yS1BvRGVjbE81ZFZ1d0F5ek5BOA?oc=5",
         "tags": [
-          "DataCenter-Insider"
+          "datacenter-insider.de"
         ]
       },
       {
@@ -492,6 +482,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
         "tags": [
           "Handelsblatt Live"
+        ]
+      },
+      {
+        "title": "Sicherheit neu gedacht: Vom Hersteller zur Unternehmensgruppe - Schwäbische Post",
+        "source": "Schwäbische Post",
+        "publishedAt": "2026-06-14T07:00:00+00:00",
+        "summary": "Sicherheit neu gedacht: Vom Hersteller zur Unternehmensgruppe Schwäbische Post",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR1lTaGFQT3ZxTENVTXUzMTBfeGMwa2tRcTdfQl9xcU03bzhDOUZyYU5TbC1KbExNZVY4WVhIZ2VheG1McG0xZjV1MTN4ZWNJMlh5QWREWGtma0Y1NTVHZDBJbTJYMXVnVmw3NGRNcU1IMW5aWDdCV2FUWEt4Ty1TblczbjhaaEdhVkVGMDBMb3NtdG5tX3hpbWNwU1d5ZTBLczh0X0ljX2JHc1pYUVBueGdudjNxOGdhTU51bkVYeVUyZXM2MEMwZ3BKM19DdWlxNllKN0RtMlpfTW85aHBVekRsNkhNd0pmTkhuX0ZTQWZ6S1U?oc=5",
+        "tags": [
+          "Schwäbische Post"
         ]
       }
     ]
