@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T10:56:22.722289+00:00",
+  "generatedAt": "2026-08-13T11:42:11.959773+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -252,13 +252,14 @@
     ],
     "doors": [
       {
-        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - apollo-news.net",
+        "title": "Trennung nach Hautfarbe: Berliner Volksbad erlaubt Zutritt nur für Schwarze - apollo-news.net",
         "source": "apollo-news.net",
         "publishedAt": "2026-08-13T10:09:35+00:00",
-        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze apollo-news.net",
+        "summary": "Trennung nach Hautfarbe: Berliner Volksbad erlaubt Zutritt nur für Schwarze apollo-news.net",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
         "tags": [
-          "Apollo"
+          "Apollo",
+          "Zutritt"
         ]
       },
       {
@@ -374,13 +375,13 @@
     ],
     "trends": [
       {
-        "title": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa - Konii",
-        "source": "Konii",
+        "title": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa - konii.de",
+        "source": "konii.de",
         "publishedAt": "2026-08-11T05:56:41+00:00",
-        "summary": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa Konii",
+        "summary": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa konii.de",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa01WQ3pWYlRUNjlaek1uNFRsUEdoc2pGcENweFhJaE5fS1FHZHVLUHJ3LVk5aWl6YlJTYWprN1dZbzZPVzcxZnFNOHRYeFVzOC01Z1hjQ2M3UHpCQURRVEpYZ1hTRVcyYXVpSFM2RWJVTElKWTV5MFhHRkpqU19UUzJOQkRtQk16YjBneV9ja1paNmhjLWxGbVJ4cFpxYVNvOWlPdmdB?oc=5",
         "tags": [
-          "Konii"
+          "konii.de"
         ]
       },
       {
@@ -414,11 +415,11 @@
         ]
       },
       {
-        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifePR",
-        "source": "lifePR",
+        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - Deutscher Presseindex",
+        "source": "Deutscher Presseindex",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifePR",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaXhnNVUxV09JU1FpQjFjZ1o1S0Rha0VUbU5hVEJJUmtBbEF5cFhZOUN6OGlZT3BnUFdXSzFDNG5SQy1rMGFJakZLWWZjV09iUGtiX0lseGp3NVdOa0ZmdzE4ZzdmZTRGRkdjdmFzN3BJLWhGS25IZXI5dlAtQVlsVE9OLUNoY2QxdlFMYU9aYmhwdVFoSG55WnM1dTYwZDdOWE8xVVBld0VDbnhYX1V3eUVYbGVqWjBSV24xdjZ3Mkh3a1QtM3U0Y1BHRzJ4NzgweFZxN1lxNnl1cXZwczlqZ1NJM1l1eXVTU25ick45YXdvc21CZjV3TQ?oc=5",
+        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 Deutscher Presseindex",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGl3UHFZWTRON2xhanJ5MzZvU2gtclg2a2F2V2FPYjB3T1ZMSnhKOFJ4cnJFVXhJTXBYdGh4RURGUzBPOUVoTkxsRG5hYmxWek1WZU1Pcmp4Wl94cEdOLXhnN24xcTc2X3p5YVM1X1pKMkxBNTBOSzlGbl9fWUpmU2d0dVMzeU5RbVFHUjBvdjRTQWQ0MXBLNlBVVVBvbjVvM3BWMUsxbnFFMlFRVjlaZnlhTHRIZVNhaDJrS1NkQVZ1UENBRDAyOFhqT3BiX2l3Z0VoT1J1Ym4?oc=5",
         "tags": [
           "Gebäudeautomation"
         ]
