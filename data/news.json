@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T12:55:51.378497+00:00",
+  "generatedAt": "2026-08-13T14:19:51.275470+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -24,10 +24,10 @@
         ]
       },
       {
-        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
-        "source": "ingenieur.de",
+        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - Ingenieur.de",
+        "source": "Ingenieur.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
+        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel Ingenieur.de",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
@@ -147,6 +147,16 @@
         ]
       },
       {
+        "title": "X-Sense Rauchmelder 12er-Set mit Basisstation für 183,71€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-08-13T05:07:00+00:00",
+        "summary": "X-Sense Rauchmelder 12er-Set mit Basisstation für 183,71€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm43SU4zRGZ6dGZ3ZE9ncWFGRERiclRLandObUZLYTFiOXVOby1hdURMYUM2NTZXTzRobU9hOVhqam9fS0ZLaXNyM2llRWZTQWZEbmRGZHFtbkhUNE5EU0h2TUthbmV6blJJUFB5UHprOGVaMTZlZ3dEOW5wOUppcFVjQzE2RVdXNjRnNHI3QkRSUFN3ZE4tQmR6cGFYUQ?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen - TopTechNews",
         "source": "TopTechNews",
         "publishedAt": "2026-08-12T13:09:53+00:00",
@@ -238,16 +248,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-07-11T07:00:00+00:00",
-        "summary": "Wasserleckage-Melder im Vergleich 2026: Die besten Wassermelder für eure Wohnung Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFo3Yzk2akxJVVJfeWdJb3Q4N1VRS0wtYlEyWkVvTFdpTVgxeWZfLUR6M3c5LWl2ZmFvVHFuMjhhU1dZVmtFUW8yMlY1ZGNRTkxSWjlPdTQxRzNjSTVaQllWU0tQYU1hY19mOG5saGxQV3BMWWI3czAxQ1JFdVB5V2dvYS1QQ3ZIYzM0OUZCUF8zU2h5OUtwU05qTk5pVU9uUjZDVnBVNDFEMkZVWE9IazIzSk85VzFwbThDZGFMRlVkVm8?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
@@ -263,11 +263,11 @@
         ]
       },
       {
-        "title": "Apollo sticht Castlelake im Kampf um Easyjet aus - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-08-06T05:35:00+00:00",
-        "summary": "Apollo sticht Castlelake im Kampf um Easyjet aus Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUJZVnYydUlLX1FYLWttdnU5c0JWbjVwTmMyOUVnQmlNcUxoM1YwQnl0WVZySWZSSVJwUDg0UFhlZnZOcWZoOTdFZDczSWRtZHVXYWJHQTI0LXQ2a1ZLQ2piSGRwUlNnRjd0M0pQbzdJSHpWQTBEZ3RvWEllLS12d1o2Q21tSEQzX2l3NzRqQkRJcTM5U3pV?oc=5",
+        "title": "EasyJet legt die Fristen für die Gebote von Apollo und Castlelake auf den 7. August fest. - de.qz.com",
+        "source": "de.qz.com",
+        "publishedAt": "2026-08-03T07:00:00+00:00",
+        "summary": "EasyJet legt die Fristen für die Gebote von Apollo und Castlelake auf den 7. August fest. de.qz.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZaFlEWDNrbXE1bHN1X0oxNEQ5QU0yQzJNc2w3STlsTGJTRGkyOTF3dHprLV9iVUdCWXlBZWRKMmcyZC1pWlFib2lHZXpiWTlwMzA4TU9vdWhKTUFWOGxvdG16LUtHa1FtX1d2Wks0VHBrNXlKdEpFclVraVVvZw?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -300,6 +300,16 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
           "TradingView"
+        ]
+      },
+      {
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
+        "publishedAt": "2026-07-21T07:00:00+00:00",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
+        "tags": [
+          "Apollo"
         ]
       },
       {
@@ -361,27 +371,37 @@
         "tags": [
           "Augsburger Allgemeine"
         ]
-      },
-      {
-        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
       {
-        "title": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa - konii.de",
-        "source": "konii.de",
+        "title": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme - CRN DE",
+        "source": "CRN DE",
+        "publishedAt": "2026-08-13T14:15:05+00:00",
+        "summary": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme CRN DE",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2dGVnpCd3JuTUdVNFNmVFZRVmp3S0VmQ1pFdnIySUo2Rmp1WkRYaF9VRHRMVnBWM0RreGJGeE5YcGpCejl3ZVM0Nk5XaDVJdTBYdWg3YnpNWjV3Wk41Z2MwOHhJc2UxLXdBalBZdFphRzZzUWI0R3lTZWw4NmExM2VZZ1ZnMThPTndF?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa - Konii",
+        "source": "Konii",
         "publishedAt": "2026-08-11T05:56:41+00:00",
-        "summary": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa konii.de",
+        "summary": "Goldbeck schafft Dekarbonisierungsgrundlage für rund 100 Gebäude in Europa Konii",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa01WQ3pWYlRUNjlaek1uNFRsUEdoc2pGcENweFhJaE5fS1FHZHVLUHJ3LVk5aWl6YlJTYWprN1dZbzZPVzcxZnFNOHRYeFVzOC01Z1hjQ2M3UHpCQURRVEpYZ1hTRVcyYXVpSFM2RWJVTElKWTV5MFhHRkpqU19UUzJOQkRtQk16YjBneV9ja1paNmhjLWxGbVJ4cFpxYVNvOWlPdmdB?oc=5",
         "tags": [
-          "konii.de"
+          "Konii"
+        ]
+      },
+      {
+        "title": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-08-03T11:36:45+00:00",
+        "summary": "Spokane von Großbränden getroffen: Hunderte Gebäude zerstört, Evakuierungen laufen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0huVTB6aU05R25XVzhBQUpiT2EzV1RGVFplbGlWdWpXTjJBY2NJWTRDX1JyclJEQ2JCS2doQUp1QWRsOG1tbFlrakdVeVFsdm83QlB2WkU4RnRLSjlUclhHYUhCM3FFalJpd0xwZ1g5NmFxOGxkX2h4eXNEbk1QRVR2UXl2OHpxYXkzSDlXbXA4WVFoZHpybDA3bHhFM2RBTGlrV2NPVEc1bXc1Szh3cTNNS1JxMHc?oc=5",
+        "tags": [
+          "it boltwise"
         ]
       },
       {
@@ -405,11 +425,11 @@
         ]
       },
       {
-        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifePR",
-        "source": "lifePR",
+        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - Deutscher Presseindex",
+        "source": "Deutscher Presseindex",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifePR",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaXhnNVUxV09JU1FpQjFjZ1o1S0Rha0VUbU5hVEJJUmtBbEF5cFhZOUN6OGlZT3BnUFdXSzFDNG5SQy1rMGFJakZLWWZjV09iUGtiX0lseGp3NVdOa0ZmdzE4ZzdmZTRGRkdjdmFzN3BJLWhGS25IZXI5dlAtQVlsVE9OLUNoY2QxdlFMYU9aYmhwdVFoSG55WnM1dTYwZDdOWE8xVVBld0VDbnhYX1V3eUVYbGVqWjBSV24xdjZ3Mkh3a1QtM3U0Y1BHRzJ4NzgweFZxN1lxNnl1cXZwczlqZ1NJM1l1eXVTU25ick45YXdvc21CZjV3TQ?oc=5",
+        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 Deutscher Presseindex",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUGl3UHFZWTRON2xhanJ5MzZvU2gtclg2a2F2V2FPYjB3T1ZMSnhKOFJ4cnJFVXhJTXBYdGh4RURGUzBPOUVoTkxsRG5hYmxWek1WZU1Pcmp4Wl94cEdOLXhnN24xcTc2X3p5YVM1X1pKMkxBNTBOSzlGbl9fWUpmU2d0dVMzeU5RbVFHUjBvdjRTQWQ0MXBLNlBVVVBvbjVvM3BWMUsxbnFFMlFRVjlaZnlhTHRIZVNhaDJrS1NkQVZ1UENBRDAyOFhqT3BiX2l3Z0VoT1J1Ym4?oc=5",
         "tags": [
           "Gebäudeautomation"
         ]
@@ -455,13 +475,13 @@
         ]
       },
       {
-        "title": "Telehouse eröffnet das „Gebäude N“ - datacenter-insider.de",
-        "source": "datacenter-insider.de",
+        "title": "Telehouse eröffnet das „Gebäude N“ - DataCenter-Insider",
+        "source": "DataCenter-Insider",
         "publishedAt": "2026-06-23T07:00:00+00:00",
-        "summary": "Telehouse eröffnet das „Gebäude N“ datacenter-insider.de",
+        "summary": "Telehouse eröffnet das „Gebäude N“ DataCenter-Insider",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkNlb2Jnclc1cEtXQXBhQVV2RlBJSGw4X2RPZ1NtM0lRU0pwY09KWERCRWg1NXRQSDBydlZvQUVUazJSVlUyY3FVX3AyY3AwSHp6N1d4R3MzQ0d1dVZTblMyYkdrVHhaWm10ckI2OGI2YnVMNWNRZWQ0eDFMMzZMc2Uza2ZidTg1X21kSXZQQzBKLU9yS1BvRGVjbE81ZFZ1d0F5ek5BOA?oc=5",
         "tags": [
-          "datacenter-insider.de"
+          "DataCenter-Insider"
         ]
       },
       {
@@ -472,26 +492,6 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUdHRk1oZllaSlpDS19nam9DMGpGNHNsUk9sZHRPd2Q4U3pJZVBFWnFsaDAyZ2tsVDZ1S29kTWFPdWtvSTlteFFPRUtRbWxnaDFlOEZMbkliQUZJeEl3aUtFdGtrRUtwR1VIZUUxX0E3S2dHRU9EWTcxNWVjOU9UTmU0R09sY0V2dUhPMDg5ZVlGRFVFcGd3VXBYS2V5UzJHbko4TFRwZEljSUpjOU5VV3ZzVzY3VGI1Y3c?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
-        "source": "Handelsblatt Live",
-        "publishedAt": "2026-06-16T07:00:00+00:00",
-        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
-        "tags": [
-          "Handelsblatt Live"
-        ]
-      },
-      {
-        "title": "Sicherheit neu gedacht: Vom Hersteller zur Unternehmensgruppe - Schwäbische Post",
-        "source": "Schwäbische Post",
-        "publishedAt": "2026-06-14T07:00:00+00:00",
-        "summary": "Sicherheit neu gedacht: Vom Hersteller zur Unternehmensgruppe Schwäbische Post",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR1lTaGFQT3ZxTENVTXUzMTBfeGMwa2tRcTdfQl9xcU03bzhDOUZyYU5TbC1KbExNZVY4WVhIZ2VheG1McG0xZjV1MTN4ZWNJMlh5QWREWGtma0Y1NTVHZDBJbTJYMXVnVmw3NGRNcU1IMW5aWDdCV2FUWEt4Ty1TblczbjhaaEdhVkVGMDBMb3NtdG5tX3hpbWNwU1d5ZTBLczh0X0ljX2JHc1pYUVBueGdudjNxOGdhTU51bkVYeVUyZXM2MEMwZ3BKM19DdWlxNllKN0RtMlpfTW85aHBVekRsNkhNd0pmTkhuX0ZTQWZ6S1U?oc=5",
-        "tags": [
-          "Schwäbische Post"
         ]
       }
     ]
