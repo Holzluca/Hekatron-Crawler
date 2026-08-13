@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T05:29:18.023280+00:00",
+  "generatedAt": "2026-08-13T06:57:30.063564+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "ESP32-C6 und vier Sensoren: ESPHome startet eigenes Hardware-Kit - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-08-13T06:42:46+00:00",
+        "summary": "ESP32-C6 und vier Sensoren: ESPHome startet eigenes Hardware-Kit mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQlNaYzBDcFZEVEp2UHdLQUFJYVkzYVFSZmFGWU9GOUVpR0RKSHZnZE1SSkZLSUpzOXdLZmRHTFNzV2pIZHoyUDJhZ2RMUUNfbGlvR1l0clVIOU9IQWhXZGwzTVluZmR4ZWI1QjFjOUs3UkJrVHZOd2hZUzlab2pBT0hxRHBWQlM2WXpJdGw5MDVjUQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen - TopTechNews",
         "source": "TopTechNews",
         "publishedAt": "2026-08-12T13:09:53+00:00",
@@ -230,23 +240,13 @@
         ]
       },
       {
-        "title": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen - googlewatchblog.de",
-        "source": "googlewatchblog.de",
+        "title": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen - GoogleWatchBlog",
+        "source": "GoogleWatchBlog",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen googlewatchblog.de",
+        "summary": "Smart Home: Google Home-Update bringt neue Kamera-KI - kann Geräusche und Personen besser erkennen GoogleWatchBlog",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLWpfNUYzUm9hR0ZMcC1XSm9mV2VCYzJTbGlNOThoWFNZWUoweTVUdFFSSVlSYWZfOWxoWTNfajZYdjVuZ2d1VnNTNmhHVzNONTBJYnJsTjZsU0pHUWJuVVRyNEVIV204N1VtSUhvc25rRW16UVF5WXRXUDVPejFERnZmNUplc3RCbnJtQi1lR21RUkdpRmtpbFJXWVdXcW41RmhGMHNXUTFrUFMxRlJ3djQ5Rkh5dGxxT1dEaXBYbk9xNEtsRGxCUlNfMEJZYmxjcGpiQtIB2gFBVV95cUxPUHY1UmxOTENZdmZqUzNKSjYydWp0WGFOZnlwUXdUeE1FcGdCa1lxY2EySWtwQ1gwYkVvZHJ5UEtwckkzQW9OSXAxZU8wYUpVdlhkR1Q2eWRaa29sMWFjdjE2Ujd6aDFlVEtBaHdXZ2ZOVURJeFh0OXAyb2lLeW12dWZvVHFCQWhCWTJLcVh2MlhFZkMwMWhWbUFMUFp5U0MtckJyRkh5YVpPYW51N1JraWcyenQ1Njdxb0NaZWVscjFobTNseVRMVzNlQmxFTGNWLUt6ck90d1RWUQ?oc=5",
         "tags": [
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
-        "source": "GameStar",
-        "publishedAt": "2026-07-03T07:00:00+00:00",
-        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
@@ -282,13 +282,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
-        "source": "t3n.de",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n.de"
+          "t3n"
         ]
       },
       {
@@ -299,6 +299,16 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
           "TradingView"
+        ]
+      },
+      {
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
+        "publishedAt": "2026-07-21T07:00:00+00:00",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
+        "tags": [
+          "Apollo"
         ]
       },
       {
@@ -359,16 +369,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
         "tags": [
           "Augsburger Allgemeine"
-        ]
-      },
-      {
-        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
-        "tags": [
-          "Apollo"
         ]
       }
     ],
