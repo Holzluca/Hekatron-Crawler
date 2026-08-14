@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:27:02.185217+00:00",
+  "generatedAt": "2026-08-14T06:53:05.608534+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -209,6 +209,16 @@
         ]
       },
       {
+        "title": "X-Sense XS0B-SN Rauchmelder im 3er-Set für 38,99€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-07-31T18:38:19+00:00",
+        "summary": "X-Sense XS0B-SN Rauchmelder im 3er-Set für 38,99€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzcwTzlEQmlpT0M1VDR4dFBRTDRZSVNrV1NQaTFEeUJzM1JvZm9wSmJmU3RhdTAxX2ttTTVqTjlQZm8xWDdSSDVucmJ2aEtkT0lBRlBsMlR4Tk43SXVqLWZQUnc2MGVtb1A3cEI0YnlJVm9hWW9QMUdtNWtNY1lvUlc4YV8tekRpRC15dWFWZmxYZ0NH?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-07-31T18:00:28+00:00",
@@ -238,16 +248,6 @@
         "tags": [
           "BILD"
         ]
-      },
-      {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
@@ -262,13 +262,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
-        "source": "t3n",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
+        "source": "t3n.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n"
+          "t3n.de"
         ]
       },
       {
@@ -302,13 +302,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
-        "source": "handelsblatt.com",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "handelsblatt.com"
+          "Handelsblatt"
         ]
       },
       {
@@ -394,13 +394,13 @@
         ]
       },
       {
-        "title": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-07-31T07:00:00+00:00",
-        "summary": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation ad-hoc-news.de",
+        "summary": "Android Auto: Google integriert transparente Gebäude in 3D-Navigation AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd05nRHlFRUpoOTVfbEdyYjh4WHl6VEt1X0x6SmxPaU9jZnJFLThJdENhVjdJUDNpaGhrRU5RbVR1M2Rpc1RKejgyZFk1Ql9kQWtpLWxaVi1qTjRzejdGM0ZicXIyMW9jZEZhc3BqSzNKMkdBOWFKM2ZsNGtMdFlFa3A1T2Y3TWRaRkVPcEVNRVIzaG9ERWdJLU1IOHJmeEFGNnBPY2hEMzA3MnJUMlk5Y1JUVlFodU16dFE?oc=5",
         "tags": [
-          "ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
