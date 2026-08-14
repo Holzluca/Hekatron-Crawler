@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T03:35:38.519744+00:00",
+  "generatedAt": "2026-08-14T05:27:02.185217+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -157,10 +157,10 @@
         ]
       },
       {
-        "title": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen - TopTechNews",
-        "source": "TopTechNews",
+        "title": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen - toptechnews.de",
+        "source": "toptechnews.de",
         "publishedAt": "2026-08-12T13:09:53+00:00",
-        "summary": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen TopTechNews",
+        "summary": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen toptechnews.de",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXdvLWJtTlVGanBpVnRyWmZJcUxvWnFtc0NBQjZoS0tvM25PTXprU1BsS3NGUzRPYWVQTjNFOFBGblRmN3k4LXVyb0VTSXJreXd4cFdmc3ZoelRBX3ZjbTVBVnRMeUdNRlltWTVBVEcwb290cmswT1l5YWd3Qmx6aElxNm9EdzNzTzBvaXB2VG93YTJfOVVsY1lfYmNtRUM1QnQ0LUJKRC1jMFFheXJ3VnhHSFVRQQ?oc=5",
         "tags": [
           "Ei",
@@ -209,16 +209,6 @@
         ]
       },
       {
-        "title": "X-Sense XS0B-SN Rauchmelder im 3er-Set für 38,99€ - klamm.de",
-        "source": "klamm.de",
-        "publishedAt": "2026-07-31T18:38:19+00:00",
-        "summary": "X-Sense XS0B-SN Rauchmelder im 3er-Set für 38,99€ klamm.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzcwTzlEQmlpT0M1VDR4dFBRTDRZSVNrV1NQaTFEeUJzM1JvZm9wSmJmU3RhdTAxX2ttTTVqTjlQZm8xWDdSSDVucmJ2aEtkT0lBRlBsMlR4Tk43SXVqLWZQUnc2MGVtb1A3cEI0YnlJVm9hWW9QMUdtNWtNY1lvUlc4YV8tekRpRC15dWFWZmxYZ0NH?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-07-31T18:00:28+00:00",
@@ -247,6 +237,16 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
           "BILD"
+        ]
+      },
+      {
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-07-14T07:00:00+00:00",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -302,13 +302,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       },
       {
@@ -374,23 +374,13 @@
     ],
     "trends": [
       {
-        "title": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme - crn.de",
-        "source": "crn.de",
+        "title": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme - CRN DE",
+        "source": "CRN DE",
         "publishedAt": "2026-08-13T14:15:05+00:00",
-        "summary": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme crn.de",
+        "summary": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme CRN DE",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2dGVnpCd3JuTUdVNFNmVFZRVmp3S0VmQ1pFdnIySUo2Rmp1WkRYaF9VRHRMVnBWM0RreGJGeE5YcGpCejl3ZVM0Nk5XaDVJdTBYdWg3YnpNWjV3Wk41Z2MwOHhJc2UxLXdBalBZdFphRzZzUWI0R3lTZWw4NmExM2VZZ1ZnMThPTndF?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "KNX RF für drahtlose Smart-Home-Nachrüstung - i-Magazin",
-        "source": "i-Magazin",
-        "publishedAt": "2026-08-13T09:20:45+00:00",
-        "summary": "KNX RF für drahtlose Smart-Home-Nachrüstung i-Magazin",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFJnQUZkY0FxMmpfZlRRQTd0cU5tVllIWGo3QWRBVE1aNXNrbjlxOEVZWXZkcEMzNFFQaGMzYTZFenJKZTVsMFJkdGI3RElhT19XZVdab1YteWxUbnZqdEdvenR4Y3p4U21LLVBvd2VHelJta3g4bHVoUzFNVFgtdWJCdDd0QmozUGc?oc=5",
-        "tags": [
-          "i-Magazin"
         ]
       },
       {
@@ -414,10 +404,10 @@
         ]
       },
       {
-        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifepr.de",
-        "source": "lifepr.de",
+        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifePR",
+        "source": "lifePR",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifepr.de",
+        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifePR",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaXhnNVUxV09JU1FpQjFjZ1o1S0Rha0VUbU5hVEJJUmtBbEF5cFhZOUN6OGlZT3BnUFdXSzFDNG5SQy1rMGFJakZLWWZjV09iUGtiX0lseGp3NVdOa0ZmdzE4ZzdmZTRGRkdjdmFzN3BJLWhGS25IZXI5dlAtQVlsVE9OLUNoY2QxdlFMYU9aYmhwdVFoSG55WnM1dTYwZDdOWE8xVVBld0VDbnhYX1V3eUVYbGVqWjBSV24xdjZ3Mkh3a1QtM3U0Y1BHRzJ4NzgweFZxN1lxNnl1cXZwczlqZ1NJM1l1eXVTU25ick45YXdvc21CZjV3TQ?oc=5",
         "tags": [
           "Gebäudeautomation"
@@ -491,6 +481,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
         "tags": [
           "Handelsblatt Live"
+        ]
+      },
+      {
+        "title": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
+        "publishedAt": "2026-05-29T07:00:00+00:00",
+        "summary": "19. bis 21. November 2026, Hamburg - GET Nord 2026: Wie KI Gebäude und Handwerk transformiert TGA+E Fachplaner",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVh0VHhUclgwY1RYQzBDTGRCTVNJbERaZC04dnoyLWU2VnlfYlZTZHNIUmtfMkRDZnRpMGFXVF84RWt5ZDdNVUlEVkdwYkZMT0Q0cXlsUlVWSTZOU1hxNVlYb0hyYkpnM19yZ2ViczZhUnZjUV9xYU9wVUJGbmhLX1B6MGpOdmVjN2lWcTNhRzFmOEw0MXdBeW9xay14YzhSTFQxbmd0THZSczZQQXo5WlhwSGNFeXB3OFlCc2syVXlwZkN0YWZv?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
