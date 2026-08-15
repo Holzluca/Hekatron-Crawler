@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T20:14:53.519465+00:00",
+  "generatedAt": "2026-08-15T20:45:18.263510+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -44,10 +44,10 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - press.siemens.com",
-        "source": "press.siemens.com",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
         "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude press.siemens.com",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
@@ -85,10 +85,10 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - imtest.de",
+        "source": "imtest.de",
         "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte imtest.de",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
@@ -105,6 +105,16 @@
         ]
       },
       {
+        "title": "Marktgröße für die Sicherheit öffentlicher Infrastrukturen | Prognose – 2035 Market Size, Share & Growth Report | MRFR - Market Research Future",
+        "source": "Market Research Future",
+        "publishedAt": "2026-04-06T07:00:00+00:00",
+        "summary": "Marktgröße für die Sicherheit öffentlicher Infrastrukturen | Prognose – 2035 Market Size, Share & Growth Report | MRFR Market Research Future",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0ZSY3hGRmlEMkJiVEVHZDZmb0MwUVlaTkFkTWFWTFBKQmhrMndySllZZ2NWMkdmNm9IbG9pS1NmR0Qwb24tYkMtZlhmQ29zMmRLNDQ5Uy0wMmtSLW5Ya0hEZ3EyMlAycVJWNnZ4NmdWS04zeURHcHZsQm41UUlkbFQ1S0Zva0NVekt6V0pRVW9JSzQ?oc=5",
+        "tags": [
+          "Market Research Future"
+        ]
+      },
+      {
         "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-02T19:56:17+00:00",
@@ -112,16 +122,6 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
-        "source": "NZZ – Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ – Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "NZZ – Neue Zürcher Zeitung"
         ]
       }
     ],
@@ -240,10 +240,10 @@
         ]
       },
       {
-        "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - AUTOBILD.DE",
-        "source": "AUTOBILD.DE",
+        "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - autobild.de",
+        "source": "autobild.de",
         "publishedAt": "2026-07-24T07:00:00+00:00",
-        "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger AUTOBILD.DE",
+        "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger autobild.de",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzRUb3AyOU1kOHlTZU9yNkV2UDBzLTA3T2duWWd6SkdwcV83Vml1RHN6SjlJMkpHQ1lLVGtZUlVNNlhzeExIQVF5Z1lDdFRLY0FPOW5XdHJRLXVHbmVtVU13RTN5UnJmSGlvNU9JTThXaDBfWlE3clhiZnNmZXVxc1c5SEFUZ1lZSnhoZk94T3BuTVAtSXg2dGVmbVpIbGtRX0RrV0M5S1ZSMGk0QlFV?oc=5",
         "tags": [
           "Ei"
@@ -282,10 +282,10 @@
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress.at",
-        "source": "exxpress.at",
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress.at",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
