@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:16:01.354779+00:00",
+  "generatedAt": "2026-08-16T14:46:29.098546+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -169,13 +169,13 @@
         ]
       },
       {
-        "title": "Test: Der beste Kohlenmonoxid-Melder - FAZ",
-        "source": "FAZ",
+        "title": "Test: Der beste Kohlenmonoxid-Melder - faz.net",
+        "source": "faz.net",
         "publishedAt": "2026-08-06T07:00:00+00:00",
-        "summary": "Test: Der beste Kohlenmonoxid-Melder FAZ",
+        "summary": "Test: Der beste Kohlenmonoxid-Melder faz.net",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTDRrc05PblNKcFI2V1RFSG1CVmhQUEVQNFdUT0FnQ0FMOWlkejRYbXFLVVhma3IycjU1UkJ5UktvbklBNHFSUFItam1BcHZoOWY0d3RYNXdvaHgzVzMycXM3c0JSazBRQ0RjNDI1X0VCYUM4Z0ZV?oc=5",
         "tags": [
-          "FAZ"
+          "faz.net"
         ]
       },
       {
@@ -196,16 +196,6 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTGQxcXUyUjc2NWJZbVdfeUtIR25WamYwV1Y0WXNoNnk1QmRyWW9ZcjIxWnVyeDBKUlo4VEp0VnVpNzV1aTJsbXd3WXFidUpaUXhfclA0RndJd0t1Ri1TVlQ1Q0RfWWxjSXotNzRR?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "X-Sense XS0B-SN Rauchmelder im 3er-Set für 38,99€ - klamm.de",
-        "source": "klamm.de",
-        "publishedAt": "2026-07-31T18:38:19+00:00",
-        "summary": "X-Sense XS0B-SN Rauchmelder im 3er-Set für 38,99€ klamm.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzcwTzlEQmlpT0M1VDR4dFBRTDRZSVNrV1NQaTFEeUJzM1JvZm9wSmJmU3RhdTAxX2ttTTVqTjlQZm8xWDdSSDVucmJ2aEtkT0lBRlBsMlR4Tk43SXVqLWZQUnc2MGVtb1A3cEI0YnlJVm9hWW9QMUdtNWtNY1lvUlc4YV8tekRpRC15dWFWZmxYZ0NH?oc=5",
-        "tags": [
-          "X-Sense"
         ]
       },
       {
@@ -247,6 +237,16 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
           "BILD"
+        ]
+      },
+      {
+        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-07-14T07:00:00+00:00",
+        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
