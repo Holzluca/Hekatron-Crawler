@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T21:13:35.787994+00:00",
+  "generatedAt": "2026-08-16T21:41:58.457017+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,10 +127,10 @@
     ],
     "pfs": [
       {
-        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
+        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - smarthomeassistent.de",
+        "source": "smarthomeassistent.de",
         "publishedAt": "2026-08-13T08:24:37+00:00",
-        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
+        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe smarthomeassistent.de",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
         "tags": [
           "Bosch"
@@ -147,10 +147,10 @@
         ]
       },
       {
-        "title": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen - toptechnews.de",
-        "source": "toptechnews.de",
+        "title": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen - TopTechNews",
+        "source": "TopTechNews",
         "publishedAt": "2026-08-12T13:09:53+00:00",
-        "summary": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen toptechnews.de",
+        "summary": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen TopTechNews",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXdvLWJtTlVGanBpVnRyWmZJcUxvWnFtc0NBQjZoS0tvM25PTXprU1BsS3NGUzRPYWVQTjNFOFBGblRmN3k4LXVyb0VTSXJreXd4cFdmc3ZoelRBX3ZjbTVBVnRMeUdNRlltWTVBVEcwb290cmswT1l5YWd3Qmx6aElxNm9EdzNzTzBvaXB2VG93YTJfOVVsY1lfYmNtRUM1QnQ0LUJKRC1jMFFheXJ3VnhHSFVRQQ?oc=5",
         "tags": [
           "Ei",
@@ -384,10 +384,10 @@
         ]
       },
       {
-        "title": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme - CRN DE",
-        "source": "CRN DE",
+        "title": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme - crn.de",
+        "source": "crn.de",
         "publishedAt": "2026-08-13T14:15:05+00:00",
-        "summary": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme CRN DE",
+        "summary": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme crn.de",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2dGVnpCd3JuTUdVNFNmVFZRVmp3S0VmQ1pFdnIySUo2Rmp1WkRYaF9VRHRMVnBWM0RreGJGeE5YcGpCejl3ZVM0Nk5XaDVJdTBYdWg3YnpNWjV3Wk41Z2MwOHhJc2UxLXdBalBZdFphRzZzUWI0R3lTZWw4NmExM2VZZ1ZnMThPTndF?oc=5",
         "tags": [
           "KI"
@@ -404,13 +404,13 @@
         ]
       },
       {
-        "title": "ETS 2 ab 2028: EU erweitert Emissionshandel auf Gebäude und Verkehr - it-boltwise.de",
-        "source": "it-boltwise.de",
+        "title": "ETS 2 ab 2028: EU erweitert Emissionshandel auf Gebäude und Verkehr - it boltwise",
+        "source": "it boltwise",
         "publishedAt": "2026-08-10T20:56:34+00:00",
-        "summary": "ETS 2 ab 2028: EU erweitert Emissionshandel auf Gebäude und Verkehr it-boltwise.de",
+        "summary": "ETS 2 ab 2028: EU erweitert Emissionshandel auf Gebäude und Verkehr it boltwise",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR25aU0VGM1lPMkFTRndmUTQydVZabjRZamMtWU1NVmpLd18yaHMyTG5YN3MwbHAydTk5RTcyOFNrMFFkQ3dpOThsQWRoeS00VTBIWHJ2LXkzei1LUUd1WFU0c3FNRnBtaS1GVzdUZWlCWXZsZVU0cEZBXzFERHo4OWd0UXdMY2NQMXFXOV9GWXR1ZHoycVEtSEFJLWNWY2ZG?oc=5",
         "tags": [
-          "it-boltwise.de"
+          "it boltwise"
         ]
       },
       {
@@ -424,10 +424,10 @@
         ]
       },
       {
-        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifepr.de",
-        "source": "lifepr.de",
+        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifePR",
+        "source": "lifePR",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifepr.de",
+        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifePR",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaXhnNVUxV09JU1FpQjFjZ1o1S0Rha0VUbU5hVEJJUmtBbEF5cFhZOUN6OGlZT3BnUFdXSzFDNG5SQy1rMGFJakZLWWZjV09iUGtiX0lseGp3NVdOa0ZmdzE4ZzdmZTRGRkdjdmFzN3BJLWhGS25IZXI5dlAtQVlsVE9OLUNoY2QxdlFMYU9aYmhwdVFoSG55WnM1dTYwZDdOWE8xVVBld0VDbnhYX1V3eUVYbGVqWjBSV24xdjZ3Mkh3a1QtM3U0Y1BHRzJ4NzgweFZxN1lxNnl1cXZwczlqZ1NJM1l1eXVTU25ick45YXdvc21CZjV3TQ?oc=5",
         "tags": [
           "Gebäudeautomation"
