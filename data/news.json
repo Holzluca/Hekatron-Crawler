@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T12:26:04.907210+00:00",
+  "generatedAt": "2026-08-16T13:08:35.633348+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,10 +127,10 @@
     ],
     "pfs": [
       {
-        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - smarthomeassistent.de",
-        "source": "smarthomeassistent.de",
+        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
         "publishedAt": "2026-08-13T08:24:37+00:00",
-        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe smarthomeassistent.de",
+        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
         "tags": [
           "Bosch"
@@ -209,12 +209,13 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense smarter Rauchmelder mit Sprachausgabe und W-Lan - n-tv.de",
+        "title": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station - n-tv.de",
         "source": "n-tv.de",
-        "publishedAt": "2026-07-31T18:00:27+00:00",
-        "summary": "Amazon: X-Sense smarter Rauchmelder mit Sprachausgabe und W-Lan n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWRmanBxQmhYUkkzYkxwZTR4bDNXcWMxMEQ3NGNsWm1OUEVmYW51MmNqeXNPVUk3cDFhSXdQY1d4Z0daRTZLeUJRV0ZoQ2hDaTY0UEo5SUpmX3MtTkZfUWxINk95YXozVTFRTVBsMFZRQWhCek16cXJMRVVKQmxjNDNnUGh2VTFuajIySGxETFlSVTR5cmVGeDdXSW1YWDJVQzJjd29aQVBOQzlYMzBQWmZR?oc=5",
+        "publishedAt": "2026-07-31T18:00:28+00:00",
+        "summary": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXRNbFIwRkttQzVZb1hfb1VXTTVsYnRBUnd4am44OUN0UGdIejhMMFF3NGVQeUJPWE1yUXZLVE5NZlpEalBjSFhITEVwam9PTXMyMFZyTGJTSjRla3lfUG1QcU5OVHhaYlZNSzNPdE1aaTd5dkdaZ3VRb3VXMVhMS2hPWF9YSVN3N21xQVpqeTg2elhxSlhMQVlmcHYxTWFENnppRTVPR04xV1B3b3A0RktDYw?oc=5",
         "tags": [
+          "Ei",
           "X-Sense"
         ]
       },
@@ -239,13 +240,13 @@
         ]
       },
       {
-        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - bild.de",
-        "source": "bild.de",
+        "title": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause - BILD",
+        "source": "BILD",
         "publishedAt": "2026-07-23T09:28:46+00:00",
-        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause bild.de",
+        "summary": "Matter-Thermostate im Test: Die besten Modelle für jedes Zuhause BILD",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVIzMWlwQTNGTWZYTnBLUjBrZ1dsYnphRnl6bkwxVHVBbDBaQm1mZ200RkRkV2FxTS1fUkh1ZXlSaE9SRjRUR0xiTmlQalBUcW5hSi1YaUNnWlBGSk9lcXFoWTRuOGxYVWVTNjR6c1NRRXktUXpGS2pROXBmUjd3NEtSeWNUMXpPVGc?oc=5",
         "tags": [
-          "bild.de"
+          "BILD"
         ]
       }
     ],
@@ -281,20 +282,20 @@
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
-        "source": "exxpress",
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress.at",
+        "source": "exxpress.at",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress.at",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
+        "source": "businessinsider.de",
         "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
@@ -311,13 +312,13 @@
         ]
       },
       {
-        "title": "„Einrichtung muss schließen“: Deshalb wickelt die evangelische Kirche eine Kirche im Hochfeld ab - augsburger-allgemeine.de",
-        "source": "augsburger-allgemeine.de",
+        "title": "„Einrichtung muss schließen“: Deshalb wickelt die evangelische Kirche eine Kirche im Hochfeld ab - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
         "publishedAt": "2026-05-11T07:00:00+00:00",
-        "summary": "„Einrichtung muss schließen“: Deshalb wickelt die evangelische Kirche eine Kirche im Hochfeld ab augsburger-allgemeine.de",
+        "summary": "„Einrichtung muss schließen“: Deshalb wickelt die evangelische Kirche eine Kirche im Hochfeld ab Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2ZZRzJpTnZmRjNFcHJlendxb2R5LTRsSVc5NTc1R2tQcDQtR1NNVHRTX2V4RVEtdmtxYTVWaFZuN1E0bnVRVzJFSEQxM0MzdnhHXzVfb0dCb0lHa2pPcDNrNWcwMWtwR3F1a0pqdmUyZE11R0lmdDFIQ25zNkRsZWdkb25Md0JzT0J1ejRYc19abHFocVZ2VzJyb19JUmtjTlFhaldJcmFQdjh5QV9yODBTbjI?oc=5",
         "tags": [
-          "augsburger-allgemeine.de"
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -331,13 +332,13 @@
         ]
       },
       {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - augsburger-allgemeine.de",
-        "source": "augsburger-allgemeine.de",
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt augsburger-allgemeine.de",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
         "tags": [
-          "augsburger-allgemeine.de"
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -351,13 +352,13 @@
         ]
       },
       {
-        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - augsburger-allgemeine.de",
-        "source": "augsburger-allgemeine.de",
+        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-05T07:00:00+00:00",
-        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen augsburger-allgemeine.de",
+        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
         "tags": [
-          "augsburger-allgemeine.de"
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -373,13 +374,13 @@
     ],
     "trends": [
       {
-        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - datacenter-insider.de",
-        "source": "datacenter-insider.de",
+        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - DataCenter-Insider",
+        "source": "DataCenter-Insider",
         "publishedAt": "2026-08-14T09:00:00+00:00",
-        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ datacenter-insider.de",
+        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ DataCenter-Insider",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
         "tags": [
-          "datacenter-insider.de"
+          "DataCenter-Insider"
         ]
       },
       {
@@ -393,23 +394,23 @@
         ]
       },
       {
-        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - bild.de",
-        "source": "bild.de",
+        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
+        "source": "BILD",
         "publishedAt": "2026-08-11T13:00:09+00:00",
-        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht bild.de",
+        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
         "tags": [
           "Nachhaltigkeit"
         ]
       },
       {
-        "title": "ETS 2 ab 2028: EU erweitert Emissionshandel auf Gebäude und Verkehr - it-boltwise.de",
-        "source": "it-boltwise.de",
+        "title": "ETS 2 ab 2028: EU erweitert Emissionshandel auf Gebäude und Verkehr - it boltwise",
+        "source": "it boltwise",
         "publishedAt": "2026-08-10T20:56:34+00:00",
-        "summary": "ETS 2 ab 2028: EU erweitert Emissionshandel auf Gebäude und Verkehr it-boltwise.de",
+        "summary": "ETS 2 ab 2028: EU erweitert Emissionshandel auf Gebäude und Verkehr it boltwise",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR25aU0VGM1lPMkFTRndmUTQydVZabjRZamMtWU1NVmpLd18yaHMyTG5YN3MwbHAydTk5RTcyOFNrMFFkQ3dpOThsQWRoeS00VTBIWHJ2LXkzei1LUUd1WFU0c3FNRnBtaS1GVzdUZWlCWXZsZVU0cEZBXzFERHo4OWd0UXdMY2NQMXFXOV9GWXR1ZHoycVEtSEFJLWNWY2ZG?oc=5",
         "tags": [
-          "it-boltwise.de"
+          "it boltwise"
         ]
       },
       {
@@ -443,20 +444,20 @@
         ]
       },
       {
-        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
+        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - businessinsider.de",
+        "source": "businessinsider.de",
         "publishedAt": "2026-07-19T07:00:00+00:00",
-        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern Business Insider Deutschland",
+        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern businessinsider.de",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
           "KI"
         ]
       },
       {
-        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - haufe.de",
-        "source": "haufe.de",
+        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
+        "source": "Haufe. Intelligenz, die bewegt.",
         "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung haufe.de",
+        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
         "tags": [
           "Normen"
@@ -473,13 +474,13 @@
         ]
       },
       {
-        "title": "Telehouse eröffnet das „Gebäude N“ - datacenter-insider.de",
-        "source": "datacenter-insider.de",
+        "title": "Telehouse eröffnet das „Gebäude N“ - DataCenter-Insider",
+        "source": "DataCenter-Insider",
         "publishedAt": "2026-06-23T07:00:00+00:00",
-        "summary": "Telehouse eröffnet das „Gebäude N“ datacenter-insider.de",
+        "summary": "Telehouse eröffnet das „Gebäude N“ DataCenter-Insider",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkNlb2Jnclc1cEtXQXBhQVV2RlBJSGw4X2RPZ1NtM0lRU0pwY09KWERCRWg1NXRQSDBydlZvQUVUazJSVlUyY3FVX3AyY3AwSHp6N1d4R3MzQ0d1dVZTblMyYkdrVHhaWm10ckI2OGI2YnVMNWNRZWQ0eDFMMzZMc2Uza2ZidTg1X21kSXZQQzBKLU9yS1BvRGVjbE81ZFZ1d0F5ek5BOA?oc=5",
         "tags": [
-          "datacenter-insider.de"
+          "DataCenter-Insider"
         ]
       },
       {
