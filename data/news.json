@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:58:21.132492+00:00",
+  "generatedAt": "2026-08-17T06:58:29.624046+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -169,13 +169,13 @@
         ]
       },
       {
-        "title": "Test: Der beste Kohlenmonoxid-Melder - faz.net",
-        "source": "faz.net",
+        "title": "Test: Der beste Kohlenmonoxid-Melder - FAZ",
+        "source": "FAZ",
         "publishedAt": "2026-08-06T07:00:00+00:00",
-        "summary": "Test: Der beste Kohlenmonoxid-Melder faz.net",
+        "summary": "Test: Der beste Kohlenmonoxid-Melder FAZ",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTDRrc05PblNKcFI2V1RFSG1CVmhQUEVQNFdUT0FnQ0FMOWlkejRYbXFLVVhma3IycjU1UkJ5UktvbklBNHFSUFItam1BcHZoOWY0d3RYNXdvaHgzVzMycXM3c0JSazBRQ0RjNDI1X0VCYUM4Z0ZV?oc=5",
         "tags": [
-          "faz.net"
+          "FAZ"
         ]
       },
       {
@@ -322,10 +322,10 @@
         ]
       },
       {
-        "title": "Interroll übernimmt Royal Apollo Group - logistik-online.ch",
-        "source": "logistik-online.ch",
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
         "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group logistik-online.ch",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
