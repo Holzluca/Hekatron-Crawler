@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:16:46.114784+00:00",
+  "generatedAt": "2026-08-17T03:26:11.210777+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Kooperation - Enpal und Bosch integrieren smarte Ther­mos­tate in WP-Angebot - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
+        "publishedAt": "2026-08-17T03:00:07+00:00",
+        "summary": "Kooperation - Enpal und Bosch integrieren smarte Ther­mos­tate in WP-Angebot TGA+E Fachplaner",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVZEeDB6VjNfX0FjNWZEejhhdl9NR19LQW5GWFZKWXF5cmpHRWxMUWNfbW1IR3U1QVlHLUJVUUVrTHFIMXZqLWdyNXJ4LUZKeHZEa0g1dW84RW5jN2VneFp1OVJlTnF1REdqdkNUSUxySGJubnY5d3JoczVmcU5rb0ZaMkpTcjNrdFBjR193djFRaHRlWmRNX3lwb3VlQzZxYUdLYlF1ek5JTzY3S0E?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-08-13T08:24:37+00:00",
@@ -137,10 +147,10 @@
         ]
       },
       {
-        "title": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen - toptechnews.de",
-        "source": "toptechnews.de",
+        "title": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen - TopTechNews",
+        "source": "TopTechNews",
         "publishedAt": "2026-08-12T13:09:53+00:00",
-        "summary": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen toptechnews.de",
+        "summary": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen TopTechNews",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXdvLWJtTlVGanBpVnRyWmZJcUxvWnFtc0NBQjZoS0tvM25PTXprU1BsS3NGUzRPYWVQTjNFOFBGblRmN3k4LXVyb0VTSXJreXd4cFdmc3ZoelRBX3ZjbTVBVnRMeUdNRlltWTVBVEcwb290cmswT1l5YWd3Qmx6aElxNm9EdzNzTzBvaXB2VG93YTJfOVVsY1lfYmNtRUM1QnQ0LUJKRC1jMFFheXJ3VnhHSFVRQQ?oc=5",
         "tags": [
           "Ei",
@@ -159,13 +169,13 @@
         ]
       },
       {
-        "title": "Test: Der beste Kohlenmonoxid-Melder - faz.net",
-        "source": "faz.net",
+        "title": "Test: Der beste Kohlenmonoxid-Melder - FAZ",
+        "source": "FAZ",
         "publishedAt": "2026-08-06T07:00:00+00:00",
-        "summary": "Test: Der beste Kohlenmonoxid-Melder faz.net",
+        "summary": "Test: Der beste Kohlenmonoxid-Melder FAZ",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTDRrc05PblNKcFI2V1RFSG1CVmhQUEVQNFdUT0FnQ0FMOWlkejRYbXFLVVhma3IycjU1UkJ5UktvbklBNHFSUFItam1BcHZoOWY0d3RYNXdvaHgzVzMycXM3c0JSazBRQ0RjNDI1X0VCYUM4Z0ZV?oc=5",
         "tags": [
-          "faz.net"
+          "FAZ"
         ]
       },
       {
@@ -238,16 +248,6 @@
         "tags": [
           "BILD"
         ]
-      },
-      {
-        "title": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-07-14T07:00:00+00:00",
-        "summary": "Hohe Stromrechnung? Diese smarten Steckdosen entlarven heimliche Stromfresser Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnJodnF5NmkyR281YTV6OUlGVC1sRUZiSWhsY3JLNWs3aUo1V25fb3VMQ1NINnZXWm9rV1FKbjNreFlELURsa09RaXNCOERNN1didkxvUmVUaEw4WnpJcl9ZZUhJdXBOSGg5amJUM3hwRVdCM25LSVV5OVM5MEFhdEpmUmduZE9SdVF4bA?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
@@ -272,20 +272,20 @@
         ]
       },
       {
-        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
-        "source": "TradingView",
+        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - de.tradingview.com",
+        "source": "de.tradingview.com",
         "publishedAt": "2026-07-27T11:00:03+00:00",
-        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau TradingView",
+        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau de.tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
-          "TradingView"
+          "de.tradingview.com"
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress.at",
-        "source": "exxpress.at",
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress.at",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
@@ -384,10 +384,10 @@
         ]
       },
       {
-        "title": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme - crn.de",
-        "source": "crn.de",
+        "title": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme - CRN DE",
+        "source": "CRN DE",
         "publishedAt": "2026-08-13T14:15:05+00:00",
-        "summary": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme crn.de",
+        "summary": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme CRN DE",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2dGVnpCd3JuTUdVNFNmVFZRVmp3S0VmQ1pFdnIySUo2Rmp1WkRYaF9VRHRMVnBWM0RreGJGeE5YcGpCejl3ZVM0Nk5XaDVJdTBYdWg3YnpNWjV3Wk41Z2MwOHhJc2UxLXdBalBZdFphRzZzUWI0R3lTZWw4NmExM2VZZ1ZnMThPTndF?oc=5",
         "tags": [
           "KI"
