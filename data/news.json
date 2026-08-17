@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T14:51:43.970679+00:00",
+  "generatedAt": "2026-08-17T15:19:14.892068+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,10 +127,10 @@
     ],
     "pfs": [
       {
-        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - stadt-bremerhaven.de",
-        "source": "stadt-bremerhaven.de",
+        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - Caschys Blog",
+        "source": "Caschys Blog",
         "publishedAt": "2026-08-17T10:00:22+00:00",
-        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht stadt-bremerhaven.de",
+        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWFRSG5NQ1ctUkJBaGQ5VUtRTGRabERSVW04TGM0UU5HcE9iN0lWY0pCWDE0NlpxOW1HVlF1d3RFTnFja2d0d2VCZ0EyMUlmNTN0NDVQYVpIc05kM2tZOGtMMDlWTTdUbjdhNnNUSUx2bmFrWnd0OWJGMW92TWNpQUtFUjFtc0U?oc=5",
         "tags": [
           "X-Sense"
@@ -179,10 +179,10 @@
         ]
       },
       {
-        "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiFlip",
-        "source": "mobiFlip",
+        "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiflip.de",
+        "source": "mobiflip.de",
         "publishedAt": "2026-08-12T06:45:45+00:00",
-        "summary": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung mobiFlip",
+        "summary": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung mobiflip.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZIcnB1SlQ5NUtNdXZ6YzM4U1dxQkoxSVp1UjlkWkVhSTVwR091WGx6N0ZSQksta1NmMXg2RmpkUnZCbllJN3pEWkhjODVzWXpzTVNBUEFfOFF6alpza2U1Vy1HcFFXb0xRZFI4dVI0RGVjS3hMbG82N3ZlYXFpeGZ0N1N6MjF1S1ZfWnRXZGVWT1FxVmJOVndkcmNEQ0w50gGmAUFVX3lxTE5HUFpmQnZ6UXc0VExEYlVKU2pyNkg3YVJkNXFnb0JtdFZac2dyNlJYMkVNckpXZzJoLWRFaWR5UlExYWlpeDNvTHRQYWxiS1ktcG5ncVY0THRqUFVZNmFMektnMmNCUThndl9BRmMzWDg5aXAzV08wY0R1alZlcXBEVWtFd1ZwWWh0RF9lVzFzOHBuaFQ0X3pKZHA2TmVqS1Izc0VaN0E?oc=5",
         "tags": [
           "Ei",
@@ -252,6 +252,16 @@
       }
     ],
     "doors": [
+      {
+        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
+        "source": "Apollo Hospitals",
+        "publishedAt": "2026-08-17T04:18:14+00:00",
+        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
@@ -361,27 +371,17 @@
         "tags": [
           "Augsburger Allgemeine"
         ]
-      },
-      {
-        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-03-31T07:00:00+00:00",
-        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
       {
-        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - datacenter-insider.de",
-        "source": "datacenter-insider.de",
+        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - DataCenter-Insider",
+        "source": "DataCenter-Insider",
         "publishedAt": "2026-08-14T09:00:00+00:00",
-        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ datacenter-insider.de",
+        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ DataCenter-Insider",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
         "tags": [
-          "datacenter-insider.de"
+          "DataCenter-Insider"
         ]
       },
       {
@@ -392,6 +392,16 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2dGVnpCd3JuTUdVNFNmVFZRVmp3S0VmQ1pFdnIySUo2Rmp1WkRYaF9VRHRMVnBWM0RreGJGeE5YcGpCejl3ZVM0Nk5XaDVJdTBYdWg3YnpNWjV3Wk41Z2MwOHhJc2UxLXdBalBZdFphRzZzUWI0R3lTZWw4NmExM2VZZ1ZnMThPTndF?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Arbeitsplatzgesundheit: ACAT setzt auf Ergonomie und Nachhaltigkeit - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-08-12T04:39:52+00:00",
+        "summary": "Arbeitsplatzgesundheit: ACAT setzt auf Ergonomie und Nachhaltigkeit AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdE1sNVdHa0tieEJnQzBhZzNueVBUSlZZaGttc2hibnZpODFPV2lCSG5sUnlvV19lN0V2NVJycXZ3RVFyY2pFUV9sS2tjZk1TSGpEMjNpeG8xRVZkZmhTbmU0WnhqMVQzemNTbTJnTy1nR0Y5RllScnptQ1paT281cm5LOWdyVi1nRkhQTERwdmloZEFLNFNyUDNyZUJlYS11MXBlemM4OUZCYlRfQjZ6RWhCUQ?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       },
       {
@@ -445,16 +455,6 @@
         ]
       },
       {
-        "title": "Normen-Notruf und Gebäudetyp E: Wie Sie rechtssicher, einfacher und günstiger bauen - Anwalt.de",
-        "source": "Anwalt.de",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "Normen-Notruf und Gebäudetyp E: Wie Sie rechtssicher, einfacher und günstiger bauen Anwalt.de",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlA1RGZNZ0hnRVZmUzJlNG5JQVVYUzVOaUZIT01KSHR2cjNDTjZ2Tmd4djV5bjdaX1ZkUTJWLTVDcU8zcElZdU9uLWVENHE2c0doOFpUZnppdE5uaHpVLWMtRlN4NXR5SXRPVTJRaUlfRHptOVZmN2t5alk5WS1MZkgyUzBtdWVPdllxR2wxOWEyTk01Q1ZnRm44ZXM3c3d5cFlyci1ySkV6eEJnOXhMYkZvcUp5UndzdUMydl85NDBHSEhLMWQzZw?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
         "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
         "source": "Haufe. Intelligenz, die bewegt.",
         "publishedAt": "2026-07-08T07:00:00+00:00",
@@ -475,13 +475,13 @@
         ]
       },
       {
-        "title": "Telehouse eröffnet das „Gebäude N“ - datacenter-insider.de",
-        "source": "datacenter-insider.de",
+        "title": "Telehouse eröffnet das „Gebäude N“ - DataCenter-Insider",
+        "source": "DataCenter-Insider",
         "publishedAt": "2026-06-23T07:00:00+00:00",
-        "summary": "Telehouse eröffnet das „Gebäude N“ datacenter-insider.de",
+        "summary": "Telehouse eröffnet das „Gebäude N“ DataCenter-Insider",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkNlb2Jnclc1cEtXQXBhQVV2RlBJSGw4X2RPZ1NtM0lRU0pwY09KWERCRWg1NXRQSDBydlZvQUVUazJSVlUyY3FVX3AyY3AwSHp6N1d4R3MzQ0d1dVZTblMyYkdrVHhaWm10ckI2OGI2YnVMNWNRZWQ0eDFMMzZMc2Uza2ZidTg1X21kSXZQQzBKLU9yS1BvRGVjbE81ZFZ1d0F5ek5BOA?oc=5",
         "tags": [
-          "datacenter-insider.de"
+          "DataCenter-Insider"
         ]
       },
       {
