@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T10:23:43.498184+00:00",
+  "generatedAt": "2026-08-18T10:54:17.164462+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -375,16 +375,6 @@
     ],
     "trends": [
       {
-        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - datacenter-insider.de",
-        "source": "datacenter-insider.de",
-        "publishedAt": "2026-08-14T09:00:00+00:00",
-        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ datacenter-insider.de",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
-        "tags": [
-          "datacenter-insider.de"
-        ]
-      },
-      {
         "title": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme - CRN DE",
         "source": "CRN DE",
         "publishedAt": "2026-08-13T14:15:05+00:00",
@@ -492,6 +482,16 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
         "tags": [
           "Handelsblatt Live"
+        ]
+      },
+      {
+        "title": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude - Rheinische Anzeigenblätter",
+        "source": "Rheinische Anzeigenblätter",
+        "publishedAt": "2026-05-29T07:00:00+00:00",
+        "summary": "Nächtlicher Crash in Köln-Poll: BMW kracht nach Driftversuch auf Fast-Food-Parkplatz ins Gebäude Rheinische Anzeigenblätter",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRU05cTJPbjAzTl9TYW1odVZlS0NsX0EwSzhIVFduejZNUmlibENyNHBHQW95UzV0N2p1SUhfVjNBRDU4NmFXSEY5ckFkMVhIOXRraEIyMVR4RVJvVWRRcXVSNVhZenNfVmlRNGk2b0UtdlEwSVVwZHdxLVhLYXY1M21TWXVfTDhIZzlzTW03ZW41bnV3bF9sM1lCeXJDY3lLXzlXTVVsSy1nRkxkQlROQnAwZjRieXJWLTNSNUJNYm1BRHZTeUJJNUEwcmhTdw?oc=5",
+        "tags": [
+          "Rheinische Anzeigenblätter"
         ]
       }
     ]
