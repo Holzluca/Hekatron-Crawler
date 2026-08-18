@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:00:50.925566+00:00",
+  "generatedAt": "2026-08-18T15:55:22.384588+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -85,6 +85,16 @@
         ]
       },
       {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
+        ]
+      },
+      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -113,16 +123,6 @@
         "tags": [
           "Market Research Future"
         ]
-      },
-      {
-        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-02T19:56:17+00:00",
-        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -138,10 +138,10 @@
         ]
       },
       {
-        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - Caschys Blog",
-        "source": "Caschys Blog",
+        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - stadt-bremerhaven.de",
+        "source": "stadt-bremerhaven.de",
         "publishedAt": "2026-08-17T10:00:22+00:00",
-        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht Caschys Blog",
+        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht stadt-bremerhaven.de",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWFRSG5NQ1ctUkJBaGQ5VUtRTGRabERSVW04TGM0UU5HcE9iN0lWY0pCWDE0NlpxOW1HVlF1d3RFTnFja2d0d2VCZ0EyMUlmNTN0NDVQYVpIc05kM2tZOGtMMDlWTTdUbjdhNnNUSUx2bmFrWnd0OWJGMW92TWNpQUtFUjFtc0U?oc=5",
         "tags": [
           "X-Sense"
@@ -184,17 +184,6 @@
         "publishedAt": "2026-08-12T13:09:53+00:00",
         "summary": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen TopTechNews",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXdvLWJtTlVGanBpVnRyWmZJcUxvWnFtc0NBQjZoS0tvM25PTXprU1BsS3NGUzRPYWVQTjNFOFBGblRmN3k4LXVyb0VTSXJreXd4cFdmc3ZoelRBX3ZjbTVBVnRMeUdNRlltWTVBVEcwb290cmswT1l5YWd3Qmx6aElxNm9EdzNzTzBvaXB2VG93YTJfOVVsY1lfYmNtRUM1QnQ0LUJKRC1jMFFheXJ3VnhHSFVRQQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-08-12T06:45:45+00:00",
-        "summary": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZIcnB1SlQ5NUtNdXZ6YzM4U1dxQkoxSVp1UjlkWkVhSTVwR091WGx6N0ZSQksta1NmMXg2RmpkUnZCbllJN3pEWkhjODVzWXpzTVNBUEFfOFF6alpza2U1Vy1HcFFXb0xRZFI4dVI0RGVjS3hMbG82N3ZlYXFpeGZ0N1N6MjF1S1ZfWnRXZGVWT1FxVmJOVndkcmNEQ0w50gGmAUFVX3lxTE5HUFpmQnZ6UXc0VExEYlVKU2pyNkg3YVJkNXFnb0JtdFZac2dyNlJYMkVNckpXZzJoLWRFaWR5UlExYWlpeDNvTHRQYWxiS1ktcG5ncVY0THRqUFVZNmFMektnMmNCUThndl9BRmMzWDg5aXAzV08wY0R1alZlcXBEVWtFd1ZwWWh0RF9lVzFzOHBuaFQ0X3pKZHA2TmVqS1Izc0VaN0E?oc=5",
         "tags": [
           "Ei",
           "Bosch"
@@ -250,14 +239,24 @@
           "Ei",
           "X-Sense"
         ]
+      },
+      {
+        "title": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger - AUTOBILD.DE",
+        "source": "AUTOBILD.DE",
+        "publishedAt": "2026-07-24T07:00:00+00:00",
+        "summary": "Mehr Sicherheit rund ums Haus: Diese Kamera ist jetzt deutlich günstiger AUTOBILD.DE",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzRUb3AyOU1kOHlTZU9yNkV2UDBzLTA3T2duWWd6SkdwcV83Vml1RHN6SjlJMkpHQ1lLVGtZUlVNNlhzeExIQVF5Z1lDdFRLY0FPOW5XdHJRLXVHbmVtVU13RTN5UnJmSGlvNU9JTThXaDBfWlE3clhiZnNmZXVxc1c5SEFUZ1lZSnhoZk94T3BuTVAtSXg2dGVmbVpIbGtRX0RrV0M5S1ZSMGk0QlFV?oc=5",
+        "tags": [
+          "Ei"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Dormakaba übernimmt Azure Access und Apollo Security in den USA - TradingView",
-        "source": "TradingView",
+        "title": "Dormakaba übernimmt Azure Access und Apollo Security in den USA - de.tradingview.com",
+        "source": "de.tradingview.com",
         "publishedAt": "2026-08-17T16:47:12+00:00",
-        "summary": "Dormakaba übernimmt Azure Access und Apollo Security in den USA TradingView",
+        "summary": "Dormakaba übernimmt Azure Access und Apollo Security in den USA de.tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNGRwSUlzNVhDYVppcFk4aTVZelN5bG85T1J0Qy1sMXdGNTJuVzBrRWR0VVZ6Mm03ZFc1Nkd2TmdEYkdnOF9VZEhiZy02dWMta211MnA1Qm93b0llV1FEVTdn?oc=5",
         "tags": [
           "Apollo"
@@ -294,13 +293,13 @@
         ]
       },
       {
-        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
-        "source": "TradingView",
+        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - de.tradingview.com",
+        "source": "de.tradingview.com",
         "publishedAt": "2026-07-27T11:00:03+00:00",
-        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau TradingView",
+        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau de.tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
-          "TradingView"
+          "de.tradingview.com"
         ]
       },
       {
