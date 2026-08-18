@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T23:15:53.577192+00:00",
+  "generatedAt": "2026-08-18T23:44:05.239577+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,6 +21,16 @@
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Rauchmelder Test 2026: Unser Testsieger kann sogar sprechen - home&smart",
+        "source": "home&smart",
+        "publishedAt": "2026-07-20T07:00:00+00:00",
+        "summary": "Rauchmelder Test 2026: Unser Testsieger kann sogar sprechen home&smart",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUGJ0bFBjbmxUSUhEa3VVSXRxLWVBWVFGVmlzS2I3ejEySEQ3VmJjeEMzUUh1OERlOG81WVNlRXVrSTJHeC0wcGJidEVrMHA5eUF4cllPcXA4YkN2WVdNSVUtLUZLS28?oc=5",
+        "tags": [
+          "home&smart"
         ]
       },
       {
@@ -82,16 +92,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
         ]
       },
       {
@@ -202,10 +202,10 @@
         ]
       },
       {
-        "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiflip.de",
-        "source": "mobiflip.de",
+        "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiFlip",
+        "source": "mobiFlip",
         "publishedAt": "2026-08-12T06:45:45+00:00",
-        "summary": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung mobiflip.de",
+        "summary": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung mobiFlip",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZIcnB1SlQ5NUtNdXZ6YzM4U1dxQkoxSVp1UjlkWkVhSTVwR091WGx6N0ZSQksta1NmMXg2RmpkUnZCbllJN3pEWkhjODVzWXpzTVNBUEFfOFF6alpza2U1Vy1HcFFXb0xRZFI4dVI0RGVjS3hMbG82N3ZlYXFpeGZ0N1N6MjF1S1ZfWnRXZGVWT1FxVmJOVndkcmNEQ0w50gGmAUFVX3lxTE5HUFpmQnZ6UXc0VExEYlVKU2pyNkg3YVJkNXFnb0JtdFZac2dyNlJYMkVNckpXZzJoLWRFaWR5UlExYWlpeDNvTHRQYWxiS1ktcG5ncVY0THRqUFVZNmFMektnMmNCUThndl9BRmMzWDg5aXAzV08wY0R1alZlcXBEVWtFd1ZwWWh0RF9lVzFzOHBuaFQ0X3pKZHA2TmVqS1Izc0VaN0E?oc=5",
         "tags": [
           "Ei",
@@ -223,10 +223,10 @@
         ]
       },
       {
-        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - chip.de",
-        "source": "chip.de",
+        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - CHIP",
+        "source": "CHIP",
         "publishedAt": "2026-08-05T07:00:00+00:00",
-        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung chip.de",
+        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung CHIP",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYklkNWtfYW5ydUFfM0NzRm1jWGp3R3ZqV3RTa1dMNlpWR3liYVE5ZnhkZXJoaGNIbS0xSkJaY1JWSG9MTDlUVVFHR19MdkhJOTJaZ0hnRkxveV9rRGpLRkNsRThKNUx1ZUp1YjJJQno1SVNsSXExVkZxcy1TbkVxOGU4RmhzbVhFZmZBd2c5aVF6QTZ5VWFVdnUyZVZKTUZaN1Jmc2lwNlBzRUtRd05kR19qUGVtLVNnbzVwak5OUkRPdm5GMjUyaFlUMkMwdG1xaDhSYXA2bEY1Sk9pOTVMRTdkMWZfamU4WkFnUTlUZkt2UHZl?oc=5",
         "tags": [
           "Hager"
@@ -417,10 +417,10 @@
         ]
       },
       {
-        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifePR",
-        "source": "lifePR",
+        "title": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 - lifepr.de",
+        "source": "lifepr.de",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifePR",
+        "summary": "Intelligentere und sicherere Gebäudeautomation mit neuer Generation SAUTER modulo 6 und ecos 5 lifepr.de",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaXhnNVUxV09JU1FpQjFjZ1o1S0Rha0VUbU5hVEJJUmtBbEF5cFhZOUN6OGlZT3BnUFdXSzFDNG5SQy1rMGFJakZLWWZjV09iUGtiX0lseGp3NVdOa0ZmdzE4ZzdmZTRGRkdjdmFzN3BJLWhGS25IZXI5dlAtQVlsVE9OLUNoY2QxdlFMYU9aYmhwdVFoSG55WnM1dTYwZDdOWE8xVVBld0VDbnhYX1V3eUVYbGVqWjBSV24xdjZ3Mkh3a1QtM3U0Y1BHRzJ4NzgweFZxN1lxNnl1cXZwczlqZ1NJM1l1eXVTU25ick45YXdvc21CZjV3TQ?oc=5",
         "tags": [
           "Gebäudeautomation"
