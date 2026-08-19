@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T22:48:57.150557+00:00",
+  "generatedAt": "2026-08-19T23:16:47.422823+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -85,13 +85,13 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - diepholz.de",
+        "source": "diepholz.de",
         "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen diepholz.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
         "tags": [
-          "Landkreis Diepholz"
+          "diepholz.de"
         ]
       },
       {
@@ -115,23 +115,23 @@
         ]
       },
       {
-        "title": "Marktgröße für die Sicherheit öffentlicher Infrastrukturen | Prognose – 2035 Market Size, Share & Growth Report | MRFR - marketresearchfuture.com",
-        "source": "marketresearchfuture.com",
+        "title": "Marktgröße für die Sicherheit öffentlicher Infrastrukturen | Prognose – 2035 Market Size, Share & Growth Report | MRFR - Market Research Future",
+        "source": "Market Research Future",
         "publishedAt": "2026-04-06T07:00:00+00:00",
-        "summary": "Marktgröße für die Sicherheit öffentlicher Infrastrukturen | Prognose – 2035 Market Size, Share & Growth Report | MRFR marketresearchfuture.com",
+        "summary": "Marktgröße für die Sicherheit öffentlicher Infrastrukturen | Prognose – 2035 Market Size, Share & Growth Report | MRFR Market Research Future",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0ZSY3hGRmlEMkJiVEVHZDZmb0MwUVlaTkFkTWFWTFBKQmhrMndySllZZ2NWMkdmNm9IbG9pS1NmR0Qwb24tYkMtZlhmQ29zMmRLNDQ5Uy0wMmtSLW5Ya0hEZ3EyMlAycVJWNnZ4NmdWS04zeURHcHZsQm41UUlkbFQ1S0Zva0NVekt6V0pRVW9JSzQ?oc=5",
         "tags": [
-          "marketresearchfuture.com"
+          "Market Research Future"
         ]
       }
     ],
     "pfs": [
       {
-        "title": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren - n-tv.de",
+        "title": "Tink: Bosch Smart Home Licht-/ Rollladensteuerung II - 6er-Set - n-tv.de",
         "source": "n-tv.de",
-        "publishedAt": "2026-08-19T16:18:21+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzczdEJCaHo5Tld2TDhSeGtlcXFkQndjVzJMUXFhX0tpUDFTdTBwYk1yUDNKM3c2R095cVpaTFdIWi1Hc3dpTExUOWh1WGdidlZfRGdDeDNodWZubU1GWDhDRVhCUFRzUEowYzFGM09VQW1Zd09UbXZCd2NodFQ0UlJnY3lGYkc5WWtPMTByWnk5NmRIazRzTTlrak02MUo2U3JNS1FhdG9fOVV6MGFheG85aTRUT09zVTBmSExpSFpRWGRpd0dBdmRJV1FJVjA?oc=5",
+        "publishedAt": "2026-08-19T16:18:17+00:00",
+        "summary": "Tink: Bosch Smart Home Licht-/ Rollladensteuerung II - 6er-Set n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRU5WU1A2WjVCM3N3Q3kwb0FSelpzQWRHVU9RVFlyOVAyVlRvSGtrUTVEVkY0QndyemVCVVNKN1J1ZHgxRGdCd0hjbHluQkowOGVVb29tRFZaeEZRMUx5WnNQcmtYVmxxb2RuQ1RDTU5rTUtDWDdITGwzUFY3bnZQM1dLUVZuUDUwdHJKelNZZzUzYnUtcEpEUENlRVU4UTMtblNVanMyX3lELVZ1V3c?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
@@ -149,10 +149,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
         "publishedAt": "2026-08-18T19:36:20+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 ad-hoc-news.de",
+        "summary": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYm5IWUo5VlZIN0tMLU1WSkdWLXR5bjFOYk5DeVBSQUlUeERDampyNy1QX3lHTlVHcXR2MzZBeGRhOXpPWG1TSlB5cWVGV3llSEZ6dEo3MG5LaUwwUW1Ic2d6QXoyTmF1dTRhQlM2ZUliVFJzemNOQ2lxTU9NYWhad0RzWGdnVWpISk9NcHV3dVFXQUdCQmp4NVVZZy1kQUR0ZDlFT2pwdUJGNTJtWHo1MFdxNFFUTGQ0S2ZSMFNZRQ?oc=5",
         "tags": [
           "Ei",
@@ -161,10 +161,10 @@
         ]
       },
       {
-        "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside digital",
-        "source": "inside digital",
+        "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside-digital.de",
+        "source": "inside-digital.de",
         "publishedAt": "2026-08-18T11:28:00+00:00",
-        "summary": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test inside digital",
+        "summary": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test inside-digital.de",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDJsQU92NFZaWm82LU1UMWxoaGlPaEdWMmU0OGQ0eHBwTC1XcVNCNTZPWWVMSmJtQ3p1VWN3bGUwYndSbXZuWHRucHFXRUtDbTEyd2tDZlFzamFfTXFFTjMtVHVkbVJYUFlIN1BTbi1LNFYybHhIenF3TGtpTF9VUjRTeUtSMmFjWG1zbGVESExkYUI0eE5maEhvaE1ic2dlUzdDcXFVVFVJMzM0eElBdGJBQkw2QdIBuwFBVV95cUxOeU5lcEFmVVY2Y1VjVkkxVE9ZbU9nOV9zakl6SjhhUDZhU0dlOHRsdFpIdDBjTEoyRV9yd0VMbTVfOUNMeHlNNUN4QlRoNDRJNkxWQ2tiU1RHNW5OX2VPa3pOa21LUkt0MTN3SUt0Qi1iSExUQzYzWGw4YWtkVWlscUdmeHdFdTdfeFN5WnJvR0xHSGZ1NGxJUkdLTlZ4Vm5iM0JQb2hmc3ZjaFFyeW5xYnk3LWNiU1JiSkYw?oc=5",
         "tags": [
           "Ei",
@@ -262,6 +262,16 @@
         "publishedAt": "2026-08-19T16:37:00+00:00",
         "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Dormakaba übernimmt Azure Access und Apollo Security in den USA - TradingView",
+        "source": "TradingView",
+        "publishedAt": "2026-08-17T16:47:12+00:00",
+        "summary": "Dormakaba übernimmt Azure Access und Apollo Security in den USA TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNGRwSUlzNVhDYVppcFk4aTVZelN5bG85T1J0Qy1sMXdGNTJuVzBrRWR0VVZ6Mm03ZFc1Nkd2TmdEYkdnOF9VZEhiZy02dWMta211MnA1Qm93b0llV1FEVTdn?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -365,16 +375,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-04-05T07:00:00+00:00",
-        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
-        ]
       }
     ],
     "trends": [
@@ -399,13 +399,13 @@
         ]
       },
       {
-        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - DataCenter-Insider",
-        "source": "DataCenter-Insider",
+        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - datacenter-insider.de",
+        "source": "datacenter-insider.de",
         "publishedAt": "2026-08-14T09:00:00+00:00",
-        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ DataCenter-Insider",
+        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ datacenter-insider.de",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
         "tags": [
-          "DataCenter-Insider"
+          "datacenter-insider.de"
         ]
       },
       {
