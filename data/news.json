@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T04:05:44.393757+00:00",
+  "generatedAt": "2026-08-19T05:00:21.825507+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -21,16 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Rauchmelder Test 2026: Unser Testsieger kann sogar sprechen - home&smart",
-        "source": "home&smart",
-        "publishedAt": "2026-07-20T07:00:00+00:00",
-        "summary": "Rauchmelder Test 2026: Unser Testsieger kann sogar sprechen home&smart",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUGJ0bFBjbmxUSUhEa3VVSXRxLWVBWVFGVmlzS2I3ejEySEQ3VmJjeEMzUUh1OERlOG81WVNlRXVrSTJHeC0wcGJidEVrMHA5eUF4cllPcXA4YkN2WVdNSVUtLUZLS28?oc=5",
-        "tags": [
-          "home&smart"
         ]
       },
       {
@@ -92,6 +82,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
         ]
       },
       {
@@ -243,13 +243,12 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-07-31T18:00:28+00:00",
-        "summary": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXRNbFIwRkttQzVZb1hfb1VXTTVsYnRBUnd4am44OUN0UGdIejhMMFF3NGVQeUJPWE1yUXZLVE5NZlpEalBjSFhITEVwam9PTXMyMFZyTGJTSjRla3lfUG1QcU5OVHhaYlZNSzNPdE1aaTd5dkdaZ3VRb3VXMVhMS2hPWF9YSVN3N21xQVpqeTg2elhxSlhMQVlmcHYxTWFENnppRTVPR04xV1B3b3A0RktDYw?oc=5",
+        "title": "X-Sense XS0B-SN Rauchmelder im 3er-Set für 38,99€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-07-31T18:38:19+00:00",
+        "summary": "X-Sense XS0B-SN Rauchmelder im 3er-Set für 38,99€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzcwTzlEQmlpT0M1VDR4dFBRTDRZSVNrV1NQaTFEeUJzM1JvZm9wSmJmU3RhdTAxX2ttTTVqTjlQZm8xWDdSSDVucmJ2aEtkT0lBRlBsMlR4Tk43SXVqLWZQUnc2MGVtb1A3cEI0YnlJVm9hWW9QMUdtNWtNY1lvUlc4YV8tekRpRC15dWFWZmxYZ0NH?oc=5",
         "tags": [
-          "Ei",
           "X-Sense"
         ]
       }
