@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T06:32:35.482366+00:00",
+  "generatedAt": "2026-08-19T07:32:12.667437+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,13 +34,13 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "Teltarif"
+          "teltarif.de"
         ]
       },
       {
@@ -171,10 +171,10 @@
         ]
       },
       {
-        "title": "Kooperation - Enpal und Bosch integrieren smarte Ther­mos­tate in WP-Angebot - tga-fachplaner.de",
-        "source": "tga-fachplaner.de",
+        "title": "Kooperation - Enpal und Bosch integrieren smarte Ther­mos­tate in WP-Angebot - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
         "publishedAt": "2026-08-17T03:00:07+00:00",
-        "summary": "Kooperation - Enpal und Bosch integrieren smarte Ther­mos­tate in WP-Angebot tga-fachplaner.de",
+        "summary": "Kooperation - Enpal und Bosch integrieren smarte Ther­mos­tate in WP-Angebot TGA+E Fachplaner",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVZEeDB6VjNfX0FjNWZEejhhdl9NR19LQW5GWFZKWXF5cmpHRWxMUWNfbW1IR3U1QVlHLUJVUUVrTHFIMXZqLWdyNXJ4LUZKeHZEa0g1dW84RW5jN2VneFp1OVJlTnF1REdqdkNUSUxySGJubnY5d3JoczVmcU5rb0ZaMkpTcjNrdFBjR193djFRaHRlWmRNX3lwb3VlQzZxYUdLYlF1ek5JTzY3S0E?oc=5",
         "tags": [
           "Bosch"
@@ -191,10 +191,10 @@
         ]
       },
       {
-        "title": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen - toptechnews.de",
-        "source": "toptechnews.de",
+        "title": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen - TopTechNews",
+        "source": "TopTechNews",
         "publishedAt": "2026-08-12T13:09:53+00:00",
-        "summary": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen toptechnews.de",
+        "summary": "Bosch & Enpal – Eine Partnerschaft für effizientes und kostenoptimiertes heizen TopTechNews",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXdvLWJtTlVGanBpVnRyWmZJcUxvWnFtc0NBQjZoS0tvM25PTXprU1BsS3NGUzRPYWVQTjNFOFBGblRmN3k4LXVyb0VTSXJreXd4cFdmc3ZoelRBX3ZjbTVBVnRMeUdNRlltWTVBVEcwb290cmswT1l5YWd3Qmx6aElxNm9EdzNzTzBvaXB2VG93YTJfOVVsY1lfYmNtRUM1QnQ0LUJKRC1jMFFheXJ3VnhHSFVRQQ?oc=5",
         "tags": [
           "Ei",
@@ -244,10 +244,10 @@
         ]
       },
       {
-        "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - Teltarif",
-        "source": "Teltarif",
+        "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-08-04T07:00:00+00:00",
-        "summary": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter Teltarif",
+        "summary": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTGQxcXUyUjc2NWJZbVdfeUtIR25WamYwV1Y0WXNoNnk1QmRyWW9ZcjIxWnVyeDBKUlo4VEp0VnVpNzV1aTJsbXd3WXFidUpaUXhfclA0RndJd0t1Ri1TVlQ1Q0RfWWxjSXotNzRR?oc=5",
         "tags": [
           "Ei"
@@ -256,10 +256,20 @@
     ],
     "doors": [
       {
-        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - apollohospitals.com",
-        "source": "apollohospitals.com",
+        "title": "Dormakaba übernimmt Azure Access und Apollo Security in den USA - TradingView",
+        "source": "TradingView",
+        "publishedAt": "2026-08-17T16:47:12+00:00",
+        "summary": "Dormakaba übernimmt Azure Access und Apollo Security in den USA TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNGRwSUlzNVhDYVppcFk4aTVZelN5bG85T1J0Qy1sMXdGNTJuVzBrRWR0VVZ6Mm03ZFc1Nkd2TmdEYkdnOF9VZEhiZy02dWMta211MnA1Qm93b0llV1FEVTdn?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
+        "source": "Apollo Hospitals",
         "publishedAt": "2026-08-17T04:18:14+00:00",
-        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch apollohospitals.com",
+        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
         "tags": [
           "Apollo"
@@ -306,30 +316,30 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
-        "source": "businessinsider.de",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       },
       {
-        "title": "Interroll übernimmt Royal Apollo Group - logistik-online.ch",
-        "source": "logistik-online.ch",
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
         "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group logistik-online.ch",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
@@ -346,13 +356,13 @@
         ]
       },
       {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - augsburger-allgemeine.de",
-        "source": "augsburger-allgemeine.de",
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt augsburger-allgemeine.de",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
         "tags": [
-          "augsburger-allgemeine.de"
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -363,16 +373,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - augsburger-allgemeine.de",
-        "source": "augsburger-allgemeine.de",
-        "publishedAt": "2026-04-05T07:00:00+00:00",
-        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen augsburger-allgemeine.de",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
-        "tags": [
-          "augsburger-allgemeine.de"
         ]
       }
     ],
@@ -398,13 +398,13 @@
         ]
       },
       {
-        "title": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland - connect-professional",
-        "source": "connect-professional",
+        "title": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland - connect-professional.de",
+        "source": "connect-professional.de",
         "publishedAt": "2026-08-11T14:07:15+00:00",
-        "summary": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland connect-professional",
+        "summary": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland connect-professional.de",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdlFPVVM2blNxQlNXT2lCR3k1SXlKdDA5VGIwNXFZVzdqLU9LWi1LRVVEeDREMmlrSDNxVzVOQXZuOE5kcjM1bWVVdnh2R3hlZm9YcFR2ZkR4QzNRWjlDNl92dFJ2SlZIaklkaVBPdHUyd2ZlWnJTeEtqd3BadVJpdlNWbDM1cURYaHp4U0JxNTBOc0FxeF83eGw1Wk9IM09nZTNwN3Z2X1R6QnBqLWdLcFEzY21MUXlsa3FCdVJQb2dYamVEallkLQ?oc=5",
         "tags": [
-          "connect-professional"
+          "connect-professional.de"
         ]
       },
       {
@@ -448,10 +448,10 @@
         ]
       },
       {
-        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - businessinsider.de",
-        "source": "businessinsider.de",
+        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-19T07:00:00+00:00",
-        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern businessinsider.de",
+        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
           "KI"
