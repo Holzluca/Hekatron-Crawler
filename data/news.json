@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T23:44:51.887092+00:00",
+  "generatedAt": "2026-08-20T00:52:47.410448+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -149,10 +149,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
         "publishedAt": "2026-08-18T19:36:20+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 ad-hoc-news.de",
+        "summary": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 Ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYm5IWUo5VlZIN0tMLU1WSkdWLXR5bjFOYk5DeVBSQUlUeERDampyNy1QX3lHTlVHcXR2MzZBeGRhOXpPWG1TSlB5cWVGV3llSEZ6dEo3MG5LaUwwUW1Ic2d6QXoyTmF1dTRhQlM2ZUliVFJzemNOQ2lxTU9NYWhad0RzWGdnVWpISk9NcHV3dVFXQUdCQmp4NVVZZy1kQUR0ZDlFT2pwdUJGNTJtWHo1MFdxNFFUTGQ0S2ZSMFNZRQ?oc=5",
         "tags": [
           "Ei",
@@ -267,6 +267,16 @@
         ]
       },
       {
+        "title": "Dormakaba übernimmt Azure Access und Apollo Security in den USA - de.tradingview.com",
+        "source": "de.tradingview.com",
+        "publishedAt": "2026-08-17T16:47:12+00:00",
+        "summary": "Dormakaba übernimmt Azure Access und Apollo Security in den USA de.tradingview.com",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNGRwSUlzNVhDYVppcFk4aTVZelN5bG85T1J0Qy1sMXdGNTJuVzBrRWR0VVZ6Mm03ZFc1Nkd2TmdEYkdnOF9VZEhiZy02dWMta211MnA1Qm93b0llV1FEVTdn?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
         "source": "Apollo Hospitals",
         "publishedAt": "2026-08-17T04:18:14+00:00",
@@ -297,13 +307,13 @@
         ]
       },
       {
-        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
-        "source": "TradingView",
+        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - de.tradingview.com",
+        "source": "de.tradingview.com",
         "publishedAt": "2026-07-27T11:00:03+00:00",
-        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau TradingView",
+        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau de.tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
-          "TradingView"
+          "de.tradingview.com"
         ]
       },
       {
@@ -327,13 +337,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       },
       {
@@ -364,16 +374,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-04-05T07:00:00+00:00",
-        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
         ]
       }
     ],
