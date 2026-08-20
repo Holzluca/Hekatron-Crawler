@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:54:40.520331+00:00",
+  "generatedAt": "2026-08-20T06:34:47.723728+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -379,6 +379,16 @@
     ],
     "trends": [
       {
+        "title": "ESG / Hitzesommer 2026: Bauteilaktivierung ist Schlüsseltechnologie für kühle Gebäude - immofokus.at",
+        "source": "immofokus.at",
+        "publishedAt": "2026-08-20T06:27:00+00:00",
+        "summary": "ESG / Hitzesommer 2026: Bauteilaktivierung ist Schlüsseltechnologie für kühle Gebäude immofokus.at",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdDR1LUpERW9yc2dVSk9VU014MVV2TjluY291cTJ0RHROOVVoVkgtckR3bUtyWHdVdG1QQmcwR2wtU2poSVF3SUozN25jcWJUWnJtcmdheWZLRlBvNkFKR2Y1cmthemEzcmo4bmNjWUJYMXJ2X2lQM0o3RzlKd1VoVUIzLTJxTm52VTB0cjlPc0pKYUEzQTVyU3Y0ZGhsM2l6eWp1M3ROYjM?oc=5",
+        "tags": [
+          "ESG"
+        ]
+      },
+      {
         "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
         "source": "ARD Mediathek",
         "publishedAt": "2026-08-19T15:38:01+00:00",
@@ -419,13 +429,13 @@
         ]
       },
       {
-        "title": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland - connect-professional",
-        "source": "connect-professional",
+        "title": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland - connect-professional.de",
+        "source": "connect-professional.de",
         "publishedAt": "2026-08-11T14:07:15+00:00",
-        "summary": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland connect-professional",
+        "summary": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland connect-professional.de",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdlFPVVM2blNxQlNXT2lCR3k1SXlKdDA5VGIwNXFZVzdqLU9LWi1LRVVEeDREMmlrSDNxVzVOQXZuOE5kcjM1bWVVdnh2R3hlZm9YcFR2ZkR4QzNRWjlDNl92dFJ2SlZIaklkaVBPdHUyd2ZlWnJTeEtqd3BadVJpdlNWbDM1cURYaHp4U0JxNTBOc0FxeF83eGw1Wk9IM09nZTNwN3Z2X1R6QnBqLWdLcFEzY21MUXlsa3FCdVJQb2dYamVEallkLQ?oc=5",
         "tags": [
-          "connect-professional"
+          "connect-professional.de"
         ]
       },
       {
@@ -484,16 +494,6 @@
         "publishedAt": "2026-07-10T07:00:00+00:00",
         "summary": "Normen-Notruf und Gebäudetyp E: Wie Sie rechtssicher, einfacher und günstiger bauen Anwalt.de",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlA1RGZNZ0hnRVZmUzJlNG5JQVVYUzVOaUZIT01KSHR2cjNDTjZ2Tmd4djV5bjdaX1ZkUTJWLTVDcU8zcElZdU9uLWVENHE2c0doOFpUZnppdE5uaHpVLWMtRlN4NXR5SXRPVTJRaUlfRHptOVZmN2t5alk5WS1MZkgyUzBtdWVPdllxR2wxOWEyTk01Q1ZnRm44ZXM3c3d5cFlyci1ySkV6eEJnOXhMYkZvcUp5UndzdUMydl85NDBHSEhLMWQzZw?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
-        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
-        "source": "Haufe. Intelligenz, die bewegt.",
-        "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
         "tags": [
           "Normen"
         ]
