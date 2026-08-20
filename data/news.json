@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:02:25.382426+00:00",
+  "generatedAt": "2026-08-20T05:54:40.520331+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -172,10 +172,10 @@
         ]
       },
       {
-        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - stadt-bremerhaven.de",
-        "source": "stadt-bremerhaven.de",
+        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - Caschys Blog",
+        "source": "Caschys Blog",
         "publishedAt": "2026-08-17T10:00:22+00:00",
-        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht stadt-bremerhaven.de",
+        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWFRSG5NQ1ctUkJBaGQ5VUtRTGRabERSVW04TGM0UU5HcE9iN0lWY0pCWDE0NlpxOW1HVlF1d3RFTnFja2d0d2VCZ0EyMUlmNTN0NDVQYVpIc05kM2tZOGtMMDlWTTdUbjdhNnNUSUx2bmFrWnd0OWJGMW92TWNpQUtFUjFtc0U?oc=5",
         "tags": [
           "X-Sense"
@@ -257,10 +257,10 @@
     ],
     "doors": [
       {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - manager-magazin.de",
-        "source": "manager-magazin.de",
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
         "publishedAt": "2026-08-19T16:37:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s manager-magazin.de",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
           "Apollo"
@@ -317,10 +317,10 @@
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress.at",
-        "source": "exxpress.at",
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress.at",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
@@ -409,10 +409,10 @@
         ]
       },
       {
-        "title": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme - crn.de",
-        "source": "crn.de",
+        "title": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme - CRN DE",
+        "source": "CRN DE",
         "publishedAt": "2026-08-13T14:15:05+00:00",
-        "summary": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme crn.de",
+        "summary": "Autonome KI-Angriffe überfordern KI-Sicherheitssysteme CRN DE",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2dGVnpCd3JuTUdVNFNmVFZRVmp3S0VmQ1pFdnIySUo2Rmp1WkRYaF9VRHRMVnBWM0RreGJGeE5YcGpCejl3ZVM0Nk5XaDVJdTBYdWg3YnpNWjV3Wk41Z2MwOHhJc2UxLXdBalBZdFphRzZzUWI0R3lTZWw4NmExM2VZZ1ZnMThPTndF?oc=5",
         "tags": [
           "KI"
@@ -431,7 +431,7 @@
       {
         "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
         "source": "BILD",
-        "publishedAt": "2026-08-11T13:00:09+00:00",
+        "publishedAt": "2026-08-11T07:00:00+00:00",
         "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
         "tags": [
