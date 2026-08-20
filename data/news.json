@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:34:47.723728+00:00",
+  "generatedAt": "2026-08-20T07:35:22.395115+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -85,16 +85,6 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -122,6 +112,16 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0ZSY3hGRmlEMkJiVEVHZDZmb0MwUVlaTkFkTWFWTFBKQmhrMndySllZZ2NWMkdmNm9IbG9pS1NmR0Qwb24tYkMtZlhmQ29zMmRLNDQ5Uy0wMmtSLW5Ya0hEZ3EyMlAycVJWNnZ4NmdWS04zeURHcHZsQm41UUlkbFQ1S0Zva0NVekt6V0pRVW9JSzQ?oc=5",
         "tags": [
           "Market Research Future"
+        ]
+      },
+      {
+        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-02T19:56:17+00:00",
+        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -213,10 +213,10 @@
         ]
       },
       {
-        "title": "Smarte Heizungssteuerung von Bosch für Wärmepumpen von Enpal - PoS-Mail",
-        "source": "PoS-Mail",
+        "title": "Smarte Heizungssteuerung von Bosch für Wärmepumpen von Enpal - pos-mail.de",
+        "source": "pos-mail.de",
         "publishedAt": "2026-08-12T12:17:12+00:00",
-        "summary": "Smarte Heizungssteuerung von Bosch für Wärmepumpen von Enpal PoS-Mail",
+        "summary": "Smarte Heizungssteuerung von Bosch für Wärmepumpen von Enpal pos-mail.de",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGplU0pZdy1CSkdtNzhrNXNQU0ZOVEpCT0dqLWNnT0cwRG40ZFN0UDJtdnRLMElmcy1vTy1qQVY0RUZyVHZIT0JfTEdkRUFtRk9GQU1sdWlCdkFLMVVnTVRvdmdBMDRzZUxmTF80Wk1tZWJXeW9GOTZoWjNuWkNrYXhxTDAzS3d2YUFR?oc=5",
         "tags": [
           "Ei",
@@ -379,6 +379,16 @@
     ],
     "trends": [
       {
+        "title": "Cyber Resilience Act: Pflichten für die Gebäudeautomation - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "Cyber Resilience Act: Pflichten für die Gebäudeautomation elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZm5Uc0VyWkhjNWtodERvLU54VkpndVBoaVdoSVd5aUZWRXdzOVRfUGNNWmxyN2ZIZkNUcWlkaGg5Ti1vTFd2Y0I4U2FUTDN5dVRCc2dOejdaU2loNWdHcDltc2ZNUUVMaUJpLTYtdjJlV0FIdG1iVWtlRUxNRXhDRmF0OF9SZWNPVzRhUkJuYzVDOG1wOEE?oc=5",
+        "tags": [
+          "Gebäudeautomation"
+        ]
+      },
+      {
         "title": "ESG / Hitzesommer 2026: Bauteilaktivierung ist Schlüsseltechnologie für kühle Gebäude - immofokus.at",
         "source": "immofokus.at",
         "publishedAt": "2026-08-20T06:27:00+00:00",
@@ -429,13 +439,13 @@
         ]
       },
       {
-        "title": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland - connect-professional.de",
-        "source": "connect-professional.de",
+        "title": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland - connect-professional",
+        "source": "connect-professional",
         "publishedAt": "2026-08-11T14:07:15+00:00",
-        "summary": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland connect-professional.de",
+        "summary": "Vertiv erweitert Kapazitäten für Rechenzentren in Irland connect-professional",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdlFPVVM2blNxQlNXT2lCR3k1SXlKdDA5VGIwNXFZVzdqLU9LWi1LRVVEeDREMmlrSDNxVzVOQXZuOE5kcjM1bWVVdnh2R3hlZm9YcFR2ZkR4QzNRWjlDNl92dFJ2SlZIaklkaVBPdHUyd2ZlWnJTeEtqd3BadVJpdlNWbDM1cURYaHp4U0JxNTBOc0FxeF83eGw1Wk9IM09nZTNwN3Z2X1R6QnBqLWdLcFEzY21MUXlsa3FCdVJQb2dYamVEallkLQ?oc=5",
         "tags": [
-          "connect-professional.de"
+          "connect-professional"
         ]
       },
       {
@@ -486,16 +496,6 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Normen-Notruf und Gebäudetyp E: Wie Sie rechtssicher, einfacher und günstiger bauen - Anwalt.de",
-        "source": "Anwalt.de",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "Normen-Notruf und Gebäudetyp E: Wie Sie rechtssicher, einfacher und günstiger bauen Anwalt.de",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlA1RGZNZ0hnRVZmUzJlNG5JQVVYUzVOaUZIT01KSHR2cjNDTjZ2Tmd4djV5bjdaX1ZkUTJWLTVDcU8zcElZdU9uLWVENHE2c0doOFpUZnppdE5uaHpVLWMtRlN4NXR5SXRPVTJRaUlfRHptOVZmN2t5alk5WS1MZkgyUzBtdWVPdllxR2wxOWEyTk01Q1ZnRm44ZXM3c3d5cFlyci1ySkV6eEJnOXhMYkZvcUp5UndzdUMydl85NDBHSEhLMWQzZw?oc=5",
-        "tags": [
-          "Normen"
         ]
       }
     ]
