@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:56:44.503777+00:00",
+  "generatedAt": "2026-08-21T16:30:29.463218+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -203,6 +203,17 @@
         ]
       },
       {
+        "title": "Smarte Heizungssteuerung von Bosch für Wärmepumpen von Enpal - PoS-Mail",
+        "source": "PoS-Mail",
+        "publishedAt": "2026-08-12T12:17:12+00:00",
+        "summary": "Smarte Heizungssteuerung von Bosch für Wärmepumpen von Enpal PoS-Mail",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGplU0pZdy1CSkdtNzhrNXNQU0ZOVEpCT0dqLWNnT0cwRG40ZFN0UDJtdnRLMElmcy1vTy1qQVY0RUZyVHZIT0JfTEdkRUFtRk9GQU1sdWlCdkFLMVVnTVRvdmdBMDRzZUxmTF80Wk1tZWJXeW9GOTZoWjNuWkNrYXhxTDAzS3d2YUFR?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiFlip",
         "source": "mobiFlip",
         "publishedAt": "2026-08-12T06:45:45+00:00",
@@ -242,16 +253,6 @@
         "tags": [
           "Ei",
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Sicher wohnen: tink rabattiert Eufy & Bosch - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-07-29T07:00:00+00:00",
-        "summary": "Sicher wohnen: tink rabattiert Eufy & Bosch Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmZNTmI4aXdhVzY3cEVRUEtsYU5xcEpEV0I3TUc3OXlsTDVlcUJOY0tmS2drbGNYWll3dDBJcXVqZ2ZuMmh5dzViX2g5aXg1ZDFiZFJTMU5LbUdlaTBEbnNWdnZqTm92XzVBVzRXakVkSGU0Ml9FWTk3S1d2SW1nd09XWTduZ3dRUmlXbE1pamI?oc=5",
-        "tags": [
-          "Bosch"
         ]
       }
     ],
