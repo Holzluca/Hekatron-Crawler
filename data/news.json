@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:47:00.837504+00:00",
+  "generatedAt": "2026-08-22T11:14:39.880442+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -74,16 +74,6 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-07T19:59:10+00:00",
@@ -91,16 +81,6 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Marktgröße für die Sicherheit öffentlicher Infrastrukturen | Prognose – 2035 Market Size, Share & Growth Report | MRFR - Market Research Future",
-        "source": "Market Research Future",
-        "publishedAt": "2026-04-06T07:00:00+00:00",
-        "summary": "Marktgröße für die Sicherheit öffentlicher Infrastrukturen | Prognose – 2035 Market Size, Share & Growth Report | MRFR Market Research Future",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0ZSY3hGRmlEMkJiVEVHZDZmb0MwUVlaTkFkTWFWTFBKQmhrMndySllZZ2NWMkdmNm9IbG9pS1NmR0Qwb24tYkMtZlhmQ29zMmRLNDQ5Uy0wMmtSLW5Ya0hEZ3EyMlAycVJWNnZ4NmdWS04zeURHcHZsQm41UUlkbFQ1S0Zva0NVekt6V0pRVW9JSzQ?oc=5",
-        "tags": [
-          "Market Research Future"
         ]
       },
       {
@@ -121,6 +101,26 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ – Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
+        "source": "www.bote.ch",
+        "publishedAt": "2026-03-30T07:00:00+00:00",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
