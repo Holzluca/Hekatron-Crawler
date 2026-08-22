@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:28:36.399903+00:00",
+  "generatedAt": "2026-08-22T07:09:37.900473+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -379,6 +379,36 @@
     ],
     "trends": [
       {
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
+        "source": "Infopoint Security",
+        "publishedAt": "2026-08-21T14:29:24+00:00",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - Elektrobranche",
+        "source": "Elektrobranche",
+        "publishedAt": "2026-08-20T10:29:12+00:00",
+        "summary": "go-e & Tekko: Kooperation ist offiziell besiegelt Elektrobranche",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNGNUeThTSVk0YkRDTF90MGVXVTRORUd6U3ZSejBoTDliQkZrbzdUVUF4VER1Ym1mQlBDbld2Y1lKN190b1RQVnlUNGJxQkhERGlEVDhNQl80LUxHeVhmVTE0RGxJLU1YTWxGQVBTWHNMdGZLUExBS1hDZw?oc=5",
+        "tags": [
+          "Elektrobranche"
+        ]
+      },
+      {
+        "title": "Cyber Resilience Act: Pflichten für die Gebäudeautomation - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "Cyber Resilience Act: Pflichten für die Gebäudeautomation elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZm5Uc0VyWkhjNWtodERvLU54VkpndVBoaVdoSVd5aUZWRXdzOVRfUGNNWmxyN2ZIZkNUcWlkaGg5Ti1vTFd2Y0I4U2FUTDN5dVRCc2dOejdaU2loNWdHcDltc2ZNUUVMaUJpLTYtdjJlV0FIdG1iVWtlRUxNRXhDRmF0OF9SZWNPVzRhUkJuYzVDOG1wOEE?oc=5",
+        "tags": [
+          "Gebäudeautomation"
+        ]
+      },
+      {
         "title": "ESG / Hitzesommer 2026: Bauteilaktivierung ist Schlüsseltechnologie für kühle Gebäude - immofokus.at",
         "source": "immofokus.at",
         "publishedAt": "2026-08-20T06:27:00+00:00",
@@ -449,6 +479,16 @@
         ]
       },
       {
+        "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
+        "source": "simplywall.st",
+        "publishedAt": "2026-08-01T07:00:00+00:00",
+        "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
+        "tags": [
+          "simplywall.st"
+        ]
+      },
+      {
         "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-19T07:00:00+00:00",
@@ -456,46 +496,6 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Normen-Notruf und Gebäudetyp E: Wie Sie rechtssicher, einfacher und günstiger bauen - Anwalt.de",
-        "source": "Anwalt.de",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "Normen-Notruf und Gebäudetyp E: Wie Sie rechtssicher, einfacher und günstiger bauen Anwalt.de",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlA1RGZNZ0hnRVZmUzJlNG5JQVVYUzVOaUZIT01KSHR2cjNDTjZ2Tmd4djV5bjdaX1ZkUTJWLTVDcU8zcElZdU9uLWVENHE2c0doOFpUZnppdE5uaHpVLWMtRlN4NXR5SXRPVTJRaUlfRHptOVZmN2t5alk5WS1MZkgyUzBtdWVPdllxR2wxOWEyTk01Q1ZnRm44ZXM3c3d5cFlyci1ySkV6eEJnOXhMYkZvcUp5UndzdUMydl85NDBHSEhLMWQzZw?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
-        "title": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf - energiezukunft",
-        "source": "energiezukunft",
-        "publishedAt": "2026-07-09T04:04:50+00:00",
-        "summary": "Wohnungsbau zu teuer – Bauforschungs-Institute starten Normen-Notruf energiezukunft",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3pKbWFPSldHc216MUZjX3ZGT29ucmFsWkpaRk8zQlJ2WXcxeGF6VUNFTHNfMjZhTUlpU3M3YkV6OFBQN0RReE92cy1NMUtzbTN1b2xwMnNwUWRrcVBLSUFFS3NITF90ZE1aYkliUi1vWnlwdUZVdmJiTVEtQndsRW1hYklJR0Z3WHFyWS16c1U2d1dyQmlIbmdSMGdTSlBDTU1Z?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
-        "title": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung - Haufe. Intelligenz, die bewegt.",
-        "source": "Haufe. Intelligenz, die bewegt.",
-        "publishedAt": "2026-07-08T07:00:00+00:00",
-        "summary": "DIN-Normen reformieren: Weniger Regeln, mehr Wirkung Haufe. Intelligenz, die bewegt.",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLW0yazkzUXR0WG9oWENfUGhHNlBmM0J3QTg2T0lNc2xPQW1SWmZhYWV6aml0SGh4ckVtenZ6eFlWc21PRWFMTE1JMnNWalV4ZjN1OE9XN2tWNVVIRWhSN1A2eUpKaUxXQm0ySFBManEwaHV0Qnc1cEZCb2RMZTBrTWVHbFVaNEIyb09UU2NEcDhjR2xMZVh1SzM3MkwteHBWMzZWRFoxOExCRm93QWY0UVBsSk1kNUk?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
-        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
-        "source": "Handelsblatt Live",
-        "publishedAt": "2026-06-16T07:00:00+00:00",
-        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
-        "tags": [
-          "Handelsblatt Live"
         ]
       }
     ]
