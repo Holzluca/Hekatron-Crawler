@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T23:45:50.183713+00:00",
+  "generatedAt": "2026-08-22T00:52:51.473492+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -203,12 +203,13 @@
         ]
       },
       {
-        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-08-13T08:24:37+00:00",
-        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
+        "title": "Smarte Heizungssteuerung von Bosch für Wärmepumpen von Enpal - PoS-Mail",
+        "source": "PoS-Mail",
+        "publishedAt": "2026-08-12T12:17:12+00:00",
+        "summary": "Smarte Heizungssteuerung von Bosch für Wärmepumpen von Enpal PoS-Mail",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGplU0pZdy1CSkdtNzhrNXNQU0ZOVEpCT0dqLWNnT0cwRG40ZFN0UDJtdnRLMElmcy1vTy1qQVY0RUZyVHZIT0JfTEdkRUFtRk9GQU1sdWlCdkFLMVVnTVRvdmdBMDRzZUxmTF80Wk1tZWJXeW9GOTZoWjNuWkNrYXhxTDAzS3d2YUFR?oc=5",
         "tags": [
+          "Ei",
           "Bosch"
         ]
       },
