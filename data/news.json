@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:49:14.326795+00:00",
+  "generatedAt": "2026-08-23T17:14:51.344728+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -380,26 +380,6 @@
     ],
     "trends": [
       {
-        "title": "Alibaba startet Kapitalerhöhung für KI-Offensive - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-08-23T06:12:00+00:00",
-        "summary": "Alibaba startet Kapitalerhöhung für KI-Offensive Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEhMeDRIbGpDNEtBeDZIQ3U5VU95ckJkQ01tRE5qNzhxS3V4bjVPeDFybThoZ0ZEcXFDT09iUWRIWDktdnhYTFUyMUR6YWNXd21HVlVDT2ZQekdiZ29kdHlCanpWbXhlbU1lR3haQzN1S2RINjhFYWVhTHEySnhpV0twRTVOMUxrYU1fMXppNUVlNkF3T21DVFI2V2oxNGhuSloyRg?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
-        "publishedAt": "2026-08-21T14:29:24+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - Elektrobranche",
         "source": "Elektrobranche",
         "publishedAt": "2026-08-20T10:29:12+00:00",
@@ -407,16 +387,6 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNGNUeThTSVk0YkRDTF90MGVXVTRORUd6U3ZSejBoTDliQkZrbzdUVUF4VER1Ym1mQlBDbld2Y1lKN190b1RQVnlUNGJxQkhERGlEVDhNQl80LUxHeVhmVTE0RGxJLU1YTWxGQVBTWHNMdGZLUExBS1hDZw?oc=5",
         "tags": [
           "Elektrobranche"
-        ]
-      },
-      {
-        "title": "Cyber Resilience Act: Pflichten für die Gebäudeautomation - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-08-20T07:00:00+00:00",
-        "summary": "Cyber Resilience Act: Pflichten für die Gebäudeautomation elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZm5Uc0VyWkhjNWtodERvLU54VkpndVBoaVdoSVd5aUZWRXdzOVRfUGNNWmxyN2ZIZkNUcWlkaGg5Ti1vTFd2Y0I4U2FUTDN5dVRCc2dOejdaU2loNWdHcDltc2ZNUUVMaUJpLTYtdjJlV0FIdG1iVWtlRUxNRXhDRmF0OF9SZWNPVzRhUkJuYzVDOG1wOEE?oc=5",
-        "tags": [
-          "Gebäudeautomation"
         ]
       },
       {
@@ -490,13 +460,43 @@
         ]
       },
       {
-        "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
-        "source": "simplywall.st",
-        "publishedAt": "2026-08-01T07:00:00+00:00",
-        "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
+        "title": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand - verbaende.com",
+        "source": "verbaende.com",
+        "publishedAt": "2026-07-23T09:23:55+00:00",
+        "summary": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand verbaende.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEFkdXUxNGstTHpFSWN2Nm44MTRSWm14TjE3aUtpcHJVVVNwV2R0Qm1HbkpJdVlma290QXRqVVR6NGtZNVlERlp4WE16czd6VFNrQzM3WkIydW9ZYWEwa3pHQ2N0OGkxZ3ZLU19LRVdsdk5DaDd4cl9nZFF4ZmZSMXY3dnlESjAwRmt6a1R5clN3eTFxMzFRNWVEZVF4MklVU1N4RWxVcmEyNF9JaEpDZ0ZLVEdfakE?oc=5",
         "tags": [
-          "simplywall.st"
+          "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? - kreiszeitung-wochenblatt.de",
+        "source": "kreiszeitung-wochenblatt.de",
+        "publishedAt": "2026-07-20T07:00:00+00:00",
+        "summary": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? kreiszeitung-wochenblatt.de",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVp1SEhzS2tpMm9KLU5Vd1dzRE8wRmFXZFNqamdWd1FleV9FR0t3WV9hWWlxeVdhOGFCeEIxYzNLUjQwTF9ROURzX01aUllVOEtWTFRmbWpUTk1USFlOeTZwR2tmR3IzZXFtbktXaWZNdWR2QXBVNS0zWDloZWQ3N1hDN1g1ZUROOWpMYW9EQWZ3WlVmVHpCRlJRVDBUa1JYdFN3aXpDS291R1l1eE92V2l2bURXZnFzWENCc3FfSmRsSDVlUlhUUkxnbjdIZW9y?oc=5",
+        "tags": [
+          "kreiszeitung-wochenblatt.de"
+        ]
+      },
+      {
+        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-19T07:00:00+00:00",
+        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-07-19T07:00:00+00:00",
+        "summary": "Gebäude-KI: DeepLink RE-LLM erstellt Marktberichte in einer Stunde Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEZUNHZ1YzI5T3N3UDRFY1hGVUVaMFRIMlZPUDMwU2lPZUtLbnB6NWJ1ZUdJam45ZVhDT0xRVkhuM1EwQ2U1YTlZdlo0R2xPWXlQdEVZajhqdHBadEVEVExEQWdMNXpmME1QLVZsdnRWdWlEU3pEaHV6enI0NnpLV0JtcS12WDRqUHhTdFFpZUxLcVV5NTFQUVhXa25fRHNLWlM1ODc3Nmh1ZTQydnN1cDhJNW9sQQ?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
