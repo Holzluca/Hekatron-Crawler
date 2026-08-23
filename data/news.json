@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T02:22:28.345442+00:00",
+  "generatedAt": "2026-08-23T03:27:54.842956+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -246,13 +246,12 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-07-31T18:00:28+00:00",
-        "summary": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXRNbFIwRkttQzVZb1hfb1VXTTVsYnRBUnd4am44OUN0UGdIejhMMFF3NGVQeUJPWE1yUXZLVE5NZlpEalBjSFhITEVwam9PTXMyMFZyTGJTSjRla3lfUG1QcU5OVHhaYlZNSzNPdE1aaTd5dkdaZ3VRb3VXMVhMS2hPWF9YSVN3N21xQVpqeTg2elhxSlhMQVlmcHYxTWFENnppRTVPR04xV1B3b3A0RktDYw?oc=5",
+        "title": "X-Sense XS0B-SN Rauchmelder im 3er-Set für 38,99€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-07-31T18:38:19+00:00",
+        "summary": "X-Sense XS0B-SN Rauchmelder im 3er-Set für 38,99€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzcwTzlEQmlpT0M1VDR4dFBRTDRZSVNrV1NQaTFEeUJzM1JvZm9wSmJmU3RhdTAxX2ttTTVqTjlQZm8xWDdSSDVucmJ2aEtkT0lBRlBsMlR4Tk43SXVqLWZQUnc2MGVtb1A3cEI0YnlJVm9hWW9QMUdtNWtNY1lvUlc4YV8tekRpRC15dWFWZmxYZ0NH?oc=5",
         "tags": [
-          "Ei",
           "X-Sense"
         ]
       }
@@ -319,16 +318,6 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
-        "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
         "source": "exxpress",
         "publishedAt": "2026-07-21T07:00:00+00:00",
@@ -374,6 +363,16 @@
         "publishedAt": "2026-05-08T07:00:00+00:00",
         "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
         "tags": [
           "Apollo"
         ]
