@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:43:27.098311+00:00",
+  "generatedAt": "2026-08-23T20:14:23.051160+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -85,16 +85,6 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -122,6 +112,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
+        "source": "NZZ – Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ – Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "NZZ – Neue Zürcher Zeitung"
         ]
       }
     ],
@@ -470,6 +470,16 @@
         ]
       },
       {
+        "title": "US-Militärbasen in Japan: Schimmel, Asbest und einsturzgefährdete Gebäude - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-08-11T07:00:00+00:00",
+        "summary": "US-Militärbasen in Japan: Schimmel, Asbest und einsturzgefährdete Gebäude it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3FhTURRemxGNjBGY0Rfd3RLeEZ1QW9PTUV0cUdpRW8tWG9WQXItaldxZ1BQSzdNcF8tcU9KbTliSWxod3QzWmFMeWc4UHY1N081NjdJdFowZjVqU2RlQ3Z6VnZWV2lmSmNZNFNOVjNPaUs5ekJqVWsyN0xZSEV3VnB1eTFxVWxibjRsVWJCVlFpT09lMzJQN2VZTEpzRGRmbmw0TDFmYWhzdw?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
         "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
         "source": "BILD",
         "publishedAt": "2026-08-11T07:00:00+00:00",
@@ -487,16 +497,6 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR25aU0VGM1lPMkFTRndmUTQydVZabjRZamMtWU1NVmpLd18yaHMyTG5YN3MwbHAydTk5RTcyOFNrMFFkQ3dpOThsQWRoeS00VTBIWHJ2LXkzei1LUUd1WFU0c3FNRnBtaS1GVzdUZWlCWXZsZVU0cEZBXzFERHo4OWd0UXdMY2NQMXFXOV9GWXR1ZHoycVEtSEFJLWNWY2ZG?oc=5",
         "tags": [
           "it boltwise"
-        ]
-      },
-      {
-        "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
-        "source": "simplywall.st",
-        "publishedAt": "2026-08-01T07:00:00+00:00",
-        "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
-        "tags": [
-          "simplywall.st"
         ]
       }
     ]
