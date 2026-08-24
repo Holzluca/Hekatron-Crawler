@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:35:20.703416+00:00",
+  "generatedAt": "2026-08-24T08:39:56.239083+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -460,16 +460,6 @@
         ]
       },
       {
-        "title": "Warum Rechenzentren Standards für Projekt-Offenlegung brauchen – nicht nur für Gebäude - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-08-19T10:30:01+00:00",
-        "summary": "Warum Rechenzentren Standards für Projekt-Offenlegung brauchen – nicht nur für Gebäude it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWpQWmxyc3VGUmtlVWVqdXo2SVpERlJPNEhWWm1aelNlYXUtU1lWSk0xMnlMeVBrZkhwSXhqNm84aXhLMXJQZXFKWDVDZldzU0hVT29FV1I4OVVuUlFES1JtaDZvMmlLVmcwajJsSDQ4WXFOdjRIYmsyX0VQZkk4MkEwTFRpQmw0VkNvZWxGbXZhbkkzcnlwbmlacWcxVnJOdFpzSE1WZlZBTUZBTk1yazZQaDFmZWY1bzBF?oc=5",
-        "tags": [
-          "it boltwise"
-        ]
-      },
-      {
         "title": "Laubbäume als Brandschutz: Waldumbau scheitert oft an Bürokratie - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-08-18T06:40:23+00:00",
@@ -497,6 +487,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3FhTURRemxGNjBGY0Rfd3RLeEZ1QW9PTUV0cUdpRW8tWG9WQXItaldxZ1BQSzdNcF8tcU9KbTliSWxod3QzWmFMeWc4UHY1N081NjdJdFowZjVqU2RlQ3Z6VnZWV2lmSmNZNFNOVjNPaUs5ekJqVWsyN0xZSEV3VnB1eTFxVWxibjRsVWJCVlFpT09lMzJQN2VZTEpzRGRmbmw0TDFmYWhzdw?oc=5",
         "tags": [
           "it boltwise"
+        ]
+      },
+      {
+        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
+        "source": "BILD",
+        "publishedAt": "2026-08-11T07:00:00+00:00",
+        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       }
     ]
