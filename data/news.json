@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T20:22:06.015889+00:00",
+  "generatedAt": "2026-08-24T20:56:38.436659+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -139,11 +139,11 @@
         ]
       },
       {
-        "title": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren - n-tv.de",
+        "title": "Tink: Bosch Smart Home Controller (2. Gen) - n-tv.de",
         "source": "n-tv.de",
-        "publishedAt": "2026-08-19T16:18:21+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzczdEJCaHo5Tld2TDhSeGtlcXFkQndjVzJMUXFhX0tpUDFTdTBwYk1yUDNKM3c2R095cVpaTFdIWi1Hc3dpTExUOWh1WGdidlZfRGdDeDNodWZubU1GWDhDRVhCUFRzUEowYzFGM09VQW1Zd09UbXZCd2NodFQ0UlJnY3lGYkc5WWtPMTByWnk5NmRIazRzTTlrak02MUo2U3JNS1FhdG9fOVV6MGFheG85aTRUT09zVTBmSExpSFpRWGRpd0dBdmRJV1FJVjA?oc=5",
+        "publishedAt": "2026-08-19T16:18:17+00:00",
+        "summary": "Tink: Bosch Smart Home Controller (2. Gen) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOczRfRDE4NkYyTkNyd3BkeUdsWlAwRTdaWHd4MmhONG9VcnlWQU4xdERydlNuUWtwcXA0UnI2VlNZeTYyMUh2Z01paDYwalpSb25MTnNMeDRDQ1YyOGJXQ1lCTElaTXRmSGhucGJkUXA0MDNIYUc0dWVzX251N2w3VnFfdmZ1YndJdFZEekh2N0JYeHNj?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
@@ -194,22 +194,21 @@
         ]
       },
       {
-        "title": "X-Sense SBS0A | Neue Base Station bringt Matter ins Sicherheitssystem - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-08-17T08:12:32+00:00",
-        "summary": "X-Sense SBS0A | Neue Base Station bringt Matter ins Sicherheitssystem SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVW5OY3NNN1pkdFJqOW5RUFlMaURySnBDZWRnajRieHd5RGNaLW9BcTRnbVc4TVJIQllzRHc3TWxlWjNUb2FsS3loZDYzMTAtcEpjODBMRVJwNHJRYXpENG13SGlkYUJGV2ZKWWdvZ21vSW85OTh5MkhBcW1Iem5yZnlheFlxclZfNnRnbkRrZkR4LV9VWEZwMncweFNXU3Z4a21ReQ?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Kooperation - Enpal und Bosch integrieren smarte Ther­mos­tate in WP-Angebot - TGA+E Fachplaner",
         "source": "TGA+E Fachplaner",
         "publishedAt": "2026-08-17T03:00:07+00:00",
         "summary": "Kooperation - Enpal und Bosch integrieren smarte Ther­mos­tate in WP-Angebot TGA+E Fachplaner",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVZEeDB6VjNfX0FjNWZEejhhdl9NR19LQW5GWFZKWXF5cmpHRWxMUWNfbW1IR3U1QVlHLUJVUUVrTHFIMXZqLWdyNXJ4LUZKeHZEa0g1dW84RW5jN2VneFp1OVJlTnF1REdqdkNUSUxySGJubnY5d3JoczVmcU5rb0ZaMkpTcjNrdFBjR193djFRaHRlWmRNX3lwb3VlQzZxYUdLYlF1ek5JTzY3S0E?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
         "tags": [
           "Bosch"
         ]
