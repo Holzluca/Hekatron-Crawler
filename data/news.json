@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T14:34:53.605465+00:00",
+  "generatedAt": "2026-08-24T15:32:39.110759+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -390,6 +390,16 @@
         ]
       },
       {
+        "title": "Alibaba startet Kapitalerhöhung für KI-Offensive - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-08-23T06:12:00+00:00",
+        "summary": "Alibaba startet Kapitalerhöhung für KI-Offensive Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEhMeDRIbGpDNEtBeDZIQ3U5VU95ckJkQ01tRE5qNzhxS3V4bjVPeDFybThoZ0ZEcXFDT09iUWRIWDktdnhYTFUyMUR6YWNXd21HVlVDT2ZQekdiZ29kdHlCanpWbXhlbU1lR3haQzN1S2RINjhFYWVhTHEySnhpV0twRTVOMUxrYU1fMXppNUVlNkF3T21DVFI2V2oxNGhuSloyRg?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
         "source": "myheimat.de",
         "publishedAt": "2026-08-22T13:52:50+00:00",
@@ -487,16 +497,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFJnQUZkY0FxMmpfZlRRQTd0cU5tVllIWGo3QWRBVE1aNXNrbjlxOEVZWXZkcEMzNFFQaGMzYTZFenJKZTVsMFJkdGI3RElhT19XZVdab1YteWxUbnZqdEdvenR4Y3p4U21LLVBvd2VHelJta3g4bHVoUzFNVFgtdWJCdDd0QmozUGc?oc=5",
         "tags": [
           "i-Magazin"
-        ]
-      },
-      {
-        "title": "US-Militärbasen in Japan: Schimmel, Asbest und einsturzgefährdete Gebäude - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "US-Militärbasen in Japan: Schimmel, Asbest und einsturzgefährdete Gebäude it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3FhTURRemxGNjBGY0Rfd3RLeEZ1QW9PTUV0cUdpRW8tWG9WQXItaldxZ1BQSzdNcF8tcU9KbTliSWxod3QzWmFMeWc4UHY1N081NjdJdFowZjVqU2RlQ3Z6VnZWV2lmSmNZNFNOVjNPaUs5ekJqVWsyN0xZSEV3VnB1eTFxVWxibjRsVWJCVlFpT09lMzJQN2VZTEpzRGRmbmw0TDFmYWhzdw?oc=5",
-        "tags": [
-          "it boltwise"
         ]
       }
     ]
