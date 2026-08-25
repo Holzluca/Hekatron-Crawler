@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T02:15:07.132534+00:00",
+  "generatedAt": "2026-08-25T03:24:49.186659+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -105,16 +105,6 @@
         ]
       },
       {
-        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-02T19:56:17+00:00",
-        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
         "source": "NZZ – Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -122,6 +112,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ – Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -150,13 +150,12 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 - Ad-hoc-news.de",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-08-18T19:36:20+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYm5IWUo5VlZIN0tMLU1WSkdWLXR5bjFOYk5DeVBSQUlUeERDampyNy1QX3lHTlVHcXR2MzZBeGRhOXpPWG1TSlB5cWVGV3llSEZ6dEo3MG5LaUwwUW1Ic2d6QXoyTmF1dTRhQlM2ZUliVFJzemNOQ2lxTU9NYWhad0RzWGdnVWpISk9NcHV3dVFXQUdCQmp4NVVZZy1kQUR0ZDlFT2pwdUJGNTJtWHo1MFdxNFFUTGQ0S2ZSMFNZRQ?oc=5",
+        "title": "Für den Herbst vorsorgen: Tink spendiert Exklusiv-Rabatt auf Bosch Smart Home - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-08-19T15:41:43+00:00",
+        "summary": "Für den Herbst vorsorgen: Tink spendiert Exklusiv-Rabatt auf Bosch Smart Home n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDBNLWo4MkhwdzNNQmZSR3pIUGVjR3lGc29RcFFYZklLV3lqWno1NXlwOU95YnpzSEVKR1BYNTJPNGdZYzIzUHpHWWd2djdRVzNKWFg2b3drNTgxZTUxWDF1U1lNa2ZFcHdhRTg5dVJrUTBlaEtNSHh6VG8wZVhUaXUyY0QzUHhFM0xPUUcwa1E5RnNsQm9zUUE3a2NQNUs0dUViLVZncU85QVQ5TmlFSDQ5S1g2b2REWEh4akR3R1lxTXZxbWdDRlYtd3oyZE0?oc=5",
         "tags": [
-          "Ei",
           "Bosch",
           "Smart Home"
         ]
@@ -203,16 +202,6 @@
         ]
       },
       {
-        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "ESP32-C6 und vier Sensoren: ESPHome startet eigenes Hardware-Kit - mobiFlip",
         "source": "mobiFlip",
         "publishedAt": "2026-08-13T07:00:00+00:00",
@@ -251,6 +240,16 @@
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYklkNWtfYW5ydUFfM0NzRm1jWGp3R3ZqV3RTa1dMNlpWR3liYVE5ZnhkZXJoaGNIbS0xSkJaY1JWSG9MTDlUVVFHR19MdkhJOTJaZ0hnRkxveV9rRGpLRkNsRThKNUx1ZUp1YjJJQno1SVNsSXExVkZxcy1TbkVxOGU4RmhzbVhFZmZBd2c5aVF6QTZ5VWFVdnUyZVZKTUZaN1Jmc2lwNlBzRUtRd05kR19qUGVtLVNnbzVwak5OUkRPdm5GMjUyaFlUMkMwdG1xaDhSYXA2bEY1Sk9pOTVMRTdkMWZfamU4WkFnUTlUZkt2UHZl?oc=5",
         "tags": [
           "Hager"
+        ]
+      },
+      {
+        "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-08-04T07:00:00+00:00",
+        "summary": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTGQxcXUyUjc2NWJZbVdfeUtIR25WamYwV1Y0WXNoNnk1QmRyWW9ZcjIxWnVyeDBKUlo4VEp0VnVpNzV1aTJsbXd3WXFidUpaUXhfclA0RndJd0t1Ri1TVlQ1Q0RfWWxjSXotNzRR?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
