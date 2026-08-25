@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T03:24:49.186659+00:00",
+  "generatedAt": "2026-08-25T04:06:52.930001+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -150,17 +150,6 @@
         ]
       },
       {
-        "title": "Für den Herbst vorsorgen: Tink spendiert Exklusiv-Rabatt auf Bosch Smart Home - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-08-19T15:41:43+00:00",
-        "summary": "Für den Herbst vorsorgen: Tink spendiert Exklusiv-Rabatt auf Bosch Smart Home n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDBNLWo4MkhwdzNNQmZSR3pIUGVjR3lGc29RcFFYZklLV3lqWno1NXlwOU95YnpzSEVKR1BYNTJPNGdZYzIzUHpHWWd2djdRVzNKWFg2b3drNTgxZTUxWDF1U1lNa2ZFcHdhRTg5dVJrUTBlaEtNSHh6VG8wZVhUaXUyY0QzUHhFM0xPUUcwa1E5RnNsQm9zUUE3a2NQNUs0dUViLVZncU85QVQ5TmlFSDQ5S1g2b2REWEh4akR3R1lxTXZxbWdDRlYtd3oyZE0?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside digital",
         "source": "inside digital",
         "publishedAt": "2026-08-18T11:28:00+00:00",
@@ -202,6 +191,16 @@
         ]
       },
       {
+        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "ESP32-C6 und vier Sensoren: ESPHome startet eigenes Hardware-Kit - mobiFlip",
         "source": "mobiFlip",
         "publishedAt": "2026-08-13T07:00:00+00:00",
@@ -209,16 +208,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQlNaYzBDcFZEVEp2UHdLQUFJYVkzYVFSZmFGWU9GOUVpR0RKSHZnZE1SSkZLSUpzOXdLZmRHTFNzV2pIZHoyUDJhZ2RMUUNfbGlvR1l0clVIOU9IQWhXZGwzTVluZmR4ZWI1QjFjOUs3UkJrVHZOd2hZUzlab2pBT0hxRHBWQlM2WXpJdGw5MDVjUdIBlwFBVV95cUxPdTJlYzBGX09YZ1o1M1VIVFVsU0ZNdFg0LTladGEwSzRhLVh1UTFhOGxfY25BS0sxR1l6Z3EyS2ZkcUxDdUpjZlhLWWNXc0xSNGZ2cndkWnM0VHlCQWRvS1QxU2djUzh5aG5uYXJEVzU0YUJvOXBXNFVwYTRXNmI5ZnR1TjN5dnlKTlMxXzRzcWpqUk1kN1dr?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "X-Sense Rauchmelder 12er-Set mit Basisstation für 183,71€ - klamm.de",
-        "source": "klamm.de",
-        "publishedAt": "2026-08-13T05:07:00+00:00",
-        "summary": "X-Sense Rauchmelder 12er-Set mit Basisstation für 183,71€ klamm.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm43SU4zRGZ6dGZ3ZE9ncWFGRERiclRLandObUZLYTFiOXVOby1hdURMYUM2NTZXTzRobU9hOVhqam9fS0ZLaXNyM2llRWZTQWZEbmRGZHFtbkhUNE5EU0h2TUthbmV6blJJUFB5UHprOGVaMTZlZ3dEOW5wOUppcFVjQzE2RVdXNjRnNHI3QkRSUFN3ZE4tQmR6cGFYUQ?oc=5",
-        "tags": [
-          "X-Sense"
         ]
       },
       {
@@ -250,6 +239,17 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTGQxcXUyUjc2NWJZbVdfeUtIR25WamYwV1Y0WXNoNnk1QmRyWW9ZcjIxWnVyeDBKUlo4VEp0VnVpNzV1aTJsbXd3WXFidUpaUXhfclA0RndJd0t1Ri1TVlQ1Q0RfWWxjSXotNzRR?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-07-31T18:00:28+00:00",
+        "summary": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXRNbFIwRkttQzVZb1hfb1VXTTVsYnRBUnd4am44OUN0UGdIejhMMFF3NGVQeUJPWE1yUXZLVE5NZlpEalBjSFhITEVwam9PTXMyMFZyTGJTSjRla3lfUG1QcU5OVHhaYlZNSzNPdE1aaTd5dkdaZ3VRb3VXMVhMS2hPWF9YSVN3N21xQVpqeTg2elhxSlhMQVlmcHYxTWFENnppRTVPR04xV1B3b3A0RktDYw?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
         ]
       }
     ],
