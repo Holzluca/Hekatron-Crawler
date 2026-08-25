@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T05:56:18.953175+00:00",
+  "generatedAt": "2026-08-25T06:39:54.706237+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -105,16 +105,6 @@
         ]
       },
       {
-        "title": "Keppel Data Centres in Frankfurt/Main - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-02T19:56:17+00:00",
-        "summary": "Keppel Data Centres in Frankfurt/Main Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yWmlNSS02Vy1kWDNGd3ZKd3dNTkhKdHdGNHQ4UU90dmkxLWdNYmJOQS1kNXBnaE1YWkt6b1R2RTdRbkk3TlBSS0laTl9VellMREZwNnVYaVdIOUx1TFFXYTMyanUzbng5MHc?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
         "source": "NZZ – Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -122,6 +112,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ – Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -145,6 +145,18 @@
         "summary": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren n-tv.de",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzczdEJCaHo5Tld2TDhSeGtlcXFkQndjVzJMUXFhX0tpUDFTdTBwYk1yUDNKM3c2R095cVpaTFdIWi1Hc3dpTExUOWh1WGdidlZfRGdDeDNodWZubU1GWDhDRVhCUFRzUEowYzFGM09VQW1Zd09UbXZCd2NodFQ0UlJnY3lGYkc5WWtPMTByWnk5NmRIazRzTTlrak02MUo2U3JNS1FhdG9fOVV6MGFheG85aTRUT09zVTBmSExpSFpRWGRpd0dBdmRJV1FJVjA?oc=5",
         "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 - Ad-hoc-news.de",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-08-18T19:36:20+00:00",
+        "summary": "Bosch Smart Home Raumthermostat II für Heizkörper mit Zigbee 3.0 Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYm5IWUo5VlZIN0tMLU1WSkdWLXR5bjFOYk5DeVBSQUlUeERDampyNy1QX3lHTlVHcXR2MzZBeGRhOXpPWG1TSlB5cWVGV3llSEZ6dEo3MG5LaUwwUW1Ic2d6QXoyTmF1dTRhQlM2ZUliVFJzemNOQ2lxTU9NYWhad0RzWGdnVWpISk9NcHV3dVFXQUdCQmp4NVVZZy1kQUR0ZDlFT2pwdUJGNTJtWHo1MFdxNFFUTGQ0S2ZSMFNZRQ?oc=5",
+        "tags": [
+          "Ei",
           "Bosch",
           "Smart Home"
         ]
@@ -211,6 +223,16 @@
         ]
       },
       {
+        "title": "X-Sense Rauchmelder 12er-Set mit Basisstation für 183,71€ - klamm.de",
+        "source": "klamm.de",
+        "publishedAt": "2026-08-13T05:07:00+00:00",
+        "summary": "X-Sense Rauchmelder 12er-Set mit Basisstation für 183,71€ klamm.de",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm43SU4zRGZ6dGZ3ZE9ncWFGRERiclRLandObUZLYTFiOXVOby1hdURMYUM2NTZXTzRobU9hOVhqam9fS0ZLaXNyM2llRWZTQWZEbmRGZHFtbkhUNE5EU0h2TUthbmV6blJJUFB5UHprOGVaMTZlZ3dEOW5wOUppcFVjQzE2RVdXNjRnNHI3QkRSUFN3ZE4tQmR6cGFYUQ?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiFlip",
         "source": "mobiFlip",
         "publishedAt": "2026-08-12T06:45:45+00:00",
@@ -229,27 +251,6 @@
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYklkNWtfYW5ydUFfM0NzRm1jWGp3R3ZqV3RTa1dMNlpWR3liYVE5ZnhkZXJoaGNIbS0xSkJaY1JWSG9MTDlUVVFHR19MdkhJOTJaZ0hnRkxveV9rRGpLRkNsRThKNUx1ZUp1YjJJQno1SVNsSXExVkZxcy1TbkVxOGU4RmhzbVhFZmZBd2c5aVF6QTZ5VWFVdnUyZVZKTUZaN1Jmc2lwNlBzRUtRd05kR19qUGVtLVNnbzVwak5OUkRPdm5GMjUyaFlUMkMwdG1xaDhSYXA2bEY1Sk9pOTVMRTdkMWZfamU4WkFnUTlUZkt2UHZl?oc=5",
         "tags": [
           "Hager"
-        ]
-      },
-      {
-        "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-08-04T07:00:00+00:00",
-        "summary": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTGQxcXUyUjc2NWJZbVdfeUtIR25WamYwV1Y0WXNoNnk1QmRyWW9ZcjIxWnVyeDBKUlo4VEp0VnVpNzV1aTJsbXd3WXFidUpaUXhfclA0RndJd0t1Ri1TVlQ1Q0RfWWxjSXotNzRR?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-07-31T18:00:28+00:00",
-        "summary": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXRNbFIwRkttQzVZb1hfb1VXTTVsYnRBUnd4am44OUN0UGdIejhMMFF3NGVQeUJPWE1yUXZLVE5NZlpEalBjSFhITEVwam9PTXMyMFZyTGJTSjRla3lfUG1QcU5OVHhaYlZNSzNPdE1aaTd5dkdaZ3VRb3VXMVhMS2hPWF9YSVN3N21xQVpqeTg2elhxSlhMQVlmcHYxTWFENnppRTVPR04xV1B3b3A0RktDYw?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
         ]
       }
     ],
