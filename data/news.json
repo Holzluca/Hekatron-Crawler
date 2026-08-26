@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T03:31:33.011033+00:00",
+  "generatedAt": "2026-08-26T04:33:10.561417+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,14 +127,37 @@
     ],
     "pfs": [
       {
-        "title": "Tink: Bosch Smart Home Zwischenstecker kompakt - n-tv.de",
+        "title": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-08-20T09:30:00+00:00",
+        "summary": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUF6QmFzN1NpOVBKVzE2S2dydFdydGpuNHNEMUMxeU5Yc1FISkdLUnZfOHIyTzBaRW05NWZYSE5lUzg5UE5XSFlGVGRuSXJFU2Y5OWVzQmh2X21uYUlPWTFRSnB1WU42aXdMXzdCaWF3V2p5RmVydF9jM3hHcDRSWDdsZVJJMzVocVhn?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-08-19T16:18:21+00:00",
-        "summary": "Tink: Bosch Smart Home Zwischenstecker kompakt n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlJ3TGR1c0lrdWpHdVFXdENobjBlOHZDXzNlRUFhd3lDMGdHOVBFQmNXNXlSNTF6YlVJRm1IQ0tkZWhZQ0pDMXRzTVh0MkxPUm1VSDN3ekZfcHl5OFhRWGFFY3hrR3BodjMzUWlOZ1BVeXN5RVc5U19RS00tbHd5WGFsOW9pUFNqdjBrOWt6aGxTU2EzX1k1OEtPRFpsdw?oc=5",
+        "summary": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzczdEJCaHo5Tld2TDhSeGtlcXFkQndjVzJMUXFhX0tpUDFTdTBwYk1yUDNKM3c2R095cVpaTFdIWi1Hc3dpTExUOWh1WGdidlZfRGdDeDNodWZubU1GWDhDRVhCUFRzUEowYzFGM09VQW1Zd09UbXZCd2NodFQ0UlJnY3lGYkc5WWtPMTByWnk5NmRIazRzTTlrak02MUo2U3JNS1FhdG9fOVV6MGFheG85aTRUT09zVTBmSExpSFpRWGRpd0dBdmRJV1FJVjA?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside digital",
+        "source": "inside digital",
+        "publishedAt": "2026-08-18T11:28:00+00:00",
+        "summary": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test inside digital",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDJsQU92NFZaWm82LU1UMWxoaGlPaEdWMmU0OGQ0eHBwTC1XcVNCNTZPWWVMSmJtQ3p1VWN3bGUwYndSbXZuWHRucHFXRUtDbTEyd2tDZlFzamFfTXFFTjMtVHVkbVJYUFlIN1BTbi1LNFYybHhIenF3TGtpTF9VUjRTeUtSMmFjWG1zbGVESExkYUI0eE5maEhvaE1ic2dlUzdDcXFVVFVJMzM0eElBdGJBQkw2QdIBuwFBVV95cUxOeU5lcEFmVVY2Y1VjVkkxVE9ZbU9nOV9zakl6SjhhUDZhU0dlOHRsdFpIdDBjTEoyRV9yd0VMbTVfOUNMeHlNNUN4QlRoNDRJNkxWQ2tiU1RHNW5OX2VPa3pOa21LUkt0MTN3SUt0Qi1iSExUQzYzWGw4YWtkVWlscUdmeHdFdTdfeFN5WnJvR0xHSGZ1NGxJUkdLTlZ4Vm5iM0JQb2hmc3ZjaFFyeW5xYnk3LWNiU1JiSkYw?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
         ]
       },
       {
@@ -158,6 +181,26 @@
         ]
       },
       {
+        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "ESP32-C6 und vier Sensoren: ESPHome startet eigenes Hardware-Kit - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "ESP32-C6 und vier Sensoren: ESPHome startet eigenes Hardware-Kit mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQlNaYzBDcFZEVEp2UHdLQUFJYVkzYVFSZmFGWU9GOUVpR0RKSHZnZE1SSkZLSUpzOXdLZmRHTFNzV2pIZHoyUDJhZ2RMUUNfbGlvR1l0clVIOU9IQWhXZGwzTVluZmR4ZWI1QjFjOUs3UkJrVHZOd2hZUzlab2pBT0hxRHBWQlM2WXpJdGw5MDVjUdIBlwFBVV95cUxPdTJlYzBGX09YZ1o1M1VIVFVsU0ZNdFg0LTladGEwSzRhLVh1UTFhOGxfY25BS0sxR1l6Z3EyS2ZkcUxDdUpjZlhLWWNXc0xSNGZ2cndkWnM0VHlCQWRvS1QxU2djUzh5aG5uYXJEVzU0YUJvOXBXNFVwYTRXNmI5ZnR1TjN5dnlKTlMxXzRzcWpqUk1kN1dr?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "X-Sense Rauchmelder 12er-Set mit Basisstation für 183,71€ - klamm.de",
         "source": "klamm.de",
         "publishedAt": "2026-08-13T05:07:00+00:00",
@@ -165,6 +208,37 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm43SU4zRGZ6dGZ3ZE9ncWFGRERiclRLandObUZLYTFiOXVOby1hdURMYUM2NTZXTzRobU9hOVhqam9fS0ZLaXNyM2llRWZTQWZEbmRGZHFtbkhUNE5EU0h2TUthbmV6blJJUFB5UHprOGVaMTZlZ3dEOW5wOUppcFVjQzE2RVdXNjRnNHI3QkRSUFN3ZE4tQmR6cGFYUQ?oc=5",
         "tags": [
           "X-Sense"
+        ]
+      },
+      {
+        "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-08-12T07:00:00+00:00",
+        "summary": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZIcnB1SlQ5NUtNdXZ6YzM4U1dxQkoxSVp1UjlkWkVhSTVwR091WGx6N0ZSQksta1NmMXg2RmpkUnZCbllJN3pEWkhjODVzWXpzTVNBUEFfOFF6alpza2U1Vy1HcFFXb0xRZFI4dVI0RGVjS3hMbG82N3ZlYXFpeGZ0N1N6MjF1S1ZfWnRXZGVWT1FxVmJOVndkcmNEQ0w50gGmAUFVX3lxTE5HUFpmQnZ6UXc0VExEYlVKU2pyNkg3YVJkNXFnb0JtdFZac2dyNlJYMkVNckpXZzJoLWRFaWR5UlExYWlpeDNvTHRQYWxiS1ktcG5ncVY0THRqUFVZNmFMektnMmNCUThndl9BRmMzWDg5aXAzV08wY0R1alZlcXBEVWtFd1ZwWWh0RF9lVzFzOHBuaFQ0X3pKZHA2TmVqS1Izc0VaN0E?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-08-05T07:00:00+00:00",
+        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYklkNWtfYW5ydUFfM0NzRm1jWGp3R3ZqV3RTa1dMNlpWR3liYVE5ZnhkZXJoaGNIbS0xSkJaY1JWSG9MTDlUVVFHR19MdkhJOTJaZ0hnRkxveV9rRGpLRkNsRThKNUx1ZUp1YjJJQno1SVNsSXExVkZxcy1TbkVxOGU4RmhzbVhFZmZBd2c5aVF6QTZ5VWFVdnUyZVZKTUZaN1Jmc2lwNlBzRUtRd05kR19qUGVtLVNnbzVwak5OUkRPdm5GMjUyaFlUMkMwdG1xaDhSYXA2bEY1Sk9pOTVMRTdkMWZfamU4WkFnUTlUZkt2UHZl?oc=5",
+        "tags": [
+          "Hager"
+        ]
+      },
+      {
+        "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-08-04T07:00:00+00:00",
+        "summary": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTGQxcXUyUjc2NWJZbVdfeUtIR25WamYwV1Y0WXNoNnk1QmRyWW9ZcjIxWnVyeDBKUlo4VEp0VnVpNzV1aTJsbXd3WXFidUpaUXhfclA0RndJd0t1Ri1TVlQ1Q0RfWWxjSXotNzRR?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -176,78 +250,6 @@
         "tags": [
           "Ei",
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Dieser Rauchmelder warnt sogar per Sprachausgabe - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-07-31T07:00:00+00:00",
-        "summary": "Dieser Rauchmelder warnt sogar per Sprachausgabe n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTRtOTRHZklBM1ROQzN1VlQ4LUtLQjZxWmNHMDFhME5MNE42ZGpxV1FzVWw1MGUxcXVMem14N05wemM3RV9DWG80VkdHR1VKSXdEU2hXaURHMGtGaTJySzBuMG1SUHVUdGxvU2ZORXhwLWhxOFFzOC1yTUlDX1d1TUZaWWdXMnoxNmVabzI2TU16YWJNODVYSnlyYTJlOUZLSHFDRkc5VkY?oc=5",
-        "tags": [
-          "n-tv.de"
-        ]
-      },
-      {
-        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
-        "source": "GameStar",
-        "publishedAt": "2026-07-03T07:00:00+00:00",
-        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "X-Sense bindet Warnmelder in Home Assistant ein - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "X-Sense bindet Warnmelder in Home Assistant ein SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-06-25T07:00:00+00:00",
-        "summary": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2cwN2NWdWhVeU52QmQ5RW5EQ2pLTUN6b3hTLW8wcVlZVDcxWWZ1OWtSQUU5a01INVRMeDliVHoxWWRZelBXQTFkMTUxaTZ5eEZ4bUFtbmd0MGlldURneTM5NE05amUxZEhWOUZnUzNyUEVyTHFBYkFMbmV2ZmNBenhUVWxkdW5BejJqUVlKZXhRM2VxZVltZg?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht - GameStar",
-        "source": "GameStar",
-        "publishedAt": "2026-06-25T07:00:00+00:00",
-        "summary": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht GameStar",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJkNjdYUEd6djc2VEZOeDhlM215Vy1VLTVabGlkZ1lyMzAxcXVyWmlpWUEzQTZmbzBjUzZKRm5WVTQxanU1Z0dHdGg0SjBsMV81blhwbkhPSzBtanRvN3FsN1h2NnhpNkZFbVNjTkM4TUhMQjlQLUJwSXk3QVhzVTBTVXE4TElRbVZtOGxqLVlXZw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-06-23T07:00:00+00:00",
-        "summary": "Preisalarm! Smart-Rauchmelder am Prime Day reduziert n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZThCZ3VHclRMeDN2aUFGWUMxVmk1QjhieVh1dnRCYnlyVEJCWmY1VlFvbTVrYWVjX2hfNXNMUFg1cUNjSEFGMTl3MnZEdGNQNUZCeVljZHpTUnVBYkU1bjZwamgzX2NnS2luZk1hakVVMnpoQTVDSW14SERPSUJBcmxGOTNad2RoQl84SXBSSC0yWUNOaXZHYTJmWXgwWmoyMzRRRm5rbjMxbDBo?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
