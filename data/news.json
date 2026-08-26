@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T18:12:13.019553+00:00",
+  "generatedAt": "2026-08-26T20:27:55.524223+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -105,16 +105,6 @@
         ]
       },
       {
-        "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-07T19:59:10+00:00",
-        "summary": "Unbemannt, aber nie unbeaufsichtigt Siemens",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
         "source": "NZZ – Neue Zürcher Zeitung",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -122,6 +112,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ – Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -387,16 +387,6 @@
         ]
       },
       {
-        "title": "Digitalisierung und KI im Brandschutz: Wie intelligente Werkzeuge Fachkräfte entlasten können. - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-08-24T06:21:00+00:00",
-        "summary": "Digitalisierung und KI im Brandschutz: Wie intelligente Werkzeuge Fachkräfte entlasten können. PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYlBCMHdZWktIVmhfZlNIMzBjazF1eDJOUUtBa0hxVnAzSC05eXJQUDRCeFdSVi1wcHFkT0NXZnFZcXp5RXBUVE9aNWIwUTZCRWxvT1BhZUZCenZ0LXRNWnVnZmhVRFhXSTdHYk9wc203NU5UV2xvbEltWUJ6aUFzT1EtSXlFYklhYzJtVEI2QlFnSGoyR0FVM0ZBaDYxcHcyLWRBTnZ2R0ZKNzZGaVZqQ3cyYTM3b2p5Z0xnWUNHTmJWWEZZSTVXSl8zQmppMnMyNTAwQ0c0WWYyeTYxc0dxaGtyTmJUZDNMd2JGZG83dU1BenV0N2J0Y1g1aHBpUVRrWWtVVw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
         "source": "myheimat.de",
         "publishedAt": "2026-08-22T13:52:50+00:00",
@@ -494,6 +484,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3FhTURRemxGNjBGY0Rfd3RLeEZ1QW9PTUV0cUdpRW8tWG9WQXItaldxZ1BQSzdNcF8tcU9KbTliSWxod3QzWmFMeWc4UHY1N081NjdJdFowZjVqU2RlQ3Z6VnZWV2lmSmNZNFNOVjNPaUs5ekJqVWsyN0xZSEV3VnB1eTFxVWxibjRsVWJCVlFpT09lMzJQN2VZTEpzRGRmbmw0TDFmYWhzdw?oc=5",
         "tags": [
           "it boltwise"
+        ]
+      },
+      {
+        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
+        "source": "BILD",
+        "publishedAt": "2026-08-11T07:00:00+00:00",
+        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       }
     ]
