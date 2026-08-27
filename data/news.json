@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-08-27T07:46:53.708283+00:00",
+  "generatedAt": "2026-08-27T18:43:24.382411+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-08-17T07:44:17+00:00",
+        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
       {
         "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
         "source": "simplywall.st",
@@ -113,19 +123,19 @@
         "tags": [
           "Bosch"
         ]
-      },
-      {
-        "title": "Unbemannt, aber nie unbeaufsichtigt - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-07T19:59:10+00:00",
-        "summary": "Unbemannt, aber nie unbeaufsichtigt Siemens",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiUFVaWlpKUFllQlFqTFhYS3lzenNnSHU0TExIZkhvdldEU1QtSHhTWU51MngtMUE3TFBSa243ajVoNjlkYU5sdl9URG9sdG8ydF9IWFQ5TmJsZlZYTXVzcExabWpMeDMzckpQaUw2TEJ5SFpQMzRUQmZVdnpSZw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - Dr. Windows",
+        "source": "Dr. Windows",
+        "publishedAt": "2026-08-27T09:54:11+00:00",
+        "summary": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert Dr. Windows",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMy0zdEdoNU12bm5udGQ1ZEpSOEo2TUNGMXEybmhPaHNFVEpleDFucjVTZ0VIRFhyYTRJeGE0M3VlbFhEa0VESlRLX3hBZzBtOXQ2QkVXVzAzc3J0emJiQndvZm8zTWJuMU8tR2N5aDRFMDdOVUMtQmUtOGZJY1Z1SFZzbDFhX0ZDTEdJYXBzSjZRXzlHOHNoWmNpUW5XR0pxVjlF?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
       {
         "title": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update - Netzwelt",
         "source": "Netzwelt",
@@ -158,6 +168,17 @@
         "tags": [
           "Ei",
           "Bosch"
+        ]
+      },
+      {
+        "title": "X-Sense SBS0A | Neue Base Station bringt Matter ins Sicherheitssystem - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-08-17T08:12:32+00:00",
+        "summary": "X-Sense SBS0A | Neue Base Station bringt Matter ins Sicherheitssystem SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVW5OY3NNN1pkdFJqOW5RUFlMaURySnBDZWRnajRieHd5RGNaLW9BcTRnbVc4TVJIQllzRHc3TWxlWjNUb2FsS3loZDYzMTAtcEpjODBMRVJwNHJRYXpENG13SGlkYUJGV2ZKWWdvZ21vSW85OTh5MkhBcW1Iem5yZnlheFlxclZfNnRnbkRrZkR4LV9VWEZwMncweFNXU3Z4a21ReQ?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
         ]
       },
       {
@@ -229,27 +250,6 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTGQxcXUyUjc2NWJZbVdfeUtIR25WamYwV1Y0WXNoNnk1QmRyWW9ZcjIxWnVyeDBKUlo4VEp0VnVpNzV1aTJsbXd3WXFidUpaUXhfclA0RndJd0t1Ri1TVlQ1Q0RfWWxjSXotNzRR?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-07-31T18:00:28+00:00",
-        "summary": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXRNbFIwRkttQzVZb1hfb1VXTTVsYnRBUnd4am44OUN0UGdIejhMMFF3NGVQeUJPWE1yUXZLVE5NZlpEalBjSFhITEVwam9PTXMyMFZyTGJTSjRla3lfUG1QcU5OVHhaYlZNSzNPdE1aaTd5dkdaZ3VRb3VXMVhMS2hPWF9YSVN3N21xQVpqeTg2elhxSlhMQVlmcHYxTWFENnppRTVPR04xV1B3b3A0RktDYw?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Dieser Rauchmelder warnt sogar per Sprachausgabe - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-07-31T07:00:00+00:00",
-        "summary": "Dieser Rauchmelder warnt sogar per Sprachausgabe n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTRtOTRHZklBM1ROQzN1VlQ4LUtLQjZxWmNHMDFhME5MNE42ZGpxV1FzVWw1MGUxcXVMem14N05wemM3RV9DWG80VkdHR1VKSXdEU2hXaURHMGtGaTJySzBuMG1SUHVUdGxvU2ZORXhwLWhxOFFzOC1yTUlDX1d1TUZaWWdXMnoxNmVabzI2TU16YWJNODVYSnlyYTJlOUZLSHFDRkc5VkY?oc=5",
-        "tags": [
-          "n-tv.de"
         ]
       }
     ],
@@ -449,7 +449,7 @@
       {
         "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
         "source": "tagesschau.de",
-        "publishedAt": "2026-08-19T14:40:20+00:00",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
         "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
@@ -464,6 +464,16 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnhmeDNORzRDX2d4bkZnS1E4R3NIZktUTGVGa21oSFhQNXVPQVBRTVJoa2hVamRDMzZVN0ZXUUVOWnNxQlRrbHpiczZPSS1rUFU1WUlJcml4di1IcmZ4TnlMNE1iSGVlV0pKd2FfRWVkR0laSVluYXBGd2V0WHBLS3FLdVRUOVVSelk0ZTVxRjU1empGQzBpWUJld2Zldw?oc=5",
         "tags": [
           "it boltwise"
+        ]
+      },
+      {
+        "title": "Nachhaltigkeit zertifizieren: Systeme im Überblick - Internet für Architekten",
+        "source": "Internet für Architekten",
+        "publishedAt": "2026-08-17T15:11:08+00:00",
+        "summary": "Nachhaltigkeit zertifizieren: Systeme im Überblick Internet für Architekten",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1c5dzZNQTBpZDZvSlBJMjBSUU8tYVBCWm9ITE1jS2trZ2pzNDRoUW5JVHRXOWxySk1VMFN2TlExSE53NzJWbG40UnBBTHl1NEh1aDl1b2FZbTA1Zm9NS21wMW03UFdxejEwSkU5c3FZR0NwTjNQaFh4NU9nZFFwTEk0V3Z2Qk5DR0E?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       },
       {
@@ -484,16 +494,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFJnQUZkY0FxMmpfZlRRQTd0cU5tVllIWGo3QWRBVE1aNXNrbjlxOEVZWXZkcEMzNFFQaGMzYTZFenJKZTVsMFJkdGI3RElhT19XZVdab1YteWxUbnZqdEdvenR4Y3p4U21LLVBvd2VHelJta3g4bHVoUzFNVFgtdWJCdDd0QmozUGc?oc=5",
         "tags": [
           "i-Magazin"
-        ]
-      },
-      {
-        "title": "US-Militärbasen in Japan: Schimmel, Asbest und einsturzgefährdete Gebäude - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "US-Militärbasen in Japan: Schimmel, Asbest und einsturzgefährdete Gebäude it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3FhTURRemxGNjBGY0Rfd3RLeEZ1QW9PTUV0cUdpRW8tWG9WQXItaldxZ1BQSzdNcF8tcU9KbTliSWxod3QzWmFMeWc4UHY1N081NjdJdFowZjVqU2RlQ3Z6VnZWV2lmSmNZNFNOVjNPaUs5ekJqVWsyN0xZSEV3VnB1eTFxVWxibjRsVWJCVlFpT09lMzJQN2VZTEpzRGRmbmw0TDFmYWhzdw?oc=5",
-        "tags": [
-          "it boltwise"
         ]
       }
     ]
