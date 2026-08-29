@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T19:27:09.452750+00:00",
+  "generatedAt": "2026-08-29T21:52:39.765513+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -255,16 +255,6 @@
     ],
     "doors": [
       {
-        "title": "Dormakaba übernimmt Azure Access und Apollo Security in den USA - TradingView",
-        "source": "TradingView",
-        "publishedAt": "2026-08-17T16:47:12+00:00",
-        "summary": "Dormakaba übernimmt Azure Access und Apollo Security in den USA TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zNGRwSUlzNVhDYVppcFk4aTVZelN5bG85T1J0Qy1sMXdGNTJuVzBrRWR0VVZ6Mm03ZFc1Nkd2TmdEYkdnOF9VZEhiZy02dWMta211MnA1Qm93b0llV1FEVTdn?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
         "source": "Apollo Hospitals",
         "publishedAt": "2026-08-17T04:18:14+00:00",
@@ -372,6 +362,16 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
         ]
       }
     ],
