@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-08-30T18:08:49.208471+00:00",
+  "generatedAt": "2026-08-30T21:19:44.100366+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Globaler Schutz und Schutz 2026 - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-08-06T16:58:38+00:00",
+        "summary": "Globaler Schutz und Schutz 2026 Siemens",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
         "source": "ingenieur.de",
@@ -113,16 +123,6 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
-      },
-      {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -149,9 +149,9 @@
       {
         "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - Dr. Windows",
         "source": "Dr. Windows",
-        "publishedAt": "2026-08-27T09:54:11+00:00",
+        "publishedAt": "2026-08-27T09:57:34+00:00",
         "summary": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert Dr. Windows",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMy0zdEdoNU12bm5udGQ1ZEpSOEo2TUNGMXEybmhPaHNFVEpleDFucjVTZ0VIRFhyYTRJeGE0M3VlbFhEa0VESlRLX3hBZzBtOXQ2QkVXVzAzc3J0emJiQndvZm8zTWJuMU8tR2N5aDRFMDdOVUMtQmUtOGZJY1Z1SFZzbDFhX0ZDTEdJYXBzSjZRXzlHOHNoWmNpUW5XR0pxVjlF?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLVZjRnprdW8tVzhTaDJrLWJWV1BpN3l3Vi1lZkFyVE1ETGF4UWEtdG55NE9qWFFPSUp3N1l0YTEwTkRyTjZzeGN5cEhqNGRFWGdodHhLZERQeVh6eEN5eF84NkNaaFJhSjM1ZUFsUkpxQ21URGxITnRrZ1ItYmlRSUJ4Zndvd2Z6dUlycjQ1N1k?oc=5",
         "tags": [
           "X-Sense"
         ]
@@ -285,6 +285,16 @@
         ]
       },
       {
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
+        "tags": [
+          "Börsen-Zeitung"
+        ]
+      },
+      {
         "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
         "source": "TradingView",
         "publishedAt": "2026-07-27T07:00:00+00:00",
@@ -363,16 +373,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
-        ]
       }
     ],
     "trends": [
@@ -437,6 +437,26 @@
         ]
       },
       {
+        "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - Elektrobranche",
+        "source": "Elektrobranche",
+        "publishedAt": "2026-08-20T10:29:12+00:00",
+        "summary": "go-e & Tekko: Kooperation ist offiziell besiegelt Elektrobranche",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNGNUeThTSVk0YkRDTF90MGVXVTRORUd6U3ZSejBoTDliQkZrbzdUVUF4VER1Ym1mQlBDbld2Y1lKN190b1RQVnlUNGJxQkhERGlEVDhNQl80LUxHeVhmVTE0RGxJLU1YTWxGQVBTWHNMdGZLUExBS1hDZw?oc=5",
+        "tags": [
+          "Elektrobranche"
+        ]
+      },
+      {
+        "title": "Cyber Resilience Act: Pflichten für die Gebäudeautomation - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "Cyber Resilience Act: Pflichten für die Gebäudeautomation elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZm5Uc0VyWkhjNWtodERvLU54VkpndVBoaVdoSVd5aUZWRXdzOVRfUGNNWmxyN2ZIZkNUcWlkaGg5Ti1vTFd2Y0I4U2FUTDN5dVRCc2dOejdaU2loNWdHcDltc2ZNUUVMaUJpLTYtdjJlV0FIdG1iVWtlRUxNRXhDRmF0OF9SZWNPVzRhUkJuYzVDOG1wOEE?oc=5",
+        "tags": [
+          "Gebäudeautomation"
+        ]
+      },
+      {
         "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
         "source": "ARD Mediathek",
         "publishedAt": "2026-08-19T15:38:01+00:00",
@@ -474,26 +494,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3FhTURRemxGNjBGY0Rfd3RLeEZ1QW9PTUV0cUdpRW8tWG9WQXItaldxZ1BQSzdNcF8tcU9KbTliSWxod3QzWmFMeWc4UHY1N081NjdJdFowZjVqU2RlQ3Z6VnZWV2lmSmNZNFNOVjNPaUs5ekJqVWsyN0xZSEV3VnB1eTFxVWxibjRsVWJCVlFpT09lMzJQN2VZTEpzRGRmbmw0TDFmYWhzdw?oc=5",
         "tags": [
           "it boltwise"
-        ]
-      },
-      {
-        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
-        "source": "BILD",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
-        ]
-      },
-      {
-        "title": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-08-07T07:00:00+00:00",
-        "summary": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGxRMVRGV3dwT2Y3YXQ3Qmh4Z19BYmVFdmpvb2VQN3hyZlVaQ09lUnd4SkRxMU1PZ2doUDM0d1VNNEcyMVJnVG5WazlNWmkzMDMtODUxeV91YWlxNjJoSnQ3WEY4UVV0d2lmclg1d2ViV0kycUtjYmg3Q2tjVkZVOEdleVlDbUpzV0pYQTNreDBBZHZuUVIwa192LTl6R3o3LUY2YzFaX0VHamxCTktlcDZXY0w?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
         ]
       }
     ]
