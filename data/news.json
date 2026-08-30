@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T09:22:53.710079+00:00",
+  "generatedAt": "2026-08-30T14:28:18.415990+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -222,16 +222,6 @@
         ]
       },
       {
-        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "X-Sense Rauchmelder 12er-Set mit Basisstation für 183,71€ - klamm.de",
         "source": "klamm.de",
         "publishedAt": "2026-08-13T05:07:00+00:00",
@@ -251,19 +241,19 @@
           "Ei",
           "Bosch"
         ]
+      },
+      {
+        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-08-05T07:00:00+00:00",
+        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYklkNWtfYW5ydUFfM0NzRm1jWGp3R3ZqV3RTa1dMNlpWR3liYVE5ZnhkZXJoaGNIbS0xSkJaY1JWSG9MTDlUVVFHR19MdkhJOTJaZ0hnRkxveV9rRGpLRkNsRThKNUx1ZUp1YjJJQno1SVNsSXExVkZxcy1TbkVxOGU4RmhzbVhFZmZBd2c5aVF6QTZ5VWFVdnUyZVZKTUZaN1Jmc2lwNlBzRUtRd05kR19qUGVtLVNnbzVwak5OUkRPdm5GMjUyaFlUMkMwdG1xaDhSYXA2bEY1Sk9pOTVMRTdkMWZfamU4WkFnUTlUZkt2UHZl?oc=5",
+        "tags": [
+          "Hager"
+        ]
       }
     ],
     "doors": [
-      {
-        "title": "Finanzgigant Apollo wird Opfer eines Hackerangriffs - Zamin.uz",
-        "source": "Zamin.uz",
-        "publishedAt": "2026-08-21T13:54:34+00:00",
-        "summary": "Finanzgigant Apollo wird Opfer eines Hackerangriffs Zamin.uz",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUFHc25QSUp0dXZmS2J4LXNodjUtRXNQR2NmNWd1VXczcnVwcWQ1TlNFWkI5bWRoWEJkb2U4cjU0TjFFWUFROU1rT19IZ0FLa2lVZXNEZDBYc1ZrdkdXa19pRXF2aXhBSF9mT3pXdE9OZ0pLcU9lS3oyYkhqM0pfbHgwY1ZreEFnT2VhVzlXekZtTmRUUDhoQno2aw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
         "source": "Apollo Hospitals",
@@ -292,6 +282,16 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
           "t3n"
+        ]
+      },
+      {
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
+        "tags": [
+          "Börsen-Zeitung"
         ]
       },
       {
