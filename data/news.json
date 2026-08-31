@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T17:10:09.992484+00:00",
+  "generatedAt": "2026-08-31T21:58:30.253437+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -54,10 +54,10 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - press.siemens.com",
-        "source": "press.siemens.com",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
         "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude press.siemens.com",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
@@ -105,10 +105,10 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - imtest.de",
+        "source": "imtest.de",
         "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte imtest.de",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
@@ -126,16 +126,6 @@
       }
     ],
     "pfs": [
-      {
-        "title": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-08-29T10:12:48+00:00",
-        "summary": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEZObkx3XzRkSW5xRVpMZ2NKSWFNbVJFQmlQOFdFN3lhQzV6U0ZJajU3RTR0b3c2eDcyS3ZDaGNHdkZabWE1SDdXei1hYWxwQV8wVmxxcTdBSFd2RzdOcGFMY2FBMnVZUG1fdmE0NDJ4bjVhTVVMdmlwcE5wQ05ySmRXTXjSAYoBQVVfeXFMTjRuMjUyaE9CUTBJcFQ2NGE0SmdxbXFVU2NQaE9xZUVBVkl3YmR4NUtOZzRQaXhKSTUwamwweVhzZTJhMUJVck1VeXpnZl8zcEI5LWVXX0tuUkc3aENkandYTVRPQTd3c2Q3TE9oRHgtaENleDNmQ3JTaGdHX09Xa01EU0x5MDFIM093?oc=5",
-        "tags": [
-          "Smart Home"
-        ]
-      },
       {
         "title": "Rauchmelderpflicht in Sachsen: Was hat sie gebracht? - Freie Presse",
         "source": "Freie Presse",
@@ -157,10 +147,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update - Netzwelt",
-        "source": "Netzwelt",
+        "title": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update - netzwelt.de",
+        "source": "netzwelt.de",
         "publishedAt": "2026-08-20T09:30:00+00:00",
-        "summary": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update Netzwelt",
+        "summary": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update netzwelt.de",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUF6QmFzN1NpOVBKVzE2S2dydFdydGpuNHNEMUMxeU5Yc1FISkdLUnZfOHIyTzBaRW05NWZYSE5lUzg5UE5XSFlGVGRuSXJFU2Y5OWVzQmh2X21uYUlPWTFRSnB1WU42aXdMXzdCaWF3V2p5RmVydF9jM3hHcDRSWDdsZVJJMzVocVhn?oc=5",
         "tags": [
           "Ei",
@@ -180,17 +170,6 @@
         ]
       },
       {
-        "title": "Tink: Bosch Smart Home Zwischenstecker kompakt - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-08-19T16:18:21+00:00",
-        "summary": "Tink: Bosch Smart Home Zwischenstecker kompakt n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlJ3TGR1c0lrdWpHdVFXdENobjBlOHZDXzNlRUFhd3lDMGdHOVBFQmNXNXlSNTF6YlVJRm1IQ0tkZWhZQ0pDMXRzTVh0MkxPUm1VSDN3ekZfcHl5OFhRWGFFY3hrR3BodjMzUWlOZ1BVeXN5RVc5U19RS00tbHd5WGFsOW9pUFNqdjBrOWt6aGxTU2EzX1k1OEtPRFpsdw?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside digital",
         "source": "inside digital",
         "publishedAt": "2026-08-18T11:28:00+00:00",
@@ -202,10 +181,10 @@
         ]
       },
       {
-        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - stadt-bremerhaven.de",
-        "source": "stadt-bremerhaven.de",
+        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - Caschys Blog",
+        "source": "Caschys Blog",
         "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht stadt-bremerhaven.de",
+        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWFRSG5NQ1ctUkJBaGQ5VUtRTGRabERSVW04TGM0UU5HcE9iN0lWY0pCWDE0NlpxOW1HVlF1d3RFTnFja2d0d2VCZ0EyMUlmNTN0NDVQYVpIc05kM2tZOGtMMDlWTTdUbjdhNnNUSUx2bmFrWnd0OWJGMW92TWNpQUtFUjFtc0U?oc=5",
         "tags": [
           "X-Sense"
@@ -251,6 +230,26 @@
         "tags": [
           "X-Sense"
         ]
+      },
+      {
+        "title": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung - chip.de",
+        "source": "chip.de",
+        "publishedAt": "2026-08-05T07:00:00+00:00",
+        "summary": "Hager Schalter mit Matter-Protokoll: So geht intelligente Gebäudesteuerung chip.de",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYklkNWtfYW5ydUFfM0NzRm1jWGp3R3ZqV3RTa1dMNlpWR3liYVE5ZnhkZXJoaGNIbS0xSkJaY1JWSG9MTDlUVVFHR19MdkhJOTJaZ0hnRkxveV9rRGpLRkNsRThKNUx1ZUp1YjJJQno1SVNsSXExVkZxcy1TbkVxOGU4RmhzbVhFZmZBd2c5aVF6QTZ5VWFVdnUyZVZKTUZaN1Jmc2lwNlBzRUtRd05kR19qUGVtLVNnbzVwak5OUkRPdm5GMjUyaFlUMkMwdG1xaDhSYXA2bEY1Sk9pOTVMRTdkMWZfamU4WkFnUTlUZkt2UHZl?oc=5",
+        "tags": [
+          "Hager"
+        ]
+      },
+      {
+        "title": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-08-04T07:00:00+00:00",
+        "summary": "Smart-Home-Angebote: Dieser Rabattcode senkt die Preise weiter Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wTGQxcXUyUjc2NWJZbVdfeUtIR25WamYwV1Y0WXNoNnk1QmRyWW9ZcjIxWnVyeDBKUlo4VEp0VnVpNzV1aTJsbXd3WXFidUpaUXhfclA0RndJd0t1Ri1TVlQ1Q0RfWWxjSXotNzRR?oc=5",
+        "tags": [
+          "Ei"
+        ]
       }
     ],
     "doors": [
@@ -260,6 +259,16 @@
         "publishedAt": "2026-08-17T04:18:14+00:00",
         "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -315,10 +324,10 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
+        "source": "koha.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -335,10 +344,10 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
-        "source": "businessinsider.de",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
@@ -363,23 +372,13 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
-        "source": "Logistik Online",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
       {
         "title": "Technische Sicherheit 2026 - elektro.net",
         "source": "elektro.net",
-        "publishedAt": "2026-08-31T12:02:29+00:00",
+        "publishedAt": "2026-08-31T18:02:30+00:00",
         "summary": "Technische Sicherheit 2026 elektro.net",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SU0l3MENNR0R4ZzVJWGZnbmlrcDVFZTcxN2VldVBuVEdXN1dKa2ZURjRUMlQta0ZMekU3MVFhZmt2SkM4R2tMa2IyVnJ6TWVhVWhaTVNSTVY2LWpuRUlzZmt5djZVQm9kT0E?oc=5",
         "tags": [
@@ -447,10 +446,10 @@
         ]
       },
       {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - infopoint-security.de",
+        "source": "infopoint-security.de",
         "publishedAt": "2026-08-21T14:29:24+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche infopoint-security.de",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
         "tags": [
           "KI"
