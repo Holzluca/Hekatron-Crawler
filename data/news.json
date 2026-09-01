@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T15:55:26.380118+00:00",
+  "generatedAt": "2026-09-01T19:08:37.693942+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -115,13 +115,13 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ",
+        "source": "NZZ",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "Neue Zürcher Zeitung"
+          "NZZ"
         ]
       }
     ],
@@ -137,10 +137,10 @@
         ]
       },
       {
-        "title": "Bosch rüstet sein Smarthome auf! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
+        "title": "Bosch rüstet sein Smarthome auf! - smarthomeassistent.de",
+        "source": "smarthomeassistent.de",
         "publishedAt": "2026-09-01T14:11:12+00:00",
-        "summary": "Bosch rüstet sein Smarthome auf! SmarthomeAssistent",
+        "summary": "Bosch rüstet sein Smarthome auf! smarthomeassistent.de",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZ2hWRGtHMXBuZ0FZeU9HZmo2ZlptSHk1U0R0bmxTdnZZREN4MlpuNUlwUkVQQ0NJWkJPUEM5bFcwb1I2eDc0OGdoYm0wWXVFeUZRblRIWnBZSzJUZGFtN2IyVHdDXy00R2drRHR3Z1JaX3dxUlE?oc=5",
         "tags": [
           "Ei",
@@ -160,17 +160,6 @@
         ]
       },
       {
-        "title": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent - futurezone.de",
-        "source": "futurezone.de",
-        "publishedAt": "2026-09-01T12:20:36+00:00",
-        "summary": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent futurezone.de",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVdhakJvVkotU3FJSDhoMVJ6LVRoa2d4VUk4RFpHLUk0NU1xbmRLd2pPWFpZY3lOYU4wUV9Ub0ZoS1B1VFptMFRfUzNJeEMzam8tcjdPUlJiaFJaazhidXV2YW9tclZyMlZjY1pMdVZUZnhzaThtTktITjI3Q2ZSalBBQ045UUZCdlFoUnljSUU1WWtCenI5cWRNblJQQUp3d2U3c2daa2N2dHhhWTBWUkYzRUcxNmtFM1BKMXgxb1JfQmVkNUE?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "Bosch Smart Home zur IFA: Heizabgleich im Abo, Eyes+ extra - blogspan.net",
         "source": "blogspan.net",
         "publishedAt": "2026-09-01T08:49:27+00:00",
@@ -183,10 +172,10 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home - pressebox.de",
-        "source": "pressebox.de",
+        "title": "10 Jahre Bosch Smart Home - PresseBox",
+        "source": "PresseBox",
         "publishedAt": "2026-09-01T07:14:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home pressebox.de",
+        "summary": "10 Jahre Bosch Smart Home PresseBox",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbzZUMnlyX0d0R0RhYnJpY1dhNE9BM0J5MElTZElMVnUtUVVsbklDV3NnZ0NMNTNFOV90NkE0RG9rcTRRN2tEdUwyalpZMGtxTEtCUDBmUkY5RDhiNWYyaW9Uc25oOTRna0I4Y1BRXzg2SVh6OC14OXhMbkJfeU1MUFFBZ3M5RDRHMlRXT0hOWXRlckNLaTJoSU9VOFBFaXBhMHlF?oc=5",
         "tags": [
           "Bosch",
@@ -258,6 +247,16 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - Dr. Windows",
+        "source": "Dr. Windows",
+        "publishedAt": "2026-08-27T09:54:11+00:00",
+        "summary": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert Dr. Windows",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMy0zdEdoNU12bm5udGQ1ZEpSOEo2TUNGMXEybmhPaHNFVEpleDFucjVTZ0VIRFhyYTRJeGE0M3VlbFhEa0VESlRLX3hBZzBtOXQ2QkVXVzAzc3J0emJiQndvZm8zTWJuMU8tR2N5aDRFMDdOVUMtQmUtOGZJY1Z1SFZzbDFhX0ZDTEdJYXBzSjZRXzlHOHNoWmNpUW5XR0pxVjlF?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
       }
     ],
     "doors": [
@@ -312,13 +311,13 @@
         ]
       },
       {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - dasinvestment.com",
-        "source": "dasinvestment.com",
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
+        "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger dasinvestment.com",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
-          "dasinvestment.com"
+          "das investment"
         ]
       },
       {
@@ -342,10 +341,10 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
-        "source": "koha.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
+        "source": "KOHA.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -404,10 +403,10 @@
         ]
       },
       {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
+        "source": "faz.net",
         "publishedAt": "2026-08-28T00:52:33+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
@@ -444,10 +443,10 @@
         ]
       },
       {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - infopoint-security.de",
-        "source": "infopoint-security.de",
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
+        "source": "Infopoint Security",
         "publishedAt": "2026-08-21T14:29:24+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche infopoint-security.de",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
         "tags": [
           "KI"
@@ -484,6 +483,16 @@
         ]
       },
       {
+        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
+        "source": "tagesschau.de",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Nachhaltigkeit zertifizieren: Systeme im Überblick - Internet für Architekten",
         "source": "Internet für Architekten",
         "publishedAt": "2026-08-17T15:11:08+00:00",
@@ -491,16 +500,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1c5dzZNQTBpZDZvSlBJMjBSUU8tYVBCWm9ITE1jS2trZ2pzNDRoUW5JVHRXOWxySk1VMFN2TlExSE53NzJWbG40UnBBTHl1NEh1aDl1b2FZbTA1Zm9NS21wMW03UFdxejEwSkU5c3FZR0NwTjNQaFh4NU9nZFFwTEk0V3Z2Qk5DR0E?oc=5",
         "tags": [
           "Nachhaltigkeit"
-        ]
-      },
-      {
-        "title": "KNX RF für drahtlose Smart-Home-Nachrüstung - i-Magazin",
-        "source": "i-Magazin",
-        "publishedAt": "2026-08-13T09:20:45+00:00",
-        "summary": "KNX RF für drahtlose Smart-Home-Nachrüstung i-Magazin",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFJnQUZkY0FxMmpfZlRRQTd0cU5tVllIWGo3QWRBVE1aNXNrbjlxOEVZWXZkcEMzNFFQaGMzYTZFenJKZTVsMFJkdGI3RElhT19XZVdab1YteWxUbnZqdEdvenR4Y3p4U21LLVBvd2VHelJta3g4bHVoUzFNVFgtdWJCdDd0QmozUGc?oc=5",
-        "tags": [
-          "i-Magazin"
         ]
       }
     ]
