@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T19:08:37.693942+00:00",
+  "generatedAt": "2026-09-01T21:53:17.148160+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -95,13 +95,13 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - diepholz.de",
+        "source": "diepholz.de",
         "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen diepholz.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
         "tags": [
-          "Landkreis Diepholz"
+          "diepholz.de"
         ]
       },
       {
@@ -127,20 +127,10 @@
     ],
     "pfs": [
       {
-        "title": "Bosch Smarthome mit zusätzlichen Abo-Funktionen - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-09-01T15:14:12+00:00",
-        "summary": "Bosch Smarthome mit zusätzlichen Abo-Funktionen iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjJjZlM2cE9EdkptVzl5SVhqNlJvUjF6ejBYWHVRYVlOWU1jSldYekQtUmdFY2xnTE5NZm1xN2F0S1VORVB3dzR3blBLUkxmZll0eHdkTi1iOGtWLWF1WFJldExZV0ozcXZOU2hmeFI1YzRxM0MyeGVkZ1FKZmZ1MHQ4Y2VhUFFsdEVfWGt3?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch rüstet sein Smarthome auf! - smarthomeassistent.de",
-        "source": "smarthomeassistent.de",
+        "title": "Bosch rüstet sein Smarthome auf! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
         "publishedAt": "2026-09-01T14:11:12+00:00",
-        "summary": "Bosch rüstet sein Smarthome auf! smarthomeassistent.de",
+        "summary": "Bosch rüstet sein Smarthome auf! SmarthomeAssistent",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZ2hWRGtHMXBuZ0FZeU9HZmo2ZlptSHk1U0R0bmxTdnZZREN4MlpuNUlwUkVQQ0NJWkJPUEM5bFcwb1I2eDc0OGdoYm0wWXVFeUZRblRIWnBZSzJUZGFtN2IyVHdDXy00R2drRHR3Z1JaX3dxUlE?oc=5",
         "tags": [
           "Ei",
@@ -148,15 +138,14 @@
         ]
       },
       {
-        "title": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-09-01T14:00:00+00:00",
-        "summary": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXBRM2lZWk1uYzlxUWNSWjU4ZzQ5MGVkaG4xZUtiMHRYR2tXTDlrcS02TE15SUN2NUJ5QzB2UFdfODhuVk9FRFp6OW5EM3R4N0JlZ1Job1N2MzVXVFlIVm5EU0dlQ25NU3J3bHpDTk1ZVkxFRVpWQnFzRUpxSFpoOV9MQ19HTExyVGtQcVZILTVHV1hSRjhEQWlkZUNkOEI1bnFHZlVuZVh3eEU?oc=5",
+        "title": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent - futurezone.de",
+        "source": "futurezone.de",
+        "publishedAt": "2026-09-01T12:20:36+00:00",
+        "summary": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent futurezone.de",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVdhakJvVkotU3FJSDhoMVJ6LVRoa2d4VUk4RFpHLUk0NU1xbmRLd2pPWFpZY3lOYU4wUV9Ub0ZoS1B1VFptMFRfUzNJeEMzam8tcjdPUlJiaFJaazhidXV2YW9tclZyMlZjY1pMdVZUZnhzaThtTktITjI3Q2ZSalBBQ045UUZCdlFoUnljSUU1WWtCenI5cWRNblJQQUp3d2U3c2daa2N2dHhhWTBWUkYzRUcxNmtFM1BKMXgxb1JfQmVkNUE?oc=5",
         "tags": [
           "Ei",
-          "Bosch",
-          "Smart Home"
+          "Bosch"
         ]
       },
       {
@@ -167,17 +156,6 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42MS1MazJvZGV5andjVEtLdEtoZDl2eGlpMlVoZlBRSkgxS3FyWTdHYThIME5fQ2JDSjlscmdZQVBwZDlwcm1leUtPQ1BNU2pjbDNTM0ktTEs5Q0t6cDV5YUJGeXJXU3YzSDl4czN3WmV2dlo4SnFJY2dR?oc=5",
         "tags": [
           "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "10 Jahre Bosch Smart Home - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-09-01T07:14:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbzZUMnlyX0d0R0RhYnJpY1dhNE9BM0J5MElTZElMVnUtUVVsbklDV3NnZ0NMNTNFOV90NkE0RG9rcTRRN2tEdUwyalpZMGtxTEtCUDBmUkY5RDhiNWYyaW9Uc25oOTRna0I4Y1BRXzg2SVh6OC14OXhMbkJfeU1MUFFBZ3M5RDRHMlRXT0hOWXRlckNLaTJoSU9VOFBFaXBhMHlF?oc=5",
-        "tags": [
           "Bosch",
           "Smart Home"
         ]
@@ -229,10 +207,10 @@
         ]
       },
       {
-        "title": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel - mobiFlip",
-        "source": "mobiFlip",
+        "title": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel - mobiflip.de",
+        "source": "mobiflip.de",
         "publishedAt": "2026-08-29T10:12:48+00:00",
-        "summary": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel mobiFlip",
+        "summary": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel mobiflip.de",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEZObkx3XzRkSW5xRVpMZ2NKSWFNbVJFQmlQOFdFN3lhQzV6U0ZJajU3RTR0b3c2eDcyS3ZDaGNHdkZabWE1SDdXei1hYWxwQV8wVmxxcTdBSFd2RzdOcGFMY2FBMnVZUG1fdmE0NDJ4bjVhTVVMdmlwcE5wQ05ySmRXTXjSAYoBQVVfeXFMTjRuMjUyaE9CUTBJcFQ2NGE0SmdxbXFVU2NQaE9xZUVBVkl3YmR4NUtOZzRQaXhKSTUwamwweVhzZTJhMUJVck1VeXpnZl8zcEI5LWVXX0tuUkc3aENkandYTVRPQTd3c2Q3TE9oRHgtaENleDNmQ3JTaGdHX09Xa01EU0x5MDFIM093?oc=5",
         "tags": [
           "Smart Home"
@@ -257,17 +235,40 @@
         "tags": [
           "X-Sense"
         ]
+      },
+      {
+        "title": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-08-20T09:30:00+00:00",
+        "summary": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUF6QmFzN1NpOVBKVzE2S2dydFdydGpuNHNEMUMxeU5Yc1FISkdLUnZfOHIyTzBaRW05NWZYSE5lUzg5UE5XSFlGVGRuSXJFU2Y5OWVzQmh2X21uYUlPWTFRSnB1WU42aXdMXzdCaWF3V2p5RmVydF9jM3hHcDRSWDdsZVJJMzVocVhn?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-08-19T16:18:21+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzczdEJCaHo5Tld2TDhSeGtlcXFkQndjVzJMUXFhX0tpUDFTdTBwYk1yUDNKM3c2R095cVpaTFdIWi1Hc3dpTExUOWh1WGdidlZfRGdDeDNodWZubU1GWDhDRVhCUFRzUEowYzFGM09VQW1Zd09UbXZCd2NodFQ0UlJnY3lGYkc5WWtPMTByWnk5NmRIazRzTTlrak02MUo2U3JNS1FhdG9fOVV6MGFheG85aTRUT09zVTBmSExpSFpRWGRpd0dBdmRJV1FJVjA?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - spiegel.de",
-        "source": "spiegel.de",
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
         "publishedAt": "2026-09-01T06:55:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis spiegel.de",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
-          "spiegel.de"
+          "Spiegel"
         ]
       },
       {
@@ -351,10 +352,10 @@
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
-        "source": "exxpress",
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress.at",
+        "source": "exxpress.at",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress.at",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
