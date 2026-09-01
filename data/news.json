@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T06:26:53.653944+00:00",
+  "generatedAt": "2026-09-01T11:53:38.160885+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -44,13 +44,13 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "Teltarif"
+          "teltarif.de"
         ]
       },
       {
@@ -127,6 +127,64 @@
     ],
     "pfs": [
       {
+        "title": "Bosch Smart Home zur IFA: Heizabgleich im Abo, Eyes+ extra - blogspan.net",
+        "source": "blogspan.net",
+        "publishedAt": "2026-09-01T08:49:27+00:00",
+        "summary": "Bosch Smart Home zur IFA: Heizabgleich im Abo, Eyes+ extra blogspan.net",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42MS1MazJvZGV5andjVEtLdEtoZDl2eGlpMlVoZlBRSkgxS3FyWTdHYThIME5fQ2JDSjlscmdZQVBwZDlwcm1leUtPQ1BNU2pjbDNTM0ktTEs5Q0t6cDV5YUJGeXJXU3YzSDl4czN3WmV2dlo4SnFJY2dR?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch auf der IFA 2026 - Bosch Media Service",
+        "source": "Bosch Media Service",
+        "publishedAt": "2026-09-01T07:03:58+00:00",
+        "summary": "Bosch auf der IFA 2026 Bosch Media Service",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkVBSFlCbmVZZ2ZjbHFzRTZQaldwNFhlYmw5c3p1MzFRSk5LRURucGN3cWZxYzFGdktENXB2M2FWZmgwd1ZxcGlUNzlPXzNNbXh6N2FMM3JNOElfcEpJdUtvWjkxM24tUFZab0pYd0Q5U2NnMkJNOTdGdW9UWGRnZGs5YXI1N2c?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "10 Jahre Bosch Smart Home: Neue Funktionen für Heizung und Kameras - appgefahren.de",
+        "source": "appgefahren.de",
+        "publishedAt": "2026-09-01T07:00:52+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Neue Funktionen für Heizung und Kameras appgefahren.de",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkRibFlZanF2Rl9BYkRCVTZ0S0dfdDQzZmFYWFJqTk5aSk9BSktyU0hsRTBoRHVSRVZxdVBTYkJtZmhTY2FNZkZkdWc1eENEdnNmSWhkMHlzNXY1amhHUVhYVElLcFFINkJ5UTc3SmNxM01UVzB2OXlFX0l6MDdHNjN6MlhINXBLVUZQdzlWUmc4OHhwYWtwTl9Wc1pPR29VbF9Zb2JxMHI?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-09-01T06:59:42+00:00",
+        "summary": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjZCTEpKdnBQOW9sOFpFWVVUYmhrbjNrM3k1SHlwVmR4SFJFZGVoNGV6c0ZFdWU5N0hVVVgtQWdfdnlCZlk5U3o4Unh1YTJJaElJV3VwMXhRYzZoMC1UaFVaSEk0ek5ycDFyaVh3TUotaHNKMWZKU1Mza1VmSWNoQy1mRmgtMFB1WmZPZUdZVTJtNnROVThGejFhVmFIRHRBTEVQLUZtOE9kdXcta05xUlVZOA?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel - mobiFlip",
         "source": "mobiFlip",
         "publishedAt": "2026-08-29T10:12:48+00:00",
@@ -198,58 +256,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWFRSG5NQ1ctUkJBaGQ5VUtRTGRabERSVW04TGM0UU5HcE9iN0lWY0pCWDE0NlpxOW1HVlF1d3RFTnFja2d0d2VCZ0EyMUlmNTN0NDVQYVpIc05kM2tZOGtMMDlWTTdUbjdhNnNUSUx2bmFrWnd0OWJGMW92TWNpQUtFUjFtc0U?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "X-Sense SBS0A | Neue Base Station bringt Matter ins Sicherheitssystem - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "X-Sense SBS0A | Neue Base Station bringt Matter ins Sicherheitssystem SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVW5OY3NNN1pkdFJqOW5RUFlMaURySnBDZWRnajRieHd5RGNaLW9BcTRnbVc4TVJIQllzRHc3TWxlWjNUb2FsS3loZDYzMTAtcEpjODBMRVJwNHJRYXpENG13SGlkYUJGV2ZKWWdvZ21vSW85OTh5MkhBcW1Iem5yZnlheFlxclZfNnRnbkRrZkR4LV9VWEZwMncweFNXU3Z4a21ReQ?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Rauchmelder Test 2026 • Die 8 besten Rauchmelder im Vergleich - RTL.de",
-        "source": "RTL.de",
-        "publishedAt": "2026-08-16T07:00:00+00:00",
-        "summary": "Rauchmelder Test 2026 • Die 8 besten Rauchmelder im Vergleich RTL.de",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WR01rdE1MQzVqRTVRdW10bTloaHpJYV9YT3JaTWJpVDVldEk5b0xLN3VSMjk5ZEdRal91VWV2MG00N0tWRThFbUhQZXVfczNvcE9vczd1NnhETXVzSTkxbmR1ZTVLZ000dGc?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "X-Sense Rauchmelder 12er-Set mit Basisstation für 183,71€ - klamm.de",
-        "source": "klamm.de",
-        "publishedAt": "2026-08-13T05:07:00+00:00",
-        "summary": "X-Sense Rauchmelder 12er-Set mit Basisstation für 183,71€ klamm.de",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcm43SU4zRGZ6dGZ3ZE9ncWFGRERiclRLandObUZLYTFiOXVOby1hdURMYUM2NTZXTzRobU9hOVhqam9fS0ZLaXNyM2llRWZTQWZEbmRGZHFtbkhUNE5EU0h2TUthbmV6blJJUFB5UHprOGVaMTZlZ3dEOW5wOUppcFVjQzE2RVdXNjRnNHI3QkRSUFN3ZE4tQmR6cGFYUQ?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-08-12T07:00:00+00:00",
-        "summary": "Enpal und Bosch erweitern Wärmepumpen-Angebot um smarte Heizungssteuerung mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVZIcnB1SlQ5NUtNdXZ6YzM4U1dxQkoxSVp1UjlkWkVhSTVwR091WGx6N0ZSQksta1NmMXg2RmpkUnZCbllJN3pEWkhjODVzWXpzTVNBUEFfOFF6alpza2U1Vy1HcFFXb0xRZFI4dVI0RGVjS3hMbG82N3ZlYXFpeGZ0N1N6MjF1S1ZfWnRXZGVWT1FxVmJOVndkcmNEQ0w50gGmAUFVX3lxTE5HUFpmQnZ6UXc0VExEYlVKU2pyNkg3YVJkNXFnb0JtdFZac2dyNlJYMkVNckpXZzJoLWRFaWR5UlExYWlpeDNvTHRQYWxiS1ktcG5ncVY0THRqUFVZNmFMektnMmNCUThndl9BRmMzWDg5aXAzV08wY0R1alZlcXBEVWtFd1ZwWWh0RF9lVzFzOHBuaFQ0X3pKZHA2TmVqS1Izc0VaN0E?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       }
     ],
@@ -335,10 +341,10 @@
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress.at",
-        "source": "exxpress.at",
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress.at",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
@@ -377,13 +383,13 @@
     ],
     "trends": [
       {
-        "title": "Technische Sicherheit 2026 - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-08-31T18:02:30+00:00",
-        "summary": "Technische Sicherheit 2026 elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SU0l3MENNR0R4ZzVJWGZnbmlrcDVFZTcxN2VldVBuVEdXN1dKa2ZURjRUMlQta0ZMekU3MVFhZmt2SkM4R2tMa2IyVnJ6TWVhVWhaTVNSTVY2LWpuRUlzZmt5djZVQm9kT0E?oc=5",
+        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - openPR.de",
+        "source": "openPR.de",
+        "publishedAt": "2026-09-01T08:50:00+00:00",
+        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes openPR.de",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUkp2eHNTNTY0NWxwZ3dDTVVUOVVpbTdUcVdYS3g0Skdpeng2S2dWcmZqU3UtQ2JjS3JXVmRMX3pIV0VqTmZGd1JNWXQxU2s2MjFicHVBenFIRVVYQUs5enZzSmN2MU9nRW1TbTR1c3ltbUxmUzBXc2FhSXJ4S2NzY1MycHp3VFdXS0R4aHNFTjFHSHd3bFVfa01yNEVHVHg5Qk1UOXFIR0ktQzNOeVY0cmdIWkhCOUxHUGFuSTdQOUxzckxPWENieUpTdVplNkpoeUVVUEVVOUQ0OGRuem9rZWtObm50azVSM2xz?oc=5",
         "tags": [
-          "elektro.net"
+          "KI"
         ]
       },
       {
@@ -394,16 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
         "tags": [
           "Normen"
-        ]
-      },
-      {
-        "title": "Wohnhausbrand in Kempten: Zwei Bewohner leicht verletzt, Gebäude unbewohnbar - BSAktuell",
-        "source": "BSAktuell",
-        "publishedAt": "2026-08-28T06:41:54+00:00",
-        "summary": "Wohnhausbrand in Kempten: Zwei Bewohner leicht verletzt, Gebäude unbewohnbar BSAktuell",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWJzdVJ6dXNjMHR6WVc2NnhnbzQ5enFoM1pOem1LbGZwUzhTeWNBZzV0RDVqTWxZczY2VjNwWnY0ZEVnUGJTRTdKNlR5R1pvdFRTUUFxdS1PVHdUN0NEYXBRamU5WkhrOGplQkNfN1FPVjJJekJxQU9JWWlpLTgxTVFNZzFVS3lqOVJqN1lCODZZU3htTXNrQnVnS09YODBhbkZzamZib1drUURhSlprdExJN1FrbURxRVRNOA?oc=5",
-        "tags": [
-          "BSAktuell"
         ]
       },
       {
@@ -457,16 +453,6 @@
         ]
       },
       {
-        "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - Elektrobranche",
-        "source": "Elektrobranche",
-        "publishedAt": "2026-08-20T10:29:12+00:00",
-        "summary": "go-e & Tekko: Kooperation ist offiziell besiegelt Elektrobranche",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNGNUeThTSVk0YkRDTF90MGVXVTRORUd6U3ZSejBoTDliQkZrbzdUVUF4VER1Ym1mQlBDbld2Y1lKN190b1RQVnlUNGJxQkhERGlEVDhNQl80LUxHeVhmVTE0RGxJLU1YTWxGQVBTWHNMdGZLUExBS1hDZw?oc=5",
-        "tags": [
-          "Elektrobranche"
-        ]
-      },
-      {
         "title": "Cyber Resilience Act: Pflichten für die Gebäudeautomation - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-08-20T07:00:00+00:00",
@@ -477,10 +463,20 @@
         ]
       },
       {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
+        "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - Elektrobranche",
+        "source": "Elektrobranche",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "go-e & Tekko: Kooperation ist offiziell besiegelt Elektrobranche",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNGNUeThTSVk0YkRDTF90MGVXVTRORUd6U3ZSejBoTDliQkZrbzdUVUF4VER1Ym1mQlBDbld2Y1lKN190b1RQVnlUNGJxQkhERGlEVDhNQl80LUxHeVhmVTE0RGxJLU1YTWxGQVBTWHNMdGZLUExBS1hDZw?oc=5",
+        "tags": [
+          "Elektrobranche"
+        ]
+      },
+      {
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ardmediathek.de",
+        "source": "ardmediathek.de",
         "publishedAt": "2026-08-19T15:38:01+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ardmediathek.de",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
@@ -494,6 +490,16 @@
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Nachhaltigkeit zertifizieren: Systeme im Überblick - Internet für Architekten",
+        "source": "Internet für Architekten",
+        "publishedAt": "2026-08-17T15:11:08+00:00",
+        "summary": "Nachhaltigkeit zertifizieren: Systeme im Überblick Internet für Architekten",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1c5dzZNQTBpZDZvSlBJMjBSUU8tYVBCWm9ITE1jS2trZ2pzNDRoUW5JVHRXOWxySk1VMFN2TlExSE53NzJWbG40UnBBTHl1NEh1aDl1b2FZbTA1Zm9NS21wMW03UFdxejEwSkU5c3FZR0NwTjNQaFh4NU9nZFFwTEk0V3Z2Qk5DR0E?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       }
     ]
