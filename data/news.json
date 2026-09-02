@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:12:22.102646+00:00",
+  "generatedAt": "2026-09-02T16:45:09.641770+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,13 +34,13 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
-        "source": "teltarif.de",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "teltarif.de"
+          "Teltarif"
         ]
       },
       {
@@ -181,18 +181,6 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Neue Funktionen für Heizung und Kameras - appgefahren.de",
-        "source": "appgefahren.de",
-        "publishedAt": "2026-09-01T07:00:52+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Neue Funktionen für Heizung und Kameras appgefahren.de",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkRibFlZanF2Rl9BYkRCVTZ0S0dfdDQzZmFYWFJqTk5aSk9BSktyU0hsRTBoRHVSRVZxdVBTYkJtZmhTY2FNZkZkdWc1eENEdnNmSWhkMHlzNXY1amhHUVhYVElLcFFINkJ5UTc3SmNxM01UVzB2OXlFX0l6MDdHNjN6MlhINXBLVUZQdzlWUmc4OHhwYWtwTl9Wc1pPR29VbF9Zb2JxMHI?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-09-01T06:59:42+00:00",
@@ -205,10 +193,20 @@
         ]
       },
       {
-        "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - drwindows.de",
-        "source": "drwindows.de",
+        "title": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel - mobiflip.de",
+        "source": "mobiflip.de",
+        "publishedAt": "2026-08-29T10:12:48+00:00",
+        "summary": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel mobiflip.de",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEZObkx3XzRkSW5xRVpMZ2NKSWFNbVJFQmlQOFdFN3lhQzV6U0ZJajU3RTR0b3c2eDcyS3ZDaGNHdkZabWE1SDdXei1hYWxwQV8wVmxxcTdBSFd2RzdOcGFMY2FBMnVZUG1fdmE0NDJ4bjVhTVVMdmlwcE5wQ05ySmRXTXjSAYoBQVVfeXFMTjRuMjUyaE9CUTBJcFQ2NGE0SmdxbXFVU2NQaE9xZUVBVkl3YmR4NUtOZzRQaXhKSTUwamwweVhzZTJhMUJVck1VeXpnZl8zcEI5LWVXX0tuUkc3aENkandYTVRPQTd3c2Q3TE9oRHgtaENleDNmQ3JTaGdHX09Xa01EU0x5MDFIM093?oc=5",
+        "tags": [
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - Dr. Windows",
+        "source": "Dr. Windows",
         "publishedAt": "2026-08-27T09:54:11+00:00",
-        "summary": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert drwindows.de",
+        "summary": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert Dr. Windows",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMy0zdEdoNU12bm5udGQ1ZEpSOEo2TUNGMXEybmhPaHNFVEpleDFucjVTZ0VIRFhyYTRJeGE0M3VlbFhEa0VESlRLX3hBZzBtOXQ2QkVXVzAzc3J0emJiQndvZm8zTWJuMU8tR2N5aDRFMDdOVUMtQmUtOGZJY1Z1SFZzbDFhX0ZDTEdJYXBzSjZRXzlHOHNoWmNpUW5XR0pxVjlF?oc=5",
         "tags": [
           "X-Sense"
@@ -268,16 +266,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
           "Spiegel"
-        ]
-      },
-      {
-        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
-        "source": "Apollo Hospitals",
-        "publishedAt": "2026-08-17T04:18:14+00:00",
-        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
-        "tags": [
-          "Apollo"
         ]
       },
       {
@@ -361,16 +349,6 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
-      },
-      {
         "title": "Eintritt nur bei ausreichenden Deutschkenntnissen: Stadt fordert das Bad auf, die Regel zurückzunehmen - apollo-news.net",
         "source": "apollo-news.net",
         "publishedAt": "2026-06-24T07:00:00+00:00",
@@ -379,47 +357,67 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
+        "publishedAt": "2026-05-08T07:00:00+00:00",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
       {
-        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - openPR.de",
-        "source": "openPR.de",
-        "publishedAt": "2026-09-01T08:50:00+00:00",
-        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes openPR.de",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUkp2eHNTNTY0NWxwZ3dDTVVUOVVpbTdUcVdYS3g0Skdpeng2S2dWcmZqU3UtQ2JjS3JXVmRMX3pIV0VqTmZGd1JNWXQxU2s2MjFicHVBenFIRVVYQUs5enZzSmN2MU9nRW1TbTR1c3ltbUxmUzBXc2FhSXJ4S2NzY1MycHp3VFdXS0R4aHNFTjFHSHd3bFVfa01yNEVHVHg5Qk1UOXFIR0ktQzNOeVY0cmdIWkhCOUxHUGFuSTdQOUxzckxPWENieUpTdVplNkpoeUVVUEVVOUQ0OGRuem9rZWtObm50azVSM2xz?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-08-28T11:09:42+00:00",
-        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme AD HOC NEWS",
+        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
         "tags": [
           "Normen"
         ]
       },
       {
-        "title": "Wohnhausbrand in Kempten: Zwei Bewohner leicht verletzt, Gebäude unbewohnbar - BSAktuell",
-        "source": "BSAktuell",
+        "title": "Wohnhausbrand in Kempten: Zwei Bewohner leicht verletzt, Gebäude unbewohnbar - bsaktuell.de",
+        "source": "bsaktuell.de",
         "publishedAt": "2026-08-28T06:41:54+00:00",
-        "summary": "Wohnhausbrand in Kempten: Zwei Bewohner leicht verletzt, Gebäude unbewohnbar BSAktuell",
+        "summary": "Wohnhausbrand in Kempten: Zwei Bewohner leicht verletzt, Gebäude unbewohnbar bsaktuell.de",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWJzdVJ6dXNjMHR6WVc2NnhnbzQ5enFoM1pOem1LbGZwUzhTeWNBZzV0RDVqTWxZczY2VjNwWnY0ZEVnUGJTRTdKNlR5R1pvdFRTUUFxdS1PVHdUN0NEYXBRamU5WkhrOGplQkNfN1FPVjJJekJxQU9JWWlpLTgxTVFNZzFVS3lqOVJqN1lCODZZU3htTXNrQnVnS09YODBhbkZzamZib1drUURhSlprdExJN1FrbURxRVRNOA?oc=5",
         "tags": [
-          "BSAktuell"
+          "bsaktuell.de"
         ]
       },
       {
-        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "„Dies ist nur ein Test“: Ransomware-Hacker tricksen KI-Sicherheitssysteme aus - Inbox.lv",
+        "source": "Inbox.lv",
+        "publishedAt": "2026-08-28T00:52:33+00:00",
+        "summary": "„Dies ist nur ein Test“: Ransomware-Hacker tricksen KI-Sicherheitssysteme aus Inbox.lv",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkxBUFdNQzFqeENVNXZBTnRfeDZxX1lWR0ZtajNuNk5oTDhQUWoxcGtLODZRS1BTYVozX3oxZElYTWhnWUp3ZDZBYmRIVENsaFRkNUM1NWxRRkMyanlVZVA4dVJLLXpMOTJqUVhSRFVBeFFPOUxfcmlCUHhaQnRKR2dlN05NTUNtUzQtWU1BYnlWN2pUVlZBbWZjOUk2RHpCMlVINkhNVFRDQUpwYy1lYkhiZnNpTjNDd0ltZ1BoSDZjTzFZVThOd3N3?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-08-27T19:29:44+00:00",
-        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu AD HOC NEWS",
+        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
         "tags": [
-          "AD HOC NEWS"
+          "ad-hoc-news.de"
         ]
       },
       {
@@ -483,10 +481,10 @@
         ]
       },
       {
-        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
-        "source": "BILD",
+        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - bild.de",
+        "source": "bild.de",
         "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
+        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht bild.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
         "tags": [
           "Nachhaltigkeit"
