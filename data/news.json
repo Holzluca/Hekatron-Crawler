@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T23:43:39.600440+00:00",
+  "generatedAt": "2026-09-02T02:24:26.825888+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -9,16 +9,6 @@
         "publishedAt": "2026-08-06T16:58:38+00:00",
         "summary": "Globaler Schutz und Schutz 2026 Siemens",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
-        "source": "ingenieur.de",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -54,10 +44,10 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - press.siemens.com",
-        "source": "press.siemens.com",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
         "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude press.siemens.com",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
@@ -95,13 +85,13 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - diepholz.de",
-        "source": "diepholz.de",
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
         "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen diepholz.de",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
         "tags": [
-          "diepholz.de"
+          "Landkreis Diepholz"
         ]
       },
       {
@@ -115,13 +105,23 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ",
-        "source": "NZZ",
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
-          "NZZ"
+          "Siemens"
+        ]
+      },
+      {
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
+        "source": "Aargauer Zeitung",
+        "publishedAt": "2026-03-30T07:00:00+00:00",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -147,17 +147,6 @@
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent - futurezone.de",
-        "source": "futurezone.de",
-        "publishedAt": "2026-09-01T12:20:36+00:00",
-        "summary": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent futurezone.de",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVdhakJvVkotU3FJSDhoMVJ6LVRoa2d4VUk4RFpHLUk0NU1xbmRLd2pPWFpZY3lOYU4wUV9Ub0ZoS1B1VFptMFRfUzNJeEMzam8tcjdPUlJiaFJaazhidXV2YW9tclZyMlZjY1pMdVZUZnhzaThtTktITjI3Q2ZSalBBQ045UUZCdlFoUnljSUU1WWtCenI5cWRNblJQQUp3d2U3c2daa2N2dHhhWTBWUkYzRUcxNmtFM1BKMXgxb1JfQmVkNUE?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       },
       {
@@ -209,26 +198,6 @@
         ]
       },
       {
-        "title": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-08-29T10:12:48+00:00",
-        "summary": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEZObkx3XzRkSW5xRVpMZ2NKSWFNbVJFQmlQOFdFN3lhQzV6U0ZJajU3RTR0b3c2eDcyS3ZDaGNHdkZabWE1SDdXei1hYWxwQV8wVmxxcTdBSFd2RzdOcGFMY2FBMnVZUG1fdmE0NDJ4bjVhTVVMdmlwcE5wQ05ySmRXTXjSAYoBQVVfeXFMTjRuMjUyaE9CUTBJcFQ2NGE0SmdxbXFVU2NQaE9xZUVBVkl3YmR4NUtOZzRQaXhKSTUwamwweVhzZTJhMUJVck1VeXpnZl8zcEI5LWVXX0tuUkc3aENkandYTVRPQTd3c2Q3TE9oRHgtaENleDNmQ3JTaGdHX09Xa01EU0x5MDFIM093?oc=5",
-        "tags": [
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Rauchmelderpflicht in Sachsen: Was hat sie gebracht? - Freie Presse",
-        "source": "Freie Presse",
-        "publishedAt": "2026-08-28T04:00:00+00:00",
-        "summary": "Rauchmelderpflicht in Sachsen: Was hat sie gebracht? Freie Presse",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEt3NHlsbjhCU2RTcXdJS0xoYkMyU0ZzQ05ZZV9lRVhPdDRnemN5X0M2cGhhS3hlTUNkdkExTDVwdW1FOGo4ZURGc2R4ZUUzTzdKT09ZS2F5R2YzTlBnc0ZFUDV2aFVhNXlpaHNkVUt5OW9nY0tyV2VyMjU2Njl4WGRlVW1OaWpibEc1Ti1pYTFUWHNldl8wSWhUaGVQWU9UalplZlFIOGh1czh0S3pUb196UQ?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - Dr. Windows",
         "source": "Dr. Windows",
         "publishedAt": "2026-08-27T09:54:11+00:00",
@@ -260,19 +229,41 @@
           "Bosch",
           "Smart Home"
         ]
+      },
+      {
+        "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside digital",
+        "source": "inside digital",
+        "publishedAt": "2026-08-18T11:28:00+00:00",
+        "summary": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test inside digital",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDJsQU92NFZaWm82LU1UMWxoaGlPaEdWMmU0OGQ0eHBwTC1XcVNCNTZPWWVMSmJtQ3p1VWN3bGUwYndSbXZuWHRucHFXRUtDbTEyd2tDZlFzamFfTXFFTjMtVHVkbVJYUFlIN1BTbi1LNFYybHhIenF3TGtpTF9VUjRTeUtSMmFjWG1zbGVESExkYUI0eE5maEhvaE1ic2dlUzdDcXFVVFVJMzM0eElBdGJBQkw2QdIBuwFBVV95cUxOeU5lcEFmVVY2Y1VjVkkxVE9ZbU9nOV9zakl6SjhhUDZhU0dlOHRsdFpIdDBjTEoyRV9yd0VMbTVfOUNMeHlNNUN4QlRoNDRJNkxWQ2tiU1RHNW5OX2VPa3pOa21LUkt0MTN3SUt0Qi1iSExUQzYzWGw4YWtkVWlscUdmeHdFdTdfeFN5WnJvR0xHSGZ1NGxJUkdLTlZ4Vm5iM0JQb2hmc3ZjaFFyeW5xYnk3LWNiU1JiSkYw?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "X-Sense SBS0A | Neue Base Station bringt Matter ins Sicherheitssystem - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-08-17T07:00:00+00:00",
+        "summary": "X-Sense SBS0A | Neue Base Station bringt Matter ins Sicherheitssystem SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVW5OY3NNN1pkdFJqOW5RUFlMaURySnBDZWRnajRieHd5RGNaLW9BcTRnbVc4TVJIQllzRHc3TWxlWjNUb2FsS3loZDYzMTAtcEpjODBMRVJwNHJRYXpENG13SGlkYUJGV2ZKWWdvZ21vSW85OTh5MkhBcW1Iem5yZnlheFlxclZfNnRnbkRrZkR4LV9VWEZwMncweFNXU3Z4a21ReQ?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
+        "tags": [
+          "Bosch"
+        ]
       }
     ],
     "doors": [
-      {
-        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - apollohospitals.com",
-        "source": "apollohospitals.com",
-        "publishedAt": "2026-08-17T04:18:14+00:00",
-        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch apollohospitals.com",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - apollo-news.net",
         "source": "apollo-news.net",
@@ -304,13 +295,13 @@
         ]
       },
       {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - dasinvestment.com",
-        "source": "dasinvestment.com",
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
+        "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger dasinvestment.com",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
-          "dasinvestment.com"
+          "das investment"
         ]
       },
       {
@@ -344,10 +335,10 @@
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress.at",
-        "source": "exxpress.at",
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress.at",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
@@ -379,6 +370,16 @@
         "publishedAt": "2026-06-24T07:00:00+00:00",
         "summary": "Eintritt nur bei ausreichenden Deutschkenntnissen: Stadt fordert das Bad auf, die Regel zurückzunehmen apollo-news.net",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWVLRVdHaU1ra2hwM3BRMTlINXkxcl9CQTZ2OTR4Tk9NUTVzeVlFUjVvNTRwUzBCWjI4R0pnY1NpTU9Nc2dtZG9hTDB5VXZXS3JSRjBhUmVHLXNVX1dQaDR5d1FIZ0dKVlh5SlRzc2JIdXZacERVWng4MGY1NDRSSmNGR1BSTXZBYXFrTEFiaWdjRXNjeDFsZWZFOG5wNlJDRHRwQkdwa283azR1SFBUdDk4aktsNFlpM1VjU2l2ZDRUdw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
+        "publishedAt": "2026-05-08T07:00:00+00:00",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -423,6 +424,16 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
         "tags": [
           "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Planung von Brandmeldeanlagen mit KI - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-08-25T14:24:00+00:00",
+        "summary": "Planung von Brandmeldeanlagen mit KI elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1NhbEJiS19hdU5IU2NIQ0lVYzY3YXJUa3B6MFF0aHhabjQ5R0Y1ZFBrVnFLSHJjQm9yNm84SkVvbnFPVVpUeFZxYldRdWVlQmh4REgyWDdjZl9RQ0VNSnZOZF9BeXoxZFROeU5fNlZaSEd0bnJGaHpveEhSdldiLWNwakU5WHotVlRHSTRRc3FzNjdP?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -483,16 +494,6 @@
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
-        "source": "BILD",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
         ]
       },
       {
