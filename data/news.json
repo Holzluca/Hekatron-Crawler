@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T02:24:26.825888+00:00",
+  "generatedAt": "2026-09-02T07:13:46.758815+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -24,23 +24,23 @@
         ]
       },
       {
-        "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
-        "source": "buildingTIMES",
+        "title": "Neue IoT-Brandmelder präsentiert - buildingtimes.at",
+        "source": "buildingtimes.at",
         "publishedAt": "2026-07-01T07:00:00+00:00",
-        "summary": "Neue IoT-Brandmelder präsentiert buildingTIMES",
+        "summary": "Neue IoT-Brandmelder präsentiert buildingtimes.at",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
         "tags": [
-          "buildingTIMES"
+          "buildingtimes.at"
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "Teltarif"
+          "teltarif.de"
         ]
       },
       {
@@ -85,16 +85,6 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -120,6 +110,16 @@
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -150,6 +150,17 @@
         ]
       },
       {
+        "title": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent - futurezone.de",
+        "source": "futurezone.de",
+        "publishedAt": "2026-09-01T12:20:36+00:00",
+        "summary": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent futurezone.de",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVdhakJvVkotU3FJSDhoMVJ6LVRoa2d4VUk4RFpHLUk0NU1xbmRLd2pPWFpZY3lOYU4wUV9Ub0ZoS1B1VFptMFRfUzNJeEMzam8tcjdPUlJiaFJaazhidXV2YW9tclZyMlZjY1pMdVZUZnhzaThtTktITjI3Q2ZSalBBQ045UUZCdlFoUnljSUU1WWtCenI5cWRNblJQQUp3d2U3c2daa2N2dHhhWTBWUkYzRUcxNmtFM1BKMXgxb1JfQmVkNUE?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Smart Home zur IFA: Heizabgleich im Abo, Eyes+ extra - blogspan.net",
         "source": "blogspan.net",
         "publishedAt": "2026-09-01T08:49:27+00:00",
@@ -159,6 +170,16 @@
           "Ei",
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch auf der IFA 2026 - Bosch Media Service",
+        "source": "Bosch Media Service",
+        "publishedAt": "2026-09-01T07:03:58+00:00",
+        "summary": "Bosch auf der IFA 2026 Bosch Media Service",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkVBSFlCbmVZZ2ZjbHFzRTZQaldwNFhlYmw5c3p1MzFRSk5LRURucGN3cWZxYzFGdktENXB2M2FWZmgwd1ZxcGlUNzlPXzNNbXh6N2FMM3JNOElfcEpJdUtvWjkxM24tUFZab0pYd0Q5U2NnMkJNOTdGdW9UWGRnZGs5YXI1N2c?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -198,6 +219,16 @@
         ]
       },
       {
+        "title": "Rauchmelderpflicht in Sachsen: Was hat sie gebracht? - Freie Presse",
+        "source": "Freie Presse",
+        "publishedAt": "2026-08-28T04:00:00+00:00",
+        "summary": "Rauchmelderpflicht in Sachsen: Was hat sie gebracht? Freie Presse",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEt3NHlsbjhCU2RTcXdJS0xoYkMyU0ZzQ05ZZV9lRVhPdDRnemN5X0M2cGhhS3hlTUNkdkExTDVwdW1FOGo4ZURGc2R4ZUUzTzdKT09ZS2F5R2YzTlBnc0ZFUDV2aFVhNXlpaHNkVUt5OW9nY0tyV2VyMjU2Njl4WGRlVW1OaWpibEc1Ti1pYTFUWHNldl8wSWhUaGVQWU9UalplZlFIOGh1czh0S3pUb196UQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - Dr. Windows",
         "source": "Dr. Windows",
         "publishedAt": "2026-08-27T09:54:11+00:00",
@@ -229,41 +260,19 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside digital",
-        "source": "inside digital",
-        "publishedAt": "2026-08-18T11:28:00+00:00",
-        "summary": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test inside digital",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDJsQU92NFZaWm82LU1UMWxoaGlPaEdWMmU0OGQ0eHBwTC1XcVNCNTZPWWVMSmJtQ3p1VWN3bGUwYndSbXZuWHRucHFXRUtDbTEyd2tDZlFzamFfTXFFTjMtVHVkbVJYUFlIN1BTbi1LNFYybHhIenF3TGtpTF9VUjRTeUtSMmFjWG1zbGVESExkYUI0eE5maEhvaE1ic2dlUzdDcXFVVFVJMzM0eElBdGJBQkw2QdIBuwFBVV95cUxOeU5lcEFmVVY2Y1VjVkkxVE9ZbU9nOV9zakl6SjhhUDZhU0dlOHRsdFpIdDBjTEoyRV9yd0VMbTVfOUNMeHlNNUN4QlRoNDRJNkxWQ2tiU1RHNW5OX2VPa3pOa21LUkt0MTN3SUt0Qi1iSExUQzYzWGw4YWtkVWlscUdmeHdFdTdfeFN5WnJvR0xHSGZ1NGxJUkdLTlZ4Vm5iM0JQb2hmc3ZjaFFyeW5xYnk3LWNiU1JiSkYw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "X-Sense SBS0A | Neue Base Station bringt Matter ins Sicherheitssystem - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "X-Sense SBS0A | Neue Base Station bringt Matter ins Sicherheitssystem SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVW5OY3NNN1pkdFJqOW5RUFlMaURySnBDZWRnajRieHd5RGNaLW9BcTRnbVc4TVJIQllzRHc3TWxlWjNUb2FsS3loZDYzMTAtcEpjODBMRVJwNHJRYXpENG13SGlkYUJGV2ZKWWdvZ21vSW85OTh5MkhBcW1Iem5yZnlheFlxclZfNnRnbkRrZkR4LV9VWEZwMncweFNXU3Z4a21ReQ?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Bosch und Enpal | Smarte Thermostate ergänzen die Wärmepumpe SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHZyWUExUFdpQ0NqYXd1RGs2ZlRheU9rREJFWmR1bTAtajhyVTZlZFBESlhpNmNWM3JzM1BwT090YnpGRU5XQi1CS2hoZEVMeXBCSjV0Uk1zeGhIcFliVi1DY2h0X0RzMjdsemVEOExPcXJfS1M1TTNnSlRINVpnaDA4WlZNNWlKckZOaGdjNG1uZnRXby14Q29qVQ?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "doors": [
+      {
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - spiegel.de",
+        "source": "spiegel.de",
+        "publishedAt": "2026-09-01T06:55:00+00:00",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis spiegel.de",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
+        "tags": [
+          "spiegel.de"
+        ]
+      },
       {
         "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - apollo-news.net",
         "source": "apollo-news.net",
@@ -325,10 +334,10 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
-        "source": "koha.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
+        "source": "KOHA.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -373,16 +382,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
-        "source": "Logistik Online",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -414,16 +413,6 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
-        "source": "Fuldaer Zeitung",
-        "publishedAt": "2026-08-26T14:49:00+00:00",
-        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
         ]
       },
       {
@@ -504,6 +493,16 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGxRMVRGV3dwT2Y3YXQ3Qmh4Z19BYmVFdmpvb2VQN3hyZlVaQ09lUnd4SkRxMU1PZ2doUDM0d1VNNEcyMVJnVG5WazlNWmkzMDMtODUxeV91YWlxNjJoSnQ3WEY4UVV0d2lmclg1d2ViV0kycUtjYmg3Q2tjVkZVOEdleVlDbUpzV0pYQTNreDBBZHZuUVIwa192LTl6R3o3LUY2YzFaX0VHamxCTktlcDZXY0w?oc=5",
         "tags": [
           "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand - verbaende.com",
+        "source": "verbaende.com",
+        "publishedAt": "2026-07-23T09:23:55+00:00",
+        "summary": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand verbaende.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEFkdXUxNGstTHpFSWN2Nm44MTRSWm14TjE3aUtpcHJVVVNwV2R0Qm1HbkpJdVlma290QXRqVVR6NGtZNVlERlp4WE16czd6VFNrQzM3WkIydW9ZYWEwa3pHQ2N0OGkxZ3ZLU19LRVdsdk5DaDd4cl9nZFF4ZmZSMXY3dnlESjAwRmt6a1R5clN3eTFxMzFRNWVEZVF4MklVU1N4RWxVcmEyNF9JaEpDZ0ZLVEdfakE?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       }
     ]
