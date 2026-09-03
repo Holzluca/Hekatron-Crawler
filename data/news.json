@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T17:26:17.866758+00:00",
+  "generatedAt": "2026-09-03T20:00:37.905568+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -24,21 +24,10 @@
         ]
       },
       {
-        "title": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert - it-daily",
-        "source": "it-daily",
-        "publishedAt": "2026-06-14T07:00:00+00:00",
-        "summary": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert it-daily",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0N6UzdWNVUwR2F2c2RpUTBGMVhXZF94bEdTRHRqNDdaaFRXd0g2YXNkUTZ4WmhuaDk3RDJOZFpoaDA5LXZScVhZU2hjSjBFR1lJdTNwR3VQanBESGptQXBuLTBxSDB5WGI3YkdvSlBXTWRfeC1SQ2RUeXF6WHNFZ2ZpLUV0cERIZ3VvVA?oc=5",
-        "tags": [
-          "Siemens",
-          "NSC"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - press.siemens.com",
+        "source": "press.siemens.com",
         "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude press.siemens.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
@@ -86,6 +75,16 @@
         ]
       },
       {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
+        ]
+      },
+      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -96,20 +95,20 @@
         ]
       },
       {
-        "title": "Nova-Brandmelder ermöglichen Ferndiagnosen - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Nova-Brandmelder ermöglichen Ferndiagnosen elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmRUNllLN041WnY4cjAtTWRjQjFhMDdEb3ozZjhaVDkycllyZmQwWlNRT2FhMmY3YV9aR0hIaTVramt0V042RnppaldjaWJuelJkekZYcW1RSXFhalVtNGw5RUZSNjlEdmQ3NjFfeHQ0VWpxYWJUWmgyX2F4NGkydg?oc=5",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
+        "source": "NZZ – Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ – Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "elektro.net"
+          "NZZ – Neue Zürcher Zeitung"
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - news.save.ch",
-        "source": "news.save.ch",
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor news.save.ch",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
@@ -128,129 +127,242 @@
     ],
     "pfs": [
       {
-        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWFRSG5NQ1ctUkJBaGQ5VUtRTGRabERSVW04TGM0UU5HcE9iN0lWY0pCWDE0NlpxOW1HVlF1d3RFTnFja2d0d2VCZ0EyMUlmNTN0NDVQYVpIc05kM2tZOGtMMDlWTTdUbjdhNnNUSUx2bmFrWnd0OWJGMW92TWNpQUtFUjFtc0U?oc=5",
+        "title": "Bosch Smarthome mit zusätzlichen Abo-Funktionen - iphone-ticker.de",
+        "source": "iphone-ticker.de",
+        "publishedAt": "2026-09-01T15:14:12+00:00",
+        "summary": "Bosch Smarthome mit zusätzlichen Abo-Funktionen iphone-ticker.de",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjJjZlM2cE9EdkptVzl5SVhqNlJvUjF6ejBYWHVRYVlOWU1jSldYekQtUmdFY2xnTE5NZm1xN2F0S1VORVB3dzR3blBLUkxmZll0eHdkTi1iOGtWLWF1WFJldExZV0ozcXZOU2hmeFI1YzRxM0MyeGVkZ1FKZmZ1MHQ4Y2VhUFFsdEVfWGt3?oc=5",
         "tags": [
-          "X-Sense"
+          "Bosch"
         ]
       },
       {
-        "title": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-07-31T18:00:28+00:00",
-        "summary": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXRNbFIwRkttQzVZb1hfb1VXTTVsYnRBUnd4am44OUN0UGdIejhMMFF3NGVQeUJPWE1yUXZLVE5NZlpEalBjSFhITEVwam9PTXMyMFZyTGJTSjRla3lfUG1QcU5OVHhaYlZNSzNPdE1aaTd5dkdaZ3VRb3VXMVhMS2hPWF9YSVN3N21xQVpqeTg2elhxSlhMQVlmcHYxTWFENnppRTVPR04xV1B3b3A0RktDYw?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest - Berliner Kurier",
-        "source": "Berliner Kurier",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Berliner Firma gewinnt Millionen-Streit gegen Stiftung Warentest Berliner Kurier",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckpzdzl0d1BvZHljVGV0UjYtOVpEMjJtbXhYZWExVnU1RlVhamhmb0pETFMzbTZJSlcyZGlfQXpDQW4xYXFfUGgtQjdxc3cwdWp6V1phSzNieGtuQ3NHT1BGOG5OUGtaNGllR0hVdmYyaHJ1bklRekg3OXdlWS1EaUhnTFF3SGVoTGpwSGl4TlVHY1NubXQwUFEtTEktQkZFVlpXbVF5d1Jqc2hHcEJubUZB?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Warentest haftet für falsches Urteil: Berliner Firma fordert 7,7 Millionen Euro Berliner Morgenpost",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY19kcTNTTGZDakkySU1ENFVZRWpYWU9iYlhoZ2xBS3dlMkU0ZWVSeW1EUGN5T1VZSlRjc2thU2I1bzRoNWVIdkNfY3Q1bG5JYmJCQ05udlBMbzRic19ReTViT0pIUGNDXzNyVVZqbU1sOUlJYUFVbHIwQ2Y0RjJhbk9PNmdQRUp3UUpGeFhJX1UzbDFTT1pNLWhHYmZuTXpNZmJ3Umh2ekNLYnB3ajVEM0FscFQ2bF9pZXFMUjUwTzFWTWZEdHItczJaNXNHdw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test - DIE ZEIT",
-        "source": "DIE ZEIT",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Rauchmelder-Test: Stiftung Warentest haftet für Folgen von fehlerhaftem Test DIE ZEIT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYWNtNE03WHdtdTVVNUxuRjMyWGNOQzc4VkZLM0lSWGYwbTY1TVQzd3pJanNkd2V0cmZMQ3VfWngtWWN2cmQ0SDlqTWFOMHhHajZKTTRQS0NLbzE0V29ONzZyYUhCX0ZTLWNHVjB0TERadl8zZFNCRVA2R255anYtb3pleEFSb3l5SW1XeWoxbmdiV1k?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "(S+) Stiftung Warentest vor Gericht: Hat sie immer Recht? Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblB3TmVYWW43LUM1Tnluakw2MUZPdnU1c0gtQ1hQYURpT25OS1Itb0lHazlXclFTWE0xamJVaXBJTlVsQW9ZQ3Rva0M0U3hvcElsakR1ZzdiMERLejFER0x3ejVXbTV4ZUR2WnJzTE5mZzl4SDlSSXRRNFk5Z1BmbVdGeFAzbUhfWkI2QzN5clBpSG1yVFpQSjFGTjlPWU1MbDlUTGV4Q1E5cndYTGlOaUNnZENQME9STkx6el9vX2c?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
-        "title": "ABUS PREFIRA SMART SX3050M: Smarter Rauchmelder mit Matter und Thread hat einen Preis - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-03-29T07:00:00+00:00",
-        "summary": "ABUS PREFIRA SMART SX3050M: Smarter Rauchmelder mit Matter und Thread hat einen Preis Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVc1N3V4RjM1Sk00TkJIM1hXYURGMURRYkdhR29mZ1FxekIzV29VdHlsc3V5WFdmTWdzWUhGR3o5VjBOcFVrVktNM3dqSmdEbklyUTBqOHk3eTQ0aklLQXRtLTE3d1dWV0duVV8zcVBmTTliSjJjTXdLZTZrb1JDdkxwOXYyVVMxRjBRSENFTndUVTdFcDdpV2dIc1h0bndpblJGWjMzUDN6NTBNRlhqVEhPSkY?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "X-Sense: Thermometer- / Hygrometer-Set mit Basisstation ausprobiert - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-03-08T08:00:00+00:00",
-        "summary": "X-Sense: Thermometer- / Hygrometer-Set mit Basisstation ausprobiert Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNYOHZJV0xYdi1MUjFKWC12Vmc3Y25NQW0ydE1TN2xWZG9ub3NIY2dDZHVuNGhzQXZEUjFxVnRRbDlzV2EzNXcwbEVvcVVxRWhBQ1dOLS12dUdZMjV5VHhlMU1rVzJob243c2h2aVlCX2NwTmZfd3JzNS1NU0E4anJLUHUzNU1famlRQ3M1Z29yREhHWjBhRg?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-02-25T08:00:00+00:00",
-        "summary": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXlOYlV0SWFpRGhneHBWTWhwbU1VOVl6TVZIdXNnMU5fQjdIOHk3YlRqNTQ0NE9mYWRXYmg0UTY5OG9oVXpQNDVxQWtQcGl4LXlaLUdXMEtvTHp3b2cwOVVlM0Z3VUdWZnVwYTl6REpKdFFVbkZjTDIwcktQWnhFeTNBQ0NfOGhmdFcwYlUxWjh0WmRqbnNhR0w5d09HbEhCTlNjcWJR?oc=5",
+        "title": "Bosch rüstet sein Smarthome auf! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-09-01T14:11:12+00:00",
+        "summary": "Bosch rüstet sein Smarthome auf! SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZ2hWRGtHMXBuZ0FZeU9HZmo2ZlptSHk1U0R0bmxTdnZZREN4MlpuNUlwUkVQQ0NJWkJPUEM5bFcwb1I2eDc0OGdoYm0wWXVFeUZRblRIWnBZSzJUZGFtN2IyVHdDXy00R2drRHR3Z1JaX3dxUlE?oc=5",
         "tags": [
           "Ei",
           "Bosch"
         ]
       },
       {
-        "title": "Smartes 6er-Set: WLAN-Rauchmelder unter 80 Euro - teltarif.de",
-        "source": "teltarif.de",
-        "publishedAt": "2026-02-25T08:00:00+00:00",
-        "summary": "Smartes 6er-Set: WLAN-Rauchmelder unter 80 Euro teltarif.de",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLRFpkM3lzVkRCZkRiMWVDMGJYNkZBUENHRC1nSFE2S3RZNjd6TTB2Zlhob3J3NTRYeTN3dDZhT0NaajhRTTBMajVKLUpYOUpVWXNtaEtWZnlPeTZwUzBvYVpXQUpkU0tNQzAwRG9aczRwcTZ1RGVEdURPbXRkSWM?oc=5",
+        "title": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-09-01T14:00:00+00:00",
+        "summary": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXBRM2lZWk1uYzlxUWNSWjU4ZzQ5MGVkaG4xZUtiMHRYR2tXTDlrcS02TE15SUN2NUJ5QzB2UFdfODhuVk9FRFp6OW5EM3R4N0JlZ1Job1N2MzVXVFlIVm5EU0dlQ25NU3J3bHpDTk1ZVkxFRVpWQnFzRUpxSFpoOV9MQ19HTExyVGtQcVZILTVHV1hSRjhEQWlkZUNkOEI1bnFHZlVuZVh3eEU?oc=5",
         "tags": [
-          "teltarif.de"
+          "Ei",
+          "Bosch",
+          "Smart Home"
         ]
       },
       {
-        "title": "Rauchmelder-Bundle: Smarter Brandschutz mit Gratis-Sensor - teltarif.de",
-        "source": "teltarif.de",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Rauchmelder-Bundle: Smarter Brandschutz mit Gratis-Sensor teltarif.de",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lNnpKQ0pZVmJXTFp1ejh0U1ZJUVVoYjUzNGRISHBSdEMxNXpBTzg3RnhnVjk4d0VIWnZQeDJXbXNmNjNMZUdzd2NETVpvVUUxeUFSVDIwcm9lZ0FrWHVOSkptN055T0ZhMEdHN3pPUXdxOU0tYVkwOA?oc=5",
+        "title": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent - futurezone.de",
+        "source": "futurezone.de",
+        "publishedAt": "2026-09-01T12:20:36+00:00",
+        "summary": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent futurezone.de",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVdhakJvVkotU3FJSDhoMVJ6LVRoa2d4VUk4RFpHLUk0NU1xbmRLd2pPWFpZY3lOYU4wUV9Ub0ZoS1B1VFptMFRfUzNJeEMzam8tcjdPUlJiaFJaazhidXV2YW9tclZyMlZjY1pMdVZUZnhzaThtTktITjI3Q2ZSalBBQ045UUZCdlFoUnljSUU1WWtCenI5cWRNblJQQUp3d2U3c2daa2N2dHhhWTBWUkYzRUcxNmtFM1BKMXgxb1JfQmVkNUE?oc=5",
         "tags": [
-          "teltarif.de"
+          "Ei",
+          "Bosch"
         ]
       },
       {
-        "title": "Rauchmelder-Set mit App-Anbindung per Code zum Tiefpreis - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-02-03T08:00:00+00:00",
-        "summary": "Rauchmelder-Set mit App-Anbindung per Code zum Tiefpreis CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeDYzWTlxVEVoRjdBaTZsTnRTbWZ1ZjBoNzFYZFJ3ZkRScUdxVklpTTk3dmhUME1HNGxLd0NmeEdIc3U5YTVJdXhVNVN0ekpEYlJCajhILVpBRUZseFEtbUNtRGJYa0xRMHNDWENpSEZ2Qm1fUkhZRjFQZ3NqaFFBeWhuUTFhYnh0aFU2MFpKSlFFZmQyZTFTTXVGLVNkRXAzUUxHajdnZ0g5YWxUMzUwaGJBbW1STEdlX2RLTDRsamlEVE51YkJRaDh0d2lBOVZFVzdFSWZHdw?oc=5",
+        "title": "Bosch Smart Home zur IFA: Heizabgleich im Abo, Eyes+ extra - blogspan.net",
+        "source": "blogspan.net",
+        "publishedAt": "2026-09-01T08:49:27+00:00",
+        "summary": "Bosch Smart Home zur IFA: Heizabgleich im Abo, Eyes+ extra blogspan.net",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42MS1MazJvZGV5andjVEtLdEtoZDl2eGlpMlVoZlBRSkgxS3FyWTdHYThIME5fQ2JDSjlscmdZQVBwZDlwcm1leUtPQ1BNU2pjbDNTM0ktTEs5Q0t6cDV5YUJGeXJXU3YzSDl4czN3WmV2dlo4SnFJY2dR?oc=5",
         "tags": [
-          "Ei"
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch auf der IFA 2026 - Bosch Media Service",
+        "source": "Bosch Media Service",
+        "publishedAt": "2026-09-01T07:03:58+00:00",
+        "summary": "Bosch auf der IFA 2026 Bosch Media Service",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkVBSFlCbmVZZ2ZjbHFzRTZQaldwNFhlYmw5c3p1MzFRSk5LRURucGN3cWZxYzFGdktENXB2M2FWZmgwd1ZxcGlUNzlPXzNNbXh6N2FMM3JNOElfcEpJdUtvWjkxM24tUFZab0pYd0Q5U2NnMkJNOTdGdW9UWGRnZGs5YXI1N2c?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "10 Jahre Bosch Smart Home: Neue Funktionen für Heizung und Kameras - appgefahren.de",
+        "source": "appgefahren.de",
+        "publishedAt": "2026-09-01T07:00:52+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Neue Funktionen für Heizung und Kameras appgefahren.de",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkRibFlZanF2Rl9BYkRCVTZ0S0dfdDQzZmFYWFJqTk5aSk9BSktyU0hsRTBoRHVSRVZxdVBTYkJtZmhTY2FNZkZkdWc1eENEdnNmSWhkMHlzNXY1amhHUVhYVElLcFFINkJ5UTc3SmNxM01UVzB2OXlFX0l6MDdHNjN6MlhINXBLVUZQdzlWUmc4OHhwYWtwTl9Wc1pPR29VbF9Zb2JxMHI?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-09-01T06:59:42+00:00",
+        "summary": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjZCTEpKdnBQOW9sOFpFWVVUYmhrbjNrM3k1SHlwVmR4SFJFZGVoNGV6c0ZFdWU5N0hVVVgtQWdfdnlCZlk5U3o4Unh1YTJJaElJV3VwMXhRYzZoMC1UaFVaSEk0ek5ycDFyaVh3TUotaHNKMWZKU1Mza1VmSWNoQy1mRmgtMFB1WmZPZUdZVTJtNnROVThGejFhVmFIRHRBTEVQLUZtOE9kdXcta05xUlVZOA?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-08-29T10:12:48+00:00",
+        "summary": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEZObkx3XzRkSW5xRVpMZ2NKSWFNbVJFQmlQOFdFN3lhQzV6U0ZJajU3RTR0b3c2eDcyS3ZDaGNHdkZabWE1SDdXei1hYWxwQV8wVmxxcTdBSFd2RzdOcGFMY2FBMnVZUG1fdmE0NDJ4bjVhTVVMdmlwcE5wQ05ySmRXTXjSAYoBQVVfeXFMTjRuMjUyaE9CUTBJcFQ2NGE0SmdxbXFVU2NQaE9xZUVBVkl3YmR4NUtOZzRQaXhKSTUwamwweVhzZTJhMUJVck1VeXpnZl8zcEI5LWVXX0tuUkc3aENkandYTVRPQTd3c2Q3TE9oRHgtaENleDNmQ3JTaGdHX09Xa01EU0x5MDFIM093?oc=5",
+        "tags": [
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-08-20T09:30:00+00:00",
+        "summary": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUF6QmFzN1NpOVBKVzE2S2dydFdydGpuNHNEMUMxeU5Yc1FISkdLUnZfOHIyTzBaRW05NWZYSE5lUzg5UE5XSFlGVGRuSXJFU2Y5OWVzQmh2X21uYUlPWTFRSnB1WU42aXdMXzdCaWF3V2p5RmVydF9jM3hHcDRSWDdsZVJJMzVocVhn?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-08-19T16:18:21+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzczdEJCaHo5Tld2TDhSeGtlcXFkQndjVzJMUXFhX0tpUDFTdTBwYk1yUDNKM3c2R095cVpaTFdIWi1Hc3dpTExUOWh1WGdidlZfRGdDeDNodWZubU1GWDhDRVhCUFRzUEowYzFGM09VQW1Zd09UbXZCd2NodFQ0UlJnY3lGYkc5WWtPMTByWnk5NmRIazRzTTlrak02MUo2U3JNS1FhdG9fOVV6MGFheG85aTRUT09zVTBmSExpSFpRWGRpd0dBdmRJV1FJVjA?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
         ]
       }
     ],
     "doors": [
+      {
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-09-01T06:55:00+00:00",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
+      },
+      {
+        "title": "Apollo Aktie Und 2 Vermögensverwalter Im Fokus Der Kalifornischen Steuerdebatte - simplywall.st",
+        "source": "simplywall.st",
+        "publishedAt": "2026-08-17T07:00:00+00:00",
+        "summary": "Apollo Aktie Und 2 Vermögensverwalter Im Fokus Der Kalifornischen Steuerdebatte simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUU0SFZNaVViZUkweXlndmlzRGNWQUV4M0pQbzF1ZjJUNlhKeHYwVkRVdTlqbkVROElic2ZHWE8yb00zT0xDd251Z0l1MmRSTklBTUptMWg3RDc1SlBpcUtOWkpiczFlbzhXVmhhX1czWEpjdEd5NUN1MWtKMUd5T1VWeWVmSW02NnpMZ1NoNkVXYXVuNTRiVFdrZmF6djU0dVV0bHRCU3dERi1JODJDMDBkWXdDVVJQbWV0aG1NNkkxUGo4NWtVQnctNVdvZjdPcGFGcHZlSm9rY2R3TVhLZU1UMERlZ2JpMGV6Nm130gHzAUFVX3lxTE9EWXp3N2FfWVVqa3psRDdwWjVGN2pDYUJ0UVhBUlVJaFhwenJ4dmIzXzc1b3EtRzRydWpVMjRkdWpxREluZ0xRZUptdnViTkFKTWg5VHFXWklFLWNxWTZLSVBQZWE0cjFGZ3U1cHJRekhIVXJzenF4ZkZkVmViQy1vdnJtVWZyT0t1QTZ5UTkzT09tUVBmUk1oUFRnY1NtVlU5NnRMcENvQkphbkN0cFVvWW52VEotUWlibFU3RDByN2lmVnN2NXJweG1jQkpIdkRKc1JwNlN3T3I3VFVuNEE2ako4NDJ2NEc1QS1KOXR0dzlSbw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
+        "source": "das investment",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
+        "tags": [
+          "das investment"
+        ]
+      },
+      {
+        "title": "EQS-News: Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - boerse.de - boerse.de",
+        "source": "boerse.de",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "EQS-News: Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - boerse.de boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckxHS3JRMVlXRkdRNnBOc1FVb1RYZHpSNkdKTGVwVVg4RF9DS0Z2eGxDeG1YeHZESjJkY2hVWksxUXltcEdfZ0w5a0pVQlg0TlZFbTZ5U2gwLXRjM2s3d1ByVDdNUXVETVVrenB4M2tfM2FiZFI0Q0JROXBjNFFjTFNfZ1JPN2d3R3B2NGFQNHhlSnU3eWE3Xy1HWDA0c1k4LW9PYjBELWNGVVZxSklpSVYtS1FvZDNNbG9Ud2FYUW5aYW5aT3U3S0QtSW02OE5wN2JCNUZmVmhDbnc1QzJLZ0tMWjZaXzRtdnZ1NFY2RGzSAfYBQVVfeXFMUFo2VnF1elVfNm9IZVE1QlBvRG9iYzBxdHotWTZ1aGxNWk5naENlYkZmeEtGRWpuNEZndFhQa2Q1dzdCTU5vSGRyVm1RZTlEXzIzVVV0d2tKazRtb2hiOEkyX2VCcWJPdEQ2RzhCeWJEVnd4MWxwVzJMeGVIUEUyMUFOQWdCMmNEM3lhUjk2UVE0VHNkRFBsU0hpNk9QUUcyYVJJdUt1cUpydWZiTHlVcWZNTEtYNzRfUm83VVlmaXAyVWZGZWx2T3drblNfQ2thRDdtRkZwZEY3Wm5HOVVGNS00OUpoNjFKaWNaT0YwZnFmMFhITGFn?oc=5",
+        "tags": [
+          "boerse.de"
+        ]
+      },
+      {
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
+        "source": "koha.net",
+        "publishedAt": "2026-07-22T07:00:00+00:00",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
+        "publishedAt": "2026-07-21T07:00:00+00:00",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
+        "source": "businessinsider.de",
+        "publishedAt": "2026-07-10T07:00:00+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-07-06T07:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Eintritt nur bei ausreichenden Deutschkenntnissen: Stadt fordert das Bad auf, die Regel zurückzunehmen - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-06-24T07:00:00+00:00",
+        "summary": "Eintritt nur bei ausreichenden Deutschkenntnissen: Stadt fordert das Bad auf, die Regel zurückzunehmen apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWVLRVdHaU1ra2hwM3BRMTlINXkxcl9CQTZ2OTR4Tk9NUTVzeVlFUjVvNTRwUzBCWjI4R0pnY1NpTU9Nc2dtZG9hTDB5VXZXS3JSRjBhUmVHLXNVX1dQaDR5d1FIZ0dKVlh5SlRzc2JIdXZacERVWng4MGY1NDRSSmNGR1BSTXZBYXFrTEFiaWdjRXNjeDFsZWZFOG5wNlJDRHRwQkdwa283azR1SFBUdDk4aktsNFlpM1VjU2l2ZDRUdw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Dritte Auszeichnung: Geze erhält German Innovation Award 2026 - fenster-tueren-technik.de",
         "source": "fenster-tueren-technik.de",
@@ -262,87 +374,27 @@
         ]
       },
       {
-        "title": "GEZEs Türdämpfer ActiveStop nun auch als aufliegende Variante - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2018-05-11T07:00:00+00:00",
-        "summary": "GEZEs Türdämpfer ActiveStop nun auch als aufliegende Variante Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwMi1TV3FyeENVOHNDLVI3NWI0MERoQU1Ccmp2MWpweXBLeTNzd1lZZUI1UDd6VmFzZTN4QkVUblFDS1pxQUpmQnZQZ0htVkJOeW5oczBjQzljT2ZN?oc=5",
+        "title": "Interroll übernimmt Royal Apollo Group - logistik-online.ch",
+        "source": "logistik-online.ch",
+        "publishedAt": "2026-05-08T07:00:00+00:00",
+        "summary": "Interroll übernimmt Royal Apollo Group logistik-online.ch",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Whitepaper zur DIN 14677 und zum fristgerechten Austausch von Rauchschaltern in Feststellanlagen - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2017-04-24T07:00:00+00:00",
-        "summary": "Whitepaper zur DIN 14677 und zum fristgerechten Austausch von Rauchschaltern in Feststellanlagen Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5waTB4TDRXRU96QU1VanlNbXFrbjZqUE9Nd0tHaWxQSHRyUm9abXZySUxEVkJrUlRVNTZBRGluN2dQQzROclB6V1UwOTJ1bFI1M2ZWenhCTU9oeWFh?oc=5",
-        "tags": [
-          "Feststellanlage"
-        ]
-      },
-      {
-        "title": "Close-Motion: Ruhe am Türschließer - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2017-03-07T08:00:00+00:00",
-        "summary": "Close-Motion: Ruhe am Türschließer Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KVnBGUDMxNEg2eURnbUJLNDhQa1BuMlhfM1lRQmRUdGdYWmFLYkdVX3pTcUU3QlBvTDdia0ZFUkticUwzdk9TM0x2Y0ZxbDRpRm4zNmFSOUEzcDF0?oc=5",
-        "tags": [
-          "Baulinks"
-        ]
-      },
-      {
-        "title": "Außentürschließer speziell bei ansteigendem Gelände - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2014-11-21T08:00:00+00:00",
-        "summary": "Außentürschließer speziell bei ansteigendem Gelände Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yd2J3aWFLLXpzaE83c3dPczN1MXBCdS1kbFZNclctZHNKc211ZHRzZDNJbUg1NUdJN1dOQUl2X05LYzBsOUZJWDlKeFd1ZGpKTmd4dEItM3E0OFgz?oc=5",
-        "tags": [
-          "Baulinks"
-        ]
-      },
-      {
-        "title": "GEZE Türschließer mit hoher Schließkraft leicht zu öffnen - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2012-04-11T07:00:00+00:00",
-        "summary": "GEZE Türschließer mit hoher Schließkraft leicht zu öffnen Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82WWUwLXNjYVVSZUtJUUIyZUMtOHBOWTdTa0R5b1ZQR0NZNUFuMkwzLTIyd1hTVjZLZEZPOF9aRFF2R0kwN3FhbGRfWFlRYWtBZDgxNWZFeThVZU53?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "GEZE TS 5000 ECline mit Gleitschiene - der innovative Allrounder mit barrierefreien Stärken - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2011-10-11T07:00:00+00:00",
-        "summary": "GEZE TS 5000 ECline mit Gleitschiene - der innovative Allrounder mit barrierefreien Stärken PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZDJSMUs0Q2JmVExfRlh0NXlaYnlMVzVDaHR4LUdxMndod29Da1FxaFpHd0N1M3ZaTHh5NHZDX3l5NEN4cTBWcU1hQ1ZKYUR1MUpYYUtScDdrWnAwZkpzU002MmlnTzBZeE8xMTBubHNCVGVDUUNBY3hFak10R0xONEFSZUx6aXpUUGd5eDNSQlFFdVhLZ0Z6VG9YU2ttelQ4MzVucTNjX3VXNDE4QVdPN1BOWjlkX0RXTTRLeDZZOTIwVVJrTG1SXzZNQ2hDblBfRXFhRDZUeE9CLWZyQ0Yta1NzeVFDeVFr?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Barrierefreie Zugänge auf 20 sehr informativen Seiten - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2011-02-24T08:00:00+00:00",
-        "summary": "Barrierefreie Zugänge auf 20 sehr informativen Seiten Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tdnVzSXNteWk5cVEtWVZXc1hUZzJISE1INzkxaXVpNDUyVjdYZVl1aUVqQWZKQmlSdS05QTVwTVZldWpNOGpnS3FiSUNRT282WnAzSDVlSmlCUElf?oc=5",
-        "tags": [
-          "Baulinks"
-        ]
-      },
-      {
-        "title": "GEZE auf der fensterbau: Das einbruchsichere Schiebetürsystem Slimdrive SL WK2 – filigran und doch robust - openPR.de",
-        "source": "openPR.de",
-        "publishedAt": "2010-04-08T07:00:00+00:00",
-        "summary": "GEZE auf der fensterbau: Das einbruchsichere Schiebetürsystem Slimdrive SL WK2 – filigran und doch robust openPR.de",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObG04UF8xRXMxVXFXVVR6bUN1ZVlsZExSZEQ1TktwbGhNenVYRTZUT2MyTmh3M0hqN0NHT0ZJOW9xaEp0Q0dJSEhhakRPRVlTckd6TnN6UWdLX0NfanExejNhRGpnOTVlbEtTc3FKMGstTGI4UjByQl9ENHhqbEVTV3VnY0NQMl9kYU5Sblg5bkoxWDJSV21qa3cycnRLYXEwLWJocGRKWVlCVkQ1LWtTVXdsUlp0TC1sRHkyVlFQemJRN2xuZks2UXNnSUtOYk9uQkhqZ3RpSHc1dw?oc=5",
-        "tags": [
-          "GEZE"
+          "Apollo"
         ]
       }
     ],
     "trends": [
+      {
+        "title": "Kosten von 24 Millionen Euro: Dieses neue KI-Rechenzentrum soll auch Gebäude heizen - SWR",
+        "source": "SWR",
+        "publishedAt": "2026-09-03T16:30:00+00:00",
+        "summary": "Kosten von 24 Millionen Euro: Dieses neue KI-Rechenzentrum soll auch Gebäude heizen SWR",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWV6WjhROHNVdHRDeEdIZTVBT0xQdm1VYVVQazF3RjBhQUM5QTFCUmtHX0xxZmpCejVZV21vOVozY3l2eU91R1lFeWRJRUk2czQxQzlTM0s0NXk1RkhWVUtBbVdSZnpJQnlBZEFuYTVXaU1DeGVIb2ZBbk9fekhGUmxFQnJ1Y2U1YXV3eDFRRDZBZ01lOGN6eVIyNDVDVEt2TGpSSjNoYkpWczM1Y2U5SmhXZFJITThqcXJySWR5VUJRWS1TcUdMd3I2M1JYdFla?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
       {
         "title": "Gebäudesicherheit per App steuern und überwachen - elektro.net",
         "source": "elektro.net",
@@ -425,6 +477,16 @@
         ]
       },
       {
+        "title": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll - mdr.de",
+        "source": "mdr.de",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll mdr.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUVNTFc5YzNJUENHcXNMT1NIRjNDR2sxMjF5RndJVENlM2N6WGhtYXBiRVlpcnpQTENIMDVSdE9uaTJZWEdLQ1VOOHRveVdnQ3RiOVhudXN4Y3RwMlpHandJdTFVbmtCazUtZTczbTVVXzl4Wk5CSW43bVFSMXNobDdGc3BIOWlJeC10MXRIa2lRSWlDaFhnYnpEaw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
         "source": "ARD Mediathek",
         "publishedAt": "2026-08-19T15:38:01+00:00",
@@ -435,31 +497,11 @@
         ]
       },
       {
-        "title": "Stundenlang Buh-Rufe und Sprechchöre: Wie eine US-Vorstadt gegen ein neues KI-Rechenzentrum kämpft - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-24T07:00:00+00:00",
-        "summary": "Stundenlang Buh-Rufe und Sprechchöre: Wie eine US-Vorstadt gegen ein neues KI-Rechenzentrum kämpft Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWG5nYUZLaHY3Z1pZRVZ1V3B2bFBibnBQejBjc0Y3LXRMaXh0YnZhdlZiS0NEcExEeEU2Vlp2bU9KMXpJb2hyMHFrS0VtOVczMVZkT3BSTzh2WFRDQWFPa0s4WWFlbnp3RnJUVXZJWVVuWjJVQTdoSlJLbGxWZDZSUjE0NUM4OE9ES3Mxd09sMjk5dlVNVUktcmg1dnFOdm9xTTN4RmRPd0E5QWd6VEtIRnJxOXhZVEkx?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? - kreiszeitung-wochenblatt.de",
-        "source": "kreiszeitung-wochenblatt.de",
-        "publishedAt": "2026-07-20T07:00:00+00:00",
-        "summary": "Wird das Gebäude für die Stadt Winsen zu einem finanziellen Problem? kreiszeitung-wochenblatt.de",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVp1SEhzS2tpMm9KLU5Vd1dzRE8wRmFXZFNqamdWd1FleV9FR0t3WV9hWWlxeVdhOGFCeEIxYzNLUjQwTF9ROURzX01aUllVOEtWTFRmbWpUTk1USFlOeTZwR2tmR3IzZXFtbktXaWZNdWR2QXBVNS0zWDloZWQ3N1hDN1g1ZUROOWpMYW9EQWZ3WlVmVHpCRlJRVDBUa1JYdFN3aXpDS291R1l1eE92V2l2bURXZnFzWENCc3FfSmRsSDVlUlhUUkxnbjdIZW9y?oc=5",
-        "tags": [
-          "kreiszeitung-wochenblatt.de"
-        ]
-      },
-      {
-        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-19T07:00:00+00:00",
-        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
+        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
+        "source": "tagesschau.de",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
         ]
