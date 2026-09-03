@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:51:33.513987+00:00",
+  "generatedAt": "2026-09-03T09:22:40.468954+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -14,10 +14,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
-        "source": "Baulinks",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
+        "source": "baulinks.de",
         "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -105,10 +105,10 @@
         ]
       },
       {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - Aargauer Zeitung",
-        "source": "Aargauer Zeitung",
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - aargauerzeitung.ch",
+        "source": "aargauerzeitung.ch",
         "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt Aargauer Zeitung",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt aargauerzeitung.ch",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjUxWjFiSl83d2lXMXlacDBBRFFEXy0yWXlUNEFJVW1DbFdsaFJCWGQxY2l1X282ckJGaWtJNldENWlLZnk3am9MX0lCOGdpUjk5cmg3VmRvTFIxWDVnOHl2T0xOYy1XcEpfSC1Ca20waGU0U0N2dHVrQ1FOVURWZldib2tKYVYtLTgtVTlFTUZ1ZXF1TmwzZzgxRmgxenhBZE5HUkJ1Tm56Rk91?oc=5",
         "tags": [
           "Siemens"
@@ -126,6 +126,16 @@
       }
     ],
     "pfs": [
+      {
+        "title": "Bosch Smarthome mit zusätzlichen Abo-Funktionen - iphone-ticker.de",
+        "source": "iphone-ticker.de",
+        "publishedAt": "2026-09-01T15:14:12+00:00",
+        "summary": "Bosch Smarthome mit zusätzlichen Abo-Funktionen iphone-ticker.de",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjJjZlM2cE9EdkptVzl5SVhqNlJvUjF6ejBYWHVRYVlOWU1jSldYekQtUmdFY2xnTE5NZm1xN2F0S1VORVB3dzR3blBLUkxmZll0eHdkTi1iOGtWLWF1WFJldExZV0ozcXZOU2hmeFI1YzRxM0MyeGVkZ1FKZmZ1MHQ4Y2VhUFFsdEVfWGt3?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
       {
         "title": "Bosch rüstet sein Smarthome auf! - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
@@ -205,75 +215,67 @@
         ]
       },
       {
-        "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - drwindows.de",
-        "source": "drwindows.de",
+        "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - Dr. Windows",
+        "source": "Dr. Windows",
         "publishedAt": "2026-08-27T09:54:11+00:00",
-        "summary": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert drwindows.de",
+        "summary": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert Dr. Windows",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMy0zdEdoNU12bm5udGQ1ZEpSOEo2TUNGMXEybmhPaHNFVEpleDFucjVTZ0VIRFhyYTRJeGE0M3VlbFhEa0VESlRLX3hBZzBtOXQ2QkVXVzAzc3J0emJiQndvZm8zTWJuMU8tR2N5aDRFMDdOVUMtQmUtOGZJY1Z1SFZzbDFhX0ZDTEdJYXBzSjZRXzlHOHNoWmNpUW5XR0pxVjlF?oc=5",
         "tags": [
           "X-Sense"
         ]
       },
       {
-        "title": "Tink: Bosch Smart Home Raumthermostat II - n-tv.de",
+        "title": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-08-20T09:30:00+00:00",
+        "summary": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUF6QmFzN1NpOVBKVzE2S2dydFdydGpuNHNEMUMxeU5Yc1FISkdLUnZfOHIyTzBaRW05NWZYSE5lUzg5UE5XSFlGVGRuSXJFU2Y5OWVzQmh2X21uYUlPWTFRSnB1WU42aXdMXzdCaWF3V2p5RmVydF9jM3hHcDRSWDdsZVJJMzVocVhn?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren - n-tv.de",
         "source": "n-tv.de",
-        "publishedAt": "2026-08-19T16:18:17+00:00",
-        "summary": "Tink: Bosch Smart Home Raumthermostat II n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX29CaDNidGN6bW1GclFDU2xGeTl2X3RQSC1CcTVZc2pCZFJqYW9hVEJ0ZnhCc2tSdXBlTDVIaVRGTzZFU3FUZUMzbUwtTHdlSmRTQUd0ZThUeGJ0REhBOVk4TVR2RVNtUVBURHdwa240SUlnWmhqRXFzTzRVZkpYZHB2M3k4MGRFdXE2eXdhM2FkVHJVVnc?oc=5",
+        "publishedAt": "2026-08-19T16:18:21+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzczdEJCaHo5Tld2TDhSeGtlcXFkQndjVzJMUXFhX0tpUDFTdTBwYk1yUDNKM3c2R095cVpaTFdIWi1Hc3dpTExUOWh1WGdidlZfRGdDeDNodWZubU1GWDhDRVhCUFRzUEowYzFGM09VQW1Zd09UbXZCd2NodFQ0UlJnY3lGYkc5WWtPMTByWnk5NmRIazRzTTlrak02MUo2U3JNS1FhdG9fOVV6MGFheG85aTRUT09zVTBmSExpSFpRWGRpd0dBdmRJV1FJVjA?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
         ]
       },
       {
-        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWFRSG5NQ1ctUkJBaGQ5VUtRTGRabERSVW04TGM0UU5HcE9iN0lWY0pCWDE0NlpxOW1HVlF1d3RFTnFja2d0d2VCZ0EyMUlmNTN0NDVQYVpIc05kM2tZOGtMMDlWTTdUbjdhNnNUSUx2bmFrWnd0OWJGMW92TWNpQUtFUjFtc0U?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Amazon: X-Sense smarter Rauchmelder mit Sprachausgabe und W-Lan - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-07-31T18:00:27+00:00",
-        "summary": "Amazon: X-Sense smarter Rauchmelder mit Sprachausgabe und W-Lan n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWRmanBxQmhYUkkzYkxwZTR4bDNXcWMxMEQ3NGNsWm1OUEVmYW51MmNqeXNPVUk3cDFhSXdQY1d4Z0daRTZLeUJRV0ZoQ2hDaTY0UEo5SUpmX3MtTkZfUWxINk95YXozVTFRTVBsMFZRQWhCek16cXJMRVVKQmxjNDNnUGh2VTFuajIySGxETFlSVTR5cmVGeDdXSW1YWDJVQzJjd29aQVBOQzlYMzBQWmZR?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-06-25T07:00:00+00:00",
-        "summary": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2cwN2NWdWhVeU52QmQ5RW5EQ2pLTUN6b3hTLW8wcVlZVDcxWWZ1OWtSQUU5a01INVRMeDliVHoxWWRZelBXQTFkMTUxaTZ5eEZ4bUFtbmd0MGlldURneTM5NE05amUxZEhWOUZnUzNyUEVyTHFBYkFMbmV2ZmNBenhUVWxkdW5BejJqUVlKZXhRM2VxZVltZg?oc=5",
+        "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside digital",
+        "source": "inside digital",
+        "publishedAt": "2026-08-18T11:28:00+00:00",
+        "summary": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test inside digital",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDJsQU92NFZaWm82LU1UMWxoaGlPaEdWMmU0OGQ0eHBwTC1XcVNCNTZPWWVMSmJtQ3p1VWN3bGUwYndSbXZuWHRucHFXRUtDbTEyd2tDZlFzamFfTXFFTjMtVHVkbVJYUFlIN1BTbi1LNFYybHhIenF3TGtpTF9VUjRTeUtSMmFjWG1zbGVESExkYUI0eE5maEhvaE1ic2dlUzdDcXFVVFVJMzM0eElBdGJBQkw2QdIBuwFBVV95cUxOeU5lcEFmVVY2Y1VjVkkxVE9ZbU9nOV9zakl6SjhhUDZhU0dlOHRsdFpIdDBjTEoyRV9yd0VMbTVfOUNMeHlNNUN4QlRoNDRJNkxWQ2tiU1RHNW5OX2VPa3pOa21LUkt0MTN3SUt0Qi1iSExUQzYzWGw4YWtkVWlscUdmeHdFdTdfeFN5WnJvR0xHSGZ1NGxJUkdLTlZ4Vm5iM0JQb2hmc3ZjaFFyeW5xYnk3LWNiU1JiSkYw?oc=5",
         "tags": [
           "Ei",
-          "X-Sense"
+          "Bosch"
         ]
       }
     ],
     "doors": [
-      {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-09-01T06:55:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
       {
         "title": "Finanzgigant Apollo wird Opfer eines Hackerangriffs - Zamin.uz",
         "source": "Zamin.uz",
         "publishedAt": "2026-08-21T13:54:34+00:00",
         "summary": "Finanzgigant Apollo wird Opfer eines Hackerangriffs Zamin.uz",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUFHc25QSUp0dXZmS2J4LXNodjUtRXNQR2NmNWd1VXczcnVwcWQ1TlNFWkI5bWRoWEJkb2U4cjU0TjFFWUFROU1rT19IZ0FLa2lVZXNEZDBYc1ZrdkdXa19pRXF2aXhBSF9mT3pXdE9OZ0pLcU9lS3oyYkhqM0pfbHgwY1ZreEFnT2VhVzlXekZtTmRUUDhoQno2aw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo Aktie Und 2 Vermögensverwalter Im Fokus Der Kalifornischen Steuerdebatte - simplywall.st",
+        "source": "simplywall.st",
+        "publishedAt": "2026-08-17T07:00:00+00:00",
+        "summary": "Apollo Aktie Und 2 Vermögensverwalter Im Fokus Der Kalifornischen Steuerdebatte simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUU0SFZNaVViZUkweXlndmlzRGNWQUV4M0pQbzF1ZjJUNlhKeHYwVkRVdTlqbkVROElic2ZHWE8yb00zT0xDd251Z0l1MmRSTklBTUptMWg3RDc1SlBpcUtOWkpiczFlbzhXVmhhX1czWEpjdEd5NUN1MWtKMUd5T1VWeWVmSW02NnpMZ1NoNkVXYXVuNTRiVFdrZmF6djU0dVV0bHRCU3dERi1JODJDMDBkWXdDVVJQbWV0aG1NNkkxUGo4NWtVQnctNVdvZjdPcGFGcHZlSm9rY2R3TVhLZU1UMERlZ2JpMGV6Nm130gHzAUFVX3lxTE9EWXp3N2FfWVVqa3psRDdwWjVGN2pDYUJ0UVhBUlVJaFhwenJ4dmIzXzc1b3EtRzRydWpVMjRkdWpxREluZ0xRZUptdnViTkFKTWg5VHFXWklFLWNxWTZLSVBQZWE0cjFGZ3U1cHJRekhIVXJzenF4ZkZkVmViQy1vdnJtVWZyT0t1QTZ5UTkzT09tUVBmUk1oUFRnY1NtVlU5NnRMcENvQkphbkN0cFVvWW52VEotUWlibFU3RDByN2lmVnN2NXJweG1jQkpIdkRKc1JwNlN3T3I3VFVuNEE2ako4NDJ2NEc1QS1KOXR0dzlSbw?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -319,10 +321,10 @@
         ]
       },
       {
-        "title": "Mit Balkongitter: Von Diebstahl betroffene Apollo-Galerie im Louvre wieder geöffnet - stern.de",
-        "source": "stern.de",
+        "title": "Mit Balkongitter: Von Diebstahl betroffene Apollo-Galerie im Louvre wieder geöffnet - STERN.de",
+        "source": "STERN.de",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Mit Balkongitter: Von Diebstahl betroffene Apollo-Galerie im Louvre wieder geöffnet stern.de",
+        "summary": "Mit Balkongitter: Von Diebstahl betroffene Apollo-Galerie im Louvre wieder geöffnet STERN.de",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQUZNWHRsaUZpUXR3X0dUZU5NQTRRQ09UWXY3SzVuSVpZUmVSYnVRbzdzbjZ4MmlqWG5Od1Vwc3p1Nl84b1doRFM2ZUgtM0VHUWdCYUxCQUlIXzZlaWRPdkdOZDF2QVpwTmNzUTZVN3JmdVI2SFNZUjF5UlgtRzZjcmY1QW1kN0poOFAwRk5GakRRNVlIT21Fd3Y0Z3d2SlBRZk1CQzB6Wl9aeGtWM2tEUmY2Q0stZzNibEl4dkVRTzRDUQ?oc=5",
         "tags": [
           "Apollo"
@@ -392,11 +394,21 @@
         ]
       },
       {
-        "title": "Kosten von 24 Millionen Euro: Dieses neue KI-Rechenzentrum soll auch Gebäude heizen - SWR",
-        "source": "SWR",
-        "publishedAt": "2026-09-01T09:18:02+00:00",
-        "summary": "Kosten von 24 Millionen Euro: Dieses neue KI-Rechenzentrum soll auch Gebäude heizen SWR",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWV6WjhROHNVdHRDeEdIZTVBT0xQdm1VYVVQazF3RjBhQUM5QTFCUmtHX0xxZmpCejVZV21vOVozY3l2eU91R1lFeWRJRUk2czQxQzlTM0s0NXk1RkhWVUtBbVdSZnpJQnlBZEFuYTVXaU1DeGVIb2ZBbk9fekhGUmxFQnJ1Y2U1YXV3eDFRRDZBZ01lOGN6eVIyNDVDVEt2TGpSSjNoYkpWczM1Y2U5SmhXZFJITThqcXJySWR5VUJRWS1TcUdMd3I2M1JYdFla?oc=5",
+        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - idw - Informationsdienst Wissenschaft",
+        "source": "idw - Informationsdienst Wissenschaft",
+        "publishedAt": "2026-09-01T08:50:00+00:00",
+        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes idw - Informationsdienst Wissenschaft",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd25CZnhUb3h2cHk3bGlrS0tBOGVadTJZNlFKS1ExMTZobFpObElqWnNwTGhxb1lzNy1LVm80bXVHMWlQVVUzY2FYSkJWWmVzUDlOdlplVjhmM0JDMGUzWndIVDIzV2ptSl9Mbk9JdTI0VHBoTkFwSElJWFA2NHA3ZHhiWkw5VzJXc2Z5MkJ2b0Vra2FHQ24zSXl3eU9lMF9VUFBPNnBzNFJRQ0JyMUY1WFNhdkRTYURKLW1BWjk5Qm9VM05DM2xxN3dsdm55SVFtMXRscUwxWFI1OHhzUWk5c1JyZG9ZTjRvZDdXQw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - openpr.de",
+        "source": "openpr.de",
+        "publishedAt": "2026-09-01T08:50:00+00:00",
+        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes openpr.de",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUkp2eHNTNTY0NWxwZ3dDTVVUOVVpbTdUcVdYS3g0Skdpeng2S2dWcmZqU3UtQ2JjS3JXVmRMX3pIV0VqTmZGd1JNWXQxU2s2MjFicHVBenFIRVVYQUs5enZzSmN2MU9nRW1TbTR1c3ltbUxmUzBXc2FhSXJ4S2NzY1MycHp3VFdXS0R4aHNFTjFHSHd3bFVfa01yNEVHVHg5Qk1UOXFIR0ktQzNOeVY0cmdIWkhCOUxHUGFuSTdQOUxzckxPWENieUpTdVplNkpoeUVVUEVVOUQ0OGRuem9rZWtObm50azVSM2xz?oc=5",
         "tags": [
           "KI"
         ]
@@ -419,16 +431,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
         "tags": [
           "Normen"
-        ]
-      },
-      {
-        "title": "Wohnhausbrand in Kempten: Zwei Bewohner leicht verletzt, Gebäude unbewohnbar - BSAktuell",
-        "source": "BSAktuell",
-        "publishedAt": "2026-08-28T06:41:54+00:00",
-        "summary": "Wohnhausbrand in Kempten: Zwei Bewohner leicht verletzt, Gebäude unbewohnbar BSAktuell",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWJzdVJ6dXNjMHR6WVc2NnhnbzQ5enFoM1pOem1LbGZwUzhTeWNBZzV0RDVqTWxZczY2VjNwWnY0ZEVnUGJTRTdKNlR5R1pvdFRTUUFxdS1PVHdUN0NEYXBRamU5WkhrOGplQkNfN1FPVjJJekJxQU9JWWlpLTgxTVFNZzFVS3lqOVJqN1lCODZZU3htTXNrQnVnS09YODBhbkZzamZib1drUURhSlprdExJN1FrbURxRVRNOA?oc=5",
-        "tags": [
-          "BSAktuell"
         ]
       },
       {
@@ -462,10 +464,10 @@
         ]
       },
       {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - infopoint-security.de",
+        "source": "infopoint-security.de",
         "publishedAt": "2026-08-21T14:29:24+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche infopoint-security.de",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
         "tags": [
           "KI"
@@ -492,13 +494,13 @@
         ]
       },
       {
-        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
-        "source": "BILD",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
+        "title": "Stundenlang Buh-Rufe und Sprechchöre: Wie eine US-Vorstadt gegen ein neues KI-Rechenzentrum kämpft - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-24T07:00:00+00:00",
+        "summary": "Stundenlang Buh-Rufe und Sprechchöre: Wie eine US-Vorstadt gegen ein neues KI-Rechenzentrum kämpft Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWG5nYUZLaHY3Z1pZRVZ1V3B2bFBibnBQejBjc0Y3LXRMaXh0YnZhdlZiS0NEcExEeEU2Vlp2bU9KMXpJb2hyMHFrS0VtOVczMVZkT3BSTzh2WFRDQWFPa0s4WWFlbnp3RnJUVXZJWVVuWjJVQTdoSlJLbGxWZDZSUjE0NUM4OE9ES3Mxd09sMjk5dlVNVUktcmg1dnFOdm9xTTN4RmRPd0E5QWd6VEtIRnJxOXhZVEkx?oc=5",
         "tags": [
-          "Nachhaltigkeit"
+          "KI"
         ]
       }
     ]
