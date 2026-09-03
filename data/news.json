@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T20:00:37.905568+00:00",
+  "generatedAt": "2026-09-03T22:41:17.586038+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -105,10 +105,10 @@
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - news.save.ch",
+        "source": "news.save.ch",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor news.save.ch",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
@@ -239,18 +239,6 @@
         ]
       },
       {
-        "title": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-08-20T09:30:00+00:00",
-        "summary": "Bosch Smart Home: Wer dieses Thermostat hat, braucht jetzt ein Update Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUF6QmFzN1NpOVBKVzE2S2dydFdydGpuNHNEMUMxeU5Yc1FISkdLUnZfOHIyTzBaRW05NWZYSE5lUzg5UE5XSFlGVGRuSXJFU2Y5OWVzQmh2X21uYUlPWTFRSnB1WU42aXdMXzdCaWF3V2p5RmVydF9jM3hHcDRSWDdsZVJJMzVocVhn?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-08-19T16:18:21+00:00",
@@ -259,6 +247,17 @@
         "tags": [
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside digital",
+        "source": "inside digital",
+        "publishedAt": "2026-08-18T07:00:00+00:00",
+        "summary": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test inside digital",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDJsQU92NFZaWm82LU1UMWxoaGlPaEdWMmU0OGQ0eHBwTC1XcVNCNTZPWWVMSmJtQ3p1VWN3bGUwYndSbXZuWHRucHFXRUtDbTEyd2tDZlFzamFfTXFFTjMtVHVkbVJYUFlIN1BTbi1LNFYybHhIenF3TGtpTF9VUjRTeUtSMmFjWG1zbGVESExkYUI0eE5maEhvaE1ic2dlUzdDcXFVVFVJMzM0eElBdGJBQkw2QdIBuwFBVV95cUxOeU5lcEFmVVY2Y1VjVkkxVE9ZbU9nOV9zakl6SjhhUDZhU0dlOHRsdFpIdDBjTEoyRV9yd0VMbTVfOUNMeHlNNUN4QlRoNDRJNkxWQ2tiU1RHNW5OX2VPa3pOa21LUkt0MTN3SUt0Qi1iSExUQzYzWGw4YWtkVWlscUdmeHdFdTdfeFN5WnJvR0xHSGZ1NGxJUkdLTlZ4Vm5iM0JQb2hmc3ZjaFFyeW5xYnk3LWNiU1JiSkYw?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
         ]
       }
     ],
@@ -334,10 +333,10 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
-        "source": "businessinsider.de",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
@@ -374,10 +373,10 @@
         ]
       },
       {
-        "title": "Interroll übernimmt Royal Apollo Group - logistik-online.ch",
-        "source": "logistik-online.ch",
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
         "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group logistik-online.ch",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
@@ -386,16 +385,6 @@
     ],
     "trends": [
       {
-        "title": "Kosten von 24 Millionen Euro: Dieses neue KI-Rechenzentrum soll auch Gebäude heizen - SWR",
-        "source": "SWR",
-        "publishedAt": "2026-09-03T16:30:00+00:00",
-        "summary": "Kosten von 24 Millionen Euro: Dieses neue KI-Rechenzentrum soll auch Gebäude heizen SWR",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSWV6WjhROHNVdHRDeEdIZTVBT0xQdm1VYVVQazF3RjBhQUM5QTFCUmtHX0xxZmpCejVZV21vOVozY3l2eU91R1lFeWRJRUk2czQxQzlTM0s0NXk1RkhWVUtBbVdSZnpJQnlBZEFuYTVXaU1DeGVIb2ZBbk9fekhGUmxFQnJ1Y2U1YXV3eDFRRDZBZ01lOGN6eVIyNDVDVEt2TGpSSjNoYkpWczM1Y2U5SmhXZFJITThqcXJySWR5VUJRWS1TcUdMd3I2M1JYdFla?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Gebäudesicherheit per App steuern und überwachen - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-09-02T08:00:00+00:00",
@@ -403,17 +392,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVNxb2ZQSmZjMTA1dXVreXQ2RXhiak91cktJQ3ZGdXZLU3JUWU1aS1BSRVB1OXBSUkFZeEtZeDNiYTFQaXhHLW1rcWUwZmRWczlrQUJ6alBBS0JCUEw2TkFhckdOOEtVOEV4RE9uWE1uVXhhT2EyRlhYMWF0WGU4SzAycFNBUWtYd1E?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Raum-Container für die TMS + KI verändert Berufe + Streik bei Baker Hughes in Ahrensburg - Lübecker Nachrichten",
-        "source": "Lübecker Nachrichten",
-        "publishedAt": "2026-09-02T02:55:09+00:00",
-        "summary": "Raum-Container für die TMS + KI verändert Berufe + Streik bei Baker Hughes in Ahrensburg Lübecker Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUzU5N2psdi1ubW5wVHZwZ1JkV3NfZGhoa3R1SEFhT3UxcDJvSVg2aEJtb21XNnVWTTRTNjczbC0td2w1alZLQVdSY0dCSmxVZkpnOEozT2lnV0xsdDFZSjYxRncxeHFrWTFOQThoWFRLb0NCbTdjVHNuUFVRTXdYc185bEM3SmZrTDd3THB6Vk9nRWdmUXJoTWdmcDFOOVMyRldWV19uWWF0SkhUaE1UYUhTb09sTldic2UtcTgzOVk3MGgzbmhWYU10azlER3c5QlJPcFMxcVpUSkVkNGU1SzlyaHRmSlRodEF6Wi0yVzdWd9IBjgJBVV95cUxNQkZ2N1E5ajU1SXc0WUNqb2k0YWxxdWhTUUZ3d3lGQ1ZHRGx5Z3pUcVBYR3BaUmlSb3JfMTc5TEQ4QnpXakpjNkhnbnBvbVZqOERTVjJTM1k4NEdUZzBTRHJPSTJWWldlRVhEOUZ6QnMxUGlPNEswS3dSUE1SLUhCcXV4Y0xRMFQ3aG1kQU5IcFIwQkdvZW9vWFVxUHNiTEdjbFl3ZEFBSGR6ZmZOU2dyZ0diOXFPN2xhT0VXZkotVUVmTE9vZ2lLZ1J1RUZIVEI0LUw1RG1fMFZXdHMtVTVqOWRyMWJnS3hfbUxlcHp6Q1RESnk3LVlSeGNCNDVoUXdyTExCQU9vYnNrTjR6Vnc?oc=5",
-        "tags": [
-          "KI",
-          "AI"
         ]
       },
       {
@@ -434,6 +412,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SU0l3MENNR0R4ZzVJWGZnbmlrcDVFZTcxN2VldVBuVEdXN1dKa2ZURjRUMlQta0ZMekU3MVFhZmt2SkM4R2tMa2IyVnJ6TWVhVWhaTVNSTVY2LWpuRUlzZmt5djZVQm9kT0E?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-28T00:52:33+00:00",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -477,10 +465,10 @@
         ]
       },
       {
-        "title": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll - mdr.de",
-        "source": "mdr.de",
+        "title": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll - MDR.de",
+        "source": "MDR.de",
         "publishedAt": "2026-08-20T07:00:00+00:00",
-        "summary": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll mdr.de",
+        "summary": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll MDR.de",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUVNTFc5YzNJUENHcXNMT1NIRjNDR2sxMjF5RndJVENlM2N6WGhtYXBiRVlpcnpQTENIMDVSdE9uaTJZWEdLQ1VOOHRveVdnQ3RiOVhudXN4Y3RwMlpHandJdTFVbmtCazUtZTczbTVVXzl4Wk5CSW43bVFSMXNobDdGc3BIOWlJeC10MXRIa2lRSWlDaFhnYnpEaw?oc=5",
         "tags": [
           "KI"
@@ -504,6 +492,16 @@
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand - verbaende.com",
+        "source": "verbaende.com",
+        "publishedAt": "2026-07-23T09:23:55+00:00",
+        "summary": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand verbaende.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEFkdXUxNGstTHpFSWN2Nm44MTRSWm14TjE3aUtpcHJVVVNwV2R0Qm1HbkpJdVlma290QXRqVVR6NGtZNVlERlp4WE16czd6VFNrQzM3WkIydW9ZYWEwa3pHQ2N0OGkxZ3ZLU19LRVdsdk5DaDd4cl9nZFF4ZmZSMXY3dnlESjAwRmt6a1R5clN3eTFxMzFRNWVEZVF4MklVU1N4RWxVcmEyNF9JaEpDZ0ZLVEdfakE?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       }
     ]
