@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T05:20:37.923901+00:00",
+  "generatedAt": "2026-09-04T09:48:25.547390+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -105,27 +105,39 @@
         ]
       },
       {
-        "title": "Nova-Brandmelder ermöglichen Ferndiagnosen - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Nova-Brandmelder ermöglichen Ferndiagnosen elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmRUNllLN041WnY4cjAtTWRjQjFhMDdEb3ozZjhaVDkycllyZmQwWlNRT2FhMmY3YV9aR0hIaTVramt0V042RnppaldjaWJuelJkekZYcW1RSXFhalVtNGw5RUZSNjlEdmQ3NjFfeHQ0VWpxYWJUWmgyX2F4NGkydg?oc=5",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ",
+        "source": "NZZ",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "elektro.net"
+          "NZZ"
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ – Neue Zürcher Zeitung",
-        "source": "NZZ – Neue Zürcher Zeitung",
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ – Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
-          "NZZ – Neue Zürcher Zeitung"
+          "Siemens"
         ]
       }
     ],
     "pfs": [
+      {
+        "title": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras - Apfelpage",
+        "source": "Apfelpage",
+        "publishedAt": "2026-09-04T08:23:59+00:00",
+        "summary": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras Apfelpage",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnNhb1FnTkpua00tbDVwQmMwWHBFcDcyYnJ3T1VTZHVjVTM4VjZvSk5xVnFZbXhTeHdJb0Q0QzZQODhzeXdjb0k5TnA5UjdQM2N2ZVlMOFRSTnJRZXp6RkE5aVI0dURMZjlVWGo4ZlBZZ0dQeXFxVjdSdHdFU01VRHpHT2xDYWlHRlJxZ3pGaURrbmxyNGtLcXUwRHo1UDh1ZVdXYlpCQzZZQXFDZ1pRLTNnWnpsWk9EX25uQzlDbVVuZ28?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
       {
         "title": "Bosch Smarthome mit zusätzlichen Abo-Funktionen - iphone-ticker.de",
         "source": "iphone-ticker.de",
@@ -183,6 +195,16 @@
         ]
       },
       {
+        "title": "Bosch auf der IFA 2026: Intelligente Lösungen für mehr Wohlbefinden und Komfort - Bosch Media Service",
+        "source": "Bosch Media Service",
+        "publishedAt": "2026-09-01T07:04:15+00:00",
+        "summary": "Bosch auf der IFA 2026: Intelligente Lösungen für mehr Wohlbefinden und Komfort Bosch Media Service",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWUk2VXJNcjI2cURQM3J6Qkk4S2N0ZjJfeTllMy1Ld3ZoTERjbk5NR3Z3cndHNWtFWUw1NUF2Q2FPYXFOYjk2aXFpVGJJcnhuRkc4Ukpyb2dGOWt4Rmg4dHVPSl84MXI0SjM5dzBnZ3ppWkE3UmdhNHQ0R25Wb1lDZ2h3cU9WYnBFd3lFWlE5ZWpBLXZBSVdUbHlhcHBULTVtSkNKTk16Z3djcFlxRVpDVklGMGd5Rlp6RlJCQWt6bUtWNnRqT0thcko5YS1zdE9HaXl6NA?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch auf der IFA 2026 - Bosch Media Service",
         "source": "Bosch Media Service",
         "publishedAt": "2026-09-01T07:03:58+00:00",
@@ -237,27 +259,6 @@
         "tags": [
           "Smart Home"
         ]
-      },
-      {
-        "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - Dr. Windows",
-        "source": "Dr. Windows",
-        "publishedAt": "2026-08-27T09:57:34+00:00",
-        "summary": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert Dr. Windows",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLVZjRnprdW8tVzhTaDJrLWJWV1BpN3l3Vi1lZkFyVE1ETGF4UWEtdG55NE9qWFFPSUp3N1l0YTEwTkRyTjZzeGN5cEhqNGRFWGdodHhLZERQeVh6eEN5eF84NkNaaFJhSjM1ZUFsUkpxQ21URGxITnRrZ1ItYmlRSUJ4Zndvd2Z6dUlycjQ1N1k?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-08-19T16:18:21+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzczdEJCaHo5Tld2TDhSeGtlcXFkQndjVzJMUXFhX0tpUDFTdTBwYk1yUDNKM3c2R095cVpaTFdIWi1Hc3dpTExUOWh1WGdidlZfRGdDeDNodWZubU1GWDhDRVhCUFRzUEowYzFGM09VQW1Zd09UbXZCd2NodFQ0UlJnY3lGYkc5WWtPMTByWnk5NmRIazRzTTlrak02MUo2U3JNS1FhdG9fOVV6MGFheG85aTRUT09zVTBmSExpSFpRWGRpd0dBdmRJV1FJVjA?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
@@ -269,16 +270,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
           "Spiegel"
-        ]
-      },
-      {
-        "title": "Apollo Multispeciality Hospitals Kolkata führt Indiens ersten umfassenden 5G-verbundenen Krankenwagendienst ein - Apollo Hospitals",
-        "source": "Apollo Hospitals",
-        "publishedAt": "2026-08-25T00:25:52+00:00",
-        "summary": "Apollo Multispeciality Hospitals Kolkata führt Indiens ersten umfassenden 5G-verbundenen Krankenwagendienst ein Apollo Hospitals",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSldncXJ5V19YY2Q0MkNRUGl6TVRPNV9RYkQzR2lsQ0NqYklRYzlHY2NDR2NfTGUzT3RvaVgtUXU3Rko2ZF9NUGFXcGJDWlRNUmNJdEF3TE1aUzZoWi1HakFKRXJSVzR1UFBlaUgzTlpoMUhjNmVja0Z1NG5QTTdodnh1d2pScVY5THRmYUtEc3B2OVlNV3dfSDJlYUlfUFVrekdIV1VCSlNEeHp2LUJLNHlQeU9HamtRMURnaWhEOUd6ZkQ1cEFLR2FIQkJSSkNxZXVCSkJjbjZ1VkRGaGhuamZGblRkUGRIRTBaVDF3?oc=5",
-        "tags": [
-          "Apollo"
         ]
       },
       {
@@ -302,6 +293,16 @@
         ]
       },
       {
+        "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
+        "source": "tippinpoint.ch",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden tippinpoint.ch",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
+        "tags": [
+          "tippinpoint.ch"
+        ]
+      },
+      {
         "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
         "source": "Börsen-Zeitung",
         "publishedAt": "2026-07-27T07:00:00+00:00",
@@ -312,21 +313,11 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
+        "source": "koha.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
-        "source": "exxpress",
-        "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -352,16 +343,6 @@
         ]
       },
       {
-        "title": "Eintritt nur bei ausreichenden Deutschkenntnissen: Stadt fordert das Bad auf, die Regel zurückzunehmen - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-06-24T07:00:00+00:00",
-        "summary": "Eintritt nur bei ausreichenden Deutschkenntnissen: Stadt fordert das Bad auf, die Regel zurückzunehmen apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWVLRVdHaU1ra2hwM3BRMTlINXkxcl9CQTZ2OTR4Tk9NUTVzeVlFUjVvNTRwUzBCWjI4R0pnY1NpTU9Nc2dtZG9hTDB5VXZXS3JSRjBhUmVHLXNVX1dQaDR5d1FIZ0dKVlh5SlRzc2JIdXZacERVWng4MGY1NDRSSmNGR1BSTXZBYXFrTEFiaWdjRXNjeDFsZWZFOG5wNlJDRHRwQkdwa283azR1SFBUdDk4aktsNFlpM1VjU2l2ZDRUdw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
         "source": "Logistik Online",
         "publishedAt": "2026-05-08T07:00:00+00:00",
@@ -380,14 +361,34 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-03-31T07:00:00+00:00",
+        "summary": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Geese spielen neuen Song „Apollo“ live in Berlin - thecircle.de",
+        "source": "thecircle.de",
+        "publishedAt": "2026-03-17T07:00:00+00:00",
+        "summary": "Geese spielen neuen Song „Apollo“ live in Berlin thecircle.de",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXNTXzNBeTZpUDgzYnNVaUZQV1RKX0dJeFpWYVR5RUNlVW5hOVBXcmI3M2s1RUczYTJfeGRFZ215V2RsR2hQazhzc0tUZWdOTDlKWi1uSkZPaGpLZ01hLWhQak5MeTNLUWxlTDR1VzZvUTJvQ1VjdV9aZjcyTHBvSktXZDY?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
       {
-        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - technische-logistik.net",
-        "source": "technische-logistik.net",
+        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - Technische Logistik",
+        "source": "Technische Logistik",
         "publishedAt": "2026-09-04T03:05:00+00:00",
-        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation technische-logistik.net",
+        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation Technische Logistik",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
         "tags": [
           "Retrofit"
@@ -494,13 +495,13 @@
         ]
       },
       {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
-        "publishedAt": "2026-08-21T14:29:24+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
+        "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
+        "source": "myheimat.de",
+        "publishedAt": "2026-08-22T13:52:50+00:00",
+        "summary": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 myheimat.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
-          "KI"
+          "myheimat.de"
         ]
       }
     ]
