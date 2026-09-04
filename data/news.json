@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-09-04T13:55:21.638852+00:00",
+  "generatedAt": "2026-09-04T17:19:35.680954+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
+        "source": "ingenieur.de",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
         "source": "buildingTIMES",
@@ -65,6 +75,16 @@
         ]
       },
       {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
+        ]
+      },
+      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -72,16 +92,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ",
-        "source": "NZZ",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "NZZ"
         ]
       },
       {
@@ -95,31 +105,21 @@
         ]
       },
       {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ",
+        "source": "NZZ",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "NZZ"
+        ]
+      },
+      {
         "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
         "source": "www.bote.ch",
         "publishedAt": "2026-03-30T07:00:00+00:00",
         "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -195,16 +195,6 @@
         ]
       },
       {
-        "title": "Bosch auf der IFA 2026 - Bosch Media Service",
-        "source": "Bosch Media Service",
-        "publishedAt": "2026-09-01T07:03:58+00:00",
-        "summary": "Bosch auf der IFA 2026 Bosch Media Service",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkVBSFlCbmVZZ2ZjbHFzRTZQaldwNFhlYmw5c3p1MzFRSk5LRURucGN3cWZxYzFGdktENXB2M2FWZmgwd1ZxcGlUNzlPXzNNbXh6N2FMM3JNOElfcEpJdUtvWjkxM24tUFZab0pYd0Q5U2NnMkJNOTdGdW9UWGRnZGs5YXI1N2c?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Neue Funktionen für Heizung und Kameras - appgefahren.de",
         "source": "appgefahren.de",
         "publishedAt": "2026-09-01T07:00:52+00:00",
@@ -259,17 +249,27 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - Dr. Windows",
+        "source": "Dr. Windows",
+        "publishedAt": "2026-08-27T09:57:34+00:00",
+        "summary": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert Dr. Windows",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLVZjRnprdW8tVzhTaDJrLWJWV1BpN3l3Vi1lZkFyVE1ETGF4UWEtdG55NE9qWFFPSUp3N1l0YTEwTkRyTjZzeGN5cEhqNGRFWGdodHhLZERQeVh6eEN5eF84NkNaaFJhSjM1ZUFsUkpxQ21URGxITnRrZ1ItYmlRSUJ4Zndvd2Z6dUlycjQ1N1k?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
-        "source": "Spiegel",
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - spiegel.de",
+        "source": "spiegel.de",
         "publishedAt": "2026-09-01T06:55:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis spiegel.de",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
-          "Spiegel"
+          "spiegel.de"
         ]
       },
       {
@@ -310,6 +310,16 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
           "Börsen-Zeitung"
+        ]
+      },
+      {
+        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
+        "source": "TradingView",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
+        "tags": [
+          "TradingView"
         ]
       },
       {
@@ -371,16 +381,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -425,20 +425,10 @@
         ]
       },
       {
-        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-08-28T11:09:42+00:00",
-        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
+        "source": "faz.net",
         "publishedAt": "2026-08-28T00:52:33+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
@@ -455,13 +445,13 @@
         ]
       },
       {
-        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-08-27T19:29:44+00:00",
-        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu AD HOC NEWS",
+        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
         "tags": [
-          "AD HOC NEWS"
+          "ad-hoc-news.de"
         ]
       },
       {
@@ -502,6 +492,16 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - Elektrobranche",
+        "source": "Elektrobranche",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "go-e & Tekko: Kooperation ist offiziell besiegelt Elektrobranche",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNGNUeThTSVk0YkRDTF90MGVXVTRORUd6U3ZSejBoTDliQkZrbzdUVUF4VER1Ym1mQlBDbld2Y1lKN190b1RQVnlUNGJxQkhERGlEVDhNQl80LUxHeVhmVTE0RGxJLU1YTWxGQVBTWHNMdGZLUExBS1hDZw?oc=5",
+        "tags": [
+          "Elektrobranche"
         ]
       }
     ]
