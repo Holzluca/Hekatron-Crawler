@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-09-04T00:37:27.814996+00:00",
+  "generatedAt": "2026-09-04T05:20:37.923901+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-08-17T07:00:00+00:00",
+        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-07-13T07:00:00+00:00",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
         "source": "buildingTIMES",
@@ -11,17 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
         "tags": [
           "buildingTIMES"
-        ]
-      },
-      {
-        "title": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert - it-daily",
-        "source": "it-daily",
-        "publishedAt": "2026-06-14T07:00:00+00:00",
-        "summary": "Virenscanner schlagen Fehlalarm: Updates für Siemens Desigo CC blockiert it-daily",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0N6UzdWNVUwR2F2c2RpUTBGMVhXZF94bEdTRHRqNDdaaFRXd0g2YXNkUTZ4WmhuaDk3RDJOZFpoaDA5LXZScVhZU2hjSjBFR1lJdTNwR3VQanBESGptQXBuLTBxSDB5WGI3YkdvSlBXTWRfeC1SQ2RUeXF6WHNFZ2ZpLUV0cERIZ3VvVA?oc=5",
-        "tags": [
-          "Siemens",
-          "NSC"
         ]
       },
       {
@@ -113,16 +122,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ – Neue Zürcher Zeitung"
-        ]
-      },
-      {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - news.save.ch",
-        "source": "news.save.ch",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor news.save.ch",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -240,6 +239,16 @@
         ]
       },
       {
+        "title": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert - Dr. Windows",
+        "source": "Dr. Windows",
+        "publishedAt": "2026-08-27T09:57:34+00:00",
+        "summary": "Smartes Rauchmelder-Set SD11-MR61 von X-Sense ausprobiert Dr. Windows",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLVZjRnprdW8tVzhTaDJrLWJWV1BpN3l3Vi1lZkFyVE1ETGF4UWEtdG55NE9qWFFPSUp3N1l0YTEwTkRyTjZzeGN5cEhqNGRFWGdodHhLZERQeVh6eEN5eF84NkNaaFJhSjM1ZUFsUkpxQ21URGxITnRrZ1ItYmlRSUJ4Zndvd2Z6dUlycjQ1N1k?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-08-19T16:18:21+00:00",
@@ -248,17 +257,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside digital",
-        "source": "inside digital",
-        "publishedAt": "2026-08-18T07:00:00+00:00",
-        "summary": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test inside digital",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDJsQU92NFZaWm82LU1UMWxoaGlPaEdWMmU0OGQ0eHBwTC1XcVNCNTZPWWVMSmJtQ3p1VWN3bGUwYndSbXZuWHRucHFXRUtDbTEyd2tDZlFzamFfTXFFTjMtVHVkbVJYUFlIN1BTbi1LNFYybHhIenF3TGtpTF9VUjRTeUtSMmFjWG1zbGVESExkYUI0eE5maEhvaE1ic2dlUzdDcXFVVFVJMzM0eElBdGJBQkw2QdIBuwFBVV95cUxOeU5lcEFmVVY2Y1VjVkkxVE9ZbU9nOV9zakl6SjhhUDZhU0dlOHRsdFpIdDBjTEoyRV9yd0VMbTVfOUNMeHlNNUN4QlRoNDRJNkxWQ2tiU1RHNW5OX2VPa3pOa21LUkt0MTN3SUt0Qi1iSExUQzYzWGw4YWtkVWlscUdmeHdFdTdfeFN5WnJvR0xHSGZ1NGxJUkdLTlZ4Vm5iM0JQb2hmc3ZjaFFyeW5xYnk3LWNiU1JiSkYw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       }
     ],
@@ -271,6 +269,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
           "Spiegel"
+        ]
+      },
+      {
+        "title": "Apollo Multispeciality Hospitals Kolkata führt Indiens ersten umfassenden 5G-verbundenen Krankenwagendienst ein - Apollo Hospitals",
+        "source": "Apollo Hospitals",
+        "publishedAt": "2026-08-25T00:25:52+00:00",
+        "summary": "Apollo Multispeciality Hospitals Kolkata führt Indiens ersten umfassenden 5G-verbundenen Krankenwagendienst ein Apollo Hospitals",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSldncXJ5V19YY2Q0MkNRUGl6TVRPNV9RYkQzR2lsQ0NqYklRYzlHY2NDR2NfTGUzT3RvaVgtUXU3Rko2ZF9NUGFXcGJDWlRNUmNJdEF3TE1aUzZoWi1HakFKRXJSVzR1UFBlaUgzTlpoMUhjNmVja0Z1NG5QTTdodnh1d2pScVY5THRmYUtEc3B2OVlNV3dfSDJlYUlfUFVrekdIV1VCSlNEeHp2LUJLNHlQeU9HamtRMURnaWhEOUd6ZkQ1cEFLR2FIQkJSSkNxZXVCSkJjbjZ1VkRGaGhuamZGblRkUGRIRTBaVDF3?oc=5",
+        "tags": [
+          "Apollo"
         ]
       },
       {
@@ -291,16 +299,6 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
-        "source": "das investment",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
-        "tags": [
-          "das investment"
         ]
       },
       {
@@ -364,16 +362,6 @@
         ]
       },
       {
-        "title": "Dritte Auszeichnung: Geze erhält German Innovation Award 2026 - fenster-tueren-technik.de",
-        "source": "fenster-tueren-technik.de",
-        "publishedAt": "2026-05-19T07:00:00+00:00",
-        "summary": "Dritte Auszeichnung: Geze erhält German Innovation Award 2026 fenster-tueren-technik.de",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR21NRElseGVsd3lteEFjNFJOejRmcE9GTW41R1pPNG5hZldwTk52SklCS0FHMjUzYkxpb0ZncjUtdlo2UGhoOVo4TjVuZm5LZmoyM2hhTFJ6dVNtY25vX2g0ZHprYkVfM09wVTc1OW4yZC1zYlVRSDVRVW55Nko5TDNER3VtbExxeVpXdWt1WlNvYzBFYW80ak5pWWZYb3dGQ3BBaElNTWJvYm5s?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
         "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
         "source": "Logistik Online",
         "publishedAt": "2026-05-08T07:00:00+00:00",
@@ -382,9 +370,29 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
+      {
+        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - technische-logistik.net",
+        "source": "technische-logistik.net",
+        "publishedAt": "2026-09-04T03:05:00+00:00",
+        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation technische-logistik.net",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
+        "tags": [
+          "Retrofit"
+        ]
+      },
       {
         "title": "Gebäudesicherheit per App steuern und überwachen - elektro.net",
         "source": "elektro.net",
@@ -393,6 +401,16 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVNxb2ZQSmZjMTA1dXVreXQ2RXhiak91cktJQ3ZGdXZLU3JUWU1aS1BSRVB1OXBSUkFZeEtZeDNiYTFQaXhHLW1rcWUwZmRWczlrQUJ6alBBS0JCUEw2TkFhckdOOEtVOEV4RE9uWE1uVXhhT2EyRlhYMWF0WGU4SzAycFNBUWtYd1E?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - idw - Informationsdienst Wissenschaft",
+        "source": "idw - Informationsdienst Wissenschaft",
+        "publishedAt": "2026-09-01T08:50:00+00:00",
+        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes idw - Informationsdienst Wissenschaft",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd25CZnhUb3h2cHk3bGlrS0tBOGVadTJZNlFKS1ExMTZobFpObElqWnNwTGhxb1lzNy1LVm80bXVHMWlQVVUzY2FYSkJWWmVzUDlOdlplVjhmM0JDMGUzWndIVDIzV2ptSl9Mbk9JdTI0VHBoTkFwSElJWFA2NHA3ZHhiWkw5VzJXc2Z5MkJ2b0Vra2FHQ24zSXl3eU9lMF9VUFBPNnBzNFJRQ0JyMUY1WFNhdkRTYURKLW1BWjk5Qm9VM05DM2xxN3dsdm55SVFtMXRscUwxWFI1OHhzUWk5c1JyZG9ZTjRvZDdXQw?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -413,6 +431,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SU0l3MENNR0R4ZzVJWGZnbmlrcDVFZTcxN2VldVBuVEdXN1dKa2ZURjRUMlQta0ZMekU3MVFhZmt2SkM4R2tMa2IyVnJ6TWVhVWhaTVNSTVY2LWpuRUlzZmt5djZVQm9kT0E?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-08-28T11:09:42+00:00",
+        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
+        "tags": [
+          "Normen"
         ]
       },
       {
@@ -446,6 +474,26 @@
         ]
       },
       {
+        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
+        "source": "Fuldaer Zeitung",
+        "publishedAt": "2026-08-26T14:49:00+00:00",
+        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Planung von Brandmeldeanlagen mit KI - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-08-25T14:24:00+00:00",
+        "summary": "Planung von Brandmeldeanlagen mit KI elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1NhbEJiS19hdU5IU2NIQ0lVYzY3YXJUa3B6MFF0aHhabjQ5R0Y1ZFBrVnFLSHJjQm9yNm84SkVvbnFPVVpUeFZxYldRdWVlQmh4REgyWDdjZl9RQ0VNSnZOZF9BeXoxZFROeU5fNlZaSEd0bnJGaHpveEhSdldiLWNwakU5WHotVlRHSTRRc3FzNjdP?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
         "source": "Infopoint Security",
         "publishedAt": "2026-08-21T14:29:24+00:00",
@@ -453,56 +501,6 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - Elektrobranche",
-        "source": "Elektrobranche",
-        "publishedAt": "2026-08-20T07:00:00+00:00",
-        "summary": "go-e & Tekko: Kooperation ist offiziell besiegelt Elektrobranche",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNGNUeThTSVk0YkRDTF90MGVXVTRORUd6U3ZSejBoTDliQkZrbzdUVUF4VER1Ym1mQlBDbld2Y1lKN190b1RQVnlUNGJxQkhERGlEVDhNQl80LUxHeVhmVTE0RGxJLU1YTWxGQVBTWHNMdGZLUExBS1hDZw?oc=5",
-        "tags": [
-          "Elektrobranche"
-        ]
-      },
-      {
-        "title": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll - MDR.de",
-        "source": "MDR.de",
-        "publishedAt": "2026-08-20T07:00:00+00:00",
-        "summary": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll MDR.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUVNTFc5YzNJUENHcXNMT1NIRjNDR2sxMjF5RndJVENlM2N6WGhtYXBiRVlpcnpQTENIMDVSdE9uaTJZWEdLQ1VOOHRveVdnQ3RiOVhudXN4Y3RwMlpHandJdTFVbmtCazUtZTczbTVVXzl4Wk5CSW43bVFSMXNobDdGc3BIOWlJeC10MXRIa2lRSWlDaFhnYnpEaw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
-        "publishedAt": "2026-08-19T15:38:01+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
-        "source": "tagesschau.de",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand - verbaende.com",
-        "source": "verbaende.com",
-        "publishedAt": "2026-07-23T09:23:55+00:00",
-        "summary": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand verbaende.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEFkdXUxNGstTHpFSWN2Nm44MTRSWm14TjE3aUtpcHJVVVNwV2R0Qm1HbkpJdVlma290QXRqVVR6NGtZNVlERlp4WE16czd6VFNrQzM3WkIydW9ZYWEwa3pHQ2N0OGkxZ3ZLU19LRVdsdk5DaDd4cl9nZFF4ZmZSMXY3dnlESjAwRmt6a1R5clN3eTFxMzFRNWVEZVF4MklVU1N4RWxVcmEyNF9JaEpDZ0ZLVEdfakE?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
         ]
       }
     ]
