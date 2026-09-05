@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:44:25.158997+00:00",
+  "generatedAt": "2026-09-05T12:16:28.681359+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -14,13 +14,24 @@
         ]
       },
       {
-        "title": "Neue IoT-Brandmelder präsentiert - buildingtimes.at",
-        "source": "buildingtimes.at",
+        "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
+        "source": "buildingTIMES",
         "publishedAt": "2026-07-01T07:00:00+00:00",
-        "summary": "Neue IoT-Brandmelder präsentiert buildingtimes.at",
+        "summary": "Neue IoT-Brandmelder präsentiert buildingTIMES",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
         "tags": [
-          "buildingtimes.at"
+          "buildingTIMES"
+        ]
+      },
+      {
+        "title": "Maßgeschneiderter Brandschutz für die King Khalid University - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-06-04T13:38:39+00:00",
+        "summary": "Maßgeschneiderter Brandschutz für die King Khalid University Siemens",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWpuVGM1Tnh1U1M5UTB2SENqeHFoNlp2TTc5bUdxQ1k2bG5sRWIyTDgtd0dWdjc0dzNkRFJBY3hoTGdPUkxzMmVMRUQ5dlJXX1RnWFZMeE91WEpMVXN2ODNRM0JrYnk3QXFPQ2FwRmxiSzdzUUZ6NUp5aTJqcVhvZzducm1KT3hEZXVVT3lGRVVOQQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       },
       {
@@ -105,27 +116,38 @@
         ]
       },
       {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
-        "source": "www.bote.ch",
+        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - bote.ch",
+        "source": "bote.ch",
         "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
+        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt bote.ch",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
         "tags": [
           "Siemens"
         ]
       }
     ],
     "pfs": [
+      {
+        "title": "Bosch OneFlow Serie 6 | Das bietet die stärkere Variante - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-09-05T09:23:24+00:00",
+        "summary": "Bosch OneFlow Serie 6 | Das bietet die stärkere Variante SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iRXo3RzJ3SVhCM01fM1huTVhVZWR3OUZ6NzBlazVVNTRIWHVQTXBnU190R1ZoUUk4Nm8tR2t5Mlg2SjVFNW1ISjBzWEkzcFl5SGtFZGtLdDMyTzNaa1pDeEpnN2Jmb09mRmJhWTRQcm1kVUhzZlBv?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch OneFlow Serie 4 | Bosch steigt in den Wischsauger-Markt ein - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-09-05T08:59:18+00:00",
+        "summary": "Bosch OneFlow Serie 4 | Bosch steigt in den Wischsauger-Markt ein SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yUEdad0g0RnhiRm92VDM5amlCeV85R3FwR1Utb2JIaHJVTWRHUC1UdzZSbE9GN0NydE9fdkV2RVFYZnBnTzRPWWhIZ0E1T2g2SzZzTkV0bGpZR29taGl4V0ZNaUF6R09rRDhGSjVQQTFUdTB5M0Zj?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
       {
         "title": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras - Apfelpage",
         "source": "Apfelpage",
@@ -136,16 +158,6 @@
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch Smarthome mit zusätzlichen Abo-Funktionen - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-09-01T15:14:12+00:00",
-        "summary": "Bosch Smarthome mit zusätzlichen Abo-Funktionen iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjJjZlM2cE9EdkptVzl5SVhqNlJvUjF6ejBYWHVRYVlOWU1jSldYekQtUmdFY2xnTE5NZm1xN2F0S1VORVB3dzR3blBLUkxmZll0eHdkTi1iOGtWLWF1WFJldExZV0ozcXZOU2hmeFI1YzRxM0MyeGVkZ1FKZmZ1MHQ4Y2VhUFFsdEVfWGt3?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -172,6 +184,17 @@
         ]
       },
       {
+        "title": "10 Jahre Bosch Smart Home - PoS-Mail",
+        "source": "PoS-Mail",
+        "publishedAt": "2026-09-01T13:25:07+00:00",
+        "summary": "10 Jahre Bosch Smart Home PoS-Mail",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FTFFxTFZ1bmZZMEVsLWxrb1VhcVI5bjI3dnFMOGJEeFNsRzVKVTI1VnpPT0JhRFZ1VzVXaGpfczBjSlUtY0w4Zm44UUg1bEI4Yl9BTnVrN2ZjZw?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent - futurezone.de",
         "source": "futurezone.de",
         "publishedAt": "2026-09-01T12:20:36+00:00",
@@ -180,18 +203,6 @@
         "tags": [
           "Ei",
           "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home zur IFA: Heizabgleich im Abo, Eyes+ extra - blogspan.net",
-        "source": "blogspan.net",
-        "publishedAt": "2026-09-01T08:49:27+00:00",
-        "summary": "Bosch Smart Home zur IFA: Heizabgleich im Abo, Eyes+ extra blogspan.net",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42MS1MazJvZGV5andjVEtLdEtoZDl2eGlpMlVoZlBRSkgxS3FyWTdHYThIME5fQ2JDSjlscmdZQVBwZDlwcm1leUtPQ1BNU2pjbDNTM0ktTEs5Q0t6cDV5YUJGeXJXU3YzSDl4czN3WmV2dlo4SnFJY2dR?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
         ]
       },
       {
@@ -241,25 +252,13 @@
         ]
       },
       {
-        "title": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-08-19T16:18:21+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Licht-/ Rollladensteuerung mit 6 Unterputz-Aktoren n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzczdEJCaHo5Tld2TDhSeGtlcXFkQndjVzJMUXFhX0tpUDFTdTBwYk1yUDNKM3c2R095cVpaTFdIWi1Hc3dpTExUOWh1WGdidlZfRGdDeDNodWZubU1GWDhDRVhCUFRzUEowYzFGM09VQW1Zd09UbXZCd2NodFQ0UlJnY3lGYkc5WWtPMTByWnk5NmRIazRzTTlrak02MUo2U3JNS1FhdG9fOVV6MGFheG85aTRUT09zVTBmSExpSFpRWGRpd0dBdmRJV1FJVjA?oc=5",
+        "title": "Rauchmelderpflicht in Sachsen: Was hat sie gebracht? - Freie Presse",
+        "source": "Freie Presse",
+        "publishedAt": "2026-08-28T04:00:00+00:00",
+        "summary": "Rauchmelderpflicht in Sachsen: Was hat sie gebracht? Freie Presse",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEt3NHlsbjhCU2RTcXdJS0xoYkMyU0ZzQ05ZZV9lRVhPdDRnemN5X0M2cGhhS3hlTUNkdkExTDVwdW1FOGo4ZURGc2R4ZUUzTzdKT09ZS2F5R2YzTlBnc0ZFUDV2aFVhNXlpaHNkVUt5OW9nY0tyV2VyMjU2Njl4WGRlVW1OaWpibEc1Ti1pYTFUWHNldl8wSWhUaGVQWU9UalplZlFIOGh1czh0S3pUb196UQ?oc=5",
         "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test - inside digital",
-        "source": "inside digital",
-        "publishedAt": "2026-08-18T07:00:00+00:00",
-        "summary": "Sicherheit und Nachtlicht in einem: Bosch Bewegungsmelder II [+M] im Test inside digital",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUDJsQU92NFZaWm82LU1UMWxoaGlPaEdWMmU0OGQ0eHBwTC1XcVNCNTZPWWVMSmJtQ3p1VWN3bGUwYndSbXZuWHRucHFXRUtDbTEyd2tDZlFzamFfTXFFTjMtVHVkbVJYUFlIN1BTbi1LNFYybHhIenF3TGtpTF9VUjRTeUtSMmFjWG1zbGVESExkYUI0eE5maEhvaE1ic2dlUzdDcXFVVFVJMzM0eElBdGJBQkw2QdIBuwFBVV95cUxOeU5lcEFmVVY2Y1VjVkkxVE9ZbU9nOV9zakl6SjhhUDZhU0dlOHRsdFpIdDBjTEoyRV9yd0VMbTVfOUNMeHlNNUN4QlRoNDRJNkxWQ2tiU1RHNW5OX2VPa3pOa21LUkt0MTN3SUt0Qi1iSExUQzYzWGw4YWtkVWlscUdmeHdFdTdfeFN5WnJvR0xHSGZ1NGxJUkdLTlZ4Vm5iM0JQb2hmc3ZjaFFyeW5xYnk3LWNiU1JiSkYw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
+          "Ei"
         ]
       }
     ],
@@ -365,23 +364,23 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       },
       {
-        "title": "„Einrichtung muss schließen“: Deshalb wickelt die evangelische Kirche eine Kirche im Hochfeld ab - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-05-11T07:00:00+00:00",
-        "summary": "„Einrichtung muss schließen“: Deshalb wickelt die evangelische Kirche eine Kirche im Hochfeld ab Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2ZZRzJpTnZmRjNFcHJlendxb2R5LTRsSVc5NTc1R2tQcDQtR1NNVHRTX2V4RVEtdmtxYTVWaFZuN1E0bnVRVzJFSEQxM0MzdnhHXzVfb0dCb0lHa2pPcDNrNWcwMWtwR3F1a0pqdmUyZE11R0lmdDFIQ25zNkRsZWdkb25Md0JzT0J1ejRYc19abHFocVZ2VzJyb19JUmtjTlFhaldJcmFQdjh5QV9yODBTbjI?oc=5",
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
+        "publishedAt": "2026-05-08T07:00:00+00:00",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
-          "Augsburger Allgemeine"
+          "Apollo"
         ]
       }
     ],
@@ -419,19 +418,9 @@
       {
         "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
         "source": "FAZ",
-        "publishedAt": "2026-08-28T00:52:33+00:00",
+        "publishedAt": "2026-08-28T07:00:00+00:00",
         "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "„Dies ist nur ein Test“: Ransomware-Hacker tricksen KI-Sicherheitssysteme aus - news.inbox.lv",
-        "source": "news.inbox.lv",
-        "publishedAt": "2026-08-28T00:52:33+00:00",
-        "summary": "„Dies ist nur ein Test“: Ransomware-Hacker tricksen KI-Sicherheitssysteme aus news.inbox.lv",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkxBUFdNQzFqeENVNXZBTnRfeDZxX1lWR0ZtajNuNk5oTDhQUWoxcGtLODZRS1BTYVozX3oxZElYTWhnWUp3ZDZBYmRIVENsaFRkNUM1NWxRRkMyanlVZVA4dVJLLXpMOTJqUVhSRFVBeFFPOUxfcmlCUHhaQnRKR2dlN05NTUNtUzQtWU1BYnlWN2pUVlZBbWZjOUk2RHpCMlVINkhNVFRDQUpwYy1lYkhiZnNpTjNDd0ltZ1BoSDZjTzFZVThOd3N3?oc=5",
         "tags": [
           "KI"
         ]
@@ -504,6 +493,16 @@
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - DataCenter-Insider",
+        "source": "DataCenter-Insider",
+        "publishedAt": "2026-08-14T07:00:00+00:00",
+        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ DataCenter-Insider",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
+        "tags": [
+          "DataCenter-Insider"
         ]
       }
     ]
