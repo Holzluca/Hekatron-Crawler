@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T15:23:37.883004+00:00",
+  "generatedAt": "2026-09-05T17:25:50.326281+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,16 +34,6 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
-      {
         "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
         "source": "Siemens press",
         "publishedAt": "2026-06-01T07:00:00+00:00",
@@ -51,6 +41,16 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-05-22T07:00:00+00:00",
+        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
+        "tags": [
+          "elektro.net"
         ]
       },
       {
@@ -239,10 +239,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - Caschys Blog",
-        "source": "Caschys Blog",
+        "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - stadt-bremerhaven.de",
+        "source": "stadt-bremerhaven.de",
         "publishedAt": "2026-09-01T06:59:42+00:00",
-        "summary": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ Caschys Blog",
+        "summary": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ stadt-bremerhaven.de",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjZCTEpKdnBQOW9sOFpFWVVUYmhrbjNrM3k1SHlwVmR4SFJFZGVoNGV6c0ZFdWU5N0hVVVgtQWdfdnlCZlk5U3o4Unh1YTJJaElJV3VwMXhRYzZoMC1UaFVaSEk0ek5ycDFyaVh3TUotaHNKMWZKU1Mza1VmSWNoQy1mRmgtMFB1WmZPZUdZVTJtNnROVThGejFhVmFIRHRBTEVQLUZtOE9kdXcta05xUlVZOA?oc=5",
         "tags": [
           "Ei",
@@ -273,6 +273,16 @@
         ]
       },
       {
+        "title": "Finanzgigant Apollo wird Opfer eines Hackerangriffs - Zamin.uz",
+        "source": "Zamin.uz",
+        "publishedAt": "2026-08-21T07:00:00+00:00",
+        "summary": "Finanzgigant Apollo wird Opfer eines Hackerangriffs Zamin.uz",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUFHc25QSUp0dXZmS2J4LXNodjUtRXNQR2NmNWd1VXczcnVwcWQ1TlNFWkI5bWRoWEJkb2U4cjU0TjFFWUFROU1rT19IZ0FLa2lVZXNEZDBYc1ZrdkdXa19pRXF2aXhBSF9mT3pXdE9OZ0pLcU9lS3oyYkhqM0pfbHgwY1ZreEFnT2VhVzlXekZtTmRUUDhoQno2aw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - apollo-news.net",
         "source": "apollo-news.net",
         "publishedAt": "2026-08-13T07:00:00+00:00",
@@ -293,16 +303,6 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
-        "source": "t3n",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
-        "tags": [
-          "t3n"
-        ]
-      },
-      {
         "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
         "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
@@ -313,33 +313,23 @@
         ]
       },
       {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - boersen-zeitung.de",
-        "source": "boersen-zeitung.de",
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland boersen-zeitung.de",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
-          "boersen-zeitung.de"
+          "Börsen-Zeitung"
         ]
       },
       {
-        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - de.tradingview.com",
-        "source": "de.tradingview.com",
+        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
+        "source": "TradingView",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau de.tradingview.com",
+        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau TradingView",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
         "tags": [
-          "de.tradingview.com"
-        ]
-      },
-      {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
-        "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
-        "tags": [
-          "Apollo"
+          "TradingView"
         ]
       },
       {
@@ -370,6 +360,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
           "Handelsblatt"
+        ]
+      },
+      {
+        "title": "„Einrichtung muss schließen“: Deshalb wickelt die evangelische Kirche eine Kirche im Hochfeld ab - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-05-11T07:00:00+00:00",
+        "summary": "„Einrichtung muss schließen“: Deshalb wickelt die evangelische Kirche eine Kirche im Hochfeld ab Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2ZZRzJpTnZmRjNFcHJlendxb2R5LTRsSVc5NTc1R2tQcDQtR1NNVHRTX2V4RVEtdmtxYTVWaFZuN1E0bnVRVzJFSEQxM0MzdnhHXzVfb0dCb0lHa2pPcDNrNWcwMWtwR3F1a0pqdmUyZE11R0lmdDFIQ25zNkRsZWdkb25Md0JzT0J1ejRYc19abHFocVZ2VzJyb19JUmtjTlFhaldJcmFQdjh5QV9yODBTbjI?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -415,10 +415,10 @@
         ]
       },
       {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
+        "source": "faz.net",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
