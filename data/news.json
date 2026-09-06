@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T06:12:29.571632+00:00",
+  "generatedAt": "2026-09-06T11:10:07.667036+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -14,13 +14,23 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
-        "source": "Baulinks",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
+        "source": "baulinks.de",
         "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
+        "source": "buildingTIMES",
+        "publishedAt": "2026-07-01T07:00:00+00:00",
+        "summary": "Neue IoT-Brandmelder präsentiert buildingTIMES",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
+        "tags": [
+          "buildingTIMES"
         ]
       },
       {
@@ -54,10 +64,10 @@
         ]
       },
       {
-        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - siemens.com",
-        "source": "siemens.com",
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
         "publishedAt": "2026-05-05T12:32:58+00:00",
-        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem siemens.com",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
         "tags": [
           "Siemens",
@@ -65,23 +75,23 @@
         ]
       },
       {
-        "title": "Cybersecurity für die Pharmaproduktion - siemens.com",
-        "source": "siemens.com",
+        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
+        "source": "Siemens",
         "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion siemens.com",
+        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - diepholz.de",
+        "source": "diepholz.de",
         "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen diepholz.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
         "tags": [
-          "Landkreis Diepholz"
+          "diepholz.de"
         ]
       },
       {
@@ -105,21 +115,11 @@
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - news.save.ch",
+        "source": "news.save.ch",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor news.save.ch",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - bote.ch",
-        "source": "bote.ch",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt bote.ch",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -250,25 +250,25 @@
         ]
       },
       {
-        "title": "Rauchmelderpflicht in Sachsen: Was hat sie gebracht? - Freie Presse",
-        "source": "Freie Presse",
-        "publishedAt": "2026-08-28T04:00:00+00:00",
-        "summary": "Rauchmelderpflicht in Sachsen: Was hat sie gebracht? Freie Presse",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEt3NHlsbjhCU2RTcXdJS0xoYkMyU0ZzQ05ZZV9lRVhPdDRnemN5X0M2cGhhS3hlTUNkdkExTDVwdW1FOGo4ZURGc2R4ZUUzTzdKT09ZS2F5R2YzTlBnc0ZFUDV2aFVhNXlpaHNkVUt5OW9nY0tyV2VyMjU2Njl4WGRlVW1OaWpibEc1Ti1pYTFUWHNldl8wSWhUaGVQWU9UalplZlFIOGh1czh0S3pUb196UQ?oc=5",
+        "title": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-08-29T10:12:48+00:00",
+        "summary": "Smart Home wächst: Jetzt kommen die Roboter ins Spiel mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEZObkx3XzRkSW5xRVpMZ2NKSWFNbVJFQmlQOFdFN3lhQzV6U0ZJajU3RTR0b3c2eDcyS3ZDaGNHdkZabWE1SDdXei1hYWxwQV8wVmxxcTdBSFd2RzdOcGFMY2FBMnVZUG1fdmE0NDJ4bjVhTVVMdmlwcE5wQ05ySmRXTXjSAYoBQVVfeXFMTjRuMjUyaE9CUTBJcFQ2NGE0SmdxbXFVU2NQaE9xZUVBVkl3YmR4NUtOZzRQaXhKSTUwamwweVhzZTJhMUJVck1VeXpnZl8zcEI5LWVXX0tuUkc3aENkandYTVRPQTd3c2Q3TE9oRHgtaENleDNmQ3JTaGdHX09Xa01EU0x5MDFIM093?oc=5",
         "tags": [
-          "Ei"
+          "Smart Home"
         ]
       }
     ],
     "doors": [
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - spiegel.de",
-        "source": "spiegel.de",
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
         "publishedAt": "2026-09-01T06:55:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis spiegel.de",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
-          "spiegel.de"
+          "Spiegel"
         ]
       },
       {
@@ -302,13 +302,13 @@
         ]
       },
       {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - dasinvestment.com",
-        "source": "dasinvestment.com",
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
+        "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger dasinvestment.com",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
-          "dasinvestment.com"
+          "das investment"
         ]
       },
       {
@@ -384,10 +384,10 @@
     ],
     "trends": [
       {
-        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - technische-logistik.net",
-        "source": "technische-logistik.net",
+        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - Technische Logistik",
+        "source": "Technische Logistik",
         "publishedAt": "2026-09-04T03:05:00+00:00",
-        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation technische-logistik.net",
+        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation Technische Logistik",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
         "tags": [
           "Retrofit"
@@ -399,16 +399,6 @@
         "publishedAt": "2026-09-01T08:50:00+00:00",
         "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes idw - Informationsdienst Wissenschaft",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd25CZnhUb3h2cHk3bGlrS0tBOGVadTJZNlFKS1ExMTZobFpObElqWnNwTGhxb1lzNy1LVm80bXVHMWlQVVUzY2FYSkJWWmVzUDlOdlplVjhmM0JDMGUzWndIVDIzV2ptSl9Mbk9JdTI0VHBoTkFwSElJWFA2NHA3ZHhiWkw5VzJXc2Z5MkJ2b0Vra2FHQ24zSXl3eU9lMF9VUFBPNnBzNFJRQ0JyMUY1WFNhdkRTYURKLW1BWjk5Qm9VM05DM2xxN3dsdm55SVFtMXRscUwxWFI1OHhzUWk5c1JyZG9ZTjRvZDdXQw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - openPR.de",
-        "source": "openPR.de",
-        "publishedAt": "2026-09-01T08:50:00+00:00",
-        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes openPR.de",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUkp2eHNTNTY0NWxwZ3dDTVVUOVVpbTdUcVdYS3g0Skdpeng2S2dWcmZqU3UtQ2JjS3JXVmRMX3pIV0VqTmZGd1JNWXQxU2s2MjFicHVBenFIRVVYQUs5enZzSmN2MU9nRW1TbTR1c3ltbUxmUzBXc2FhSXJ4S2NzY1MycHp3VFdXS0R4aHNFTjFHSHd3bFVfa01yNEVHVHg5Qk1UOXFIR0ktQzNOeVY0cmdIWkhCOUxHUGFuSTdQOUxzckxPWENieUpTdVplNkpoeUVVUEVVOUQ0OGRuem9rZWtObm50azVSM2xz?oc=5",
         "tags": [
           "KI"
         ]
@@ -434,16 +424,6 @@
         ]
       },
       {
-        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-08-27T19:29:44+00:00",
-        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
-        ]
-      },
-      {
         "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
         "source": "Fuldaer Zeitung",
         "publishedAt": "2026-08-26T14:49:00+00:00",
@@ -451,26 +431,6 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
         "tags": [
           "Nachhaltigkeit"
-        ]
-      },
-      {
-        "title": "Planung von Brandmeldeanlagen mit KI - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-08-25T14:24:00+00:00",
-        "summary": "Planung von Brandmeldeanlagen mit KI elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1NhbEJiS19hdU5IU2NIQ0lVYzY3YXJUa3B6MFF0aHhabjQ5R0Y1ZFBrVnFLSHJjQm9yNm84SkVvbnFPVVpUeFZxYldRdWVlQmh4REgyWDdjZl9RQ0VNSnZOZF9BeXoxZFROeU5fNlZaSEd0bnJGaHpveEhSdldiLWNwakU5WHotVlRHSTRRc3FzNjdP?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
-        "source": "myheimat.de",
-        "publishedAt": "2026-08-22T13:52:50+00:00",
-        "summary": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 myheimat.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
-        "tags": [
-          "myheimat.de"
         ]
       },
       {
@@ -486,7 +446,7 @@
       {
         "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
         "source": "ARD Mediathek",
-        "publishedAt": "2026-08-19T15:38:01+00:00",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
         "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
@@ -494,11 +454,51 @@
         ]
       },
       {
-        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
-        "source": "tagesschau.de",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
+        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - DataCenter-Insider",
+        "source": "DataCenter-Insider",
+        "publishedAt": "2026-08-14T07:00:00+00:00",
+        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ DataCenter-Insider",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
+        "tags": [
+          "DataCenter-Insider"
+        ]
+      },
+      {
+        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - bild.de",
+        "source": "bild.de",
+        "publishedAt": "2026-08-11T07:00:00+00:00",
+        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht bild.de",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Brandschutz- und Betriebssicherheit: 33 Minuten bei 900 °C als Benchmark für neue Komponenten - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-07-29T07:00:00+00:00",
+        "summary": "Brandschutz- und Betriebssicherheit: 33 Minuten bei 900 °C als Benchmark für neue Komponenten it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR25GT0huZE9ObXZlOUdiVkJoblloNGZiQUlrM1RuTUtpYm1Ic0I3MFFtWVRLX1VwbXpsV1ZfazlpdS10WWhtNlVnc3NhSGd0OWl0LS1FdjQ2cU5SdmgzaGtLQXFyMGk4YTRQNld3bF9VakxtNkZlaFQwQVVzV2ItSThYcTB4N2NzVTh4VHlwYzd6ZW5aSnc1czVCMVBBWXoyalpTTzQ4cFdTc3NMNlRtZ3VwdXpXbGEyb24ya1ZoTXU?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
+        "title": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand - verbaende.com",
+        "source": "verbaende.com",
+        "publishedAt": "2026-07-23T09:23:55+00:00",
+        "summary": "VDIV und EnBW starten Publikationsreihe zum Thema Nachhaltigkeit für den Gebäudebestand verbaende.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEFkdXUxNGstTHpFSWN2Nm44MTRSWm14TjE3aUtpcHJVVVNwV2R0Qm1HbkpJdVlma290QXRqVVR6NGtZNVlERlp4WE16czd6VFNrQzM3WkIydW9ZYWEwa3pHQ2N0OGkxZ3ZLU19LRVdsdk5DaDd4cl9nZFF4ZmZSMXY3dnlESjAwRmt6a1R5clN3eTFxMzFRNWVEZVF4MklVU1N4RWxVcmEyNF9JaEpDZ0ZLVEdfakE?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-19T07:00:00+00:00",
+        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
           "KI"
         ]
