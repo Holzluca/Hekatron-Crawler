@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-09-06T17:12:01.201664+00:00",
+  "generatedAt": "2026-09-06T19:21:18.016123+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Globaler Schutz und Schutz 2026 - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-08-06T16:58:38+00:00",
-        "summary": "Globaler Schutz und Schutz 2026 Siemens",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
         "source": "ingenieur.de",
@@ -123,6 +113,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -249,10 +249,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - stadt-bremerhaven.de",
-        "source": "stadt-bremerhaven.de",
+        "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - Caschys Blog",
+        "source": "Caschys Blog",
         "publishedAt": "2026-09-01T06:59:42+00:00",
-        "summary": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ stadt-bremerhaven.de",
+        "summary": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjZCTEpKdnBQOW9sOFpFWVVUYmhrbjNrM3k1SHlwVmR4SFJFZGVoNGV6c0ZFdWU5N0hVVVgtQWdfdnlCZlk5U3o4Unh1YTJJaElJV3VwMXhRYzZoMC1UaFVaSEk0ek5ycDFyaVh3TUotaHNKMWZKU1Mza1VmSWNoQy1mRmgtMFB1WmZPZUdZVTJtNnROVThGejFhVmFIRHRBTEVQLUZtOE9kdXcta05xUlVZOA?oc=5",
         "tags": [
           "Ei",
@@ -353,10 +353,10 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
+        "source": "businessinsider.de",
         "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
@@ -385,13 +385,13 @@
     ],
     "trends": [
       {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
-        "source": "SWR",
+        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - swr.de",
+        "source": "swr.de",
         "publishedAt": "2026-09-06T13:51:16+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
+        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? swr.de",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
-          "SWR"
+          "swr.de"
         ]
       },
       {
@@ -415,10 +415,10 @@
         ]
       },
       {
-        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - openpr.de",
-        "source": "openpr.de",
+        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - openPR.de",
+        "source": "openPR.de",
         "publishedAt": "2026-09-01T08:50:00+00:00",
-        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes openpr.de",
+        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes openPR.de",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUkp2eHNTNTY0NWxwZ3dDTVVUOVVpbTdUcVdYS3g0Skdpeng2S2dWcmZqU3UtQ2JjS3JXVmRMX3pIV0VqTmZGd1JNWXQxU2s2MjFicHVBenFIRVVYQUs5enZzSmN2MU9nRW1TbTR1c3ltbUxmUzBXc2FhSXJ4S2NzY1MycHp3VFdXS0R4aHNFTjFHSHd3bFVfa01yNEVHVHg5Qk1UOXFIR0ktQzNOeVY0cmdIWkhCOUxHUGFuSTdQOUxzckxPWENieUpTdVplNkpoeUVVUEVVOUQ0OGRuem9rZWtObm50azVSM2xz?oc=5",
         "tags": [
           "KI"
@@ -435,23 +435,13 @@
         ]
       },
       {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
+        "source": "faz.net",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-08-27T19:29:44+00:00",
-        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
         ]
       },
       {
@@ -472,6 +462,16 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1NhbEJiS19hdU5IU2NIQ0lVYzY3YXJUa3B6MFF0aHhabjQ5R0Y1ZFBrVnFLSHJjQm9yNm84SkVvbnFPVVpUeFZxYldRdWVlQmh4REgyWDdjZl9RQ0VNSnZOZF9BeXoxZFROeU5fNlZaSEd0bnJGaHpveEhSdldiLWNwakU5WHotVlRHSTRRc3FzNjdP?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
+        "source": "myheimat.de",
+        "publishedAt": "2026-08-22T13:52:50+00:00",
+        "summary": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 myheimat.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
+        "tags": [
+          "myheimat.de"
         ]
       },
       {
