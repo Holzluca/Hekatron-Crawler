@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-07T18:01:53.204759+00:00",
+  "generatedAt": "2026-09-07T21:38:45.440372+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "tags": [
+          "Bosch",
+          "Brandschutz"
+        ]
+      },
       {
         "title": "Globaler Schutz und Schutz 2026 - Siemens",
         "source": "Siemens",
@@ -114,16 +125,6 @@
         "tags": [
           "Bosch"
         ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - nzz.ch",
-        "source": "nzz.ch",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern nzz.ch",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "nzz.ch"
-        ]
       }
     ],
     "pfs": [
@@ -171,23 +172,24 @@
         ]
       },
       {
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "tags": [
+          "Bosch",
+          "Rauchwarnmelder",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Bosch Smarthome mit zusätzlichen Abo-Funktionen - iphone-ticker.de",
         "source": "iphone-ticker.de",
         "publishedAt": "2026-09-01T15:14:12+00:00",
         "summary": "Bosch Smarthome mit zusätzlichen Abo-Funktionen iphone-ticker.de",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjJjZlM2cE9EdkptVzl5SVhqNlJvUjF6ejBYWHVRYVlOWU1jSldYekQtUmdFY2xnTE5NZm1xN2F0S1VORVB3dzR3blBLUkxmZll0eHdkTi1iOGtWLWF1WFJldExZV0ozcXZOU2hmeFI1YzRxM0MyeGVkZ1FKZmZ1MHQ4Y2VhUFFsdEVfWGt3?oc=5",
         "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch rüstet sein Smarthome auf! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-09-01T14:11:12+00:00",
-        "summary": "Bosch rüstet sein Smarthome auf! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZ2hWRGtHMXBuZ0FZeU9HZmo2ZlptSHk1U0R0bmxTdnZZREN4MlpuNUlwUkVQQ0NJWkJPUEM5bFcwb1I2eDc0OGdoYm0wWXVFeUZRblRIWnBZSzJUZGFtN2IyVHdDXy00R2drRHR3Z1JaX3dxUlE?oc=5",
-        "tags": [
-          "Ei",
           "Bosch"
         ]
       },
@@ -250,10 +252,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - Caschys Blog",
-        "source": "Caschys Blog",
+        "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - stadt-bremerhaven.de",
+        "source": "stadt-bremerhaven.de",
         "publishedAt": "2026-09-01T06:59:42+00:00",
-        "summary": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ Caschys Blog",
+        "summary": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ stadt-bremerhaven.de",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjZCTEpKdnBQOW9sOFpFWVVUYmhrbjNrM3k1SHlwVmR4SFJFZGVoNGV6c0ZFdWU5N0hVVVgtQWdfdnlCZlk5U3o4Unh1YTJJaElJV3VwMXhRYzZoMC1UaFVaSEk0ek5ycDFyaVh3TUotaHNKMWZKU1Mza1VmSWNoQy1mRmgtMFB1WmZPZUdZVTJtNnROVThGejFhVmFIRHRBTEVQLUZtOE9kdXcta05xUlVZOA?oc=5",
         "tags": [
           "Ei",
@@ -304,13 +306,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
-        "source": "t3n",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
+        "source": "t3n.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n"
+          "t3n.de"
         ]
       },
       {
@@ -334,13 +336,13 @@
         ]
       },
       {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - boersen-zeitung.de",
-        "source": "boersen-zeitung.de",
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland boersen-zeitung.de",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
-          "boersen-zeitung.de"
+          "Börsen-Zeitung"
         ]
       },
       {
@@ -386,20 +388,10 @@
     ],
     "trends": [
       {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
-        "source": "SWR",
-        "publishedAt": "2026-09-06T13:51:16+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
-        "tags": [
-          "SWR"
-        ]
-      },
-      {
-        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - Technische Logistik",
-        "source": "Technische Logistik",
+        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - technische-logistik.net",
+        "source": "technische-logistik.net",
         "publishedAt": "2026-09-04T03:05:00+00:00",
-        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation Technische Logistik",
+        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation technische-logistik.net",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
         "tags": [
           "Retrofit"
@@ -433,6 +425,16 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-08-27T19:29:44+00:00",
+        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
+        "tags": [
+          "AD HOC NEWS"
         ]
       },
       {
