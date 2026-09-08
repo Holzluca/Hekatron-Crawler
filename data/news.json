@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T16:59:14.662808+00:00",
+  "generatedAt": "2026-09-08T19:47:01.531877+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -24,10 +24,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
-        "source": "baulinks.de",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
+        "source": "Baulinks",
         "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "Mit Wischwalze und Sprühfunktion | Bosch stellt Spotless 2-Serie vor - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-09-08T17:16:45+00:00",
+        "summary": "Mit Wischwalze und Sprühfunktion | Bosch stellt Spotless 2-Serie vor SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW1ZSFdJNVo1LTB5amVjTk9NbVo0QkQxM0daTlRERldhNFZ1eHc1eEVVcGc5VlBEWkxSRFBOTUVnWTdNMjdwS1lZbW05OFhoMTVJVGd5WWxzdHJ5cDA3ajc1SmE5TklDLW5VZndIcU12ZW0yTnZnRWpWalJNV19wZnBfU3ZOdmFIT1hUWVZqWU8tY2pRMUZFUm9TQm4tQ0ZMM1UyXw?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-09-06T12:25:00+00:00",
@@ -134,6 +144,16 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-09-06T11:10:00+00:00",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFFpc1ByLVgzWHFyemlfdlRlODN1c2NzeG1KWDFzU1hNLTBVenR5SE9PVTBKWGE0cGJ0cGtMc3VOTG9fYm8xeHdjWFVQSWR2T3RPaE5adkxpdkEydm5EbTRJNkNGV3ZaYXdnWTlINHV6LUt4NG9GS1JrVkZBZmU2MV9tSF90MDJZejZfTUNfeFY?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -158,20 +178,10 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-09-04T18:53:05+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFFpc1ByLVgzWHFyemlfdlRlODN1c2NzeG1KWDFzU1hNLTBVenR5SE9PVTBKWGE0cGJ0cGtMc3VOTG9fYm8xeHdjWFVQSWR2T3RPaE5adkxpdkEydm5EbTRJNkNGV3ZaYXdnWTlINHV6LUt4NG9GS1JrVkZBZmU2MV9tSF90MDJZejZfTUNfeFY?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras - Apfelpage",
-        "source": "Apfelpage",
+        "title": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras - apfelpage.de",
+        "source": "apfelpage.de",
         "publishedAt": "2026-09-04T08:23:59+00:00",
-        "summary": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras Apfelpage",
+        "summary": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras apfelpage.de",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnNhb1FnTkpua00tbDVwQmMwWHBFcDcyYnJ3T1VTZHVjVTM4VjZvSk5xVnFZbXhTeHdJb0Q0QzZQODhzeXdjb0k5TnA5UjdQM2N2ZVlMOFRSTnJRZXp6RkE5aVI0dURMZjlVWGo4ZlBZZ0dQeXFxVjdSdHdFU01VRHpHT2xDYWlHRlJxZ3pGaURrbmxyNGtLcXUwRHo1UDh1ZVdXYlpCQzZZQXFDZ1pRLTNnWnpsWk9EX25uQzlDbVVuZ28?oc=5",
         "tags": [
           "Ei",
@@ -245,29 +255,17 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - spiegel.de",
-        "source": "spiegel.de",
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
         "publishedAt": "2026-09-01T06:55:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis spiegel.de",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
-          "spiegel.de"
+          "Spiegel"
         ]
       },
       {
@@ -393,10 +391,10 @@
         ]
       },
       {
-        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - technische-logistik.net",
-        "source": "technische-logistik.net",
+        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - Technische Logistik",
+        "source": "Technische Logistik",
         "publishedAt": "2026-09-04T03:05:00+00:00",
-        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation technische-logistik.net",
+        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation Technische Logistik",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
         "tags": [
           "Retrofit"
@@ -413,16 +411,6 @@
         ]
       },
       {
-        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - openPR.de",
-        "source": "openPR.de",
-        "publishedAt": "2026-09-01T08:50:00+00:00",
-        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes openPR.de",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUkp2eHNTNTY0NWxwZ3dDTVVUOVVpbTdUcVdYS3g0Skdpeng2S2dWcmZqU3UtQ2JjS3JXVmRMX3pIV0VqTmZGd1JNWXQxU2s2MjFicHVBenFIRVVYQUs5enZzSmN2MU9nRW1TbTR1c3ltbUxmUzBXc2FhSXJ4S2NzY1MycHp3VFdXS0R4aHNFTjFHSHd3bFVfa01yNEVHVHg5Qk1UOXFIR0ktQzNOeVY0cmdIWkhCOUxHUGFuSTdQOUxzckxPWENieUpTdVplNkpoeUVVUEVVOUQ0OGRuem9rZWtObm50azVSM2xz?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-08-28T11:09:42+00:00",
@@ -433,10 +421,10 @@
         ]
       },
       {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
+        "source": "faz.net",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
@@ -455,7 +443,7 @@
       {
         "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
         "source": "Fuldaer Zeitung",
-        "publishedAt": "2026-08-26T14:49:00+00:00",
+        "publishedAt": "2026-08-26T07:00:00+00:00",
         "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
         "tags": [
@@ -493,13 +481,23 @@
         ]
       },
       {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ardmediathek.de",
+        "source": "ardmediathek.de",
         "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ardmediathek.de",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - DataCenter-Insider",
+        "source": "DataCenter-Insider",
+        "publishedAt": "2026-08-14T07:00:00+00:00",
+        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ DataCenter-Insider",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
+        "tags": [
+          "DataCenter-Insider"
         ]
       }
     ]
