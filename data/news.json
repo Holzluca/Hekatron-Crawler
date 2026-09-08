@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T19:47:01.531877+00:00",
+  "generatedAt": "2026-09-08T22:16:35.210649+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -85,6 +85,16 @@
         ]
       },
       {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
+        ]
+      },
+      {
         "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
@@ -110,16 +120,6 @@
         "publishedAt": "2026-04-01T07:00:00+00:00",
         "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt - www.bote.ch",
-        "source": "www.bote.ch",
-        "publishedAt": "2026-03-30T07:00:00+00:00",
-        "summary": "«Feuerschutz wird intelligenter und datengetrieben»: Siemens bringt neue Brandmelder auf den Markt www.bote.ch",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTng5MlY2MU43SDNfS1BkTEtmWkZxX09NVkt0WjhGOFg1dElqeUxrZGN1djhtaE9xbHdpR3k5WVMxYXk2RXBZV0Y2NHVZLXNWQV9fWFBEZklLczV0S3ZqVFhZZjVtcm1RdXdwUWVLUTUwWTU4WkNiM1pmYllkYWxJVDVVLXJ2Wkk0X2ZZcUd1bmhKY1ZFOUpnOEN5bVhPU2tJNWtwdm1Oa1gyZmJIU045T2o2eThmbWdl?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -178,10 +178,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras - apfelpage.de",
-        "source": "apfelpage.de",
+        "title": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras - Apfelpage",
+        "source": "Apfelpage",
         "publishedAt": "2026-09-04T08:23:59+00:00",
-        "summary": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras apfelpage.de",
+        "summary": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras Apfelpage",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnNhb1FnTkpua00tbDVwQmMwWHBFcDcyYnJ3T1VTZHVjVTM4VjZvSk5xVnFZbXhTeHdJb0Q0QzZQODhzeXdjb0k5TnA5UjdQM2N2ZVlMOFRSTnJRZXp6RkE5aVI0dURMZjlVWGo4ZlBZZ0dQeXFxVjdSdHdFU01VRHpHT2xDYWlHRlJxZ3pGaURrbmxyNGtLcXUwRHo1UDh1ZVdXYlpCQzZZQXFDZ1pRLTNnWnpsWk9EX25uQzlDbVVuZ28?oc=5",
         "tags": [
           "Ei",
@@ -339,11 +339,21 @@
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
-        "source": "exxpress",
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress.at",
+        "source": "exxpress.at",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress.at",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-10T07:00:00+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -364,16 +374,6 @@
         "publishedAt": "2026-06-24T07:00:00+00:00",
         "summary": "Eintritt nur bei ausreichenden Deutschkenntnissen: Stadt fordert das Bad auf, die Regel zurückzunehmen apollo-news.net",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWVLRVdHaU1ra2hwM3BRMTlINXkxcl9CQTZ2OTR4Tk9NUTVzeVlFUjVvNTRwUzBCWjI4R0pnY1NpTU9Nc2dtZG9hTDB5VXZXS3JSRjBhUmVHLXNVX1dQaDR5d1FIZ0dKVlh5SlRzc2JIdXZacERVWng4MGY1NDRSSmNGR1BSTXZBYXFrTEFiaWdjRXNjeDFsZWZFOG5wNlJDRHRwQkdwa283azR1SFBUdDk4aktsNFlpM1VjU2l2ZDRUdw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
-        "source": "Logistik Online",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -421,23 +421,13 @@
         ]
       },
       {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
-        "source": "faz.net",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-08-27T19:29:44+00:00",
-        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
-        "tags": [
-          "AD HOC NEWS"
         ]
       },
       {
@@ -481,23 +471,33 @@
         ]
       },
       {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ardmediathek.de",
-        "source": "ardmediathek.de",
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
+        "source": "ARD Mediathek",
         "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ardmediathek.de",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
         ]
       },
       {
-        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - DataCenter-Insider",
-        "source": "DataCenter-Insider",
+        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - datacenter-insider.de",
+        "source": "datacenter-insider.de",
         "publishedAt": "2026-08-14T07:00:00+00:00",
-        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ DataCenter-Insider",
+        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ datacenter-insider.de",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
         "tags": [
-          "DataCenter-Insider"
+          "datacenter-insider.de"
+        ]
+      },
+      {
+        "title": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat - Berliner Morgenpost",
+        "source": "Berliner Morgenpost",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat Berliner Morgenpost",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG9lN2ZON3ZzcUdwby1uR25zLXdBSGpOUnhvbnp3aWRrY1VQeWFmdURSdFRpWFdZNkJ3TVVTRzI2UDNYeGFSbC1JcG84VlgxUEVVWUhPMTV5MGsxTzRTbktEMlpBekFWQ2xSWC11S2d0WURsbVRkRWc5d2RxejlzVHRVdUROSFRSSkYxUmFZcDZjVWMzRU9uNVNkcVlvVXlxaGpFSlBqb3M0RnpVbC04NlB2cUVQSmV1RXVxd01PZw?oc=5",
+        "tags": [
+          "Berliner Morgenpost"
         ]
       }
     ]
