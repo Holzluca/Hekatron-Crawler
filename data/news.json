@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:56:55.697018+00:00",
+  "generatedAt": "2026-09-09T09:23:48.936964+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -24,10 +24,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
-        "source": "Baulinks",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
+        "source": "baulinks.de",
         "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -105,10 +105,10 @@
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - news.save.ch",
-        "source": "news.save.ch",
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor news.save.ch",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
@@ -211,18 +211,6 @@
         ]
       },
       {
-        "title": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-09-01T14:00:00+00:00",
-        "summary": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXBRM2lZWk1uYzlxUWNSWjU4ZzQ5MGVkaG4xZUtiMHRYR2tXTDlrcS02TE15SUN2NUJ5QzB2UFdfODhuVk9FRFp6OW5EM3R4N0JlZ1Job1N2MzVXVFlIVm5EU0dlQ25NU3J3bHpDTk1ZVkxFRVpWQnFzRUpxSFpoOV9MQ19HTExyVGtQcVZILTVHV1hSRjhEQWlkZUNkOEI1bnFHZlVuZVh3eEU?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home - PoS-Mail",
         "source": "PoS-Mail",
         "publishedAt": "2026-09-01T13:25:07+00:00",
@@ -231,17 +219,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent - futurezone.de",
-        "source": "futurezone.de",
-        "publishedAt": "2026-09-01T12:20:36+00:00",
-        "summary": "Bosch stellt neues Gerät vor – es macht dein Zuhause besonders intelligent futurezone.de",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVdhakJvVkotU3FJSDhoMVJ6LVRoa2d4VUk4RFpHLUk0NU1xbmRLd2pPWFpZY3lOYU4wUV9Ub0ZoS1B1VFptMFRfUzNJeEMzam8tcjdPUlJiaFJaazhidXV2YW9tclZyMlZjY1pMdVZUZnhzaThtTktITjI3Q2ZSalBBQ045UUZCdlFoUnljSUU1WWtCenI5cWRNblJQQUp3d2U3c2daa2N2dHhhWTBWUkYzRUcxNmtFM1BKMXgxb1JfQmVkNUE?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       },
       {
@@ -255,13 +232,37 @@
           "Bosch",
           "Smart Home"
         ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXBRM2lZWk1uYzlxUWNSWjU4ZzQ5MGVkaG4xZUtiMHRYR2tXTDlrcS02TE15SUN2NUJ5QzB2UFdfODhuVk9FRFp6OW5EM3R4N0JlZ1Job1N2MzVXVFlIVm5EU0dlQ25NU3J3bHpDTk1ZVkxFRVpWQnFzRUpxSFpoOV9MQ19HTExyVGtQcVZILTVHV1hSRjhEQWlkZUNkOEI1bnFHZlVuZVh3eEU?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
       }
     ],
     "doors": [
       {
         "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
         "source": "Spiegel",
-        "publishedAt": "2026-09-01T06:55:00+00:00",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
         "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
@@ -296,16 +297,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
           "tippinpoint.ch"
-        ]
-      },
-      {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
-        "source": "t3n",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
-        "tags": [
-          "t3n"
         ]
       },
       {
@@ -377,6 +368,16 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
@@ -401,10 +402,10 @@
         ]
       },
       {
-        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - Informationsdienst Wissenschaft",
-        "source": "Informationsdienst Wissenschaft",
+        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - nachrichten.idw-online.de",
+        "source": "nachrichten.idw-online.de",
         "publishedAt": "2026-09-01T08:50:00+00:00",
-        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes Informationsdienst Wissenschaft",
+        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes nachrichten.idw-online.de",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd25CZnhUb3h2cHk3bGlrS0tBOGVadTJZNlFKS1ExMTZobFpObElqWnNwTGhxb1lzNy1LVm80bXVHMWlQVVUzY2FYSkJWWmVzUDlOdlplVjhmM0JDMGUzWndIVDIzV2ptSl9Mbk9JdTI0VHBoTkFwSElJWFA2NHA3ZHhiWkw5VzJXc2Z5MkJ2b0Vra2FHQ24zSXl3eU9lMF9VUFBPNnBzNFJRQ0JyMUY1WFNhdkRTYURKLW1BWjk5Qm9VM05DM2xxN3dsdm55SVFtMXRscUwxWFI1OHhzUWk5c1JyZG9ZTjRvZDdXQw?oc=5",
         "tags": [
           "KI"
@@ -431,6 +432,16 @@
         ]
       },
       {
+        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-08-27T19:29:44+00:00",
+        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
         "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
         "source": "Fuldaer Zeitung",
         "publishedAt": "2026-08-26T07:00:00+00:00",
@@ -451,13 +462,13 @@
         ]
       },
       {
-        "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - Elektrobranche",
-        "source": "Elektrobranche",
+        "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - elektrobranche.at",
+        "source": "elektrobranche.at",
         "publishedAt": "2026-08-20T07:00:00+00:00",
-        "summary": "go-e & Tekko: Kooperation ist offiziell besiegelt Elektrobranche",
+        "summary": "go-e & Tekko: Kooperation ist offiziell besiegelt elektrobranche.at",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNGNUeThTSVk0YkRDTF90MGVXVTRORUd6U3ZSejBoTDliQkZrbzdUVUF4VER1Ym1mQlBDbld2Y1lKN190b1RQVnlUNGJxQkhERGlEVDhNQl80LUxHeVhmVTE0RGxJLU1YTWxGQVBTWHNMdGZLUExBS1hDZw?oc=5",
         "tags": [
-          "Elektrobranche"
+          "elektrobranche.at"
         ]
       },
       {
@@ -481,23 +492,13 @@
         ]
       },
       {
-        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - DataCenter-Insider",
-        "source": "DataCenter-Insider",
+        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - datacenter-insider.de",
+        "source": "datacenter-insider.de",
         "publishedAt": "2026-08-14T07:00:00+00:00",
-        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ DataCenter-Insider",
+        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ datacenter-insider.de",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
         "tags": [
-          "DataCenter-Insider"
-        ]
-      },
-      {
-        "title": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat Berliner Morgenpost",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG9lN2ZON3ZzcUdwby1uR25zLXdBSGpOUnhvbnp3aWRrY1VQeWFmdURSdFRpWFdZNkJ3TVVTRzI2UDNYeGFSbC1JcG84VlgxUEVVWUhPMTV5MGsxTzRTbktEMlpBekFWQ2xSWC11S2d0WURsbVRkRWc5d2RxejlzVHRVdUROSFRSSkYxUmFZcDZjVWMzRU9uNVNkcVlvVXlxaGpFSlBqb3M0RnpVbC04NlB2cUVQSmV1RXVxd01PZw?oc=5",
-        "tags": [
-          "Berliner Morgenpost"
+          "datacenter-insider.de"
         ]
       }
     ]
