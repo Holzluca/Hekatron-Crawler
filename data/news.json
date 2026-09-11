@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T09:21:34.857595+00:00",
+  "generatedAt": "2026-09-11T13:41:49.262025+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,23 +127,23 @@
     ],
     "pfs": [
       {
+        "title": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen - inside-digital.de",
+        "source": "inside-digital.de",
+        "publishedAt": "2026-09-11T13:28:00+00:00",
+        "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside-digital.de",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazQ3b0gxOUV4NXpydWZFOHBfUnBZdEFldWxkX0hodERxOC13UmE1d2hMaTdOWm4wWEhPU3VBTWpZUjh4dEE4RUtZdWZnREFmQTVlMDhUd3NJMW5ZTWNzYWxBQ0s5WjVHdkdkWWJJekNtT2dJRUFzc19TczB6NFppOTk3VWJodngwSHRDajdn0gGTAUFVX3lxTE1nZnNhcmVyQUtUYkloTGZNcFQyU2FzMWhjQ3JVZ0N5bHVsdDlmc0h4MVdOU0RMbW1vMGxvZWRXbEY0Wi1NbjhqMTFyMG5QLXphSWpvaTE5bE9heTR1bWgtSlVtYlF4TldvN1RyTFo0Rkx3dDRuWWZDMXBIN2JLMkxMeVFJancwSVJrRElybzVEdzh4RQ?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
         "source": "connect.de",
-        "publishedAt": "2026-09-11T06:49:21+00:00",
+        "publishedAt": "2026-09-11T06:50:38+00:00",
         "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden - chip.de",
-        "source": "chip.de",
-        "publishedAt": "2026-09-11T06:35:00+00:00",
-        "summary": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden chip.de",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFdKUzRIblJ4eWUwX1M0UjA3S3A1ZXE1UjZpaTE5RU5na3Zld2RwSzBOX0lxeU9pSXNXQS1jV2Fpd01PdW1hakdjZUc5R2tVdnBqM28ydTI3MlJJQ0lBaFk3a1BxZlVMMlpzcUxENFJaandUeUZxdEs1Z3dXODNYc3BFVFZjV1RxbjBqU01OZGQtaUVfTGh2NS1NRzg5OFRoNXlMN2N4eG1jYldPN25NX21nTUZZMlVKREdEWExtTWhRdWgwWjBIN0gyXzZZUFc1Z284ZA?oc=5",
-        "tags": [
-          "chip.de"
         ]
       },
       {
@@ -187,6 +187,16 @@
           "Ei",
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Unlimited 10 BTS1042GQC - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-09-02T07:00:00+00:00",
+        "summary": "Bosch Unlimited 10 BTS1042GQC SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzJvTFMwdGdCWmh3MGVaamdYbFJPNmFVazlWamRnSHh6RVp5c1FxQmM2TWxIUDdIeFE3M2VPYUxkN1Y2eDduNi1hNjJFSjY1elNzaThpc21ZdGVOTDV1dmp1OHRPdVFkZ1pLMjR4SGhudHI2NDlIdy12QnpXSWN2Ug?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -245,29 +255,17 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-09-01T06:59:42+00:00",
-        "summary": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjZCTEpKdnBQOW9sOFpFWVVUYmhrbjNrM3k1SHlwVmR4SFJFZGVoNGV6c0ZFdWU5N0hVVVgtQWdfdnlCZlk5U3o4Unh1YTJJaElJV3VwMXhRYzZoMC1UaFVaSEk0ek5ycDFyaVh3TUotaHNKMWZKU1Mza1VmSWNoQy1mRmgtMFB1WmZPZUdZVTJtNnROVThGejFhVmFIRHRBTEVQLUZtOE9kdXcta05xUlVZOA?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - spiegel.de",
-        "source": "spiegel.de",
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
         "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis spiegel.de",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
-          "spiegel.de"
+          "Spiegel"
         ]
       },
       {
@@ -291,13 +289,13 @@
         ]
       },
       {
-        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - fondsprofessionell.de",
-        "source": "fondsprofessionell.de",
+        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
+        "source": "FONDS professionell",
         "publishedAt": "2026-07-28T14:30:00+00:00",
-        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro fondsprofessionell.de",
+        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWHI4cmwxU1JzclNGTnppdGpEc0o5S3NNYllXaUdPY2ZZc0xYNEdaMmExbDN3RF8zTGZxNFJxRU9BNW1sWXA3M1F4TWNrMlFPLW5FeU5XUmRScHQ3MGJHSEpIMHZsMXduR2NyZ0RBOW8ycGJIVVE?oc=5",
         "tags": [
-          "fondsprofessionell.de"
+          "FONDS professionell"
         ]
       },
       {
@@ -371,13 +369,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
-        "source": "handelsblatt.com",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "handelsblatt.com"
+          "Handelsblatt"
         ]
       }
     ],
@@ -413,13 +411,13 @@
         ]
       },
       {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - swr.de",
-        "source": "swr.de",
+        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
+        "source": "SWR",
         "publishedAt": "2026-09-06T13:51:16+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? swr.de",
+        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
-          "swr.de"
+          "SWR"
         ]
       },
       {
@@ -463,10 +461,20 @@
         ]
       },
       {
-        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - fuldaerzeitung.de",
-        "source": "fuldaerzeitung.de",
+        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-08-27T19:29:44+00:00",
+        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
+        "tags": [
+          "ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
+        "source": "Fuldaer Zeitung",
         "publishedAt": "2026-08-26T07:00:00+00:00",
-        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit fuldaerzeitung.de",
+        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
         "tags": [
           "Nachhaltigkeit"
@@ -490,16 +498,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
           "myheimat.de"
-        ]
-      },
-      {
-        "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - Elektrobranche",
-        "source": "Elektrobranche",
-        "publishedAt": "2026-08-20T07:00:00+00:00",
-        "summary": "go-e & Tekko: Kooperation ist offiziell besiegelt Elektrobranche",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNGNUeThTSVk0YkRDTF90MGVXVTRORUd6U3ZSejBoTDliQkZrbzdUVUF4VER1Ym1mQlBDbld2Y1lKN190b1RQVnlUNGJxQkhERGlEVDhNQl80LUxHeVhmVTE0RGxJLU1YTWxGQVBTWHNMdGZLUExBS1hDZw?oc=5",
-        "tags": [
-          "Elektrobranche"
         ]
       }
     ]
