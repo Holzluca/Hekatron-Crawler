@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T13:41:49.262025+00:00",
+  "generatedAt": "2026-09-11T17:27:39.659662+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -55,13 +55,13 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "Teltarif"
+          "teltarif.de"
         ]
       },
       {
@@ -127,10 +127,10 @@
     ],
     "pfs": [
       {
-        "title": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen - inside-digital.de",
-        "source": "inside-digital.de",
+        "title": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen - inside digital",
+        "source": "inside digital",
         "publishedAt": "2026-09-11T13:28:00+00:00",
-        "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside-digital.de",
+        "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside digital",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazQ3b0gxOUV4NXpydWZFOHBfUnBZdEFldWxkX0hodERxOC13UmE1d2hMaTdOWm4wWEhPU3VBTWpZUjh4dEE4RUtZdWZnREFmQTVlMDhUd3NJMW5ZTWNzYWxBQ0s5WjVHdkdkWWJJekNtT2dJRUFzc19TczB6NFppOTk3VWJodngwSHRDajdn0gGTAUFVX3lxTE1nZnNhcmVyQUtUYkloTGZNcFQyU2FzMWhjQ3JVZ0N5bHVsdDlmc0h4MVdOU0RMbW1vMGxvZWRXbEY0Wi1NbjhqMTFyMG5QLXphSWpvaTE5bE9heTR1bWgtSlVtYlF4TldvN1RyTFo0Rkx3dDRuWWZDMXBIN2JLMkxMeVFJancwSVJrRElybzVEdzh4RQ?oc=5",
         "tags": [
           "Bosch"
@@ -157,10 +157,10 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 - Teltarif",
-        "source": "Teltarif",
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-09-06T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 Teltarif",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ01jZDEyRFRKU2ZaRHVNSUZUWmxKa2kzeE96TmFwVUE0NkppdDF5ZzFvY216ZWNxandXQnFObjJTNjYxWXd3Yy1XSllydHl6bmJ2d1h4bGNrc0ZPeHBGVU05Y3JSbkxIdFpjYnctbzE3UU5KUmdMN2RFWWhzTmpVOEVBZXdQekM0MFlUR0hxZzhvTUNLaTNiWk5R?oc=5",
         "tags": [
           "Bosch"
@@ -210,17 +210,6 @@
         ]
       },
       {
-        "title": "Bosch rüstet sein Smarthome auf! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-09-01T14:11:12+00:00",
-        "summary": "Bosch rüstet sein Smarthome auf! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZ2hWRGtHMXBuZ0FZeU9HZmo2ZlptSHk1U0R0bmxTdnZZREN4MlpuNUlwUkVQQ0NJWkJPUEM5bFcwb1I2eDc0OGdoYm0wWXVFeUZRblRIWnBZSzJUZGFtN2IyVHdDXy00R2drRHR3Z1JaX3dxUlE?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "10 Jahre Bosch Smart Home: Neue Funktionen für Heizung und Kameras - appgefahren.de",
         "source": "appgefahren.de",
         "publishedAt": "2026-09-01T07:00:52+00:00",
@@ -250,6 +239,18 @@
         "publishedAt": "2026-09-01T07:00:00+00:00",
         "summary": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken Netzwelt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXBRM2lZWk1uYzlxUWNSWjU4ZzQ5MGVkaG4xZUtiMHRYR2tXTDlrcS02TE15SUN2NUJ5QzB2UFdfODhuVk9FRFp6OW5EM3R4N0JlZ1Job1N2MzVXVFlIVm5EU0dlQ25NU3J3bHpDTk1ZVkxFRVpWQnFzRUpxSFpoOV9MQ19HTExyVGtQcVZILTVHV1hSRjhEQWlkZUNkOEI1bnFHZlVuZVh3eEU?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ - stadt-bremerhaven.de",
+        "source": "stadt-bremerhaven.de",
+        "publishedAt": "2026-09-01T06:59:42+00:00",
+        "summary": "Bosch Smart Home: Neue Heiz-Funktionen für Home+ und Personenunterscheidung mit Eyes+ stadt-bremerhaven.de",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjZCTEpKdnBQOW9sOFpFWVVUYmhrbjNrM3k1SHlwVmR4SFJFZGVoNGV6c0ZFdWU5N0hVVVgtQWdfdnlCZlk5U3o4Unh1YTJJaElJV3VwMXhRYzZoMC1UaFVaSEk0ek5ycDFyaVh3TUotaHNKMWZKU1Mza1VmSWNoQy1mRmgtMFB1WmZPZUdZVTJtNnROVThGejFhVmFIRHRBTEVQLUZtOE9kdXcta05xUlVZOA?oc=5",
         "tags": [
           "Ei",
           "Bosch",
@@ -381,6 +382,16 @@
     ],
     "trends": [
       {
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
+        "source": "Wochenblatt Reporter",
+        "publishedAt": "2026-09-11T15:49:07+00:00",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "KI-gestützte Brandschutz-Tools - elektro.net",
         "source": "elektro.net",
         "publishedAt": "2026-09-10T08:26:00+00:00",
@@ -431,10 +442,10 @@
         ]
       },
       {
-        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - Informationsdienst Wissenschaft",
-        "source": "Informationsdienst Wissenschaft",
+        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - nachrichten.idw-online.de",
+        "source": "nachrichten.idw-online.de",
         "publishedAt": "2026-09-01T08:50:00+00:00",
-        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes Informationsdienst Wissenschaft",
+        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes nachrichten.idw-online.de",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd25CZnhUb3h2cHk3bGlrS0tBOGVadTJZNlFKS1ExMTZobFpObElqWnNwTGhxb1lzNy1LVm80bXVHMWlQVVUzY2FYSkJWWmVzUDlOdlplVjhmM0JDMGUzWndIVDIzV2ptSl9Mbk9JdTI0VHBoTkFwSElJWFA2NHA3ZHhiWkw5VzJXc2Z5MkJ2b0Vra2FHQ24zSXl3eU9lMF9VUFBPNnBzNFJRQ0JyMUY1WFNhdkRTYURKLW1BWjk5Qm9VM05DM2xxN3dsdm55SVFtMXRscUwxWFI1OHhzUWk5c1JyZG9ZTjRvZDdXQw?oc=5",
         "tags": [
           "KI"
@@ -458,16 +469,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
         "tags": [
           "Normen"
-        ]
-      },
-      {
-        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-08-27T19:29:44+00:00",
-        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
-        "tags": [
-          "ad-hoc-news.de"
         ]
       },
       {
