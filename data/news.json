@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T18:06:55.724435+00:00",
+  "generatedAt": "2026-09-12T20:45:03.512645+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -222,10 +222,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras - Apfelpage",
-        "source": "Apfelpage",
+        "title": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras - apfelpage.de",
+        "source": "apfelpage.de",
         "publishedAt": "2026-09-04T08:23:59+00:00",
-        "summary": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras Apfelpage",
+        "summary": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras apfelpage.de",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnNhb1FnTkpua00tbDVwQmMwWHBFcDcyYnJ3T1VTZHVjVTM4VjZvSk5xVnFZbXhTeHdJb0Q0QzZQODhzeXdjb0k5TnA5UjdQM2N2ZVlMOFRSTnJRZXp6RkE5aVI0dURMZjlVWGo4ZlBZZ0dQeXFxVjdSdHdFU01VRHpHT2xDYWlHRlJxZ3pGaURrbmxyNGtLcXUwRHo1UDh1ZVdXYlpCQzZZQXFDZ1pRLTNnWnpsWk9EX25uQzlDbVVuZ28?oc=5",
         "tags": [
           "Ei",
@@ -439,10 +439,10 @@
         ]
       },
       {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
+        "source": "faz.net",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
@@ -489,13 +489,13 @@
         ]
       },
       {
-        "title": "go-e & Tekko: Kooperation ist offiziell besiegelt - Elektrobranche",
-        "source": "Elektrobranche",
-        "publishedAt": "2026-08-20T07:00:00+00:00",
-        "summary": "go-e & Tekko: Kooperation ist offiziell besiegelt Elektrobranche",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NNGNUeThTSVk0YkRDTF90MGVXVTRORUd6U3ZSejBoTDliQkZrbzdUVUF4VER1Ym1mQlBDbld2Y1lKN190b1RQVnlUNGJxQkhERGlEVDhNQl80LUxHeVhmVTE0RGxJLU1YTWxGQVBTWHNMdGZLUExBS1hDZw?oc=5",
+        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
+        "source": "tagesschau.de",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
-          "Elektrobranche"
+          "KI"
         ]
       }
     ]
