@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T20:45:03.512645+00:00",
+  "generatedAt": "2026-09-12T22:45:32.418153+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -160,10 +160,10 @@
         ]
       },
       {
-        "title": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen - inside digital",
-        "source": "inside digital",
+        "title": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen - inside-digital.de",
+        "source": "inside-digital.de",
         "publishedAt": "2026-09-11T13:28:00+00:00",
-        "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside digital",
+        "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside-digital.de",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazQ3b0gxOUV4NXpydWZFOHBfUnBZdEFldWxkX0hodERxOC13UmE1d2hMaTdOWm4wWEhPU3VBTWpZUjh4dEE4RUtZdWZnREFmQTVlMDhUd3NJMW5ZTWNzYWxBQ0s5WjVHdkdkWWJJekNtT2dJRUFzc19TczB6NFppOTk3VWJodngwSHRDajdn0gGTAUFVX3lxTE1nZnNhcmVyQUtUYkloTGZNcFQyU2FzMWhjQ3JVZ0N5bHVsdDlmc0h4MVdOU0RMbW1vMGxvZWRXbEY0Wi1NbjhqMTFyMG5QLXphSWpvaTE5bE9heTR1bWgtSlVtYlF4TldvN1RyTFo0Rkx3dDRuWWZDMXBIN2JLMkxMeVFJancwSVJrRElybzVEdzh4RQ?oc=5",
         "tags": [
           "Bosch"
@@ -222,10 +222,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras - apfelpage.de",
-        "source": "apfelpage.de",
+        "title": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras - Apfelpage",
+        "source": "Apfelpage",
         "publishedAt": "2026-09-04T08:23:59+00:00",
-        "summary": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras apfelpage.de",
+        "summary": "Bosch Smart Home wird zehn: Intelligentere Heizungssteuerung und Personenerkennung für Kameras Apfelpage",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnNhb1FnTkpua00tbDVwQmMwWHBFcDcyYnJ3T1VTZHVjVTM4VjZvSk5xVnFZbXhTeHdJb0Q0QzZQODhzeXdjb0k5TnA5UjdQM2N2ZVlMOFRSTnJRZXp6RkE5aVI0dURMZjlVWGo4ZlBZZ0dQeXFxVjdSdHdFU01VRHpHT2xDYWlHRlJxZ3pGaURrbmxyNGtLcXUwRHo1UDh1ZVdXYlpCQzZZQXFDZ1pRLTNnWnpsWk9EX25uQzlDbVVuZ28?oc=5",
         "tags": [
           "Ei",
@@ -429,20 +429,10 @@
         ]
       },
       {
-        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - Informationsdienst Wissenschaft",
-        "source": "Informationsdienst Wissenschaft",
-        "publishedAt": "2026-09-01T08:50:00+00:00",
-        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes Informationsdienst Wissenschaft",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd25CZnhUb3h2cHk3bGlrS0tBOGVadTJZNlFKS1ExMTZobFpObElqWnNwTGhxb1lzNy1LVm80bXVHMWlQVVUzY2FYSkJWWmVzUDlOdlplVjhmM0JDMGUzWndIVDIzV2ptSl9Mbk9JdTI0VHBoTkFwSElJWFA2NHA3ZHhiWkw5VzJXc2Z5MkJ2b0Vra2FHQ24zSXl3eU9lMF9VUFBPNnBzNFJRQ0JyMUY1WFNhdkRTYURKLW1BWjk5Qm9VM05DM2xxN3dsdm55SVFtMXRscUwxWFI1OHhzUWk5c1JyZG9ZTjRvZDdXQw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
-        "source": "faz.net",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
@@ -494,6 +484,16 @@
         "publishedAt": "2026-08-19T07:00:00+00:00",
         "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ardmediathek.de",
+        "source": "ardmediathek.de",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ardmediathek.de",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
         ]
