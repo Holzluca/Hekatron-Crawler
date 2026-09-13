@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T17:50:32.017287+00:00",
+  "generatedAt": "2026-09-13T20:07:39.249527+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -41,6 +41,17 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Maßgeschneiderter Brandschutz für die King Khalid University - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-06-04T13:38:39+00:00",
+        "summary": "Maßgeschneiderter Brandschutz für die King Khalid University Siemens",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWpuVGM1Tnh1U1M5UTB2SENqeHFoNlp2TTc5bUdxQ1k2bG5sRWIyTDgtd0dWdjc0dzNkRFJBY3hoTGdPUkxzMmVMRUQ5dlJXX1RnWFZMeE91WEpMVXN2ODNRM0JrYnk3QXFPQ2FwRmxiSzdzUUZ6NUp5aTJqcVhvZzducm1KT3hEZXVVT3lGRVVOQQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       },
       {
@@ -112,16 +123,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ"
-        ]
-      },
-      {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -201,10 +202,10 @@
         ]
       },
       {
-        "title": "Bis zu 39 % geschenkt: tink macht das Bosch Smart Home richtig günstig! - homeandsmart.de",
-        "source": "homeandsmart.de",
+        "title": "Bis zu 39 % geschenkt: tink macht das Bosch Smart Home richtig günstig! - home&smart",
+        "source": "home&smart",
         "publishedAt": "2026-09-08T11:12:17+00:00",
-        "summary": "Bis zu 39 % geschenkt: tink macht das Bosch Smart Home richtig günstig! homeandsmart.de",
+        "summary": "Bis zu 39 % geschenkt: tink macht das Bosch Smart Home richtig günstig! home&smart",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95VV9fVG5WVkxMQ19ob2NlREx2ZWRSZkQxREVVQnJaLU9KdzhTV2VrZUw5TVdsTnU4WWFLenJVMlRWbmc4NWxNVXFvUTVCRkxwcGF2NGIwVW9BUVNFZXpLVEs5bHhydW9DaEJxdFJNdkM?oc=5",
         "tags": [
           "Bosch",
@@ -267,6 +268,16 @@
         ]
       },
       {
+        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
+        "source": "Apollo Hospitals",
+        "publishedAt": "2026-08-17T04:18:14+00:00",
+        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - apollo-news.net",
         "source": "apollo-news.net",
         "publishedAt": "2026-08-13T07:00:00+00:00",
@@ -297,13 +308,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
-        "source": "t3n.de",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n.de"
+          "t3n"
         ]
       },
       {
@@ -365,16 +376,6 @@
         "tags": [
           "Handelsblatt"
         ]
-      },
-      {
-        "title": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -409,20 +410,10 @@
         ]
       },
       {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
-        "source": "SWR",
-        "publishedAt": "2026-09-06T13:51:16+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
-        "tags": [
-          "SWR"
-        ]
-      },
-      {
-        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - Technische Logistik",
-        "source": "Technische Logistik",
+        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - technische-logistik.net",
+        "source": "technische-logistik.net",
         "publishedAt": "2026-09-04T03:05:00+00:00",
-        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation Technische Logistik",
+        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation technische-logistik.net",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
         "tags": [
           "Retrofit"
@@ -494,6 +485,16 @@
         "publishedAt": "2026-08-19T07:00:00+00:00",
         "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
+        "source": "ARD Mediathek",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
         ]
