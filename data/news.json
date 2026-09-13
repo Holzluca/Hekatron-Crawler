@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T20:07:39.249527+00:00",
+  "generatedAt": "2026-09-13T22:30:58.494191+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -41,17 +41,6 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Maßgeschneiderter Brandschutz für die King Khalid University - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-06-04T13:38:39+00:00",
-        "summary": "Maßgeschneiderter Brandschutz für die King Khalid University Siemens",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWpuVGM1Tnh1U1M5UTB2SENqeHFoNlp2TTc5bUdxQ1k2bG5sRWIyTDgtd0dWdjc0dzNkRFJBY3hoTGdPUkxzMmVMRUQ5dlJXX1RnWFZMeE91WEpMVXN2ODNRM0JrYnk3QXFPQ2FwRmxiSzdzUUZ6NUp5aTJqcVhvZzducm1KT3hEZXVVT3lGRVVOQQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
         ]
       },
       {
@@ -123,6 +112,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -258,26 +257,6 @@
     ],
     "doors": [
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
-        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
-        "source": "Apollo Hospitals",
-        "publishedAt": "2026-08-17T04:18:14+00:00",
-        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - apollo-news.net",
         "source": "apollo-news.net",
         "publishedAt": "2026-08-13T07:00:00+00:00",
@@ -376,17 +355,37 @@
         "tags": [
           "Handelsblatt"
         ]
+      },
+      {
+        "title": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
       }
     ],
     "trends": [
       {
-        "title": "718.000 Euro vom Land: Fernwald, Grünberg und Lich rüsten Gebäude mit Sensoren aus - Gießener Allgemeine",
+        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
         "source": "Gießener Allgemeine",
-        "publishedAt": "2026-09-12T09:36:18+00:00",
-        "summary": "718.000 Euro vom Land: Fernwald, Grünberg und Lich rüsten Gebäude mit Sensoren aus Gießener Allgemeine",
+        "publishedAt": "2026-09-13T17:43:00+00:00",
+        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
-          "Gießener Allgemeine"
+          "KI"
         ]
       },
       {
@@ -410,10 +409,10 @@
         ]
       },
       {
-        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - technische-logistik.net",
-        "source": "technische-logistik.net",
+        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - Technische Logistik",
+        "source": "Technische Logistik",
         "publishedAt": "2026-09-04T03:05:00+00:00",
-        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation technische-logistik.net",
+        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation Technische Logistik",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
         "tags": [
           "Retrofit"
