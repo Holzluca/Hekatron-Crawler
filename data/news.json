@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-09-14T05:38:49.431081+00:00",
+  "generatedAt": "2026-09-14T11:28:43.475278+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Globaler Schutz und Schutz 2026 - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-08-06T16:58:38+00:00",
-        "summary": "Globaler Schutz und Schutz 2026 Siemens",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
         "source": "simplywall.st",
@@ -34,10 +24,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
-        "source": "Baulinks",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
+        "source": "baulinks.de",
         "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -55,13 +45,13 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "Teltarif"
+          "teltarif.de"
         ]
       },
       {
@@ -103,6 +93,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
         ]
       },
       {
@@ -152,10 +152,10 @@
         ]
       },
       {
-        "title": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte - Teltarif",
-        "source": "Teltarif",
+        "title": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-09-12T10:26:00+00:00",
-        "summary": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte Teltarif",
+        "summary": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DVTF6MmVtQ29rVkZ6LXhxczFTb2ZOZWRXR3JuYlNjallhQ2MtQldtcWh2Mnk1a2dWa1lscThHZUI4Y0UwRmlnNUJHOEJ5WFByS3JmMXhQMFR4SXdJRnQ2U0JuUWFDV2hzaEttbjNOVi1lWm1zRzhBRWhacFdhYVU?oc=5",
         "tags": [
           "Ei"
@@ -192,6 +192,16 @@
         ]
       },
       {
+        "title": "Bosch Unlimited 10 | TEST | Der beste Akkusauger? - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-09-10T09:37:10+00:00",
+        "summary": "Bosch Unlimited 10 | TEST | Der beste Akkusauger? SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGlCWWR2dVZmQ1kzRWNPSW8zYlZWVDlKVFowcnhSUllaYW5ob0xSdksxRVVmZ2dXSTZEcUF0U0FlOW53b20zZEVCR09SUXVrOEtyMlVVbWhZRVhwMW96LTJkandkYi02akd2TGFVMEt5RHBrYjJsb293VHp6Zm9LVQ?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Mit Wischwalze und Sprühfunktion | Bosch stellt Spotless 2-Serie vor - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-09-08T17:16:45+00:00",
@@ -213,10 +223,10 @@
         ]
       },
       {
-        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 - Teltarif",
-        "source": "Teltarif",
+        "title": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 - teltarif.de",
+        "source": "teltarif.de",
         "publishedAt": "2026-09-06T11:10:00+00:00",
-        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 Teltarif",
+        "summary": "WM-Kampagne: Smart-Home-Geräte von Nuki, Bosch und Sonos 3/12 teltarif.de",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ01jZDEyRFRKU2ZaRHVNSUZUWmxKa2kzeE96TmFwVUE0NkppdDF5ZzFvY216ZWNxandXQnFObjJTNjYxWXd3Yy1XSllydHl6bmJ2d1h4bGNrc0ZPeHBGVU05Y3JSbkxIdFpjYnctbzE3UU5KUmdMN2RFWWhzTmpVOEVBZXdQekM0MFlUR0hxZzhvTUNLaTNiWk5R?oc=5",
         "tags": [
           "Bosch"
@@ -244,16 +254,6 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Bosch Unlimited 10 BTS1042GQC - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-09-02T07:00:00+00:00",
-        "summary": "Bosch Unlimited 10 BTS1042GQC SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzJvTFMwdGdCWmh3MGVaamdYbFJPNmFVazlWamRnSHh6RVp5c1FxQmM2TWxIUDdIeFE3M2VPYUxkN1Y2eDduNi1hNjJFSjY1elNzaThpc21ZdGVOTDV1dmp1OHRPdVFkZ1pLMjR4SGhudHI2NDlIdy12QnpXSWN2Ug?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "doors": [
@@ -278,13 +278,13 @@
         ]
       },
       {
-        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
-        "source": "FONDS professionell",
+        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - fondsprofessionell.de",
+        "source": "fondsprofessionell.de",
         "publishedAt": "2026-07-28T14:30:00+00:00",
-        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
+        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro fondsprofessionell.de",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWHI4cmwxU1JzclNGTnppdGpEc0o5S3NNYllXaUdPY2ZZc0xYNEdaMmExbDN3RF8zTGZxNFJxRU9BNW1sWXA3M1F4TWNrMlFPLW5FeU5XUmRScHQ3MGJHSEpIMHZsMXduR2NyZ0RBOW8ycGJIVVE?oc=5",
         "tags": [
-          "FONDS professionell"
+          "fondsprofessionell.de"
         ]
       },
       {
@@ -328,10 +328,10 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
-        "source": "koha.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
+        "source": "KOHA.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -397,6 +397,16 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Digitale Gebäudeautomation in Berliner Hotel - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-09-10T07:00:00+00:00",
+        "summary": "Digitale Gebäudeautomation in Berliner Hotel elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEJ5c3AtS2NDNHBWRWtxT3VNemowcEpMYWRrd2ptRkJiSG1RVkY5WmxXT2hiWVJ5Z1R4UWYwbXVwQTlyUmNhYUc4UG9JckNUa3A3Z3FQNlZyZ0pVd3hQekxFNnRZT1RaVlpJOTBobV8wLS1Ba3ZUR0VYTVlBeDFVX25vaw?oc=5",
+        "tags": [
+          "Gebäudeautomation"
         ]
       },
       {
@@ -485,16 +495,6 @@
         "publishedAt": "2026-08-19T07:00:00+00:00",
         "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
         ]
