@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T17:53:01.073575+00:00",
+  "generatedAt": "2026-09-15T20:45:09.249787+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -116,10 +116,10 @@
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - news.save.ch",
-        "source": "news.save.ch",
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
         "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor news.save.ch",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
@@ -357,13 +357,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
-        "source": "handelsblatt.com",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "handelsblatt.com"
+          "Handelsblatt"
         ]
       },
       {
@@ -378,6 +378,16 @@
       }
     ],
     "trends": [
+      {
+        "title": "Brand in leerstehendem Gebäude in Weißenhorn: 16-Jähriger als Tatverdächtiger ermittelt - BSAktuell",
+        "source": "BSAktuell",
+        "publishedAt": "2026-09-15T06:27:29+00:00",
+        "summary": "Brand in leerstehendem Gebäude in Weißenhorn: 16-Jähriger als Tatverdächtiger ermittelt BSAktuell",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdU9LV1VheXVSY0U5UF9tc1R1bzN3WllQM2pPeDdIbm8yLVBGTHZkMlFvNDRRdTNhQzQ4WHRCZ3dNSkhfQ0g3NHZsOXduNXZkN0Y2QXlkUmlNclhfY1FQMGF2QUJZaFVLQ1BHRnNzLVc3Tl9lQ1d1MnRlY3ZWNUlHUmhGZFZ1VnNBeXkzNFh1UjFhOHN1Rnk1SXkxMld0RDItb3YwRVJyckZ1WXlhY0pkOVdFeW53X1hVVDNPZkZZaWh4Q3NWSmpIUHQtOTh3ZHpPMTgxMEdVeEk2TXY2Wjl1RmZobjFDLU9kcEJVOFd3?oc=5",
+        "tags": [
+          "BSAktuell"
+        ]
+      },
       {
         "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
         "source": "Gießener Allgemeine",
@@ -456,16 +466,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
         "tags": [
           "Normen"
-        ]
-      },
-      {
-        "title": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-08-27T19:29:44+00:00",
-        "summary": "Die Johnson-Controls-Aktie legt nach solider Nachfrage zu ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG5kRDFXWnRONTBtUTJic0FIbnhRcV9mV2lSLTFISlJHZUhBTjBURHZQOUpPWW5VY0lpdVgzaUlmbDh5b0ZDRFJxZ1hvX09Ya0N0NnJmeHVqeU9CQ0pfQlcyaE1aVTdYd0ViQ1pQVXQ3VzVrTzlfNjdub2hiYXB0UTlNT0tkY0toS00tcVBKNDBxNGZaNG56UTlqWDY4WnI2UlJiZDdSMXpDbkhOQVV2VWQ2WnNlTDdYZVB1bQ?oc=5",
-        "tags": [
-          "ad-hoc-news.de"
         ]
       },
       {
