@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-16T20:18:53.637572+00:00",
+  "generatedAt": "2026-09-16T23:06:24.859441+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "tags": [
+          "Bosch",
+          "Brandschutz"
+        ]
+      },
       {
         "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
@@ -105,23 +116,13 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - imtest.de",
-        "source": "imtest.de",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte imtest.de",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ",
-        "source": "NZZ",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "NZZ"
         ]
       }
     ],
@@ -222,17 +223,6 @@
         ]
       },
       {
-        "title": "Bosch OneFlow Serie 4 | Bosch steigt in den Wischsauger-Markt ein - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-09-05T08:59:18+00:00",
-        "summary": "Bosch OneFlow Serie 4 | Bosch steigt in den Wischsauger-Markt ein SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yUEdad0g0RnhiRm92VDM5amlCeV85R3FwR1Utb2JIaHJVTWRHUC1UdzZSbE9GN0NydE9fdkV2RVFYZnBnTzRPWWhIZ0E1T2g2SzZzTkV0bGpZR29taGl4V0ZNaUF6R09rRDhGSjVQQTFUdTB5M0Zj?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "Bosch Unlimited 10 BTS1042GQC - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-09-02T07:00:00+00:00",
@@ -251,9 +241,31 @@
         "tags": [
           "Bosch"
         ]
+      },
+      {
+        "title": "10 Jahre Bosch Smart Home: Neue Funktionen für Heizung und Kameras - appgefahren.de",
+        "source": "appgefahren.de",
+        "publishedAt": "2026-09-01T07:00:52+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Neue Funktionen für Heizung und Kameras appgefahren.de",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkRibFlZanF2Rl9BYkRCVTZ0S0dfdDQzZmFYWFJqTk5aSk9BSktyU0hsRTBoRHVSRVZxdVBTYkJtZmhTY2FNZkZkdWc1eENEdnNmSWhkMHlzNXY1amhHUVhYVElLcFFINkJ5UTc3SmNxM01UVzB2OXlFX0l6MDdHNjN6MlhINXBLVUZQdzlWUmc4OHhwYWtwTl9Wc1pPR29VbF9Zb2JxMHI?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
+      },
       {
         "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - apollo-news.net",
         "source": "apollo-news.net",
@@ -315,10 +327,10 @@
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - Exxpress",
-        "source": "Exxpress",
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder Exxpress",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
@@ -332,16 +344,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
           "Handelsblatt"
-        ]
-      },
-      {
-        "title": "„Einrichtung muss schließen“: Deshalb wickelt die evangelische Kirche eine Kirche im Hochfeld ab - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-05-11T07:00:00+00:00",
-        "summary": "„Einrichtung muss schließen“: Deshalb wickelt die evangelische Kirche eine Kirche im Hochfeld ab Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2ZZRzJpTnZmRjNFcHJlendxb2R5LTRsSVc5NTc1R2tQcDQtR1NNVHRTX2V4RVEtdmtxYTVWaFZuN1E0bnVRVzJFSEQxM0MzdnhHXzVfb0dCb0lHa2pPcDNrNWcwMWtwR3F1a0pqdmUyZE11R0lmdDFIQ25zNkRsZWdkb25Md0JzT0J1ejRYc19abHFocVZ2VzJyb19JUmtjTlFhaldJcmFQdjh5QV9yODBTbjI?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
         ]
       },
       {
@@ -397,10 +399,10 @@
         ]
       },
       {
-        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - giessener-allgemeine.de",
-        "source": "giessener-allgemeine.de",
+        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
+        "source": "Gießener Allgemeine",
         "publishedAt": "2026-09-13T17:43:00+00:00",
-        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus giessener-allgemeine.de",
+        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
           "KI"
@@ -437,13 +439,13 @@
         ]
       },
       {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - swr.de",
-        "source": "swr.de",
+        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
+        "source": "SWR",
         "publishedAt": "2026-09-06T07:00:00+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? swr.de",
+        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
-          "swr.de"
+          "SWR"
         ]
       },
       {
@@ -487,10 +489,10 @@
         ]
       },
       {
-        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
-        "source": "Fuldaer Zeitung",
+        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - fuldaerzeitung.de",
+        "source": "fuldaerzeitung.de",
         "publishedAt": "2026-08-26T07:00:00+00:00",
-        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
+        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit fuldaerzeitung.de",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
         "tags": [
           "Nachhaltigkeit"
