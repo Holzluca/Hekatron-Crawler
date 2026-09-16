@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-15T23:21:27.453512+00:00",
+  "generatedAt": "2026-09-16T01:30:24.979184+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "tags": [
+          "Bosch",
+          "Brandschutz"
+        ]
+      },
       {
         "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
         "source": "simplywall.st",
@@ -106,23 +117,13 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - imtest.de",
-        "source": "imtest.de",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
         "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte imtest.de",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ",
-        "source": "NZZ",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "NZZ"
         ]
       }
     ],
@@ -170,13 +171,13 @@
         ]
       },
       {
-        "title": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden - chip.de",
-        "source": "chip.de",
+        "title": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden - CHIP",
+        "source": "CHIP",
         "publishedAt": "2026-09-11T06:35:00+00:00",
-        "summary": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden chip.de",
+        "summary": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden CHIP",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFdKUzRIblJ4eWUwX1M0UjA3S3A1ZXE1UjZpaTE5RU5na3Zld2RwSzBOX0lxeU9pSXNXQS1jV2Fpd01PdW1hakdjZUc5R2tVdnBqM28ydTI3MlJJQ0lBaFk3a1BxZlVMMlpzcUxENFJaandUeUZxdEs1Z3dXODNYc3BFVFZjV1RxbjBqU01OZGQtaUVfTGh2NS1NRzg5OFRoNXlMN2N4eG1jYldPN25NX21nTUZZMlVKREdEWExtTWhRdWgwWjBIN0gyXzZZUFc1Z284ZA?oc=5",
         "tags": [
-          "chip.de"
+          "CHIP"
         ]
       },
       {
@@ -243,11 +244,11 @@
         ]
       },
       {
-        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - imtest.de",
-        "source": "imtest.de",
+        "title": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken - Netzwelt",
+        "source": "Netzwelt",
         "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen imtest.de",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
+        "summary": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXBRM2lZWk1uYzlxUWNSWjU4ZzQ5MGVkaG4xZUtiMHRYR2tXTDlrcS02TE15SUN2NUJ5QzB2UFdfODhuVk9FRFp6OW5EM3R4N0JlZ1Job1N2MzVXVFlIVm5EU0dlQ25NU3J3bHpDTk1ZVkxFRVpWQnFzRUpxSFpoOV9MQ19HTExyVGtQcVZILTVHV1hSRjhEQWlkZUNkOEI1bnFHZlVuZVh3eEU?oc=5",
         "tags": [
           "Ei",
           "Bosch",
@@ -317,13 +318,13 @@
         ]
       },
       {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - boersen-zeitung.de",
-        "source": "boersen-zeitung.de",
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland boersen-zeitung.de",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
-          "boersen-zeitung.de"
+          "Börsen-Zeitung"
         ]
       },
       {
@@ -379,20 +380,20 @@
     ],
     "trends": [
       {
-        "title": "Brand in leerstehendem Gebäude in Weißenhorn: 16-Jähriger als Tatverdächtiger ermittelt - bsaktuell.de",
-        "source": "bsaktuell.de",
+        "title": "Brand in leerstehendem Gebäude in Weißenhorn: 16-Jähriger als Tatverdächtiger ermittelt - BSAktuell",
+        "source": "BSAktuell",
         "publishedAt": "2026-09-15T06:27:29+00:00",
-        "summary": "Brand in leerstehendem Gebäude in Weißenhorn: 16-Jähriger als Tatverdächtiger ermittelt bsaktuell.de",
+        "summary": "Brand in leerstehendem Gebäude in Weißenhorn: 16-Jähriger als Tatverdächtiger ermittelt BSAktuell",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdU9LV1VheXVSY0U5UF9tc1R1bzN3WllQM2pPeDdIbm8yLVBGTHZkMlFvNDRRdTNhQzQ4WHRCZ3dNSkhfQ0g3NHZsOXduNXZkN0Y2QXlkUmlNclhfY1FQMGF2QUJZaFVLQ1BHRnNzLVc3Tl9lQ1d1MnRlY3ZWNUlHUmhGZFZ1VnNBeXkzNFh1UjFhOHN1Rnk1SXkxMld0RDItb3YwRVJyckZ1WXlhY0pkOVdFeW53X1hVVDNPZkZZaWh4Q3NWSmpIUHQtOTh3ZHpPMTgxMEdVeEk2TXY2Wjl1RmZobjFDLU9kcEJVOFd3?oc=5",
         "tags": [
-          "bsaktuell.de"
+          "BSAktuell"
         ]
       },
       {
-        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - giessener-allgemeine.de",
-        "source": "giessener-allgemeine.de",
+        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
+        "source": "Gießener Allgemeine",
         "publishedAt": "2026-09-13T17:43:00+00:00",
-        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus giessener-allgemeine.de",
+        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
           "KI"
@@ -429,10 +430,10 @@
         ]
       },
       {
-        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - Technische Logistik",
-        "source": "Technische Logistik",
+        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - technische-logistik.net",
+        "source": "technische-logistik.net",
         "publishedAt": "2026-09-04T03:05:00+00:00",
-        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation Technische Logistik",
+        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation technische-logistik.net",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
         "tags": [
           "Retrofit"
