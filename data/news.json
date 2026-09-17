@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:06:24.859441+00:00",
+  "generatedAt": "2026-09-17T01:34:15.523037+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -193,13 +193,13 @@
         ]
       },
       {
-        "title": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden - CHIP",
-        "source": "CHIP",
+        "title": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden - chip.de",
+        "source": "chip.de",
         "publishedAt": "2026-09-11T06:35:00+00:00",
-        "summary": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden CHIP",
+        "summary": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden chip.de",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFdKUzRIblJ4eWUwX1M0UjA3S3A1ZXE1UjZpaTE5RU5na3Zld2RwSzBOX0lxeU9pSXNXQS1jV2Fpd01PdW1hakdjZUc5R2tVdnBqM28ydTI3MlJJQ0lBaFk3a1BxZlVMMlpzcUxENFJaandUeUZxdEs1Z3dXODNYc3BFVFZjV1RxbjBqU01OZGQtaUVfTGh2NS1NRzg5OFRoNXlMN2N4eG1jYldPN25NX21nTUZZMlVKREdEWExtTWhRdWgwWjBIN0gyXzZZUFc1Z284ZA?oc=5",
         "tags": [
-          "CHIP"
+          "chip.de"
         ]
       },
       {
@@ -297,13 +297,13 @@
         ]
       },
       {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
-        "source": "das investment",
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - dasinvestment.com",
+        "source": "dasinvestment.com",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger dasinvestment.com",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
-          "das investment"
+          "dasinvestment.com"
         ]
       },
       {
@@ -449,16 +449,6 @@
         ]
       },
       {
-        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - Technische Logistik",
-        "source": "Technische Logistik",
-        "publishedAt": "2026-09-04T03:05:00+00:00",
-        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation Technische Logistik",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
-        "tags": [
-          "Retrofit"
-        ]
-      },
-      {
         "title": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - MRN-NEWS",
         "source": "MRN-NEWS",
         "publishedAt": "2026-09-02T08:13:49+00:00",
@@ -489,13 +479,23 @@
         ]
       },
       {
-        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - fuldaerzeitung.de",
-        "source": "fuldaerzeitung.de",
+        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
+        "source": "Fuldaer Zeitung",
         "publishedAt": "2026-08-26T07:00:00+00:00",
-        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit fuldaerzeitung.de",
+        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
         "tags": [
           "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Planung von Brandmeldeanlagen mit Künstlicher Intelligenz - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-08-25T07:00:00+00:00",
+        "summary": "Planung von Brandmeldeanlagen mit Künstlicher Intelligenz elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1NhbEJiS19hdU5IU2NIQ0lVYzY3YXJUa3B6MFF0aHhabjQ5R0Y1ZFBrVnFLSHJjQm9yNm84SkVvbnFPVVpUeFZxYldRdWVlQmh4REgyWDdjZl9RQ0VNSnZOZF9BeXoxZFROeU5fNlZaSEd0bnJGaHpveEhSdldiLWNwakU5WHotVlRHSTRRc3FzNjdP?oc=5",
+        "tags": [
+          "elektro.net"
         ]
       }
     ]
