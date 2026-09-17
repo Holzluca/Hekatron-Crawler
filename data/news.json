@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:27:10.445118+00:00",
+  "generatedAt": "2026-09-17T22:58:26.367005+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,10 +34,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
-        "source": "Baulinks",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
+        "source": "baulinks.de",
         "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -203,6 +203,16 @@
         ]
       },
       {
+        "title": "Bosch Unlimited 7 ProHygienic Aqua | TEST | Saugen & Wischen! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-09-10T09:48:01+00:00",
+        "summary": "Bosch Unlimited 7 ProHygienic Aqua | TEST | Saugen & Wischen! SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN0VuSExpNjVOc0dHRmRKNTR4cExhUDdVOTlTdnpfY2QwQjczNDhxWG03a1NTNDJoQnVycFNzek5aQ1Vsci1nZndzU0M1N2pRM3EyVG9NTUNqUFg1dzNONTR6blFkd1dwbG5abEhJamlHREFxUDVaa1hxdTY1ZlhFSkpGcXpaNVE?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Unlimited 10 | TEST | Der beste Akkusauger? - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-09-10T09:37:10+00:00",
@@ -238,16 +248,6 @@
         "publishedAt": "2026-09-02T07:00:00+00:00",
         "summary": "Bosch Unlimited 10 BTS1042GQC SmarthomeAssistent",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzJvTFMwdGdCWmh3MGVaamdYbFJPNmFVazlWamRnSHh6RVp5c1FxQmM2TWxIUDdIeFE3M2VPYUxkN1Y2eDduNi1hNjJFSjY1elNzaThpc21ZdGVOTDV1dmp1OHRPdVFkZ1pLMjR4SGhudHI2NDlIdy12QnpXSWN2Ug?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smarthome mit zusätzlichen Abo-Funktionen - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-09-01T15:14:12+00:00",
-        "summary": "Bosch Smarthome mit zusätzlichen Abo-Funktionen iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjJjZlM2cE9EdkptVzl5SVhqNlJvUjF6ejBYWHVRYVlOWU1jSldYekQtUmdFY2xnTE5NZm1xN2F0S1VORVB3dzR3blBLUkxmZll0eHdkTi1iOGtWLWF1WFJldExZV0ozcXZOU2hmeFI1YzRxM0MyeGVkZ1FKZmZ1MHQ4Y2VhUFFsdEVfWGt3?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -325,10 +325,10 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
-        "source": "koha.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
+        "source": "KOHA.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -427,20 +427,20 @@
         ]
       },
       {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
-        "source": "SWR",
+        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - swr.de",
+        "source": "swr.de",
         "publishedAt": "2026-09-06T07:00:00+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
+        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? swr.de",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
-          "SWR"
+          "swr.de"
         ]
       },
       {
-        "title": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - MRN-NEWS",
-        "source": "MRN-NEWS",
+        "title": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - mrn-news.de",
+        "source": "mrn-news.de",
         "publishedAt": "2026-09-02T08:13:49+00:00",
-        "summary": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes MRN-NEWS",
+        "summary": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes mrn-news.de",
         "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbmV2b0Z3QU9icEgzOF9EV0thOXNCTEJzMWhWODE0ektGTXFjcXpkNGRQQS14RWVrbVZGSTI1S1RSNHVsWjd2RW9YdzFxXzJPcFEzeTByWTBjRXVxcVRhZU1rU0tReWlaSUtXYi1XZkczR2NNSzhDQ2ZKN3lFZW1YNkFYVUJ5R3BTbnRZTDZnY0V5TXFUSzBUTTUtZkxRYTRhQXpWalQ3RWRwOGp5YTBnTTFsRGJlVVZpZnBwOWYxZGk0SDBLRU4tOS1laUIzUW1UYVhmelFINFRlZDFMcGZCWTh5T0MtbUVxSXRPNjdqZzV4elVoVGcxd1UxdTZXR2dxVlpzMEwzWEZYaHBqM1R4TlBIY2M5T1VESWszRS04bWt5M1lk?oc=5",
         "tags": [
           "KI"
@@ -487,10 +487,10 @@
         ]
       },
       {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ardmediathek.de",
+        "source": "ardmediathek.de",
         "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ardmediathek.de",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
