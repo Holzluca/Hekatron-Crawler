@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T17:24:22.591615+00:00",
+  "generatedAt": "2026-09-17T20:27:10.445118+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -106,13 +106,13 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - diepholz.de",
-        "source": "diepholz.de",
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
         "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen diepholz.de",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
         "tags": [
-          "diepholz.de"
+          "Landkreis Diepholz"
         ]
       },
       {
@@ -203,21 +203,21 @@
         ]
       },
       {
-        "title": "Bosch Unlimited 7 ProHygienic Aqua | TEST | Saugen & Wischen! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-09-10T09:48:01+00:00",
-        "summary": "Bosch Unlimited 7 ProHygienic Aqua | TEST | Saugen & Wischen! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN0VuSExpNjVOc0dHRmRKNTR4cExhUDdVOTlTdnpfY2QwQjczNDhxWG03a1NTNDJoQnVycFNzek5aQ1Vsci1nZndzU0M1N2pRM3EyVG9NTUNqUFg1dzNONTR6blFkd1dwbG5abEhJamlHREFxUDVaa1hxdTY1ZlhFSkpGcXpaNVE?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "Bosch Unlimited 10 | TEST | Der beste Akkusauger? - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-09-10T09:37:10+00:00",
         "summary": "Bosch Unlimited 10 | TEST | Der beste Akkusauger? SmarthomeAssistent",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGlCWWR2dVZmQ1kzRWNPSW8zYlZWVDlKVFowcnhSUllaYW5ob0xSdksxRVVmZ2dXSTZEcUF0U0FlOW53b20zZEVCR09SUXVrOEtyMlVVbWhZRVhwMW96LTJkandkYi02akd2TGFVMEt5RHBrYjJsb293VHp6Zm9LVQ?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Mit Wischwalze und Sprühfunktion | Bosch stellt Spotless 2-Serie vor - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-09-08T17:16:45+00:00",
+        "summary": "Mit Wischwalze und Sprühfunktion | Bosch stellt Spotless 2-Serie vor SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW1ZSFdJNVo1LTB5amVjTk9NbVo0QkQxM0daTlRERldhNFZ1eHc1eEVVcGc5VlBEWkxSRFBOTUVnWTdNMjdwS1lZbW05OFhoMTVJVGd5WWxzdHJ5cDA3ajc1SmE5TklDLW5VZndIcU12ZW0yTnZnRWpWalJNV19wZnBfU3ZOdmFIT1hUWVZqWU8tY2pRMUZFUm9TQm4tQ0ZMM1UyXw?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -295,13 +295,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
-        "source": "t3n",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
+        "source": "t3n.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n"
+          "t3n.de"
         ]
       },
       {
