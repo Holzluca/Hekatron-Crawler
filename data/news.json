@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-09-19T01:22:14.738049+00:00",
+  "generatedAt": "2026-09-19T06:11:37.866122+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
-        ]
-      },
       {
         "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
         "source": "simplywall.st",
@@ -65,10 +55,10 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - press.siemens.com",
+        "source": "press.siemens.com",
         "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude press.siemens.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
@@ -124,14 +114,24 @@
         "tags": [
           "Bosch"
         ]
+      },
+      {
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ",
+        "source": "NZZ",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern NZZ",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "tags": [
+          "NZZ"
+        ]
       }
     ],
     "pfs": [
       {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PC Games Hardware",
-        "source": "PC Games Hardware",
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
+        "source": "PCGH",
         "publishedAt": "2026-09-18T10:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PC Games Hardware",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
         "tags": [
           "X-Sense"
@@ -183,10 +183,10 @@
         ]
       },
       {
-        "title": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen - inside-digital.de",
-        "source": "inside-digital.de",
+        "title": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen - inside digital",
+        "source": "inside digital",
         "publishedAt": "2026-09-11T13:28:00+00:00",
-        "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside-digital.de",
+        "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside digital",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazQ3b0gxOUV4NXpydWZFOHBfUnBZdEFldWxkX0hodERxOC13UmE1d2hMaTdOWm4wWEhPU3VBTWpZUjh4dEE4RUtZdWZnREFmQTVlMDhUd3NJMW5ZTWNzYWxBQ0s5WjVHdkdkWWJJekNtT2dJRUFzc19TczB6NFppOTk3VWJodngwSHRDajdn0gGTAUFVX3lxTE1nZnNhcmVyQUtUYkloTGZNcFQyU2FzMWhjQ3JVZ0N5bHVsdDlmc0h4MVdOU0RMbW1vMGxvZWRXbEY0Wi1NbjhqMTFyMG5QLXphSWpvaTE5bE9heTR1bWgtSlVtYlF4TldvN1RyTFo0Rkx3dDRuWWZDMXBIN2JLMkxMeVFJancwSVJrRElybzVEdzh4RQ?oc=5",
         "tags": [
           "Bosch"
@@ -213,22 +213,23 @@
         ]
       },
       {
-        "title": "Bosch Unlimited 10 | TEST | Der beste Akkusauger? - SmarthomeAssistent",
+        "title": "Mit Wischwalze und Sprühfunktion | Bosch stellt Spotless 2-Serie vor - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
-        "publishedAt": "2026-09-10T09:37:10+00:00",
-        "summary": "Bosch Unlimited 10 | TEST | Der beste Akkusauger? SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVGlCWWR2dVZmQ1kzRWNPSW8zYlZWVDlKVFowcnhSUllaYW5ob0xSdksxRVVmZ2dXSTZEcUF0U0FlOW53b20zZEVCR09SUXVrOEtyMlVVbWhZRVhwMW96LTJkandkYi02akd2TGFVMEt5RHBrYjJsb293VHp6Zm9LVQ?oc=5",
+        "publishedAt": "2026-09-08T17:16:45+00:00",
+        "summary": "Mit Wischwalze und Sprühfunktion | Bosch stellt Spotless 2-Serie vor SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW1ZSFdJNVo1LTB5amVjTk9NbVo0QkQxM0daTlRERldhNFZ1eHc1eEVVcGc5VlBEWkxSRFBOTUVnWTdNMjdwS1lZbW05OFhoMTVJVGd5WWxzdHJ5cDA3ajc1SmE5TklDLW5VZndIcU12ZW0yTnZnRWpWalJNV19wZnBfU3ZOdmFIT1hUWVZqWU8tY2pRMUZFUm9TQm4tQ0ZMM1UyXw?oc=5",
         "tags": [
           "Bosch"
         ]
       },
       {
-        "title": "Bosch OneFlow Serie 6 | Das bietet die stärkere Variante - SmarthomeAssistent",
+        "title": "Bosch OneFlow Serie 4 | Bosch steigt in den Wischsauger-Markt ein - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
-        "publishedAt": "2026-09-05T09:23:24+00:00",
-        "summary": "Bosch OneFlow Serie 6 | Das bietet die stärkere Variante SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iRXo3RzJ3SVhCM01fM1huTVhVZWR3OUZ6NzBlazVVNTRIWHVQTXBnU190R1ZoUUk4Nm8tR2t5Mlg2SjVFNW1ISjBzWEkzcFl5SGtFZGtLdDMyTzNaa1pDeEpnN2Jmb09mRmJhWTRQcm1kVUhzZlBv?oc=5",
+        "publishedAt": "2026-09-05T08:59:18+00:00",
+        "summary": "Bosch OneFlow Serie 4 | Bosch steigt in den Wischsauger-Markt ein SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yUEdad0g0RnhiRm92VDM5amlCeV85R3FwR1Utb2JIaHJVTWRHUC1UdzZSbE9GN0NydE9fdkV2RVFYZnBnTzRPWWhIZ0E1T2g2SzZzTkV0bGpZR29taGl4V0ZNaUF6R09rRDhGSjVQQTFUdTB5M0Zj?oc=5",
         "tags": [
+          "Ei",
           "Bosch"
         ]
       },
@@ -282,6 +283,16 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
+        "source": "FONDS professionell",
+        "publishedAt": "2026-07-28T14:30:00+00:00",
+        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWHI4cmwxU1JzclNGTnppdGpEc0o5S3NNYllXaUdPY2ZZc0xYNEdaMmExbDN3RF8zTGZxNFJxRU9BNW1sWXA3M1F4TWNrMlFPLW5FeU5XUmRScHQ3MGJHSEpIMHZsMXduR2NyZ0RBOW8ycGJIVVE?oc=5",
+        "tags": [
+          "FONDS professionell"
         ]
       },
       {
@@ -355,23 +366,13 @@
         ]
       },
       {
-        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
-        "source": "Logistik Online",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-07-06T07:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs - apollo-news.net",
-        "source": "apollo-news.net",
-        "publishedAt": "2026-04-29T07:00:00+00:00",
-        "summary": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs apollo-news.net",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
-        "tags": [
-          "Apollo"
+          "Handelsblatt"
         ]
       }
     ],
@@ -387,10 +388,10 @@
         ]
       },
       {
-        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - giessener-allgemeine.de",
-        "source": "giessener-allgemeine.de",
+        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
+        "source": "Gießener Allgemeine",
         "publishedAt": "2026-09-13T17:43:00+00:00",
-        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus giessener-allgemeine.de",
+        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
           "KI"
@@ -427,13 +428,13 @@
         ]
       },
       {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
-        "source": "SWR",
-        "publishedAt": "2026-09-06T07:00:00+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
+        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - Technische Logistik",
+        "source": "Technische Logistik",
+        "publishedAt": "2026-09-04T03:05:00+00:00",
+        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation Technische Logistik",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
         "tags": [
-          "SWR"
+          "Retrofit"
         ]
       },
       {
@@ -487,13 +488,13 @@
         ]
       },
       {
-        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
-        "source": "tagesschau.de",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
+        "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
+        "source": "myheimat.de",
+        "publishedAt": "2026-08-22T13:52:50+00:00",
+        "summary": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 myheimat.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
-          "KI"
+          "myheimat.de"
         ]
       }
     ]
