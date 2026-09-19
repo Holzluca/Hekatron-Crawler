@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T11:17:19.247996+00:00",
+  "generatedAt": "2026-09-19T14:35:32.584758+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,10 +34,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
-        "source": "baulinks.de",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
+        "source": "Baulinks",
         "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -195,7 +195,7 @@
       {
         "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
         "source": "connect.de",
-        "publishedAt": "2026-09-11T06:50:38+00:00",
+        "publishedAt": "2026-09-11T07:00:00+00:00",
         "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
         "tags": [
@@ -307,13 +307,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
-        "source": "t3n.de",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n.de"
+          "t3n"
         ]
       },
       {
@@ -379,13 +379,13 @@
     ],
     "trends": [
       {
-        "title": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz - baulinks.de",
-        "source": "baulinks.de",
+        "title": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz - Baulinks",
+        "source": "Baulinks",
         "publishedAt": "2026-09-16T02:49:08+00:00",
-        "summary": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz baulinks.de",
+        "summary": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TdWRnd3BIejcydVc0dHZTYWlZWHNIZ1psQm5yUWN3Ti1CY1BoNWxwUFU2ZnZfVXlyV2dXaGpMb3BkTXpiM2Y2X2VKb21KMG9EV2Y0cWVhcjcwQ3B1?oc=5",
         "tags": [
-          "baulinks.de"
+          "Baulinks"
         ]
       },
       {
@@ -409,16 +409,6 @@
         ]
       },
       {
-        "title": "Digitale Gebäudeautomation in Berliner Hotel - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-09-10T07:00:00+00:00",
-        "summary": "Digitale Gebäudeautomation in Berliner Hotel elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEJ5c3AtS2NDNHBWRWtxT3VNemowcEpMYWRrd2ptRkJiSG1RVkY5WmxXT2hiWVJ5Z1R4UWYwbXVwQTlyUmNhYUc4UG9JckNUa3A3Z3FQNlZyZ0pVd3hQekxFNnRZT1RaVlpJOTBobV8wLS1Ba3ZUR0VYTVlBeDFVX25vaw?oc=5",
-        "tags": [
-          "Gebäudeautomation"
-        ]
-      },
-      {
         "title": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-09-09T22:48:17+00:00",
@@ -426,16 +416,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDNJVlRrTDZkY1hENFBnSG9VTWN3b2JrTXRzNkYyRkk2b3E3a3FWeE11Y2pBblpfems5dFZCd19zdlMtSnlRY2VUMFBiWklvVUFYbF9Fc1BEcnpVcVJEZlBqcW1yWkRoSkZIZ1MwRDByTXlDMWFNYlA1Y3lieTBfblpoRTdDSE51elJKUWp2RkxPYTZZWDNWbk93OE9uRjg3WFpWYlQ3a2szZw?oc=5",
         "tags": [
           "AD HOC NEWS"
-        ]
-      },
-      {
-        "title": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation - Technische Logistik",
-        "source": "Technische Logistik",
-        "publishedAt": "2026-09-04T03:05:00+00:00",
-        "summary": "Heitec verbindet Retrofit mit Sicherheitsbewertung und virtueller Simulation Technische Logistik",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYllCU1lqV3pYV3lPZ2tSYndxaFNKWjE5eXl6RWpQMG9DX2QyRUQ5a29DSEZSa0wyZUxld0daaEU4MUJYbDBwMGI4a0tKVTBrbjluSDh5bVpucE9SVE90VWFhNUVkaFJQQkdxd2tYOWZiUm9EUHRKODcxM3NITS1sOUhVbzdBclBvbGpnRzFCRUtyTVdieWlFLU1GZ3E3VHhWOUkyWXJLZXRQYkwyTlRFV2VOeU5iQnlYV3g4VkVPcw?oc=5",
-        "tags": [
-          "Retrofit"
         ]
       },
       {
@@ -449,10 +429,10 @@
         ]
       },
       {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
+        "source": "faz.net",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
@@ -496,6 +476,26 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
           "myheimat.de"
+        ]
+      },
+      {
+        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
+        "source": "tagesschau.de",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
+        "source": "ARD Mediathek",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
