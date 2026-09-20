@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T13:52:25.892477+00:00",
+  "generatedAt": "2026-09-20T17:13:16.759528+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -55,16 +55,6 @@
         ]
       },
       {
-        "title": "Neue IoT-Brandmelder präsentiert - buildingtimes.at",
-        "source": "buildingtimes.at",
-        "publishedAt": "2026-07-01T07:00:00+00:00",
-        "summary": "Neue IoT-Brandmelder präsentiert buildingtimes.at",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
-        "tags": [
-          "buildingtimes.at"
-        ]
-      },
-      {
         "title": "Maßgeschneiderter Brandschutz für die King Khalid University - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-06-04T13:38:39+00:00",
@@ -76,13 +66,13 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
-        "source": "teltarif.de",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "teltarif.de"
+          "Teltarif"
         ]
       },
       {
@@ -124,6 +114,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T07:00:00+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "tags": [
+          "Bosch"
         ]
       }
     ],
@@ -204,10 +204,10 @@
         ]
       },
       {
-        "title": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen - inside-digital.de",
-        "source": "inside-digital.de",
+        "title": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen - inside digital",
+        "source": "inside digital",
         "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside-digital.de",
+        "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside digital",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazQ3b0gxOUV4NXpydWZFOHBfUnBZdEFldWxkX0hodERxOC13UmE1d2hMaTdOWm4wWEhPU3VBTWpZUjh4dEE4RUtZdWZnREFmQTVlMDhUd3NJMW5ZTWNzYWxBQ0s5WjVHdkdkWWJJekNtT2dJRUFzc19TczB6NFppOTk3VWJodngwSHRDajdn0gGTAUFVX3lxTE1nZnNhcmVyQUtUYkloTGZNcFQyU2FzMWhjQ3JVZ0N5bHVsdDlmc0h4MVdOU0RMbW1vMGxvZWRXbEY0Wi1NbjhqMTFyMG5QLXphSWpvaTE5bE9heTR1bWgtSlVtYlF4TldvN1RyTFo0Rkx3dDRuWWZDMXBIN2JLMkxMeVFJancwSVJrRElybzVEdzh4RQ?oc=5",
         "tags": [
           "Bosch"
@@ -308,6 +308,16 @@
         ]
       },
       {
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
+        "tags": [
+          "t3n"
+        ]
+      },
+      {
         "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
         "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
@@ -328,21 +338,11 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
+        "source": "koha.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
-        "source": "exxpress",
-        "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -390,10 +390,10 @@
         ]
       },
       {
-        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - giessener-allgemeine.de",
-        "source": "giessener-allgemeine.de",
+        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
+        "source": "Gießener Allgemeine",
         "publishedAt": "2026-09-13T17:43:00+00:00",
-        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus giessener-allgemeine.de",
+        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
           "KI"
@@ -405,6 +405,16 @@
         "publishedAt": "2026-09-11T07:00:00+00:00",
         "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - MRN-NEWS",
+        "source": "MRN-NEWS",
+        "publishedAt": "2026-09-02T08:13:49+00:00",
+        "summary": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes MRN-NEWS",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbmV2b0Z3QU9icEgzOF9EV0thOXNCTEJzMWhWODE0ektGTXFjcXpkNGRQQS14RWVrbVZGSTI1S1RSNHVsWjd2RW9YdzFxXzJPcFEzeTByWTBjRXVxcVRhZU1rU0tReWlaSUtXYi1XZkczR2NNSzhDQ2ZKN3lFZW1YNkFYVUJ5R3BTbnRZTDZnY0V5TXFUSzBUTTUtZkxRYTRhQXpWalQ3RWRwOGp5YTBnTTFsRGJlVVZpZnBwOWYxZGk0SDBLRU4tOS1laUIzUW1UYVhmelFINFRlZDFMcGZCWTh5T0MtbUVxSXRPNjdqZzV4elVoVGcxd1UxdTZXR2dxVlpzMEwzWEZYaHBqM1R4TlBIY2M5T1VESWszRS04bWt5M1lk?oc=5",
         "tags": [
           "KI"
         ]
@@ -440,10 +450,10 @@
         ]
       },
       {
-        "title": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll - mdr.de",
-        "source": "mdr.de",
+        "title": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll - MDR.de",
+        "source": "MDR.de",
         "publishedAt": "2026-08-20T07:00:00+00:00",
-        "summary": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll mdr.de",
+        "summary": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll MDR.de",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUVNTFc5YzNJUENHcXNMT1NIRjNDR2sxMjF5RndJVENlM2N6WGhtYXBiRVlpcnpQTENIMDVSdE9uaTJZWEdLQ1VOOHRveVdnQ3RiOVhudXN4Y3RwMlpHandJdTFVbmtCazUtZTczbTVVXzl4Wk5CSW43bVFSMXNobDdGc3BIOWlJeC10MXRIa2lRSWlDaFhnYnpEaw?oc=5",
         "tags": [
           "KI"
@@ -470,13 +480,13 @@
         ]
       },
       {
-        "title": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant - it boltwise",
-        "source": "it boltwise",
+        "title": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant - it-boltwise.de",
+        "source": "it-boltwise.de",
         "publishedAt": "2026-08-18T07:00:00+00:00",
-        "summary": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant it boltwise",
+        "summary": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant it-boltwise.de",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW12VTFQdnF3cnR6YU80OFljVm0tcFNVaklmaFpDd2VIWkp5QzMyUlFsOTNSQlVuTHZRcGxKY3pWeDl4OTBUOHlpOWRZVUE0WXpQam1lcGx0NUhXcFU5a0ZwU0hZTUI3ZmFHR2ZCdGhjNmNXc3Q5WElTb2hIMkk5WTZMQlh5UUo3Nld6RlVzS1hZRk9OMDBrTjBDR1IydldtdU5sdW1ESHMxVDZ6YnFN?oc=5",
         "tags": [
-          "it boltwise"
+          "it-boltwise.de"
         ]
       },
       {
@@ -487,16 +497,6 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG9lN2ZON3ZzcUdwby1uR25zLXdBSGpOUnhvbnp3aWRrY1VQeWFmdURSdFRpWFdZNkJ3TVVTRzI2UDNYeGFSbC1JcG84VlgxUEVVWUhPMTV5MGsxTzRTbktEMlpBekFWQ2xSWC11S2d0WURsbVRkRWc5d2RxejlzVHRVdUROSFRSSkYxUmFZcDZjVWMzRU9uNVNkcVlvVXlxaGpFSlBqb3M0RnpVbC04NlB2cUVQSmV1RXVxd01PZw?oc=5",
         "tags": [
           "Berliner Morgenpost"
-        ]
-      },
-      {
-        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
-        "source": "BILD",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
         ]
       }
     ]
