@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:13:16.759528+00:00",
+  "generatedAt": "2026-09-20T19:35:49.519560+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -52,6 +52,16 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
+        "source": "buildingTIMES",
+        "publishedAt": "2026-07-01T07:00:00+00:00",
+        "summary": "Neue IoT-Brandmelder präsentiert buildingTIMES",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
+        "tags": [
+          "buildingTIMES"
         ]
       },
       {
@@ -114,16 +124,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
-        "tags": [
-          "Bosch"
         ]
       }
     ],
@@ -348,10 +348,10 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
+        "source": "businessinsider.de",
         "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
@@ -480,13 +480,13 @@
         ]
       },
       {
-        "title": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant - it-boltwise.de",
-        "source": "it-boltwise.de",
+        "title": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant - it boltwise",
+        "source": "it boltwise",
         "publishedAt": "2026-08-18T07:00:00+00:00",
-        "summary": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant it-boltwise.de",
+        "summary": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant it boltwise",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW12VTFQdnF3cnR6YU80OFljVm0tcFNVaklmaFpDd2VIWkp5QzMyUlFsOTNSQlVuTHZRcGxKY3pWeDl4OTBUOHlpOWRZVUE0WXpQam1lcGx0NUhXcFU5a0ZwU0hZTUI3ZmFHR2ZCdGhjNmNXc3Q5WElTb2hIMkk5WTZMQlh5UUo3Nld6RlVzS1hZRk9OMDBrTjBDR1IydldtdU5sdW1ESHMxVDZ6YnFN?oc=5",
         "tags": [
-          "it-boltwise.de"
+          "it boltwise"
         ]
       },
       {
