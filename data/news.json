@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T10:55:08.063344+00:00",
+  "generatedAt": "2026-09-21T16:44:08.824282+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
       {
-        "title": "Intelligenter Campus-Brandschutz an der James Cook University - Siemens",
-        "source": "Siemens",
+        "title": "Intelligenter Campus-Brandschutz an der James Cook University - siemens.com",
+        "source": "siemens.com",
         "publishedAt": "2026-09-18T13:19:27+00:00",
-        "summary": "Intelligenter Campus-Brandschutz an der James Cook University Siemens",
+        "summary": "Intelligenter Campus-Brandschutz an der James Cook University siemens.com",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmllaWpRQzZMUW94aVloS3l1WFpJbV9YTXBxXzQxcFBZXzFPUHpNTklOUkhiTkhtQURQRlA0TUtpVmRWZ1VOYlg3aTZHd0I2b0RjRVViMG9LdWhLR1ZPaU1TalVVV2FaeFR2dlVLNnVYN3BFS0I4Q0ZBdW9LNktqOTFCYnRyV2t2LS1Oam5jRQ?oc=5",
         "tags": [
           "Siemens",
@@ -65,17 +65,6 @@
         ]
       },
       {
-        "title": "Maßgeschneiderter Brandschutz für die King Khalid University - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-06-04T13:38:39+00:00",
-        "summary": "Maßgeschneiderter Brandschutz für die King Khalid University Siemens",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWpuVGM1Tnh1U1M5UTB2SENqeHFoNlp2TTc5bUdxQ1k2bG5sRWIyTDgtd0dWdjc0dzNkRFJBY3hoTGdPUkxzMmVMRUQ5dlJXX1RnWFZMeE91WEpMVXN2ODNRM0JrYnk3QXFPQ2FwRmxiSzdzUUZ6NUp5aTJqcVhvZzducm1KT3hEZXVVT3lGRVVOQQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-04T07:00:00+00:00",
@@ -86,10 +75,10 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
-        "source": "Siemens press",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - press.siemens.com",
+        "source": "press.siemens.com",
         "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude press.siemens.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
@@ -106,10 +95,10 @@
         ]
       },
       {
-        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
-        "source": "Siemens",
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - siemens.com",
+        "source": "siemens.com",
         "publishedAt": "2026-05-05T12:32:58+00:00",
-        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem siemens.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
         "tags": [
           "Siemens",
@@ -117,13 +106,23 @@
         ]
       },
       {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
+        "title": "Cybersecurity für die Pharmaproduktion - siemens.com",
+        "source": "siemens.com",
         "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
+        "summary": "Cybersecurity für die Pharmaproduktion siemens.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T07:00:00+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "tags": [
+          "Bosch"
         ]
       }
     ],
@@ -162,10 +161,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Starter Set Heizen II 3er - Smarte Heizungssteuerung mit Controller II und drei The - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Bosch Smart Home Starter Set Heizen II 3er - Smarte Heizungssteuerung mit Controller II und drei The - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-12T11:48:20+00:00",
-        "summary": "Bosch Smart Home Starter Set Heizen II 3er - Smarte Heizungssteuerung mit Controller II und drei The AD HOC NEWS",
+        "summary": "Bosch Smart Home Starter Set Heizen II 3er - Smarte Heizungssteuerung mit Controller II und drei The ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbGEya0RDaWxWeUJoTEhJXzNfSDNHdXcwNUZFZHduR0o1U0tGN2FDMlctZ1l6WjM2ZFl5VlRlR0d6b1pUOGhzWmdTNzZrS2E1dHp4Z1BjZXpkU2xHdUtEZDQweWRmdmxJdzUyUno0WGhoZjZzMl9Vd1hSOGpma3ZuNEg5ZTZZYlN5TWwyQTQ3eTZTOHFadC1TSndsWUduTGhaVUVDYUttb0tOLTZ0ZGxjLUZSR3pqcFF4ZF82eDFFenpya1hNMUE?oc=5",
         "tags": [
           "Ei",
@@ -258,10 +257,10 @@
     ],
     "doors": [
       {
-        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-17T14:14:23+00:00",
-        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab AD HOC NEWS",
+        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
         "tags": [
           "Apollo"
@@ -420,13 +419,23 @@
         ]
       },
       {
-        "title": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-10T07:00:00+00:00",
-        "summary": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz AD HOC NEWS",
+        "summary": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDNJVlRrTDZkY1hENFBnSG9VTWN3b2JrTXRzNkYyRkk2b3E3a3FWeE11Y2pBblpfems5dFZCd19zdlMtSnlRY2VUMFBiWklvVUFYbF9Fc1BEcnpVcVJEZlBqcW1yWkRoSkZIZ1MwRDByTXlDMWFNYlA1Y3lieTBfblpoRTdDSE51elJKUWp2RkxPYTZZWDNWbk93OE9uRjg3WFpWYlQ3a2szZw?oc=5",
         "tags": [
-          "AD HOC NEWS"
+          "ad-hoc-news.de"
+        ]
+      },
+      {
+        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - swr.de",
+        "source": "swr.de",
+        "publishedAt": "2026-09-06T07:00:00+00:00",
+        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? swr.de",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
+        "tags": [
+          "swr.de"
         ]
       },
       {
@@ -440,20 +449,20 @@
         ]
       },
       {
-        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme AD HOC NEWS",
+        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
         "tags": [
           "Normen"
         ]
       },
       {
-        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
-        "source": "Fuldaer Zeitung",
+        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - fuldaerzeitung.de",
+        "source": "fuldaerzeitung.de",
         "publishedAt": "2026-08-26T07:00:00+00:00",
-        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
+        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit fuldaerzeitung.de",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
         "tags": [
           "Nachhaltigkeit"
@@ -487,16 +496,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant - it-boltwise.de",
-        "source": "it-boltwise.de",
-        "publishedAt": "2026-08-18T07:00:00+00:00",
-        "summary": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant it-boltwise.de",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW12VTFQdnF3cnR6YU80OFljVm0tcFNVaklmaFpDd2VIWkp5QzMyUlFsOTNSQlVuTHZRcGxKY3pWeDl4OTBUOHlpOWRZVUE0WXpQam1lcGx0NUhXcFU5a0ZwU0hZTUI3ZmFHR2ZCdGhjNmNXc3Q5WElTb2hIMkk5WTZMQlh5UUo3Nld6RlVzS1hZRk9OMDBrTjBDR1IydldtdU5sdW1ESHMxVDZ6YnFN?oc=5",
-        "tags": [
-          "it-boltwise.de"
         ]
       }
     ]
