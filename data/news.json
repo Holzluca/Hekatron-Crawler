@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T05:13:07.669978+00:00",
+  "generatedAt": "2026-09-21T10:55:08.063344+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -65,6 +65,17 @@
         ]
       },
       {
+        "title": "Maßgeschneiderter Brandschutz für die King Khalid University - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-06-04T13:38:39+00:00",
+        "summary": "Maßgeschneiderter Brandschutz für die King Khalid University Siemens",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWpuVGM1Tnh1U1M5UTB2SENqeHFoNlp2TTc5bUdxQ1k2bG5sRWIyTDgtd0dWdjc0dzNkRFJBY3hoTGdPUkxzMmVMRUQ5dlJXX1RnWFZMeE91WEpMVXN2ODNRM0JrYnk3QXFPQ2FwRmxiSzdzUUZ6NUp5aTJqcVhvZzducm1KT3hEZXVVT3lGRVVOQQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-04T07:00:00+00:00",
@@ -75,10 +86,10 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - press.siemens.com",
-        "source": "press.siemens.com",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
+        "source": "Siemens press",
         "publishedAt": "2026-06-01T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude press.siemens.com",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens press",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
@@ -113,16 +124,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
-        "tags": [
-          "Bosch"
         ]
       }
     ],
@@ -391,7 +392,7 @@
       {
         "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
         "source": "Gießener Allgemeine",
-        "publishedAt": "2026-09-13T17:43:00+00:00",
+        "publishedAt": "2026-09-13T07:00:00+00:00",
         "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
@@ -409,13 +410,23 @@
         ]
       },
       {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
-        "source": "SWR",
-        "publishedAt": "2026-09-06T07:00:00+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
+        "title": "Digitale Gebäudeautomation in Berliner Hotel - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-09-10T07:00:00+00:00",
+        "summary": "Digitale Gebäudeautomation in Berliner Hotel elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEJ5c3AtS2NDNHBWRWtxT3VNemowcEpMYWRrd2ptRkJiSG1RVkY5WmxXT2hiWVJ5Z1R4UWYwbXVwQTlyUmNhYUc4UG9JckNUa3A3Z3FQNlZyZ0pVd3hQekxFNnRZT1RaVlpJOTBobV8wLS1Ba3ZUR0VYTVlBeDFVX25vaw?oc=5",
         "tags": [
-          "SWR"
+          "Gebäudeautomation"
+        ]
+      },
+      {
+        "title": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-10T07:00:00+00:00",
+        "summary": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDNJVlRrTDZkY1hENFBnSG9VTWN3b2JrTXRzNkYyRkk2b3E3a3FWeE11Y2pBblpfems5dFZCd19zdlMtSnlRY2VUMFBiWklvVUFYbF9Fc1BEcnpVcVJEZlBqcW1yWkRoSkZIZ1MwRDByTXlDMWFNYlA1Y3lieTBfblpoRTdDSE51elJKUWp2RkxPYTZZWDNWbk93OE9uRjg3WFpWYlQ3a2szZw?oc=5",
+        "tags": [
+          "AD HOC NEWS"
         ]
       },
       {
@@ -479,23 +490,13 @@
         ]
       },
       {
-        "title": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant - it boltwise",
-        "source": "it boltwise",
+        "title": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant - it-boltwise.de",
+        "source": "it-boltwise.de",
         "publishedAt": "2026-08-18T07:00:00+00:00",
-        "summary": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant it boltwise",
+        "summary": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant it-boltwise.de",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW12VTFQdnF3cnR6YU80OFljVm0tcFNVaklmaFpDd2VIWkp5QzMyUlFsOTNSQlVuTHZRcGxKY3pWeDl4OTBUOHlpOWRZVUE0WXpQam1lcGx0NUhXcFU5a0ZwU0hZTUI3ZmFHR2ZCdGhjNmNXc3Q5WElTb2hIMkk5WTZMQlh5UUo3Nld6RlVzS1hZRk9OMDBrTjBDR1IydldtdU5sdW1ESHMxVDZ6YnFN?oc=5",
         "tags": [
-          "it boltwise"
-        ]
-      },
-      {
-        "title": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat Berliner Morgenpost",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG9lN2ZON3ZzcUdwby1uR25zLXdBSGpOUnhvbnp3aWRrY1VQeWFmdURSdFRpWFdZNkJ3TVVTRzI2UDNYeGFSbC1JcG84VlgxUEVVWUhPMTV5MGsxTzRTbktEMlpBekFWQ2xSWC11S2d0WURsbVRkRWc5d2RxejlzVHRVdUROSFRSSkYxUmFZcDZjVWMzRU9uNVNkcVlvVXlxaGpFSlBqb3M0RnpVbC04NlB2cUVQSmV1RXVxd01PZw?oc=5",
-        "tags": [
-          "Berliner Morgenpost"
+          "it-boltwise.de"
         ]
       }
     ]
