@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T08:09:10.340583+00:00",
+  "generatedAt": "2026-09-22T13:32:22.517802+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -128,20 +128,31 @@
     ],
     "pfs": [
       {
-        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP - pcgameshardware.de",
-        "source": "pcgameshardware.de",
+        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-22T09:03:06+00:00",
+        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2ZQMUhUeS16Uk9Pc0duaE5jaUoyLWV6X0pDOE13TnY0a2ZkNU1vanc0SVVxVTNXXzVRbDhIakEzRnBxb19DNU1pcnIwczdjaGt0U1JOODQ3ZDZNY3hMbmtxb2pQcE9xeEd2ekdUbldjZ3JfWWhYZjNwWWIzQ0p5S1ZvRVNKRWQwZl95TThpaFFmaEZraFpGMHI0ZzJXNl85QXdDSFFFc29qMk1XMURj?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - PC Games Hardware",
+        "source": "PC Games Hardware",
         "publishedAt": "2026-09-21T12:00:00+00:00",
-        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP pcgameshardware.de",
+        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) PC Games Hardware",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkIybVkxeURGeVJGb05ja1JPT2p2am55Yl9SaVpMODFUQ0J0VDJxY0Vaakd3dldKdDR6VXk2R3dPSEtySHhkSmJEN3NLMXlNX1Z0M3ZfSkdBcFlwSWZucDZvUUdNenNKTXFxb1NhQ3pHTm1YTTNzeE9zN3VneTJRXzV3aEhaZHZfTU1nUU5VSG8yaGI4bGRLWXZ1M0RSdHowa2R3M1RnN0Rma3JPV1laX2NKa2RoQXFKbjJlUA?oc=5",
         "tags": [
           "Ei"
         ]
       },
       {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - pcgameshardware.de",
-        "source": "pcgameshardware.de",
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PC Games Hardware",
+        "source": "PC Games Hardware",
         "publishedAt": "2026-09-18T10:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter pcgameshardware.de",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PC Games Hardware",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
         "tags": [
           "X-Sense"
@@ -241,16 +252,6 @@
         "tags": [
           "Bosch"
         ]
-      },
-      {
-        "title": "Bosch Smarthome mit zusätzlichen Abo-Funktionen - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-09-01T15:14:12+00:00",
-        "summary": "Bosch Smarthome mit zusätzlichen Abo-Funktionen iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjJjZlM2cE9EdkptVzl5SVhqNlJvUjF6ejBYWHVRYVlOWU1jSldYekQtUmdFY2xnTE5NZm1xN2F0S1VORVB3dzR3blBLUkxmZll0eHdkTi1iOGtWLWF1WFJldExZV0ozcXZOU2hmeFI1YzRxM0MyeGVkZ1FKZmZ1MHQ4Y2VhUFFsdEVfWGt3?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "doors": [
@@ -315,13 +316,13 @@
         ]
       },
       {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - boersen-zeitung.de",
+        "source": "boersen-zeitung.de",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland boersen-zeitung.de",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
-          "Börsen-Zeitung"
+          "boersen-zeitung.de"
         ]
       },
       {
@@ -377,10 +378,10 @@
     ],
     "trends": [
       {
-        "title": "Schneider Electric Aktie: KI senkt Gebäudeverbrauch - Börse Express",
-        "source": "Börse Express",
+        "title": "Schneider Electric Aktie: KI senkt Gebäudeverbrauch - boerse-express.com",
+        "source": "boerse-express.com",
         "publishedAt": "2026-09-21T16:38:08+00:00",
-        "summary": "Schneider Electric Aktie: KI senkt Gebäudeverbrauch Börse Express",
+        "summary": "Schneider Electric Aktie: KI senkt Gebäudeverbrauch boerse-express.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXRlS1NXVy1zeVJNTG1GWjhkZ3VNZGpaWEkxZG9kYUdYQzloZVFINTZabm5wck0za25hcFNQOUNHQWpTbmlTLXF0bE5URHhWV2tOYlVXaDJTZVZib0V0T3luUUNDemtWSUtPR2d3bEhMLVlqY0VPcEdkRHhGa1ZDUHRDNmhWWnExRnRBeFRXcmpLY1ZHQ0MxMEdWaXFMUmxBcmdlcVpB?oc=5",
         "tags": [
           "KI"
@@ -407,10 +408,10 @@
         ]
       },
       {
-        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - wochenblatt-reporter.de",
-        "source": "wochenblatt-reporter.de",
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
+        "source": "Wochenblatt Reporter",
         "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft wochenblatt-reporter.de",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
         "tags": [
           "KI"
@@ -487,13 +488,13 @@
         ]
       },
       {
-        "title": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-08-18T07:00:00+00:00",
-        "summary": "297 neue Wohnungen in Downtown Brooklyn: 3 Gebäude mit je 99 Einheiten geplant it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW12VTFQdnF3cnR6YU80OFljVm0tcFNVaklmaFpDd2VIWkp5QzMyUlFsOTNSQlVuTHZRcGxKY3pWeDl4OTBUOHlpOWRZVUE0WXpQam1lcGx0NUhXcFU5a0ZwU0hZTUI3ZmFHR2ZCdGhjNmNXc3Q5WElTb2hIMkk5WTZMQlh5UUo3Nld6RlVzS1hZRk9OMDBrTjBDR1IydldtdU5sdW1ESHMxVDZ6YnFN?oc=5",
+        "title": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat - Berliner Morgenpost",
+        "source": "Berliner Morgenpost",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat Berliner Morgenpost",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG9lN2ZON3ZzcUdwby1uR25zLXdBSGpOUnhvbnp3aWRrY1VQeWFmdURSdFRpWFdZNkJ3TVVTRzI2UDNYeGFSbC1JcG84VlgxUEVVWUhPMTV5MGsxTzRTbktEMlpBekFWQ2xSWC11S2d0WURsbVRkRWc5d2RxejlzVHRVdUROSFRSSkYxUmFZcDZjVWMzRU9uNVNkcVlvVXlxaGpFSlBqb3M0RnpVbC04NlB2cUVQSmV1RXVxd01PZw?oc=5",
         "tags": [
-          "it boltwise"
+          "Berliner Morgenpost"
         ]
       }
     ]
