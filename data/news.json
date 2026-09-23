@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T17:38:25.721587+00:00",
+  "generatedAt": "2026-09-23T20:57:30.374085+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -128,6 +128,18 @@
     ],
     "pfs": [
       {
+        "title": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-23T20:09:01+00:00",
+        "summary": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOandEVTMyUVVYMzA0TWlWUkdtYWdqOGctMjZWaUh5T2piOHc2Wmk1Q1hhNGcwTFR3ZnR3cVphU3pGdDBQOXd6Zk5MRXM5WS1TZzVGajZFLVBFcVNwdzFsTFY2Z25McjQyRm1kbGVTQ042bmtpV08xNTlhTzhOcTktM0hGdjRiX1JCUHRlaUxCMzFReGpHUm9HbTY1V3N3Rks0R3RWUS1PNkJFdw?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-09-23T12:35:54+00:00",
@@ -150,32 +162,20 @@
         ]
       },
       {
-        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - pcgameshardware.de",
-        "source": "pcgameshardware.de",
+        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - PC Games Hardware",
+        "source": "PC Games Hardware",
         "publishedAt": "2026-09-21T12:00:00+00:00",
-        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) pcgameshardware.de",
+        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) PC Games Hardware",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkIybVkxeURGeVJGb05ja1JPT2p2am55Yl9SaVpMODFUQ0J0VDJxY0Vaakd3dldKdDR6VXk2R3dPSEtySHhkSmJEN3NLMXlNX1Z0M3ZfSkdBcFlwSWZucDZvUUdNenNKTXFxb1NhQ3pHTm1YTTNzeE9zN3VneTJRXzV3aEhaZHZfTU1nUU5VSG8yaGI4bGRLWXZ1M0RSdHowa2R3M1RnN0Rma3JPV1laX2NKa2RoQXFKbjJlUA?oc=5",
         "tags": [
           "Ei"
         ]
       },
       {
-        "title": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-09-18T10:35:31+00:00",
-        "summary": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWhoX3hTRW5XdmhfMy1hT3g4ajlzbTlFUUIwUF9fWVc0anJqdTl4UGhUMmo5RFJULXM5OVByRW1SUmIxaVAyT2tlLWxlWWF4LVU1ZnF6VnY1Q2Q4MlRWTVRaNDlZeU1tUU5jVmREMGNwa2JsN0pKLTN1OU9UX3dXV1FiRjFBZkQzNG5aSFpsSGF6aThCdVlzRFRFeUQ1MmF3cGVsOGxac3p0SWdDMlFFOUtVZ2w1dUl3LW1Jb0J6ZnhZUQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - pcgameshardware.de",
-        "source": "pcgameshardware.de",
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PC Games Hardware",
+        "source": "PC Games Hardware",
         "publishedAt": "2026-09-18T10:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter pcgameshardware.de",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PC Games Hardware",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
         "tags": [
           "X-Sense"
@@ -339,16 +339,6 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
-        "source": "KOHA.net",
-        "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
@@ -366,6 +356,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
           "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-29T07:00:00+00:00",
+        "summary": "Holzpenisse und Lecktücher: Sozialistischer Jugendverband „Falken“ empfiehlt Sex-Spiele für Kinder ab sechs apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY3VpX1lOblYtVjlEdFRsRTFIQ1ptQkwzRnBWLTlQUTV4NHNCcnhORXpPT1JWSkF1R2hVVUFMWmJONThqYm9kV25jRV9MdXdJekJyZTVQczNWOFNXSF8zZnNfQjFDMXV1M3FTeGVQWGcyaEVjS29MMldNWklzOVZ3enZfclNrTVpsb1BsWjZFaXVPdXU5UXpoc3NoMUc2SVBQQXNrZXpjTmpJUTBVZ29Ic1dRWEQtdVhZV19zVzFGaUN5WkV4MHc?oc=5",
+        "tags": [
+          "Apollo"
         ]
       },
       {
@@ -411,10 +411,10 @@
         ]
       },
       {
-        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
-        "source": "Wochenblatt Reporter",
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - wochenblatt-reporter.de",
+        "source": "wochenblatt-reporter.de",
         "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft wochenblatt-reporter.de",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
         "tags": [
           "KI"
