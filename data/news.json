@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-23T12:51:14.842794+00:00",
+  "generatedAt": "2026-09-23T17:38:25.721587+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
       {
-        "title": "Intelligenter Campus-Brandschutz an der James Cook University - siemens.com",
-        "source": "siemens.com",
+        "title": "Intelligenter Campus-Brandschutz an der James Cook University - Siemens",
+        "source": "Siemens",
         "publishedAt": "2026-09-18T13:19:27+00:00",
-        "summary": "Intelligenter Campus-Brandschutz an der James Cook University siemens.com",
+        "summary": "Intelligenter Campus-Brandschutz an der James Cook University Siemens",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmllaWpRQzZMUW94aVloS3l1WFpJbV9YTXBxXzQxcFBZXzFPUHpNTklOUkhiTkhtQURQRlA0TUtpVmRWZ1VOYlg3aTZHd0I2b0RjRVViMG9LdWhLR1ZPaU1TalVVV2FaeFR2dlVLNnVYN3BFS0I4Q0ZBdW9LNktqOTFCYnRyV2t2LS1Oam5jRQ?oc=5",
         "tags": [
           "Siemens",
@@ -35,10 +35,10 @@
         ]
       },
       {
-        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
-        "source": "ingenieur.de",
+        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - Ingenieur.de",
+        "source": "Ingenieur.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
+        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel Ingenieur.de",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
@@ -95,10 +95,10 @@
         ]
       },
       {
-        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - siemens.com",
-        "source": "siemens.com",
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
         "publishedAt": "2026-05-05T12:32:58+00:00",
-        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem siemens.com",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
         "tags": [
           "Siemens",
@@ -106,10 +106,10 @@
         ]
       },
       {
-        "title": "Cybersecurity für die Pharmaproduktion - siemens.com",
-        "source": "siemens.com",
+        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
+        "source": "Siemens",
         "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion siemens.com",
+        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
@@ -128,6 +128,17 @@
     ],
     "pfs": [
       {
+        "title": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-09-23T12:35:54+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGI4Z01kM01SbXViV3RXQllUaldseUhhQWVwT2s1WTAyN2VPWVVDeFF5NURWaHRkOWI0UnNfTzZBSnA5ZVAzRkVRSmJYZjU5Zlh2OUpUWHdPYk85T1M5RHNHMFVQcVVMdUJSSjFIbms5U19PamFBUlNWSEJpc1dYTXVVS01FaXZpY2pDN0ZiVVp2TDlvazdEV2szV2hlQ1k?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-09-22T09:03:06+00:00",
@@ -139,10 +150,10 @@
         ]
       },
       {
-        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - PC Games Hardware",
-        "source": "PC Games Hardware",
+        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - pcgameshardware.de",
+        "source": "pcgameshardware.de",
         "publishedAt": "2026-09-21T12:00:00+00:00",
-        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) PC Games Hardware",
+        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) pcgameshardware.de",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkIybVkxeURGeVJGb05ja1JPT2p2am55Yl9SaVpMODFUQ0J0VDJxY0Vaakd3dldKdDR6VXk2R3dPSEtySHhkSmJEN3NLMXlNX1Z0M3ZfSkdBcFlwSWZucDZvUUdNenNKTXFxb1NhQ3pHTm1YTTNzeE9zN3VneTJRXzV3aEhaZHZfTU1nUU5VSG8yaGI4bGRLWXZ1M0RSdHowa2R3M1RnN0Rma3JPV1laX2NKa2RoQXFKbjJlUA?oc=5",
         "tags": [
           "Ei"
@@ -161,10 +172,10 @@
         ]
       },
       {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PC Games Hardware",
-        "source": "PC Games Hardware",
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - pcgameshardware.de",
+        "source": "pcgameshardware.de",
         "publishedAt": "2026-09-18T10:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PC Games Hardware",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter pcgameshardware.de",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
         "tags": [
           "X-Sense"
@@ -241,16 +252,6 @@
         "publishedAt": "2026-09-11T07:00:00+00:00",
         "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside digital",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazQ3b0gxOUV4NXpydWZFOHBfUnBZdEFldWxkX0hodERxOC13UmE1d2hMaTdOWm4wWEhPU3VBTWpZUjh4dEE4RUtZdWZnREFmQTVlMDhUd3NJMW5ZTWNzYWxBQ0s5WjVHdkdkWWJJekNtT2dJRUFzc19TczB6NFppOTk3VWJodngwSHRDajdn0gGTAUFVX3lxTE1nZnNhcmVyQUtUYkloTGZNcFQyU2FzMWhjQ3JVZ0N5bHVsdDlmc0h4MVdOU0RMbW1vMGxvZWRXbEY0Wi1NbjhqMTFyMG5QLXphSWpvaTE5bE9heTR1bWgtSlVtYlF4TldvN1RyTFo0Rkx3dDRuWWZDMXBIN2JLMkxMeVFJancwSVJrRElybzVEdzh4RQ?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Mit Wischwalze und Sprühfunktion | Bosch stellt Spotless 2-Serie vor - smarthomeassistent.de",
-        "source": "smarthomeassistent.de",
-        "publishedAt": "2026-09-08T07:00:00+00:00",
-        "summary": "Mit Wischwalze und Sprühfunktion | Bosch stellt Spotless 2-Serie vor smarthomeassistent.de",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW1ZSFdJNVo1LTB5amVjTk9NbVo0QkQxM0daTlRERldhNFZ1eHc1eEVVcGc5VlBEWkxSRFBOTUVnWTdNMjdwS1lZbW05OFhoMTVJVGd5WWxzdHJ5cDA3ajc1SmE5TklDLW5VZndIcU12ZW0yTnZnRWpWalJNV19wZnBfU3ZOdmFIT1hUWVZqWU8tY2pRMUZFUm9TQm4tQ0ZMM1UyXw?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -358,13 +359,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
-        "source": "handelsblatt.com",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "handelsblatt.com"
+          "Handelsblatt"
         ]
       },
       {
@@ -380,11 +381,11 @@
     ],
     "trends": [
       {
-        "title": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise - MarketScreener Schweiz",
-        "source": "MarketScreener Schweiz",
-        "publishedAt": "2026-09-23T10:00:22+00:00",
-        "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
+        "title": "Schneider Electric Aktie: KI senkt Gebäudeverbrauch - Börse Express",
+        "source": "Börse Express",
+        "publishedAt": "2026-09-21T16:38:08+00:00",
+        "summary": "Schneider Electric Aktie: KI senkt Gebäudeverbrauch Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOXRlS1NXVy1zeVJNTG1GWjhkZ3VNZGpaWEkxZG9kYUdYQzloZVFINTZabm5wck0za25hcFNQOUNHQWpTbmlTLXF0bE5URHhWV2tOYlVXaDJTZVZib0V0T3luUUNDemtWSUtPR2d3bEhMLVlqY0VPcEdkRHhGa1ZDUHRDNmhWWnExRnRBeFRXcmpLY1ZHQ0MxMEdWaXFMUmxBcmdlcVpB?oc=5",
         "tags": [
           "KI"
         ]
@@ -460,6 +461,16 @@
         ]
       },
       {
+        "title": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll - MDR.de",
+        "source": "MDR.de",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "Vom Schandfleck zum Solarturm: Wie der \"Mertik-Riese“ Quedlinburgs KI-Zukunft einleiten soll MDR.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUVNTFc5YzNJUENHcXNMT1NIRjNDR2sxMjF5RndJVENlM2N6WGhtYXBiRVlpcnpQTENIMDVSdE9uaTJZWEdLQ1VOOHRveVdnQ3RiOVhudXN4Y3RwMlpHandJdTFVbmtCazUtZTczbTVVXzl4Wk5CSW43bVFSMXNobDdGc3BIOWlJeC10MXRIa2lRSWlDaFhnYnpEaw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
         "source": "tagesschau.de",
         "publishedAt": "2026-08-19T07:00:00+00:00",
@@ -470,10 +481,10 @@
         ]
       },
       {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ardmediathek.de",
-        "source": "ardmediathek.de",
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
+        "source": "ARD Mediathek",
         "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ardmediathek.de",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
@@ -487,16 +498,6 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZW12VTFQdnF3cnR6YU80OFljVm0tcFNVaklmaFpDd2VIWkp5QzMyUlFsOTNSQlVuTHZRcGxKY3pWeDl4OTBUOHlpOWRZVUE0WXpQam1lcGx0NUhXcFU5a0ZwU0hZTUI3ZmFHR2ZCdGhjNmNXc3Q5WElTb2hIMkk5WTZMQlh5UUo3Nld6RlVzS1hZRk9OMDBrTjBDR1IydldtdU5sdW1ESHMxVDZ6YnFN?oc=5",
         "tags": [
           "it boltwise"
-        ]
-      },
-      {
-        "title": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat Berliner Morgenpost",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG9lN2ZON3ZzcUdwby1uR25zLXdBSGpOUnhvbnp3aWRrY1VQeWFmdURSdFRpWFdZNkJ3TVVTRzI2UDNYeGFSbC1JcG84VlgxUEVVWUhPMTV5MGsxTzRTbktEMlpBekFWQ2xSWC11S2d0WURsbVRkRWc5d2RxejlzVHRVdUROSFRSSkYxUmFZcDZjVWMzRU9uNVNkcVlvVXlxaGpFSlBqb3M0RnpVbC04NlB2cUVQSmV1RXVxd01PZw?oc=5",
-        "tags": [
-          "Berliner Morgenpost"
         ]
       }
     ]
