@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T17:41:41.396002+00:00",
+  "generatedAt": "2026-09-24T21:01:33.650495+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -35,20 +35,20 @@
         ]
       },
       {
-        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
-        "source": "ingenieur.de",
+        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - Ingenieur.de",
+        "source": "Ingenieur.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
+        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel Ingenieur.de",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
-        "source": "Baulinks",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
+        "source": "baulinks.de",
         "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -115,10 +115,10 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - imtest.de",
+        "source": "imtest.de",
         "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte imtest.de",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
           "Bosch"
@@ -138,20 +138,10 @@
         ]
       },
       {
-        "title": "Smart-Home-Deals: Ventilator, Sensoren und smarte Lampen günstiger - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-09-24T11:45:00+00:00",
-        "summary": "Smart-Home-Deals: Ventilator, Sensoren und smarte Lampen günstiger Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDdDBQMmdWcWYwNXBpWnd5ZmNsbEJORlNRaHBFbE1BUGk2R01Kc2xWYk9aMlNwTzFmSU5JUWpfNVVlY2laLW1nT3ZxazFTbjhDdURiTnZmWlJmc3I5WHFUazhhOE16aXpmdWlXQw?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-09-23T20:09:01+00:00",
-        "summary": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro ad-hoc-news.de",
+        "summary": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOandEVTMyUVVYMzA0TWlWUkdtYWdqOGctMjZWaUh5T2piOHc2Wmk1Q1hhNGcwTFR3ZnR3cVphU3pGdDBQOXd6Zk5MRXM5WS1TZzVGajZFLVBFcVNwdzFsTFY2Z25McjQyRm1kbGVTQ042bmtpV08xNTlhTzhOcTktM0hGdjRiX1JCUHRlaUxCMzFReGpHUm9HbTY1V3N3Rks0R3RWUS1PNkJFdw?oc=5",
         "tags": [
           "Ei",
@@ -160,10 +150,10 @@
         ]
       },
       {
-        "title": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn - IMTEST",
-        "source": "IMTEST",
+        "title": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn - imtest.de",
+        "source": "imtest.de",
         "publishedAt": "2026-09-23T12:35:54+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn IMTEST",
+        "summary": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn imtest.de",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGI4Z01kM01SbXViV3RXQllUaldseUhhQWVwT2s1WTAyN2VPWVVDeFF5NURWaHRkOWI0UnNfTzZBSnA5ZVAzRkVRSmJYZjU5Zlh2OUpUWHdPYk85T1M5RHNHMFVQcVVMdUJSSjFIbms5U19PamFBUlNWSEJpc1dYTXVVS01FaXZpY2pDN0ZiVVp2TDlvazdEV2szV2hlQ1k?oc=5",
         "tags": [
           "Ei",
@@ -171,10 +161,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-09-22T09:03:06+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 ad-hoc-news.de",
+        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2ZQMUhUeS16Uk9Pc0duaE5jaUoyLWV6X0pDOE13TnY0a2ZkNU1vanc0SVVxVTNXXzVRbDhIakEzRnBxb19DNU1pcnIwczdjaGt0U1JOODQ3ZDZNY3hMbmtxb2pQcE9xeEd2ekdUbldjZ3JfWWhYZjNwWWIzQ0p5S1ZvRVNKRWQwZl95TThpaFFmaEZraFpGMHI0ZzJXNl85QXdDSFFFc29qMk1XMURj?oc=5",
         "tags": [
           "Bosch",
@@ -182,20 +172,32 @@
         ]
       },
       {
-        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - pcgameshardware.de",
-        "source": "pcgameshardware.de",
+        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - PC Games Hardware",
+        "source": "PC Games Hardware",
         "publishedAt": "2026-09-21T12:00:00+00:00",
-        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) pcgameshardware.de",
+        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) PC Games Hardware",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkIybVkxeURGeVJGb05ja1JPT2p2am55Yl9SaVpMODFUQ0J0VDJxY0Vaakd3dldKdDR6VXk2R3dPSEtySHhkSmJEN3NLMXlNX1Z0M3ZfSkdBcFlwSWZucDZvUUdNenNKTXFxb1NhQ3pHTm1YTTNzeE9zN3VneTJRXzV3aEhaZHZfTU1nUU5VSG8yaGI4bGRLWXZ1M0RSdHowa2R3M1RnN0Rma3JPV1laX2NKa2RoQXFKbjJlUA?oc=5",
         "tags": [
           "Ei"
         ]
       },
       {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - pcgameshardware.de",
-        "source": "pcgameshardware.de",
+        "title": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-18T10:35:31+00:00",
+        "summary": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWhoX3hTRW5XdmhfMy1hT3g4ajlzbTlFUUIwUF9fWVc0anJqdTl4UGhUMmo5RFJULXM5OVByRW1SUmIxaVAyT2tlLWxlWWF4LVU1ZnF6VnY1Q2Q4MlRWTVRaNDlZeU1tUU5jVmREMGNwa2JsN0pKLTN1OU9UX3dXV1FiRjFBZkQzNG5aSFpsSGF6aThCdVlzRFRFeUQ1MmF3cGVsOGxac3p0SWdDMlFFOUtVZ2w1dUl3LW1Jb0J6ZnhZUQ?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PC Games Hardware",
+        "source": "PC Games Hardware",
         "publishedAt": "2026-09-18T10:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter pcgameshardware.de",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PC Games Hardware",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
         "tags": [
           "X-Sense"
@@ -245,35 +247,35 @@
         ]
       },
       {
-        "title": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden - CHIP",
-        "source": "CHIP",
+        "title": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden - chip.de",
+        "source": "chip.de",
         "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden CHIP",
+        "summary": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden chip.de",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFdKUzRIblJ4eWUwX1M0UjA3S3A1ZXE1UjZpaTE5RU5na3Zld2RwSzBOX0lxeU9pSXNXQS1jV2Fpd01PdW1hakdjZUc5R2tVdnBqM28ydTI3MlJJQ0lBaFk3a1BxZlVMMlpzcUxENFJaandUeUZxdEs1Z3dXODNYc3BFVFZjV1RxbjBqU01OZGQtaUVfTGh2NS1NRzg5OFRoNXlMN2N4eG1jYldPN25NX21nTUZZMlVKREdEWExtTWhRdWgwWjBIN0gyXzZZUFc1Z284ZA?oc=5",
         "tags": [
-          "CHIP"
+          "chip.de"
         ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-09-17T14:14:23+00:00",
-        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
+        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - spiegel.de",
-        "source": "spiegel.de",
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
         "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis spiegel.de",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
-          "spiegel.de"
+          "Spiegel"
         ]
       },
       {
@@ -379,16 +381,6 @@
     ],
     "trends": [
       {
-        "title": "KNX-Sicherheit: Gebäudetechnik vor Cyberangriffen schützen - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-09-24T12:00:00+00:00",
-        "summary": "KNX-Sicherheit: Gebäudetechnik vor Cyberangriffen schützen elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tMlZtSldvMXJHOHVoVVZmSmNoRGNRcXp2dC1CWEtNLU5ZdGRpZjRZYlB1VXFSckZ4bzYzdUxPbm5YOW9LUmhXVk9PVE1hdld2dW5PSkRRR05OZC1JOFRTVFhqajczMk90cUNwdk9JYmNnNTYxZm12bDVKSQ?oc=5",
-        "tags": [
-          "elektro.net"
-        ]
-      },
-      {
         "title": "Schneider Electric Aktie: KI senkt Gebäudeverbrauch - Börse Express",
         "source": "Börse Express",
         "publishedAt": "2026-09-21T16:38:08+00:00",
@@ -399,13 +391,13 @@
         ]
       },
       {
-        "title": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz - Baulinks",
-        "source": "Baulinks",
+        "title": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz - baulinks.de",
+        "source": "baulinks.de",
         "publishedAt": "2026-09-16T02:49:08+00:00",
-        "summary": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz Baulinks",
+        "summary": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz baulinks.de",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TdWRnd3BIejcydVc0dHZTYWlZWHNIZ1psQm5yUWN3Ti1CY1BoNWxwUFU2ZnZfVXlyV2dXaGpMb3BkTXpiM2Y2X2VKb21KMG9EV2Y0cWVhcjcwQ3B1?oc=5",
         "tags": [
-          "Baulinks"
+          "baulinks.de"
         ]
       },
       {
@@ -429,13 +421,13 @@
         ]
       },
       {
-        "title": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-09-10T07:00:00+00:00",
-        "summary": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz ad-hoc-news.de",
+        "summary": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDNJVlRrTDZkY1hENFBnSG9VTWN3b2JrTXRzNkYyRkk2b3E3a3FWeE11Y2pBblpfems5dFZCd19zdlMtSnlRY2VUMFBiWklvVUFYbF9Fc1BEcnpVcVJEZlBqcW1yWkRoSkZIZ1MwRDByTXlDMWFNYlA1Y3lieTBfblpoRTdDSE51elJKUWp2RkxPYTZZWDNWbk93OE9uRjg3WFpWYlQ3a2szZw?oc=5",
         "tags": [
-          "ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
@@ -449,10 +441,10 @@
         ]
       },
       {
-        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme ad-hoc-news.de",
+        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
         "tags": [
           "Normen"
@@ -496,6 +488,16 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG9lN2ZON3ZzcUdwby1uR25zLXdBSGpOUnhvbnp3aWRrY1VQeWFmdURSdFRpWFdZNkJ3TVVTRzI2UDNYeGFSbC1JcG84VlgxUEVVWUhPMTV5MGsxTzRTbktEMlpBekFWQ2xSWC11S2d0WURsbVRkRWc5d2RxejlzVHRVdUROSFRSSkYxUmFZcDZjVWMzRU9uNVNkcVlvVXlxaGpFSlBqb3M0RnpVbC04NlB2cUVQSmV1RXVxd01PZw?oc=5",
         "tags": [
           "Berliner Morgenpost"
+        ]
+      },
+      {
+        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
+        "source": "BILD",
+        "publishedAt": "2026-08-11T07:00:00+00:00",
+        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       }
     ]
