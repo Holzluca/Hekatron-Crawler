@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T08:59:12.339653+00:00",
+  "generatedAt": "2026-09-25T14:30:24.605396+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -95,6 +95,17 @@
         ]
       },
       {
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-05-05T12:32:58+00:00",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
         "title": "Cybersecurity für die Pharmaproduktion - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-23T13:31:53+00:00",
@@ -105,33 +116,33 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - diepholz.de",
+        "source": "diepholz.de",
         "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen diepholz.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
         "tags": [
-          "Landkreis Diepholz"
-        ]
-      },
-      {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
-        "tags": [
-          "Bosch"
+          "diepholz.de"
         ]
       }
     ],
     "pfs": [
       {
+        "title": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-09-25T13:01:08+00:00",
+        "summary": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel CHIP",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMWJSb2RXYzNzZEdaV3U3VW9Ic3lraDhGRFNkUHVJdGI4eHNhYnJxZnNKVHdaVEtNTXR1Q3EyWTJfbmo1Y2VFaVU5ZDV1Q3NOQUVwZkRhMU10RnZYaHNBUTgyTmRoUVZieWhnVnNxUEwyYXlIM1lxVUpuOTI1U2pGLUt1ZTNkcWRaaUV1bGNnTlpvTE5TTHR3TGFoNXZubVJnekNEUENVaWVLeGRxZHJ3Wk5wVEFYdmhvOWo2bm1TejdGRFNYT3A3ckdERW1LSVZSNlNkcmphTE5hcEJMZjBibk90c2VsUXhKMUZQRkt0cXBXdDJjTzBROFVtOE00VWRDQWY0bA?oc=5",
+        "tags": [
+          "CHIP"
+        ]
+      },
+      {
         "title": "Für die Heizung: Bosch bringt ein neues Gerät auf den Markt – es ist besonders clever - futurezone.de",
         "source": "futurezone.de",
-        "publishedAt": "2026-09-24T12:38:43+00:00",
+        "publishedAt": "2026-09-25T12:53:18+00:00",
         "summary": "Für die Heizung: Bosch bringt ein neues Gerät auf den Markt – es ist besonders clever futurezone.de",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNlMyTllFeFhXdnNzOG9kd3c2WExrRVBjTlhYS0JoY0RLS3hMMTMzeldyaXhpUlhIbDJSRjNEVF9zMEtiRUJxS2VqVzA1SmFaRnlBNVpIVmFSLWJReG0zWl9EZDY4S1ByWmdKRGZHWWxnczh3MW54TjJoenNKcXdXZXJONDZCV3VsY2pfNk0yc3RpMnVRSmowdTZ5R01vRk56and3d1FBM1ppdURDNWJkRmlnejNTUXBjbXRYa1RGdHdJMEJOV2lkeVhYMHZhM2JXTVBkZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRGs4VzUwdVlCNVViTG1OMTV0ejhMZmdERnpnbGxXajhCb2lHNV9EbWNpWTFQTHdmRm5zQ3hEZHRaT25rZl9laUl6TXlJYk45TkJzbVFqR1MteU5PdHpZc2lkNjlxajdKamV4SkR1cXJxa19aVk9MdlZRRE4weEpLZnFtRi1nejhvc0s1WGNfUEdBYklGOVFiaDNOUm5uSVVtdTNIN19rRHJwWFFhMVVnVUNSRlV6THBiblpZQ0N1c1N6dG5wbGpBSENhT0FGLXpCVW9KV2QzQ1N2d0NSN0E?oc=5",
         "tags": [
           "Ei",
           "Bosch"
@@ -172,10 +183,10 @@
         ]
       },
       {
-        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - PC Games Hardware",
-        "source": "PC Games Hardware",
+        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - pcgameshardware.de",
+        "source": "pcgameshardware.de",
         "publishedAt": "2026-09-21T12:00:00+00:00",
-        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) PC Games Hardware",
+        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) pcgameshardware.de",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkIybVkxeURGeVJGb05ja1JPT2p2am55Yl9SaVpMODFUQ0J0VDJxY0Vaakd3dldKdDR6VXk2R3dPSEtySHhkSmJEN3NLMXlNX1Z0M3ZfSkdBcFlwSWZucDZvUUdNenNKTXFxb1NhQ3pHTm1YTTNzeE9zN3VneTJRXzV3aEhaZHZfTU1nUU5VSG8yaGI4bGRLWXZ1M0RSdHowa2R3M1RnN0Rma3JPV1laX2NKa2RoQXFKbjJlUA?oc=5",
         "tags": [
           "Ei"
@@ -194,20 +205,20 @@
         ]
       },
       {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PC Games Hardware",
-        "source": "PC Games Hardware",
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - pcgameshardware.de",
+        "source": "pcgameshardware.de",
         "publishedAt": "2026-09-18T10:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PC Games Hardware",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter pcgameshardware.de",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
         "tags": [
           "X-Sense"
         ]
       },
       {
-        "title": "Bis zu 39 % geschenkt: tink macht das Bosch Smart Home richtig günstig! - home&smart",
-        "source": "home&smart",
+        "title": "Bis zu 39 % geschenkt: tink macht das Bosch Smart Home richtig günstig! - homeandsmart.de",
+        "source": "homeandsmart.de",
         "publishedAt": "2026-09-16T07:00:00+00:00",
-        "summary": "Bis zu 39 % geschenkt: tink macht das Bosch Smart Home richtig günstig! home&smart",
+        "summary": "Bis zu 39 % geschenkt: tink macht das Bosch Smart Home richtig günstig! homeandsmart.de",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RWDRyZDd4TTRSekdzQ01PZWdURnFKM0pZS0hIc2tReFd2Vm00UmMtdndCdTljTXg5bGtoSzlfdDljRGRaZTI1WVF1TWVDVWV5NXd5YXJjX3FzRXkzOWFqYmVZZmhXUk1EdmhFSlNINVY2MmowVlE?oc=5",
         "tags": [
           "Bosch",
@@ -246,16 +257,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTFdKUzRIblJ4eWUwX1M0UjA3S3A1ZXE1UjZpaTE5RU5na3Zld2RwSzBOX0lxeU9pSXNXQS1jV2Fpd01PdW1hakdjZUc5R2tVdnBqM28ydTI3MlJJQ0lBaFk3a1BxZlVMMlpzcUxENFJaandUeUZxdEs1Z3dXODNYc3BFVFZjV1RxbjBqU01OZGQtaUVfTGh2NS1NRzg5OFRoNXlMN2N4eG1jYldPN25NX21nTUZZMlVKREdEWExtTWhRdWgwWjBIN0gyXzZZUFc1Z284ZA?oc=5",
-        "tags": [
-          "CHIP"
-        ]
       }
     ],
     "doors": [
@@ -280,23 +281,23 @@
         ]
       },
       {
-        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - apollohospitals.com",
-        "source": "apollohospitals.com",
+        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
+        "source": "Apollo Hospitals",
         "publishedAt": "2026-08-17T04:18:14+00:00",
-        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch apollohospitals.com",
+        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - fondsprofessionell.de",
-        "source": "fondsprofessionell.de",
+        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
+        "source": "FONDS professionell",
         "publishedAt": "2026-07-28T14:30:00+00:00",
-        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro fondsprofessionell.de",
+        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWHI4cmwxU1JzclNGTnppdGpEc0o5S3NNYllXaUdPY2ZZc0xYNEdaMmExbDN3RF8zTGZxNFJxRU9BNW1sWXA3M1F4TWNrMlFPLW5FeU5XUmRScHQ3MGJHSEpIMHZsMXduR2NyZ0RBOW8ycGJIVVE?oc=5",
         "tags": [
-          "fondsprofessionell.de"
+          "FONDS professionell"
         ]
       },
       {
@@ -330,10 +331,10 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
-        "source": "koha.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
+        "source": "KOHA.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -472,10 +473,10 @@
         ]
       },
       {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ardmediathek.de",
+        "source": "ardmediathek.de",
         "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ardmediathek.de",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
@@ -492,10 +493,10 @@
         ]
       },
       {
-        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
-        "source": "BILD",
+        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - bild.de",
+        "source": "bild.de",
         "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
+        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht bild.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
         "tags": [
           "Nachhaltigkeit"
