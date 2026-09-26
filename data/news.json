@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T15:32:43.551815+00:00",
+  "generatedAt": "2026-09-26T18:54:35.231807+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -45,10 +45,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
-        "source": "baulinks.de",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
+        "source": "Baulinks",
         "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -65,13 +65,13 @@
         ]
       },
       {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
-        "source": "teltarif.de",
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
         "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
-          "teltarif.de"
+          "Teltarif"
         ]
       },
       {
@@ -116,17 +116,84 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - diepholz.de",
-        "source": "diepholz.de",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen diepholz.de",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T07:00:00+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
-          "diepholz.de"
+          "Bosch"
         ]
       }
     ],
     "pfs": [
+      {
+        "title": "Für die Heizung: Bosch bringt ein neues Gerät auf den Markt – es ist besonders clever - futurezone.de",
+        "source": "futurezone.de",
+        "publishedAt": "2026-09-25T12:53:18+00:00",
+        "summary": "Für die Heizung: Bosch bringt ein neues Gerät auf den Markt – es ist besonders clever futurezone.de",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRGs4VzUwdVlCNVViTG1OMTV0ejhMZmdERnpnbGxXajhCb2lHNV9EbWNpWTFQTHdmRm5zQ3hEZHRaT25rZl9laUl6TXlJYk45TkJzbVFqR1MteU5PdHpZc2lkNjlxajdKamV4SkR1cXJxa19aVk9MdlZRRE4weEpLZnFtRi1nejhvc0s1WGNfUEdBYklGOVFiaDNOUm5uSVVtdTNIN19rRHJwWFFhMVVnVUNSRlV6THBiblpZQ0N1c1N6dG5wbGpBSENhT0FGLXpCVW9KV2QzQ1N2d0NSN0E?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-23T20:09:01+00:00",
+        "summary": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOandEVTMyUVVYMzA0TWlWUkdtYWdqOGctMjZWaUh5T2piOHc2Wmk1Q1hhNGcwTFR3ZnR3cVphU3pGdDBQOXd6Zk5MRXM5WS1TZzVGajZFLVBFcVNwdzFsTFY2Z25McjQyRm1kbGVTQ042bmtpV08xNTlhTzhOcTktM0hGdjRiX1JCUHRlaUxCMzFReGpHUm9HbTY1V3N3Rks0R3RWUS1PNkJFdw?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-09-23T12:35:54+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGI4Z01kM01SbXViV3RXQllUaldseUhhQWVwT2s1WTAyN2VPWVVDeFF5NURWaHRkOWI0UnNfTzZBSnA5ZVAzRkVRSmJYZjU5Zlh2OUpUWHdPYk85T1M5RHNHMFVQcVVMdUJSSjFIbms5U19PamFBUlNWSEJpc1dYTXVVS01FaXZpY2pDN0ZiVVp2TDlvazdEV2szV2hlQ1k?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-22T09:03:06+00:00",
+        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2ZQMUhUeS16Uk9Pc0duaE5jaUoyLWV6X0pDOE13TnY0a2ZkNU1vanc0SVVxVTNXXzVRbDhIakEzRnBxb19DNU1pcnIwczdjaGt0U1JOODQ3ZDZNY3hMbmtxb2pQcE9xeEd2ekdUbldjZ3JfWWhYZjNwWWIzQ0p5S1ZvRVNKRWQwZl95TThpaFFmaEZraFpGMHI0ZzJXNl85QXdDSFFFc29qMk1XMURj?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - PC Games Hardware",
+        "source": "PC Games Hardware",
+        "publishedAt": "2026-09-21T12:00:00+00:00",
+        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) PC Games Hardware",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkIybVkxeURGeVJGb05ja1JPT2p2am55Yl9SaVpMODFUQ0J0VDJxY0Vaakd3dldKdDR6VXk2R3dPSEtySHhkSmJEN3NLMXlNX1Z0M3ZfSkdBcFlwSWZucDZvUUdNenNKTXFxb1NhQ3pHTm1YTTNzeE9zN3VneTJRXzV3aEhaZHZfTU1nUU5VSG8yaGI4bGRLWXZ1M0RSdHowa2R3M1RnN0Rma3JPV1laX2NKa2RoQXFKbjJlUA?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-18T10:35:31+00:00",
+        "summary": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWhoX3hTRW5XdmhfMy1hT3g4ajlzbTlFUUIwUF9fWVc0anJqdTl4UGhUMmo5RFJULXM5OVByRW1SUmIxaVAyT2tlLWxlWWF4LVU1ZnF6VnY1Q2Q4MlRWTVRaNDlZeU1tUU5jVmREMGNwa2JsN0pKLTN1OU9UX3dXV1FiRjFBZkQzNG5aSFpsSGF6aThCdVlzRFRFeUQ1MmF3cGVsOGxac3p0SWdDMlFFOUtVZ2w1dUl3LW1Jb0J6ZnhZUQ?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
       {
         "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PC Games Hardware",
         "source": "PC Games Hardware",
@@ -138,6 +205,50 @@
         ]
       },
       {
+        "title": "Bis zu 39 % geschenkt: tink macht das Bosch Smart Home richtig günstig! - home&smart",
+        "source": "home&smart",
+        "publishedAt": "2026-09-16T07:00:00+00:00",
+        "summary": "Bis zu 39 % geschenkt: tink macht das Bosch Smart Home richtig günstig! home&smart",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RWDRyZDd4TTRSekdzQ01PZWdURnFKM0pZS0hIc2tReFd2Vm00UmMtdndCdTljTXg5bGtoSzlfdDljRGRaZTI1WVF1TWVDVWV5NXd5YXJjX3FzRXkzOWFqYmVZZmhXUk1EdmhFSlNINVY2MmowVlE?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Nur für kurze Zeit: Rabatte auf Amazon, Nuki, Bosch, tado - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-09-16T07:00:00+00:00",
+        "summary": "Nur für kurze Zeit: Rabatte auf Amazon, Nuki, Bosch, tado Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemF1V3J2VTAyRzZaeGpwWC1vb3dZSTVsbHZzZVJscHVBN0c1d09kSFVaLUFRUE5TUk5heXFQZ3NRMVJFTmV2R25tVXJlaEh0U0s3WDF3R3djTm84Z2QtRHFmWV8wZElyM1lZUmE1aUR3UTVWLUlPcEN1Z3p6dGdUeXA0WFNjejY1?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Amazon: Bosch Smart Home Heizkörper-Thermostat II [+M] - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-12T12:02:01+00:00",
+        "summary": "Amazon: Bosch Smart Home Heizkörper-Thermostat II [+M] n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWklIZWhDb1FKSEdDUGMxa3E1bkR1WGNXb0JwYkw3WWxsWmdkTGlickcyRFpWWm9OYmFMU2R3c1RzamZBb2VmNVNoZWpoV3dsM3kwUTkzdGJzb3VQTTBDWGtMMmRoZkdPR0ZrM1lKSUxsM09mbUROWWIyMXZPUmx6M1V5YlczUl9ick1OeGRMVlotSUU?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-09-12T07:00:00+00:00",
+        "summary": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DVTF6MmVtQ29rVkZ6LXhxczFTb2ZOZWRXR3JuYlNjallhQ2MtQldtcWh2Mnk1a2dWa1lscThHZUI4Y0UwRmlnNUJHOEJ5WFByS3JmMXhQMFR4SXdJRnQ2U0JuUWFDV2hzaEttbjNOVi1lWm1zRzhBRWhacFdhYVU?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Viele Rauchmelder müssen 2026 noch ausgetauscht werden - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-09-11T07:00:00+00:00",
@@ -146,222 +257,149 @@
         "tags": [
           "CHIP"
         ]
-      },
-      {
-        "title": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "X-Sense: Neue Matter-Basisstation SBS0A aufgetaucht Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORWFRSG5NQ1ctUkJBaGQ5VUtRTGRabERSVW04TGM0UU5HcE9iN0lWY0pCWDE0NlpxOW1HVlF1d3RFTnFja2d0d2VCZ0EyMUlmNTN0NDVQYVpIc05kM2tZOGtMMDlWTTdUbjdhNnNUSUx2bmFrWnd0OWJGMW92TWNpQUtFUjFtc0U?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-07-31T18:00:28+00:00",
-        "summary": "Amazon: X-Sense Smarter Rauchmelder, Dreier-Set mit Basis-Station n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXRNbFIwRkttQzVZb1hfb1VXTTVsYnRBUnd4am44OUN0UGdIejhMMFF3NGVQeUJPWE1yUXZLVE5NZlpEalBjSFhITEVwam9PTXMyMFZyTGJTSjRla3lfUG1QcU5OVHhaYlZNSzNPdE1aaTd5dkdaZ3VRb3VXMVhMS2hPWF9YSVN3N21xQVpqeTg2elhxSlhMQVlmcHYxTWFENnppRTVPR04xV1B3b3A0RktDYw?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll - GameStar",
-        "source": "GameStar",
-        "publishedAt": "2026-07-03T07:00:00+00:00",
-        "summary": "Mietwagen: Überzeugter Nichtraucher muss 100 Euro Strafe zahlen, weil er 4 Mal innerhalb von 10 Minuten geraucht haben soll GameStar",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2hiWDNkbkhqSXVLcWVjWXRUVTNtTUI1RkwyVnVuYld1bURYbE1kdFJxVlIyZ0VxcFp3RURObVFRUXlWUjZDWGREelZuSTRMSVJRQzZVSEhwaTR0dzZKYW92bW1sZXl0WW1HRWVONlBmWlRxMFp1QnZuSzN4UTNyWjVfQlRPVGtFMGc?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "X-Sense bindet Warnmelder in Home Assistant ein - smarthomeassistent.de",
-        "source": "smarthomeassistent.de",
-        "publishedAt": "2026-06-26T07:00:00+00:00",
-        "summary": "X-Sense bindet Warnmelder in Home Assistant ein smarthomeassistent.de",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdm9UTk1ZRGtmOTZPSlhUeVhlelRPaTliV19GdWxtM1RrN2I0OU41WU1Zb1JyRHVWbEo0YXZtY0lNbGFxTzhCSS1lTDUxSjlsbWlQaVdwcmJfSDg5VmZURVpYdlVPbFdlZndBR19GQktkVkRwZTdDdk83X2ctemZlZVZncGFib09DaUE?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-06-25T07:00:00+00:00",
-        "summary": "X-Sense im Angebot: Rauch- und Wassermelder zu Tiefpreisen iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2cwN2NWdWhVeU52QmQ5RW5EQ2pLTUN6b3hTLW8wcVlZVDcxWWZ1OWtSQUU5a01INVRMeDliVHoxWWRZelBXQTFkMTUxaTZ5eEZ4bUFtbmd0MGlldURneTM5NE05amUxZEhWOUZnUzNyUEVyTHFBYkFMbmV2ZmNBenhUVWxkdW5BejJqUVlKZXhRM2VxZVltZg?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht - GameStar",
-        "source": "GameStar",
-        "publishedAt": "2026-06-25T07:00:00+00:00",
-        "summary": "Smarter als ein penetrantes Piepen: Der smarte Rauchmelder, den jeder Gamer braucht GameStar",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRzJkNjdYUEd6djc2VEZOeDhlM215Vy1VLTVabGlkZ1lyMzAxcXVyWmlpWUEzQTZmbzBjUzZKRm5WVTQxanU1Z0dHdGg0SjBsMV81blhwbkhPSzBtanRvN3FsN1h2NnhpNkZFbVNjTkM4TUhMQjlQLUJwSXk3QVhzVTBTVXE4TElRbVZtOGxqLVlXZw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro - teltarif.de",
-        "source": "teltarif.de",
-        "publishedAt": "2026-06-09T07:00:00+00:00",
-        "summary": "4er Set zum Sparpreis: Smarte Rauchmelder unter 50 Euro teltarif.de",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZDJ3d3FuMG1FQl9ENDI3WW9vUUpWT3Q5MUc4azVVVGVLbU9DSWpVM0ZYZmN4c1pjMFJOSzRKd0hjZlVSbS1NV01iMTNwXzk4SVhVYnpIeGtaQlhMeVctVHFRd2ZXaWZvS0pkN3l1YVo1Z1dwcGQ0N3NjblY?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - teltarif.de",
-        "source": "teltarif.de",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher teltarif.de",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "teltarif.de"
-        ]
-      },
-      {
-        "title": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel - appgefahren.de",
-        "source": "appgefahren.de",
-        "publishedAt": "2026-06-02T07:00:00+00:00",
-        "summary": "Rauchmelder von X-Sense jetzt mit Home Assistant kompatibel appgefahren.de",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnVWUFRSMGVPUVRNcGsyMmE0VXV2Vks2MUVtSHVEdlJ0UmYwWk50ZlNYdTMwV2NCSGhZa2R2X0xlNTlJNTJhbTl2Z1NDSVRrSlNDOXY3WWxSQW1KZGVZdHdfeUZuYTg3aG5ManNrZzNndWt4N3o1VjJHMHc0a0R6MS1YSm05SE9FZ0RGaXBEOHNaeHRaRXphOUpfcHJzVFU?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen - WELT",
-        "source": "WELT",
-        "publishedAt": "2026-04-24T07:00:00+00:00",
-        "summary": "Note „mangelhaft“ im Test – Stiftung Warentest muss Unternehmen Schadensersatz zahlen WELT",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMG56X19mNDNnYi01MHNYTmh4MlpRclIydnI5SVdSNnAxblFtRGxGR0ZpajFiSzA0OHE1Rk9MU3hpeHlMVExkeHN1QWR2cUpyQi11aHNtR3NGX3hjVklTR3llRHV4TXljaVpsVkp2bHNrc1VWOEJvM2FvdW1mU2Fyb1JPVXU0VmxVbE5OQ1hqbGNDYkltZFJGVGxZTWgzOThSV2R4dEJWc2F5T0IxS3YwQ1BVSXM2OTFseUVFc1Q0TjNiWDBleWhqeEkydDVoblBvLVpIWVJ6NUYxTXdWZE1HSTktMA?oc=5",
-        "tags": [
-          "WELT"
-        ]
       }
     ],
     "doors": [
       {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-17T14:14:23+00:00",
+        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
         "tags": [
-          "GEZE"
+          "Apollo"
         ]
       },
       {
-        "title": "Denkmal trifft moderne Türsysteme - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2025-07-24T07:00:00+00:00",
-        "summary": "Denkmal trifft moderne Türsysteme elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05WHpGV3o1VzBXeGlFLXA3emZ1UXlwT2plMUhULWRTZE0wblpBS3hmWDVkU241VkktRVAyRWxFdS1NOUhxSXRiUFdIOUpmVTFGVFk1TGlJYllacHRGSkgzODk2d1VJY29TbGxYQmQ1VHFfM21Q?oc=5",
+        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
+        "source": "Apollo Hospitals",
+        "publishedAt": "2026-08-17T04:18:14+00:00",
+        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
         "tags": [
-          "Türsysteme"
+          "Apollo"
         ]
       },
       {
-        "title": "Assa Abloy erweitert „Close-Motion“-Türschließerprogramm für zweiflügelige Türen - baulinks.de",
-        "source": "baulinks.de",
-        "publishedAt": "2018-11-14T08:00:00+00:00",
-        "summary": "Assa Abloy erweitert „Close-Motion“-Türschließerprogramm für zweiflügelige Türen baulinks.de",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCTlZEZ01LVkk1WFVSM25KX28wR3BPeHprbHJOcU5GdjVsTXlOTVFtNFI3dkt0QllMdkpCWnB4N2ZoSHZ2ZlNCVkp4S2Z6UW5kQWZfMlhNNlIxVkIy?oc=5",
+        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
+        "source": "FONDS professionell",
+        "publishedAt": "2026-07-28T14:30:00+00:00",
+        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWHI4cmwxU1JzclNGTnppdGpEc0o5S3NNYllXaUdPY2ZZc0xYNEdaMmExbDN3RF8zTGZxNFJxRU9BNW1sWXA3M1F4TWNrMlFPLW5FeU5XUmRScHQ3MGJHSEpIMHZsMXduR2NyZ0RBOW8ycGJIVVE?oc=5",
         "tags": [
-          "baulinks.de"
+          "FONDS professionell"
         ]
       },
       {
-        "title": "Feststellanlagen kabellos per Funk erweitern - baulinks.de",
-        "source": "baulinks.de",
-        "publishedAt": "2018-05-10T07:00:00+00:00",
-        "summary": "Feststellanlagen kabellos per Funk erweitern baulinks.de",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tMkRGSHJxQUxpdGhDYU5IUHptU0ZXalZHSGNDS3FzdUUtVXdjODZFWjY2MkRfRjNsMF9peFFrSVRmaXlHWFVxYS1xZVZxYlk5SDZDNFZULUZvUk0x?oc=5",
+        "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
+        "source": "tippinpoint.ch",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden tippinpoint.ch",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
-          "Feststellanlage"
+          "tippinpoint.ch"
         ]
       },
       {
-        "title": "Neuer obenliegender Türschließer von GEZE mit besonders hoher Endschließkraft - baulinks.de",
-        "source": "baulinks.de",
-        "publishedAt": "2018-05-09T07:00:00+00:00",
-        "summary": "Neuer obenliegender Türschließer von GEZE mit besonders hoher Endschließkraft baulinks.de",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkMF9WTWc1aDlKbHFSNVJNUDhWNXBLVW9sTDBQRXhhM0FndEZ5ckFWazBYZm05Y29Hblhvbm5EcWJhQi1TeVdkczRYMTA5dmJpQkxhWThPQ0Z5Z2FH?oc=5",
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - dasinvestment.com",
+        "source": "dasinvestment.com",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger dasinvestment.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
-          "GEZE"
+          "dasinvestment.com"
         ]
       },
       {
-        "title": "Whitepaper zur DIN 14677 und zum fristgerechten Austausch von Rauchschaltern in Feststellanlagen - baulinks.de",
-        "source": "baulinks.de",
-        "publishedAt": "2017-04-24T07:00:00+00:00",
-        "summary": "Whitepaper zur DIN 14677 und zum fristgerechten Austausch von Rauchschaltern in Feststellanlagen baulinks.de",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5waTB4TDRXRU96QU1VanlNbXFrbjZqUE9Nd0tHaWxQSHRyUm9abXZySUxEVkJrUlRVNTZBRGluN2dQQzROclB6V1UwOTJ1bFI1M2ZWenhCTU9oeWFh?oc=5",
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
-          "Feststellanlage"
+          "Börsen-Zeitung"
         ]
       },
       {
-        "title": "Außentürschließer speziell bei ansteigendem Gelände - baulinks.de",
-        "source": "baulinks.de",
-        "publishedAt": "2014-11-21T08:00:00+00:00",
-        "summary": "Außentürschließer speziell bei ansteigendem Gelände baulinks.de",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yd2J3aWFLLXpzaE83c3dPczN1MXBCdS1kbFZNclctZHNKc211ZHRzZDNJbUg1NUdJN1dOQUl2X05LYzBsOUZJWDlKeFd1ZGpKTmd4dEItM3E0OFgz?oc=5",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
+        "source": "koha.net",
+        "publishedAt": "2026-07-22T07:00:00+00:00",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
-          "baulinks.de"
+          "Apollo"
         ]
       },
       {
-        "title": "Türöffnungsbegrenzer bremsen aufschlagende Türen und Kosten - baulinks.de",
-        "source": "baulinks.de",
-        "publishedAt": "2013-11-28T08:00:00+00:00",
-        "summary": "Türöffnungsbegrenzer bremsen aufschlagende Türen und Kosten baulinks.de",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ldFI2ejg2YUlVNVJmNUxXa3Vfci1vUGpfdE1GMGF1SXhSdEp6am94eFhDclpfdmluN0ZDb2p6aUEyaE9fbVFFbHNXWGVOamVSVklWbWhOYmx0Vjl3?oc=5",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-10T07:00:00+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
-          "baulinks.de"
+          "Apollo"
         ]
       },
       {
-        "title": "Barrierefreie Zugänge auf 20 sehr informativen Seiten - baulinks.de",
-        "source": "baulinks.de",
-        "publishedAt": "2011-02-24T08:00:00+00:00",
-        "summary": "Barrierefreie Zugänge auf 20 sehr informativen Seiten baulinks.de",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tdnVzSXNteWk5cVEtWVZXc1hUZzJISE1INzkxaXVpNDUyVjdYZVl1aUVqQWZKQmlSdS05QTVwTVZldWpNOGpnS3FiSUNRT282WnAzSDVlSmlCUElf?oc=5",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-07-06T07:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "baulinks.de"
+          "Handelsblatt"
         ]
       },
       {
-        "title": "GEZE im Dornier Museum in Friedrichshafen: Modernste Tür- und Sicherheitstechnologie in Harmonie mit der Gebäudearchitektur - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2009-12-10T08:00:00+00:00",
-        "summary": "GEZE im Dornier Museum in Friedrichshafen: Modernste Tür- und Sicherheitstechnologie in Harmonie mit der Gebäudearchitektur PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbVhqLTNYcVQxNTNxX0x6MXFwWk5hcU5QSmlWNUlQdVZGbF9uZnVrenh6aHh6Ym1KSGhmMGduOXB1aTluVlVib29aekoybTlzVkRpSGc5bmdnM2lXdlBnLVczeGFDMnlNalZfMXNiMWN1cy1rSnpvdFlSNnhLSTJNSFBUelNVNkVGRm1BR0JIdm43UmRVaE1DWVMxRW4zUzhuamI1RkdGY1EyXzNuSnpjM21hUmRVQjVSbFMxclplem1pY1hYN2MwNGx6c1Z6MGRwQlFCajZIVldLNlMwaEg2WXFjeDlOQkIzYmIxdlpiSmJ2aWVTdXlkRkVvRGxBa21NdjRhN3VKdy1iX0FVeWxqS3R3?oc=5",
+        "title": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-20T07:00:00+00:00",
+        "summary": "Patienten können Apollo News wieder lesen: Uniklinik Bonn schiebt Verantwortung auf externen IT-Dienstleister apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb01FeDhucjVrOTN1VU5SZ1Fab0VnNUhoVm5abUZMMFZMQW53V0xncFVEem9wNDVxc0tWV1dlaE1HWEpVMklURTVJWmVJUTdqNHpaaEIyTkFqTjZqbmJCS2J6U3BIUzhrM2wxUDhiRUhwNzV4SEVyQ3A1TzhUV2d2VDFaSGxtMXptZkFkTVFzNzhHV3YwQXRjRHNuV3dqbWwxSDBKbzczZU5iZEc0XzdnSFVWRHdEcW0zRTZoNm16SEh3V3RuUFlRVlY3di1xLWc?oc=5",
         "tags": [
-          "GEZE"
+          "Apollo"
+        ]
+      },
+      {
+        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-04-17T07:00:00+00:00",
+        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
+        "title": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "summary": "Patienten können Apollo News nicht lesen: Uniklinik Bonn schweigt zu Zensurvorwürfen apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWR6RVFJYV9EclRkeVNjei03a0NuQ21ybWFsOFRQXzNVNFBuM2FEN1BSQlhlWGpZdlYweWZ4N01sT1ZHLUNncVJRMTF6d0h0ZWxaNXBoTC1UMnB6Z2JoUi1DbEVRSW1DV2UzUkdXYU04RnpiNFlBRGJKTDFhWDl1N2hZWVRuYWpvUzNOSUJXVW9DLWxodkY4WS15WXBSMkUwV0FQbGhKYmV5dw?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
     "trends": [
       {
-        "title": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz - baulinks.de",
-        "source": "baulinks.de",
+        "title": "Blitzschutz in Eggenstein-Leopoldshafen: 36 Kriterien für die Prüfung - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-26T15:30:12+00:00",
+        "summary": "Blitzschutz in Eggenstein-Leopoldshafen: 36 Kriterien für die Prüfung AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0EzMU0tVkxOUEZOQ3FMRzU2TmU1R250LVh2TGl1ZDlzQkxfR3g1TXRha1hxX0xWUDMyTC11c0pQUkZKVjk3eHFjNGR0MDBCTEx4TmFYMHFuZDh2UzZSQXFHdWtwbEFWTjRtcmxEZW5LelRNZ3FFazlMTlVxYXNma0FLM1RMeU95Qjk0RWVvUFg0WG1ySHJCaUJ6dHFWcGZpMlBXU3J2WWNRdndXSWttTTgyTEp3WlFr?oc=5",
+        "tags": [
+          "AD HOC NEWS"
+        ]
+      },
+      {
+        "title": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz - Baulinks",
+        "source": "Baulinks",
         "publishedAt": "2026-09-16T02:49:08+00:00",
-        "summary": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz baulinks.de",
+        "summary": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TdWRnd3BIejcydVc0dHZTYWlZWHNIZ1psQm5yUWN3Ti1CY1BoNWxwUFU2ZnZfVXlyV2dXaGpMb3BkTXpiM2Y2X2VKb21KMG9EV2Y0cWVhcjcwQ3B1?oc=5",
         "tags": [
-          "baulinks.de"
+          "Baulinks"
         ]
       },
       {
@@ -405,6 +443,26 @@
         ]
       },
       {
+        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-08-28T07:00:00+00:00",
+        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
+        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
+        "source": "Fuldaer Zeitung",
+        "publishedAt": "2026-08-26T07:00:00+00:00",
+        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
+      {
         "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
         "source": "tagesschau.de",
         "publishedAt": "2026-08-19T07:00:00+00:00",
@@ -435,43 +493,13 @@
         ]
       },
       {
-        "title": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-08-07T07:00:00+00:00",
-        "summary": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGxRMVRGV3dwT2Y3YXQ3Qmh4Z19BYmVFdmpvb2VQN3hyZlVaQ09lUnd4SkRxMU1PZ2doUDM0d1VNNEcyMVJnVG5WazlNWmkzMDMtODUxeV91YWlxNjJoSnQ3WEY4UVV0d2lmclg1d2ViV0kycUtjYmg3Q2tjVkZVOEdleVlDbUpzV0pYQTNreDBBZHZuUVIwa192LTl6R3o3LUY2YzFaX0VHamxCTktlcDZXY0w?oc=5",
+        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
+        "source": "BILD",
+        "publishedAt": "2026-08-11T07:00:00+00:00",
+        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
         "tags": [
-          "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
-        "source": "simplywall.st",
-        "publishedAt": "2026-08-01T07:00:00+00:00",
-        "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
-        "tags": [
-          "simplywall.st"
-        ]
-      },
-      {
-        "title": "Carrier übernimmt 75F und erweitert cloudnative Gebäudeautomation - Refindustry",
-        "source": "Refindustry",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Carrier übernimmt 75F und erweitert cloudnative Gebäudeautomation Refindustry",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEpJWFR0OE14UUFBS0dCM2w3X3k3T0swXy1jbUhsZWhRTWl0eEJwRjNxd0JkZG0waXl6R3JrR1ZHMUxpV05oZGZwMUl1M3c0VXBsYVJBRnoxY2gwZVhyNnpZYlMxLXR0TENiUkh6VkpkaUJzbFpxLV90U3JmMzYxRWV3ZDR1NUJ6MmxPY1NXV0x1NjZ6aElwT0kzZlUzRWc?oc=5",
-        "tags": [
-          "Gebäudeautomation"
-        ]
-      },
-      {
-        "title": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-19T07:00:00+00:00",
-        "summary": "Badehaus am Rechenzentrum: Architekten tüfteln, um KI-Gebäude zu verbessern Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
-        "tags": [
-          "KI"
+          "Nachhaltigkeit"
         ]
       }
     ]
