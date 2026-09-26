@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:54:35.231807+00:00",
+  "generatedAt": "2026-09-26T21:44:53.483120+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -22,6 +22,16 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
         "tags": [
           "Augsburger Allgemeine"
+        ]
+      },
+      {
+        "title": "Globaler Schutz und Schutz 2026 - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-08-06T16:58:38+00:00",
+        "summary": "Globaler Schutz und Schutz 2026 Siemens",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -113,16 +123,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
-        "tags": [
-          "Bosch"
         ]
       }
     ],
@@ -281,13 +281,13 @@
         ]
       },
       {
-        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
-        "source": "FONDS professionell",
+        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - fondsprofessionell.de",
+        "source": "fondsprofessionell.de",
         "publishedAt": "2026-07-28T14:30:00+00:00",
-        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
+        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro fondsprofessionell.de",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTWHI4cmwxU1JzclNGTnppdGpEc0o5S3NNYllXaUdPY2ZZc0xYNEdaMmExbDN3RF8zTGZxNFJxRU9BNW1sWXA3M1F4TWNrMlFPLW5FeU5XUmRScHQ3MGJHSEpIMHZsMXduR2NyZ0RBOW8ycGJIVVE?oc=5",
         "tags": [
-          "FONDS professionell"
+          "fondsprofessionell.de"
         ]
       },
       {
@@ -321,20 +321,20 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
-        "source": "koha.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
+        "source": "KOHA.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
+        "source": "businessinsider.de",
         "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
@@ -383,13 +383,13 @@
     ],
     "trends": [
       {
-        "title": "Blitzschutz in Eggenstein-Leopoldshafen: 36 Kriterien für die Prüfung - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-09-26T15:30:12+00:00",
-        "summary": "Blitzschutz in Eggenstein-Leopoldshafen: 36 Kriterien für die Prüfung AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0EzMU0tVkxOUEZOQ3FMRzU2TmU1R250LVh2TGl1ZDlzQkxfR3g1TXRha1hxX0xWUDMyTC11c0pQUkZKVjk3eHFjNGR0MDBCTEx4TmFYMHFuZDh2UzZSQXFHdWtwbEFWTjRtcmxEZW5LelRNZ3FFazlMTlVxYXNma0FLM1RMeU95Qjk0RWVvUFg0WG1ySHJCaUJ6dHFWcGZpMlBXU3J2WWNRdndXSWttTTgyTEp3WlFr?oc=5",
+        "title": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise - MarketScreener Schweiz",
+        "source": "MarketScreener Schweiz",
+        "publishedAt": "2026-09-23T10:00:22+00:00",
+        "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
         "tags": [
-          "AD HOC NEWS"
+          "KI"
         ]
       },
       {
