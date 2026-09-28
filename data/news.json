@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:42:15.367877+00:00",
+  "generatedAt": "2026-09-28T21:30:27.830659+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -55,13 +55,13 @@
         ]
       },
       {
-        "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
-        "source": "buildingTIMES",
+        "title": "Neue IoT-Brandmelder präsentiert - buildingtimes.at",
+        "source": "buildingtimes.at",
         "publishedAt": "2026-07-01T07:00:00+00:00",
-        "summary": "Neue IoT-Brandmelder präsentiert buildingTIMES",
+        "summary": "Neue IoT-Brandmelder präsentiert buildingtimes.at",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
         "tags": [
-          "buildingTIMES"
+          "buildingtimes.at"
         ]
       },
       {
@@ -214,18 +214,6 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-09-18T10:35:31+00:00",
-        "summary": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWhoX3hTRW5XdmhfMy1hT3g4ajlzbTlFUUIwUF9fWVc0anJqdTl4UGhUMmo5RFJULXM5OVByRW1SUmIxaVAyT2tlLWxlWWF4LVU1ZnF6VnY1Q2Q4MlRWTVRaNDlZeU1tUU5jVmREMGNwa2JsN0pKLTN1OU9UX3dXV1FiRjFBZkQzNG5aSFpsSGF6aThCdVlzRFRFeUQ1MmF3cGVsOGxac3p0SWdDMlFFOUtVZ2w1dUl3LW1Jb0J6ZnhZUQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PC Games Hardware",
         "source": "PC Games Hardware",
         "publishedAt": "2026-09-18T07:00:00+00:00",
@@ -256,6 +244,16 @@
           "Ei",
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-09-12T07:00:00+00:00",
+        "summary": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DVTF6MmVtQ29rVkZ6LXhxczFTb2ZOZWRXR3JuYlNjallhQ2MtQldtcWh2Mnk1a2dWa1lscThHZUI4Y0UwRmlnNUJHOEJ5WFByS3JmMXhQMFR4SXdJRnQ2U0JuUWFDV2hzaEttbjNOVi1lWm1zRzhBRWhacFdhYVU?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -371,13 +369,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
-        "source": "handelsblatt.com",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "handelsblatt.com"
+          "Handelsblatt"
         ]
       }
     ],
@@ -423,10 +421,10 @@
         ]
       },
       {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
-        "source": "faz.net",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
