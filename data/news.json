@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T01:00:19.078981+00:00",
+  "generatedAt": "2026-09-28T07:12:52.560800+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -128,11 +128,21 @@
     ],
     "pfs": [
       {
-        "title": "Für die Heizung: Bosch bringt ein neues Gerät auf den Markt – es ist besonders clever - futurezone.de",
+        "title": "Rauchwarnmelder werden wichtiger - i-Magazin",
+        "source": "i-Magazin",
+        "publishedAt": "2026-09-28T05:38:21+00:00",
+        "summary": "Rauchwarnmelder werden wichtiger i-Magazin",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Z2ptUzN4MzBzNFdxRm5HNXhQdEl2NlFSOEhJVExEYWthYWtWQ2hOSHdQc0d1NkpwYXRGMXBuWGw4TWhnWk9xdUt2VEwwOHQ4R1RaX1dSaFp5cjBEcFNYbTFyTkwwUQ?oc=5",
+        "tags": [
+          "Rauchwarnmelder"
+        ]
+      },
+      {
+        "title": "Bosch: Dieses neue Gerät soll dir helfen, Heizkosten zu sparen - futurezone.de",
         "source": "futurezone.de",
-        "publishedAt": "2026-09-25T12:53:18+00:00",
-        "summary": "Für die Heizung: Bosch bringt ein neues Gerät auf den Markt – es ist besonders clever futurezone.de",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRGs4VzUwdVlCNVViTG1OMTV0ejhMZmdERnpnbGxXajhCb2lHNV9EbWNpWTFQTHdmRm5zQ3hEZHRaT25rZl9laUl6TXlJYk45TkJzbVFqR1MteU5PdHpZc2lkNjlxajdKamV4SkR1cXJxa19aVk9MdlZRRE4weEpLZnFtRi1nejhvc0s1WGNfUEdBYklGOVFiaDNOUm5uSVVtdTNIN19rRHJwWFFhMVVnVUNSRlV6THBiblpZQ0N1c1N6dG5wbGpBSENhT0FGLXpCVW9KV2QzQ1N2d0NSN0E?oc=5",
+        "publishedAt": "2026-09-28T05:33:00+00:00",
+        "summary": "Bosch: Dieses neue Gerät soll dir helfen, Heizkosten zu sparen futurezone.de",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1ZELVFwQW9PRm1iM1NUNTFITjRYZGU4Q1ZuQ3NLV2VlUUhILTc3akVYa1QwemJjY09XRU9YcXZVMnU4SlhGdFo0eHRVSVZKSTAxU3F4SlhqYk9aUmIzR3NSQXFRZEo4TTZLRkhxRlRpR0RKZ3A0b1kzUTM0SzVBNDVQWGc0RjMwbDNhWTBxTEZHLVpYZWNNS1FBV0FlM2RfcERDUFFUOWFmSWd1UVFqajIzYThQUQ?oc=5",
         "tags": [
           "Ei",
           "Bosch"
@@ -149,10 +159,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-23T20:09:01+00:00",
-        "summary": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro AD HOC NEWS",
+        "summary": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOandEVTMyUVVYMzA0TWlWUkdtYWdqOGctMjZWaUh5T2piOHc2Wmk1Q1hhNGcwTFR3ZnR3cVphU3pGdDBQOXd6Zk5MRXM5WS1TZzVGajZFLVBFcVNwdzFsTFY2Z25McjQyRm1kbGVTQ042bmtpV08xNTlhTzhOcTktM0hGdjRiX1JCUHRlaUxCMzFReGpHUm9HbTY1V3N3Rks0R3RWUS1PNkJFdw?oc=5",
         "tags": [
           "Ei",
@@ -172,10 +182,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-22T09:03:06+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 AD HOC NEWS",
+        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2ZQMUhUeS16Uk9Pc0duaE5jaUoyLWV6X0pDOE13TnY0a2ZkNU1vanc0SVVxVTNXXzVRbDhIakEzRnBxb19DNU1pcnIwczdjaGt0U1JOODQ3ZDZNY3hMbmtxb2pQcE9xeEd2ekdUbldjZ3JfWWhYZjNwWWIzQ0p5S1ZvRVNKRWQwZl95TThpaFFmaEZraFpGMHI0ZzJXNl85QXdDSFFFc29qMk1XMURj?oc=5",
         "tags": [
           "Bosch",
@@ -183,20 +193,20 @@
         ]
       },
       {
-        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - PC Games Hardware",
-        "source": "PC Games Hardware",
+        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - pcgameshardware.de",
+        "source": "pcgameshardware.de",
         "publishedAt": "2026-09-21T12:00:00+00:00",
-        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) PC Games Hardware",
+        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) pcgameshardware.de",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkIybVkxeURGeVJGb05ja1JPT2p2am55Yl9SaVpMODFUQ0J0VDJxY0Vaakd3dldKdDR6VXk2R3dPSEtySHhkSmJEN3NLMXlNX1Z0M3ZfSkdBcFlwSWZucDZvUUdNenNKTXFxb1NhQ3pHTm1YTTNzeE9zN3VneTJRXzV3aEhaZHZfTU1nUU5VSG8yaGI4bGRLWXZ1M0RSdHowa2R3M1RnN0Rma3JPV1laX2NKa2RoQXFKbjJlUA?oc=5",
         "tags": [
           "Ei"
         ]
       },
       {
-        "title": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-18T10:35:31+00:00",
-        "summary": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro AD HOC NEWS",
+        "summary": "Bosch Smart Home Starter-Paket Heizung - 3 Thermostate und 349,95 Euro ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbWhoX3hTRW5XdmhfMy1hT3g4ajlzbTlFUUIwUF9fWVc0anJqdTl4UGhUMmo5RFJULXM5OVByRW1SUmIxaVAyT2tlLWxlWWF4LVU1ZnF6VnY1Q2Q4MlRWTVRaNDlZeU1tUU5jVmREMGNwa2JsN0pKLTN1OU9UX3dXV1FiRjFBZkQzNG5aSFpsSGF6aThCdVlzRFRFeUQ1MmF3cGVsOGxac3p0SWdDMlFFOUtVZ2w1dUl3LW1Jb0J6ZnhZUQ?oc=5",
         "tags": [
           "Ei",
@@ -205,10 +215,10 @@
         ]
       },
       {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PC Games Hardware",
-        "source": "PC Games Hardware",
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - pcgameshardware.de",
+        "source": "pcgameshardware.de",
         "publishedAt": "2026-09-18T07:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PC Games Hardware",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter pcgameshardware.de",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
         "tags": [
           "X-Sense"
@@ -246,24 +256,14 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen - inside digital",
-        "source": "inside digital",
-        "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "Ohne Zusatzkosten: Bosch-Kunden bekommen neue Funktionen inside digital",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazQ3b0gxOUV4NXpydWZFOHBfUnBZdEFldWxkX0hodERxOC13UmE1d2hMaTdOWm4wWEhPU3VBTWpZUjh4dEE4RUtZdWZnREFmQTVlMDhUd3NJMW5ZTWNzYWxBQ0s5WjVHdkdkWWJJekNtT2dJRUFzc19TczB6NFppOTk3VWJodngwSHRDajdn0gGTAUFVX3lxTE1nZnNhcmVyQUtUYkloTGZNcFQyU2FzMWhjQ3JVZ0N5bHVsdDlmc0h4MVdOU0RMbW1vMGxvZWRXbEY0Wi1NbjhqMTFyMG5QLXphSWpvaTE5bE9heTR1bWgtSlVtYlF4TldvN1RyTFo0Rkx3dDRuWWZDMXBIN2JLMkxMeVFJancwSVJrRElybzVEdzh4RQ?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-17T14:14:23+00:00",
-        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab AD HOC NEWS",
+        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
         "tags": [
           "Apollo"
@@ -280,10 +280,10 @@
         ]
       },
       {
-        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - apollohospitals.com",
-        "source": "apollohospitals.com",
+        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
+        "source": "Apollo Hospitals",
         "publishedAt": "2026-08-17T04:18:14+00:00",
-        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch apollohospitals.com",
+        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
         "tags": [
           "Apollo"
@@ -382,26 +382,6 @@
     ],
     "trends": [
       {
-        "title": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise - MarketScreener Schweiz",
-        "source": "MarketScreener Schweiz",
-        "publishedAt": "2026-09-23T10:00:22+00:00",
-        "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Der große FinanzBusiness-Schwerpunkt: Wie Amla, Micar und AI Act die Banken verändern - FinanzBusiness",
-        "source": "FinanzBusiness",
-        "publishedAt": "2026-09-21T04:54:53+00:00",
-        "summary": "Der große FinanzBusiness-Schwerpunkt: Wie Amla, Micar und AI Act die Banken verändern FinanzBusiness",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kV3JJTjdPNmIxajdVLUJCWVJYQzAzNFZia3lLNk8zT29zU1I1YWJESGZSUFIzVnZNTWktOS1JaUpSZVY0dXY4WXhmbTN6WjJLVjQzbmVEQ2NTcEl4bVRpeXpZOFN1QjBGVVloRm42NTIydkMzcmZGbg?oc=5",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
         "title": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz - Baulinks",
         "source": "Baulinks",
         "publishedAt": "2026-09-16T02:49:08+00:00",
@@ -432,13 +412,13 @@
         ]
       },
       {
-        "title": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-10T07:00:00+00:00",
-        "summary": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz AD HOC NEWS",
+        "summary": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDNJVlRrTDZkY1hENFBnSG9VTWN3b2JrTXRzNkYyRkk2b3E3a3FWeE11Y2pBblpfems5dFZCd19zdlMtSnlRY2VUMFBiWklvVUFYbF9Fc1BEcnpVcVJEZlBqcW1yWkRoSkZIZ1MwRDByTXlDMWFNYlA1Y3lieTBfblpoRTdDSE51elJKUWp2RkxPYTZZWDNWbk93OE9uRjg3WFpWYlQ3a2szZw?oc=5",
         "tags": [
-          "AD HOC NEWS"
+          "ad-hoc-news.de"
         ]
       },
       {
@@ -452,10 +432,10 @@
         ]
       },
       {
-        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme AD HOC NEWS",
+        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
         "tags": [
           "Normen"
@@ -499,6 +479,26 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
         "tags": [
           "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-08-07T07:00:00+00:00",
+        "summary": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGxRMVRGV3dwT2Y3YXQ3Qmh4Z19BYmVFdmpvb2VQN3hyZlVaQ09lUnd4SkRxMU1PZ2doUDM0d1VNNEcyMVJnVG5WazlNWmkzMDMtODUxeV91YWlxNjJoSnQ3WEY4UVV0d2lmclg1d2ViV0kycUtjYmg3Q2tjVkZVOEdleVlDbUpzV0pYQTNreDBBZHZuUVIwa192LTl6R3o3LUY2YzFaX0VHamxCTktlcDZXY0w?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
+        "source": "simplywall.st",
+        "publishedAt": "2026-08-01T07:00:00+00:00",
+        "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
+        "tags": [
+          "simplywall.st"
         ]
       }
     ]
