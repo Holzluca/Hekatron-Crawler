@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T15:30:44.134411+00:00",
+  "generatedAt": "2026-09-30T20:27:06.874841+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -55,13 +55,13 @@
         ]
       },
       {
-        "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
-        "source": "buildingTIMES",
+        "title": "Neue IoT-Brandmelder präsentiert - buildingtimes.at",
+        "source": "buildingtimes.at",
         "publishedAt": "2026-07-01T07:00:00+00:00",
-        "summary": "Neue IoT-Brandmelder präsentiert buildingTIMES",
+        "summary": "Neue IoT-Brandmelder präsentiert buildingtimes.at",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
         "tags": [
-          "buildingTIMES"
+          "buildingtimes.at"
         ]
       },
       {
@@ -269,6 +269,16 @@
         ]
       },
       {
+        "title": "Berliner Linken-Spitzenkandidatin Eralp fordert im Welt-TV-Duell mehr Einbürgerungen – für „Zugang zum Wahlrecht“ - apollo-news.net",
+        "source": "apollo-news.net",
+        "publishedAt": "2026-09-14T07:00:00+00:00",
+        "summary": "Berliner Linken-Spitzenkandidatin Eralp fordert im Welt-TV-Duell mehr Einbürgerungen – für „Zugang zum Wahlrecht“ apollo-news.net",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOWtiaEJRZVFjUTZWaUxXUzJacG5YclVKV1FIWkVkeVNmLUlRRjdJQVNNMjNPLXVWNzBkdlJZNGVtM2FvNkNGRjNtc2czSG5IX0VqQ1B5am8wYTUwdTBrc1pkcVpLTzJfSmF2M3d0UU9XRGN5TkJOMm5ZaHc3U0ltSG1oZ3hPM2tSOHRJWTVtVG5WXzZ5aUw4cE83LTE4bzJHbzA1MnpTRFo4UEtJdjVrOTdtUnV4SldBWThJNjFUWm8xMzM4UE9CdkhIS08zUTk0X3c?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-09-01T07:00:00+00:00",
@@ -279,33 +289,23 @@
         ]
       },
       {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
-        "source": "Manager Magazin",
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - manager-magazin.de",
+        "source": "manager-magazin.de",
         "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s manager-magazin.de",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch - Apollo Hospitals",
-        "source": "Apollo Hospitals",
-        "publishedAt": "2026-08-17T04:18:14+00:00",
-        "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
-        "source": "InvestmentWeek",
+        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - investmentweek.com",
+        "source": "investmentweek.com",
         "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
+        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro investmentweek.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
         "tags": [
-          "InvestmentWeek"
+          "investmentweek.com"
         ]
       },
       {
@@ -339,13 +339,13 @@
         ]
       },
       {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - boersen-zeitung.de",
+        "source": "boersen-zeitung.de",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland boersen-zeitung.de",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
-          "Börsen-Zeitung"
+          "boersen-zeitung.de"
         ]
       },
       {
@@ -401,10 +401,10 @@
         ]
       },
       {
-        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - wochenblatt-reporter.de",
-        "source": "wochenblatt-reporter.de",
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
+        "source": "Wochenblatt Reporter",
         "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft wochenblatt-reporter.de",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
         "tags": [
           "KI"
