@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:48:10.018764+00:00",
+  "generatedAt": "2026-09-30T15:30:44.134411+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -45,10 +45,10 @@
         ]
       },
       {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - baulinks.de",
-        "source": "baulinks.de",
+        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
+        "source": "Baulinks",
         "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt baulinks.de",
+        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
@@ -116,13 +116,13 @@
         ]
       },
       {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - diepholz.de",
-        "source": "diepholz.de",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen diepholz.de",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T07:00:00+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
-          "diepholz.de"
+          "Bosch"
         ]
       }
     ],
@@ -279,10 +279,10 @@
         ]
       },
       {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - manager-magazin.de",
-        "source": "manager-magazin.de",
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
         "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s manager-magazin.de",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
           "Apollo"
@@ -319,6 +319,16 @@
         ]
       },
       {
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
+        "tags": [
+          "t3n"
+        ]
+      },
+      {
         "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
         "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
@@ -349,10 +359,10 @@
         ]
       },
       {
-        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress.at",
-        "source": "exxpress.at",
+        "title": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder - exxpress",
+        "source": "exxpress",
         "publishedAt": "2026-07-21T07:00:00+00:00",
-        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress.at",
+        "summary": "Nach Millionen-Raub: Apollo-Galerie im Louvre öffnet wieder exxpress",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ2pYMi11NGxxX04zbHV2elJ0SzFzVkdxWWF0eGYxQWNtek9oTGdDMV9ucUs3MlFJbGNpUDVuX1lkS1NJRlVsLXJBbEk2NEhyTkFPOGU3UjZvV0NtVzFwaG1qWE0zd3M2Wld3ZnhLSnBDMzJ4NDJkYmo1cjZ0N3V6a3RUbVhUNk1saVcyM1JR?oc=5",
         "tags": [
           "Apollo"
@@ -367,47 +377,17 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
       {
-        "title": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-09-25T10:40:25+00:00",
-        "summary": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise - MarketScreener Schweiz",
-        "source": "MarketScreener Schweiz",
-        "publishedAt": "2026-09-23T10:00:22+00:00",
-        "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz - baulinks.de",
-        "source": "baulinks.de",
+        "title": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz - Baulinks",
+        "source": "Baulinks",
         "publishedAt": "2026-09-16T02:49:08+00:00",
-        "summary": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz baulinks.de",
+        "summary": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TdWRnd3BIejcydVc0dHZTYWlZWHNIZ1psQm5yUWN3Ti1CY1BoNWxwUFU2ZnZfVXlyV2dXaGpMb3BkTXpiM2Y2X2VKb21KMG9EV2Y0cWVhcjcwQ3B1?oc=5",
         "tags": [
-          "baulinks.de"
+          "Baulinks"
         ]
       },
       {
@@ -421,10 +401,10 @@
         ]
       },
       {
-        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
-        "source": "Wochenblatt Reporter",
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - wochenblatt-reporter.de",
+        "source": "wochenblatt-reporter.de",
         "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft wochenblatt-reporter.de",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
         "tags": [
           "KI"
@@ -441,10 +421,10 @@
         ]
       },
       {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - faz.net",
-        "source": "faz.net",
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI faz.net",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
@@ -498,6 +478,26 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
         "tags": [
           "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-08-07T07:00:00+00:00",
+        "summary": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGxRMVRGV3dwT2Y3YXQ3Qmh4Z19BYmVFdmpvb2VQN3hyZlVaQ09lUnd4SkRxMU1PZ2doUDM0d1VNNEcyMVJnVG5WazlNWmkzMDMtODUxeV91YWlxNjJoSnQ3WEY4UVV0d2lmclg1d2ViV0kycUtjYmg3Q2tjVkZVOEdleVlDbUpzV0pYQTNreDBBZHZuUVIwa192LTl6R3o3LUY2YzFaX0VHamxCTktlcDZXY0w?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - simplywall.st",
+        "source": "simplywall.st",
+        "publishedAt": "2026-08-01T07:00:00+00:00",
+        "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
+        "tags": [
+          "simplywall.st"
         ]
       }
     ]
