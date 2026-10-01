@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T13:40:00.854887+00:00",
+  "generatedAt": "2026-10-01T19:11:36.594209+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,10 +34,10 @@
         ]
       },
       {
-        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - Ingenieur.de",
-        "source": "Ingenieur.de",
+        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
+        "source": "ingenieur.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel Ingenieur.de",
+        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
@@ -51,16 +51,6 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
-        "source": "buildingTIMES",
-        "publishedAt": "2026-07-01T07:00:00+00:00",
-        "summary": "Neue IoT-Brandmelder präsentiert buildingTIMES",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
-        "tags": [
-          "buildingTIMES"
         ]
       },
       {
@@ -123,24 +113,34 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T07:00:00+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "tags": [
+          "Bosch"
+        ]
       }
     ],
     "pfs": [
       {
-        "title": "Apple will das Smart Home erobern: Der 13. Oktober 2026 wird zum Stichtag - HIFI.DE",
-        "source": "HIFI.DE",
+        "title": "Apple will das Smart Home erobern: Der 13. Oktober 2026 wird zum Stichtag - hifi.de",
+        "source": "hifi.de",
         "publishedAt": "2026-09-30T13:04:47+00:00",
-        "summary": "Apple will das Smart Home erobern: Der 13. Oktober 2026 wird zum Stichtag HIFI.DE",
+        "summary": "Apple will das Smart Home erobern: Der 13. Oktober 2026 wird zum Stichtag hifi.de",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOekVJTlkweU9qLWpyWUFwZ0Z3blgwa3AzWG9WQXAwZDZWQkNTV2JTWWNMT1NnYjhaUjE3NVNpZFpsR1A5RHhqbWwzTU8zYURYbFBiV0N5cDhXRTRsdTJZbGphRXpIQnJvUy0tbVNLZjBMM0tUZTBsdGt0ZkFiaC1XYWc0M3QwVHV2SlZ6eUhzc1FkTDF6N1J0VFZ1SzdKZWRM?oc=5",
         "tags": [
           "Smart Home"
         ]
       },
       {
-        "title": "Heizkosten sparen: Die besten smarten Thermostate im Test - imtest.de",
-        "source": "imtest.de",
+        "title": "Heizkosten sparen: Die besten smarten Thermostate im Test - IMTEST",
+        "source": "IMTEST",
         "publishedAt": "2026-09-29T09:02:24+00:00",
-        "summary": "Heizkosten sparen: Die besten smarten Thermostate im Test imtest.de",
+        "summary": "Heizkosten sparen: Die besten smarten Thermostate im Test IMTEST",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldaeFlWcWU5MHN3Nk5Nc280UWtiYTQzOU1IVHRRRnQta21JN0VXY3NSbmZLQ1c4VV8xTUd3OHo4TzBGVlJaTFkzdWRuRzB2ajRTcjh3V3k0YTkzM2R1NUI4ZzVWZWd2RGxkbWlHRWEyLUFmaWQyYUVZMGJaOWNuQ2NGNA?oc=5",
         "tags": [
           "Ei"
@@ -178,10 +178,10 @@
         ]
       },
       {
-        "title": "Bosch Built-in Robot Vacuum & Mopp | Ein unsichtbarer Saugroboter - smarthomeassistent.de",
-        "source": "smarthomeassistent.de",
+        "title": "Bosch Built-in Robot Vacuum & Mopp | Ein unsichtbarer Saugroboter - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
         "publishedAt": "2026-09-24T10:09:22+00:00",
-        "summary": "Bosch Built-in Robot Vacuum & Mopp | Ein unsichtbarer Saugroboter smarthomeassistent.de",
+        "summary": "Bosch Built-in Robot Vacuum & Mopp | Ein unsichtbarer Saugroboter SmarthomeAssistent",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDhpbkVLaTFsU2U2T1pZUERhNjctaHdvazQ5WThEQVhfUjN5NUVqOUdXMW9oQmJTSmhaWHdPay1SM3FXSkdhOE80VDAzRnhyM3R2RDBXSENoT1JGeUpFTm5TUjU1OWhSZExmS2YzbHQtWFg1TEx0aG4xR2xTN1JiZlMxZ2pSdw?oc=5",
         "tags": [
           "Ei",
@@ -189,10 +189,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-09-23T20:09:01+00:00",
-        "summary": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro ad-hoc-news.de",
+        "summary": "Bosch Smart Home Starter-Paket Heizung - 349,95 Euro AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOandEVTMyUVVYMzA0TWlWUkdtYWdqOGctMjZWaUh5T2piOHc2Wmk1Q1hhNGcwTFR3ZnR3cVphU3pGdDBQOXd6Zk5MRXM5WS1TZzVGajZFLVBFcVNwdzFsTFY2Z25McjQyRm1kbGVTQ042bmtpV08xNTlhTzhOcTktM0hGdjRiX1JCUHRlaUxCMzFReGpHUm9HbTY1V3N3Rks0R3RWUS1PNkJFdw?oc=5",
         "tags": [
           "Ei",
@@ -201,10 +201,10 @@
         ]
       },
       {
-        "title": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn - imtest.de",
-        "source": "imtest.de",
+        "title": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn - IMTEST",
+        "source": "IMTEST",
         "publishedAt": "2026-09-23T12:37:04+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn imtest.de",
+        "summary": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn IMTEST",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGI4Z01kM01SbXViV3RXQllUaldseUhhQWVwT2s1WTAyN2VPWVVDeFF5NURWaHRkOWI0UnNfTzZBSnA5ZVAzRkVRSmJYZjU5Zlh2OUpUWHdPYk85T1M5RHNHMFVQcVVMdUJSSjFIbms5U19PamFBUlNWSEJpc1dYTXVVS01FaXZpY2pDN0ZiVVp2TDlvazdEV2szV2hlQ1k?oc=5",
         "tags": [
           "Ei",
@@ -212,10 +212,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-09-22T09:03:06+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 ad-hoc-news.de",
+        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2ZQMUhUeS16Uk9Pc0duaE5jaUoyLWV6X0pDOE13TnY0a2ZkNU1vanc0SVVxVTNXXzVRbDhIakEzRnBxb19DNU1pcnIwczdjaGt0U1JOODQ3ZDZNY3hMbmtxb2pQcE9xeEd2ekdUbldjZ3JfWWhYZjNwWWIzQ0p5S1ZvRVNKRWQwZl95TThpaFFmaEZraFpGMHI0ZzJXNl85QXdDSFFFc29qMk1XMURj?oc=5",
         "tags": [
           "Bosch",
@@ -256,10 +256,10 @@
     ],
     "doors": [
       {
-        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-09-17T14:14:23+00:00",
-        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
+        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
         "tags": [
           "Apollo"
@@ -276,23 +276,13 @@
         ]
       },
       {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
-        "source": "Manager Magazin",
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - manager-magazin.de",
+        "source": "manager-magazin.de",
         "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s manager-magazin.de",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
-        "source": "InvestmentWeek",
-        "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
-        "tags": [
-          "InvestmentWeek"
         ]
       },
       {
@@ -306,13 +296,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
-        "source": "t3n.de",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n.de"
+          "t3n"
         ]
       },
       {
@@ -336,10 +326,10 @@
         ]
       },
       {
-        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - koha.net",
-        "source": "koha.net",
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
+        "source": "KOHA.net",
         "publishedAt": "2026-07-22T07:00:00+00:00",
-        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. koha.net",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
         "tags": [
           "Apollo"
@@ -356,10 +346,10 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - businessinsider.de",
-        "source": "businessinsider.de",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam businessinsider.de",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
@@ -373,6 +363,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
           "handelsblatt.com"
+        ]
+      },
+      {
+        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
+        "source": "Logistik Online",
+        "publishedAt": "2026-05-08T07:00:00+00:00",
+        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
+        "tags": [
+          "Apollo"
         ]
       }
     ],
@@ -408,13 +408,13 @@
         ]
       },
       {
-        "title": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-09-10T07:00:00+00:00",
-        "summary": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz ad-hoc-news.de",
+        "summary": "Objektsicherung: Neue Standards für Technik, Brandschutz und Einbruchschutz AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDNJVlRrTDZkY1hENFBnSG9VTWN3b2JrTXRzNkYyRkk2b3E3a3FWeE11Y2pBblpfems5dFZCd19zdlMtSnlRY2VUMFBiWklvVUFYbF9Fc1BEcnpVcVJEZlBqcW1yWkRoSkZIZ1MwRDByTXlDMWFNYlA1Y3lieTBfblpoRTdDSE51elJKUWp2RkxPYTZZWDNWbk93OE9uRjg3WFpWYlQ3a2szZw?oc=5",
         "tags": [
-          "ad-hoc-news.de"
+          "AD HOC NEWS"
         ]
       },
       {
@@ -428,10 +428,10 @@
         ]
       },
       {
-        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme ad-hoc-news.de",
+        "summary": "AGV-Sicherheit: Neue Normen und Brandschutz für Ladesysteme AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
         "tags": [
           "Normen"
@@ -488,13 +488,13 @@
         ]
       },
       {
-        "title": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen - businessinsider.de",
-        "source": "businessinsider.de",
+        "title": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
         "publishedAt": "2026-08-07T07:00:00+00:00",
-        "summary": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen businessinsider.de",
+        "summary": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGxRMVRGV3dwT2Y3YXQ3Qmh4Z19BYmVFdmpvb2VQN3hyZlVaQ09lUnd4SkRxMU1PZ2doUDM0d1VNNEcyMVJnVG5WazlNWmkzMDMtODUxeV91YWlxNjJoSnQ3WEY4UVV0d2lmclg1d2ViV0kycUtjYmg3Q2tjVkZVOEdleVlDbUpzV0pYQTNreDBBZHZuUVIwa192LTl6R3o3LUY2YzFaX0VHamxCTktlcDZXY0w?oc=5",
         "tags": [
-          "businessinsider.de"
+          "Business Insider Deutschland"
         ]
       }
     ]
