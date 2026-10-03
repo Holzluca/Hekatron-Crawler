@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T03:20:46.178140+00:00",
+  "generatedAt": "2026-10-03T09:19:31.053541+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -181,7 +181,7 @@
       {
         "title": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel - CHIP",
         "source": "CHIP",
-        "publishedAt": "2026-09-25T08:30:00+00:00",
+        "publishedAt": "2026-09-25T07:00:00+00:00",
         "summary": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel CHIP",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMWJSb2RXYzNzZEdaV3U3VW9Ic3lraDhGRFNkUHVJdGI4eHNhYnJxZnNKVHdaVEtNTXR1Q3EyWTJfbmo1Y2VFaVU5ZDV1Q3NOQUVwZkRhMU10RnZYaHNBUTgyTmRoUVZieWhnVnNxUEwyYXlIM1lxVUpuOTI1U2pGLUt1ZTNkcWRaaUV1bGNnTlpvTE5TTHR3TGFoNXZubVJnekNEUENVaWVLeGRxZHJ3Wk5wVEFYdmhvOWo2bm1TejdGRFNYT3A3ckdERW1LSVZSNlNkcmphTE5hcEJMZjBibk90c2VsUXhKMUZQRkt0cXBXdDJjTzBROFVtOE00VWRDQWY0bA?oc=5",
         "tags": [
@@ -194,17 +194,6 @@
         "publishedAt": "2026-09-24T10:09:22+00:00",
         "summary": "Bosch Built-in Robot Vacuum & Mopp | Ein unsichtbarer Saugroboter SmarthomeAssistent",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDhpbkVLaTFsU2U2T1pZUERhNjctaHdvazQ5WThEQVhfUjN5NUVqOUdXMW9oQmJTSmhaWHdPay1SM3FXSkdhOE80VDAzRnhyM3R2RDBXSENoT1JGeUpFTm5TUjU1OWhSZExmS2YzbHQtWFg1TEx0aG4xR2xTN1JiZlMxZ2pSdw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-09-23T12:37:04+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Bosch und TP-Link vorn IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGI4Z01kM01SbXViV3RXQllUaldseUhhQWVwT2s1WTAyN2VPWVVDeFF5NURWaHRkOWI0UnNfTzZBSnA5ZVAzRkVRSmJYZjU5Zlh2OUpUWHdPYk85T1M5RHNHMFVQcVVMdUJSSjFIbms5U19PamFBUlNWSEJpc1dYTXVVS01FaXZpY2pDN0ZiVVp2TDlvazdEV2szV2hlQ1k?oc=5",
         "tags": [
           "Ei",
           "Bosch"
@@ -251,6 +240,16 @@
           "Ei",
           "Bosch"
         ]
+      },
+      {
+        "title": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-09-12T07:00:00+00:00",
+        "summary": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DVTF6MmVtQ29rVkZ6LXhxczFTb2ZOZWRXR3JuYlNjallhQ2MtQldtcWh2Mnk1a2dWa1lscThHZUI4Y0UwRmlnNUJHOEJ5WFByS3JmMXhQMFR4SXdJRnQ2U0JuUWFDV2hzaEttbjNOVi1lWm1zRzhBRWhacFdhYVU?oc=5",
+        "tags": [
+          "Ei"
+        ]
       }
     ],
     "doors": [
@@ -275,10 +274,10 @@
         ]
       },
       {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - manager-magazin.de",
-        "source": "manager-magazin.de",
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
         "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s manager-magazin.de",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
           "Apollo"
@@ -315,13 +314,13 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
-        "source": "t3n",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
+        "source": "t3n.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n"
+          "t3n.de"
         ]
       },
       {
@@ -335,16 +334,6 @@
         ]
       },
       {
-        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - de.tradingview.com",
-        "source": "de.tradingview.com",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau de.tradingview.com",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
-        "tags": [
-          "de.tradingview.com"
-        ]
-      },
-      {
         "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
         "source": "Börsen-Zeitung",
         "publishedAt": "2026-07-27T07:00:00+00:00",
@@ -352,6 +341,16 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
           "Börsen-Zeitung"
+        ]
+      },
+      {
+        "title": "EQS-News: Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - boerse.de - boerse.de",
+        "source": "boerse.de",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "EQS-News: Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - boerse.de boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckxHS3JRMVlXRkdRNnBOc1FVb1RYZHpSNkdKTGVwVVg4RF9DS0Z2eGxDeG1YeHZESjJkY2hVWksxUXltcEdfZ0w5a0pVQlg0TlZFbTZ5U2gwLXRjM2s3d1ByVDdNUXVETVVrenB4M2tfM2FiZFI0Q0JROXBjNFFjTFNfZ1JPN2d3R3B2NGFQNHhlSnU3eWE3Xy1HWDA0c1k4LW9PYjBELWNGVVZxSklpSVYtS1FvZDNNbG9Ud2FYUW5aYW5aT3U3S0QtSW02OE5wN2JCNUZmVmhDbnc1QzJLZ0tMWjZaXzRtdnZ1NFY2RGzSAfYBQVVfeXFMUFo2VnF1elVfNm9IZVE1QlBvRG9iYzBxdHotWTZ1aGxNWk5naENlYkZmeEtGRWpuNEZndFhQa2Q1dzdCTU5vSGRyVm1RZTlEXzIzVVV0d2tKazRtb2hiOEkyX2VCcWJPdEQ2RzhCeWJEVnd4MWxwVzJMeGVIUEUyMUFOQWdCMmNEM3lhUjk2UVE0VHNkRFBsU0hpNk9QUUcyYVJJdUt1cUpydWZiTHlVcWZNTEtYNzRfUm83VVlmaXAyVWZGZWx2T3drblNfQ2thRDdtRkZwZEY3Wm5HOVVGNS00OUpoNjFKaWNaT0YwZnFmMFhITGFn?oc=5",
+        "tags": [
+          "boerse.de"
         ]
       },
       {
@@ -377,26 +376,6 @@
     ],
     "trends": [
       {
-        "title": "Gebäude mit Köpfchen - Handwerk und Bau",
-        "source": "Handwerk und Bau",
-        "publishedAt": "2026-09-28T13:04:41+00:00",
-        "summary": "Gebäude mit Köpfchen Handwerk und Bau",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSFNoRXJrYjluY2tHMFo1RGY0WE5BM1JtZElaNGRoYTVQb0QzM0JHV29yTzhYTEk4Zi0yekRlQm5HVGZxb0o1Mndienc3bFlLX3hxbG1rU25jUXhWUnVQenVZTzdxS0hZTVFNdlhQcUw?oc=5",
-        "tags": [
-          "Handwerk und Bau"
-        ]
-      },
-      {
-        "title": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-09-16T02:49:08+00:00",
-        "summary": "GEZE: Vernetzte Gebäudetechnik in historischer Bausubstanz Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TdWRnd3BIejcydVc0dHZTYWlZWHNIZ1psQm5yUWN3Ti1CY1BoNWxwUFU2ZnZfVXlyV2dXaGpMb3BkTXpiM2Y2X2VKb21KMG9EV2Y0cWVhcjcwQ3B1?oc=5",
-        "tags": [
-          "Baulinks"
-        ]
-      },
-      {
         "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
         "source": "Gießener Allgemeine",
         "publishedAt": "2026-09-13T07:00:00+00:00",
@@ -417,10 +396,10 @@
         ]
       },
       {
-        "title": "Gebäude KI im großen Maßstab: Ein Gespräch mit Dylan Patel von SemiAnalysis und Supermicro CBO Vik Malayala - Supermicro",
-        "source": "Supermicro",
+        "title": "Gebäude KI im großen Maßstab: Ein Gespräch mit Dylan Patel von SemiAnalysis und Supermicro CBO Vik Malayala - supermicro.com",
+        "source": "supermicro.com",
         "publishedAt": "2026-09-01T23:48:43+00:00",
-        "summary": "Gebäude KI im großen Maßstab: Ein Gespräch mit Dylan Patel von SemiAnalysis und Supermicro CBO Vik Malayala Supermicro",
+        "summary": "Gebäude KI im großen Maßstab: Ein Gespräch mit Dylan Patel von SemiAnalysis und Supermicro CBO Vik Malayala supermicro.com",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vWkRreEhYeFNpcXZpT1Q5Z3R5VUNYU1BlQlFtbE01UnJiMGZHOVU4LWFpenZEQWFMNVZPdUtqLXdIZ1RrRDhldUt6WG1ZM190cmdJakpZSGlQRkJPcm1FQjNYS2hoSmZJOHNYRWhaSmpXWXNFZXc?oc=5",
         "tags": [
           "KI"
@@ -494,6 +473,26 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG9lN2ZON3ZzcUdwby1uR25zLXdBSGpOUnhvbnp3aWRrY1VQeWFmdURSdFRpWFdZNkJ3TVVTRzI2UDNYeGFSbC1JcG84VlgxUEVVWUhPMTV5MGsxTzRTbktEMlpBekFWQ2xSWC11S2d0WURsbVRkRWc5d2RxejlzVHRVdUROSFRSSkYxUmFZcDZjVWMzRU9uNVNkcVlvVXlxaGpFSlBqb3M0RnpVbC04NlB2cUVQSmV1RXVxd01PZw?oc=5",
         "tags": [
           "Berliner Morgenpost"
+        ]
+      },
+      {
+        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
+        "source": "BILD",
+        "publishedAt": "2026-08-11T07:00:00+00:00",
+        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-08-07T07:00:00+00:00",
+        "summary": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGxRMVRGV3dwT2Y3YXQ3Qmh4Z19BYmVFdmpvb2VQN3hyZlVaQ09lUnd4SkRxMU1PZ2doUDM0d1VNNEcyMVJnVG5WazlNWmkzMDMtODUxeV91YWlxNjJoSnQ3WEY4UVV0d2lmclg1d2ViV0kycUtjYmg3Q2tjVkZVOEdleVlDbUpzV0pYQTNreDBBZHZuUVIwa192LTl6R3o3LUY2YzFaX0VHamxCTktlcDZXY0w?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
         ]
       }
     ]
