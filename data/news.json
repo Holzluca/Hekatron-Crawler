@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-10-03T14:21:58.455395+00:00",
+  "generatedAt": "2026-10-03T18:04:56.064686+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
       {
         "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
@@ -112,16 +122,6 @@
         "tags": [
           "Bosch"
         ]
-      },
-      {
-        "title": "Nova-Brandmelder ermöglichen Ferndiagnosen - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-04-10T07:00:00+00:00",
-        "summary": "Nova-Brandmelder ermöglichen Ferndiagnosen elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmRUNllLN041WnY4cjAtTWRjQjFhMDdEb3ozZjhaVDkycllyZmQwWlNRT2FhMmY3YV9aR0hIaTVramt0V042RnppaldjaWJuelJkekZYcW1RSXFhalVtNGw5RUZSNjlEdmQ3NjFfeHQ0VWpxYWJUWmgyX2F4NGkydg?oc=5",
-        "tags": [
-          "elektro.net"
-        ]
       }
     ],
     "pfs": [
@@ -135,6 +135,16 @@
           "Ei",
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
         ]
       },
       {
@@ -169,13 +179,13 @@
         ]
       },
       {
-        "title": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel - chip.de",
-        "source": "chip.de",
+        "title": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel - CHIP",
+        "source": "CHIP",
         "publishedAt": "2026-09-25T07:00:00+00:00",
-        "summary": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel chip.de",
+        "summary": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel CHIP",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMWJSb2RXYzNzZEdaV3U3VW9Ic3lraDhGRFNkUHVJdGI4eHNhYnJxZnNKVHdaVEtNTXR1Q3EyWTJfbmo1Y2VFaVU5ZDV1Q3NOQUVwZkRhMU10RnZYaHNBUTgyTmRoUVZieWhnVnNxUEwyYXlIM1lxVUpuOTI1U2pGLUt1ZTNkcWRaaUV1bGNnTlpvTE5TTHR3TGFoNXZubVJnekNEUENVaWVLeGRxZHJ3Wk5wVEFYdmhvOWo2bm1TejdGRFNYT3A3ckdERW1LSVZSNlNkcmphTE5hcEJMZjBibk90c2VsUXhKMUZQRkt0cXBXdDJjTzBROFVtOE00VWRDQWY0bA?oc=5",
         "tags": [
-          "chip.de"
+          "CHIP"
         ]
       },
       {
@@ -242,16 +252,6 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-09-12T07:00:00+00:00",
-        "summary": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DVTF6MmVtQ29rVkZ6LXhxczFTb2ZOZWRXR3JuYlNjallhQ2MtQldtcWh2Mnk1a2dWa1lscThHZUI4Y0UwRmlnNUJHOEJ5WFByS3JmMXhQMFR4SXdJRnQ2U0JuUWFDV2hzaEttbjNOVi1lWm1zRzhBRWhacFdhYVU?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
@@ -266,13 +266,13 @@
         ]
       },
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - spiegel.de",
-        "source": "spiegel.de",
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
         "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis spiegel.de",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
-          "spiegel.de"
+          "Spiegel"
         ]
       },
       {
@@ -326,13 +326,23 @@
         ]
       },
       {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - dasinvestment.com",
-        "source": "dasinvestment.com",
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
+        "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger dasinvestment.com",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
-          "dasinvestment.com"
+          "das investment"
+        ]
+      },
+      {
+        "title": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - TradingView",
+        "source": "TradingView",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVWJ2RHJ6R09MN2Fva09EMnItUWl5d1l0ekdnLXdNcGE4bllfX1I5SDVoSG5EVGJWMlltYmZrR0RHN1ZFNmp2ZmRORk9YQ1hTS3NIdUVPeUx2VHpDNFF4UHNR?oc=5",
+        "tags": [
+          "TradingView"
         ]
       },
       {
@@ -346,16 +356,6 @@
         ]
       },
       {
-        "title": "EQS-News: Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - boerse.de - boerse.de",
-        "source": "boerse.de",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "EQS-News: Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - boerse.de boerse.de",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckxHS3JRMVlXRkdRNnBOc1FVb1RYZHpSNkdKTGVwVVg4RF9DS0Z2eGxDeG1YeHZESjJkY2hVWksxUXltcEdfZ0w5a0pVQlg0TlZFbTZ5U2gwLXRjM2s3d1ByVDdNUXVETVVrenB4M2tfM2FiZFI0Q0JROXBjNFFjTFNfZ1JPN2d3R3B2NGFQNHhlSnU3eWE3Xy1HWDA0c1k4LW9PYjBELWNGVVZxSklpSVYtS1FvZDNNbG9Ud2FYUW5aYW5aT3U3S0QtSW02OE5wN2JCNUZmVmhDbnc1QzJLZ0tMWjZaXzRtdnZ1NFY2RGzSAfYBQVVfeXFMUFo2VnF1elVfNm9IZVE1QlBvRG9iYzBxdHotWTZ1aGxNWk5naENlYkZmeEtGRWpuNEZndFhQa2Q1dzdCTU5vSGRyVm1RZTlEXzIzVVV0d2tKazRtb2hiOEkyX2VCcWJPdEQ2RzhCeWJEVnd4MWxwVzJMeGVIUEUyMUFOQWdCMmNEM3lhUjk2UVE0VHNkRFBsU0hpNk9QUUcyYVJJdUt1cUpydWZiTHlVcWZNTEtYNzRfUm83VVlmaXAyVWZGZWx2T3drblNfQ2thRDdtRkZwZEY3Wm5HOVVGNS00OUpoNjFKaWNaT0YwZnFmMFhITGFn?oc=5",
-        "tags": [
-          "boerse.de"
-        ]
-      },
-      {
         "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
@@ -366,13 +366,13 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
-        "source": "handelsblatt.com",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "handelsblatt.com"
+          "Handelsblatt"
         ]
       }
     ],
@@ -388,6 +388,16 @@
         ]
       },
       {
+        "title": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-09-25T10:40:25+00:00",
+        "summary": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
         "source": "Gießener Allgemeine",
         "publishedAt": "2026-09-13T07:00:00+00:00",
@@ -398,10 +408,10 @@
         ]
       },
       {
-        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
-        "source": "Wochenblatt Reporter",
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - wochenblatt-reporter.de",
+        "source": "wochenblatt-reporter.de",
         "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft wochenblatt-reporter.de",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
         "tags": [
           "KI"
@@ -478,23 +488,13 @@
         ]
       },
       {
-        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - datacenter-insider.de",
-        "source": "datacenter-insider.de",
+        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - DataCenter-Insider",
+        "source": "DataCenter-Insider",
         "publishedAt": "2026-08-14T07:00:00+00:00",
-        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ datacenter-insider.de",
+        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ DataCenter-Insider",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
         "tags": [
-          "datacenter-insider.de"
-        ]
-      },
-      {
-        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - bild.de",
-        "source": "bild.de",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht bild.de",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
+          "DataCenter-Insider"
         ]
       }
     ]
