@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T09:19:31.053541+00:00",
+  "generatedAt": "2026-10-03T14:21:58.455395+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,10 +34,10 @@
         ]
       },
       {
-        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
-        "source": "ingenieur.de",
+        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - Ingenieur.de",
+        "source": "Ingenieur.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
+        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel Ingenieur.de",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
@@ -138,16 +138,6 @@
         ]
       },
       {
-        "title": "Apple will das Smart Home erobern: Der 13. Oktober 2026 wird zum Stichtag - HIFI.DE",
-        "source": "HIFI.DE",
-        "publishedAt": "2026-09-30T13:04:47+00:00",
-        "summary": "Apple will das Smart Home erobern: Der 13. Oktober 2026 wird zum Stichtag HIFI.DE",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOekVJTlkweU9qLWpyWUFwZ0Z3blgwa3AzWG9WQXAwZDZWQkNTV2JTWWNMT1NnYjhaUjE3NVNpZFpsR1A5RHhqbWwzTU8zYURYbFBiV0N5cDhXRTRsdTJZbGphRXpIQnJvUy0tbVNLZjBMM0tUZTBsdGt0ZkFiaC1XYWc0M3QwVHV2SlZ6eUhzc1FkTDF6N1J0VFZ1SzdKZWRM?oc=5",
-        "tags": [
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Heizkosten sparen: Die besten smarten Thermostate im Test - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-09-29T09:02:24+00:00",
@@ -179,13 +169,13 @@
         ]
       },
       {
-        "title": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel - CHIP",
-        "source": "CHIP",
+        "title": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel - chip.de",
+        "source": "chip.de",
         "publishedAt": "2026-09-25T07:00:00+00:00",
-        "summary": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel CHIP",
+        "summary": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel chip.de",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMWJSb2RXYzNzZEdaV3U3VW9Ic3lraDhGRFNkUHVJdGI4eHNhYnJxZnNKVHdaVEtNTXR1Q3EyWTJfbmo1Y2VFaVU5ZDV1Q3NOQUVwZkRhMU10RnZYaHNBUTgyTmRoUVZieWhnVnNxUEwyYXlIM1lxVUpuOTI1U2pGLUt1ZTNkcWRaaUV1bGNnTlpvTE5TTHR3TGFoNXZubVJnekNEUENVaWVLeGRxZHJ3Wk5wVEFYdmhvOWo2bm1TejdGRFNYT3A3ckdERW1LSVZSNlNkcmphTE5hcEJMZjBibk90c2VsUXhKMUZQRkt0cXBXdDJjTzBROFVtOE00VWRDQWY0bA?oc=5",
         "tags": [
-          "CHIP"
+          "chip.de"
         ]
       },
       {
@@ -242,6 +232,18 @@
         ]
       },
       {
+        "title": "Amazon: Bosch Smart Home Heizkörper-Thermostat II [+M] - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-12T12:02:01+00:00",
+        "summary": "Amazon: Bosch Smart Home Heizkörper-Thermostat II [+M] n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWklIZWhDb1FKSEdDUGMxa3E1bkR1WGNXb0JwYkw3WWxsWmdkTGlickcyRFpWWm9OYmFMU2R3c1RzamZBb2VmNVNoZWpoV3dsM3kwUTkzdGJzb3VQTTBDWGtMMmRoZkdPR0ZrM1lKSUxsM09mbUROWWIyMXZPUmx6M1V5YlczUl9ick1OeGRMVlotSUU?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Tink-Gutscheine: Bis zu 25 Prozent Rabatt auf Smart-Home-Produkte - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-09-12T07:00:00+00:00",
@@ -264,13 +266,13 @@
         ]
       },
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
-        "source": "Spiegel",
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - spiegel.de",
+        "source": "spiegel.de",
         "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis spiegel.de",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
-          "Spiegel"
+          "spiegel.de"
         ]
       },
       {
@@ -314,23 +316,23 @@
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n.de",
-        "source": "t3n.de",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n.de",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "t3n.de"
+          "t3n"
         ]
       },
       {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
-        "source": "das investment",
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - dasinvestment.com",
+        "source": "dasinvestment.com",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger dasinvestment.com",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
-          "das investment"
+          "dasinvestment.com"
         ]
       },
       {
@@ -364,17 +366,27 @@
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - handelsblatt.com",
+        "source": "handelsblatt.com",
         "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro handelsblatt.com",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "Handelsblatt"
+          "handelsblatt.com"
         ]
       }
     ],
     "trends": [
+      {
+        "title": "Gebäude mit Köpfchen - Handwerk und Bau",
+        "source": "Handwerk und Bau",
+        "publishedAt": "2026-09-28T13:04:41+00:00",
+        "summary": "Gebäude mit Köpfchen Handwerk und Bau",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSFNoRXJrYjluY2tHMFo1RGY0WE5BM1JtZElaNGRoYTVQb0QzM0JHV29yTzhYTEk4Zi0yekRlQm5HVGZxb0o1Mndienc3bFlLX3hxbG1rU25jUXhWUnVQenVZTzdxS0hZTVFNdlhQcUw?oc=5",
+        "tags": [
+          "Handwerk und Bau"
+        ]
+      },
       {
         "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
         "source": "Gießener Allgemeine",
@@ -396,10 +408,10 @@
         ]
       },
       {
-        "title": "Gebäude KI im großen Maßstab: Ein Gespräch mit Dylan Patel von SemiAnalysis und Supermicro CBO Vik Malayala - supermicro.com",
-        "source": "supermicro.com",
+        "title": "Gebäude KI im großen Maßstab: Ein Gespräch mit Dylan Patel von SemiAnalysis und Supermicro CBO Vik Malayala - Supermicro",
+        "source": "Supermicro",
         "publishedAt": "2026-09-01T23:48:43+00:00",
-        "summary": "Gebäude KI im großen Maßstab: Ein Gespräch mit Dylan Patel von SemiAnalysis und Supermicro CBO Vik Malayala supermicro.com",
+        "summary": "Gebäude KI im großen Maßstab: Ein Gespräch mit Dylan Patel von SemiAnalysis und Supermicro CBO Vik Malayala Supermicro",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vWkRreEhYeFNpcXZpT1Q5Z3R5VUNYU1BlQlFtbE01UnJiMGZHOVU4LWFpenZEQWFMNVZPdUtqLXdIZ1RrRDhldUt6WG1ZM190cmdJakpZSGlQRkJPcm1FQjNYS2hoSmZJOHNYRWhaSmpXWXNFZXc?oc=5",
         "tags": [
           "KI"
@@ -423,6 +435,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT3pUOWhFci1GSUV5emthMzNoOXVmMUs1NlB1SjhIYTg4SmZhTFI0ZzZfSFlpTUtPTkxTeXZOTEFvZFc1WEZCcVg4M0M1SVJ6QUUtV1FWWWw3QWxSQzBpeVdrMWlUUmcxN0diNFZ6OHBSdEdVdUxlUnBQeEtlTzVXb1VYMnliaTd2ZHltWEpZWnViczdJbTJpNzcyeW1FM2tUbk5OTjJESGZWUQ?oc=5",
         "tags": [
           "Normen"
+        ]
+      },
+      {
+        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
+        "source": "Fuldaer Zeitung",
+        "publishedAt": "2026-08-26T07:00:00+00:00",
+        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       },
       {
@@ -456,43 +478,23 @@
         ]
       },
       {
-        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - DataCenter-Insider",
-        "source": "DataCenter-Insider",
+        "title": "„Der Kunde braucht nicht einmal ein Gebäude“ - datacenter-insider.de",
+        "source": "datacenter-insider.de",
         "publishedAt": "2026-08-14T07:00:00+00:00",
-        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ DataCenter-Insider",
+        "summary": "„Der Kunde braucht nicht einmal ein Gebäude“ datacenter-insider.de",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUlFHaVg4am1RVTZkUmNKVmxHSHJhMkZHUHNKR3J5V09ycEJqbHpZMFpWbHFFc2QtbDNKOHVFdjFMTENOTXJUc1RZOGR5TWlKN29ZX1o5QlRjOHhublpEdUpqSG1rd2VCbWZBYkFhb1REQTdCeEh6dE9OTTRCenp6eDRkb0FkMnphelZHWV90SW9KY3k5ckZRZTFxTkdZemQyTkxtMWJBVXRqTDFBazBmNGgxUQ?oc=5",
         "tags": [
-          "DataCenter-Insider"
+          "datacenter-insider.de"
         ]
       },
       {
-        "title": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat - Berliner Morgenpost",
-        "source": "Berliner Morgenpost",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Elon Musk plant „größtes Gebäude der Welt“ – was er damit vorhat Berliner Morgenpost",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG9lN2ZON3ZzcUdwby1uR25zLXdBSGpOUnhvbnp3aWRrY1VQeWFmdURSdFRpWFdZNkJ3TVVTRzI2UDNYeGFSbC1JcG84VlgxUEVVWUhPMTV5MGsxTzRTbktEMlpBekFWQ2xSWC11S2d0WURsbVRkRWc5d2RxejlzVHRVdUROSFRSSkYxUmFZcDZjVWMzRU9uNVNkcVlvVXlxaGpFSlBqb3M0RnpVbC04NlB2cUVQSmV1RXVxd01PZw?oc=5",
-        "tags": [
-          "Berliner Morgenpost"
-        ]
-      },
-      {
-        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - BILD",
-        "source": "BILD",
+        "title": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht - bild.de",
+        "source": "bild.de",
         "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht BILD",
+        "summary": "Mega-Projekt Rotterdam Rocks - Nachhaltigkeit in Felsform gedacht bild.de",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGdibkNMYVF6cndjcTdCNG1WSFpnYXgzTDEtbmVvOFB2VEZWV0RYZUxTWmZfQmtBSFQ1eTBUQl9HYWNZbDliazZ2TWlyWldaQkhQYzFUZlFvQ21BeEdDNl9WcEI1eVI3RVpURTBiYWFTRWZ1T2NmSGlkRndoZHRtWlBSZTNoMkFnUlFYNXB5SE1vd1R2R2U2OXZlNEhrSkgwUWxJekc0NEpLbklIMjRhSmpRRGpINnlVaERyeWZIME1xeW9jckpV?oc=5",
         "tags": [
           "Nachhaltigkeit"
-        ]
-      },
-      {
-        "title": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-08-07T07:00:00+00:00",
-        "summary": "„Wertvollste Gebäude der Erde“: SpaceX will Mega-Chipfabrik Terafab in Texas bauen – so soll sie aussehen Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGxRMVRGV3dwT2Y3YXQ3Qmh4Z19BYmVFdmpvb2VQN3hyZlVaQ09lUnd4SkRxMU1PZ2doUDM0d1VNNEcyMVJnVG5WazlNWmkzMDMtODUxeV91YWlxNjJoSnQ3WEY4UVV0d2lmclg1d2ViV0kycUtjYmg3Q2tjVkZVOEdleVlDbUpzV0pYQTNreDBBZHZuUVIwa192LTl6R3o3LUY2YzFaX0VHamxCTktlcDZXY0w?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
         ]
       }
     ]
