@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:04:55.380039+00:00",
+  "generatedAt": "2026-10-06T14:19:07.562905+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -44,10 +44,10 @@
         ]
       },
       {
-        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
-        "source": "ingenieur.de",
+        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - Ingenieur.de",
+        "source": "Ingenieur.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
+        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel Ingenieur.de",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
@@ -126,6 +126,36 @@
     ],
     "pfs": [
       {
+        "title": "Energiespartage: Smart-Home-Angebote von Bosch und tado - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-10-06T14:00:00+00:00",
+        "summary": "Energiespartage: Smart-Home-Angebote von Bosch und tado Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBaHJVVWJUUFZhSU8taThYNHpVTGRUSGdJSUQ5c1A0Y1JoMjYxbExzTm5TcjdrZklTSnlTMWs1TXpHUERRT2o5N3ZZbHF6ZDIzeDdoUnRfUmxmSnV6N25kTWJ2Y0pFSWNFLXJ2YVl5ZXlpS2Fm?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Rauch, CO und Wasser: X-Sense reduziert Schutzmelder zum Prime Day - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-10-06T12:37:00+00:00",
+        "summary": "Rauch, CO und Wasser: X-Sense reduziert Schutzmelder zum Prime Day CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQkU5VVg4SEI4WTdHNF8tTzJHeUJIbnEwQUN6NGpQb0hSbi1rYjBPTHdHMENOWHFaQTBwSjB0X2VqSHJfTnNnaWFJeVd6QXBvX3VLdFZINEtVS0NYM3F6blJfOFpzV2psM1hDZkMyOEUyOV8yZEo2LTlvOHlNYllVOENrRDAxM0ZybEJYV0JfbmdWYjY0MjdGT00yZTRFRFV1MFV4ZnRwRjRTUVpiOVVuR0Q1T3h4Qm9ZbFVIaGhYbjNpeFZTaXFYNFFPd0hDbWI1NVNqX3Q1dElYTUxXWVE?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "X-Sense reduziert Rauchmelder und Sensoren um bis zu 46 Prozent - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-10-06T09:47:47+00:00",
+        "summary": "X-Sense reduziert Rauchmelder und Sensoren um bis zu 46 Prozent mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2duQW9nLW4yN095ZTA1VWYza0dUS0JTSnprRHI4LTlkMl9kM21vNEdiUDBrb3c3bXNnWm9GRmJoZVBiaElBZG5tSk1EWEZMek1iYkh0c0Fpa1VpZHRSVUVoc2w2M2M3Z3RpTWlEN2FobUphck9ENjFZN3JXU1pHckw2Z3RBWmhBbEgzMTZ0XzVwQdIBlwFBVV95cUxQa2pVSktEeE1jWTJKMHUxeW1uOXJFY0VVcU91Y0xORXZGRkQ4bTlzaWwtNTY3NkhUV0tVeldrYklMbXotRlVhVklLdEVuSWFZVzUzbFZEYU5IVUtTazRNekh1T2VMeTFlZUtibU5MSk0xbE1YMURGWUtaM1Rha1hoQzF2QTVTN1h5N2pqQmFNalRGREpxMk84?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Die Heizsaison beginnt mit den Prime Deal Days | Smarte Thermostate im Preischeck - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-10-05T23:27:46+00:00",
@@ -156,10 +186,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-10-04T09:42:56+00:00",
-        "summary": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau ad-hoc-news.de",
+        "summary": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHhDUlQweXEtSDhPUzRzQUdNOS1jZlNuQ1k2anNtZktYcF84SjcxcENUbUpsc2cxWDV4bzNLT2NvQWRtQUIxVFF0TkJ6cWtjNkppSDFjVklURy0xLW9DblRHNlh6R295TFpUM3F5OUNER1FaMVhobGVNV2tDRDhVMHRER0JZMWR0MDlQdGV5alVqQlk3bVFBWlZUazdhMHlzcUNtTHBIZlcyNEhWZjdHaTZXUQ?oc=5",
         "tags": [
           "Ei",
@@ -168,10 +198,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Starter-Set Heizung II - 0,5 Grad genau - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Bosch Smart Home Starter-Set Heizung II - 0,5 Grad genau - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-10-02T15:48:29+00:00",
-        "summary": "Bosch Smart Home Starter-Set Heizung II - 0,5 Grad genau ad-hoc-news.de",
+        "summary": "Bosch Smart Home Starter-Set Heizung II - 0,5 Grad genau AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlozUC1OYnZsY1hEOWtRVXdOU2JrN092YTN2WUR6c1ZRSllVSmdDWWdjdnVmbjgzeVBVZjRuV004Tkk0OGl4Q0o3WGpxRkd1d19CSDhlNTFNV3JCU21kZVNBLTFQNEFjVVIyR2xPc2ZPN3VtZ1YwcW9DNUkyOXpHU2hkOW1RWG9IeU01Qm8xQXZ3d2VwTUFTNzU1TG5IU3h4UEJKN1dYamNQY0I0N3Iw?oc=5",
         "tags": [
           "Ei",
@@ -190,10 +220,10 @@
         ]
       },
       {
-        "title": "Heizkosten sparen: Die besten smarten Thermostate im Test - IMTEST",
+        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
         "source": "IMTEST",
-        "publishedAt": "2026-09-29T09:02:24+00:00",
-        "summary": "Heizkosten sparen: Die besten smarten Thermostate im Test IMTEST",
+        "publishedAt": "2026-09-29T09:03:38+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldaeFlWcWU5MHN3Nk5Nc280UWtiYTQzOU1IVHRRRnQta21JN0VXY3NSbmZLQ1c4VV8xTUd3OHo4TzBGVlJaTFkzdWRuRzB2ajRTcjh3V3k0YTkzM2R1NUI4ZzVWZWd2RGxkbWlHRWEyLUFmaWQyYUVZMGJaOWNuQ2NGNA?oc=5",
         "tags": [
           "Ei"
@@ -219,46 +249,14 @@
           "Ei",
           "Bosch"
         ]
-      },
-      {
-        "title": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-09-25T07:00:00+00:00",
-        "summary": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel CHIP",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMWJSb2RXYzNzZEdaV3U3VW9Ic3lraDhGRFNkUHVJdGI4eHNhYnJxZnNKVHdaVEtNTXR1Q3EyWTJfbmo1Y2VFaVU5ZDV1Q3NOQUVwZkRhMU10RnZYaHNBUTgyTmRoUVZieWhnVnNxUEwyYXlIM1lxVUpuOTI1U2pGLUt1ZTNkcWRaaUV1bGNnTlpvTE5TTHR3TGFoNXZubVJnekNEUENVaWVLeGRxZHJ3Wk5wVEFYdmhvOWo2bm1TejdGRFNYT3A3ckdERW1LSVZSNlNkcmphTE5hcEJMZjBibk90c2VsUXhKMUZQRkt0cXBXdDJjTzBROFVtOE00VWRDQWY0bA?oc=5",
-        "tags": [
-          "CHIP"
-        ]
-      },
-      {
-        "title": "Bosch Built-in Robot Vacuum & Mopp | Ein unsichtbarer Saugroboter - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-09-24T10:09:22+00:00",
-        "summary": "Bosch Built-in Robot Vacuum & Mopp | Ein unsichtbarer Saugroboter SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDhpbkVLaTFsU2U2T1pZUERhNjctaHdvazQ5WThEQVhfUjN5NUVqOUdXMW9oQmJTSmhaWHdPay1SM3FXSkdhOE80VDAzRnhyM3R2RDBXSENoT1JGeUpFTm5TUjU1OWhSZExmS2YzbHQtWFg1TEx0aG4xR2xTN1JiZlMxZ2pSdw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-09-22T09:03:06+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2ZQMUhUeS16Uk9Pc0duaE5jaUoyLWV6X0pDOE13TnY0a2ZkNU1vanc0SVVxVTNXXzVRbDhIakEzRnBxb19DNU1pcnIwczdjaGt0U1JOODQ3ZDZNY3hMbmtxb2pQcE9xeEd2ekdUbldjZ3JfWWhYZjNwWWIzQ0p5S1ZvRVNKRWQwZl95TThpaFFmaEZraFpGMHI0ZzJXNl85QXdDSFFFc29qMk1XMURj?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-09-17T14:14:23+00:00",
-        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
+        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
         "tags": [
           "Apollo"
@@ -275,13 +273,13 @@
         ]
       },
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
-        "source": "Spiegel",
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - spiegel.de",
+        "source": "spiegel.de",
         "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis spiegel.de",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
-          "Spiegel"
+          "spiegel.de"
         ]
       },
       {
@@ -345,13 +343,13 @@
         ]
       },
       {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - dasinvestment.com",
-        "source": "dasinvestment.com",
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
+        "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger dasinvestment.com",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
-          "dasinvestment.com"
+          "das investment"
         ]
       },
       {
@@ -377,6 +375,26 @@
     ],
     "trends": [
       {
+        "title": "﻿Gut geplant ist halb gelüftet - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-10-06T13:41:56+00:00",
+        "summary": "﻿Gut geplant ist halb gelüftet Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMU04Z2VZa0VaVW9teUh0X2labE9LUHlodGgzUDdGdGtZWE5pMHJIc193c1FLUjJmNDNTLWlESUc0UTNJbmp4TUdfclA4eHlaTXMzQ1pudHZYdEl5LVNEeVBQV2ZmaEpKQTdhbndNTU9FTW1ZTVUzY0lfRVBqcWx4c0ktTy1KTFFJbzA4T0ZWaW9CNm4xQzQ1RkYwRUktcTBwTUF5ZUdtZElvNTdlVnl4OFBtdjJGdw?oc=5",
+        "tags": [
+          "Gebäude-Energieberater"
+        ]
+      },
+      {
+        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
+        "source": "Investing.com Deutsch",
+        "publishedAt": "2026-10-06T12:38:00+00:00",
+        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
         "title": "synavision ai.lab: Digitale Services für Gebäude werden schneller und wirtschaftlicher - businessportal24",
         "source": "businessportal24",
         "publishedAt": "2026-10-05T09:52:56+00:00",
@@ -397,13 +415,13 @@
         ]
       },
       {
-        "title": "Gebäude mit Köpfchen - handwerkundbau.at",
-        "source": "handwerkundbau.at",
+        "title": "Gebäude mit Köpfchen - Handwerk und Bau",
+        "source": "Handwerk und Bau",
         "publishedAt": "2026-09-28T13:04:41+00:00",
-        "summary": "Gebäude mit Köpfchen handwerkundbau.at",
+        "summary": "Gebäude mit Köpfchen Handwerk und Bau",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSFNoRXJrYjluY2tHMFo1RGY0WE5BM1JtZElaNGRoYTVQb0QzM0JHV29yTzhYTEk4Zi0yekRlQm5HVGZxb0o1Mndienc3bFlLX3hxbG1rU25jUXhWUnVQenVZTzdxS0hZTVFNdlhQcUw?oc=5",
         "tags": [
-          "handwerkundbau.at"
+          "Handwerk und Bau"
         ]
       },
       {
@@ -427,10 +445,10 @@
         ]
       },
       {
-        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
-        "source": "Wochenblatt Reporter",
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - wochenblatt-reporter.de",
+        "source": "wochenblatt-reporter.de",
         "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft wochenblatt-reporter.de",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
         "tags": [
           "KI"
@@ -457,6 +475,16 @@
         ]
       },
       {
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - infopoint-security.de",
+        "source": "infopoint-security.de",
+        "publishedAt": "2026-08-21T07:00:00+00:00",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche infopoint-security.de",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
         "source": "tagesschau.de",
         "publishedAt": "2026-08-19T07:00:00+00:00",
@@ -464,36 +492,6 @@
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Bei Sicherheit die Nase vorn: MBS stellt die dritte Baureihe bewährter Gateways vor, MBS GmbH, Story - pressebox.de",
-        "source": "pressebox.de",
-        "publishedAt": "2026-08-18T07:00:00+00:00",
-        "summary": "Bei Sicherheit die Nase vorn: MBS stellt die dritte Baureihe bewährter Gateways vor, MBS GmbH, Story pressebox.de",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRXFUWV9PSTV1bndfQ0Jac2hiZk5hbEFzM2FkZDFEQ2sycHFUR2JBVDVRZ2NrT2JicjZXdWZBTDhpVUpzbVZoSHdVWlpVSTVOamxSQVZCaTE3QUFVU2taV204M2x4c0Vjem1scXdZSElLbzFCR01oTm1KdDFsQjQ1LWZBdkYyLVN5NkMydE1XTFVCSDltWjFIS0FpYW1Qb3B0RWstRzFKbU50NlJXbXlDb0IzVUd0Z1RlV3JZVXZCZ0s0VEJqZExnWkdwZmtiSUxNMFdDY05tMTAwa2R5WWZmNjFnaEVzVElGYjVr?oc=5",
-        "tags": [
-          "pressebox.de"
-        ]
-      },
-      {
-        "title": "Nachhaltigkeit richtig rechnen - handwerkundbau.at",
-        "source": "handwerkundbau.at",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "Nachhaltigkeit richtig rechnen handwerkundbau.at",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kdy1sVTZwa0pReXY5T0tBME5MM0N1UU5saDVBWFlkOGduU2h5ZWNPVHY5cHpGMXNzd3BsbGVTX1Z1QkVBZlJHNnJNQXlRZy1KTHlMcXdFVFNtNHdLRFdBa2dUWVlQOFlReDhvOXc4bFU0ZnZEcThB?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
         ]
       }
     ]
