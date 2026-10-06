@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T19:38:49.541084+00:00",
+  "generatedAt": "2026-10-06T23:29:57.395892+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -64,6 +64,16 @@
         ]
       },
       {
+        "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
+        "source": "buildingTIMES",
+        "publishedAt": "2026-07-01T07:00:00+00:00",
+        "summary": "Neue IoT-Brandmelder präsentiert buildingTIMES",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
+        "tags": [
+          "buildingTIMES"
+        ]
+      },
+      {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-04T07:00:00+00:00",
@@ -112,19 +122,19 @@
         "tags": [
           "Landkreis Diepholz"
         ]
-      },
-      {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Prime Deal Days: Smarte Thermostate bis zu 43 Prozent günstiger – Bosch Raumthermostat II für rund 65 Euro - HouseControllers",
+        "source": "HouseControllers",
+        "publishedAt": "2026-10-06T20:13:40+00:00",
+        "summary": "Prime Deal Days: Smarte Thermostate bis zu 43 Prozent günstiger – Bosch Raumthermostat II für rund 65 Euro HouseControllers",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRllLVGl1WnNuMU0zWmM1WlozYUNPZXVjOHhaM3BMM1pFTVloek1tZHVBaWRObUlYXzg1TzJZaUhidFBmeV9uT1I2aXdoTV9ZZGVxTUV3a3RvUWNQN1Q5QnVIakxUOHF2TmJVeTktZlFIVXQ5b0RNLTduRmFBNlQ2Y1F0QUQ3Y1FXM3c?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
       {
         "title": "Energiespartage: Smart-Home-Angebote von Bosch und tado - Teltarif",
         "source": "Teltarif",
@@ -238,17 +248,6 @@
         "tags": [
           "Rauchwarnmelder"
         ]
-      },
-      {
-        "title": "Bosch: Dieses neue Gerät soll dir helfen, Heizkosten zu sparen - futurezone.de",
-        "source": "futurezone.de",
-        "publishedAt": "2026-09-28T05:33:00+00:00",
-        "summary": "Bosch: Dieses neue Gerät soll dir helfen, Heizkosten zu sparen futurezone.de",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1ZELVFwQW9PRm1iM1NUNTFITjRYZGU4Q1ZuQ3NLV2VlUUhILTc3akVYa1QwemJjY09XRU9YcXZVMnU4SlhGdFo0eHRVSVZKSTAxU3F4SlhqYk9aUmIzR3NSQXFRZEo4TTZLRkhxRlRpR0RKZ3A0b1kzUTM0SzVBNDVQWGc0RjMwbDNhWTBxTEZHLVpYZWNNS1FBV0FlM2RfcERDUFFUOWFmSWd1UVFqajIzYThQUQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
       }
     ],
     "doors": [
@@ -263,6 +262,16 @@
         ]
       },
       {
+        "title": "Berliner Linken-Spitzenkandidatin Eralp fordert im Welt-TV-Duell mehr Einbürgerungen – für „Zugang zum Wahlrecht“ - Apollo News",
+        "source": "Apollo News",
+        "publishedAt": "2026-09-14T07:00:00+00:00",
+        "summary": "Berliner Linken-Spitzenkandidatin Eralp fordert im Welt-TV-Duell mehr Einbürgerungen – für „Zugang zum Wahlrecht“ Apollo News",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOWtiaEJRZVFjUTZWaUxXUzJacG5YclVKV1FIWkVkeVNmLUlRRjdJQVNNMjNPLXVWNzBkdlJZNGVtM2FvNkNGRjNtc2czSG5IX0VqQ1B5am8wYTUwdTBrc1pkcVpLTzJfSmF2M3d0UU9XRGN5TkJOMm5ZaHc3U0ltSG1oZ3hPM2tSOHRJWTVtVG5WXzZ5aUw4cE83LTE4bzJHbzA1MnpTRFo4UEtJdjVrOTdtUnV4SldBWThJNjFUWm8xMzM4UE9CdkhIS08zUTk0X3c?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo-Klinik eröffnet in Tiruppur und erweitert den Zugang zu vertrauenswürdiger Primär- und Präventivversorgung | Apollo-Krankenhäuser - Apollo Hospitals",
         "source": "Apollo Hospitals",
         "publishedAt": "2026-09-01T19:12:36+00:00",
@@ -270,16 +279,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1AtaVFtVmxNYmpReThCVEt2VVJQcTl4bGhRSy01M18wVDdoaTcwTjV4VEEzdDNyTWIxRTgyMnNVRVd1WjJ4bnc4SG41aWR5amEwRnpxVG9Ra1Z6M1Q1UEZfTjRsYWNKWGlLZ2kzRVBqRXlQS2wxT0VuQkp2QlVkQ0xZZmpaOHBIeGNVQVVDY1A1cGRNS2VVaEVZMzFjQUdSVnhzZFNZeUd0OUw4TU1SUXRxNGtOMHMxUm9TOVV5QXRMaTI2OEJTdmlpX1JrYWZZOURndFo4UlBPT3BDcHY3VGJ3?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
-        "tags": [
-          "Spiegel"
         ]
       },
       {
@@ -377,9 +376,9 @@
       {
         "title": "﻿Gut geplant ist halb gelüftet - Gebäude-Energieberater",
         "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-10-06T13:41:56+00:00",
+        "publishedAt": "2026-10-06T19:28:18+00:00",
         "summary": "﻿Gut geplant ist halb gelüftet Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMU04Z2VZa0VaVW9teUh0X2labE9LUHlodGgzUDdGdGtZWE5pMHJIc193c1FLUjJmNDNTLWlESUc0UTNJbmp4TUdfclA4eHlaTXMzQ1pudHZYdEl5LVNEeVBQV2ZmaEpKQTdhbndNTU9FTW1ZTVUzY0lfRVBqcWx4c0ktTy1KTFFJbzA4T0ZWaW9CNm4xQzQ1RkYwRUktcTBwTUF5ZUdtZElvNTdlVnl4OFBtdjJGdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXF3YVc0V051bzFvX3k2SnRkMHZxOXk1LTRQREpVakEybjRNRko2eGJxTU1tb2ZET1pGUXpRdkZnUzRTSi03R0RGUERMYnFKOW9fcWtCYktLeUl1RU5jOEN0eUF6Rm1mM0FZMHozOVA1NnJUVUJjb3o2WTZFcjVKTjg5TEwyWk1fVEg5ZTdLLVNjZEV2VFFnWFFfaml5eTd5b1BITzlkRExEM3A1aEoyVm5JMjVMazg?oc=5",
         "tags": [
           "Gebäude-Energieberater"
         ]
