@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T00:31:37.246140+00:00",
+  "generatedAt": "2026-10-06T07:04:55.380039+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -14,13 +14,13 @@
         ]
       },
       {
-        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - augsburger-allgemeine.de",
-        "source": "augsburger-allgemeine.de",
+        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
         "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz augsburger-allgemeine.de",
+        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
         "tags": [
-          "augsburger-allgemeine.de"
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -126,6 +126,16 @@
     ],
     "pfs": [
       {
+        "title": "Die Heizsaison beginnt mit den Prime Deal Days | Smarte Thermostate im Preischeck - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-05T23:27:46+00:00",
+        "summary": "Die Heizsaison beginnt mit den Prime Deal Days | Smarte Thermostate im Preischeck SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0dBLVViZ2xhS0E5WjRrLUFBbzFhQ01PWDlkVnNWa0s0ekJ4eUM3bGlnVG13MUw1ZHhKa3QyUE1WakE2ZF94QTFtc0JXbldrc1RHcVVHVWNvdHFLVGRUczdHUUhjcERWanVnOTJDV3pTVGpaU1BPQUJiQm5aVTVsQVRMNzhaODNsUXlGa2FFR3FvRDBIcmtVQUxGMlNudDAtT3laakNvMk9oZEplSHJOY3NKSnM?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "X-Sense SD11: App-Rauchmelder im Angebot - iphone-ticker.de",
         "source": "iphone-ticker.de",
         "publishedAt": "2026-10-05T17:28:40+00:00",
@@ -146,10 +156,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-10-04T09:42:56+00:00",
-        "summary": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau AD HOC NEWS",
+        "summary": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHhDUlQweXEtSDhPUzRzQUdNOS1jZlNuQ1k2anNtZktYcF84SjcxcENUbUpsc2cxWDV4bzNLT2NvQWRtQUIxVFF0TkJ6cWtjNkppSDFjVklURy0xLW9DblRHNlh6R295TFpUM3F5OUNER1FaMVhobGVNV2tDRDhVMHRER0JZMWR0MDlQdGV5alVqQlk3bVFBWlZUazdhMHlzcUNtTHBIZlcyNEhWZjdHaTZXUQ?oc=5",
         "tags": [
           "Ei",
@@ -158,10 +168,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Starter-Set Heizung II - 0,5 Grad genau - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Bosch Smart Home Starter-Set Heizung II - 0,5 Grad genau - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-10-02T15:48:29+00:00",
-        "summary": "Bosch Smart Home Starter-Set Heizung II - 0,5 Grad genau AD HOC NEWS",
+        "summary": "Bosch Smart Home Starter-Set Heizung II - 0,5 Grad genau ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlozUC1OYnZsY1hEOWtRVXdOU2JrN092YTN2WUR6c1ZRSllVSmdDWWdjdnVmbjgzeVBVZjRuV004Tkk0OGl4Q0o3WGpxRkd1d19CSDhlNTFNV3JCU21kZVNBLTFQNEFjVVIyR2xPc2ZPN3VtZ1YwcW9DNUkyOXpHU2hkOW1RWG9IeU01Qm8xQXZ3d2VwTUFTNzU1TG5IU3h4UEJKN1dYamNQY0I0N3Iw?oc=5",
         "tags": [
           "Ei",
@@ -232,34 +242,34 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-22T09:03:06+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 AD HOC NEWS",
+        "summary": "Bosch Smart Home Raumthermostat II - 85 g und ZigBee 3.0 ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2ZQMUhUeS16Uk9Pc0duaE5jaUoyLWV6X0pDOE13TnY0a2ZkNU1vanc0SVVxVTNXXzVRbDhIakEzRnBxb19DNU1pcnIwczdjaGt0U1JOODQ3ZDZNY3hMbmtxb2pQcE9xeEd2ekdUbldjZ3JfWWhYZjNwWWIzQ0p5S1ZvRVNKRWQwZl95TThpaFFmaEZraFpGMHI0ZzJXNl85QXdDSFFFc29qMk1XMURj?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) - PC Games Hardware",
-        "source": "PC Games Hardware",
-        "publishedAt": "2026-09-21T07:00:00+00:00",
-        "summary": "3 kaufen, nur 1 zahlen: FritzSmart Thermo 302 bei MediaMarkt mit -67% zur UVP (Update: aktuell ausverkauft) PC Games Hardware",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkIybVkxeURGeVJGb05ja1JPT2p2am55Yl9SaVpMODFUQ0J0VDJxY0Vaakd3dldKdDR6VXk2R3dPSEtySHhkSmJEN3NLMXlNX1Z0M3ZfSkdBcFlwSWZucDZvUUdNenNKTXFxb1NhQ3pHTm1YTTNzeE9zN3VneTJRXzV3aEhaZHZfTU1nUU5VSG8yaGI4bGRLWXZ1M0RSdHowa2R3M1RnN0Rma3JPV1laX2NKa2RoQXFKbjJlUA?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-17T14:14:23+00:00",
-        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab AD HOC NEWS",
+        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo-Klinik eröffnet in Tiruppur und erweitert den Zugang zu vertrauenswürdiger Primär- und Präventivversorgung | Apollo-Krankenhäuser - Apollo Hospitals",
+        "source": "Apollo Hospitals",
+        "publishedAt": "2026-09-01T19:12:36+00:00",
+        "summary": "Apollo-Klinik eröffnet in Tiruppur und erweitert den Zugang zu vertrauenswürdiger Primär- und Präventivversorgung | Apollo-Krankenhäuser Apollo Hospitals",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1AtaVFtVmxNYmpReThCVEt2VVJQcTl4bGhRSy01M18wVDdoaTcwTjV4VEEzdDNyTWIxRTgyMnNVRVd1WjJ4bnc4SG41aWR5amEwRnpxVG9Ra1Z6M1Q1UEZfTjRsYWNKWGlLZ2kzRVBqRXlQS2wxT0VuQkp2QlVkQ0xZZmpaOHBIeGNVQVVDY1A1cGRNS2VVaEVZMzFjQUdSVnhzZFNZeUd0OUw4TU1SUXRxNGtOMHMxUm9TOVV5QXRMaTI2OEJTdmlpX1JrYWZZOURndFo4UlBPT3BDcHY3VGJ3?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -335,13 +345,13 @@
         ]
       },
       {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
-        "source": "das investment",
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - dasinvestment.com",
+        "source": "dasinvestment.com",
         "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger dasinvestment.com",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
-          "das investment"
+          "dasinvestment.com"
         ]
       },
       {
@@ -360,16 +370,6 @@
         "publishedAt": "2026-07-10T07:00:00+00:00",
         "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Interroll übernimmt Royal Apollo Group - Logistik Online",
-        "source": "Logistik Online",
-        "publishedAt": "2026-05-08T07:00:00+00:00",
-        "summary": "Interroll übernimmt Royal Apollo Group Logistik Online",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGY4dUZfVlk0RjFfV0w4ZEpaYzBBSlRWb0txQXZ1S1FKVkttLWJhdHJwbHVQaDhKNllBTi1fSWZQWnpGT29uTnZ6Smc5ZDBfQ0NPYlViZHF4cWVNQ25QT0tXeGJISVdiRWdERUtpeWtsMkhEVk91bEliU3dWcFMzbjAwaTBGN0Rtc0x6a25lYVBZMXBtNGNJ?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -397,13 +397,13 @@
         ]
       },
       {
-        "title": "Gebäude mit Köpfchen - Handwerk und Bau",
-        "source": "Handwerk und Bau",
+        "title": "Gebäude mit Köpfchen - handwerkundbau.at",
+        "source": "handwerkundbau.at",
         "publishedAt": "2026-09-28T13:04:41+00:00",
-        "summary": "Gebäude mit Köpfchen Handwerk und Bau",
+        "summary": "Gebäude mit Köpfchen handwerkundbau.at",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSFNoRXJrYjluY2tHMFo1RGY0WE5BM1JtZElaNGRoYTVQb0QzM0JHV29yTzhYTEk4Zi0yekRlQm5HVGZxb0o1Mndienc3bFlLX3hxbG1rU25jUXhWUnVQenVZTzdxS0hZTVFNdlhQcUw?oc=5",
         "tags": [
-          "Handwerk und Bau"
+          "handwerkundbau.at"
         ]
       },
       {
@@ -477,20 +477,20 @@
         ]
       },
       {
-        "title": "Bei Sicherheit die Nase vorn: MBS stellt die dritte Baureihe bewährter Gateways vor, MBS GmbH, Story - PresseBox",
-        "source": "PresseBox",
+        "title": "Bei Sicherheit die Nase vorn: MBS stellt die dritte Baureihe bewährter Gateways vor, MBS GmbH, Story - pressebox.de",
+        "source": "pressebox.de",
         "publishedAt": "2026-08-18T07:00:00+00:00",
-        "summary": "Bei Sicherheit die Nase vorn: MBS stellt die dritte Baureihe bewährter Gateways vor, MBS GmbH, Story PresseBox",
+        "summary": "Bei Sicherheit die Nase vorn: MBS stellt die dritte Baureihe bewährter Gateways vor, MBS GmbH, Story pressebox.de",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRXFUWV9PSTV1bndfQ0Jac2hiZk5hbEFzM2FkZDFEQ2sycHFUR2JBVDVRZ2NrT2JicjZXdWZBTDhpVUpzbVZoSHdVWlpVSTVOamxSQVZCaTE3QUFVU2taV204M2x4c0Vjem1scXdZSElLbzFCR01oTm1KdDFsQjQ1LWZBdkYyLVN5NkMydE1XTFVCSDltWjFIS0FpYW1Qb3B0RWstRzFKbU50NlJXbXlDb0IzVUd0Z1RlV3JZVXZCZ0s0VEJqZExnWkdwZmtiSUxNMFdDY05tMTAwa2R5WWZmNjFnaEVzVElGYjVr?oc=5",
         "tags": [
-          "PresseBox"
+          "pressebox.de"
         ]
       },
       {
-        "title": "Nachhaltigkeit richtig rechnen - Handwerk und Bau",
-        "source": "Handwerk und Bau",
+        "title": "Nachhaltigkeit richtig rechnen - handwerkundbau.at",
+        "source": "handwerkundbau.at",
         "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "Nachhaltigkeit richtig rechnen Handwerk und Bau",
+        "summary": "Nachhaltigkeit richtig rechnen handwerkundbau.at",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kdy1sVTZwa0pReXY5T0tBME5MM0N1UU5saDVBWFlkOGduU2h5ZWNPVHY5cHpGMXNzd3BsbGVTX1Z1QkVBZlJHNnJNQXlRZy1KTHlMcXdFVFNtNHdLRFdBa2dUWVlQOFlReDhvOXc4bFU0ZnZEcThB?oc=5",
         "tags": [
           "Nachhaltigkeit"
