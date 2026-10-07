@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T23:29:57.395892+00:00",
+  "generatedAt": "2026-10-07T02:38:43.601408+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -230,10 +230,10 @@
         ]
       },
       {
-        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
+        "title": "Heizkosten sparen: Die besten smarten Thermostate im Test - IMTEST",
         "source": "IMTEST",
-        "publishedAt": "2026-09-29T09:03:38+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
+        "publishedAt": "2026-09-29T09:02:24+00:00",
+        "summary": "Heizkosten sparen: Die besten smarten Thermostate im Test IMTEST",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldaeFlWcWU5MHN3Nk5Nc280UWtiYTQzOU1IVHRRRnQta21JN0VXY3NSbmZLQ1c4VV8xTUd3OHo4TzBGVlJaTFkzdWRuRzB2ajRTcjh3V3k0YTkzM2R1NUI4ZzVWZWd2RGxkbWlHRWEyLUFmaWQyYUVZMGJaOWNuQ2NGNA?oc=5",
         "tags": [
           "Ei"
@@ -279,6 +279,16 @@
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT1AtaVFtVmxNYmpReThCVEt2VVJQcTl4bGhRSy01M18wVDdoaTcwTjV4VEEzdDNyTWIxRTgyMnNVRVd1WjJ4bnc4SG41aWR5amEwRnpxVG9Ra1Z6M1Q1UEZfTjRsYWNKWGlLZ2kzRVBqRXlQS2wxT0VuQkp2QlVkQ0xZZmpaOHBIeGNVQVVDY1A1cGRNS2VVaEVZMzFjQUdSVnhzZFNZeUd0OUw4TU1SUXRxNGtOMHMxUm9TOVV5QXRMaTI2OEJTdmlpX1JrYWZZOURndFo4UlBPT3BDcHY3VGJ3?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
+        "tags": [
+          "Spiegel"
         ]
       },
       {
@@ -332,6 +342,16 @@
         ]
       },
       {
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
+        "tags": [
+          "t3n"
+        ]
+      },
+      {
         "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
         "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
@@ -350,47 +370,17 @@
         "tags": [
           "Börsen-Zeitung"
         ]
-      },
-      {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
       {
         "title": "﻿Gut geplant ist halb gelüftet - Gebäude-Energieberater",
         "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-10-06T19:28:18+00:00",
+        "publishedAt": "2026-10-06T13:41:56+00:00",
         "summary": "﻿Gut geplant ist halb gelüftet Gebäude-Energieberater",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXF3YVc0V051bzFvX3k2SnRkMHZxOXk1LTRQREpVakEybjRNRko2eGJxTU1tb2ZET1pGUXpRdkZnUzRTSi03R0RGUERMYnFKOW9fcWtCYktLeUl1RU5jOEN0eUF6Rm1mM0FZMHozOVA1NnJUVUJjb3o2WTZFcjVKTjg5TEwyWk1fVEg5ZTdLLVNjZEV2VFFnWFFfaml5eTd5b1BITzlkRExEM3A1aEoyVm5JMjVMazg?oc=5",
         "tags": [
           "Gebäude-Energieberater"
-        ]
-      },
-      {
-        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-10-06T12:38:00+00:00",
-        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
-        "tags": [
-          "AI"
         ]
       },
       {
@@ -414,16 +404,6 @@
         ]
       },
       {
-        "title": "Gebäude mit Köpfchen - Handwerk und Bau",
-        "source": "Handwerk und Bau",
-        "publishedAt": "2026-09-28T13:04:41+00:00",
-        "summary": "Gebäude mit Köpfchen Handwerk und Bau",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSFNoRXJrYjluY2tHMFo1RGY0WE5BM1JtZElaNGRoYTVQb0QzM0JHV29yTzhYTEk4Zi0yekRlQm5HVGZxb0o1Mndienc3bFlLX3hxbG1rU25jUXhWUnVQenVZTzdxS0hZTVFNdlhQcUw?oc=5",
-        "tags": [
-          "Handwerk und Bau"
-        ]
-      },
-      {
         "title": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-09-25T10:40:25+00:00",
@@ -431,6 +411,16 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Brandschutz für Großküchen: Simeta warnt vor Fettablagerungen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-09-25T07:00:00+00:00",
+        "summary": "Brandschutz für Großküchen: Simeta warnt vor Fettablagerungen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlJjT1lFU3h3MmxoTmZCMnktYi03SFp6TXNIbUNaX2NScFNvUTcwS3RMMm1ZQ1FwdVdmX3hhYkZwdElndlZNYWFnUm5YdVE3OU5FU3VneURCR2JueFdSNjNnQVRLRjI0Z0ZVRkJjei0zUy1EVWN3OGFJUjhRSkZDeVVydEhBNHgxVW5hVVBGMDFoaWZkSUNKMnV6VQ?oc=5",
+        "tags": [
+          "it boltwise"
         ]
       },
       {
@@ -489,6 +479,16 @@
         "publishedAt": "2026-08-19T07:00:00+00:00",
         "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
+        "source": "ARD Mediathek",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
         ]
