@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:09:10.469308+00:00",
+  "generatedAt": "2026-10-07T22:09:09.038118+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -44,10 +44,10 @@
         ]
       },
       {
-        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
-        "source": "ingenieur.de",
+        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - Ingenieur.de",
+        "source": "Ingenieur.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
+        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel Ingenieur.de",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
@@ -127,6 +127,39 @@
     ],
     "pfs": [
       {
+        "title": "Bosch Smart Home Raumthermostat II - misst am Wunschort, unter 2 Jahre Batterien - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-10-07T18:16:21+00:00",
+        "summary": "Bosch Smart Home Raumthermostat II - misst am Wunschort, unter 2 Jahre Batterien AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0RpSkhSNmZtVU5XUWtRRWcwWE12b3ZGTUtoNGpJWG9kNFBMSVotWUtzY3dtY0ZIMnRhdWVOWWtXYlRsUndxRTlNZ0VBQUNUUk9VbVkxd3NqS3NYemlRazBMTkgzVW5QYmM4Z1RjQWVpaGVBajFnYS0tYTFHS3NTTjEwOHF4V0R5UWVxRVlxd1Z6Ulg3TnRacWxGMFpvZGF0Qnh1dkMtaFg4eXFUVEhGMnFiOXlwQV8tcTNzc2V6Tjg?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-07T18:05:30+00:00",
+        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTBPUXBpQllmejNRTVlBUTRTMjhEbHhVLWdLSXUtRXB1Rm5UdVBXY3pzdG9jelQ3RGJhQTBZNXUxRWJnTHY2SDJOOXQ0QVZ3c0tOZGluTVVWcEt5aElWdXR1VnF3NzRnd2ZvdmVvM3hhQU1xaUxmWTBnWnBwLW9aQkhNUzVoMVoxVVF4cE5GWHRKd1Z4MHdjNjFycnh6VUI5dVE?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Amazon: Bosch Smart Home Heizkörper-Thermostat II - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-07T17:44:16+00:00",
+        "summary": "Amazon: Bosch Smart Home Heizkörper-Thermostat II n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTVtaE5PRTFuamlDNXd1SVUyNWJhcWxrRm1kYXo1Q2NMaXpVa2NHYXQzSF85VHRtN2F4cEdqR04tZVhqR1VOWUJfbmxTSUNSUFgtb2lSeTNsbFEtUklQdHJ3Vm83eThRaE5aV0J0X2dVZHVXRkVycHY5a0xDQmV4WF9mUVVMTFVzVklzYmg0ZjNhQUE5T3dkX0l4Q0NueFhK?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense - iTopnews",
         "source": "iTopnews",
         "publishedAt": "2026-10-07T13:51:00+00:00",
@@ -189,22 +222,13 @@
         ]
       },
       {
-        "title": "X-Sense SD11: App-Rauchmelder im Angebot - iphone-ticker.de",
+        "title": "X-Sense SD11-MR: Drei vernetzte Rauchmelder im Paket - iphone-ticker.de",
         "source": "iphone-ticker.de",
         "publishedAt": "2026-10-05T17:28:40+00:00",
-        "summary": "X-Sense SD11: App-Rauchmelder im Angebot iphone-ticker.de",
+        "summary": "X-Sense SD11-MR: Drei vernetzte Rauchmelder im Paket iphone-ticker.de",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUIzdXRFc0dXNlYxNjhXV0R4UXVYWGdaaVlNNlI3TmstcnpiX3BtZUlvdDc1OFZLMks4Vk9JVWJKM0pxSmVuYi1SUEdRcGhuVEJiWE9ndmUyY1hnaWhhQ21iMUtubVloSFhodFlIWHd6UXBZZHRmN2JTNUx2OFpiUUNwYUJpYnBieU1wbHRENUxnTTFlak9v?oc=5",
         "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-05T12:10:52+00:00",
-        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0VpVWNoV0ZzRHpZQWJGaXZ3N1ROUEdZWGczQzlteTNJcUNPMkxWTFlOdUZfSmxZeVR1MnZNU1lZV1ZXcmR0WVQ3c3V6MC1IbWlLS2NvbGFOWEVRN2xlUk53cWZGMEV4bVFfbnUta21kbF83S191S2QyS0RBclBkaWlOUzRnQVNLMUM5dFJZZ3RRcWpIWml0ajVQdUdXQ09jX2c?oc=5",
-        "tags": [
+          "Ei",
           "X-Sense"
         ]
       },
@@ -230,26 +254,6 @@
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
-      {
-        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-09-29T09:03:38+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldaeFlWcWU5MHN3Nk5Nc280UWtiYTQzOU1IVHRRRnQta21JN0VXY3NSbmZLQ1c4VV8xTUd3OHo4TzBGVlJaTFkzdWRuRzB2ajRTcjh3V3k0YTkzM2R1NUI4ZzVWZWd2RGxkbWlHRWEyLUFmaWQyYUVZMGJaOWNuQ2NGNA?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
@@ -325,16 +329,6 @@
         ]
       },
       {
-        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
-        "source": "InvestmentWeek",
-        "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
-        "tags": [
-          "InvestmentWeek"
-        ]
-      },
-      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -372,6 +366,16 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
           "Börsen-Zeitung"
+        ]
+      },
+      {
+        "title": "EQS-News: Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - boerse.de - boerse.de",
+        "source": "boerse.de",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "EQS-News: Revolut ermöglicht Privatanlegern in Deutschland den Zugang zu Private Markets auf institutionellem Niveau - boerse.de boerse.de",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckxHS3JRMVlXRkdRNnBOc1FVb1RYZHpSNkdKTGVwVVg4RF9DS0Z2eGxDeG1YeHZESjJkY2hVWksxUXltcEdfZ0w5a0pVQlg0TlZFbTZ5U2gwLXRjM2s3d1ByVDdNUXVETVVrenB4M2tfM2FiZFI0Q0JROXBjNFFjTFNfZ1JPN2d3R3B2NGFQNHhlSnU3eWE3Xy1HWDA0c1k4LW9PYjBELWNGVVZxSklpSVYtS1FvZDNNbG9Ud2FYUW5aYW5aT3U3S0QtSW02OE5wN2JCNUZmVmhDbnc1QzJLZ0tMWjZaXzRtdnZ1NFY2RGzSAfYBQVVfeXFMUFo2VnF1elVfNm9IZVE1QlBvRG9iYzBxdHotWTZ1aGxNWk5naENlYkZmeEtGRWpuNEZndFhQa2Q1dzdCTU5vSGRyVm1RZTlEXzIzVVV0d2tKazRtb2hiOEkyX2VCcWJPdEQ2RzhCeWJEVnd4MWxwVzJMeGVIUEUyMUFOQWdCMmNEM3lhUjk2UVE0VHNkRFBsU0hpNk9QUUcyYVJJdUt1cUpydWZiTHlVcWZNTEtYNzRfUm83VVlmaXAyVWZGZWx2T3drblNfQ2thRDdtRkZwZEY3Wm5HOVVGNS00OUpoNjFKaWNaT0YwZnFmMFhITGFn?oc=5",
+        "tags": [
+          "boerse.de"
         ]
       }
     ],
@@ -448,6 +452,16 @@
         ]
       },
       {
+        "title": "Brandschutz für Großküchen: Simeta warnt vor Fettablagerungen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-09-25T07:00:00+00:00",
+        "summary": "Brandschutz für Großküchen: Simeta warnt vor Fettablagerungen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlJjT1lFU3h3MmxoTmZCMnktYi03SFp6TXNIbUNaX2NScFNvUTcwS3RMMm1ZQ1FwdVdmX3hhYkZwdElndlZNYWFnUm5YdVE3OU5FU3VneURCR2JueFdSNjNnQVRLRjI0Z0ZVRkJjei0zUy1EVWN3OGFJUjhRSkZDeVVydEhBNHgxVW5hVVBGMDFoaWZkSUNKMnV6VQ?oc=5",
+        "tags": [
+          "it boltwise"
+        ]
+      },
+      {
         "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
         "source": "Gießener Allgemeine",
         "publishedAt": "2026-09-13T07:00:00+00:00",
@@ -485,16 +499,6 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
-        "source": "myheimat.de",
-        "publishedAt": "2026-08-22T07:00:00+00:00",
-        "summary": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 myheimat.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
-        "tags": [
-          "myheimat.de"
         ]
       }
     ]
