@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T09:38:48.099681+00:00",
+  "generatedAt": "2026-10-07T17:09:10.469308+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -104,6 +104,17 @@
         ]
       },
       {
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-05-05T12:32:58+00:00",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
         "title": "Cybersecurity für die Pharmaproduktion - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-04-23T13:31:53+00:00",
@@ -112,19 +123,20 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense - iTopnews",
+        "source": "iTopnews",
+        "publishedAt": "2026-10-07T13:51:00+00:00",
+        "summary": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense iTopnews",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGFmWENzNHBub1pWRVFrSHRLTEsyN1VGNUpFcDQ4LXhHQmoyaFg2WjB2X2hUVi0zMzYxM3NweGUtZDJNRG5UR3Rhb0dNb0JKMFE2Y0psQjFHaDRmZFc4QWwzd1NxV3dyYkZSWWFZd28wdUdTanNDRzVYb01WQklSLUZlS3ZlSTQ5Z0lIZDBXTUhhRWdZMW1UNg?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
+      },
       {
         "title": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day - CHIP",
         "source": "CHIP",
@@ -239,16 +251,6 @@
         "tags": [
           "Ei"
         ]
-      },
-      {
-        "title": "Rauchwarnmelder werden wichtiger - i-Magazin",
-        "source": "i-Magazin",
-        "publishedAt": "2026-09-28T05:38:21+00:00",
-        "summary": "Rauchwarnmelder werden wichtiger i-Magazin",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Z2ptUzN4MzBzNFdxRm5HNXhQdEl2NlFSOEhJVExEYWthYWtWQ2hOSHdQc0d1NkpwYXRGMXBuWGw4TWhnWk9xdUt2VEwwOHQ4R1RaX1dSaFp5cjBEcFNYbTFyTkwwUQ?oc=5",
-        "tags": [
-          "Rauchwarnmelder"
-        ]
       }
     ],
     "doors": [
@@ -323,6 +325,16 @@
         ]
       },
       {
+        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
+        "source": "InvestmentWeek",
+        "publishedAt": "2026-07-30T07:00:00+00:00",
+        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
+        "tags": [
+          "InvestmentWeek"
+        ]
+      },
+      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -361,19 +373,20 @@
         "tags": [
           "Börsen-Zeitung"
         ]
-      },
-      {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
+        "source": "Produktion Online",
+        "publishedAt": "2026-10-07T13:49:11+00:00",
+        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München Produktion Online",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
+        "tags": [
+          "Retrofit",
+          "AI"
+        ]
+      },
       {
         "title": "AltoQi beschleunigt die Entwicklung von KI-Lösungen für komplexe Gebäude und Hochhäuser mit einer Förderung von 25 Millionen R$ durch die BNDES - TI INSIDE Online",
         "source": "TI INSIDE Online",
@@ -432,16 +445,6 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Brandschutz für Großküchen: Simeta warnt vor Fettablagerungen - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-09-25T07:00:00+00:00",
-        "summary": "Brandschutz für Großküchen: Simeta warnt vor Fettablagerungen it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlJjT1lFU3h3MmxoTmZCMnktYi03SFp6TXNIbUNaX2NScFNvUTcwS3RMMm1ZQ1FwdVdmX3hhYkZwdElndlZNYWFnUm5YdVE3OU5FU3VneURCR2JueFdSNjNnQVRLRjI0Z0ZVRkJjei0zUy1EVWN3OGFJUjhRSkZDeVVydEhBNHgxVW5hVVBGMDFoaWZkSUNKMnV6VQ?oc=5",
-        "tags": [
-          "it boltwise"
         ]
       },
       {
