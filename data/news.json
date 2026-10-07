@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T02:38:43.601408+00:00",
+  "generatedAt": "2026-10-07T09:38:48.099681+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -126,6 +126,17 @@
     ],
     "pfs": [
       {
+        "title": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-10-07T09:30:00+00:00",
+        "summary": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTjdlNkJ6YlNGcmRNM01oYmgzc29GclNaaXFkSXdTOFdNLVhwZlo3VHFlaE9nQ0Z4U3g3RThTVy1GdjktbFFWSzV6d01zRnVNQTdXWTF3V3lTNU91cUd2S0E3SUdkNC0ybno5RWxkbXgxRVk4UUcxT0lOSWs1V0RXQVFtRG5YaTNSdmgyVmc3dlR4Z193NF9OeHRPel9iOGFsOVFtTHdwWW9QZ1V5R25QbnlWbmpJTFhmYmZKak1ZMjVGYTR1ZkJPcXRIRnk1cFlaSDJ2NVo0MTIza2N0ank3WExsbmVWNXc?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Prime Deal Days: Smarte Thermostate bis zu 43 Prozent günstiger – Bosch Raumthermostat II für rund 65 Euro - HouseControllers",
         "source": "HouseControllers",
         "publishedAt": "2026-10-06T20:13:40+00:00",
@@ -143,16 +154,6 @@
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBaHJVVWJUUFZhSU8taThYNHpVTGRUSGdJSUQ5c1A0Y1JoMjYxbExzTm5TcjdrZklTSnlTMWs1TXpHUERRT2o5N3ZZbHF6ZDIzeDdoUnRfUmxmSnV6N25kTWJ2Y0pFSWNFLXJ2YVl5ZXlpS2Fm?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Rauch, CO und Wasser: X-Sense reduziert Schutzmelder zum Prime Day - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-10-06T12:37:00+00:00",
-        "summary": "Rauch, CO und Wasser: X-Sense reduziert Schutzmelder zum Prime Day CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQkU5VVg4SEI4WTdHNF8tTzJHeUJIbnEwQUN6NGpQb0hSbi1rYjBPTHdHMENOWHFaQTBwSjB0X2VqSHJfTnNnaWFJeVd6QXBvX3VLdFZINEtVS0NYM3F6blJfOFpzV2psM1hDZkMyOEUyOV8yZEo2LTlvOHlNYllVOENrRDAxM0ZybEJYV0JfbmdWYjY0MjdGT00yZTRFRFV1MFV4ZnRwRjRTUVpiOVVuR0Q1T3h4Qm9ZbFVIaGhYbjNpeFZTaXFYNFFPd0hDbWI1NVNqX3Q1dElYTUxXWVE?oc=5",
-        "tags": [
-          "X-Sense"
         ]
       },
       {
@@ -230,10 +231,10 @@
         ]
       },
       {
-        "title": "Heizkosten sparen: Die besten smarten Thermostate im Test - IMTEST",
+        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
         "source": "IMTEST",
-        "publishedAt": "2026-09-29T09:02:24+00:00",
-        "summary": "Heizkosten sparen: Die besten smarten Thermostate im Test IMTEST",
+        "publishedAt": "2026-09-29T09:03:38+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldaeFlWcWU5MHN3Nk5Nc280UWtiYTQzOU1IVHRRRnQta21JN0VXY3NSbmZLQ1c4VV8xTUd3OHo4TzBGVlJaTFkzdWRuRzB2ajRTcjh3V3k0YTkzM2R1NUI4ZzVWZWd2RGxkbWlHRWEyLUFmaWQyYUVZMGJaOWNuQ2NGNA?oc=5",
         "tags": [
           "Ei"
@@ -322,16 +323,6 @@
         ]
       },
       {
-        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
-        "source": "InvestmentWeek",
-        "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
-        "tags": [
-          "InvestmentWeek"
-        ]
-      },
-      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -370,9 +361,29 @@
         "tags": [
           "Börsen-Zeitung"
         ]
+      },
+      {
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-10T07:00:00+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
+      {
+        "title": "AltoQi beschleunigt die Entwicklung von KI-Lösungen für komplexe Gebäude und Hochhäuser mit einer Förderung von 25 Millionen R$ durch die BNDES - TI INSIDE Online",
+        "source": "TI INSIDE Online",
+        "publishedAt": "2026-10-06T22:05:34+00:00",
+        "summary": "AltoQi beschleunigt die Entwicklung von KI-Lösungen für komplexe Gebäude und Hochhäuser mit einer Förderung von 25 Millionen R$ durch die BNDES TI INSIDE Online",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOaG9Pb2habUpOR0RfaHNwbzZZZG5lVXd6S1VvYkJLZ200TjV5UTVVeHA1WjM0MmRIYjZJQzN3U3FzenlvcGhkNUg4eTFRMl94WlJlMDJSV0dSNWlZQXpnVzJlRk9ndE1VZXlHd1UwelVNaFRvY3o5QzlmRXZFbUpKcThOVHJsNnRVSHI0MTNUaGJqQ3VLVkxwRWx2TU5ZVF9sWG1hX1RFUXB1OV9kZFRyc2k2UXcwSTlNY3VvX0RyZ0VKRThjcC1jbUdOaVlPQWxHRUNJcDh5RWozWWNkT0p1SVMxWW9fMmphTy15clRjckJnVUpOWEFTazZUY3JnOE01SlZ0Yk1Wd01HVDhrRDBfM2hqUmF6VzJacUE5czFRR2hhTHhiTDRRZmJDamN5dw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
       {
         "title": "﻿Gut geplant ist halb gelüftet - Gebäude-Energieberater",
         "source": "Gebäude-Energieberater",
@@ -384,11 +395,11 @@
         ]
       },
       {
-        "title": "synavision ai.lab: Digitale Services für Gebäude werden schneller und wirtschaftlicher - businessportal24",
-        "source": "businessportal24",
-        "publishedAt": "2026-10-05T09:52:56+00:00",
-        "summary": "synavision ai.lab: Digitale Services für Gebäude werden schneller und wirtschaftlicher businessportal24",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVk9TREpfSmpPS1FYX2wyeGQ3Yi1Gb3lOOGdzVDRYNzlSc2xsY2I5SC1oRVdsSHM4RmREMnRxbC10TERyeUZxdHh4aG5tNHNZZEt3Zll3SGtIaktTQTZuRnZxdEszQ3FKcTZVdzhWeGJkNFQ5NjZxSmlESy16WEpodHVEeElIUUdfeGd0cUMwZmliOWlSYXRkaGs4a29zd2tEQVMzUmttRFNYVTFNd0VCSGd5YW9FcHNRVGVSanVDS0NnVFE5bExvX09R?oc=5",
+        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
+        "source": "Investing.com Deutsch",
+        "publishedAt": "2026-10-06T12:38:00+00:00",
+        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
         "tags": [
           "AI"
         ]
@@ -401,6 +412,16 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
         "tags": [
           "Schwäbische Post"
+        ]
+      },
+      {
+        "title": "Gebäude mit Köpfchen - Handwerk und Bau",
+        "source": "Handwerk und Bau",
+        "publishedAt": "2026-09-28T13:04:41+00:00",
+        "summary": "Gebäude mit Köpfchen Handwerk und Bau",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSFNoRXJrYjluY2tHMFo1RGY0WE5BM1JtZElaNGRoYTVQb0QzM0JHV29yTzhYTEk4Zi0yekRlQm5HVGZxb0o1Mndienc3bFlLX3hxbG1rU25jUXhWUnVQenVZTzdxS0hZTVFNdlhQcUw?oc=5",
+        "tags": [
+          "Handwerk und Bau"
         ]
       },
       {
@@ -444,6 +465,16 @@
         ]
       },
       {
+        "title": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - MRN-NEWS",
+        "source": "MRN-NEWS",
+        "publishedAt": "2026-09-02T08:13:49+00:00",
+        "summary": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes MRN-NEWS",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbmV2b0Z3QU9icEgzOF9EV0thOXNCTEJzMWhWODE0ektGTXFjcXpkNGRQQS14RWVrbVZGSTI1S1RSNHVsWjd2RW9YdzFxXzJPcFEzeTByWTBjRXVxcVRhZU1rU0tReWlaSUtXYi1XZkczR2NNSzhDQ2ZKN3lFZW1YNkFYVUJ5R3BTbnRZTDZnY0V5TXFUSzBUTTUtZkxRYTRhQXpWalQ3RWRwOGp5YTBnTTFsRGJlVVZpZnBwOWYxZGk0SDBLRU4tOS1laUIzUW1UYVhmelFINFRlZDFMcGZCWTh5T0MtbUVxSXRPNjdqZzV4elVoVGcxd1UxdTZXR2dxVlpzMEwzWEZYaHBqM1R4TlBIY2M5T1VESWszRS04bWt5M1lk?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-08-28T07:00:00+00:00",
@@ -461,36 +492,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
           "myheimat.de"
-        ]
-      },
-      {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
-        "publishedAt": "2026-08-21T07:00:00+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
-        "source": "tagesschau.de",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
