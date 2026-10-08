@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T09:15:40.010168+00:00",
+  "generatedAt": "2026-10-08T16:43:08.081787+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -31,16 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
         "tags": [
           "Augsburger Allgemeine"
-        ]
-      },
-      {
-        "title": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude TGA+E Fachplaner",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE1taks1ZmJGbmJCTmloWGVNdEZKUVpmMWV0eVR4U2ZGdk8tLXppejliMHBEX0tqTzFSNjdYcWRQa0FlbHlLeEF5UlE1YlNjU01GZDNucjdLblpCR19oaVhlaWZheTlELUJTeFZ3UkpHMk9MU01ZUzVsNzFoei1DUlBsbV9YSWtmbWtfcEw1NmFRZ29RYktTSDRLX0xmQ04zM0JwQg?oc=5",
-        "tags": [
-          "Siemens"
         ]
       },
       {
@@ -122,9 +112,30 @@
         "tags": [
           "elektro.net"
         ]
+      },
+      {
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-05-05T12:32:58+00:00",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Rauchmelder für die ganze Wohnung: Gutes Komplett-Set für 62 Euro? - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-08T13:16:36+00:00",
+        "summary": "Rauchmelder für die ganze Wohnung: Gutes Komplett-Set für 62 Euro? n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWhFc1ROYzZkZU1JSUV2a2FpVGdMSnpCUkY4SDFwaEdRbkVxU2JXWDYxNGQ0M1BOR2xoc2VKektLTnBDRjB1UlQ1V1RjYmRKV1JJc052aHktWUg2c3dXc1h5R2xjVXVNTUt2dENMSVJNMFJNRF9xRG9YMHJlMGFaTE9pUU8yOUhaY21JeUpSNlhBQ3lLbkwxWEJKSXp5WW9CbnhVeWhuMkdyaF9jUUVmTm1TYWV0d19qM0dfTFRiOGc?oc=5",
+        "tags": [
+          "n-tv.de"
+        ]
+      },
       {
         "title": "Amazon: X-Sense Mini Rauchmelder 6 Stück - n-tv.de",
         "source": "n-tv.de",
@@ -239,18 +250,6 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldaeFlWcWU5MHN3Nk5Nc280UWtiYTQzOU1IVHRRRnQta21JN0VXY3NSbmZLQ1c4VV8xTUd3OHo4TzBGVlJaTFkzdWRuRzB2ajRTcjh3V3k0YTkzM2R1NUI4ZzVWZWd2RGxkbWlHRWEyLUFmaWQyYUVZMGJaOWNuQ2NGNA?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-10-04T09:42:56+00:00",
-        "summary": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHhDUlQweXEtSDhPUzRzQUdNOS1jZlNuQ1k2anNtZktYcF84SjcxcENUbUpsc2cxWDV4bzNLT2NvQWRtQUIxVFF0TkJ6cWtjNkppSDFjVklURy0xLW9DblRHNlh6R295TFpUM3F5OUNER1FaMVhobGVNV2tDRDhVMHRER0JZMWR0MDlQdGV5alVqQlk3bVFBWlZUazdhMHlzcUNtTHBIZlcyNEhWZjdHaTZXUQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
         ]
       }
     ],
@@ -419,26 +418,6 @@
         ]
       },
       {
-        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-10-06T12:38:00+00:00",
-        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "title": "Gebäude mit Köpfchen - Handwerk und Bau",
-        "source": "Handwerk und Bau",
-        "publishedAt": "2026-09-28T13:04:41+00:00",
-        "summary": "Gebäude mit Köpfchen Handwerk und Bau",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSFNoRXJrYjluY2tHMFo1RGY0WE5BM1JtZElaNGRoYTVQb0QzM0JHV29yTzhYTEk4Zi0yekRlQm5HVGZxb0o1Mndienc3bFlLX3hxbG1rU25jUXhWUnVQenVZTzdxS0hZTVFNdlhQcUw?oc=5",
-        "tags": [
-          "Handwerk und Bau"
-        ]
-      },
-      {
         "title": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-09-25T10:40:25+00:00",
@@ -496,6 +475,26 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
           "myheimat.de"
+        ]
+      },
+      {
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
+        "source": "Infopoint Security",
+        "publishedAt": "2026-08-21T07:00:00+00:00",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
+        "source": "tagesschau.de",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
