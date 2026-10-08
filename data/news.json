@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:09:29.822252+00:00",
+  "generatedAt": "2026-10-08T09:15:40.010168+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -31,6 +31,16 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
         "tags": [
           "Augsburger Allgemeine"
+        ]
+      },
+      {
+        "title": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude - TGA+E Fachplaner",
+        "source": "TGA+E Fachplaner",
+        "publishedAt": "2026-08-11T07:00:00+00:00",
+        "summary": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude TGA+E Fachplaner",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE1taks1ZmJGbmJCTmloWGVNdEZKUVpmMWV0eVR4U2ZGdk8tLXppejliMHBEX0tqTzFSNjdYcWRQa0FlbHlLeEF5UlE1YlNjU01GZDNucjdLblpCR19oaVhlaWZheTlELUJTeFZ3UkpHMk9MU01ZUzVsNzFoei1DUlBsbV9YSWtmbWtfcEw1NmFRZ29RYktTSDRLX0xmQ04zM0JwQg?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -112,39 +122,28 @@
         "tags": [
           "elektro.net"
         ]
-      },
-      {
-        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-05-05T12:32:58+00:00",
-        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Amazon: X-Sense Mini Rauchmelder 6 Stück - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-08T07:06:42+00:00",
+        "summary": "Amazon: X-Sense Mini Rauchmelder 6 Stück n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHZfTlIyNXBzNlZCTTlRQmJiam1Od3lJbzlUelBPT2Y0ZGF6cnFLU3ZaY2VQX0JXNEdOQW1VaDBOQjFxMW5wa3c5Si1BYzdCZ2xIQS1PYzVzREMyVllHb1BPZWg3VzRhRXZoYVFGbzlvMnVNdndLTDdkZjNWSnQ0SlVPMHM?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
       {
         "title": "Bosch Smart Home Raumthermostat II - misst am Wunschort, unter 2 Jahre Batterien - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-10-07T18:16:21+00:00",
         "summary": "Bosch Smart Home Raumthermostat II - misst am Wunschort, unter 2 Jahre Batterien AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0RpSkhSNmZtVU5XUWtRRWcwWE12b3ZGTUtoNGpJWG9kNFBMSVotWUtzY3dtY0ZIMnRhdWVOWWtXYlRsUndxRTlNZ0VBQUNUUk9VbVkxd3NqS3NYemlRazBMTkgzVW5QYmM4Z1RjQWVpaGVBajFnYS0tYTFHS3NTTjEwOHF4V0R5UWVxRVlxd1Z6Ulg3TnRacWxGMFpvZGF0Qnh1dkMtaFg4eXFUVEhGMnFiOXlwQV8tcTNzc2V6Tjg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUTE4WS0xb3Q1ai1IYU5yTExlZDFKNnVGVlFrclZobTlyelNLRmVwT2lUYmhYeWM3VlRfMEZSUUpTTjhRY3RiZmFpVEtPck1NZm42eC1CRDdfcVpFU3VkejBoUWZNRXlfd1FSVHUwcDlvUXNfMUkxS0ZNT1phVTY1UTdYb3pKYmoxY0s4cURvZWFKeHRNMWtUeTZJNkxOdVlRekRtd1RsMk9VR3pMN3cyTVhpUUdTT05aeWc5RVE2ZkQ4SXBVLVJvMEtDVHVhZw?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-07T18:05:30+00:00",
-        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTBPUXBpQllmejNRTVlBUTRTMjhEbHhVLWdLSXUtRXB1Rm5UdVBXY3pzdG9jelQ3RGJhQTBZNXUxRWJnTHY2SDJOOXQ0QVZ3c0tOZGluTVVWcEt5aElWdXR1VnF3NzRnd2ZvdmVvM3hhQU1xaUxmWTBnWnBwLW9aQkhNUzVoMVoxVVF4cE5GWHRKd1Z4MHdjNjFycnh6VUI5dVE?oc=5",
-        "tags": [
-          "X-Sense"
         ]
       },
       {
@@ -233,23 +232,21 @@
         ]
       },
       {
+        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-10-05T12:45:00+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldaeFlWcWU5MHN3Nk5Nc280UWtiYTQzOU1IVHRRRnQta21JN0VXY3NSbmZLQ1c4VV8xTUd3OHo4TzBGVlJaTFkzdWRuRzB2ajRTcjh3V3k0YTkzM2R1NUI4ZzVWZWd2RGxkbWlHRWEyLUFmaWQyYUVZMGJaOWNuQ2NGNA?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-10-04T09:42:56+00:00",
         "summary": "Bosch Smart Home Heizkörper-Thermostat II - 0,5 Grad genau AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHhDUlQweXEtSDhPUzRzQUdNOS1jZlNuQ1k2anNtZktYcF84SjcxcENUbUpsc2cxWDV4bzNLT2NvQWRtQUIxVFF0TkJ6cWtjNkppSDFjVklURy0xLW9DblRHNlh6R295TFpUM3F5OUNER1FaMVhobGVNV2tDRDhVMHRER0JZMWR0MDlQdGV5alVqQlk3bVFBWlZUazdhMHlzcUNtTHBIZlcyNEhWZjdHaTZXUQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Starter-Set Heizung II - 0,5 Grad genau - AD HOC NEWS",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-10-02T15:48:29+00:00",
-        "summary": "Bosch Smart Home Starter-Set Heizung II - 0,5 Grad genau AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlozUC1OYnZsY1hEOWtRVXdOU2JrN092YTN2WUR6c1ZRSllVSmdDWWdjdnVmbjgzeVBVZjRuV004Tkk0OGl4Q0o3WGpxRkd1d19CSDhlNTFNV3JCU21kZVNBLTFQNEFjVVIyR2xPc2ZPN3VtZ1YwcW9DNUkyOXpHU2hkOW1RWG9IeU01Qm8xQXZ3d2VwTUFTNzU1TG5IU3h4UEJKN1dYamNQY0I0N3Iw?oc=5",
         "tags": [
           "Ei",
           "Bosch",
@@ -381,6 +378,16 @@
     ],
     "trends": [
       {
+        "title": "Australien plant KI-Gesetz: Entwickler sollen Sicherheitssysteme nachweisen - BornCity",
+        "source": "BornCity",
+        "publishedAt": "2026-10-08T04:56:04+00:00",
+        "summary": "Australien plant KI-Gesetz: Entwickler sollen Sicherheitssysteme nachweisen BornCity",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVW9Ob2J2LUI1MmRoeHpuQ2lQZFBfRVZrS1FEdWxrUWFWb2FwLXBCdU9kNVFRMUFCY1JWb0FyeUowbGJRT21zZUtuSmZScGE3dTVWYmdQa3dqRU9NanFTLTl2a1paZ3NjTkdoOVg0djU5dWFHb3NlNWdjXzFyYi1wUUMxMGtSbWN0YjRKVmZRbTB3OGhNaXR5LW9RTjVGNkowZVpN?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
         "source": "Produktion Online",
         "publishedAt": "2026-10-07T13:49:11+00:00",
@@ -419,16 +426,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
         "tags": [
           "AI"
-        ]
-      },
-      {
-        "title": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen - Schwäbische Post",
-        "source": "Schwäbische Post",
-        "publishedAt": "2026-09-30T10:00:00+00:00",
-        "summary": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen Schwäbische Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
-        "tags": [
-          "Schwäbische Post"
         ]
       },
       {
