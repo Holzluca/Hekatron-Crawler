@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:09:09.038118+00:00",
+  "generatedAt": "2026-10-08T02:09:29.822252+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,6 +11,16 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
+        ]
+      },
+      {
+        "title": "Sichere Stromversorgung im Chemielabor - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-09-25T12:12:30+00:00",
+        "summary": "Sichere Stromversorgung im Chemielabor Siemens",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQkRycFdUYkw4ekxZYW0wU3EyRG1pQzRjTDZ2ZWY0VVdHVE9XMzBIRHRmYnEwOUdSc1FubGJKNWRUMzI4Uy1LdmFCZXN6QU5pUG16VmNLNlFXMEJlNDhxQkJiNDd1THc5WjBQdmVEeS13NEdjZkZjbWZHY0hjZTNYZ1ZXZw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       },
       {
@@ -112,16 +122,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -482,16 +482,6 @@
         ]
       },
       {
-        "title": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - MRN-NEWS",
-        "source": "MRN-NEWS",
-        "publishedAt": "2026-09-02T08:13:49+00:00",
-        "summary": "Ludwigshafen - Hochschule für Wirtschaft und Gesellschaft: „HAW-direkt“ - Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes MRN-NEWS",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbmV2b0Z3QU9icEgzOF9EV0thOXNCTEJzMWhWODE0ektGTXFjcXpkNGRQQS14RWVrbVZGSTI1S1RSNHVsWjd2RW9YdzFxXzJPcFEzeTByWTBjRXVxcVRhZU1rU0tReWlaSUtXYi1XZkczR2NNSzhDQ2ZKN3lFZW1YNkFYVUJ5R3BTbnRZTDZnY0V5TXFUSzBUTTUtZkxRYTRhQXpWalQ3RWRwOGp5YTBnTTFsRGJlVVZpZnBwOWYxZGk0SDBLRU4tOS1laUIzUW1UYVhmelFINFRlZDFMcGZCWTh5T0MtbUVxSXRPNjdqZzV4elVoVGcxd1UxdTZXR2dxVlpzMEwzWEZYaHBqM1R4TlBIY2M5T1VESWszRS04bWt5M1lk?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-08-28T07:00:00+00:00",
@@ -499,6 +489,16 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
+        "source": "myheimat.de",
+        "publishedAt": "2026-08-22T07:00:00+00:00",
+        "summary": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 myheimat.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
+        "tags": [
+          "myheimat.de"
         ]
       }
     ]
