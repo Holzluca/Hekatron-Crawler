@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T20:12:18.068669+00:00",
+  "generatedAt": "2026-10-10T00:09:47.772068+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -126,6 +126,17 @@
     ],
     "pfs": [
       {
+        "title": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-10-09T20:42:47+00:00",
+        "summary": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0VUUWFFV3FKMTNZN04ydHBQQUp5bXVmUFlUVWszX25odkVDblZoQjE0TW9mOVNIWVMyZ2d6ZGtqZGFPeDVSSGdiRjEtU1BqSEQ0ZmtBOXpCVm9Fa1hvNzJHOVVDM1pvM2ZpOVZTMXczVzBUWmg3Uk9Xa2xucU9kcnlUeldxbVpiVlktMTU3YlNYb1U5SzBGd05pZGtySjB3LU9rVGNSME1OWkppbzM2ME5ENGxuQ1hvY3QxNlJOR2w?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Bosch Smart Home Starter-Paket Heizung - 3 Räume per App steuern - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-10-09T10:50:46+00:00",
@@ -135,16 +146,6 @@
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Energiespartage: Smart-Home-Angebote und Gutscheine - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-10-09T07:10:00+00:00",
-        "summary": "Energiespartage: Smart-Home-Angebote und Gutscheine Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nTzFSeVRMQ1JyYUJHR3hlMUpmTUh3V3ZjTkdNd3UxVGZrTHJSaENaSTFlcVJRekl2Ql9JN0ZUbmlLVER1T3VrMHFhMVZHTElJUXpGeHFSa0xPMGlSUHlCbFJoUTk1MU12ckxXZTlITEJDcC1RbGxLU0tB?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -296,6 +297,16 @@
         ]
       },
       {
+        "title": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme - Airliners.de",
+        "source": "Airliners.de",
+        "publishedAt": "2026-08-25T07:00:00+00:00",
+        "summary": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme Airliners.de",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzM2eFlhSF9GcXpsTVg2NERlOXN4OEtVd2ZvYkxyMGt4aHROcl9UQldjS1EwbnNfeFlUaEtkcE1vR2o3ZTFBSTIxNXZfX0x3WDg0NVZZY2d1S090YlFSRXBGSWg1NlU4QkVjSm81MXZIcGtPdjhVUDQ0Z0I4MC1adHJmbG1aUzRISE1xTTdlTFo?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
         "source": "Manager Magazin",
         "publishedAt": "2026-08-19T07:00:00+00:00",
@@ -336,6 +347,16 @@
         ]
       },
       {
+        "title": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück - Airliners.de",
+        "source": "Airliners.de",
+        "publishedAt": "2026-08-06T07:00:00+00:00",
+        "summary": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück Airliners.de",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jblNXcnhXak9KOXdiSUdfVkU4dEJ5aVZ4QTRBck5HQ2k0cjB4blE3ZTY5OU9HNURmclJOYWplRzh5c1pqQUh4SWJBSWJQLXhzWnRFRjkzUlpRbV9nd0NJN3o4MXB2Um9xWHM3a0N3NEloaUx0ejl4ZW1Da1c?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
         "source": "InvestmentWeek",
         "publishedAt": "2026-07-30T07:00:00+00:00",
@@ -353,26 +374,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
           "tippinpoint.ch"
-        ]
-      },
-      {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
-        "source": "t3n",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
-        "tags": [
-          "t3n"
-        ]
-      },
-      {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
-        "source": "das investment",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
-        "tags": [
-          "das investment"
         ]
       }
     ],
@@ -416,16 +417,6 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXF3YVc0V051bzFvX3k2SnRkMHZxOXk1LTRQREpVakEybjRNRko2eGJxTU1tb2ZET1pGUXpRdkZnUzRTSi03R0RGUERMYnFKOW9fcWtCYktLeUl1RU5jOEN0eUF6Rm1mM0FZMHozOVA1NnJUVUJjb3o2WTZFcjVKTjg5TEwyWk1fVEg5ZTdLLVNjZEV2VFFnWFFfaml5eTd5b1BITzlkRExEM3A1aEoyVm5JMjVMazg?oc=5",
         "tags": [
           "Gebäude-Energieberater"
-        ]
-      },
-      {
-        "title": "Gebäude mit Köpfchen - Handwerk und Bau",
-        "source": "Handwerk und Bau",
-        "publishedAt": "2026-09-28T13:04:41+00:00",
-        "summary": "Gebäude mit Köpfchen Handwerk und Bau",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSFNoRXJrYjluY2tHMFo1RGY0WE5BM1JtZElaNGRoYTVQb0QzM0JHV29yTzhYTEk4Zi0yekRlQm5HVGZxb0o1Mndienc3bFlLX3hxbG1rU25jUXhWUnVQenVZTzdxS0hZTVFNdlhQcUw?oc=5",
-        "tags": [
-          "Handwerk und Bau"
         ]
       },
       {
@@ -486,6 +477,16 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
+        "source": "Fuldaer Zeitung",
+        "publishedAt": "2026-08-26T07:00:00+00:00",
+        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       },
       {
