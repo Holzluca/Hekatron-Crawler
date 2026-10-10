@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T06:08:49.508846+00:00",
+  "generatedAt": "2026-10-10T12:48:57.059204+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -126,6 +126,17 @@
     ],
     "pfs": [
       {
+        "title": "DEAL | Bosch Spotless Advanced für 219,99 € zum Bestpreis im Angebot! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-09T23:04:14+00:00",
+        "summary": "DEAL | Bosch Spotless Advanced für 219,99 € zum Bestpreis im Angebot! SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUlEQzBNWlI1X3lxYk1pUEZBN1BDSVVLZVl2WnlLMXBWY0xfbFVyclRXa1N6S2FQRUZTWTRBQ1lwdHBxbG1qUmtZREFBa1h5Q09nMlJSdldiUGdKTmg3cHk2YVdKOEdiVVllQ1NIdGVMTWpLQ19ReXI0TkJrWXd5RzB3?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-10-09T20:42:47+00:00",
@@ -243,16 +254,6 @@
           "Ei",
           "X-Sense"
         ]
-      },
-      {
-        "title": "Prime Deal Days: Smarte Thermostate bis zu 43 Prozent günstiger – Bosch Raumthermostat II für rund 65 Euro - HouseControllers",
-        "source": "HouseControllers",
-        "publishedAt": "2026-10-06T20:13:40+00:00",
-        "summary": "Prime Deal Days: Smarte Thermostate bis zu 43 Prozent günstiger – Bosch Raumthermostat II für rund 65 Euro HouseControllers",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRllLVGl1WnNuMU0zWmM1WlozYUNPZXVjOHhaM3BMM1pFTVloek1tZHVBaWRObUlYXzg1TzJZaUhidFBmeV9uT1I2aXdoTV9ZZGVxTUV3a3RvUWNQN1Q5QnVIakxUOHF2TmJVeTktZlFIVXQ5b0RNLTduRmFBNlQ2Y1F0QUQ3Y1FXM3c?oc=5",
-        "tags": [
-          "Bosch"
-        ]
       }
     ],
     "doors": [
@@ -297,10 +298,10 @@
         ]
       },
       {
-        "title": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme - Airliners.de",
-        "source": "Airliners.de",
+        "title": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme - airliners.de",
+        "source": "airliners.de",
         "publishedAt": "2026-08-25T07:00:00+00:00",
-        "summary": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme Airliners.de",
+        "summary": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme airliners.de",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzM2eFlhSF9GcXpsTVg2NERlOXN4OEtVd2ZvYkxyMGt4aHROcl9UQldjS1EwbnNfeFlUaEtkcE1vR2o3ZTFBSTIxNXZfX0x3WDg0NVZZY2d1S090YlFSRXBGSWg1NlU4QkVjSm81MXZIcGtPdjhVUDQ0Z0I4MC1adHJmbG1aUzRISE1xTTdlTFo?oc=5",
         "tags": [
           "Apollo"
@@ -440,6 +441,26 @@
         ]
       },
       {
+        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
+        "source": "Investing.com Deutsch",
+        "publishedAt": "2026-10-06T12:38:00+00:00",
+        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
+        "tags": [
+          "AI"
+        ]
+      },
+      {
+        "title": "Gebäude mit Köpfchen - Handwerk und Bau",
+        "source": "Handwerk und Bau",
+        "publishedAt": "2026-09-28T13:04:41+00:00",
+        "summary": "Gebäude mit Köpfchen Handwerk und Bau",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSFNoRXJrYjluY2tHMFo1RGY0WE5BM1JtZElaNGRoYTVQb0QzM0JHV29yTzhYTEk4Zi0yekRlQm5HVGZxb0o1Mndienc3bFlLX3hxbG1rU25jUXhWUnVQenVZTzdxS0hZTVFNdlhQcUw?oc=5",
+        "tags": [
+          "Handwerk und Bau"
+        ]
+      },
+      {
         "title": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-09-25T10:40:25+00:00",
@@ -475,26 +496,6 @@
         "publishedAt": "2026-09-11T07:00:00+00:00",
         "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes - Informationsdienst Wissenschaft",
-        "source": "Informationsdienst Wissenschaft",
-        "publishedAt": "2026-09-01T08:50:00+00:00",
-        "summary": "„HAW-direkt“: Forschungsprojekt „KI-gestütztes Campus-, Gebäude- und Energiemanagement“ erhält Förderung des Landes Informationsdienst Wissenschaft",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd25CZnhUb3h2cHk3bGlrS0tBOGVadTJZNlFKS1ExMTZobFpObElqWnNwTGhxb1lzNy1LVm80bXVHMWlQVVUzY2FYSkJWWmVzUDlOdlplVjhmM0JDMGUzWndIVDIzV2ptSl9Mbk9JdTI0VHBoTkFwSElJWFA2NHA3ZHhiWkw5VzJXc2Z5MkJ2b0Vra2FHQ24zSXl3eU9lMF9VUFBPNnBzNFJRQ0JyMUY1WFNhdkRTYURKLW1BWjk5Qm9VM05DM2xxN3dsdm55SVFtMXRscUwxWFI1OHhzUWk5c1JyZG9ZTjRvZDdXQw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
         ]
