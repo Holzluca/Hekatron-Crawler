@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:09:47.772068+00:00",
+  "generatedAt": "2026-10-10T06:08:49.508846+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -379,6 +379,26 @@
     ],
     "trends": [
       {
+        "title": "US-Informatikprofessor veröffentlicht Artikel: KI zerstört jahrtausendealtes mathematisches Gebäude der Menschheit – das mathematische Weltende ist gekommen - 36Kr",
+        "source": "36Kr",
+        "publishedAt": "2026-10-09T16:43:00+00:00",
+        "summary": "US-Informatikprofessor veröffentlicht Artikel: KI zerstört jahrtausendealtes mathematisches Gebäude der Menschheit – das mathematische Weltende ist gekommen 36Kr",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrbVp6OUZ4bEw1OU00eF9iRS03NXg1S2ptbDk5R3ltZ25NUDFSSFpEcGpHVkhueWZHcHBzWmxVUHhKeDFfTDIwejBxR2Zyc21ZcEkw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Standards und Normen für Bürogebäude an die neue Organisationsstruktur anpassen. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "publishedAt": "2026-10-09T15:16:01+00:00",
+        "summary": "Standards und Normen für Bürogebäude an die neue Organisationsstruktur anpassen. Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3IyZjVZY0tBRjl4RUpLRXlNTjAzeFFCc1NGMzJ2MVJwSEN0LU1vLU1hTVN0Z2thSzhYcVJyZUFEZ2t1b1FwOV9NdFV1clZLaWdXNU1LaGJPVlkxRE1paWNGMzhRdWgtVjVVQzA0VjBmZHJLS2pjVDhFQTBsalpTcEtubXh4bF9RWkFPenFXMFpsMDcxRVE?oc=5",
+        "tags": [
+          "Normen"
+        ]
+      },
+      {
         "title": "KI-Lösungen für Gebäude - buildingTIMES",
         "source": "buildingTIMES",
         "publishedAt": "2026-10-09T07:11:22+00:00",
@@ -477,26 +497,6 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
-        "source": "Fuldaer Zeitung",
-        "publishedAt": "2026-08-26T07:00:00+00:00",
-        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
-        ]
-      },
-      {
-        "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
-        "source": "myheimat.de",
-        "publishedAt": "2026-08-22T07:00:00+00:00",
-        "summary": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 myheimat.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
-        "tags": [
-          "myheimat.de"
         ]
       }
     ]
