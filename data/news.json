@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T13:12:50.251825+00:00",
+  "generatedAt": "2026-10-11T18:14:03.643735+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -126,6 +126,17 @@
     ],
     "pfs": [
       {
+        "title": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-10-11T13:30:46+00:00",
+        "summary": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVItRk04cUg4ZHRXZF8yTHlhTE9ERzFLZ0JBOXNsa1JaUlVUYUVUUzFpRHBHRU1reE9hc3lzakM3NGRHMlIteC0yVWN4NlV2SFlaX2xJbWt5VFVudTRsUlpVejZETW5mUkFXRDdveVFBX3BTeFlkRHE4T2gyVnhwOUxrcTFlYlVNZDZZQ2ljeEI2aVZ0dTJzaWdUeVRWVUxQ?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "DEAL | Bosch Spotless 2 Advanced für 885,70 € zum Bestpreis im Angebot! - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-10-11T09:17:54+00:00",
@@ -156,6 +167,16 @@
         "tags": [
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-10-09T13:35:12+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2ZFp1Rkxoa3NNenFSOTVfSWEzbWxOdFFvWEVYX181UmdwdmFlNDBTcndtRXk4a0FESFRfNUFSdnpNaVdMYW05QnhoV29MTDBHQXAwR2dFUmhYbWdYNWxNOFI2OTdjc2hFMThEUmZaQXFYVUkwdUhv?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -213,6 +234,16 @@
         ]
       },
       {
+        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-07T18:05:30+00:00",
+        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTBPUXBpQllmejNRTVlBUTRTMjhEbHhVLWdLSXUtRXB1Rm5UdVBXY3pzdG9jelQ3RGJhQTBZNXUxRWJnTHY2SDJOOXQ0QVZ3c0tOZGluTVVWcEt5aElWdXR1VnF3NzRnd2ZvdmVvM3hhQU1xaUxmWTBnWnBwLW9aQkhNUzVoMVoxVVF4cE5GWHRKd1Z4MHdjNjFycnh6VUI5dVE?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Amazon: Bosch Smart Home Heizkörper-Thermostat II - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-10-07T17:44:16+00:00",
@@ -222,38 +253,6 @@
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Komplette Alarmanlage ist aktuell zum Schnäppchenpreis erhältlich - Giga",
-        "source": "Giga",
-        "publishedAt": "2026-10-07T16:15:00+00:00",
-        "summary": "Komplette Alarmanlage ist aktuell zum Schnäppchenpreis erhältlich Giga",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWFxX0RCWFRtMzREYVF3VUVXdy1JUWpCUDBwaEdrempxTU5BcmpqNnFQV2lqZV9zWFY1aVN6S1ZCbldIa3NxNThLdGZVM2JBUVVzM3ZSZmhYbkp5S0lyZVBNTUN4aE1VWVB4dHZibFNYZUtyZUExWWhYZmRJUGNCQlF2UUR6QlBGV2Y4dE12cVNzaDF1eFozWU5QQTJMb0JmaGEwRld0OGhRakdDWlhLeUFVX2c2cFBQVGdqeg?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense - iTopnews",
-        "source": "iTopnews",
-        "publishedAt": "2026-10-07T13:51:00+00:00",
-        "summary": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense iTopnews",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGFmWENzNHBub1pWRVFrSHRLTEsyN1VGNUpFcDQ4LXhHQmoyaFg2WjB2X2hUVi0zMzYxM3NweGUtZDJNRG5UR3Rhb0dNb0JKMFE2Y0psQjFHaDRmZFc4QWwzd1NxV3dyYkZSWWFZd28wdUdTanNDRzVYb01WQklSLUZlS3ZlSTQ5Z0lIZDBXTUhhRWdZMW1UNg?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-10-07T09:30:00+00:00",
-        "summary": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTjdlNkJ6YlNGcmRNM01oYmgzc29GclNaaXFkSXdTOFdNLVhwZlo3VHFlaE9nQ0Z4U3g3RThTVy1GdjktbFFWSzV6d01zRnVNQTdXWTF3V3lTNU91cUd2S0E3SUdkNC0ybno5RWxkbXgxRVk4UUcxT0lOSWs1V0RXQVFtRG5YaTNSdmgyVmc3dlR4Z193NF9OeHRPel9iOGFsOVFtTHdwWW9QZ1V5R25QbnlWbmpJTFhmYmZKak1ZMjVGYTR1ZkJPcXRIRnk1cFlaSDJ2NVo0MTIza2N0ank3WExsbmVWNXc?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
         ]
       }
     ],
@@ -391,16 +390,6 @@
         ]
       },
       {
-        "title": "KI-Lösungen für Gebäude - buildingTIMES",
-        "source": "buildingTIMES",
-        "publishedAt": "2026-10-09T07:11:22+00:00",
-        "summary": "KI-Lösungen für Gebäude buildingTIMES",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZUUlNQXhTNktpUHlDa0FfZlJKY0xTTGZBMURVbW5LZGN0S3ZzQ1N2RUlqTlpkQ1F2eWhYMHRTSWZvSDR1ZFk3amU4NEc5NGdYa0twQ1l3NVZ1dEcycnZTVEI5S29wN3ktdHJjc1BQOUVIZDdQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - produktion.de",
         "source": "produktion.de",
         "publishedAt": "2026-10-07T13:49:11+00:00",
@@ -412,10 +401,10 @@
         ]
       },
       {
-        "title": "﻿Gut geplant ist halb gelüftet - Gebäude-Energieberater",
+        "title": "Lüftung als sicherheitsrelevante Gebäudetechnik - ﻿Gut geplant ist halb gelüftet - Gebäude-Energieberater",
         "source": "Gebäude-Energieberater",
         "publishedAt": "2026-10-06T13:41:56+00:00",
-        "summary": "﻿Gut geplant ist halb gelüftet Gebäude-Energieberater",
+        "summary": "Lüftung als sicherheitsrelevante Gebäudetechnik - ﻿Gut geplant ist halb gelüftet Gebäude-Energieberater",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXF3YVc0V051bzFvX3k2SnRkMHZxOXk1LTRQREpVakEybjRNRko2eGJxTU1tb2ZET1pGUXpRdkZnUzRTSi03R0RGUERMYnFKOW9fcWtCYktLeUl1RU5jOEN0eUF6Rm1mM0FZMHozOVA1NnJUVUJjb3o2WTZFcjVKTjg5TEwyWk1fVEg5ZTdLLVNjZEV2VFFnWFFfaml5eTd5b1BITzlkRExEM3A1aEoyVm5JMjVMazg?oc=5",
         "tags": [
           "Gebäude-Energieberater"
@@ -439,6 +428,16 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSFNoRXJrYjluY2tHMFo1RGY0WE5BM1JtZElaNGRoYTVQb0QzM0JHV29yTzhYTEk4Zi0yekRlQm5HVGZxb0o1Mndienc3bFlLX3hxbG1rU25jUXhWUnVQenVZTzdxS0hZTVFNdlhQcUw?oc=5",
         "tags": [
           "Handwerk und Bau"
+        ]
+      },
+      {
+        "title": "Wheeling: Neue Kita im Dream Center – Renovierung mit Brandschutz-Systemen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-09-28T06:10:43+00:00",
+        "summary": "Wheeling: Neue Kita im Dream Center – Renovierung mit Brandschutz-Systemen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWxwYUN3T3RXZlBxeGs4UnRrWTZ2NUN2aXFkNl9oUHV4OXZKemhwakFzR2ZNOU13dHlMOVNrbnMxdVc5VnR5elZZeldCSHh3cHpoLW1rN0JLcVgxdjBVNUFmdGxWT2NocEVnZUFFZHdZUkMwbjhiLWs0WkZMX0drN2trNDdqdVFuTGwtMkNzdU80cVJtcVZjYWpxNTRzdzNDSVR4aXdB?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
