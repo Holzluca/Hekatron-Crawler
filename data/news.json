@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T17:14:05.370444+00:00",
+  "generatedAt": "2026-10-12T23:42:03.858172+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -148,17 +148,6 @@
         ]
       },
       {
-        "title": "DEAL | Bosch Spotless Advanced für 219,99 € zum Bestpreis im Angebot! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-10-09T23:04:14+00:00",
-        "summary": "DEAL | Bosch Spotless Advanced für 219,99 € zum Bestpreis im Angebot! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUlEQzBNWlI1X3lxYk1pUEZBN1BDSVVLZVl2WnlLMXBWY0xfbFVyclRXa1N6S2FQRUZTWTRBQ1lwdHBxbG1qUmtZREFBa1h5Q09nMlJSdldiUGdKTmg3cHk2YVdKOEdiVVllQ1NIdGVMTWpLQ19ReXI0TkJrWXd5RzB3?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-10-09T20:42:47+00:00",
@@ -203,16 +192,6 @@
         ]
       },
       {
-        "title": "Rauchmelder für die ganze Wohnung: Gutes Komplett-Set für 62 Euro? - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-08T13:16:36+00:00",
-        "summary": "Rauchmelder für die ganze Wohnung: Gutes Komplett-Set für 62 Euro? n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWhFc1ROYzZkZU1JSUV2a2FpVGdMSnpCUkY4SDFwaEdRbkVxU2JXWDYxNGQ0M1BOR2xoc2VKektLTnBDRjB1UlQ1V1RjYmRKV1JJc052aHktWUg2c3dXc1h5R2xjVXVNTUt2dENMSVJNMFJNRF9xRG9YMHJlMGFaTE9pUU8yOUhaY21JeUpSNlhBQ3lLbkwxWEJKSXp5WW9CbnhVeWhuMkdyaF9jUUVmTm1TYWV0d19qM0dfTFRiOGc?oc=5",
-        "tags": [
-          "n-tv.de"
-        ]
-      },
-      {
         "title": "Amazon: X-Sense Mini Rauchmelder 6 Stück - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-10-08T07:06:42+00:00",
@@ -254,14 +233,36 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense - iTopnews",
+        "source": "iTopnews",
+        "publishedAt": "2026-10-07T13:51:00+00:00",
+        "summary": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense iTopnews",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGFmWENzNHBub1pWRVFrSHRLTEsyN1VGNUpFcDQ4LXhHQmoyaFg2WjB2X2hUVi0zMzYxM3NweGUtZDJNRG5UR3Rhb0dNb0JKMFE2Y0psQjFHaDRmZFc4QWwzd1NxV3dyYkZSWWFZd28wdUdTanNDRzVYb01WQklSLUZlS3ZlSTQ5Z0lIZDBXTUhhRWdZMW1UNg?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-10-07T09:30:00+00:00",
+        "summary": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTjdlNkJ6YlNGcmRNM01oYmgzc29GclNaaXFkSXdTOFdNLVhwZlo3VHFlaE9nQ0Z4U3g3RThTVy1GdjktbFFWSzV6d01zRnVNQTdXWTF3V3lTNU91cUd2S0E3SUdkNC0ybno5RWxkbXgxRVk4UUcxT0lOSWs1V0RXQVFtRG5YaTNSdmgyVmc3dlR4Z193NF9OeHRPel9iOGFsOVFtTHdwWW9QZ1V5R25QbnlWbmpJTFhmYmZKak1ZMjVGYTR1ZkJPcXRIRnk1cFlaSDJ2NVo0MTIza2N0ank3WExsbmVWNXc?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-09-17T14:14:23+00:00",
-        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
+        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
         "tags": [
           "Apollo"
@@ -338,10 +339,10 @@
         ]
       },
       {
-        "title": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück - airliners.de",
-        "source": "airliners.de",
+        "title": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück - Airliners.de",
+        "source": "Airliners.de",
         "publishedAt": "2026-08-06T07:00:00+00:00",
-        "summary": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück airliners.de",
+        "summary": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück Airliners.de",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jblNXcnhXak9KOXdiSUdfVkU4dEJ5aVZ4QTRBck5HQ2k0cjB4blE3ZTY5OU9HNURmclJOYWplRzh5c1pqQUh4SWJBSWJQLXhzWnRFRjkzUlpRbV9nd0NJN3o4MXB2Um9xWHM3a0N3NEloaUx0ejl4ZW1Da1c?oc=5",
         "tags": [
           "Apollo"
@@ -358,16 +359,6 @@
         ]
       },
       {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
-        "source": "das investment",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
-        "tags": [
-          "das investment"
-        ]
-      },
-      {
         "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
         "source": "Börsen-Zeitung",
         "publishedAt": "2026-07-27T07:00:00+00:00",
@@ -375,6 +366,16 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
         "tags": [
           "Börsen-Zeitung"
+        ]
+      },
+      {
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
+        "source": "das investment",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
+        "tags": [
+          "das investment"
         ]
       }
     ],
@@ -421,6 +422,16 @@
         ]
       },
       {
+        "title": "Wheeling: Neue Kita im Dream Center – Renovierung mit Brandschutz-Systemen - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-09-28T06:10:43+00:00",
+        "summary": "Wheeling: Neue Kita im Dream Center – Renovierung mit Brandschutz-Systemen it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWxwYUN3T3RXZlBxeGs4UnRrWTZ2NUN2aXFkNl9oUHV4OXZKemhwakFzR2ZNOU13dHlMOVNrbnMxdVc5VnR5elZZeldCSHh3cHpoLW1rN0JLcVgxdjBVNUFmdGxWT2NocEVnZUFFZHdZUkMwbjhiLWs0WkZMX0drN2trNDdqdVFuTGwtMkNzdU80cVJtcVZjYWpxNTRzdzNDSVR4aXdB?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-09-25T10:40:25+00:00",
@@ -438,16 +449,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlJjT1lFU3h3MmxoTmZCMnktYi03SFp6TXNIbUNaX2NScFNvUTcwS3RMMm1ZQ1FwdVdmX3hhYkZwdElndlZNYWFnUm5YdVE3OU5FU3VneURCR2JueFdSNjNnQVRLRjI0Z0ZVRkJjei0zUy1EVWN3OGFJUjhRSkZDeVVydEhBNHgxVW5hVVBGMDFoaWZkSUNKMnV6VQ?oc=5",
         "tags": [
           "it boltwise"
-        ]
-      },
-      {
-        "title": "Brandschutz, KNX und Normen: So verdichtet die Elektrobranche ihr Wissen in 2024/2026 - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-09-18T15:32:51+00:00",
-        "summary": "Brandschutz, KNX und Normen: So verdichtet die Elektrobranche ihr Wissen in 2024/2026 it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMllhaDRKck5uUG9aRUM0Zm5laktMQm04VHZ6MEJTbTFtenBRaTRnNGhqdEQxMHctdWZobW9sQmxqTU5rd3Vfc3lYMTJYZWNyZk5sTHRjWXd5TFZuYW1xczdFNFFycmFPNVUxXzFkSEV3S05HNkxtZkZnRjZvTlhNSzdIS0wyRnRPUjd2eEhZemYxbk5oYVg1dDM4QWhORkNKYTdYS3hTck9BTE5MWC1zc2NQTDVhdw?oc=5",
-        "tags": [
-          "Normen"
         ]
       },
       {
