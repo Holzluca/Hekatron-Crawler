@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T07:50:25.718698+00:00",
+  "generatedAt": "2026-10-12T17:14:05.370444+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -234,16 +234,6 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-07T18:05:30+00:00",
-        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTBPUXBpQllmejNRTVlBUTRTMjhEbHhVLWdLSXUtRXB1Rm5UdVBXY3pzdG9jelQ3RGJhQTBZNXUxRWJnTHY2SDJOOXQ0QVZ3c0tOZGluTVVWcEt5aElWdXR1VnF3NzRnd2ZvdmVvM3hhQU1xaUxmWTBnWnBwLW9aQkhNUzVoMVoxVVF4cE5GWHRKd1Z4MHdjNjFycnh6VUI5dVE?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Amazon: Bosch Smart Home Heizkörper-Thermostat II - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-10-07T17:44:16+00:00",
@@ -254,14 +244,24 @@
           "Bosch",
           "Smart Home"
         ]
+      },
+      {
+        "title": "Komplette Alarmanlage ist aktuell zum Schnäppchenpreis erhältlich - Giga",
+        "source": "Giga",
+        "publishedAt": "2026-10-07T16:15:00+00:00",
+        "summary": "Komplette Alarmanlage ist aktuell zum Schnäppchenpreis erhältlich Giga",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWFxX0RCWFRtMzREYVF3VUVXdy1JUWpCUDBwaEdrempxTU5BcmpqNnFQV2lqZV9zWFY1aVN6S1ZCbldIa3NxNThLdGZVM2JBUVVzM3ZSZmhYbkp5S0lyZVBNTUN4aE1VWVB4dHZibFNYZUtyZUExWWhYZmRJUGNCQlF2UUR6QlBGV2Y4dE12cVNzaDF1eFozWU5QQTJMb0JmaGEwRld0OGhRakdDWlhLeUFVX2c2cFBQVGdqeg?oc=5",
+        "tags": [
+          "Ei"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-17T14:14:23+00:00",
-        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab AD HOC NEWS",
+        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
         "tags": [
           "Apollo"
@@ -358,16 +358,6 @@
         ]
       },
       {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
-        "tags": [
-          "Börsen-Zeitung"
-        ]
-      },
-      {
         "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
         "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
@@ -376,19 +366,19 @@
         "tags": [
           "das investment"
         ]
+      },
+      {
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
+        "tags": [
+          "Börsen-Zeitung"
+        ]
       }
     ],
     "trends": [
-      {
-        "title": "US-Informatikprofessor veröffentlicht Artikel: KI zerstört jahrtausendealtes mathematisches Gebäude der Menschheit – das mathematische Weltende ist gekommen - 36Kr",
-        "source": "36Kr",
-        "publishedAt": "2026-10-09T16:43:00+00:00",
-        "summary": "US-Informatikprofessor veröffentlicht Artikel: KI zerstört jahrtausendealtes mathematisches Gebäude der Menschheit – das mathematische Weltende ist gekommen 36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrbVp6OUZ4bEw1OU00eF9iRS03NXg1S2ptbDk5R3ltZ25NUDFSSFpEcGpHVkhueWZHcHBzWmxVUHhKeDFfTDIwejBxR2Zyc21ZcEkw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
       {
         "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
         "source": "Produktion Online",
@@ -408,6 +398,16 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXF3YVc0V051bzFvX3k2SnRkMHZxOXk1LTRQREpVakEybjRNRko2eGJxTU1tb2ZET1pGUXpRdkZnUzRTSi03R0RGUERMYnFKOW9fcWtCYktLeUl1RU5jOEN0eUF6Rm1mM0FZMHozOVA1NnJUVUJjb3o2WTZFcjVKTjg5TEwyWk1fVEg5ZTdLLVNjZEV2VFFnWFFfaml5eTd5b1BITzlkRExEM3A1aEoyVm5JMjVMazg?oc=5",
         "tags": [
           "Gebäude-Energieberater"
+        ]
+      },
+      {
+        "title": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen - Schwäbische Post",
+        "source": "Schwäbische Post",
+        "publishedAt": "2026-09-30T10:00:00+00:00",
+        "summary": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen Schwäbische Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
+        "tags": [
+          "Schwäbische Post"
         ]
       },
       {
@@ -491,13 +491,13 @@
         ]
       },
       {
-        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
-        "source": "Fuldaer Zeitung",
-        "publishedAt": "2026-08-26T07:00:00+00:00",
-        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
+        "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
+        "source": "myheimat.de",
+        "publishedAt": "2026-08-22T07:00:00+00:00",
+        "summary": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 myheimat.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
-          "Nachhaltigkeit"
+          "myheimat.de"
         ]
       }
     ]
