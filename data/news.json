@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-10-13T12:33:06.685768+00:00",
+  "generatedAt": "2026-10-13T19:41:36.031144+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
       {
         "title": "Sichere Stromversorgung im Chemielabor - Siemens",
         "source": "Siemens",
@@ -64,10 +54,10 @@
         ]
       },
       {
-        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - Ingenieur.de",
-        "source": "Ingenieur.de",
+        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
+        "source": "ingenieur.de",
         "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel Ingenieur.de",
+        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
         "tags": [
           "Siemens"
@@ -122,6 +112,17 @@
         "tags": [
           "elektro.net"
         ]
+      },
+      {
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-05-05T12:32:58+00:00",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
       }
     ],
     "pfs": [
@@ -137,10 +138,10 @@
         ]
       },
       {
-        "title": "DEAL | Bosch Spotless 2 Advanced für 885,70 € zum Bestpreis im Angebot! - SmarthomeAssistent",
+        "title": "Saugt, während du unterwegs bist | Bosch Spotless 2 Advanced zum fairen Preis - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-10-11T09:17:54+00:00",
-        "summary": "DEAL | Bosch Spotless 2 Advanced für 885,70 € zum Bestpreis im Angebot! SmarthomeAssistent",
+        "summary": "Saugt, während du unterwegs bist | Bosch Spotless 2 Advanced zum fairen Preis SmarthomeAssistent",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlPS2tEcVRNbnVIRDV3Mjl4cnRoazBqUE1QSW9YaW9aOUFxclI2U3lPTEZIMXFnUGU0WVhzZDRvQzFFTzdqMnljSVIzUWZMcmdmdEZvOXZSSnMwRWpPMzNDcmpFaHM5R0xkN1ZyRTVlUXh0VmlhQU9KTEViSExEZlZB?oc=5",
         "tags": [
           "Ei",
@@ -259,6 +260,16 @@
     ],
     "doors": [
       {
+        "title": "Easyjet rechnet Anfang 2027 mit Abschluss der Apollo-Übernahme - airliners.de",
+        "source": "airliners.de",
+        "publishedAt": "2026-10-13T06:45:00+00:00",
+        "summary": "Easyjet rechnet Anfang 2027 mit Abschluss der Apollo-Übernahme airliners.de",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGhVY2VUcldyVFBfLTZER0VSclkwaHA1RjEzN3lHY0dWMXlxVjFCbF9RTUYyUy1tbTVXVk96NVdMZ2F5dVpPWDMyelZQeC0wdGRBUUt5cGRqQVIzRHljWUVYZHlxUk1HQ1JTX2VzY0hfc1BWMEdfNk41cHZVWUpzdGxXMGk?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-17T14:14:23+00:00",
@@ -294,16 +305,6 @@
         "publishedAt": "2026-08-25T07:00:00+00:00",
         "summary": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme airliners.de",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzM2eFlhSF9GcXpsTVg2NERlOXN4OEtVd2ZvYkxyMGt4aHROcl9UQldjS1EwbnNfeFlUaEtkcE1vR2o3ZTFBSTIxNXZfX0x3WDg0NVZZY2d1S090YlFSRXBGSWg1NlU4QkVjSm81MXZIcGtPdjhVUDQ0Z0I4MC1adHJmbG1aUzRISE1xTTdlTFo?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
-        "source": "Manager Magazin",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -380,6 +381,16 @@
       }
     ],
     "trends": [
+      {
+        "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-10-13T16:37:34+00:00",
+        "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
+        "tags": [
+          "Nau"
+        ]
+      },
       {
         "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
         "source": "Produktion Online",
@@ -487,16 +498,6 @@
         "publishedAt": "2026-08-21T07:00:00+00:00",
         "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
-        "source": "tagesschau.de",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
         ]
