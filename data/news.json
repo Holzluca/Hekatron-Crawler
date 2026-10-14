@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T03:06:11.413275+00:00",
+  "generatedAt": "2026-10-14T08:54:13.886531+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,22 +127,21 @@
     ],
     "pfs": [
       {
+        "title": "Saugt, während du unterwegs bist | Bosch Spotless 2 Advanced günstig wie selten - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-13T11:39:12+00:00",
+        "summary": "Saugt, während du unterwegs bist | Bosch Spotless 2 Advanced günstig wie selten SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlPS2tEcVRNbnVIRDV3Mjl4cnRoazBqUE1QSW9YaW9aOUFxclI2U3lPTEZIMXFnUGU0WVhzZDRvQzFFTzdqMnljSVIzUWZMcmdmdEZvOXZSSnMwRWpPMzNDcmpFaHM5R0xkN1ZyRTVlUXh0VmlhQU9KTEViSExEZlZB?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-10-11T13:30:46+00:00",
         "summary": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVItRk04cUg4ZHRXZF8yTHlhTE9ERzFLZ0JBOXNsa1JaUlVUYUVUUzFpRHBHRU1reE9hc3lzakM3NGRHMlIteC0yVWN4NlV2SFlaX2xJbWt5VFVudTRsUlpVejZETW5mUkFXRDdveVFBX3BTeFlkRHE4T2gyVnhwOUxrcTFlYlVNZDZZQ2ljeEI2aVZ0dTJzaWdUeVRWVUxQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Saugt, während du unterwegs bist | Bosch Spotless 2 Advanced zum fairen Preis - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-10-11T09:17:54+00:00",
-        "summary": "Saugt, während du unterwegs bist | Bosch Spotless 2 Advanced zum fairen Preis SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlPS2tEcVRNbnVIRDV3Mjl4cnRoazBqUE1QSW9YaW9aOUFxclI2U3lPTEZIMXFnUGU0WVhzZDRvQzFFTzdqMnljSVIzUWZMcmdmdEZvOXZSSnMwRWpPMzNDcmpFaHM5R0xkN1ZyRTVlUXh0VmlhQU9KTEViSExEZlZB?oc=5",
         "tags": [
           "Ei",
           "Bosch"
@@ -360,16 +359,6 @@
         ]
       },
       {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
-        "tags": [
-          "Börsen-Zeitung"
-        ]
-      },
-      {
         "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
         "source": "das investment",
         "publishedAt": "2026-07-27T07:00:00+00:00",
@@ -377,6 +366,16 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
           "das investment"
+        ]
+      },
+      {
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
+        "tags": [
+          "Börsen-Zeitung"
         ]
       }
     ],
@@ -389,6 +388,16 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
         "tags": [
           "Nau"
+        ]
+      },
+      {
+        "title": "IT:U Innovation Lab: WIFI-Gebäude wird WKO Bildungscampus – KI und Robotik im Fokus - MeinBezirk.at",
+        "source": "MeinBezirk.at",
+        "publishedAt": "2026-10-13T12:44:34+00:00",
+        "summary": "IT:U Innovation Lab: WIFI-Gebäude wird WKO Bildungscampus – KI und Robotik im Fokus MeinBezirk.at",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWC14VHVNVC1oNHNNZFlwa20zX3dZckRObTNrXy02YnNfWm8tT2h1Q05LTXpBVUdtOEhNMS13NGI0bFpocWp5b3o0a2RmSTJqMTl0TXhKRDFVdlUtUTRWbWJPTkNYdnpzcnpFalhTdVpmYkZDYkhiWjdWSjJEOU83bXFWVzJZVDFieDJSdFU0YVhsczRXMWFoVnBTUjRfQ04wMmhfWndiM3VYblB3TEhYQTI2dFlaOEpBS1NuYXE0TQ?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -490,16 +499,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
           "myheimat.de"
-        ]
-      },
-      {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
-        "publishedAt": "2026-08-21T07:00:00+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
