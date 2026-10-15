@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T04:57:44.525737+00:00",
+  "generatedAt": "2026-10-15T09:38:05.848871+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -300,16 +300,6 @@
         ]
       },
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
         "title": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme - airliners.de",
         "source": "airliners.de",
         "publishedAt": "2026-08-25T07:00:00+00:00",
@@ -378,6 +368,16 @@
         "tags": [
           "Börsen-Zeitung"
         ]
+      },
+      {
+        "title": "Keine Akteneinsicht für Journalisten mehr: Noch schärfere Einschränkungen beim Informationsfreiheitsgesetz geplant - Apollo News",
+        "source": "Apollo News",
+        "publishedAt": "2026-07-24T07:00:00+00:00",
+        "summary": "Keine Akteneinsicht für Journalisten mehr: Noch schärfere Einschränkungen beim Informationsfreiheitsgesetz geplant Apollo News",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaDFkUXJWMTNReGlCbm9Rd1JuQW1hMk9RYU8xT2Ixb2FEdThwSE42ZXNLclBiUnY3dFNuZWxOQTZFSk0xd1VoUFZ6X0NTdXpkQm56RXJsbERDb0JvY0s0cVdURlI2OTAwV3V4akZJM1ZpaXZGTnhOYmdVVjRkWjgwRlZIN3hiQWNmaTZub3VtMkY1T05KdkdNRDNxM0hOblg1S3kzX3pRSGNyM25mNmlOQ3pMZkhhMExUZlJfVHlaZFAtZmdfTWE3eEVOcUVqSEdQX1lOWTFvNA?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
@@ -409,6 +409,16 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
         "tags": [
           "Retrofit",
+          "AI"
+        ]
+      },
+      {
+        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
+        "source": "Investing.com Deutsch",
+        "publishedAt": "2026-10-06T12:38:00+00:00",
+        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
+        "tags": [
           "AI"
         ]
       },
@@ -490,16 +500,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
           "myheimat.de"
-        ]
-      },
-      {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
-        "publishedAt": "2026-08-21T07:00:00+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
