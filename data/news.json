@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:22:41.965593+00:00",
+  "generatedAt": "2026-10-15T04:57:44.525737+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -29,16 +29,6 @@
         "publishedAt": "2026-08-11T07:00:00+00:00",
         "summary": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude TGA+E Fachplaner",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE1taks1ZmJGbmJCTmloWGVNdEZKUVpmMWV0eVR4U2ZGdk8tLXppejliMHBEX0tqTzFSNjdYcWRQa0FlbHlLeEF5UlE1YlNjU01GZDNucjdLblpCR19oaVhlaWZheTlELUJTeFZ3UkpHMk9MU01ZUzVsNzFoei1DUlBsbV9YSWtmbWtfcEw1NmFRZ29RYktTSDRLX0xmQ04zM0JwQg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Globaler Schutz und Schutz 2026 - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-08-06T16:58:38+00:00",
-        "summary": "Globaler Schutz und Schutz 2026 Siemens",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -122,6 +112,16 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-23T13:31:53+00:00",
+        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -247,11 +247,11 @@
         ]
       },
       {
-        "title": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-10-07T09:30:00+00:00",
-        "summary": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTjdlNkJ6YlNGcmRNM01oYmgzc29GclNaaXFkSXdTOFdNLVhwZlo3VHFlaE9nQ0Z4U3g3RThTVy1GdjktbFFWSzV6d01zRnVNQTdXWTF3V3lTNU91cUd2S0E3SUdkNC0ybno5RWxkbXgxRVk4UUcxT0lOSWs1V0RXQVFtRG5YaTNSdmgyVmc3dlR4Z193NF9OeHRPel9iOGFsOVFtTHdwWW9QZ1V5R25QbnlWbmpJTFhmYmZKak1ZMjVGYTR1ZkJPcXRIRnk1cFlaSDJ2NVo0MTIza2N0ank3WExsbmVWNXc?oc=5",
+        "title": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense - iTopnews",
+        "source": "iTopnews",
+        "publishedAt": "2026-10-07T13:51:00+00:00",
+        "summary": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense iTopnews",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGFmWENzNHBub1pWRVFrSHRLTEsyN1VGNUpFcDQ4LXhHQmoyaFg2WjB2X2hUVi0zMzYxM3NweGUtZDJNRG5UR3Rhb0dNb0JKMFE2Y0psQjFHaDRmZFc4QWwzd1NxV3dyYkZSWWFZd28wdUdTanNDRzVYb01WQklSLUZlS3ZlSTQ5Z0lIZDBXTUhhRWdZMW1UNg?oc=5",
         "tags": [
           "Ei",
           "X-Sense"
@@ -300,6 +300,16 @@
         ]
       },
       {
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
+      },
+      {
         "title": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme - airliners.de",
         "source": "airliners.de",
         "publishedAt": "2026-08-25T07:00:00+00:00",
@@ -325,26 +335,6 @@
         "publishedAt": "2026-08-17T04:18:14+00:00",
         "summary": "Apollo Hospitals Chennai führt weltweit erste robotergestützte Krebsoperation zur Lymphknotenentfernung mittels Hugo-RAS-Plattform über einen lateralen Zugang durch Apollo Hospitals",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOSGoyelFITGx0ZERUODctaExOZVRMQTBURXN3TTd3N0NyV1pFMjlmRlU5TFNPLXVZWGtWRmRhM1pBWnRJWTVocWxMZU11UHdqVExUY09UbHBqOTdNTlNBN2tLOFM1RE9XakpaT1lUNXFXbE1zWmE5RnFIdlRjUVVGSzJKM3o1R3lhV3ZkYWRsT3BOZS1NRlVYcjQ4RUtJZHgwZ2xXc3UzZ25TaW80dzU3OTczV1ZESXBHdklkdXQ4bDdJWm9Fc2lxZ25WNWRDM25Bajcxei0xclk4SU9LdTdhTmZuRklhZm5LeWk1ekdxRGU5cTFIRXg0QkZrRWEwaXVwWmtBMkVwQnJXeFRVbGticUpqRTZkUQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
-        "source": "Apollo News",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze Apollo News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Castlelake steigt aus – Apollo sichert sich Easyjet - Airliners.de",
-        "source": "Airliners.de",
-        "publishedAt": "2026-08-07T07:00:00+00:00",
-        "summary": "Castlelake steigt aus – Apollo sichert sich Easyjet Airliners.de",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wdXdZTDJucHBUdW1McTNTSlRfcHpwQUZEakdXNmRtTkF1NDVkS0dSSFpPSlVILUxGeXpTODZLOUpPTmZ0eUVIczdiTlNUb3U4ZVlKN29IXzdyczc2WUJabGY5U05KSnU1QXRBUVcxektWdw?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -378,6 +368,16 @@
         "tags": [
           "das investment"
         ]
+      },
+      {
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
+        "tags": [
+          "Börsen-Zeitung"
+        ]
       }
     ],
     "trends": [
@@ -409,16 +409,6 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
         "tags": [
           "Retrofit",
-          "AI"
-        ]
-      },
-      {
-        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-10-06T12:38:00+00:00",
-        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
-        "tags": [
           "AI"
         ]
       },
@@ -500,6 +490,16 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
           "myheimat.de"
+        ]
+      },
+      {
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
+        "source": "Infopoint Security",
+        "publishedAt": "2026-08-21T07:00:00+00:00",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
