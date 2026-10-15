@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T18:49:05.609007+00:00",
+  "generatedAt": "2026-10-15T21:53:47.069969+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -29,16 +29,6 @@
         "publishedAt": "2026-08-11T07:00:00+00:00",
         "summary": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude TGA+E Fachplaner",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE1taks1ZmJGbmJCTmloWGVNdEZKUVpmMWV0eVR4U2ZGdk8tLXppejliMHBEX0tqTzFSNjdYcWRQa0FlbHlLeEF5UlE1YlNjU01GZDNucjdLblpCR19oaVhlaWZheTlELUJTeFZ3UkpHMk9MU01ZUzVsNzFoei1DUlBsbV9YSWtmbWtfcEw1NmFRZ29RYktTSDRLX0xmQ04zM0JwQg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Globaler Schutz und Schutz 2026 - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-08-06T16:58:38+00:00",
-        "summary": "Globaler Schutz und Schutz 2026 Siemens",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -123,9 +113,29 @@
           "Siemens",
           "Brandschutz"
         ]
+      },
+      {
+        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-23T13:31:53+00:00",
+        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Mäht in Bahnen, nicht im Zickzack | Bosch Indego S 500 günstig wie selten - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-15T19:04:53+00:00",
+        "summary": "Mäht in Bahnen, nicht im Zickzack | Bosch Indego S 500 günstig wie selten SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qaEhIUUcxQTVnTnlwWmVZMVEybmxYMzVmcUZLUmwwdkJTby1oRTRnTVRkRXVhN05sSE45ZXI5aWV6RXBEM2Y0RXBGWlhJektwc08tSndGSHM3UkdsaEd3WmpxM2tHZXlfWEtZaVBDaVV0eVFGNFBkNA?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
       {
         "title": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story - PresseBox",
         "source": "PresseBox",
@@ -244,17 +254,6 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWFxX0RCWFRtMzREYVF3VUVXdy1JUWpCUDBwaEdrempxTU5BcmpqNnFQV2lqZV9zWFY1aVN6S1ZCbldIa3NxNThLdGZVM2JBUVVzM3ZSZmhYbkp5S0lyZVBNTUN4aE1VWVB4dHZibFNYZUtyZUExWWhYZmRJUGNCQlF2UUR6QlBGV2Y4dE12cVNzaDF1eFozWU5QQTJMb0JmaGEwRld0OGhRakdDWlhLeUFVX2c2cFBQVGdqeg?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense - iTopnews",
-        "source": "iTopnews",
-        "publishedAt": "2026-10-07T13:51:00+00:00",
-        "summary": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense iTopnews",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGFmWENzNHBub1pWRVFrSHRLTEsyN1VGNUpFcDQ4LXhHQmoyaFg2WjB2X2hUVi0zMzYxM3NweGUtZDJNRG5UR3Rhb0dNb0JKMFE2Y0psQjFHaDRmZFc4QWwzd1NxV3dyYkZSWWFZd28wdUdTanNDRzVYb01WQklSLUZlS3ZlSTQ5Z0lIZDBXTUhhRWdZMW1UNg?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
         ]
       }
     ],
@@ -382,6 +381,16 @@
     ],
     "trends": [
       {
+        "title": "Honeywell stellt Forge Cognition für Gebäude und Industrie vor - NeoTeo",
+        "source": "NeoTeo",
+        "publishedAt": "2026-10-15T10:49:56+00:00",
+        "summary": "Honeywell stellt Forge Cognition für Gebäude und Industrie vor NeoTeo",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEV4bXdwSGdxLUZURVh3MnJYTTY3eUUtaElBRXZCenRMZmlsanExOU5WSW11eElqWXEtbWJ4dC1mS04xZGlIRG9kR3ZadVQteGpoa292Rk10ZDhhR2dXTUdoXzJKOWI0U2JkOW56UWhiVWMtRGVZc0p4MFJPdU9Xdk9XVDFZNHNETGhMNXN5WW10UQ?oc=5",
+        "tags": [
+          "NeoTeo"
+        ]
+      },
+      {
         "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
         "source": "Nau",
         "publishedAt": "2026-10-13T16:37:34+00:00",
@@ -490,16 +499,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
           "myheimat.de"
-        ]
-      },
-      {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
-        "publishedAt": "2026-08-21T07:00:00+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
