@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:09:53.058006+00:00",
+  "generatedAt": "2026-10-16T14:05:22.569726+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,17 @@
     ],
     "pfs": [
       {
+        "title": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-10-16T09:30:47+00:00",
+        "summary": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWZnT3EtclNXdUNEb1dKU2RVQUgzejRRY0w3cDY3b05JTFRGRE1DczRNSW5vZVY4ZDctWVpvZXBaUkNWUU10eW1PR1Z1MlMwRk9RZGtYOVNPZ1UyeE9UTTJPNC02bjZHWDBRQ3RISjVRZnIxUjNqRFZOYk1RSGxMRkJTTnRvamJTUW9tSnVidUhIY3c5d0xWUlhWOW16ZmZENDNuSW5WWkNaMnRERVBQejlmOVZuaDBhM0dvMExES21aS0RMV3g1bWZ3blJFdVZ5cUR0SnRrbjNpVHE2TFFMTklMZnphVVpSWC00VFBJUQ?oc=5",
+        "tags": [
+          "Ei",
+          "Rauchwarnmelder"
+        ]
+      },
+      {
         "title": "Mäht in Bahnen, nicht im Zickzack | Bosch Indego S 500 günstig wie selten - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-10-15T19:04:53+00:00",
@@ -244,18 +255,6 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Amazon: Bosch Smart Home Heizkörper-Thermostat II - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-07T17:44:16+00:00",
-        "summary": "Amazon: Bosch Smart Home Heizkörper-Thermostat II n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTVtaE5PRTFuamlDNXd1SVUyNWJhcWxrRm1kYXo1Q2NMaXpVa2NHYXQzSF85VHRtN2F4cEdqR04tZVhqR1VOWUJfbmxTSUNSUFgtb2lSeTNsbFEtUklQdHJ3Vm83eThRaE5aV0J0X2dVZHVXRkVycHY5a0xDQmV4WF9mUVVMTFVzVklzYmg0ZjNhQUE5T3dkX0l4Q0NueFhK?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
@@ -297,6 +296,16 @@
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOWtiaEJRZVFjUTZWaUxXUzJacG5YclVKV1FIWkVkeVNmLUlRRjdJQVNNMjNPLXVWNzBkdlJZNGVtM2FvNkNGRjNtc2czSG5IX0VqQ1B5am8wYTUwdTBrc1pkcVpLTzJfSmF2M3d0UU9XRGN5TkJOMm5ZaHc3U0ltSG1oZ3hPM2tSOHRJWTVtVG5WXzZ5aUw4cE83LTE4bzJHbzA1MnpTRFo4UEtJdjVrOTdtUnV4SldBWThJNjFUWm8xMzM4UE9CdkhIS08zUTk0X3c?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
+        "tags": [
+          "Spiegel"
         ]
       },
       {
@@ -368,16 +377,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
@@ -402,10 +401,10 @@
         ]
       },
       {
-        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
-        "source": "Produktion Online",
+        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - produktion.de",
+        "source": "produktion.de",
         "publishedAt": "2026-10-07T13:49:11+00:00",
-        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München Produktion Online",
+        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München produktion.de",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
         "tags": [
           "Retrofit",
