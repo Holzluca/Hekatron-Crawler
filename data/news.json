@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-10-16T04:12:34.557641+00:00",
+  "generatedAt": "2026-10-16T09:09:53.058006+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
       {
         "title": "Sichere Stromversorgung im Chemielabor - Siemens",
         "source": "Siemens",
@@ -112,16 +122,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -300,16 +300,6 @@
         ]
       },
       {
-        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
         "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
         "source": "Manager Magazin",
         "publishedAt": "2026-08-19T07:00:00+00:00",
@@ -370,6 +360,16 @@
         ]
       },
       {
+        "title": "Dobrindts großer Lauschangriff: Verfassungsschutz soll Wohnungen verwanzen dürfen - Apollo News",
+        "source": "Apollo News",
+        "publishedAt": "2026-07-17T07:00:00+00:00",
+        "summary": "Dobrindts großer Lauschangriff: Verfassungsschutz soll Wohnungen verwanzen dürfen Apollo News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnVZM1BfVWFJX1RVbmtrdllWZzJRamMwNkJFMUNjbjZKSkZqUFhZRG9HQ1FLaS16eW1feWtkcVpWVVVOakxGZWZoWGR1ZTVHbHUxaXliYU9nZlE4anFRZnJvQm5GTkM2VUMwc2xPc1ZlQWlVbk1FNUFucUdody1ia3R6ZU9yQU5HMHotMEZ5bU5EN0tpVmhRRm4wekRMcHdiM2EzUHl3?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
@@ -381,16 +381,6 @@
       }
     ],
     "trends": [
-      {
-        "title": "Honeywell stellt Forge Cognition für Gebäude und Industrie vor - NeoTeo",
-        "source": "NeoTeo",
-        "publishedAt": "2026-10-15T10:49:56+00:00",
-        "summary": "Honeywell stellt Forge Cognition für Gebäude und Industrie vor NeoTeo",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEV4bXdwSGdxLUZURVh3MnJYTTY3eUUtaElBRXZCenRMZmlsanExOU5WSW11eElqWXEtbWJ4dC1mS04xZGlIRG9kR3ZadVQteGpoa292Rk10ZDhhR2dXTUdoXzJKOWI0U2JkOW56UWhiVWMtRGVZc0p4MFJPdU9Xdk9XVDFZNHNETGhMNXN5WW10UQ?oc=5",
-        "tags": [
-          "NeoTeo"
-        ]
-      },
       {
         "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
         "source": "Nau",
@@ -453,6 +443,16 @@
         ]
       },
       {
+        "title": "KI-gestützte HVAC-Optimierung für intelligente Gebäude - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-09-15T15:38:06+00:00",
+        "summary": "KI-gestützte HVAC-Optimierung für intelligente Gebäude Siemens",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdF9hUGtFd0hkYVN3bnFIM3ZKN3VRbml3bF9nTmNua0RyT3RXNVdOLWM1cno2VjZ5VFRBT3lDSnpLTDJRWXcxb2JvUndvN18zbzdjeFlPQWhzYW1Ta3BVNjUzVWtocF9TdjV3MDVWQmZNbFBXOE9iN2ZqZnBQUHptamE4YVVOd3hkejcxWg?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
         "source": "Gießener Allgemeine",
         "publishedAt": "2026-09-13T07:00:00+00:00",
@@ -493,13 +493,13 @@
         ]
       },
       {
-        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
-        "source": "Fuldaer Zeitung",
-        "publishedAt": "2026-08-26T07:00:00+00:00",
-        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
+        "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
+        "source": "myheimat.de",
+        "publishedAt": "2026-08-22T07:00:00+00:00",
+        "summary": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 myheimat.de",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
         "tags": [
-          "Nachhaltigkeit"
+          "myheimat.de"
         ]
       }
     ]
