@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:00:05.662639+00:00",
+  "generatedAt": "2026-10-16T04:12:34.557641+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -170,6 +170,17 @@
         ]
       },
       {
+        "title": "Feierabend statt Staubsaugen | Bosch Spotless Advanced noch über dem Bestpreis - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-11T10:36:15+00:00",
+        "summary": "Feierabend statt Staubsaugen | Bosch Spotless Advanced noch über dem Bestpreis SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUlEQzBNWlI1X3lxYk1pUEZBN1BDSVVLZVl2WnlLMXBWY0xfbFVyclRXa1N6S2FQRUZTWTRBQ1lwdHBxbG1qUmtZREFBa1h5Q09nMlJSdldiUGdKTmg3cHk2YVdKOEdiVVllQ1NIdGVMTWpLQ19ReXI0TkJrWXd5RzB3?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
         "publishedAt": "2026-10-09T20:42:47+00:00",
@@ -245,16 +256,6 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Komplette Alarmanlage ist aktuell zum Schnäppchenpreis erhältlich - Giga",
-        "source": "Giga",
-        "publishedAt": "2026-10-07T16:15:00+00:00",
-        "summary": "Komplette Alarmanlage ist aktuell zum Schnäppchenpreis erhältlich Giga",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWFxX0RCWFRtMzREYVF3VUVXdy1JUWpCUDBwaEdrempxTU5BcmpqNnFQV2lqZV9zWFY1aVN6S1ZCbldIa3NxNThLdGZVM2JBUVVzM3ZSZmhYbkp5S0lyZVBNTUN4aE1VWVB4dHZibFNYZUtyZUExWWhYZmRJUGNCQlF2UUR6QlBGV2Y4dE12cVNzaDF1eFozWU5QQTJMb0JmaGEwRld0OGhRakdDWlhLeUFVX2c2cFBQVGdqeg?oc=5",
-        "tags": [
-          "Ei"
-        ]
       }
     ],
     "doors": [
@@ -319,16 +320,6 @@
         ]
       },
       {
-        "title": "Castlelake steigt aus – Apollo sichert sich Easyjet - Airliners.de",
-        "source": "Airliners.de",
-        "publishedAt": "2026-08-07T07:00:00+00:00",
-        "summary": "Castlelake steigt aus – Apollo sichert sich Easyjet Airliners.de",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wdXdZTDJucHBUdW1McTNTSlRfcHpwQUZEakdXNmRtTkF1NDVkS0dSSFpPSlVILUxGeXpTODZLOUpPTmZ0eUVIczdiTlNUb3U4ZVlKN29IXzdyczc2WUJabGY5U05KSnU1QXRBUVcxektWdw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück - airliners.de",
         "source": "airliners.de",
         "publishedAt": "2026-08-06T07:00:00+00:00",
@@ -377,6 +368,16 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-10T07:00:00+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
@@ -411,10 +412,10 @@
         ]
       },
       {
-        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - produktion.de",
-        "source": "produktion.de",
+        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
+        "source": "Produktion Online",
         "publishedAt": "2026-10-07T13:49:11+00:00",
-        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München produktion.de",
+        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München Produktion Online",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
         "tags": [
           "Retrofit",
@@ -492,13 +493,13 @@
         ]
       },
       {
-        "title": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 - myheimat.de",
-        "source": "myheimat.de",
-        "publishedAt": "2026-08-22T07:00:00+00:00",
-        "summary": "Langscheune in Rockenhausen 2014: Denkmalgeschütztes Gebäude damals 2014 myheimat.de",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VQUUtBaUVVRUotNUZ1NWRSaHBuMGwwVGVqcFNQQUt5czlUalpIRTM3Nm5CUVlyQWZ3SkJrQUtwNGRnRFRNVlE3aUJTRmpKMEw5TUViQmw5MVk1WHQ5UzhMUThmQUhld0x6Y282VU1BUnBmTENQQXhrYWppRWUweEJyUlBkMVVkd0ktaVhvY1Z3My12czNjT0t3bw?oc=5",
+        "title": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit - Fuldaer Zeitung",
+        "source": "Fuldaer Zeitung",
+        "publishedAt": "2026-08-26T07:00:00+00:00",
+        "summary": "Klimaneutral bis 2045: Bistum Fulda investiert in Gebäude und Nachhaltigkeit Fuldaer Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWxQZUxsb2RUdnpKUXpYWUkycm9KNTN5NnBtcFVFWFA4Q0VScnRlMkplSmNYOTVBQ2dSWHphNXFFZ29oYVNxSEhPbzRycjd3QVBocDlVQWdXb2VfWkZpcXVLZmVYdVg1OUU2dWlaV0F4RkE4cDdLV25RQVNKenJTTWRTTU0yUGFtUnlKVmw3REhBN19MTnlZcmY2UEU4QnN3QTMyRGVFYzRTcy1NbFl2Qm1n?oc=5",
         "tags": [
-          "myheimat.de"
+          "Nachhaltigkeit"
         ]
       }
     ]
