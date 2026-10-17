@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:57:19.298742+00:00",
+  "generatedAt": "2026-10-17T21:58:28.008281+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -320,13 +320,13 @@
         ]
       },
       {
-        "title": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase - Yahoo Finanzen Deutschland",
-        "source": "Yahoo Finanzen Deutschland",
-        "publishedAt": "2026-08-03T07:00:00+00:00",
-        "summary": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase Yahoo Finanzen Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXZGcTYyNlNsOGVqTTkyTnEyNzdGbURXaGRjdE5RUEJTR3Zqa3I0VTh1RkJMWWlneVd2M3NTNHEteHVISHFwQVpFNUltN2JYV1kzMjNzMlJmaVF3N2d4X3R3TElkaXZXcXhNNHFUanozdWpQUG1JQmRkaEx4ZHlVTGpETkVFYkZOajVPZWpIZGFlTUFaOTlObA?oc=5",
+        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
+        "source": "InvestmentWeek",
+        "publishedAt": "2026-07-30T07:00:00+00:00",
+        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
         "tags": [
-          "Apollo"
+          "InvestmentWeek"
         ]
       },
       {
@@ -392,16 +392,6 @@
         ]
       },
       {
-        "title": "IT:U Innovation Lab: WIFI-Gebäude wird WKO Bildungscampus – KI und Robotik im Fokus - MeinBezirk.at",
-        "source": "MeinBezirk.at",
-        "publishedAt": "2026-10-13T12:44:34+00:00",
-        "summary": "IT:U Innovation Lab: WIFI-Gebäude wird WKO Bildungscampus – KI und Robotik im Fokus MeinBezirk.at",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWC14VHVNVC1oNHNNZFlwa20zX3dZckRObTNrXy02YnNfWm8tT2h1Q05LTXpBVUdtOEhNMS13NGI0bFpocWp5b3o0a2RmSTJqMTl0TXhKRDFVdlUtUTRWbWJPTkNYdnpzcnpFalhTdVpmYkZDYkhiWjdWSjJEOU83bXFWVzJZVDFieDJSdFU0YVhsczRXMWFoVnBTUjRfQ04wMmhfWndiM3VYblB3TEhYQTI2dFlaOEpBS1NuYXE0TQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - produktion.de",
         "source": "produktion.de",
         "publishedAt": "2026-10-07T13:49:11+00:00",
@@ -420,6 +410,16 @@
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
         "tags": [
           "AI"
+        ]
+      },
+      {
+        "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
+        "source": "Cornelius Ober GmbH",
+        "publishedAt": "2026-09-28T07:00:00+00:00",
+        "summary": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick Cornelius Ober GmbH",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
+        "tags": [
+          "Gebäudeautomation"
         ]
       },
       {
