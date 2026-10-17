@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-10-17T21:58:28.008281+00:00",
+  "generatedAt": "2026-10-17T23:50:46.288863+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
       {
         "title": "Sichere Stromversorgung im Chemielabor - Siemens",
         "source": "Siemens",
@@ -24,23 +14,14 @@
         ]
       },
       {
-        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
         "tags": [
-          "Augsburger Allgemeine"
-        ]
-      },
-      {
-        "title": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude TGA+E Fachplaner",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE1taks1ZmJGbmJCTmloWGVNdEZKUVpmMWV0eVR4U2ZGdk8tLXppejliMHBEX0tqTzFSNjdYcWRQa0FlbHlLeEF5UlE1YlNjU01GZDNucjdLblpCR19oaVhlaWZheTlELUJTeFZ3UkpHMk9MU01ZUzVsNzFoei1DUlBsbV9YSWtmbWtfcEw1NmFRZ29RYktTSDRLX0xmQ04zM0JwQg?oc=5",
-        "tags": [
-          "Siemens"
+          "Bosch",
+          "Brandschutz"
         ]
       },
       {
@@ -84,16 +65,6 @@
         ]
       },
       {
-        "title": "Neue IoT-Brandmelder präsentiert - buildingTIMES",
-        "source": "buildingTIMES",
-        "publishedAt": "2026-07-01T07:00:00+00:00",
-        "summary": "Neue IoT-Brandmelder präsentiert buildingTIMES",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
-        "tags": [
-          "buildingTIMES"
-        ]
-      },
-      {
         "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-06-04T07:00:00+00:00",
@@ -119,6 +90,37 @@
         "publishedAt": "2026-05-22T07:00:00+00:00",
         "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
+        "tags": [
+          "elektro.net"
+        ]
+      },
+      {
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-05-05T12:32:58+00:00",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
+        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-23T13:31:53+00:00",
+        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Nova-Brandmelder ermöglichen Ferndiagnosen - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-04-10T07:00:00+00:00",
+        "summary": "Nova-Brandmelder ermöglichen Ferndiagnosen elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmRUNllLN041WnY4cjAtTWRjQjFhMDdEb3ozZjhaVDkycllyZmQwWlNRT2FhMmY3YV9aR0hIaTVramt0V042RnppaldjaWJuelJkekZYcW1RSXFhalVtNGw5RUZSNjlEdmQ3NjFfeHQ0VWpxYWJUWmgyX2F4NGkydg?oc=5",
         "tags": [
           "elektro.net"
         ]
@@ -178,6 +180,16 @@
           "Ei",
           "Ei Electronics",
           "Rauchwarnmelder"
+        ]
+      },
+      {
+        "title": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-10-14T07:00:00+00:00",
+        "summary": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen ADAC",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnVvY0ZLa2U5dzFlWlpTd2tfeXRoeGxVQWFiUW5Qd0VQYzlUZ0t3YjRPMG5ELVZJLWxnNUxydUtYRDJVVm1VejRQTWZfbkJRMkRvTVFnMkk4YUE0WXhpZ3NqWXhpSTlqRGdWLUhkYk5yOFo3ZEtZdmhyRjFiaE9NUXQyamNEUGQ5Tksw?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -241,17 +253,6 @@
         "publishedAt": "2026-10-08T20:06:37+00:00",
         "summary": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN1FZVkVlbkQ5OFkxOVVoUkhjV2ZncFFTaExkeThtNk5ocUhaRW5RTHdLTEZMcWd2Q2pSWGFySDVKYWdtQWM0QnpwakNsMC10Tm9IUkRCT2JWaG5PUl83VVJYa2lFSFNNeXBKQzhVd2JOZ3hTVEp0OVdXSzhJVVE5SHg3Tm1kdm5oUGE4RnFmNzltaEE1M0ZZcmNCZV85eXF5MExNN3NzdE5HOU1rLWQ2LXpQYWZjT1BVQkhCNW0xYmw?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Raumthermostat II - misst am Wunschort, unter 2 Jahre Batterien - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-10-07T18:16:21+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II - misst am Wunschort, unter 2 Jahre Batterien ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUTE4WS0xb3Q1ai1IYU5yTExlZDFKNnVGVlFrclZobTlyelNLRmVwT2lUYmhYeWM3VlRfMEZSUUpTTjhRY3RiZmFpVEtPck1NZm42eC1CRDdfcVpFU3VkejBoUWZNRXlfd1FSVHUwcDlvUXNfMUkxS0ZNT1phVTY1UTdYb3pKYmoxY0s4cURvZWFKeHRNMWtUeTZJNkxOdVlRekRtd1RsMk9VR3pMN3cyTVhpUUdTT05aeWc5RVE2ZkQ4SXBVLVJvMEtDVHVhZw?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
