@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-10-17T17:41:38.015291+00:00",
+  "generatedAt": "2026-10-17T19:57:19.298742+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
       {
         "title": "Sichere Stromversorgung im Chemielabor - Siemens",
         "source": "Siemens",
@@ -112,20 +122,21 @@
         "tags": [
           "elektro.net"
         ]
-      },
-      {
-        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-05-05T12:32:58+00:00",
-        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-10-17T19:15:07+00:00",
+        "summary": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1pEYzliRHhRcHRubElJVWtxeFZYN2xYMVc1Z2lxRV9OZVRQUjN0anB3dXZxQm9aNFNqM3RUbV9HanFwQVZNWks1eFU4UU9nM2wtN1lObnR0LWVtcHJuYldGdmpCamNwSnNoWE14WUpSczRuQjNJUTZjVW5raWdOc0hzOW5lNmMzLXpUTXA1cTdUSHdNYmU5ZzNocmRqc0xWV1RxMlNILTgyWjY2WFNURlhqcnU?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
       {
         "title": "Amazon: X-Sense-Rauchmelder 3 Stück mit Basisstation - n-tv.de",
         "source": "n-tv.de",
@@ -245,18 +256,6 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Amazon: Bosch Smart Home Heizkörper-Thermostat II - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-07T17:44:16+00:00",
-        "summary": "Amazon: Bosch Smart Home Heizkörper-Thermostat II n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTVtaE5PRTFuamlDNXd1SVUyNWJhcWxrRm1kYXo1Q2NMaXpVa2NHYXQzSF85VHRtN2F4cEdqR04tZVhqR1VOWUJfbmxTSUNSUFgtb2lSeTNsbFEtUklQdHJ3Vm83eThRaE5aV0J0X2dVZHVXRkVycHY5a0xDQmV4WF9mUVVMTFVzVklzYmg0ZjNhQUE5T3dkX0l4Q0NueFhK?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
@@ -321,6 +320,16 @@
         ]
       },
       {
+        "title": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase - Yahoo Finanzen Deutschland",
+        "source": "Yahoo Finanzen Deutschland",
+        "publishedAt": "2026-08-03T07:00:00+00:00",
+        "summary": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase Yahoo Finanzen Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXZGcTYyNlNsOGVqTTkyTnEyNzdGbURXaGRjdE5RUEJTR3Zqa3I0VTh1RkJMWWlneVd2M3NTNHEteHVISHFwQVpFNUltN2JYV1kzMjNzMlJmaVF3N2d4X3R3TElkaXZXcXhNNHFUanozdWpQUG1JQmRkaEx4ZHlVTGpETkVFYkZOajVPZWpIZGFlTUFaOTlObA?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -328,6 +337,16 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
           "tippinpoint.ch"
+        ]
+      },
+      {
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
+        "tags": [
+          "t3n"
         ]
       },
       {
@@ -356,26 +375,6 @@
         "publishedAt": "2026-07-22T07:00:00+00:00",
         "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Dobrindts großer Lauschangriff: Verfassungsschutz soll Wohnungen verwanzen dürfen - Apollo News",
-        "source": "Apollo News",
-        "publishedAt": "2026-07-17T07:00:00+00:00",
-        "summary": "Dobrindts großer Lauschangriff: Verfassungsschutz soll Wohnungen verwanzen dürfen Apollo News",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnVZM1BfVWFJX1RVbmtrdllWZzJRamMwNkJFMUNjbjZKSkZqUFhZRG9HQ1FLaS16eW1feWtkcVpWVVVOakxGZWZoWGR1ZTVHbHUxaXliYU9nZlE4anFRZnJvQm5GTkM2VUMwc2xPc1ZlQWlVbk1FNUFucUdody1ia3R6ZU9yQU5HMHotMEZ5bU5EN0tpVmhRRm4wekRMcHdiM2EzUHl3?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -421,16 +420,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
         "tags": [
           "AI"
-        ]
-      },
-      {
-        "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
-        "source": "Cornelius Ober GmbH",
-        "publishedAt": "2026-09-28T07:00:00+00:00",
-        "summary": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick Cornelius Ober GmbH",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
-        "tags": [
-          "Gebäudeautomation"
         ]
       },
       {
@@ -491,6 +480,16 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
+        "source": "SWR",
+        "publishedAt": "2026-09-06T07:00:00+00:00",
+        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
+        "tags": [
+          "SWR"
         ]
       },
       {
