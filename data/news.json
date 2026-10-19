@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-10-19T01:29:13.878436+00:00",
+  "generatedAt": "2026-10-19T06:39:00.606202+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
       {
         "title": "Sichere Stromversorgung im Chemielabor - Siemens",
         "source": "Siemens",
@@ -112,20 +122,19 @@
         "tags": [
           "elektro.net"
         ]
-      },
-      {
-        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-05-05T12:32:58+00:00",
-        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten - inside digital",
+        "source": "inside digital",
+        "publishedAt": "2026-10-19T05:29:00+00:00",
+        "summary": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten inside digital",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW04MjJtMkVvbi1EcHFtMFhYT3QxaWVwZXZPbnl2TkxlZk5nSEI0REhDRE5xVnVMRHJXYW9XUlo4VUx6ZnpubkEwTDU2UW9xQU9FNDZpQTVvdVNMWTE5a0VYeWJWT1F1NXd5c1RrRzBuakloSU5VN1FNYVZCZmRVdDBkbm9sR0VyX3E1eWl3Nmhfc1FfRkpBZDlmZjZIcWdRRHlv0gGoAUFVX3lxTE1fTW5vd1ZCWVhWZWlXNENKS0NBQzRCRzRRblU1eGFwRk1lMFRKd1VkUUpVdTZseGRKOVBwRTR2TkhVRXNtSm00X21Sa1NBZFVTbnVFbzgtM19rc2xETUNBMGhZNDBmWWhQNUU0QWZrdjU2d3ptU1diUEN2Tml3eWlKMXlEVXJZaFpWRXFuYmVYVU1xQ1QzOHBkcm1iMFowcHZXRFplUjJsMg?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
       {
         "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -245,30 +254,9 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-10-08T20:06:37+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN1FZVkVlbkQ5OFkxOVVoUkhjV2ZncFFTaExkeThtNk5ocUhaRW5RTHdLTEZMcWd2Q2pSWGFySDVKYWdtQWM0QnpwakNsMC10Tm9IUkRCT2JWaG5PUl83VVJYa2lFSFNNeXBKQzhVd2JOZ3hTVEp0OVdXSzhJVVE5SHg3Tm1kdm5oUGE4RnFmNzltaEE1M0ZZcmNCZV85eXF5MExNN3NzdE5HOU1rLWQ2LXpQYWZjT1BVQkhCNW0xYmw?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
-      {
-        "title": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World - e-fundresearch.com",
-        "source": "e-fundresearch.com",
-        "publishedAt": "2026-10-14T08:28:00+00:00",
-        "summary": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World e-fundresearch.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMWlMSENST1U5QXczOFhqZ09NWFgzck5vcHplcTlFVzJnRDJydXdVUDZxZWZEQUtjMXIxSmxaWDRjcGp1aEFvelUyZ1p1U0UxZnIzSGFUTk5fSUxfQ2tqZFQtOUx4alZzZldUM293cEkxa0dLMUJxaXh5UldPemdvUzJFVEQ1eXFPdXA4OUVtWE5UM1dzUDNEUnUtUWY0eUc2RmV1V3FqcG5SRjYzWm9iUWFCbks5cGJvY3JIaGtNZ24xcnhNZ184STlvQlZCWVozWGV5TUhod1NhUTJhWHBfRnNXVm1yZ3ZXQ1E?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Easyjet rechnet Anfang 2027 mit Abschluss der Apollo-Übernahme - airliners.de",
         "source": "airliners.de",
@@ -295,16 +283,6 @@
         "publishedAt": "2026-08-25T07:00:00+00:00",
         "summary": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme airliners.de",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzM2eFlhSF9GcXpsTVg2NERlOXN4OEtVd2ZvYkxyMGt4aHROcl9UQldjS1EwbnNfeFlUaEtkcE1vR2o3ZTFBSTIxNXZfX0x3WDg0NVZZY2d1S090YlFSRXBGSWg1NlU4QkVjSm81MXZIcGtPdjhVUDQ0Z0I4MC1adHJmbG1aUzRISE1xTTdlTFo?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
-        "source": "Manager Magazin",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -378,6 +356,26 @@
         "tags": [
           "das investment"
         ]
+      },
+      {
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
+        "tags": [
+          "Börsen-Zeitung"
+        ]
+      },
+      {
+        "title": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. - KOHA.net",
+        "source": "KOHA.net",
+        "publishedAt": "2026-07-22T07:00:00+00:00",
+        "summary": "Der Louvre öffnet die Apollo-Galerie erstmals seit dem Diebstahl; wertvolle Juwelen wurden entfernt. KOHA.net",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2dvU2RaazFCcU56TG9jM1NvMUpIXzRxSWNPd0lYVTRoakU4Slk0b3VlVTJ5cFNKOU1aMWkzS2xac1Y2WTE5LU9sY1lVaWpqS0lWd2tlT1VFODBZWXhoR0tHblZPeHhUc21Cbmt0bnRTNlNCN2RmNndFNHlfOHdzOTk2Wm9jdlhkaHR3SzFPYkJQd2Q5N0o5RnMyRUlHWVk4ZXRDNDMyY0RBbURBUl9rUEVhbw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
@@ -415,21 +413,11 @@
       {
         "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
         "source": "Investing.com Deutsch",
-        "publishedAt": "2026-10-06T12:38:00+00:00",
+        "publishedAt": "2026-10-06T07:00:00+00:00",
         "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
         "tags": [
           "AI"
-        ]
-      },
-      {
-        "title": "Lünendonk-Liste: Sicherheitsdienstleister setzen auf KI - Der Facility Manager",
-        "source": "Der Facility Manager",
-        "publishedAt": "2026-09-29T05:58:34+00:00",
-        "summary": "Lünendonk-Liste: Sicherheitsdienstleister setzen auf KI Der Facility Manager",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZEVSb0NBcHdaei1JdUZQNHRqR3pOU1NrbVZjM2lLU1ZrMWFLTm9Pd2NZVVBvdEJnZ2tXYkVGbjhBZlhVUk5lYlNsV1czTmlhVjU2Nzc4VUptVWJRT01oQk1OX2NHcnhISjc0cnVWbk1zVEZBM2NoV2QzR3BUZzUyR1hyWHlnTVlFbENCN0pteUludTZHTGlHanhrclR3T3c?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
@@ -440,6 +428,16 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
         "tags": [
           "Gebäudeautomation"
+        ]
+      },
+      {
+        "title": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise - MarketScreener Schweiz",
+        "source": "MarketScreener Schweiz",
+        "publishedAt": "2026-09-23T10:00:22+00:00",
+        "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
