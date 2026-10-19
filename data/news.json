@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T20:02:02.091112+00:00",
+  "generatedAt": "2026-10-19T23:50:08.049304+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -233,17 +233,6 @@
         ]
       },
       {
-        "title": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-10-11T13:30:46+00:00",
-        "summary": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVItRk04cUg4ZHRXZF8yTHlhTE9ERzFLZ0JBOXNsa1JaUlVUYUVUUzFpRHBHRU1reE9hc3lzakM3NGRHMlIteC0yVWN4NlV2SFlaX2xJbWt5VFVudTRsUlpVejZETW5mUkFXRDdveVFBX3BTeFlkRHE4T2gyVnhwOUxrcTFlYlVNZDZZQ2ljeEI2aVZ0dTJzaWdUeVRWVUxQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "Feierabend statt Staubsaugen | Bosch Spotless Advanced noch über dem Bestpreis - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-10-11T10:36:15+00:00",
@@ -253,9 +242,30 @@
           "Ei",
           "Bosch"
         ]
+      },
+      {
+        "title": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-10-11T07:00:00+00:00",
+        "summary": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVItRk04cUg4ZHRXZF8yTHlhTE9ERzFLZ0JBOXNsa1JaUlVUYUVUUzFpRHBHRU1reE9hc3lzakM3NGRHMlIteC0yVWN4NlV2SFlaX2xJbWt5VFVudTRsUlpVejZETW5mUkFXRDdveVFBX3BTeFlkRHE4T2gyVnhwOUxrcTFlYlVNZDZZQ2ljeEI2aVZ0dTJzaWdUeVRWVUxQ?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World - e-fundresearch.com",
+        "source": "e-fundresearch.com",
+        "publishedAt": "2026-10-14T08:28:00+00:00",
+        "summary": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World e-fundresearch.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMWlMSENST1U5QXczOFhqZ09NWFgzck5vcHplcTlFVzJnRDJydXdVUDZxZWZEQUtjMXIxSmxaWDRjcGp1aEFvelUyZ1p1U0UxZnIzSGFUTk5fSUxfQ2tqZFQtOUx4alZzZldUM293cEkxa0dLMUJxaXh5UldPemdvUzJFVEQ1eXFPdXA4OUVtWE5UM1dzUDNEUnUtUWY0eUc2RmV1V3FqcG5SRjYzWm9iUWFCbks5cGJvY3JIaGtNZ24xcnhNZ184STlvQlZCWVozWGV5TUhod1NhUTJhWHBfRnNXVm1yZ3ZXQ1E?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Easyjet rechnet Anfang 2027 mit Abschluss der Apollo-Übernahme - airliners.de",
         "source": "airliners.de",
@@ -334,16 +344,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
           "tippinpoint.ch"
-        ]
-      },
-      {
-        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
-        "source": "FONDS professionell",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRkJQNW40bTRHM0FtTVpPalhzQXZIZ0lFOW1rVzJsQWZtV1piVUJpZGhCS19pcHNMTG5JUnYwaWd2eWU2SzZkQ2xWYjZsWjMzMzJyZkZLU09SNVYwRVdnb0ZreUlKS3B0SEVTMDFOcUE4TTR5Ymc?oc=5",
-        "tags": [
-          "FONDS professionell"
         ]
       },
       {
