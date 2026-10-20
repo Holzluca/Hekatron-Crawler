@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:59:36.458890+00:00",
+  "generatedAt": "2026-10-20T08:21:09.535520+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -150,7 +150,7 @@
       {
         "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
         "source": "IMTEST",
-        "publishedAt": "2026-10-18T08:12:18+00:00",
+        "publishedAt": "2026-10-18T08:10:23+00:00",
         "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRU0xT09BMWw4WVlMRHBJUG9JVmxMN2xBdmhKelpaRERIUEQ0YV9qUC1mZC1DbjQyUmxzODJEVDNad19jZEN3ZkEycF8tWFlELTBJQ0xmRGpURnZBSk45bUJfM2ZueW1ITVZJbWxZcE45M1ZZMHkzSXNCOWdZSWs5dk1nX0I5dVRobHc?oc=5",
         "tags": [
@@ -213,16 +213,6 @@
         ]
       },
       {
-        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-10-13T11:44:48+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY25mVDVCS3lKR1dNVjV0U3hfQWdJR1VIU1BQLTVZWUxGVXJGTzB1UTFqWXllckZGeXBzRXEyNm9qcFlzVEtWUHJ1UzdRZk96bktoWnV4aHdQV1RubHYwNzc1Vi10ZldndEFiLWZreDNVSXlwV3l1TkxsZUkzVEpYVA?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Saugt, während du unterwegs bist | Bosch Spotless 2 Advanced günstig wie selten - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-10-13T11:39:12+00:00",
@@ -252,6 +242,17 @@
         "tags": [
           "Ei",
           "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-10-09T20:42:47+00:00",
+        "summary": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0VUUWFFV3FKMTNZN04ydHBQQUp5bXVmUFlUVWszX25odkVDblZoQjE0TW9mOVNIWVMyZ2d6ZGtqZGFPeDVSSGdiRjEtU1BqSEQ0ZmtBOXpCVm9Fa1hvNzJHOVVDM1pvM2ZpOVZTMXczVzBUWmg3Uk9Xa2xucU9kcnlUeldxbVpiVlktMTU3YlNYb1U5SzBGd05pZGtySjB3LU9rVGNSME1OWkppbzM2ME5ENGxuQ1hvY3QxNlJOR2w?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
         ]
       }
     ],
@@ -297,6 +298,16 @@
         ]
       },
       {
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
         "source": "Apollo News",
         "publishedAt": "2026-08-13T07:00:00+00:00",
@@ -327,16 +338,6 @@
         ]
       },
       {
-        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
-        "source": "InvestmentWeek",
-        "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
-        "tags": [
-          "InvestmentWeek"
-        ]
-      },
-      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -344,6 +345,16 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
           "tippinpoint.ch"
+        ]
+      },
+      {
+        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
+        "source": "FONDS professionell",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRkJQNW40bTRHM0FtTVpPalhzQXZIZ0lFOW1rVzJsQWZtV1piVUJpZGhCS19pcHNMTG5JUnYwaWd2eWU2SzZkQ2xWYjZsWjMzMzJyZkZLU09SNVYwRVdnb0ZreUlKS3B0SEVTMDFOcUE4TTR5Ymc?oc=5",
+        "tags": [
+          "FONDS professionell"
         ]
       },
       {
@@ -364,16 +375,6 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
           "das investment"
-        ]
-      },
-      {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
-        "tags": [
-          "Börsen-Zeitung"
         ]
       }
     ],
