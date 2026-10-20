@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:13:41.794873+00:00",
+  "generatedAt": "2026-10-20T21:46:21.801174+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -74,6 +74,16 @@
         ]
       },
       {
+        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
+        "source": "ingenieur.de",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcl94czN1czZzQm9qWWJWVjlsWXNhdFRtT0ZrUmFDenRYcTg4VTVYTm5tVU82X0hGbS1PRmtFeGczYXE3UzZCN3VTSC1CY3JYQ05BbkxrQWY0ckdQWENRX1lPYzg3Y3MwbkEwZ0RVcG5JUVV3dlBmSm14VXA4eTRRSWFUZ1N2cXJxUzBfSjNnQmtCNjJQUlp5eDVxRVUtTi0zeGJrNzdZR18wR0t0X1ZRT2NVSHU5VHFjN3dESjBXZXRubFliaDNZRXF1b1M2RTJWaGt5bEFJdXVjRUtEdldOSkRvQ3NwR05ad3c5cll4cDF3VW1lTzRiXzZfVnk?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
         "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
         "source": "Baulinks",
         "publishedAt": "2026-07-13T07:00:00+00:00",
@@ -111,16 +121,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDBGaWpTUkxHMi1GdUQxNjhXdkJCSEM5cG5BWTBESmZ0b21IRFQ0cWJOQ3pWaUZRajlsYVMwUEVWUkdRYThCRm02TUo1bHRlTGJIQk9saTdPNmFPaDJjdUo3S09vcHRUZTQ5ZEplRm9TOTYyUEE0NEVXMFJ6andMS3JKaW1yclpiV2Q0R25Vcm12eGgwbmRjdkFZMTNoVG9ycDB2Q2V4ZzdhQU42aVM1Vy1zdVJ3ZGlsLS1lYzVrWG1JbGg0SFE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-05-22T07:00:00+00:00",
-        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
-        "tags": [
-          "elektro.net"
         ]
       }
     ],
