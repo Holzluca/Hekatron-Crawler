@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T19:27:37.111341+00:00",
+  "generatedAt": "2026-10-21T22:35:22.929405+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-10-21T22:00:14+00:00",
+        "summary": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! ADAC",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "HACS zieht fest in Home Assistant ein - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-10-20T06:30:50+00:00",
@@ -181,39 +191,6 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense-Rauchmelder 3 Stück mit Basisstation - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-17T05:22:23+00:00",
-        "summary": "Amazon: X-Sense-Rauchmelder 3 Stück mit Basisstation n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0FIYWQ1eTFoRE1MQWFNeE1iX002cFBVVmN6REtTTG1FMEJ1VGFZY0w5NC1kSDRIZkhKNm01ZV80MkRqVFdrc1VuRUg0U003S3RVWEh5UVZDS214Snkwb3BzN0NIdU9tVFBTWUtxRHE5N09OcVJPN0l5SGYxQVlvSXhYU3RIbmdfQ09GQ2M0Mmx1a3Rs?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-10-16T09:30:47+00:00",
-        "summary": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWZnT3EtclNXdUNEb1dKU2RVQUgzejRRY0w3cDY3b05JTFRGRE1DczRNSW5vZVY4ZDctWVpvZXBaUkNWUU10eW1PR1Z1MlMwRk9RZGtYOVNPZ1UyeE9UTTJPNC02bjZHWDBRQ3RISjVRZnIxUjNqRFZOYk1RSGxMRkJTTnRvamJTUW9tSnVidUhIY3c5d0xWUlhWOW16ZmZENDNuSW5WWkNaMnRERVBQejlmOVZuaDBhM0dvMExES21aS0RMV3g1bWZ3blJFdVZ5cUR0SnRrbjNpVHE2TFFMTklMZnphVVpSWC00VFBJUQ?oc=5",
-        "tags": [
-          "Ei",
-          "Rauchwarnmelder"
-        ]
-      },
-      {
-        "title": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-10-14T09:42:36+00:00",
-        "summary": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUk1OTM4UHBhOS1PNzBQQV9zVXVhelFZLWk1aU8yVTFqOEZqRHNnSVNzSVg5dGkyU1ZzZVN1ZnJ0OWR0UE5FbWdtNmZTbnpsazJOenhJOTRBdU5kQ1YxTmFORnlfM1RTUHloOGdUOU1NbWM4XzRfR09HcWRFTDdfLUZRQ2lWY0MzeXZkUGF1MTFneE9rRzRkUmFQaEk3ak5ObVJJeTRRdVU2NFZrTThLQk9SMllHMnhGZTh3U2lwOEtoamhmS2psWUNDZ2t0VnBSTDdReE9wbE14bEZVbVhjZFl0QzJ3NGR2dVE?oc=5",
-        "tags": [
-          "Ei",
-          "Ei Electronics",
-          "Rauchwarnmelder"
-        ]
-      },
-      {
         "title": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen - ADAC",
         "source": "ADAC",
         "publishedAt": "2026-10-14T07:00:00+00:00",
@@ -253,6 +230,28 @@
         "tags": [
           "Ei",
           "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Starter-Paket Heizung - 3 Räume per App steuern - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-10-09T10:50:46+00:00",
+        "summary": "Bosch Smart Home Starter-Paket Heizung - 3 Räume per App steuern ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekEyWjNLSXFSaWZfYWUwWUZkRndWcERmaEZpd0FkaXNubk1ldTI4RW13LWUxLUVGSDhvQ0lBZGFOOVpUdW9sZmcySmhlRTV4YjdqaC1xS1g5TkRxazVINTNmZmVsNHZreTZvQmo2VUc3TWMxblZoV0JJeXdMUElsLTQtUlBsUVhqOW5MalJVSWszbHpwNEVtVHhEaThVNnJEb1ZYU0o2M1ZuT0tWLUVRUFN4a2xjNng3djBr?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Das beste Thermostat für die Fußbodenheizung – 9 Modelle zum Nachrüsten im Test - heise online",
+        "source": "heise online",
+        "publishedAt": "2026-10-09T07:00:00+00:00",
+        "summary": "Das beste Thermostat für die Fußbodenheizung – 9 Modelle zum Nachrüsten im Test heise online",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcnF4VG1pM1FiMlJLTnloTGR6cTJZMVRQVU1zOU5EVlItVFZueUI5eFFERFpFVm8tLU80VHE1U0FTeHI3aF9raUF3VU5IYW02NVNVZm9WNTJMWUlJRy1yLUFFNXhhTkc4NFlMTFdldkl5c0t0bmFFUl85SkduRnV6RUtweGk2VEo2R21NNVQ1akhmUm9fc0pHNGJGQ0cwSmxObTQwT2lYbGZ1TlhZc0pDdGVjN0JWeEFwWnlqbWk2a3NQQ3ZoV2RuU2JyX3NSUQ?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -391,16 +390,6 @@
         ]
       },
       {
-        "title": "Sonthofen: Verdächtiger Geruch am Rathaus – Gebäude vorübergehend gesperrt - BSAktuell",
-        "source": "BSAktuell",
-        "publishedAt": "2026-10-14T11:46:06+00:00",
-        "summary": "Sonthofen: Verdächtiger Geruch am Rathaus – Gebäude vorübergehend gesperrt BSAktuell",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON29MWUV4ZmhXdHRGWXdPako2LTBFRWdaNV9oOFlNYnEzblY3cEx2YzQxZUJ4a0VIQXpaMVh4bkZPbmxwak40aGRhRnh3UUQtbTlDUEU5Rl9rNFNMSE40bXd6VHdGb3MtSWFIUlRMS0kycnRrM3NfaV9XRFdEVzhQcTE5ZHA2UjVmazh4V0RuTkJzcjVmSE9mczZ6Q0ExWWY5QTlsa1VfSVMtN3BYMHBNZE45WENPWkRfOV9qejRWV2w?oc=5",
-        "tags": [
-          "BSAktuell"
-        ]
-      },
-      {
         "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
         "source": "Nau",
         "publishedAt": "2026-10-13T16:37:34+00:00",
@@ -497,6 +486,16 @@
         "publishedAt": "2026-09-15T15:38:06+00:00",
         "summary": "KI-gestützte HVAC-Optimierung für intelligente Gebäude Siemens",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdF9hUGtFd0hkYVN3bnFIM3ZKN3VRbml3bF9nTmNua0RyT3RXNVdOLWM1cno2VjZ5VFRBT3lDSnpLTDJRWXcxb2JvUndvN18zbzdjeFlPQWhzYW1Ta3BVNjUzVWtocF9TdjV3MDVWQmZNbFBXOE9iN2ZqZnBQUHptamE4YVVOd3hkejcxWg?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
+        "source": "Gießener Allgemeine",
+        "publishedAt": "2026-09-13T07:00:00+00:00",
+        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
           "KI"
         ]
