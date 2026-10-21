@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:46:21.801174+00:00",
+  "generatedAt": "2026-10-21T00:19:15.745815+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -34,16 +34,6 @@
         ]
       },
       {
-        "title": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude TGA+E Fachplaner",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE1taks1ZmJGbmJCTmloWGVNdEZKUVpmMWV0eVR4U2ZGdk8tLXppejliMHBEX0tqTzFSNjdYcWRQa0FlbHlLeEF5UlE1YlNjU01GZDNucjdLblpCR19oaVhlaWZheTlELUJTeFZ3UkpHMk9MU01ZUzVsNzFoei1DUlBsbV9YSWtmbWtfcEw1NmFRZ29RYktTSDRLX0xmQ04zM0JwQg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Globaler Schutz und Schutz 2026 - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-08-06T16:58:38+00:00",
@@ -61,16 +51,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
         "tags": [
           "Honeywell"
-        ]
-      },
-      {
-        "title": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel - ingenieur.de",
-        "source": "ingenieur.de",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Fernzugriff auf Brandmeldeanlagen: Siemens erhält als Erster das VdS-Siegel ingenieur.de",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV2s2clVhdjVtTzZ3Q1VFQUZiNkFySWhJS2dTZW10V3VwNmJZUGxaWFdLOXRMRmpzTnpzMmdjellENXlXXy1zZEY5eU93Zk13Z2x2YWh4X3l1cTVVZ3VPZ0pybWJKQjczQTJiLTN4QlJCNXZvUjZjb0ZyZkhvM0FRLUZpYmVhOWw5dXJhWHd5NF9QN2I3bmFmQXZhengzOE5fczQxSVhGMGZjYjJJc0c4Q0NoMkptQjJzcjFMR1VQQTJfeGdBY1FqZ1lVbDBSVHlkcFpaNW55YmQxUWlCZEhv?oc=5",
-        "tags": [
-          "Siemens"
         ]
       },
       {
@@ -122,9 +102,40 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-05-22T07:00:00+00:00",
+        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
+        "tags": [
+          "elektro.net"
+        ]
+      },
+      {
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-05-05T12:32:58+00:00",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "HACS zieht fest in Home Assistant ein - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-10-20T06:30:50+00:00",
+        "summary": "HACS zieht fest in Home Assistant ein Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UY2lyQTZXM3d4UkdYbkpFeWFZVE1mR192MnRyZDdkUmMwM0ZicFRxRkY1V2txaU9Md0lDZG5JcDNCeW5sY3pqcW8wa0FrZjdWNExVNjkzRlJfWjdHWG9YQjdmWmxtZ0h5OENmRUFjWHJld2E3UEE?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
       {
         "title": "Amazon: Bosch Smart Home Starter-Set, 1x Controller II, 2x Heizkörperthermostat II - n-tv.de",
         "source": "n-tv.de",
@@ -243,17 +254,6 @@
           "Ei",
           "Bosch"
         ]
-      },
-      {
-        "title": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-10-09T20:42:47+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II ab 49,90 Euro - misst am Wunschort ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0VUUWFFV3FKMTNZN04ydHBQQUp5bXVmUFlUVWszX25odkVDblZoQjE0TW9mOVNIWVMyZ2d6ZGtqZGFPeDVSSGdiRjEtU1BqSEQ0ZmtBOXpCVm9Fa1hvNzJHOVVDM1pvM2ZpOVZTMXczVzBUWmg3Uk9Xa2xucU9kcnlUeldxbVpiVlktMTU3YlNYb1U5SzBGd05pZGtySjB3LU9rVGNSME1OWkppbzM2ME5ENGxuQ1hvY3QxNlJOR2w?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
@@ -293,6 +293,16 @@
         "publishedAt": "2026-08-25T07:00:00+00:00",
         "summary": "Apollo und Easyjet verschieben Zeitplan für Milliardenübernahme airliners.de",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZzM2eFlhSF9GcXpsTVg2NERlOXN4OEtVd2ZvYkxyMGt4aHROcl9UQldjS1EwbnNfeFlUaEtkcE1vR2o3ZTFBSTIxNXZfX0x3WDg0NVZZY2d1S090YlFSRXBGSWg1NlU4QkVjSm81MXZIcGtPdjhVUDQ0Z0I4MC1adHJmbG1aUzRISE1xTTdlTFo?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -365,16 +375,6 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
           "das investment"
-        ]
-      },
-      {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
-        "tags": [
-          "Börsen-Zeitung"
         ]
       }
     ],
