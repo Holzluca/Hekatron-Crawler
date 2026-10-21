@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T05:05:49.958294+00:00",
+  "generatedAt": "2026-10-21T10:23:53.366375+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -31,16 +31,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
         "tags": [
           "Augsburger Allgemeine"
-        ]
-      },
-      {
-        "title": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude - TGA+E Fachplaner",
-        "source": "TGA+E Fachplaner",
-        "publishedAt": "2026-08-11T07:00:00+00:00",
-        "summary": "Siemens Smart Infrastructure - Brandmelder für autonome Gebäude TGA+E Fachplaner",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE1taks1ZmJGbmJCTmloWGVNdEZKUVpmMWV0eVR4U2ZGdk8tLXppejliMHBEX0tqTzFSNjdYcWRQa0FlbHlLeEF5UlE1YlNjU01GZDNucjdLblpCR19oaVhlaWZheTlELUJTeFZ3UkpHMk9MU01ZUzVsNzFoei1DUlBsbV9YSWtmbWtfcEw1NmFRZ29RYktTSDRLX0xmQ04zM0JwQg?oc=5",
-        "tags": [
-          "Siemens"
         ]
       },
       {
@@ -122,6 +112,17 @@
         "tags": [
           "elektro.net"
         ]
+      },
+      {
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-05-05T12:32:58+00:00",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
       }
     ],
     "pfs": [
@@ -131,6 +132,28 @@
         "publishedAt": "2026-10-20T06:30:50+00:00",
         "summary": "HACS zieht fest in Home Assistant ein Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UY2lyQTZXM3d4UkdYbkpFeWFZVE1mR192MnRyZDdkUmMwM0ZicFRxRkY1V2txaU9Md0lDZG5JcDNCeW5sY3pqcW8wa0FrZjdWNExVNjkzRlJfWjdHWG9YQjdmWmxtZ0h5OENmRUFjWHJld2E3UEE?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Amazon: Bosch Smart Home Starter-Set, 1x Controller II, 2x Heizkörperthermostat II - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-19T06:54:30+00:00",
+        "summary": "Amazon: Bosch Smart Home Starter-Set, 1x Controller II, 2x Heizkörperthermostat II n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN25EdWgteW5zZnlyVWJPQWJGNGdVLUJlSUhpSnVGQ0pjN2V5czN2VVhLamlDUkdwMVBaWlZ5REhUZ3oxRVVILVRPZzQxUUlKV0lCS0dFTVZVZWZsSFFiZnVYR1pULWd0VFUtT20ta1JOdGw1NUsyT1Z3bFVHMXk5QnhXelJqUWVRQXJoamRPbUstTkZNRTIyMHBUWVZCMjZRbEJuRE1SYmZ6NUlJeV8tYy1wM2xGRHJnbHRxZEFWUG1DTmNmeEdmT19n?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten - inside digital",
+        "source": "inside digital",
+        "publishedAt": "2026-10-19T05:29:00+00:00",
+        "summary": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten inside digital",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW04MjJtMkVvbi1EcHFtMFhYT3QxaWVwZXZPbnl2TkxlZk5nSEI0REhDRE5xVnVMRHJXYW9XUlo4VUx6ZnpubkEwTDU2UW9xQU9FNDZpQTVvdVNMWTE5a0VYeWJWT1F1NXd5c1RrRzBuakloSU5VN1FNYVZCZmRVdDBkbm9sR0VyX3E1eWl3Nmhfc1FfRkpBZDlmZjZIcWdRRHlv0gGoAUFVX3lxTE1fTW5vd1ZCWVhWZWlXNENKS0NBQzRCRzRRblU1eGFwRk1lMFRKd1VkUUpVdTZseGRKOVBwRTR2TkhVRXNtSm00X21Sa1NBZFVTbnVFbzgtM19rc2xETUNBMGhZNDBmWWhQNUU0QWZrdjU2d3ptU1diUEN2Tml3eWlKMXlEVXJZaFpWRXFuYmVYVU1xQ1QzOHBkcm1iMFowcHZXRFplUjJsMg?oc=5",
         "tags": [
           "Ei"
         ]
@@ -191,66 +214,45 @@
         ]
       },
       {
-        "title": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense - iTopnews",
-        "source": "iTopnews",
-        "publishedAt": "2026-10-07T13:51:00+00:00",
-        "summary": "Amazon Prime Deal Days: Noch heute große Rabatte bei X-Sense iTopnews",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGFmWENzNHBub1pWRVFrSHRLTEsyN1VGNUpFcDQ4LXhHQmoyaFg2WjB2X2hUVi0zMzYxM3NweGUtZDJNRG5UR3Rhb0dNb0JKMFE2Y0psQjFHaDRmZFc4QWwzd1NxV3dyYkZSWWFZd28wdUdTanNDRzVYb01WQklSLUZlS3ZlSTQ5Z0lIZDBXTUhhRWdZMW1UNg?oc=5",
+        "title": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-10-14T07:00:00+00:00",
+        "summary": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen ADAC",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnVvY0ZLa2U5dzFlWlpTd2tfeXRoeGxVQWFiUW5Qd0VQYzlUZ0t3YjRPMG5ELVZJLWxnNUxydUtYRDJVVm1VejRQTWZfbkJRMkRvTVFnMkk4YUE0WXhpZ3NqWXhpSTlqRGdWLUhkYk5yOFo3ZEtZdmhyRjFiaE9NUXQyamNEUGQ5Tksw?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Saugt, während du unterwegs bist | Bosch Spotless 2 Advanced günstig wie selten - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-13T11:39:12+00:00",
+        "summary": "Saugt, während du unterwegs bist | Bosch Spotless 2 Advanced günstig wie selten SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlPS2tEcVRNbnVIRDV3Mjl4cnRoazBqUE1QSW9YaW9aOUFxclI2U3lPTEZIMXFnUGU0WVhzZDRvQzFFTzdqMnljSVIzUWZMcmdmdEZvOXZSSnMwRWpPMzNDcmpFaHM5R0xkN1ZyRTVlUXh0VmlhQU9KTEViSExEZlZB?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Feierabend statt Staubsaugen | Bosch Spotless Advanced noch über dem Bestpreis - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-11T10:36:15+00:00",
+        "summary": "Feierabend statt Staubsaugen | Bosch Spotless Advanced noch über dem Bestpreis SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUlEQzBNWlI1X3lxYk1pUEZBN1BDSVVLZVl2WnlLMXBWY0xfbFVyclRXa1N6S2FQRUZTWTRBQ1lwdHBxbG1qUmtZREFBa1h5Q09nMlJSdldiUGdKTmg3cHk2YVdKOEdiVVllQ1NIdGVMTWpLQ19ReXI0TkJrWXd5RzB3?oc=5",
         "tags": [
           "Ei",
-          "X-Sense"
+          "Bosch"
         ]
       },
       {
-        "title": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-10-07T07:00:00+00:00",
-        "summary": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTjdlNkJ6YlNGcmRNM01oYmgzc29GclNaaXFkSXdTOFdNLVhwZlo3VHFlaE9nQ0Z4U3g3RThTVy1GdjktbFFWSzV6d01zRnVNQTdXWTF3V3lTNU91cUd2S0E3SUdkNC0ybno5RWxkbXgxRVk4UUcxT0lOSWs1V0RXQVFtRG5YaTNSdmgyVmc3dlR4Z193NF9OeHRPel9iOGFsOVFtTHdwWW9QZ1V5R25QbnlWbmpJTFhmYmZKak1ZMjVGYTR1ZkJPcXRIRnk1cFlaSDJ2NVo0MTIza2N0ank3WExsbmVWNXc?oc=5",
+        "title": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-10-11T07:00:00+00:00",
+        "summary": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVItRk04cUg4ZHRXZF8yTHlhTE9ERzFLZ0JBOXNsa1JaUlVUYUVUUzFpRHBHRU1reE9hc3lzakM3NGRHMlIteC0yVWN4NlV2SFlaX2xJbWt5VFVudTRsUlpVejZETW5mUkFXRDdveVFBX3BTeFlkRHE4T2gyVnhwOUxrcTFlYlVNZDZZQ2ljeEI2aVZ0dTJzaWdUeVRWVUxQ?oc=5",
         "tags": [
           "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "X-Sense reduziert Rauchmelder und Sensoren um bis zu 46 Prozent - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-10-06T09:47:47+00:00",
-        "summary": "X-Sense reduziert Rauchmelder und Sensoren um bis zu 46 Prozent mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2duQW9nLW4yN095ZTA1VWYza0dUS0JTSnprRHI4LTlkMl9kM21vNEdiUDBrb3c3bXNnWm9GRmJoZVBiaElBZG5tSk1EWEZMek1iYkh0c0Fpa1VpZHRSVUVoc2w2M2M3Z3RpTWlEN2FobUphck9ENjFZN3JXU1pHckw2Z3RBWmhBbEgzMTZ0XzVwQdIBlwFBVV95cUxQa2pVSktEeE1jWTJKMHUxeW1uOXJFY0VVcU91Y0xORXZGRkQ4bTlzaWwtNTY3NkhUV0tVeldrYklMbXotRlVhVklLdEVuSWFZVzUzbFZEYU5IVUtTazRNekh1T2VMeTFlZUtibU5MSk0xbE1YMURGWUtaM1Rha1hoQzF2QTVTN1h5N2pqQmFNalRGREpxMk84?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "X-Sense SD11-MR: Drei vernetzte Rauchmelder im Paket - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-10-05T07:00:00+00:00",
-        "summary": "X-Sense SD11-MR: Drei vernetzte Rauchmelder im Paket iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUIzdXRFc0dXNlYxNjhXV0R4UXVYWGdaaVlNNlI3TmstcnpiX3BtZUlvdDc1OFZLMks4Vk9JVWJKM0pxSmVuYi1SUEdRcGhuVEJiWE9ndmUyY1hnaWhhQ21iMUtubVloSFhodFlIWHd6UXBZZHRmN2JTNUx2OFpiUUNwYUJpYnBieU1wbHRENUxnTTFlak9v?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
-      {
-        "title": "Rauchwarnmelder werden wichtiger - i-Magazin",
-        "source": "i-Magazin",
-        "publishedAt": "2026-09-28T07:00:00+00:00",
-        "summary": "Rauchwarnmelder werden wichtiger i-Magazin",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10Z2ptUzN4MzBzNFdxRm5HNXhQdEl2NlFSOEhJVExEYWthYWtWQ2hOSHdQc0d1NkpwYXRGMXBuWGw4TWhnWk9xdUt2VEwwOHQ4R1RaX1dSaFp5cjBEcFNYbTFyTkwwUQ?oc=5",
-        "tags": [
-          "Rauchwarnmelder"
+          "Bosch"
         ]
       }
     ],
