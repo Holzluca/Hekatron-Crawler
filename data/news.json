@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T12:12:17.818251+00:00",
+  "generatedAt": "2026-10-22T17:26:02.081356+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -378,6 +378,16 @@
     ],
     "trends": [
       {
+        "title": "Wüest Partner Studie: Zahl unzureichend versicherter Gebäude in Risikolagen könnte bis 2080 um 70 Prozent steigen - Konii",
+        "source": "Konii",
+        "publishedAt": "2026-10-22T08:58:11+00:00",
+        "summary": "Wüest Partner Studie: Zahl unzureichend versicherter Gebäude in Risikolagen könnte bis 2080 um 70 Prozent steigen Konii",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTkdINE1IUXA0aHA2eTRfV2tuUkNuS1E0SXhWQzBlQ2E3MVEzR3FSVTRobEFaMjBpNnVUWUNTZ2tLcVE4cDljc1dqVlJGb0Y4eUt2ck1DQUVyZG1EaF9pY0dhNlNqUFJTSFQtUWFSTEVXZUloVHFiTkhHWTdOSEFSZE5xVGdraTZTRWxWZnp1ZjNHRFhwWktERkNxVFpUZU9aQmM3S3dkdWNmV1dZTncxNkRMUjUtVGVBRUVWUk5kaTgzenk3Z2FhZmNUTE1sSmo1M2I1eGZLZk1TUQ?oc=5",
+        "tags": [
+          "Konii"
+        ]
+      },
+      {
         "title": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert - PressNetwork.de",
         "source": "PressNetwork.de",
         "publishedAt": "2026-10-22T06:34:01+00:00",
@@ -487,16 +497,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Brandschutz, KNX und Normen: So verdichtet die Elektrobranche ihr Wissen in 2024/2026 - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-09-18T15:32:51+00:00",
-        "summary": "Brandschutz, KNX und Normen: So verdichtet die Elektrobranche ihr Wissen in 2024/2026 it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMllhaDRKck5uUG9aRUM0Zm5laktMQm04VHZ6MEJTbTFtenBRaTRnNGhqdEQxMHctdWZobW9sQmxqTU5rd3Vfc3lYMTJYZWNyZk5sTHRjWXd5TFZuYW1xczdFNFFycmFPNVUxXzFkSEV3S05HNkxtZkZnRjZvTlhNSzdIS0wyRnRPUjd2eEhZemYxbk5oYVg1dDM4QWhORkNKYTdYS3hTck9BTE5MWC1zc2NQTDVhdw?oc=5",
-        "tags": [
-          "Normen"
         ]
       }
     ]
