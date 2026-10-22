@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T06:18:30.340556+00:00",
+  "generatedAt": "2026-10-22T12:12:17.818251+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,11 +127,21 @@
     ],
     "pfs": [
       {
-        "title": "Drei Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert - n-tv.de",
+        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-22T06:40:01+00:00",
+        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXdtbzhVTjJHZl9JWlhydlhSWmdTQXJ1WmlMX2dWM3kzRWV6a1lLbjRlQ19iRzlxUThFV1I4TEhkb09qeXFNa3JFWmdBUUF2TDJ4SW10LWVFWDFvdmR0U2RYSkZWNU12SE93VmpERy1vU2lGTUM5MElHajRURUJfUEU5WU44V29KMk9zalRnMlpvVkE?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Drei smarte Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-10-22T06:16:00+00:00",
-        "summary": "Drei Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObjB2TXVxb3JuVUpZOXFlVVZzQk1YZDhHOHR3SXJVMUxLVUZoNm5WY3VzSGwxXzdmUk1WdjRORFFyMTFlTlBzS2JqQllOTnYtX0xMTVk1VnNpSjFTUDdCb2poZzYtZXMydWVlMW4wZy0tbHpXZms2TVBxU1E5MUFkMS1KNlU0aHE0Ym93WXNmN29Ibzl0dUFRODN4WkZOVEw3ZHhITUxtbENveFlxdXowNE1pVWNOS1RuMXRn?oc=5",
+        "summary": "Drei smarte Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGlNb0E3Q2twVDNmZHVGYU93VTBMbmVrN1FjV3BYLU5vWkhzY3RXd1RCdkFMMl80RlJsSGQ2SG1DQkR5NlVaQjdsbjNtZDl0VjZBTXo5QkpkWWdZSlYzc2t6WFhKaXgxT2NET0hvc05rNDdRUkQ5TG1uLXBvNE9xekU3NFZhdnhUVjdnc3JDeWR1U1RlVTlybzZHQ1Q1cHJNOTZOcDJiQmFpV3NMU09TcWM1ZHBVSHpxVDVCNDhpeEN6MkVi?oc=5",
         "tags": [
           "Ei",
           "X-Sense"
@@ -148,6 +158,17 @@
         ]
       },
       {
+        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-21T13:09:30+00:00",
+        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "HACS zieht fest in Home Assistant ein - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-10-20T06:30:50+00:00",
@@ -155,18 +176,6 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UY2lyQTZXM3d4UkdYbkpFeWFZVE1mR192MnRyZDdkUmMwM0ZicFRxRkY1V2txaU9Md0lDZG5JcDNCeW5sY3pqcW8wa0FrZjdWNExVNjkzRlJfWjdHWG9YQjdmWmxtZ0h5OENmRUFjWHJld2E3UEE?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Amazon: Bosch Smart Home Starter-Set, 1x Controller II, 2x Heizkörperthermostat II - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-19T06:54:30+00:00",
-        "summary": "Amazon: Bosch Smart Home Starter-Set, 1x Controller II, 2x Heizkörperthermostat II n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN25EdWgteW5zZnlyVWJPQWJGNGdVLUJlSUhpSnVGQ0pjN2V5czN2VVhLamlDUkdwMVBaWlZ5REhUZ3oxRVVILVRPZzQxUUlKV0lCS0dFTVZVZWZsSFFiZnVYR1pULWd0VFUtT20ta1JOdGw1NUsyT1Z3bFVHMXk5QnhXelJqUWVRQXJoamRPbUstTkZNRTIyMHBUWVZCMjZRbEJuRE1SYmZ6NUlJeV8tYy1wM2xGRHJnbHRxZEFWUG1DTmNmeEdmT19n?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
         ]
       },
       {
@@ -199,16 +208,6 @@
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Amazon: X-Sense-Rauchmelder 3 Stück mit Basisstation - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-17T05:22:23+00:00",
-        "summary": "Amazon: X-Sense-Rauchmelder 3 Stück mit Basisstation n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0FIYWQ1eTFoRE1MQWFNeE1iX002cFBVVmN6REtTTG1FMEJ1VGFZY0w5NC1kSDRIZkhKNm01ZV80MkRqVFdrc1VuRUg0U003S3RVWEh5UVZDS214Snkwb3BzN0NIdU9tVFBTWUtxRHE5N09OcVJPN0l5SGYxQVlvSXhYU3RIbmdfQ09GQ2M0Mmx1a3Rs?oc=5",
-        "tags": [
-          "X-Sense"
         ]
       },
       {
@@ -257,11 +256,91 @@
     ],
     "doors": [
       {
+        "title": "Apollo Global Management Aktie: Zwei Deals, ein Muster - AD HOC NEWS",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-10-21T15:11:52+00:00",
+        "summary": "Apollo Global Management Aktie: Zwei Deals, ein Muster AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUNJMHVVMGlJc1N4RDhPc1l4MktvZEs2NDR6TDRXV2hpLWVtSHdndURhR240dG1CSU5peHh1WTNEbU1qMFhDcFNKNmdVOXdpd1lDTW0xUmhPVF9fSGVSUElvVUNHbWR0RldFTUZVT3R6a2s5Rmt1S2h2SjBWd3dqNlQxWDQyRDJrZzF2VjY3cUVVWmhvaFBUQXZMTlFWMWNzQnJFSDFxenpPeTR6Tk5qT0lzY2lxbFFzdDUwSkdjRGlRQQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World - e-fundresearch.com",
+        "source": "e-fundresearch.com",
+        "publishedAt": "2026-10-21T08:16:34+00:00",
+        "summary": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World e-fundresearch.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZEZDaG5IT3czNmZxMWF3czAtUmxLcjBVOHVBT0VMckw3TXEtbDJaLWhpZjhSb3E1ZFRqcjNpdHhhRG1aUVBQYy1NR0NIUG5qT2s1RnNMeGxsWHBBYWNySXpoRnNZZ3hXODNNZVA3TUNhbFByMzVwM21BOThzWDBZTlN6Yjl4RC02eHpPQldvM1BDTmsxZHY4VEVsZDVPNGRCNlFCZ2M1enVrbW1fU3FKc0tRX3R1MWU5TEVYTkdYdEFOWWc4MGdVUlhVQkUtTWF6WjVGUEtUTzJzdEg3OU44QXZ1ZlB2MkhI?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Easyjet rechnet Anfang 2027 mit Abschluss der Apollo-Übernahme - airliners.de",
+        "source": "airliners.de",
+        "publishedAt": "2026-10-13T06:45:00+00:00",
+        "summary": "Easyjet rechnet Anfang 2027 mit Abschluss der Apollo-Übernahme airliners.de",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGhVY2VUcldyVFBfLTZER0VSclkwaHA1RjEzN3lHY0dWMXlxVjFCbF9RTUYyUy1tbTVXVk96NVdMZ2F5dVpPWDMyelZQeC0wdGRBUUt5cGRqQVIzRHljWUVYZHlxUk1HQ1JTX2VzY0hfc1BWMEdfNk41cHZVWUpzdGxXMGk?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-17T07:00:00+00:00",
         "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
+      },
+      {
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
+        "source": "Apollo News",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze Apollo News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück - airliners.de",
+        "source": "airliners.de",
+        "publishedAt": "2026-08-06T07:00:00+00:00",
+        "summary": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück airliners.de",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jblNXcnhXak9KOXdiSUdfVkU4dEJ5aVZ4QTRBck5HQ2k0cjB4blE3ZTY5OU9HNURmclJOYWplRzh5c1pqQUh4SWJBSWJQLXhzWnRFRjkzUlpRbV9nd0NJN3o4MXB2Um9xWHM3a0N3NEloaUx0ejl4ZW1Da1c?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase - Yahoo Finanzen Deutschland",
+        "source": "Yahoo Finanzen Deutschland",
+        "publishedAt": "2026-08-03T07:00:00+00:00",
+        "summary": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase Yahoo Finanzen Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXZGcTYyNlNsOGVqTTkyTnEyNzdGbURXaGRjdE5RUEJTR3Zqa3I0VTh1RkJMWWlneVd2M3NTNHEteHVISHFwQVpFNUltN2JYV1kzMjNzMlJmaVF3N2d4X3R3TElkaXZXcXhNNHFUanozdWpQUG1JQmRkaEx4ZHlVTGpETkVFYkZOajVPZWpIZGFlTUFaOTlObA?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -277,115 +356,35 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
+        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
+        "source": "FONDS professionell",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRkJQNW40bTRHM0FtTVpPalhzQXZIZ0lFOW1rVzJsQWZtV1piVUJpZGhCS19pcHNMTG5JUnYwaWd2eWU2SzZkQ2xWYjZsWjMzMzJyZkZLU09SNVYwRVdnb0ZreUlKS3B0SEVTMDFOcUE4TTR5Ymc?oc=5",
         "tags": [
-          "Apollo"
+          "FONDS professionell"
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "Handelsblatt"
-        ]
-      },
-      {
-        "title": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang - Apollo News",
-        "source": "Apollo News",
-        "publishedAt": "2026-06-29T07:00:00+00:00",
-        "summary": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang Apollo News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazcwZ2tpcFRySm9ibEEtcldvMGppMFZ6MnpWSkgxZUMxSDNHdmhmR3o5X0s0U1BoN2l0c0xoU2h2ck0xNEVENTJNTTRIRE5lb05XM05mLUZDUjRDUm5MVUJaSkltVVB5eTh1ek1oXzBqOHpvcFhtS2hiMVFCd1dReGs4TlN0ZjlWTmNNZWdtYU1tTkJhOVBIRjViSGVweXhZeUJQaHpOZWx5X2hWVTRtekR3blp2ZFI4YjVZ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
-        "source": "ZDFheute",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
-        "tags": [
-          "ZDFheute"
-        ]
-      },
-      {
-        "title": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro - Berliner Zeitung",
-        "source": "Berliner Zeitung",
-        "publishedAt": "2025-11-17T08:00:00+00:00",
-        "summary": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro Berliner Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjRCUC1OaVpPS0lwMXphcTlhQ3B3VEF3ZzJNMEhsREhWTy1qX25ta3h4d2FrZmtxY0gwaDN1d1FLSm1hVlhWZGp0Q0Ezc0M4bWFOWmxhTmdmN29wTVpHZy1kLWt0b1c3YktFQjRkVVYybkdoeTVheGtXd1dQbEdKelR4RmFvenh3SFRjMzV2ZGFQRUdXNjEzMXpBSkhPQlVoMUtleXduMVJQSFpONkJ3V290QkZqUHlEeVlEamZRcnRhbV9iUFFlcGs5Z0NCYnZVNmdOXzR5S2ZpQXh5TW1tek1uUEp0d2RkbjYyUERjQXpqdGJX?oc=5",
-        "tags": [
-          "Berliner Zeitung"
-        ]
-      },
-      {
-        "title": "Trade Republic ermöglicht Privatanlegern Zugang zu Private Markets – Kooperation mit Apollo und EQT - ETF Stream",
-        "source": "ETF Stream",
-        "publishedAt": "2025-10-18T10:47:27+00:00",
-        "summary": "Trade Republic ermöglicht Privatanlegern Zugang zu Private Markets – Kooperation mit Apollo und EQT ETF Stream",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVjAyYXc3bV9sZ1VEeHY2NnpDZzNtc202VHRMZU1zUTRaMEFVQjBnZ0hMb1VadTNuS2Y2Skt0RkdHRWJDbFgwTDY2aXNKM000SmloOEQ1YWZGeDdOYzkwR1duVGllWkJsM1U1VG9WbTh1UU5USkw4VmM2ckwzYzcwMlZzT0NTUWljRjZGdk8tRFZnTzkzc1ctZ1gzRDZwREJTOWZoTVg1MmJuMkdiSmVDNkxqeFVZT2FvTlFIbTVGbkpRck9aSzVGVTctNFVYSlZVSUE?oc=5",
-        "tags": [
-          "Apollo"
+          "t3n"
         ]
       }
     ],
     "trends": [
       {
-        "title": "VELUX stellt neues Renovierungskonzept vor - ImmoFokus",
-        "source": "ImmoFokus",
-        "publishedAt": "2026-10-21T08:07:00+00:00",
-        "summary": "VELUX stellt neues Renovierungskonzept vor ImmoFokus",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tOUFvM25RdU5pRG9tT2ZFMnVhcXJuR1hkekJrVS02Z0NER29JMkduWkZYUzQ0REpPUWhrczJQY1p2WmRoQlFxMmx3X0s5alNZWXJqV1NJeks0Z2YzbHFHNy1lekRUNDVzWmdSMDN2UmNWUWs?oc=5",
+        "title": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert - PressNetwork.de",
+        "source": "PressNetwork.de",
+        "publishedAt": "2026-10-22T06:34:01+00:00",
+        "summary": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert PressNetwork.de",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVdWYmFEVTZGR0RaTUtEV2JYNkhBbC1zaHd4VmFuQlpfeU53T0E1SVo3bTU3NWZpelpmWjMzaV9oWjJkaEc4OFdkXzJmN1pCbUJSR2hSQlFqRnViRlpnWGh4aEFjcWVSQXdTVmJmdzhhWF9WZEw2NnFzT2lEUEV5Q3BfWXhfVUtscmZKZGk2cXZEVVVINFV1c1ExYjB1NXlDWG9IY1V5WXZhc00?oc=5",
         "tags": [
-          "ImmoFokus"
+          "PressNetwork.de"
         ]
       },
       {
@@ -397,16 +396,6 @@
         "tags": [
           "KI",
           "AI"
-        ]
-      },
-      {
-        "title": "Gebäudetyp E: Was Niederösterreich in München über leistbares Bauen lernt - a3BAU",
-        "source": "a3BAU",
-        "publishedAt": "2026-10-19T17:02:48+00:00",
-        "summary": "Gebäudetyp E: Was Niederösterreich in München über leistbares Bauen lernt a3BAU",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZjRGVGdTYWFROEVzUjZrWF9HdGoxbVBzRWRUV3V3TlBhYkFSR1VxNXRXaFNzOWdXVlNtQzM1QnFDU0ZSWmI3NVg4QlNodWVfSWxEM0F5Sm5RQ3JnYnJfTGFSaWd0blMwWGNBa18tbDRxeWkxR0Q0TXJncVg5VFN4cmZWbjVkY2xzeGRWbVV2MkJZWnRD?oc=5",
-        "tags": [
-          "a3BAU"
         ]
       },
       {
@@ -498,6 +487,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Brandschutz, KNX und Normen: So verdichtet die Elektrobranche ihr Wissen in 2024/2026 - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-09-18T15:32:51+00:00",
+        "summary": "Brandschutz, KNX und Normen: So verdichtet die Elektrobranche ihr Wissen in 2024/2026 it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMllhaDRKck5uUG9aRUM0Zm5laktMQm04VHZ6MEJTbTFtenBRaTRnNGhqdEQxMHctdWZobW9sQmxqTU5rd3Vfc3lYMTJYZWNyZk5sTHRjWXd5TFZuYW1xczdFNFFycmFPNVUxXzFkSEV3S05HNkxtZkZnRjZvTlhNSzdIS0wyRnRPUjd2eEhZemYxbk5oYVg1dDM4QWhORkNKYTdYS3hTck9BTE5MWC1zc2NQTDVhdw?oc=5",
+        "tags": [
+          "Normen"
         ]
       }
     ]
