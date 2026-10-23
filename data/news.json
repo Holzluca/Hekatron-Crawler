@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:56:14.575901+00:00",
+  "generatedAt": "2026-10-23T08:13:10.558708+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,6 +127,16 @@
     ],
     "pfs": [
       {
+        "title": "X-Sense: App-Update bringt Support für Matter-Basisstation SBS0A - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-10-23T06:15:35+00:00",
+        "summary": "X-Sense: App-Update bringt Support für Matter-Basisstation SBS0A Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmZxVVNPazZkUTRPaHFWcGRicW0tUzBjX21QUU1yclJRdE81RG1GSC10U0o1bHJ0TDl2czFrVmtnTVBYQzdSY3pfRjl3YlZCU1Z4VHpRbmx1Z2U3LXRTMVRVRl9kc0c4d2JKdWNvWnkyZHF6UjNBZTFyZWZ0ek1iS3hsN3NncHl6WUhiN3ZxNWZPQUhNLWpOaVFB?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Amazon: X-Sense Smart Rauchmelder XS01-M - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-10-22T06:40:01+00:00",
@@ -176,28 +186,6 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UY2lyQTZXM3d4UkdYbkpFeWFZVE1mR192MnRyZDdkUmMwM0ZicFRxRkY1V2txaU9Md0lDZG5JcDNCeW5sY3pqcW8wa0FrZjdWNExVNjkzRlJfWjdHWG9YQjdmWmxtZ0h5OENmRUFjWHJld2E3UEE?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-10-18T08:10:23+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRU0xT09BMWw4WVlMRHBJUG9JVmxMN2xBdmhKelpaRERIUEQ0YV9qUC1mZC1DbjQyUmxzODJEVDNad19jZEN3ZkEycF8tWFlELTBJQ0xmRGpURnZBSk45bUJfM2ZueW1ITVZJbWxZcE45M1ZZMHkzSXNCOWdZSWs5dk1nX0I5dVRobHc?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-10-17T19:15:07+00:00",
-        "summary": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1pEYzliRHhRcHRubElJVWtxeFZYN2xYMVc1Z2lxRV9OZVRQUjN0anB3dXZxQm9aNFNqM3RUbV9HanFwQVZNWks1eFU4UU9nM2wtN1lObnR0LWVtcHJuYldGdmpCamNwSnNoWE14WUpSczRuQjNJUTZjVW5raWdOc0hzOW5lNmMzLXpUTXA1cTdUSHdNYmU5ZzNocmRqc0xWV1RxMlNILTgyWjY2WFNURlhqcnU?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
         ]
       },
       {
@@ -254,6 +242,16 @@
           "Ei",
           "X-Sense"
         ]
+      },
+      {
+        "title": "X-Sense reduziert Rauchmelder und Sensoren um bis zu 46 Prozent - mobiFlip",
+        "source": "mobiFlip",
+        "publishedAt": "2026-10-06T09:47:47+00:00",
+        "summary": "X-Sense reduziert Rauchmelder und Sensoren um bis zu 46 Prozent mobiFlip",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2duQW9nLW4yN095ZTA1VWYza0dUS0JTSnprRHI4LTlkMl9kM21vNEdiUDBrb3c3bXNnWm9GRmJoZVBiaElBZG5tSk1EWEZMek1iYkh0c0Fpa1VpZHRSVUVoc2w2M2M3Z3RpTWlEN2FobUphck9ENjFZN3JXU1pHckw2Z3RBWmhBbEgzMTZ0XzVwQdIBlwFBVV95cUxQa2pVSktEeE1jWTJKMHUxeW1uOXJFY0VVcU91Y0xORXZGRkQ4bTlzaWwtNTY3NkhUV0tVeldrYklMbXotRlVhVklLdEVuSWFZVzUzbFZEYU5IVUtTazRNekh1T2VMeTFlZUtibU5MSk0xbE1YMURGWUtaM1Rha1hoQzF2QTVTN1h5N2pqQmFNalRGREpxMk84?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
       }
     ],
     "doors": [
@@ -270,19 +268,9 @@
       {
         "title": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World - e-fundresearch.com",
         "source": "e-fundresearch.com",
-        "publishedAt": "2026-10-14T08:28:00+00:00",
+        "publishedAt": "2026-10-21T08:16:34+00:00",
         "summary": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World e-fundresearch.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMWlMSENST1U5QXczOFhqZ09NWFgzck5vcHplcTlFVzJnRDJydXdVUDZxZWZEQUtjMXIxSmxaWDRjcGp1aEFvelUyZ1p1U0UxZnIzSGFUTk5fSUxfQ2tqZFQtOUx4alZzZldUM293cEkxa0dLMUJxaXh5UldPemdvUzJFVEQ1eXFPdXA4OUVtWE5UM1dzUDNEUnUtUWY0eUc2RmV1V3FqcG5SRjYzWm9iUWFCbks5cGJvY3JIaGtNZ24xcnhNZ184STlvQlZCWVozWGV5TUhod1NhUTJhWHBfRnNXVm1yZ3ZXQ1E?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Easyjet rechnet Anfang 2027 mit Abschluss der Apollo-Übernahme - airliners.de",
-        "source": "airliners.de",
-        "publishedAt": "2026-10-13T06:45:00+00:00",
-        "summary": "Easyjet rechnet Anfang 2027 mit Abschluss der Apollo-Übernahme airliners.de",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGhVY2VUcldyVFBfLTZER0VSclkwaHA1RjEzN3lHY0dWMXlxVjFCbF9RTUYyUy1tbTVXVk96NVdMZ2F5dVpPWDMyelZQeC0wdGRBUUt5cGRqQVIzRHljWUVYZHlxUk1HQ1JTX2VzY0hfc1BWMEdfNk41cHZVWUpzdGxXMGk?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZEZDaG5IT3czNmZxMWF3czAtUmxLcjBVOHVBT0VMckw3TXEtbDJaLWhpZjhSb3E1ZFRqcjNpdHhhRG1aUVBQYy1NR0NIUG5qT2s1RnNMeGxsWHBBYWNySXpoRnNZZ3hXODNNZVA3TUNhbFByMzVwM21BOThzWDBZTlN6Yjl4RC02eHpPQldvM1BDTmsxZHY4VEVsZDVPNGRCNlFCZ2M1enVrbW1fU3FKc0tRX3R1MWU5TEVYTkdYdEFOWWc4MGdVUlhVQkUtTWF6WjVGUEtUTzJzdEg3OU44QXZ1ZlB2MkhI?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -376,6 +364,16 @@
         "tags": [
           "t3n"
         ]
+      },
+      {
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
+        "source": "das investment",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
+        "tags": [
+          "das investment"
+        ]
       }
     ],
     "trends": [
@@ -411,13 +409,33 @@
         ]
       },
       {
-        "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
-        "source": "Nau",
-        "publishedAt": "2026-10-13T16:37:34+00:00",
-        "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
+        "title": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)Borns IT- und Windows-Blog - BornCity",
+        "source": "BornCity",
+        "publishedAt": "2026-10-18T22:05:51+00:00",
+        "summary": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)Borns IT- und Windows-Blog BornCity",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhU0lLWk5NOTloMFBfVkdsekl4bEtBdkt3aWl4Y3NDcXVONXA2anNRa3RoaktONng4UFNIbmNRWW9nOElkYjRPUTQtaU1tdWdiTVJCd2hiZVBNSjd2QnI0a1BkWWVHVnZSd09XSTBSUmZ2aGJfWlE?oc=5",
         "tags": [
-          "Nau"
+          "BornCity"
+        ]
+      },
+      {
+        "title": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf - CHEMIE TECHNIK",
+        "source": "CHEMIE TECHNIK",
+        "publishedAt": "2026-10-14T03:29:00+00:00",
+        "summary": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf CHEMIE TECHNIK",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnozd3FNTXNjekZERVdmMENlQkpZNHZjN01DanNfcVpnTjhNLUgyQnZ0azAzVEt1MUdZN1JpZmtWdHJ0eUFSZmItengtVGpLMFRhblJXUTBnUlFNVFZVQ2o3ZGpkWUI1S1BFSGlyVlpIU2lwNlhuZG9lSDltT2p0eE5BbGRRT2ZRa2gyM1hFMA?oc=5",
+        "tags": [
+          "CHEMIE TECHNIK"
+        ]
+      },
+      {
+        "title": "Mehr als 150 Ausstellende informieren in Wieselburg - NÖN.at - Niederösterreichische Nachrichten",
+        "source": "NÖN.at - Niederösterreichische Nachrichten",
+        "publishedAt": "2026-10-13T12:00:00+00:00",
+        "summary": "Mehr als 150 Ausstellende informieren in Wieselburg NÖN.at - Niederösterreichische Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnkwVVhtc3VsODg4UERjbWhwOVltajJwUmFDbk1zU3VMWGNxbTVmNVF3eEh4RzZ5TEdwLUhWT1RMSEgtQVNwTlgteEtOQjFpU3ZEV0Rfd1BGbi01SlJrNmhjVll0ekZzV3gwc3ZoTW90SjV3SzZaWExxbkVDbVhCckpzVFlBM1QwQW1wZlpBN0E2ZXFTaWNRZThXSC16RzhWSDl4Z1pFM3lnZUNZaENJY094WE1mX1JG?oc=5",
+        "tags": [
+          "NÖN.at - Niederösterreichische Nachrichten"
         ]
       },
       {
@@ -431,24 +449,14 @@
         ]
       },
       {
-        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - produktion.de",
-        "source": "produktion.de",
-        "publishedAt": "2026-10-07T13:49:11+00:00",
-        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München produktion.de",
+        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
+        "source": "Produktion Online",
+        "publishedAt": "2026-10-07T07:00:00+00:00",
+        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München Produktion Online",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
         "tags": [
           "Retrofit",
           "AI"
-        ]
-      },
-      {
-        "title": "Lüftung als sicherheitsrelevante Gebäudetechnik - ﻿Gut geplant ist halb gelüftet - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-10-06T13:41:56+00:00",
-        "summary": "Lüftung als sicherheitsrelevante Gebäudetechnik - ﻿Gut geplant ist halb gelüftet Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXF3YVc0V051bzFvX3k2SnRkMHZxOXk1LTRQREpVakEybjRNRko2eGJxTU1tb2ZET1pGUXpRdkZnUzRTSi03R0RGUERMYnFKOW9fcWtCYktLeUl1RU5jOEN0eUF6Rm1mM0FZMHozOVA1NnJUVUJjb3o2WTZFcjVKTjg5TEwyWk1fVEg5ZTdLLVNjZEV2VFFnWFFfaml5eTd5b1BITzlkRExEM3A1aEoyVm5JMjVMazg?oc=5",
-        "tags": [
-          "Gebäude-Energieberater"
         ]
       },
       {
@@ -462,16 +470,6 @@
         ]
       },
       {
-        "title": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen - Schwäbische Post",
-        "source": "Schwäbische Post",
-        "publishedAt": "2026-09-30T10:00:00+00:00",
-        "summary": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen Schwäbische Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
-        "tags": [
-          "Schwäbische Post"
-        ]
-      },
-      {
         "title": "Lünendonk-Liste: Sicherheitsdienstleister setzen auf KI - Der Facility Manager",
         "source": "Der Facility Manager",
         "publishedAt": "2026-09-29T05:58:34+00:00",
@@ -482,21 +480,21 @@
         ]
       },
       {
-        "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
-        "source": "Cornelius Ober GmbH",
-        "publishedAt": "2026-09-28T07:00:00+00:00",
-        "summary": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick Cornelius Ober GmbH",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
-        "tags": [
-          "Gebäudeautomation"
-        ]
-      },
-      {
         "title": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-09-25T07:00:00+00:00",
         "summary": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört it boltwise",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise - MarketScreener Schweiz",
+        "source": "MarketScreener Schweiz",
+        "publishedAt": "2026-09-23T10:00:22+00:00",
+        "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
         "tags": [
           "KI"
         ]
