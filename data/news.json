@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:47:12.854342+00:00",
+  "generatedAt": "2026-10-24T19:11:17.194974+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -157,11 +157,11 @@
         ]
       },
       {
-        "title": "Drei smarte Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert - n-tv.de",
+        "title": "Drei Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-10-22T06:16:00+00:00",
-        "summary": "Drei smarte Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGlNb0E3Q2twVDNmZHVGYU93VTBMbmVrN1FjV3BYLU5vWkhzY3RXd1RCdkFMMl80RlJsSGQ2SG1DQkR5NlVaQjdsbjNtZDl0VjZBTXo5QkpkWWdZSlYzc2t6WFhKaXgxT2NET0hvc05rNDdRUkQ5TG1uLXBvNE9xekU3NFZhdnhUVjdnc3JDeWR1U1RlVTlybzZHQ1Q1cHJNOTZOcDJiQmFpV3NMU09TcWM1ZHBVSHpxVDVCNDhpeEN6MkVi?oc=5",
+        "summary": "Drei Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObjB2TXVxb3JuVUpZOXFlVVZzQk1YZDhHOHR3SXJVMUxLVUZoNm5WY3VzSGwxXzdmUk1WdjRORFFyMTFlTlBzS2JqQllOTnYtX0xMTVk1VnNpSjFTUDdCb2poZzYtZXMydWVlMW4wZy0tbHpXZms2TVBxU1E5MUFkMS1KNlU0aHE0Ym93WXNmN29Ibzl0dUFRODN4WkZOVEw3ZHhITUxtbENveFlxdXowNE1pVWNOS1RuMXRn?oc=5",
         "tags": [
           "Ei",
           "X-Sense"
@@ -220,16 +220,6 @@
         ]
       },
       {
-        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-10-18T08:10:23+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRU0xT09BMWw4WVlMRHBJUG9JVmxMN2xBdmhKelpaRERIUEQ0YV9qUC1mZC1DbjQyUmxzODJEVDNad19jZEN3ZkEycF8tWFlELTBJQ0xmRGpURnZBSk45bUJfM2ZueW1ITVZJbWxZcE45M1ZZMHkzSXNCOWdZSWs5dk1nX0I5dVRobHc?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - AD HOC NEWS",
         "source": "AD HOC NEWS",
         "publishedAt": "2026-10-17T19:15:07+00:00",
@@ -249,6 +239,18 @@
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWZnT3EtclNXdUNEb1dKU2RVQUgzejRRY0w3cDY3b05JTFRGRE1DczRNSW5vZVY4ZDctWVpvZXBaUkNWUU10eW1PR1Z1MlMwRk9RZGtYOVNPZ1UyeE9UTTJPNC02bjZHWDBRQ3RISjVRZnIxUjNqRFZOYk1RSGxMRkJTTnRvamJTUW9tSnVidUhIY3c5d0xWUlhWOW16ZmZENDNuSW5WWkNaMnRERVBQejlmOVZuaDBhM0dvMExES21aS0RMV3g1bWZ3blJFdVZ5cUR0SnRrbjNpVHE2TFFMTklMZnphVVpSWC00VFBJUQ?oc=5",
         "tags": [
           "Ei",
+          "Rauchwarnmelder"
+        ]
+      },
+      {
+        "title": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-10-14T09:42:36+00:00",
+        "summary": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUk1OTM4UHBhOS1PNzBQQV9zVXVhelFZLWk1aU8yVTFqOEZqRHNnSVNzSVg5dGkyU1ZzZVN1ZnJ0OWR0UE5FbWdtNmZTbnpsazJOenhJOTRBdU5kQ1YxTmFORnlfM1RTUHloOGdUOU1NbWM4XzRfR09HcWRFTDdfLUZRQ2lWY0MzeXZkUGF1MTFneE9rRzRkUmFQaEk3ak5ObVJJeTRRdVU2NFZrTThLQk9SMllHMnhGZTh3U2lwOEtoamhmS2psWUNDZ2t0VnBSTDdReE9wbE14bEZVbVhjZFl0QzJ3NGR2dVE?oc=5",
+        "tags": [
+          "Ei",
+          "Ei Electronics",
           "Rauchwarnmelder"
         ]
       }
@@ -292,16 +294,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
           "Spiegel"
-        ]
-      },
-      {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
-        "source": "Manager Magazin",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
-        "tags": [
-          "Apollo"
         ]
       },
       {
@@ -372,6 +364,16 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
           "das investment"
+        ]
+      },
+      {
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
+        "tags": [
+          "Börsen-Zeitung"
         ]
       }
     ],
