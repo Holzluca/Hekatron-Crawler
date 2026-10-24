@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:33:03.498393+00:00",
+  "generatedAt": "2026-10-24T00:10:19.249179+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -137,16 +137,6 @@
         ]
       },
       {
-        "title": "Weniger Fett, voller Geschmack | Bosch Serie 6 Double Stack günstig wie selten - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-10-23T10:44:07+00:00",
-        "summary": "Weniger Fett, voller Geschmack | Bosch Serie 6 Double Stack günstig wie selten SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3BEbUdqeGFWdXhaVk13SVlUenJRVUhDdHlCbFVPejBvU21vODlTalJhOVdwSVRqMjlvUDNJdlNUaXZYS0xaa0d0bDhWTGYtOFFwX016c2tmNExwUEJlUnNMOVJrQ0NnYWZnNnNtdFJCN1R5b3ptdE4zQTBNOENCYXNFUFdQZl9EeVc0WEhuNW0?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "X-Sense: App-Update bringt Support für Matter-Basisstation SBS0A - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-10-23T06:15:35+00:00",
@@ -196,6 +186,16 @@
         "tags": [
           "Bosch",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "HACS zieht fest in Home Assistant ein - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-10-20T06:30:50+00:00",
+        "summary": "HACS zieht fest in Home Assistant ein Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UY2lyQTZXM3d4UkdYbkpFeWFZVE1mR192MnRyZDdkUmMwM0ZicFRxRkY1V2txaU9Md0lDZG5JcDNCeW5sY3pqcW8wa0FrZjdWNExVNjkzRlJfWjdHWG9YQjdmWmxtZ0h5OENmRUFjWHJld2E3UEE?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -295,6 +295,16 @@
         ]
       },
       {
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
         "source": "Apollo News",
         "publishedAt": "2026-08-13T07:00:00+00:00",
@@ -363,16 +373,6 @@
         "tags": [
           "das investment"
         ]
-      },
-      {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
-        "tags": [
-          "Börsen-Zeitung"
-        ]
       }
     ],
     "trends": [
@@ -387,6 +387,16 @@
         ]
       },
       {
+        "title": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert - PressNetwork.de",
+        "source": "PressNetwork.de",
+        "publishedAt": "2026-10-22T06:34:01+00:00",
+        "summary": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert PressNetwork.de",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVdWYmFEVTZGR0RaTUtEV2JYNkhBbC1zaHd4VmFuQlpfeU53T0E1SVo3bTU3NWZpelpmWjMzaV9oWjJkaEc4OFdkXzJmN1pCbUJSR2hSQlFqRnViRlpnWGh4aEFjcWVSQXdTVmJmdzhhWF9WZEw2NnFzT2lEUEV5Q3BfWXhfVUtscmZKZGk2cXZEVVVINFV1c1ExYjB1NXlDWG9IY1V5WXZhc00?oc=5",
+        "tags": [
+          "PressNetwork.de"
+        ]
+      },
+      {
         "title": "Meta Prometheus: Eine Million GPUs für die nächste KI-Generation - All-AI.de",
         "source": "All-AI.de",
         "publishedAt": "2026-10-20T07:12:48+00:00",
@@ -398,23 +408,13 @@
         ]
       },
       {
-        "title": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)Borns IT- und Windows-Blog - BornCity",
-        "source": "BornCity",
-        "publishedAt": "2026-10-18T22:05:51+00:00",
-        "summary": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)Borns IT- und Windows-Blog BornCity",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhU0lLWk5NOTloMFBfVkdsekl4bEtBdkt3aWl4Y3NDcXVONXA2anNRa3RoaktONng4UFNIbmNRWW9nOElkYjRPUTQtaU1tdWdiTVJCd2hiZVBNSjd2QnI0a1BkWWVHVnZSd09XSTBSUmZ2aGJfWlE?oc=5",
+        "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-10-13T16:37:34+00:00",
+        "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
         "tags": [
-          "BornCity"
-        ]
-      },
-      {
-        "title": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf - CHEMIE TECHNIK",
-        "source": "CHEMIE TECHNIK",
-        "publishedAt": "2026-10-14T03:29:00+00:00",
-        "summary": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf CHEMIE TECHNIK",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnozd3FNTXNjekZERVdmMENlQkpZNHZjN01DanNfcVpnTjhNLUgyQnZ0azAzVEt1MUdZN1JpZmtWdHJ0eUFSZmItengtVGpLMFRhblJXUTBnUlFNVFZVQ2o3ZGpkWUI1S1BFSGlyVlpIU2lwNlhuZG9lSDltT2p0eE5BbGRRT2ZRa2gyM1hFMA?oc=5",
-        "tags": [
-          "CHEMIE TECHNIK"
+          "Nau"
         ]
       },
       {
@@ -429,6 +429,16 @@
         ]
       },
       {
+        "title": "Lüftung als sicherheitsrelevante Gebäudetechnik - ﻿Gut geplant ist halb gelüftet - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-10-06T13:41:56+00:00",
+        "summary": "Lüftung als sicherheitsrelevante Gebäudetechnik - ﻿Gut geplant ist halb gelüftet Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXF3YVc0V051bzFvX3k2SnRkMHZxOXk1LTRQREpVakEybjRNRko2eGJxTU1tb2ZET1pGUXpRdkZnUzRTSi03R0RGUERMYnFKOW9fcWtCYktLeUl1RU5jOEN0eUF6Rm1mM0FZMHozOVA1NnJUVUJjb3o2WTZFcjVKTjg5TEwyWk1fVEg5ZTdLLVNjZEV2VFFnWFFfaml5eTd5b1BITzlkRExEM3A1aEoyVm5JMjVMazg?oc=5",
+        "tags": [
+          "Gebäude-Energieberater"
+        ]
+      },
+      {
         "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
         "source": "Investing.com Deutsch",
         "publishedAt": "2026-10-06T07:00:00+00:00",
@@ -439,6 +449,16 @@
         ]
       },
       {
+        "title": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen - Schwäbische Post",
+        "source": "Schwäbische Post",
+        "publishedAt": "2026-09-30T10:00:00+00:00",
+        "summary": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen Schwäbische Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
+        "tags": [
+          "Schwäbische Post"
+        ]
+      },
+      {
         "title": "Lünendonk-Liste: Sicherheitsdienstleister setzen auf KI - Der Facility Manager",
         "source": "Der Facility Manager",
         "publishedAt": "2026-09-29T05:58:34+00:00",
@@ -446,6 +466,16 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZEVSb0NBcHdaei1JdUZQNHRqR3pOU1NrbVZjM2lLU1ZrMWFLTm9Pd2NZVVBvdEJnZ2tXYkVGbjhBZlhVUk5lYlNsV1czTmlhVjU2Nzc4VUptVWJRT01oQk1OX2NHcnhISjc0cnVWbk1zVEZBM2NoV2QzR3BUZzUyR1hyWHlnTVlFbENCN0pteUludTZHTGlHanhrclR3T3c?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
+        "source": "Cornelius Ober GmbH",
+        "publishedAt": "2026-09-28T07:00:00+00:00",
+        "summary": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick Cornelius Ober GmbH",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
+        "tags": [
+          "Gebäudeautomation"
         ]
       },
       {
@@ -464,36 +494,6 @@
         "publishedAt": "2026-09-23T10:00:22+00:00",
         "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Brandschutz, KNX und Normen: So verdichtet die Elektrobranche ihr Wissen in 2024/2026 - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-09-18T15:32:51+00:00",
-        "summary": "Brandschutz, KNX und Normen: So verdichtet die Elektrobranche ihr Wissen in 2024/2026 it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMllhaDRKck5uUG9aRUM0Zm5laktMQm04VHZ6MEJTbTFtenBRaTRnNGhqdEQxMHctdWZobW9sQmxqTU5rd3Vfc3lYMTJYZWNyZk5sTHRjWXd5TFZuYW1xczdFNFFycmFPNVUxXzFkSEV3S05HNkxtZkZnRjZvTlhNSzdIS0wyRnRPUjd2eEhZemYxbk5oYVg1dDM4QWhORkNKYTdYS3hTck9BTE5MWC1zc2NQTDVhdw?oc=5",
-        "tags": [
-          "Normen"
-        ]
-      },
-      {
-        "title": "KI-gestützte HVAC-Optimierung für intelligente Gebäude - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-09-15T15:38:06+00:00",
-        "summary": "KI-gestützte HVAC-Optimierung für intelligente Gebäude Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdF9hUGtFd0hkYVN3bnFIM3ZKN3VRbml3bF9nTmNua0RyT3RXNVdOLWM1cno2VjZ5VFRBT3lDSnpLTDJRWXcxb2JvUndvN18zbzdjeFlPQWhzYW1Ta3BVNjUzVWtocF9TdjV3MDVWQmZNbFBXOE9iN2ZqZnBQUHptamE4YVVOd3hkejcxWg?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
-        "source": "Gießener Allgemeine",
-        "publishedAt": "2026-09-13T07:00:00+00:00",
-        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
           "KI"
         ]
