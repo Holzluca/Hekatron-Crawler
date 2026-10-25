@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:16:25.363975+00:00",
+  "generatedAt": "2026-10-25T17:07:48.447377+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -95,6 +95,17 @@
         ]
       },
       {
+        "title": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-06-02T07:00:00+00:00",
+        "summary": "Brandschutz: Siemens stellt KI-Melder mit Cloud-Anbindung vor ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSTRFQ09TMWJqR2tSNk1KVXg5M1o3SjVxcm5vaDhaLUw4R1ZaSXFlSElydFo3MU04WmRQTGRWWjhwLTIyNnRxdlpxVUIyQ2RQS1B1TnY2ejA2T2VOaWZYak50Uk5rR3I0MnRQQWRBMVJoaENXc0R2SjNaLXhxVk1Rc3ZMU2ZfdkJWajNmYUJnSWdlM0R1enVDR3QyWC0tME0zRkxrVmpXelJqTlk?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
+      {
         "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens press",
         "source": "Siemens press",
         "publishedAt": "2026-06-01T07:00:00+00:00",
@@ -112,17 +123,6 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-05-05T12:32:58+00:00",
-        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
         ]
       }
     ],
@@ -211,36 +211,13 @@
         ]
       },
       {
-        "title": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-10-19T14:19:20+00:00",
-        "summary": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlPS2tEcVRNbnVIRDV3Mjl4cnRoazBqUE1QSW9YaW9aOUFxclI2U3lPTEZIMXFnUGU0WVhzZDRvQzFFTzdqMnljSVIzUWZMcmdmdEZvOXZSSnMwRWpPMzNDcmpFaHM5R0xkN1ZyRTVlUXh0VmlhQU9KTEViSExEZlZB?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten - inside digital",
-        "source": "inside digital",
-        "publishedAt": "2026-10-19T05:29:00+00:00",
-        "summary": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten inside digital",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW04MjJtMkVvbi1EcHFtMFhYT3QxaWVwZXZPbnl2TkxlZk5nSEI0REhDRE5xVnVMRHJXYW9XUlo4VUx6ZnpubkEwTDU2UW9xQU9FNDZpQTVvdVNMWTE5a0VYeWJWT1F1NXd5c1RrRzBuakloSU5VN1FNYVZCZmRVdDBkbm9sR0VyX3E1eWl3Nmhfc1FfRkpBZDlmZjZIcWdRRHlv0gGoAUFVX3lxTE1fTW5vd1ZCWVhWZWlXNENKS0NBQzRCRzRRblU1eGFwRk1lMFRKd1VkUUpVdTZseGRKOVBwRTR2TkhVRXNtSm00X21Sa1NBZFVTbnVFbzgtM19rc2xETUNBMGhZNDBmWWhQNUU0QWZrdjU2d3ptU1diUEN2Tml3eWlKMXlEVXJZaFpWRXFuYmVYVU1xQ1QzOHBkcm1iMFowcHZXRFplUjJsMg?oc=5",
+        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-10-18T08:10:23+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRU0xT09BMWw4WVlMRHBJUG9JVmxMN2xBdmhKelpaRERIUEQ0YV9qUC1mZC1DbjQyUmxzODJEVDNad19jZEN3ZkEycF8tWFlELTBJQ0xmRGpURnZBSk45bUJfM2ZueW1ITVZJbWxZcE45M1ZZMHkzSXNCOWdZSWs5dk1nX0I5dVRobHc?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-10-17T19:15:07+00:00",
-        "summary": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1pEYzliRHhRcHRubElJVWtxeFZYN2xYMVc1Z2lxRV9OZVRQUjN0anB3dXZxQm9aNFNqM3RUbV9HanFwQVZNWks1eFU4UU9nM2wtN1lObnR0LWVtcHJuYldGdmpCamNwSnNoWE14WUpSczRuQjNJUTZjVW5raWdOc0hzOW5lNmMzLXpUTXA1cTdUSHdNYmU5ZzNocmRqc0xWV1RxMlNILTgyWjY2WFNURlhqcnU?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
         ]
       },
       {
@@ -253,14 +230,37 @@
           "Ei",
           "Rauchwarnmelder"
         ]
+      },
+      {
+        "title": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-10-14T09:42:36+00:00",
+        "summary": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUk1OTM4UHBhOS1PNzBQQV9zVXVhelFZLWk1aU8yVTFqOEZqRHNnSVNzSVg5dGkyU1ZzZVN1ZnJ0OWR0UE5FbWdtNmZTbnpsazJOenhJOTRBdU5kQ1YxTmFORnlfM1RTUHloOGdUOU1NbWM4XzRfR09HcWRFTDdfLUZRQ2lWY0MzeXZkUGF1MTFneE9rRzRkUmFQaEk3ak5ObVJJeTRRdVU2NFZrTThLQk9SMllHMnhGZTh3U2lwOEtoamhmS2psWUNDZ2t0VnBSTDdReE9wbE14bEZVbVhjZFl0QzJ3NGR2dVE?oc=5",
+        "tags": [
+          "Ei",
+          "Ei Electronics",
+          "Rauchwarnmelder"
+        ]
+      },
+      {
+        "title": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-10-07T07:00:00+00:00",
+        "summary": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTjdlNkJ6YlNGcmRNM01oYmgzc29GclNaaXFkSXdTOFdNLVhwZlo3VHFlaE9nQ0Z4U3g3RThTVy1GdjktbFFWSzV6d01zRnVNQTdXWTF3V3lTNU91cUd2S0E3SUdkNC0ybno5RWxkbXgxRVk4UUcxT0lOSWs1V0RXQVFtRG5YaTNSdmgyVmc3dlR4Z193NF9OeHRPel9iOGFsOVFtTHdwWW9QZ1V5R25QbnlWbmpJTFhmYmZKak1ZMjVGYTR1ZkJPcXRIRnk1cFlaSDJ2NVo0MTIza2N0ank3WExsbmVWNXc?oc=5",
+        "tags": [
+          "Ei",
+          "X-Sense"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Global Management Aktie: Zwei Deals, ein Muster - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
+        "title": "Apollo Global Management Aktie: Zwei Deals, ein Muster - AD HOC NEWS",
+        "source": "AD HOC NEWS",
         "publishedAt": "2026-10-21T15:11:52+00:00",
-        "summary": "Apollo Global Management Aktie: Zwei Deals, ein Muster ad-hoc-news.de",
+        "summary": "Apollo Global Management Aktie: Zwei Deals, ein Muster AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUNJMHVVMGlJc1N4RDhPc1l4MktvZEs2NDR6TDRXV2hpLWVtSHdndURhR240dG1CSU5peHh1WTNEbU1qMFhDcFNKNmdVOXdpd1lDTW0xUmhPVF9fSGVSUElvVUNHbWR0RldFTUZVT3R6a2s5Rmt1S2h2SjBWd3dqNlQxWDQyRDJrZzF2VjY3cUVVWmhvaFBUQXZMTlFWMWNzQnJFSDFxenpPeTR6Tk5qT0lzY2lxbFFzdDUwSkdjRGlRQQ?oc=5",
         "tags": [
           "Apollo"
@@ -327,16 +327,6 @@
         ]
       },
       {
-        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
-        "source": "InvestmentWeek",
-        "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
-        "tags": [
-          "InvestmentWeek"
-        ]
-      },
-      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -375,6 +365,16 @@
         "tags": [
           "das investment"
         ]
+      },
+      {
+        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
+        "source": "Börsen-Zeitung",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
+        "tags": [
+          "Börsen-Zeitung"
+        ]
       }
     ],
     "trends": [
@@ -399,6 +399,16 @@
         ]
       },
       {
+        "title": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert - PressNetwork.de",
+        "source": "PressNetwork.de",
+        "publishedAt": "2026-10-22T06:34:01+00:00",
+        "summary": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert PressNetwork.de",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVdWYmFEVTZGR0RaTUtEV2JYNkhBbC1zaHd4VmFuQlpfeU53T0E1SVo3bTU3NWZpelpmWjMzaV9oWjJkaEc4OFdkXzJmN1pCbUJSR2hSQlFqRnViRlpnWGh4aEFjcWVSQXdTVmJmdzhhWF9WZEw2NnFzT2lEUEV5Q3BfWXhfVUtscmZKZGk2cXZEVVVINFV1c1ExYjB1NXlDWG9IY1V5WXZhc00?oc=5",
+        "tags": [
+          "PressNetwork.de"
+        ]
+      },
+      {
         "title": "Bewegungsmelder-Markt bis 2035: Sicherheit und Automation treiben das Wachstum - Nachrichten und Statistiken - IndexBox",
         "source": "IndexBox",
         "publishedAt": "2026-10-20T11:06:04+00:00",
@@ -409,16 +419,6 @@
         ]
       },
       {
-        "title": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)Borns IT- und Windows-Blog - BornCity",
-        "source": "BornCity",
-        "publishedAt": "2026-10-18T22:05:51+00:00",
-        "summary": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)Borns IT- und Windows-Blog BornCity",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhU0lLWk5NOTloMFBfVkdsekl4bEtBdkt3aWl4Y3NDcXVONXA2anNRa3RoaktONng4UFNIbmNRWW9nOElkYjRPUTQtaU1tdWdiTVJCd2hiZVBNSjd2QnI0a1BkWWVHVnZSd09XSTBSUmZ2aGJfWlE?oc=5",
-        "tags": [
-          "BornCity"
-        ]
-      },
-      {
         "title": "Fraunhofer IKS: Deutschland will bei der KI-Entwicklung führend sein - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-10-14T07:00:00+00:00",
@@ -426,6 +426,16 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRlc3d3hpWFRDVi16T2FLMzAxczl0VUMzcElaakRfdTVJOWJ5ZnhVaHRjZ3lsSEptcUVvcWR2d1dHMWZfNHlEdlVpZXBMclFET2UxTFZhazVJTS1Wb0ViUVlIOG9XQVBEUk9fWjluWEtlOGxZVUp6Smp3c3N5UTlsUkU4VnE1enBvdEpPb0lBbThfUnB6a2pydkcxZERhTHRETUpaWGpmWGJWX1VqMGszMmduSG44N2tkcjE3emg2dGlUZzdxSGs0bGIzenROUXQ1dnQzNTVPT2VRemN5QVlF?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-10-13T07:00:00+00:00",
+        "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
+        "tags": [
+          "Nau"
         ]
       },
       {
@@ -440,16 +450,6 @@
         ]
       },
       {
-        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-10-06T07:00:00+00:00",
-        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
         "title": "Lünendonk-Liste: Sicherheitsdienstleister setzen auf KI - Der Facility Manager",
         "source": "Der Facility Manager",
         "publishedAt": "2026-09-29T05:58:34+00:00",
@@ -460,23 +460,13 @@
         ]
       },
       {
-        "title": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-09-25T07:00:00+00:00",
-        "summary": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
+        "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
+        "source": "Cornelius Ober GmbH",
+        "publishedAt": "2026-09-28T07:00:00+00:00",
+        "summary": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick Cornelius Ober GmbH",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
         "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise - MarketScreener Schweiz",
-        "source": "MarketScreener Schweiz",
-        "publishedAt": "2026-09-23T10:00:22+00:00",
-        "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
-        "tags": [
-          "KI"
+          "Gebäudeautomation"
         ]
       },
       {
@@ -495,6 +485,16 @@
         "publishedAt": "2026-09-13T07:00:00+00:00",
         "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
+        "source": "Wochenblatt Reporter",
+        "publishedAt": "2026-09-11T07:00:00+00:00",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
         "tags": [
           "KI"
         ]
