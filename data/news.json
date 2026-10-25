@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T08:00:50.197554+00:00",
+  "generatedAt": "2026-10-25T13:16:25.363975+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -128,6 +128,17 @@
     ],
     "pfs": [
       {
+        "title": "Bosch oder Ninja? Zwei Double-Stack-Fritteusen im direkten Vergleich - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-25T11:30:00+00:00",
+        "summary": "Bosch oder Ninja? Zwei Double-Stack-Fritteusen im direkten Vergleich SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0JTT19PTlFaejF6WHhSS3VybHVqR1VyUThjaUNlTTliVi1YMVRHQVlKcXhJS25oanBJUW9hVWV1Rko4aWFvZEI0cEYyQmlid2NxNkZyTEhuUXotRmlFSndUN25uR29MZXJyRVhaTllfSjFpQVotSFRZVVNET2lrN2FLQzlydHZ6UWpoRFdRYkF1Ymo2eEtfR1JabzdOVjBqaUFpclRYUjZ6U0VnRXU0VkN4Ty1NYzg?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
         "title": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q - Netz Trends",
         "source": "Netz Trends",
         "publishedAt": "2026-10-24T12:51:00+00:00",
@@ -138,14 +149,34 @@
         ]
       },
       {
-        "title": "ADAC-Rauchmeldertest: Pyrexx-Modell warnt bei Schwelbrand nicht zuverlässig - Jack News",
-        "source": "Jack News",
-        "publishedAt": "2026-10-22T13:25:16+00:00",
-        "summary": "ADAC-Rauchmeldertest: Pyrexx-Modell warnt bei Schwelbrand nicht zuverlässig Jack News",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkdjdC1XTGdjTnZrYmdMM3Z1RGl2aHhhY3VHSFNPTEY5ZHNlbERZR3Bva0lkaGNOMW42aHRRZE1lR3RRZjBnTnE3ZkpPcDZ1VEFZZXg4UTBaaXpSZVNYZE5lOEdWYWQyenk1Y0N3YlRUeldKYWtRZ3h1N3JZdmt5dTJxdTRyODhFQ3FmbngyTUNJR0ZvZi1vcFJGOElkUQ?oc=5",
+        "title": "X-Sense: App-Update bringt Support für Matter-Basisstation SBS0A - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-10-23T06:15:35+00:00",
+        "summary": "X-Sense: App-Update bringt Support für Matter-Basisstation SBS0A Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmZxVVNPazZkUTRPaHFWcGRicW0tUzBjX21QUU1yclJRdE81RG1GSC10U0o1bHJ0TDl2czFrVmtnTVBYQzdSY3pfRjl3YlZCU1Z4VHpRbmx1Z2U3LXRTMVRVRl9kc0c4d2JKdWNvWnkyZHF6UjNBZTFyZWZ0ek1iS3hsN3NncHl6WUhiN3ZxNWZPQUhNLWpOaVFB?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-22T06:40:01+00:00",
+        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXdtbzhVTjJHZl9JWlhydlhSWmdTQXJ1WmlMX2dWM3kzRWV6a1lLbjRlQ19iRzlxUThFV1I4TEhkb09qeXFNa3JFWmdBUUF2TDJ4SW10LWVFWDFvdmR0U2RYSkZWNU12SE93VmpERy1vU2lGTUM5MElHajRURUJfUEU5WU44V29KMk9zalRnMlpvVkE?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Drei Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-22T06:16:00+00:00",
+        "summary": "Drei Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObjB2TXVxb3JuVUpZOXFlVVZzQk1YZDhHOHR3SXJVMUxLVUZoNm5WY3VzSGwxXzdmUk1WdjRORFFyMTFlTlBzS2JqQllOTnYtX0xMTVk1VnNpSjFTUDdCb2poZzYtZXMydWVlMW4wZy0tbHpXZms2TVBxU1E5MUFkMS1KNlU0aHE0Ym93WXNmN29Ibzl0dUFRODN4WkZOVEw3ZHhITUxtbENveFlxdXowNE1pVWNOS1RuMXRn?oc=5",
         "tags": [
           "Ei",
-          "Pyrexx"
+          "X-Sense"
         ]
       },
       {
@@ -180,84 +211,56 @@
         ]
       },
       {
-        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-10-18T08:10:23+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRU0xT09BMWw4WVlMRHBJUG9JVmxMN2xBdmhKelpaRERIUEQ0YV9qUC1mZC1DbjQyUmxzODJEVDNad19jZEN3ZkEycF8tWFlELTBJQ0xmRGpURnZBSk45bUJfM2ZueW1ITVZJbWxZcE45M1ZZMHkzSXNCOWdZSWs5dk1nX0I5dVRobHc?oc=5",
+        "title": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-19T14:19:20+00:00",
+        "summary": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlPS2tEcVRNbnVIRDV3Mjl4cnRoazBqUE1QSW9YaW9aOUFxclI2U3lPTEZIMXFnUGU0WVhzZDRvQzFFTzdqMnljSVIzUWZMcmdmdEZvOXZSSnMwRWpPMzNDcmpFaHM5R0xkN1ZyRTVlUXh0VmlhQU9KTEViSExEZlZB?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten - inside digital",
+        "source": "inside digital",
+        "publishedAt": "2026-10-19T05:29:00+00:00",
+        "summary": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten inside digital",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW04MjJtMkVvbi1EcHFtMFhYT3QxaWVwZXZPbnl2TkxlZk5nSEI0REhDRE5xVnVMRHJXYW9XUlo4VUx6ZnpubkEwTDU2UW9xQU9FNDZpQTVvdVNMWTE5a0VYeWJWT1F1NXd5c1RrRzBuakloSU5VN1FNYVZCZmRVdDBkbm9sR0VyX3E1eWl3Nmhfc1FfRkpBZDlmZjZIcWdRRHlv0gGoAUFVX3lxTE1fTW5vd1ZCWVhWZWlXNENKS0NBQzRCRzRRblU1eGFwRk1lMFRKd1VkUUpVdTZseGRKOVBwRTR2TkhVRXNtSm00X21Sa1NBZFVTbnVFbzgtM19rc2xETUNBMGhZNDBmWWhQNUU0QWZrdjU2d3ptU1diUEN2Tml3eWlKMXlEVXJZaFpWRXFuYmVYVU1xQ1QzOHBkcm1iMFowcHZXRFplUjJsMg?oc=5",
         "tags": [
           "Ei"
         ]
       },
       {
-        "title": "X-Sense SD11: App-Rauchmelder im Angebot - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-10-05T07:00:00+00:00",
-        "summary": "X-Sense SD11: App-Rauchmelder im Angebot iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUIzdXRFc0dXNlYxNjhXV0R4UXVYWGdaaVlNNlI3TmstcnpiX3BtZUlvdDc1OFZLMks4Vk9JVWJKM0pxSmVuYi1SUEdRcGhuVEJiWE9ndmUyY1hnaWhhQ21iMUtubVloSFhodFlIWHd6UXBZZHRmN2JTNUx2OFpiUUNwYUJpYnBieU1wbHRENUxnTTFlak9v?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
-      {
-        "title": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-09-25T07:00:00+00:00",
-        "summary": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel CHIP",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMWJSb2RXYzNzZEdaV3U3VW9Ic3lraDhGRFNkUHVJdGI4eHNhYnJxZnNKVHdaVEtNTXR1Q3EyWTJfbmo1Y2VFaVU5ZDV1Q3NOQUVwZkRhMU10RnZYaHNBUTgyTmRoUVZieWhnVnNxUEwyYXlIM1lxVUpuOTI1U2pGLUt1ZTNkcWRaaUV1bGNnTlpvTE5TTHR3TGFoNXZubVJnekNEUENVaWVLeGRxZHJ3Wk5wVEFYdmhvOWo2bm1TejdGRFNYT3A3ckdERW1LSVZSNlNkcmphTE5hcEJMZjBibk90c2VsUXhKMUZQRkt0cXBXdDJjTzBROFVtOE00VWRDQWY0bA?oc=5",
-        "tags": [
-          "CHIP"
-        ]
-      },
-      {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
-        "source": "PCGH",
-        "publishedAt": "2026-09-18T07:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
-        "source": "connect.de",
-        "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
+        "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-10-17T19:15:07+00:00",
+        "summary": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1pEYzliRHhRcHRubElJVWtxeFZYN2xYMVc1Z2lxRV9OZVRQUjN0anB3dXZxQm9aNFNqM3RUbV9HanFwQVZNWks1eFU4UU9nM2wtN1lObnR0LWVtcHJuYldGdmpCamNwSnNoWE14WUpSczRuQjNJUTZjVW5raWdOc0hzOW5lNmMzLXpUTXA1cTdUSHdNYmU5ZzNocmRqc0xWV1RxMlNILTgyWjY2WFNURlhqcnU?oc=5",
         "tags": [
           "Ei",
           "Bosch",
           "Smart Home"
         ]
+      },
+      {
+        "title": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-10-16T09:30:47+00:00",
+        "summary": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWZnT3EtclNXdUNEb1dKU2RVQUgzejRRY0w3cDY3b05JTFRGRE1DczRNSW5vZVY4ZDctWVpvZXBaUkNWUU10eW1PR1Z1MlMwRk9RZGtYOVNPZ1UyeE9UTTJPNC02bjZHWDBRQ3RISjVRZnIxUjNqRFZOYk1RSGxMRkJTTnRvamJTUW9tSnVidUhIY3c5d0xWUlhWOW16ZmZENDNuSW5WWkNaMnRERVBQejlmOVZuaDBhM0dvMExES21aS0RMV3g1bWZ3blJFdVZ5cUR0SnRrbjNpVHE2TFFMTklMZnphVVpSWC00VFBJUQ?oc=5",
+        "tags": [
+          "Ei",
+          "Rauchwarnmelder"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Global Management Aktie: Zwei Deals, ein Muster - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Apollo Global Management Aktie: Zwei Deals, ein Muster - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-10-21T15:11:52+00:00",
-        "summary": "Apollo Global Management Aktie: Zwei Deals, ein Muster AD HOC NEWS",
+        "summary": "Apollo Global Management Aktie: Zwei Deals, ein Muster ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUNJMHVVMGlJc1N4RDhPc1l4MktvZEs2NDR6TDRXV2hpLWVtSHdndURhR240dG1CSU5peHh1WTNEbU1qMFhDcFNKNmdVOXdpd1lDTW0xUmhPVF9fSGVSUElvVUNHbWR0RldFTUZVT3R6a2s5Rmt1S2h2SjBWd3dqNlQxWDQyRDJrZzF2VjY3cUVVWmhvaFBUQXZMTlFWMWNzQnJFSDFxenpPeTR6Tk5qT0lzY2lxbFFzdDUwSkdjRGlRQQ?oc=5",
         "tags": [
           "Apollo"
@@ -324,6 +327,16 @@
         ]
       },
       {
+        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
+        "source": "InvestmentWeek",
+        "publishedAt": "2026-07-30T07:00:00+00:00",
+        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
+        "tags": [
+          "InvestmentWeek"
+        ]
+      },
+      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -362,16 +375,6 @@
         "tags": [
           "das investment"
         ]
-      },
-      {
-        "title": "Revolut bringt Private-Markets-Fonds nach Deutschland - Börsen-Zeitung",
-        "source": "Börsen-Zeitung",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut bringt Private-Markets-Fonds nach Deutschland Börsen-Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVZvb1hJaHVDRW1HRDhFem16VW9uNEJmSzNEbUdUQWFaSHI3MHRwOHA4ajZBUVVyX2JGZk43X3RLTE9lZ0ZwckcxUGxKM3N3RVR2b05KZmpGeWdLSWVkRktuUDBKdGJ3eEFia1BKVmxheDk1MkgtSkJkbXNTSUVqRC1CZ0VPZDMt?oc=5",
-        "tags": [
-          "Börsen-Zeitung"
-        ]
       }
     ],
     "trends": [
@@ -396,16 +399,6 @@
         ]
       },
       {
-        "title": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert - PressNetwork.de",
-        "source": "PressNetwork.de",
-        "publishedAt": "2026-10-22T06:34:01+00:00",
-        "summary": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert PressNetwork.de",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVdWYmFEVTZGR0RaTUtEV2JYNkhBbC1zaHd4VmFuQlpfeU53T0E1SVo3bTU3NWZpelpmWjMzaV9oWjJkaEc4OFdkXzJmN1pCbUJSR2hSQlFqRnViRlpnWGh4aEFjcWVSQXdTVmJmdzhhWF9WZEw2NnFzT2lEUEV5Q3BfWXhfVUtscmZKZGk2cXZEVVVINFV1c1ExYjB1NXlDWG9IY1V5WXZhc00?oc=5",
-        "tags": [
-          "PressNetwork.de"
-        ]
-      },
-      {
         "title": "Bewegungsmelder-Markt bis 2035: Sicherheit und Automation treiben das Wachstum - Nachrichten und Statistiken - IndexBox",
         "source": "IndexBox",
         "publishedAt": "2026-10-20T11:06:04+00:00",
@@ -416,6 +409,16 @@
         ]
       },
       {
+        "title": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)Borns IT- und Windows-Blog - BornCity",
+        "source": "BornCity",
+        "publishedAt": "2026-10-18T22:05:51+00:00",
+        "summary": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)Borns IT- und Windows-Blog BornCity",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhU0lLWk5NOTloMFBfVkdsekl4bEtBdkt3aWl4Y3NDcXVONXA2anNRa3RoaktONng4UFNIbmNRWW9nOElkYjRPUTQtaU1tdWdiTVJCd2hiZVBNSjd2QnI0a1BkWWVHVnZSd09XSTBSUmZ2aGJfWlE?oc=5",
+        "tags": [
+          "BornCity"
+        ]
+      },
+      {
         "title": "Fraunhofer IKS: Deutschland will bei der KI-Entwicklung führend sein - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-10-14T07:00:00+00:00",
@@ -423,16 +426,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRlc3d3hpWFRDVi16T2FLMzAxczl0VUMzcElaakRfdTVJOWJ5ZnhVaHRjZ3lsSEptcUVvcWR2d1dHMWZfNHlEdlVpZXBMclFET2UxTFZhazVJTS1Wb0ViUVlIOG9XQVBEUk9fWjluWEtlOGxZVUp6Smp3c3N5UTlsUkU4VnE1enBvdEpPb0lBbThfUnB6a2pydkcxZERhTHRETUpaWGpmWGJWX1VqMGszMmduSG44N2tkcjE3emg2dGlUZzdxSGs0bGIzenROUXQ1dnQzNTVPT2VRemN5QVlF?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
-        "source": "Nau",
-        "publishedAt": "2026-10-13T07:00:00+00:00",
-        "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
-        "tags": [
-          "Nau"
         ]
       },
       {
@@ -457,16 +450,6 @@
         ]
       },
       {
-        "title": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen - Schwäbische Post",
-        "source": "Schwäbische Post",
-        "publishedAt": "2026-09-30T10:00:00+00:00",
-        "summary": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen Schwäbische Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
-        "tags": [
-          "Schwäbische Post"
-        ]
-      },
-      {
         "title": "Lünendonk-Liste: Sicherheitsdienstleister setzen auf KI - Der Facility Manager",
         "source": "Der Facility Manager",
         "publishedAt": "2026-09-29T05:58:34+00:00",
@@ -477,21 +460,41 @@
         ]
       },
       {
-        "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
-        "source": "Cornelius Ober GmbH",
-        "publishedAt": "2026-09-28T07:00:00+00:00",
-        "summary": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick Cornelius Ober GmbH",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
-        "tags": [
-          "Gebäudeautomation"
-        ]
-      },
-      {
         "title": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört - it boltwise",
         "source": "it boltwise",
         "publishedAt": "2026-09-25T07:00:00+00:00",
         "summary": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört it boltwise",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise - MarketScreener Schweiz",
+        "source": "MarketScreener Schweiz",
+        "publishedAt": "2026-09-23T10:00:22+00:00",
+        "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-gestützte HVAC-Optimierung für intelligente Gebäude - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-09-15T15:38:06+00:00",
+        "summary": "KI-gestützte HVAC-Optimierung für intelligente Gebäude Siemens",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdF9hUGtFd0hkYVN3bnFIM3ZKN3VRbml3bF9nTmNua0RyT3RXNVdOLWM1cno2VjZ5VFRBT3lDSnpLTDJRWXcxb2JvUndvN18zbzdjeFlPQWhzYW1Ta3BVNjUzVWtocF9TdjV3MDVWQmZNbFBXOE9iN2ZqZnBQUHptamE4YVVOd3hkejcxWg?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
+        "source": "Gießener Allgemeine",
+        "publishedAt": "2026-09-13T07:00:00+00:00",
+        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
           "KI"
         ]
