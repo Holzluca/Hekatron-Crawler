@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T02:52:33.706593+00:00",
+  "generatedAt": "2026-10-25T08:00:50.197554+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -138,16 +138,6 @@
         ]
       },
       {
-        "title": "X-Sense: App-Update bringt Support für Matter-Basisstation SBS0A - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-10-23T06:15:35+00:00",
-        "summary": "X-Sense: App-Update bringt Support für Matter-Basisstation SBS0A Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmZxVVNPazZkUTRPaHFWcGRicW0tUzBjX21QUU1yclJRdE81RG1GSC10U0o1bHJ0TDl2czFrVmtnTVBYQzdSY3pfRjl3YlZCU1Z4VHpRbmx1Z2U3LXRTMVRVRl9kc0c4d2JKdWNvWnkyZHF6UjNBZTFyZWZ0ek1iS3hsN3NncHl6WUhiN3ZxNWZPQUhNLWpOaVFB?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
         "title": "ADAC-Rauchmeldertest: Pyrexx-Modell warnt bei Schwelbrand nicht zuverlässig - Jack News",
         "source": "Jack News",
         "publishedAt": "2026-10-22T13:25:16+00:00",
@@ -190,67 +180,75 @@
         ]
       },
       {
-        "title": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-10-19T14:19:20+00:00",
-        "summary": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlPS2tEcVRNbnVIRDV3Mjl4cnRoazBqUE1QSW9YaW9aOUFxclI2U3lPTEZIMXFnUGU0WVhzZDRvQzFFTzdqMnljSVIzUWZMcmdmdEZvOXZSSnMwRWpPMzNDcmpFaHM5R0xkN1ZyRTVlUXh0VmlhQU9KTEViSExEZlZB?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten - inside digital",
-        "source": "inside digital",
-        "publishedAt": "2026-10-19T05:29:00+00:00",
-        "summary": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten inside digital",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW04MjJtMkVvbi1EcHFtMFhYT3QxaWVwZXZPbnl2TkxlZk5nSEI0REhDRE5xVnVMRHJXYW9XUlo4VUx6ZnpubkEwTDU2UW9xQU9FNDZpQTVvdVNMWTE5a0VYeWJWT1F1NXd5c1RrRzBuakloSU5VN1FNYVZCZmRVdDBkbm9sR0VyX3E1eWl3Nmhfc1FfRkpBZDlmZjZIcWdRRHlv0gGoAUFVX3lxTE1fTW5vd1ZCWVhWZWlXNENKS0NBQzRCRzRRblU1eGFwRk1lMFRKd1VkUUpVdTZseGRKOVBwRTR2TkhVRXNtSm00X21Sa1NBZFVTbnVFbzgtM19rc2xETUNBMGhZNDBmWWhQNUU0QWZrdjU2d3ptU1diUEN2Tml3eWlKMXlEVXJZaFpWRXFuYmVYVU1xQ1QzOHBkcm1iMFowcHZXRFplUjJsMg?oc=5",
+        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-10-18T08:10:23+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRU0xT09BMWw4WVlMRHBJUG9JVmxMN2xBdmhKelpaRERIUEQ0YV9qUC1mZC1DbjQyUmxzODJEVDNad19jZEN3ZkEycF8tWFlELTBJQ0xmRGpURnZBSk45bUJfM2ZueW1ITVZJbWxZcE45M1ZZMHkzSXNCOWdZSWs5dk1nX0I5dVRobHc?oc=5",
         "tags": [
           "Ei"
         ]
       },
       {
-        "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-10-17T19:15:07+00:00",
-        "summary": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1pEYzliRHhRcHRubElJVWtxeFZYN2xYMVc1Z2lxRV9OZVRQUjN0anB3dXZxQm9aNFNqM3RUbV9HanFwQVZNWks1eFU4UU9nM2wtN1lObnR0LWVtcHJuYldGdmpCamNwSnNoWE14WUpSczRuQjNJUTZjVW5raWdOc0hzOW5lNmMzLXpUTXA1cTdUSHdNYmU5ZzNocmRqc0xWV1RxMlNILTgyWjY2WFNURlhqcnU?oc=5",
+        "title": "X-Sense SD11: App-Rauchmelder im Angebot - iphone-ticker.de",
+        "source": "iphone-ticker.de",
+        "publishedAt": "2026-10-05T07:00:00+00:00",
+        "summary": "X-Sense SD11: App-Rauchmelder im Angebot iphone-ticker.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUIzdXRFc0dXNlYxNjhXV0R4UXVYWGdaaVlNNlI3TmstcnpiX3BtZUlvdDc1OFZLMks4Vk9JVWJKM0pxSmVuYi1SUEdRcGhuVEJiWE9ndmUyY1hnaWhhQ21iMUtubVloSFhodFlIWHd6UXBZZHRmN2JTNUx2OFpiUUNwYUJpYnBieU1wbHRENUxnTTFlak9v?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
+        "title": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-09-25T07:00:00+00:00",
+        "summary": "Welche Rauchmelder 2026 ausgetauscht werden müssen: Das steckt hinter der Zehn-Jahres-Regel CHIP",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQMWJSb2RXYzNzZEdaV3U3VW9Ic3lraDhGRFNkUHVJdGI4eHNhYnJxZnNKVHdaVEtNTXR1Q3EyWTJfbmo1Y2VFaVU5ZDV1Q3NOQUVwZkRhMU10RnZYaHNBUTgyTmRoUVZieWhnVnNxUEwyYXlIM1lxVUpuOTI1U2pGLUt1ZTNkcWRaaUV1bGNnTlpvTE5TTHR3TGFoNXZubVJnekNEUENVaWVLeGRxZHJ3Wk5wVEFYdmhvOWo2bm1TejdGRFNYT3A3ckdERW1LSVZSNlNkcmphTE5hcEJMZjBibk90c2VsUXhKMUZQRkt0cXBXdDJjTzBROFVtOE00VWRDQWY0bA?oc=5",
+        "tags": [
+          "CHIP"
+        ]
+      },
+      {
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
+        "source": "PCGH",
+        "publishedAt": "2026-09-18T07:00:00+00:00",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
+        "source": "connect.de",
+        "publishedAt": "2026-09-11T07:00:00+00:00",
+        "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
         "tags": [
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen - ADAC",
-        "source": "ADAC",
-        "publishedAt": "2026-10-14T07:00:00+00:00",
-        "summary": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen ADAC",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnVvY0ZLa2U5dzFlWlpTd2tfeXRoeGxVQWFiUW5Qd0VQYzlUZ0t3YjRPMG5ELVZJLWxnNUxydUtYRDJVVm1VejRQTWZfbkJRMkRvTVFnMkk4YUE0WXhpZ3NqWXhpSTlqRGdWLUhkYk5yOFo3ZEtZdmhyRjFiaE9NUXQyamNEUGQ5Tksw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-10-13T11:44:48+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY25mVDVCS3lKR1dNVjV0U3hfQWdJR1VIU1BQLTVZWUxGVXJGTzB1UTFqWXllckZGeXBzRXEyNm9qcFlzVEtWUHJ1UzdRZk96bktoWnV4aHdQV1RubHYwNzc1Vi10ZldndEFiLWZreDNVSXlwV3l1TkxsZUkzVEpYVA?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-10-11T07:00:00+00:00",
-        "summary": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVItRk04cUg4ZHRXZF8yTHlhTE9ERzFLZ0JBOXNsa1JaUlVUYUVUUzFpRHBHRU1reE9hc3lzakM3NGRHMlIteC0yVWN4NlV2SFlaX2xJbWt5VFVudTRsUlpVejZETW5mUkFXRDdveVFBX3BTeFlkRHE4T2gyVnhwOUxrcTFlYlVNZDZZQ2ljeEI2aVZ0dTJzaWdUeVRWVUxQ?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       }
     ],
@@ -296,21 +294,21 @@
         ]
       },
       {
-        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
-        "source": "Apollo News",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze Apollo News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
           "Apollo"
         ]
       },
       {
-        "title": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück - airliners.de",
-        "source": "airliners.de",
-        "publishedAt": "2026-08-06T07:00:00+00:00",
-        "summary": "Apollo übernimmt Easyjet – Castlelake zieht sich zurück airliners.de",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jblNXcnhXak9KOXdiSUdfVkU4dEJ5aVZ4QTRBck5HQ2k0cjB4blE3ZTY5OU9HNURmclJOYWplRzh5c1pqQUh4SWJBSWJQLXhzWnRFRjkzUlpRbV9nd0NJN3o4MXB2Um9xWHM3a0N3NEloaUx0ejl4ZW1Da1c?oc=5",
+        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
+        "source": "Apollo News",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze Apollo News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -388,6 +386,16 @@
         ]
       },
       {
+        "title": "Wüest Partner Studie: Zahl unzureichend versicherter Gebäude in Risikolagen könnte bis 2080 um 70 Prozent steigen - Konii",
+        "source": "Konii",
+        "publishedAt": "2026-10-22T08:58:11+00:00",
+        "summary": "Wüest Partner Studie: Zahl unzureichend versicherter Gebäude in Risikolagen könnte bis 2080 um 70 Prozent steigen Konii",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTkdINE1IUXA0aHA2eTRfV2tuUkNuS1E0SXhWQzBlQ2E3MVEzR3FSVTRobEFaMjBpNnVUWUNTZ2tLcVE4cDljc1dqVlJGb0Y4eUt2ck1DQUVyZG1EaF9pY0dhNlNqUFJTSFQtUWFSTEVXZUloVHFiTkhHWTdOSEFSZE5xVGdraTZTRWxWZnp1ZjNHRFhwWktERkNxVFpUZU9aQmM3S3dkdWNmV1dZTncxNkRMUjUtVGVBRUVWUk5kaTgzenk3Z2FhZmNUTE1sSmo1M2I1eGZLZk1TUQ?oc=5",
+        "tags": [
+          "Konii"
+        ]
+      },
+      {
         "title": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert - PressNetwork.de",
         "source": "PressNetwork.de",
         "publishedAt": "2026-10-22T06:34:01+00:00",
@@ -395,6 +403,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVdWYmFEVTZGR0RaTUtEV2JYNkhBbC1zaHd4VmFuQlpfeU53T0E1SVo3bTU3NWZpelpmWjMzaV9oWjJkaEc4OFdkXzJmN1pCbUJSR2hSQlFqRnViRlpnWGh4aEFjcWVSQXdTVmJmdzhhWF9WZEw2NnFzT2lEUEV5Q3BfWXhfVUtscmZKZGk2cXZEVVVINFV1c1ExYjB1NXlDWG9IY1V5WXZhc00?oc=5",
         "tags": [
           "PressNetwork.de"
+        ]
+      },
+      {
+        "title": "Bewegungsmelder-Markt bis 2035: Sicherheit und Automation treiben das Wachstum - Nachrichten und Statistiken - IndexBox",
+        "source": "IndexBox",
+        "publishedAt": "2026-10-20T11:06:04+00:00",
+        "summary": "Bewegungsmelder-Markt bis 2035: Sicherheit und Automation treiben das Wachstum - Nachrichten und Statistiken IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM1VYMXBTNUV1Z05BOHdNRFItR1pXdnJMNGFZdlJkUnNQSzd4emdOYXNqcS1Tb0p0UEY3LUItSHBKU2N5TVJQNHA0clYtc1gwaHNPbGRZR3BaSXk5aDMtY0tpbXdmdEFvSVlieTN0LWJnNFZFOFRMcjRXUW0wTWljODA3T2VpQXhCOFRKNzNsZlE3cnBmUzYyaHp2WmZtWkg4WkF3ZnlaTGZjUkpPWTZveFRyelNoLU1BclpJYjRUT2Zqa2tFZWd4cm1DSDdCTjFm?oc=5",
+        "tags": [
+          "IndexBox"
         ]
       },
       {
@@ -410,7 +428,7 @@
       {
         "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
         "source": "Nau",
-        "publishedAt": "2026-10-13T16:37:34+00:00",
+        "publishedAt": "2026-10-13T07:00:00+00:00",
         "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
         "tags": [
@@ -474,26 +492,6 @@
         "publishedAt": "2026-09-25T07:00:00+00:00",
         "summary": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört it boltwise",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise - MarketScreener Schweiz",
-        "source": "MarketScreener Schweiz",
-        "publishedAt": "2026-09-23T10:00:22+00:00",
-        "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-gestützte HVAC-Optimierung für intelligente Gebäude - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-09-15T15:38:06+00:00",
-        "summary": "KI-gestützte HVAC-Optimierung für intelligente Gebäude Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdF9hUGtFd0hkYVN3bnFIM3ZKN3VRbml3bF9nTmNua0RyT3RXNVdOLWM1cno2VjZ5VFRBT3lDSnpLTDJRWXcxb2JvUndvN18zbzdjeFlPQWhzYW1Ta3BVNjUzVWtocF9TdjV3MDVWQmZNbFBXOE9iN2ZqZnBQUHptamE4YVVOd3hkejcxWg?oc=5",
         "tags": [
           "KI"
         ]
