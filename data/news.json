@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-10-24T23:55:37.283773+00:00",
+  "generatedAt": "2026-10-25T02:52:33.706593+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Modernisierung, Brandschutz, 165 m hoher Wolkenkratzer, Niederlande - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-10-24T09:57:59+00:00",
+        "summary": "Modernisierung, Brandschutz, 165 m hoher Wolkenkratzer, Niederlande Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONzYxazRvWFF2YVVTZC1wZVF1ZzFyTy02Tk5MOFVtR2g3cjRSdThIdnhYSHZsMElwUV9TMm56LWNKWERMdDk4V3JveDltb2dxSTJBeE9EcUJqMW5mc1ZPM2RZQmpPa0xtazBTdUlSeWFPaXZ0RDc5Mzg0RWxMcnlyOURMU05aMjZCR19BbTJfVU90QWhoajctMTlrandvMmd0eDdKOWJUZmN4dw?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
       {
         "title": "Globaler Schutz und Schutz 2026 - Siemens",
         "source": "Siemens",
@@ -113,16 +124,6 @@
           "Siemens",
           "Brandschutz"
         ]
-      },
-      {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -147,24 +148,14 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-22T06:40:01+00:00",
-        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXdtbzhVTjJHZl9JWlhydlhSWmdTQXJ1WmlMX2dWM3kzRWV6a1lLbjRlQ19iRzlxUThFV1I4TEhkb09qeXFNa3JFWmdBUUF2TDJ4SW10LWVFWDFvdmR0U2RYSkZWNU12SE93VmpERy1vU2lGTUM5MElHajRURUJfUEU5WU44V29KMk9zalRnMlpvVkE?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Drei Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-22T06:16:00+00:00",
-        "summary": "Drei Rauchmelder für 65 Euro: X-Sense-Set bei Amazon reduziert n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObjB2TXVxb3JuVUpZOXFlVVZzQk1YZDhHOHR3SXJVMUxLVUZoNm5WY3VzSGwxXzdmUk1WdjRORFFyMTFlTlBzS2JqQllOTnYtX0xMTVk1VnNpSjFTUDdCb2poZzYtZXMydWVlMW4wZy0tbHpXZms2TVBxU1E5MUFkMS1KNlU0aHE0Ym93WXNmN29Ibzl0dUFRODN4WkZOVEw3ZHhITUxtbENveFlxdXowNE1pVWNOS1RuMXRn?oc=5",
+        "title": "ADAC-Rauchmeldertest: Pyrexx-Modell warnt bei Schwelbrand nicht zuverlässig - Jack News",
+        "source": "Jack News",
+        "publishedAt": "2026-10-22T13:25:16+00:00",
+        "summary": "ADAC-Rauchmeldertest: Pyrexx-Modell warnt bei Schwelbrand nicht zuverlässig Jack News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkdjdC1XTGdjTnZrYmdMM3Z1RGl2aHhhY3VHSFNPTEY5ZHNlbERZR3Bva0lkaGNOMW42aHRRZE1lR3RRZjBnTnE3ZkpPcDZ1VEFZZXg4UTBaaXpSZVNYZE5lOEdWYWQyenk1Y0N3YlRUeldKYWtRZ3h1N3JZdmt5dTJxdTRyODhFQ3FmbngyTUNJR0ZvZi1vcFJGOElkUQ?oc=5",
         "tags": [
           "Ei",
-          "X-Sense"
+          "Pyrexx"
         ]
       },
       {
@@ -220,10 +211,10 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - AD HOC NEWS",
-        "source": "AD HOC NEWS",
+        "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
         "publishedAt": "2026-10-17T19:15:07+00:00",
-        "summary": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau AD HOC NEWS",
+        "summary": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1pEYzliRHhRcHRubElJVWtxeFZYN2xYMVc1Z2lxRV9OZVRQUjN0anB3dXZxQm9aNFNqM3RUbV9HanFwQVZNWks1eFU4UU9nM2wtN1lObnR0LWVtcHJuYldGdmpCamNwSnNoWE14WUpSczRuQjNJUTZjVW5raWdOc0hzOW5lNmMzLXpUTXA1cTdUSHdNYmU5ZzNocmRqc0xWV1RxMlNILTgyWjY2WFNURlhqcnU?oc=5",
         "tags": [
           "Ei",
@@ -232,26 +223,34 @@
         ]
       },
       {
-        "title": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-10-16T09:30:47+00:00",
-        "summary": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWZnT3EtclNXdUNEb1dKU2RVQUgzejRRY0w3cDY3b05JTFRGRE1DczRNSW5vZVY4ZDctWVpvZXBaUkNWUU10eW1PR1Z1MlMwRk9RZGtYOVNPZ1UyeE9UTTJPNC02bjZHWDBRQ3RISjVRZnIxUjNqRFZOYk1RSGxMRkJTTnRvamJTUW9tSnVidUhIY3c5d0xWUlhWOW16ZmZENDNuSW5WWkNaMnRERVBQejlmOVZuaDBhM0dvMExES21aS0RMV3g1bWZ3blJFdVZ5cUR0SnRrbjNpVHE2TFFMTklMZnphVVpSWC00VFBJUQ?oc=5",
+        "title": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-10-14T07:00:00+00:00",
+        "summary": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen ADAC",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnVvY0ZLa2U5dzFlWlpTd2tfeXRoeGxVQWFiUW5Qd0VQYzlUZ0t3YjRPMG5ELVZJLWxnNUxydUtYRDJVVm1VejRQTWZfbkJRMkRvTVFnMkk4YUE0WXhpZ3NqWXhpSTlqRGdWLUhkYk5yOFo3ZEtZdmhyRjFiaE9NUXQyamNEUGQ5Tksw?oc=5",
         "tags": [
-          "Ei",
-          "Rauchwarnmelder"
+          "Ei"
         ]
       },
       {
-        "title": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-10-14T09:42:36+00:00",
-        "summary": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUk1OTM4UHBhOS1PNzBQQV9zVXVhelFZLWk1aU8yVTFqOEZqRHNnSVNzSVg5dGkyU1ZzZVN1ZnJ0OWR0UE5FbWdtNmZTbnpsazJOenhJOTRBdU5kQ1YxTmFORnlfM1RTUHloOGdUOU1NbWM4XzRfR09HcWRFTDdfLUZRQ2lWY0MzeXZkUGF1MTFneE9rRzRkUmFQaEk3ak5ObVJJeTRRdVU2NFZrTThLQk9SMllHMnhGZTh3U2lwOEtoamhmS2psWUNDZ2t0VnBSTDdReE9wbE14bEZVbVhjZFl0QzJ3NGR2dVE?oc=5",
+        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-10-13T11:44:48+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY25mVDVCS3lKR1dNVjV0U3hfQWdJR1VIU1BQLTVZWUxGVXJGTzB1UTFqWXllckZGeXBzRXEyNm9qcFlzVEtWUHJ1UzdRZk96bktoWnV4aHdQV1RubHYwNzc1Vi10ZldndEFiLWZreDNVSXlwV3l1TkxsZUkzVEpYVA?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-10-11T07:00:00+00:00",
+        "summary": "Bosch Cookit: Neues Update verteilt überarbeitete Benutzeroberfläche Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVItRk04cUg4ZHRXZF8yTHlhTE9ERzFLZ0JBOXNsa1JaUlVUYUVUUzFpRHBHRU1reE9hc3lzakM3NGRHMlIteC0yVWN4NlV2SFlaX2xJbWt5VFVudTRsUlpVejZETW5mUkFXRDdveVFBX3BTeFlkRHE4T2gyVnhwOUxrcTFlYlVNZDZZQ2ljeEI2aVZ0dTJzaWdUeVRWVUxQ?oc=5",
         "tags": [
           "Ei",
-          "Ei Electronics",
-          "Rauchwarnmelder"
+          "Bosch"
         ]
       }
     ],
@@ -389,16 +388,6 @@
         ]
       },
       {
-        "title": "Wüest Partner Studie: Zahl unzureichend versicherter Gebäude in Risikolagen könnte bis 2080 um 70 Prozent steigen - Konii",
-        "source": "Konii",
-        "publishedAt": "2026-10-22T08:58:11+00:00",
-        "summary": "Wüest Partner Studie: Zahl unzureichend versicherter Gebäude in Risikolagen könnte bis 2080 um 70 Prozent steigen Konii",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTkdINE1IUXA0aHA2eTRfV2tuUkNuS1E0SXhWQzBlQ2E3MVEzR3FSVTRobEFaMjBpNnVUWUNTZ2tLcVE4cDljc1dqVlJGb0Y4eUt2ck1DQUVyZG1EaF9pY0dhNlNqUFJTSFQtUWFSTEVXZUloVHFiTkhHWTdOSEFSZE5xVGdraTZTRWxWZnp1ZjNHRFhwWktERkNxVFpUZU9aQmM3S3dkdWNmV1dZTncxNkRMUjUtVGVBRUVWUk5kaTgzenk3Z2FhZmNUTE1sSmo1M2I1eGZLZk1TUQ?oc=5",
-        "tags": [
-          "Konii"
-        ]
-      },
-      {
         "title": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert - PressNetwork.de",
         "source": "PressNetwork.de",
         "publishedAt": "2026-10-22T06:34:01+00:00",
@@ -406,16 +395,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVdWYmFEVTZGR0RaTUtEV2JYNkhBbC1zaHd4VmFuQlpfeU53T0E1SVo3bTU3NWZpelpmWjMzaV9oWjJkaEc4OFdkXzJmN1pCbUJSR2hSQlFqRnViRlpnWGh4aEFjcWVSQXdTVmJmdzhhWF9WZEw2NnFzT2lEUEV5Q3BfWXhfVUtscmZKZGk2cXZEVVVINFV1c1ExYjB1NXlDWG9IY1V5WXZhc00?oc=5",
         "tags": [
           "PressNetwork.de"
-        ]
-      },
-      {
-        "title": "Bewegungsmelder-Markt bis 2035: Sicherheit und Automation treiben das Wachstum - Nachrichten und Statistiken - IndexBox",
-        "source": "IndexBox",
-        "publishedAt": "2026-10-20T11:06:04+00:00",
-        "summary": "Bewegungsmelder-Markt bis 2035: Sicherheit und Automation treiben das Wachstum - Nachrichten und Statistiken IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM1VYMXBTNUV1Z05BOHdNRFItR1pXdnJMNGFZdlJkUnNQSzd4emdOYXNqcS1Tb0p0UEY3LUItSHBKU2N5TVJQNHA0clYtc1gwaHNPbGRZR3BaSXk5aDMtY0tpbXdmdEFvSVlieTN0LWJnNFZFOFRMcjRXUW0wTWljODA3T2VpQXhCOFRKNzNsZlE3cnBmUzYyaHp2WmZtWkg4WkF3ZnlaTGZjUkpPWTZveFRyelNoLU1BclpJYjRUT2Zqa2tFZWd4cm1DSDdCTjFm?oc=5",
-        "tags": [
-          "IndexBox"
         ]
       },
       {
@@ -431,7 +410,7 @@
       {
         "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
         "source": "Nau",
-        "publishedAt": "2026-10-13T07:00:00+00:00",
+        "publishedAt": "2026-10-13T16:37:34+00:00",
         "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
         "tags": [
@@ -495,6 +474,26 @@
         "publishedAt": "2026-09-25T07:00:00+00:00",
         "summary": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört it boltwise",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise - MarketScreener Schweiz",
+        "source": "MarketScreener Schweiz",
+        "publishedAt": "2026-09-23T10:00:22+00:00",
+        "summary": "Wasserschäden und Gebäude: CET und WeatherMind starten KI-gestützte Video-Expertise MarketScreener Schweiz",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlRnZTVsWXdGNWJpc0hqSXlhc3Vpelp6V1dmakNmZThlNzJNUm9ZejVNSHpPYjRrMF9qT2E4Q1F2b2pTMFh4NlJNLXJxRTVUT1NVUjhlRUNGVWVIMjhTS1FFZmx0WUtRQ2MtNlVad2lfYk41UlFiRG5ZYnFBUXBaV29PU0FZS0RMejF3TlIzTnl6VFg0dll5NXZLXzZLTk05NnZINFpLTm5HVGlyR0FST1kyTVBwZTFxM3lHbUh0YXBwaVJJWFZGN2RleWRtNnZuZkdqVkFxTnNLdkVKU1FnYnhuN1M2UQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-gestützte HVAC-Optimierung für intelligente Gebäude - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-09-15T15:38:06+00:00",
+        "summary": "KI-gestützte HVAC-Optimierung für intelligente Gebäude Siemens",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdF9hUGtFd0hkYVN3bnFIM3ZKN3VRbml3bF9nTmNua0RyT3RXNVdOLWM1cno2VjZ5VFRBT3lDSnpLTDJRWXcxb2JvUndvN18zbzdjeFlPQWhzYW1Ta3BVNjUzVWtocF9TdjV3MDVWQmZNbFBXOE9iN2ZqZnBQUHptamE4YVVOd3hkejcxWg?oc=5",
         "tags": [
           "KI"
         ]
