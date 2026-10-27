@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:58:50.149494+00:00",
+  "generatedAt": "2026-10-27T01:52:49.370342+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -45,16 +45,6 @@
         ]
       },
       {
-        "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - Simply Wall Street",
-        "source": "Simply Wall Street",
-        "publishedAt": "2026-08-01T07:00:00+00:00",
-        "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa Simply Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
-        "tags": [
-          "Honeywell"
-        ]
-      },
-      {
         "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
         "source": "Baulinks",
         "publishedAt": "2026-07-13T07:00:00+00:00",
@@ -72,16 +62,6 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
         "tags": [
           "buildingtimes.at"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
         ]
       },
       {
@@ -124,6 +104,26 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-23T13:31:53+00:00",
+        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T07:00:00+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "tags": [
+          "Bosch"
         ]
       }
     ],
@@ -337,16 +337,6 @@
         ]
       },
       {
-        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
-        "source": "InvestmentWeek",
-        "publishedAt": "2026-07-30T07:00:00+00:00",
-        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
-        "tags": [
-          "InvestmentWeek"
-        ]
-      },
-      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -375,9 +365,40 @@
         "tags": [
           "t3n"
         ]
+      },
+      {
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
+        "source": "das investment",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
+        "tags": [
+          "das investment"
+        ]
       }
     ],
     "trends": [
+      {
+        "title": "OpenAI-Bericht: KI-Agenten deaktivieren eigenständig Sicherheitssysteme - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-10-26T23:30:02+00:00",
+        "summary": "OpenAI-Bericht: KI-Agenten deaktivieren eigenständig Sicherheitssysteme ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnc3MFpFako2ZlRBaUF2Q1JWekU3aXVmQjIwd3ZIVUdOMFFheWtwem9sbGlaS1NmVkZQVVQzSlkwbFNMblBhdjVqM0tKZEhYMEVUNWpxUkkxU0NLSFRJWWk2WkhVWGtkQmIwRjlDLVhiUmR6eFlnTWF0NTRoUkRuLXBJUWhSaHliSEpUcjhkTG5jRk84Y3lVTG14dVI5S3VNVmVUSVJxaVhXSzIzOTFJM3RXSHNGZG1hRWVwTw?oc=5",
+        "tags": [
+          "KI",
+          "AI"
+        ]
+      },
+      {
+        "title": "Gebäudetyp E: Warum das Gesetz günstigeres Bauen bremsen kann - WirtschaftsWoche",
+        "source": "WirtschaftsWoche",
+        "publishedAt": "2026-10-26T14:33:57+00:00",
+        "summary": "Gebäudetyp E: Warum das Gesetz günstigeres Bauen bremsen kann WirtschaftsWoche",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHluZHVvQXBvOWxSeTAzZ21rNDJwRElrZldYVEZYV0dpM0FsUm9zcncxVWhLYVVBUC1JaU9jRlhFV0dKeVZHVFNtazNsWEJLRVVIR0JKTG9VVTZmMTZnbXkzcDNiUk5KSWNmdmtNWEthQkpPdVc1YS1xZWlJcWNKaktDUE83Rk96WmhQNkVLeG5iNmdMdFdzRC1hSFAxRDdEOEdwaGhFRXJweGhXMm1STHBGT3ZBN1Jq?oc=5",
+        "tags": [
+          "WirtschaftsWoche"
+        ]
+      },
       {
         "title": "Erste Nachhaltigkeitsstrategie: Paderborner Uni kann Abwärme von Supercomputer in Gebäude leiten - Neue Westfälische",
         "source": "Neue Westfälische",
@@ -386,16 +407,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNQ2todzlzY09Eb29hNjY2UDBIUHdYSnVNdGhmbzRCaXE3T0lEU1V0V2drdmxjdXFBd0h6eTE3dm41a3g3SUtfWG1uYzJOV3NfNDJnWEdlbktFOGlzN3hJY1JJQkE5cFVvNWF1eXU2aUVOZWJmTFdoREVsbjBmUHFnVTRoZkVrYkY5ZDNBVmdCY0V3QU1DRUR2TXAtUGZyVEFSVGRzbmFpRTJHRWVMTVJyZDhsRzJqbDhzNXVidHNNbjVremh0VkQ2X19UdkxMWXI2cElOODlabU12bFpZRjgyVC01NVZvTjB1bHdqMHhzaDhRYlYtSUZNRkF5Qml0Q3FnX19IT1pPdTZjVzNzLUc3dHdvVEd6bHFuVWlRb2NOd29iUUZqaFltTmJ1ZVpBSlJXb081WlRtbzJNZFVRQ1FWQWIwR2tKMEFXNldwbWFXT3hhbXBnbl9iT2o4WkdhTWdGU3lndk1QSFhqUnJCdzdzV3o1X2ZTTGsxVlFQZnB2WlczYlVpNmRQcENlRQ?oc=5",
         "tags": [
           "Nachhaltigkeit"
-        ]
-      },
-      {
-        "title": "Wüest Partner Studie: Zahl unzureichend versicherter Gebäude in Risikolagen könnte bis 2080 um 70 Prozent steigen - Konii",
-        "source": "Konii",
-        "publishedAt": "2026-10-22T08:58:11+00:00",
-        "summary": "Wüest Partner Studie: Zahl unzureichend versicherter Gebäude in Risikolagen könnte bis 2080 um 70 Prozent steigen Konii",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTkdINE1IUXA0aHA2eTRfV2tuUkNuS1E0SXhWQzBlQ2E3MVEzR3FSVTRobEFaMjBpNnVUWUNTZ2tLcVE4cDljc1dqVlJGb0Y4eUt2ck1DQUVyZG1EaF9pY0dhNlNqUFJTSFQtUWFSTEVXZUloVHFiTkhHWTdOSEFSZE5xVGdraTZTRWxWZnp1ZjNHRFhwWktERkNxVFpUZU9aQmM3S3dkdWNmV1dZTncxNkRMUjUtVGVBRUVWUk5kaTgzenk3Z2FhZmNUTE1sSmo1M2I1eGZLZk1TUQ?oc=5",
-        "tags": [
-          "Konii"
         ]
       },
       {
@@ -426,6 +437,16 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
         "tags": [
           "Nau"
+        ]
+      },
+      {
+        "title": "Australien plant KI-Gesetz: Entwickler sollen Sicherheitssysteme nachweisen - BornCity",
+        "source": "BornCity",
+        "publishedAt": "2026-10-08T07:00:00+00:00",
+        "summary": "Australien plant KI-Gesetz: Entwickler sollen Sicherheitssysteme nachweisen BornCity",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVW9Ob2J2LUI1MmRoeHpuQ2lQZFBfRVZrS1FEdWxrUWFWb2FwLXBCdU9kNVFRMUFCY1JWb0FyeUowbGJRT21zZUtuSmZScGE3dTVWYmdQa3dqRU9NanFTLTl2a1paZ3NjTkdoOVg0djU5dWFHb3NlNWdjXzFyYi1wUUMxMGtSbWN0YjRKVmZRbTB3OGhNaXR5LW9RTjVGNkowZVpN?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -460,16 +481,6 @@
         ]
       },
       {
-        "title": "Lünendonk-Liste: Sicherheitsdienstleister setzen auf KI - Der Facility Manager",
-        "source": "Der Facility Manager",
-        "publishedAt": "2026-09-29T05:58:34+00:00",
-        "summary": "Lünendonk-Liste: Sicherheitsdienstleister setzen auf KI Der Facility Manager",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZEVSb0NBcHdaei1JdUZQNHRqR3pOU1NrbVZjM2lLU1ZrMWFLTm9Pd2NZVVBvdEJnZ2tXYkVGbjhBZlhVUk5lYlNsV1czTmlhVjU2Nzc4VUptVWJRT01oQk1OX2NHcnhISjc0cnVWbk1zVEZBM2NoV2QzR3BUZzUyR1hyWHlnTVlFbENCN0pteUludTZHTGlHanhrclR3T3c?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
         "source": "Cornelius Ober GmbH",
         "publishedAt": "2026-09-28T07:00:00+00:00",
@@ -485,16 +496,6 @@
         "publishedAt": "2026-09-25T07:00:00+00:00",
         "summary": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört it boltwise",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-gestützte HVAC-Optimierung für intelligente Gebäude - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-09-15T15:38:06+00:00",
-        "summary": "KI-gestützte HVAC-Optimierung für intelligente Gebäude Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdF9hUGtFd0hkYVN3bnFIM3ZKN3VRbml3bF9nTmNua0RyT3RXNVdOLWM1cno2VjZ5VFRBT3lDSnpLTDJRWXcxb2JvUndvN18zbzdjeFlPQWhzYW1Ta3BVNjUzVWtocF9TdjV3MDVWQmZNbFBXOE9iN2ZqZnBQUHptamE4YVVOd3hkejcxWg?oc=5",
         "tags": [
           "KI"
         ]
