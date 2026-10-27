@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T18:50:16.302906+00:00",
+  "generatedAt": "2026-10-27T22:48:22.350191+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -35,14 +35,13 @@
         ]
       },
       {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-08-17T07:00:00+00:00",
+        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
         "tags": [
-          "Bosch",
-          "Brandschutz"
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -63,6 +62,16 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Neue IoT-Brandmelder präsentiert - buildingtimes.at",
+        "source": "buildingtimes.at",
+        "publishedAt": "2026-07-01T07:00:00+00:00",
+        "summary": "Neue IoT-Brandmelder präsentiert buildingtimes.at",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
+        "tags": [
+          "buildingtimes.at"
         ]
       },
       {
@@ -115,16 +124,6 @@
         "tags": [
           "Siemens",
           "Brandschutz"
-        ]
-      },
-      {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -212,6 +211,39 @@
         ]
       },
       {
+        "title": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-19T14:19:20+00:00",
+        "summary": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlPS2tEcVRNbnVIRDV3Mjl4cnRoazBqUE1QSW9YaW9aOUFxclI2U3lPTEZIMXFnUGU0WVhzZDRvQzFFTzdqMnljSVIzUWZMcmdmdEZvOXZSSnMwRWpPMzNDcmpFaHM5R0xkN1ZyRTVlUXh0VmlhQU9KTEViSExEZlZB?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten - inside digital",
+        "source": "inside digital",
+        "publishedAt": "2026-10-19T05:29:00+00:00",
+        "summary": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten inside digital",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW04MjJtMkVvbi1EcHFtMFhYT3QxaWVwZXZPbnl2TkxlZk5nSEI0REhDRE5xVnVMRHJXYW9XUlo4VUx6ZnpubkEwTDU2UW9xQU9FNDZpQTVvdVNMWTE5a0VYeWJWT1F1NXd5c1RrRzBuakloSU5VN1FNYVZCZmRVdDBkbm9sR0VyX3E1eWl3Nmhfc1FfRkpBZDlmZjZIcWdRRHlv0gGoAUFVX3lxTE1fTW5vd1ZCWVhWZWlXNENKS0NBQzRCRzRRblU1eGFwRk1lMFRKd1VkUUpVdTZseGRKOVBwRTR2TkhVRXNtSm00X21Sa1NBZFVTbnVFbzgtM19rc2xETUNBMGhZNDBmWWhQNUU0QWZrdjU2d3ptU1diUEN2Tml3eWlKMXlEVXJZaFpWRXFuYmVYVU1xQ1QzOHBkcm1iMFowcHZXRFplUjJsMg?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-10-17T19:15:07+00:00",
+        "summary": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1pEYzliRHhRcHRubElJVWtxeFZYN2xYMVc1Z2lxRV9OZVRQUjN0anB3dXZxQm9aNFNqM3RUbV9HanFwQVZNWks1eFU4UU9nM2wtN1lObnR0LWVtcHJuYldGdmpCamNwSnNoWE14WUpSczRuQjNJUTZjVW5raWdOc0hzOW5lNmMzLXpUTXA1cTdUSHdNYmU5ZzNocmRqc0xWV1RxMlNILTgyWjY2WFNURlhqcnU?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-10-16T09:30:47+00:00",
@@ -221,72 +253,9 @@
           "Ei",
           "Rauchwarnmelder"
         ]
-      },
-      {
-        "title": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-10-14T09:42:36+00:00",
-        "summary": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUk1OTM4UHBhOS1PNzBQQV9zVXVhelFZLWk1aU8yVTFqOEZqRHNnSVNzSVg5dGkyU1ZzZVN1ZnJ0OWR0UE5FbWdtNmZTbnpsazJOenhJOTRBdU5kQ1YxTmFORnlfM1RTUHloOGdUOU1NbWM4XzRfR09HcWRFTDdfLUZRQ2lWY0MzeXZkUGF1MTFneE9rRzRkUmFQaEk3ak5ObVJJeTRRdVU2NFZrTThLQk9SMllHMnhGZTh3U2lwOEtoamhmS2psWUNDZ2t0VnBSTDdReE9wbE14bEZVbVhjZFl0QzJ3NGR2dVE?oc=5",
-        "tags": [
-          "Ei",
-          "Ei Electronics",
-          "Rauchwarnmelder"
-        ]
-      },
-      {
-        "title": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-10-07T07:00:00+00:00",
-        "summary": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTjdlNkJ6YlNGcmRNM01oYmgzc29GclNaaXFkSXdTOFdNLVhwZlo3VHFlaE9nQ0Z4U3g3RThTVy1GdjktbFFWSzV6d01zRnVNQTdXWTF3V3lTNU91cUd2S0E3SUdkNC0ybno5RWxkbXgxRVk4UUcxT0lOSWs1V0RXQVFtRG5YaTNSdmgyVmc3dlR4Z193NF9OeHRPel9iOGFsOVFtTHdwWW9QZ1V5R25QbnlWbmpJTFhmYmZKak1ZMjVGYTR1ZkJPcXRIRnk1cFlaSDJ2NVo0MTIza2N0ank3WExsbmVWNXc?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "X-Sense reduziert Rauchmelder und Sensoren um bis zu 46 Prozent - mobiFlip",
-        "source": "mobiFlip",
-        "publishedAt": "2026-10-06T07:00:00+00:00",
-        "summary": "X-Sense reduziert Rauchmelder und Sensoren um bis zu 46 Prozent mobiFlip",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2duQW9nLW4yN095ZTA1VWYza0dUS0JTSnprRHI4LTlkMl9kM21vNEdiUDBrb3c3bXNnWm9GRmJoZVBiaElBZG5tSk1EWEZMek1iYkh0c0Fpa1VpZHRSVUVoc2w2M2M3Z3RpTWlEN2FobUphck9ENjFZN3JXU1pHckw2Z3RBWmhBbEgzMTZ0XzVwQdIBlwFBVV95cUxQa2pVSktEeE1jWTJKMHUxeW1uOXJFY0VVcU91Y0xORXZGRkQ4bTlzaWwtNTY3NkhUV0tVeldrYklMbXotRlVhVklLdEVuSWFZVzUzbFZEYU5IVUtTazRNekh1T2VMeTFlZUtibU5MSk0xbE1YMURGWUtaM1Rha1hoQzF2QTVTN1h5N2pqQmFNalRGREpxMk84?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
       }
     ],
     "doors": [
-      {
-        "title": "Revolut öffnet Wagniskapital ab 2027 für Kleinanleger - joinmares.com",
-        "source": "joinmares.com",
-        "publishedAt": "2026-10-26T13:13:00+00:00",
-        "summary": "Revolut öffnet Wagniskapital ab 2027 für Kleinanleger joinmares.com",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkZwMkdoUW5XdWRDVFdQQUZxeTJhS0x5OWtWdmV2LUp5OTBJYjhvN0xyTk9TZ1BGNExJbjdJc2NtUzdfZEdTUFg4RmJDX0haSEFBYUc2VVh0SU1yU3VHODZDRUVQN3d5cTkzckJ6ZVRhQ1RYWmNHc3FNcEpSLVlyNk5ZdDl3YWVwdkJrbTl3?oc=5",
-        "tags": [
-          "joinmares.com"
-        ]
-      },
-      {
-        "title": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World - e-fundresearch.com",
-        "source": "e-fundresearch.com",
-        "publishedAt": "2026-10-20T07:00:00+00:00",
-        "summary": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World e-fundresearch.com",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZEZDaG5IT3czNmZxMWF3czAtUmxLcjBVOHVBT0VMckw3TXEtbDJaLWhpZjhSb3E1ZFRqcjNpdHhhRG1aUVBQYy1NR0NIUG5qT2s1RnNMeGxsWHBBYWNySXpoRnNZZ3hXODNNZVA3TUNhbFByMzVwM21BOThzWDBZTlN6Yjl4RC02eHpPQldvM1BDTmsxZHY4VEVsZDVPNGRCNlFCZ2M1enVrbW1fU3FKc0tRX3R1MWU5TEVYTkdYdEFOWWc4MGdVUlhVQkUtTWF6WjVGUEtUTzJzdEg3OU44QXZ1ZlB2MkhI?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Global Management Aktie: Apollo finanziert 15-Milliarden-Dollar-Rechenzentrum nahe Tokio - Goldesel.de",
-        "source": "Goldesel.de",
-        "publishedAt": "2026-10-02T07:00:00+00:00",
-        "summary": "Apollo Global Management Aktie: Apollo finanziert 15-Milliarden-Dollar-Rechenzentrum nahe Tokio Goldesel.de",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEFaNVdvelByM0pra0xYVHNrcVAtTzhQQ2JxbTQtNWVpcTJQMnFtcjJzNzZ1a0duM19oOG4yNTY5WTlERDNLSmpONS1sMG5GZTdiUk91SmZiV0xWemJkQmN1cW9TWWZOTWpnVEoyTUt3TlhiWEszbjB3V0F6dHROUXNuTFlyc0tNeUp6RXdzRjJDVUR3VHg4QUZkVG9MLXpHN1JCUlpBNWVxU2l3M0NYTjdyLV83SGh6WU14a0ZmbjVNT0E5?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -318,26 +287,6 @@
         ]
       },
       {
-        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
-        "source": "Apollo News",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze Apollo News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase - Yahoo Finanzen Deutschland",
-        "source": "Yahoo Finanzen Deutschland",
-        "publishedAt": "2026-08-03T07:00:00+00:00",
-        "summary": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase Yahoo Finanzen Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXZGcTYyNlNsOGVqTTkyTnEyNzdGbURXaGRjdE5RUEJTR3Zqa3I0VTh1RkJMWWlneVd2M3NTNHEteHVISHFwQVpFNUltN2JYV1kzMjNzMlJmaVF3N2d4X3R3TElkaXZXcXhNNHFUanozdWpQUG1JQmRkaEx4ZHlVTGpETkVFYkZOajVPZWpIZGFlTUFaOTlObA?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -348,37 +297,97 @@
         ]
       },
       {
-        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
-        "source": "FONDS professionell",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRkJQNW40bTRHM0FtTVpPalhzQXZIZ0lFOW1rVzJsQWZtV1piVUJpZGhCS19pcHNMTG5JUnYwaWd2eWU2SzZkQ2xWYjZsWjMzMzJyZkZLU09SNVYwRVdnb0ZreUlKS3B0SEVTMDFOcUE4TTR5Ymc?oc=5",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-10T07:00:00+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
-          "FONDS professionell"
+          "Apollo"
         ]
       },
       {
-        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
-        "source": "t3n",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2026-07-06T07:00:00+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
         "tags": [
-          "t3n"
+          "Handelsblatt"
         ]
       },
       {
-        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
-        "source": "das investment",
-        "publishedAt": "2026-07-27T07:00:00+00:00",
-        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
+        "title": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang - Apollo News",
+        "source": "Apollo News",
+        "publishedAt": "2026-06-29T07:00:00+00:00",
+        "summary": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang Apollo News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazcwZ2tpcFRySm9ibEEtcldvMGppMFZ6MnpWSkgxZUMxSDNHdmhmR3o5X0s0U1BoN2l0c0xoU2h2ck0xNEVENTJNTTRIRE5lb05XM05mLUZDUjRDUm5MVUJaSkltVVB5eTh1ek1oXzBqOHpvcFhtS2hiMVFCd1dReGs4TlN0ZjlWTmNNZWdtYU1tTkJhOVBIRjViSGVweXhZeUJQaHpOZWx5X2hWVTRtekR3blp2ZFI4YjVZ?oc=5",
         "tags": [
-          "das investment"
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
+        "source": "handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
+        "source": "ZDFheute",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
+        "tags": [
+          "ZDFheute"
         ]
       }
     ],
     "trends": [
+      {
+        "title": "Leuchtende Mützen für 150 Kinder: Schule setzt auf mehr Sicherheit statt Elterntaxis - Polizeinews.ch",
+        "source": "Polizeinews.ch",
+        "publishedAt": "2026-10-27T20:38:02+00:00",
+        "summary": "Leuchtende Mützen für 150 Kinder: Schule setzt auf mehr Sicherheit statt Elterntaxis Polizeinews.ch",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkVVc1I4eHZIY1AxNEU5RE1TdTNkZWYzZDhyRFFDNUQ2X0prT3loM09kdTItMnRyaTdZcFAzcElsNENZQUtndG1Yck4yQ3piTUh5RWR1UnlEWUVwbDUxSElBbFBrZHNuRzZzcmRoTFkxZEhZSUpJTGUxaV9OS29CaXBwM1BNZndldG40RnBzXy1qRGtENlBsdFFKVmlSZ2RYTGdGakR0bDNlNFY0YU52SlRraW1xZlNDMGNkS3ZrQzFHUQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
       {
         "title": "Warum Automatisierer bei neuen KI-Modellen einen Vorsprung brauchen - Vogel Communications Group",
         "source": "Vogel Communications Group",
@@ -441,26 +450,6 @@
         ]
       },
       {
-        "title": "IT:U Innovation Lab: WIFI-Gebäude wird WKO Bildungscampus – KI und Robotik im Fokus - MeinBezirk.at",
-        "source": "MeinBezirk.at",
-        "publishedAt": "2026-10-13T07:00:00+00:00",
-        "summary": "IT:U Innovation Lab: WIFI-Gebäude wird WKO Bildungscampus – KI und Robotik im Fokus MeinBezirk.at",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ1JIUXpJUGZfa2FnSE9xWWNwM0UxQkFNRGlkSV9pN0Jla2N2WWJMS0hzWUV1ZFBueC1yNlN1RDJsZy1yOFdsajNLQUlWQWRHMXA2M0ZPMVN0cEJ5N2h1cnZzRXh1anI5cjFOaVVjZldCcnB1WUpsNks1ckc0TXFWSEVET0p0anl4cHNLWnpNVTZGNUl5RWFoZGdYWWluYkREbUNBVWEweHlXS21JTk1iV0I1TWFMNWt5Q2U4cGtwVkNlc3c?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Australien plant KI-Gesetz: Entwickler sollen Sicherheitssysteme nachweisen - BornCity",
-        "source": "BornCity",
-        "publishedAt": "2026-10-08T07:00:00+00:00",
-        "summary": "Australien plant KI-Gesetz: Entwickler sollen Sicherheitssysteme nachweisen BornCity",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVW9Ob2J2LUI1MmRoeHpuQ2lQZFBfRVZrS1FEdWxrUWFWb2FwLXBCdU9kNVFRMUFCY1JWb0FyeUowbGJRT21zZUtuSmZScGE3dTVWYmdQa3dqRU9NanFTLTl2a1paZ3NjTkdoOVg0djU5dWFHb3NlNWdjXzFyYi1wUUMxMGtSbWN0YjRKVmZRbTB3OGhNaXR5LW9RTjVGNkowZVpN?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
         "source": "Produktion Online",
         "publishedAt": "2026-10-07T07:00:00+00:00",
@@ -472,26 +461,6 @@
         ]
       },
       {
-        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-10-06T07:00:00+00:00",
-        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
-        "tags": [
-          "AI"
-        ]
-      },
-      {
-        "title": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-09-25T07:00:00+00:00",
-        "summary": "Explosion in Athen-Altstadt Plaka: Zweistöckiges Gebäude zerstört it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN25BcTJKY3EydnBKZEhaSTRnRVdTejB4T1BoTjRVTklGT2lBZTZSU0VMOG5IbjFETlZRVWg0c1FTdlJhRWxLSzhYcTE4Qjd0QnYxOTdXRWxNTVpVUVFzRHhEOGUxT0d0clZ2SXJaczdfQzl5ZWlSZlhYT0lvNkx3bW1raTEySWNSa0ItVHJVRktlM2hlQUs4TFlLcHRZRzRj?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "KI-gestützte HVAC-Optimierung für intelligente Gebäude - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-09-15T15:38:06+00:00",
@@ -499,6 +468,36 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdF9hUGtFd0hkYVN3bnFIM3ZKN3VRbml3bF9nTmNua0RyT3RXNVdOLWM1cno2VjZ5VFRBT3lDSnpLTDJRWXcxb2JvUndvN18zbzdjeFlPQWhzYW1Ta3BVNjUzVWtocF9TdjV3MDVWQmZNbFBXOE9iN2ZqZnBQUHptamE4YVVOd3hkejcxWg?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
+        "source": "Gießener Allgemeine",
+        "publishedAt": "2026-09-13T07:00:00+00:00",
+        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
+        "source": "Wochenblatt Reporter",
+        "publishedAt": "2026-09-11T07:00:00+00:00",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
+        "source": "SWR",
+        "publishedAt": "2026-09-06T07:00:00+00:00",
+        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
+        "tags": [
+          "SWR"
         ]
       }
     ]
