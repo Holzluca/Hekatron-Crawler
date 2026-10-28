@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T14:57:27.329919+00:00",
+  "generatedAt": "2026-10-28T20:05:17.080382+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -35,14 +35,13 @@
         ]
       },
       {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-08-17T07:00:00+00:00",
+        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
         "tags": [
-          "Bosch",
-          "Brandschutz"
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -108,6 +107,16 @@
         ]
       },
       {
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T07:00:00+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ",
         "source": "NZZ",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -115,16 +124,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
           "NZZ"
-        ]
-      },
-      {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
         ]
       }
     ],
@@ -213,6 +212,39 @@
         ]
       },
       {
+        "title": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-19T14:19:20+00:00",
+        "summary": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlPS2tEcVRNbnVIRDV3Mjl4cnRoazBqUE1QSW9YaW9aOUFxclI2U3lPTEZIMXFnUGU0WVhzZDRvQzFFTzdqMnljSVIzUWZMcmdmdEZvOXZSSnMwRWpPMzNDcmpFaHM5R0xkN1ZyRTVlUXh0VmlhQU9KTEViSExEZlZB?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten - inside digital",
+        "source": "inside digital",
+        "publishedAt": "2026-10-19T05:29:00+00:00",
+        "summary": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten inside digital",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW04MjJtMkVvbi1EcHFtMFhYT3QxaWVwZXZPbnl2TkxlZk5nSEI0REhDRE5xVnVMRHJXYW9XUlo4VUx6ZnpubkEwTDU2UW9xQU9FNDZpQTVvdVNMWTE5a0VYeWJWT1F1NXd5c1RrRzBuakloSU5VN1FNYVZCZmRVdDBkbm9sR0VyX3E1eWl3Nmhfc1FfRkpBZDlmZjZIcWdRRHlv0gGoAUFVX3lxTE1fTW5vd1ZCWVhWZWlXNENKS0NBQzRCRzRRblU1eGFwRk1lMFRKd1VkUUpVdTZseGRKOVBwRTR2TkhVRXNtSm00X21Sa1NBZFVTbnVFbzgtM19rc2xETUNBMGhZNDBmWWhQNUU0QWZrdjU2d3ptU1diUEN2Tml3eWlKMXlEVXJZaFpWRXFuYmVYVU1xQ1QzOHBkcm1iMFowcHZXRFplUjJsMg?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-10-17T19:15:07+00:00",
+        "summary": "Bosch Smart Home Starter-Set Heizung II 3er - 0,5 Grad genau ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1pEYzliRHhRcHRubElJVWtxeFZYN2xYMVc1Z2lxRV9OZVRQUjN0anB3dXZxQm9aNFNqM3RUbV9HanFwQVZNWks1eFU4UU9nM2wtN1lObnR0LWVtcHJuYldGdmpCamNwSnNoWE14WUpSczRuQjNJUTZjVW5raWdOc0hzOW5lNmMzLXpUTXA1cTdUSHdNYmU5ZzNocmRqc0xWV1RxMlNILTgyWjY2WFNURlhqcnU?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger - PresseBox",
         "source": "PresseBox",
         "publishedAt": "2026-10-16T09:30:47+00:00",
@@ -221,39 +253,6 @@
         "tags": [
           "Ei",
           "Rauchwarnmelder"
-        ]
-      },
-      {
-        "title": "Nicht nur piepen: Diese Rauchmelder sagen, wo es brennt - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-16T07:00:00+00:00",
-        "summary": "Nicht nur piepen: Diese Rauchmelder sagen, wo es brennt n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVExxR3F1QW5sZzRhS3FMcXlqMUVWRkp6Rkcwa1J6VDBIWEFLbmFNRDNtZ2NRZWtiZ3VaQ09vbVRVWThmejgxbHp1a3gzSGlObHZEdGRySlUtcE5tUm1JeWRGNzJYRkJIaEcyaFV6VndFVkE2bXNYVmQ1bzBXZ1hhc0dpZmdIdmFQU19CS3ZNa3F5MDc3SmZVNXJMZGxPWEJUUE95NVRjRHJ6N0pKVGg3LXVycE9OZw?oc=5",
-        "tags": [
-          "n-tv.de"
-        ]
-      },
-      {
-        "title": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-10-14T09:42:36+00:00",
-        "summary": "Rauchwarnmelder-Service: Elektrofachbetriebe können mit technischer Kompetenz punkten, Ei Electronics KG, Story PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUk1OTM4UHBhOS1PNzBQQV9zVXVhelFZLWk1aU8yVTFqOEZqRHNnSVNzSVg5dGkyU1ZzZVN1ZnJ0OWR0UE5FbWdtNmZTbnpsazJOenhJOTRBdU5kQ1YxTmFORnlfM1RTUHloOGdUOU1NbWM4XzRfR09HcWRFTDdfLUZRQ2lWY0MzeXZkUGF1MTFneE9rRzRkUmFQaEk3ak5ObVJJeTRRdVU2NFZrTThLQk9SMllHMnhGZTh3U2lwOEtoamhmS2psWUNDZ2t0VnBSTDdReE9wbE14bEZVbVhjZFl0QzJ3NGR2dVE?oc=5",
-        "tags": [
-          "Ei",
-          "Ei Electronics",
-          "Rauchwarnmelder"
-        ]
-      },
-      {
-        "title": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-10-07T07:00:00+00:00",
-        "summary": "Rauch, CO und Wasser: X-Sense senkt Preise auf Schutzmelder zum Prime Day CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTjdlNkJ6YlNGcmRNM01oYmgzc29GclNaaXFkSXdTOFdNLVhwZlo3VHFlaE9nQ0Z4U3g3RThTVy1GdjktbFFWSzV6d01zRnVNQTdXWTF3V3lTNU91cUd2S0E3SUdkNC0ybno5RWxkbXgxRVk4UUcxT0lOSWs1V0RXQVFtRG5YaTNSdmgyVmc3dlR4Z193NF9OeHRPel9iOGFsOVFtTHdwWW9QZ1V5R25QbnlWbmpJTFhmYmZKak1ZMjVGYTR1ZkJPcXRIRnk1cFlaSDJ2NVo0MTIza2N0ank3WExsbmVWNXc?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
         ]
       }
     ],
@@ -391,26 +390,6 @@
         ]
       },
       {
-        "title": "Leuchtende Mützen für 150 Kinder: Schule setzt auf mehr Sicherheit statt Elterntaxis - Polizeinews.ch",
-        "source": "Polizeinews.ch",
-        "publishedAt": "2026-10-27T20:38:02+00:00",
-        "summary": "Leuchtende Mützen für 150 Kinder: Schule setzt auf mehr Sicherheit statt Elterntaxis Polizeinews.ch",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkVVc1I4eHZIY1AxNEU5RE1TdTNkZWYzZDhyRFFDNUQ2X0prT3loM09kdTItMnRyaTdZcFAzcElsNENZQUtndG1Yck4yQ3piTUh5RWR1UnlEWUVwbDUxSElBbFBrZHNuRzZzcmRoTFkxZEhZSUpJTGUxaV9OS29CaXBwM1BNZndldG40RnBzXy1qRGtENlBsdFFKVmlSZ2RYTGdGakR0bDNlNFY0YU52SlRraW1xZlNDMGNkS3ZrQzFHUQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Warum Automatisierer bei neuen KI-Modellen einen Vorsprung brauchen - Vogel Communications Group",
-        "source": "Vogel Communications Group",
-        "publishedAt": "2026-10-27T07:04:31+00:00",
-        "summary": "Warum Automatisierer bei neuen KI-Modellen einen Vorsprung brauchen Vogel Communications Group",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWHpsNWZrWlR3WnhoZVlTWUNVQnR6VWdNY1dhNTR6OUcwd3hJU1kxTzBpUUNjb1N2aTUzQmZ3aTVNNGtfRDlNZWRET3R2U1FzdEY0ZEdPY1d2YkFFVkl2RWpNRVdRY1h5TW1yTU9PQkFncTV5LU50cXhyZU1IVk1CS2gtYlhpTW03a3FMOVlYVndMcmRmZXhpT29aN2VEM0tBUWpOaHJfN1BxQUpmWEVGTFN1ME1uaF9uX0UzaWVfNjVjNmp3YWdNbWUtdWNYcXVvYXpLYTVB?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "OpenAI-Bericht: KI-Agenten deaktivieren eigenständig Sicherheitssysteme - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
         "publishedAt": "2026-10-26T23:30:02+00:00",
@@ -442,6 +421,16 @@
         ]
       },
       {
+        "title": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert - PressNetwork.de",
+        "source": "PressNetwork.de",
+        "publishedAt": "2026-10-22T06:34:01+00:00",
+        "summary": "Sport- und Kulturhalle Freisbach wird im beschleunigten Verfahren umfassend saniert PressNetwork.de",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVdWYmFEVTZGR0RaTUtEV2JYNkhBbC1zaHd4VmFuQlpfeU53T0E1SVo3bTU3NWZpelpmWjMzaV9oWjJkaEc4OFdkXzJmN1pCbUJSR2hSQlFqRnViRlpnWGh4aEFjcWVSQXdTVmJmdzhhWF9WZEw2NnFzT2lEUEV5Q3BfWXhfVUtscmZKZGk2cXZEVVVINFV1c1ExYjB1NXlDWG9IY1V5WXZhc00?oc=5",
+        "tags": [
+          "PressNetwork.de"
+        ]
+      },
+      {
         "title": "Bewegungsmelder-Markt bis 2035: Sicherheit und Automation treiben das Wachstum - Nachrichten und Statistiken - IndexBox",
         "source": "IndexBox",
         "publishedAt": "2026-10-20T11:06:04+00:00",
@@ -452,13 +441,13 @@
         ]
       },
       {
-        "title": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf - CHEMIE TECHNIK",
-        "source": "CHEMIE TECHNIK",
-        "publishedAt": "2026-10-14T07:00:00+00:00",
-        "summary": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf CHEMIE TECHNIK",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnozd3FNTXNjekZERVdmMENlQkpZNHZjN01DanNfcVpnTjhNLUgyQnZ0azAzVEt1MUdZN1JpZmtWdHJ0eUFSZmItengtVGpLMFRhblJXUTBnUlFNVFZVQ2o3ZGpkWUI1S1BFSGlyVlpIU2lwNlhuZG9lSDltT2p0eE5BbGRRT2ZRa2gyM1hFMA?oc=5",
+        "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-10-13T07:00:00+00:00",
+        "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
         "tags": [
-          "CHEMIE TECHNIK"
+          "Nau"
         ]
       },
       {
@@ -470,6 +459,26 @@
         "tags": [
           "Retrofit",
           "AI"
+        ]
+      },
+      {
+        "title": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen - Schwäbische Post",
+        "source": "Schwäbische Post",
+        "publishedAt": "2026-09-30T10:00:00+00:00",
+        "summary": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen Schwäbische Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
+        "tags": [
+          "Schwäbische Post"
+        ]
+      },
+      {
+        "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
+        "source": "Cornelius Ober GmbH",
+        "publishedAt": "2026-09-28T07:00:00+00:00",
+        "summary": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick Cornelius Ober GmbH",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
+        "tags": [
+          "Gebäudeautomation"
         ]
       },
       {
@@ -488,16 +497,6 @@
         "publishedAt": "2026-09-13T07:00:00+00:00",
         "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
-        "source": "Wochenblatt Reporter",
-        "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
         "tags": [
           "KI"
         ]
