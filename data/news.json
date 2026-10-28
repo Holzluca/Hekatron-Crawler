@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T22:48:22.350191+00:00",
+  "generatedAt": "2026-10-28T01:57:54.168195+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -45,16 +45,6 @@
         ]
       },
       {
-        "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - Simply Wall Street",
-        "source": "Simply Wall Street",
-        "publishedAt": "2026-08-01T07:00:00+00:00",
-        "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa Simply Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
-        "tags": [
-          "Honeywell"
-        ]
-      },
-      {
         "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
         "source": "Baulinks",
         "publishedAt": "2026-07-13T07:00:00+00:00",
@@ -72,16 +62,6 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
         "tags": [
           "buildingtimes.at"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
         ]
       },
       {
@@ -124,6 +104,26 @@
         "tags": [
           "Siemens",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-04-23T13:31:53+00:00",
+        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T07:00:00+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "tags": [
+          "Bosch"
         ]
       }
     ],
@@ -170,13 +170,14 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-22T06:40:01+00:00",
-        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXdtbzhVTjJHZl9JWlhydlhSWmdTQXJ1WmlMX2dWM3kzRWV6a1lLbjRlQ19iRzlxUThFV1I4TEhkb09qeXFNa3JFWmdBUUF2TDJ4SW10LWVFWDFvdmR0U2RYSkZWNU12SE93VmpERy1vU2lGTUM5MElHajRURUJfUEU5WU44V29KMk9zalRnMlpvVkE?oc=5",
+        "title": "ADAC-Rauchmeldertest: Pyrexx-Modell warnt bei Schwelbrand nicht zuverlässig - Jack News",
+        "source": "Jack News",
+        "publishedAt": "2026-10-22T13:25:16+00:00",
+        "summary": "ADAC-Rauchmeldertest: Pyrexx-Modell warnt bei Schwelbrand nicht zuverlässig Jack News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkdjdC1XTGdjTnZrYmdMM3Z1RGl2aHhhY3VHSFNPTEY5ZHNlbERZR3Bva0lkaGNOMW42aHRRZE1lR3RRZjBnTnE3ZkpPcDZ1VEFZZXg4UTBaaXpSZVNYZE5lOEdWYWQyenk1Y0N3YlRUeldKYWtRZ3h1N3JZdmt5dTJxdTRyODhFQ3FmbngyTUNJR0ZvZi1vcFJGOElkUQ?oc=5",
         "tags": [
-          "X-Sense"
+          "Ei",
+          "Pyrexx"
         ]
       },
       {
@@ -198,16 +199,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "HACS zieht fest in Home Assistant ein - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-10-20T06:30:50+00:00",
-        "summary": "HACS zieht fest in Home Assistant ein Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UY2lyQTZXM3d4UkdYbkpFeWFZVE1mR192MnRyZDdkUmMwM0ZicFRxRkY1V2txaU9Md0lDZG5JcDNCeW5sY3pqcW8wa0FrZjdWNExVNjkzRlJfWjdHWG9YQjdmWmxtZ0h5OENmRUFjWHJld2E3UEE?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -244,18 +235,58 @@
         ]
       },
       {
-        "title": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-10-16T09:30:47+00:00",
-        "summary": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWZnT3EtclNXdUNEb1dKU2RVQUgzejRRY0w3cDY3b05JTFRGRE1DczRNSW5vZVY4ZDctWVpvZXBaUkNWUU10eW1PR1Z1MlMwRk9RZGtYOVNPZ1UyeE9UTTJPNC02bjZHWDBRQ3RISjVRZnIxUjNqRFZOYk1RSGxMRkJTTnRvamJTUW9tSnVidUhIY3c5d0xWUlhWOW16ZmZENDNuSW5WWkNaMnRERVBQejlmOVZuaDBhM0dvMExES21aS0RMV3g1bWZ3blJFdVZ5cUR0SnRrbjNpVHE2TFFMTklMZnphVVpSWC00VFBJUQ?oc=5",
+        "title": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-10-14T07:00:00+00:00",
+        "summary": "Smarte Heizkörperthermostate: Clever heizen und Energie sparen ADAC",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnVvY0ZLa2U5dzFlWlpTd2tfeXRoeGxVQWFiUW5Qd0VQYzlUZ0t3YjRPMG5ELVZJLWxnNUxydUtYRDJVVm1VejRQTWZfbkJRMkRvTVFnMkk4YUE0WXhpZ3NqWXhpSTlqRGdWLUhkYk5yOFo3ZEtZdmhyRjFiaE9NUXQyamNEUGQ5Tksw?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Feierabend statt Staubsaugen | Bosch Spotless Advanced noch über dem Bestpreis - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-10-11T07:00:00+00:00",
+        "summary": "Feierabend statt Staubsaugen | Bosch Spotless Advanced noch über dem Bestpreis SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUlEQzBNWlI1X3lxYk1pUEZBN1BDSVVLZVl2WnlLMXBWY0xfbFVyclRXa1N6S2FQRUZTWTRBQ1lwdHBxbG1qUmtZREFBa1h5Q09nMlJSdldiUGdKTmg3cHk2YVdKOEdiVVllQ1NIdGVMTWpLQ19ReXI0TkJrWXd5RzB3?oc=5",
         "tags": [
           "Ei",
-          "Rauchwarnmelder"
+          "Bosch"
         ]
       }
     ],
     "doors": [
+      {
+        "title": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World - e-fundresearch.com",
+        "source": "e-fundresearch.com",
+        "publishedAt": "2026-10-27T20:28:15+00:00",
+        "summary": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World e-fundresearch.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZEZDaG5IT3czNmZxMWF3czAtUmxLcjBVOHVBT0VMckw3TXEtbDJaLWhpZjhSb3E1ZFRqcjNpdHhhRG1aUVBQYy1NR0NIUG5qT2s1RnNMeGxsWHBBYWNySXpoRnNZZ3hXODNNZVA3TUNhbFByMzVwM21BOThzWDBZTlN6Yjl4RC02eHpPQldvM1BDTmsxZHY4VEVsZDVPNGRCNlFCZ2M1enVrbW1fU3FKc0tRX3R1MWU5TEVYTkdYdEFOWWc4MGdVUlhVQkUtTWF6WjVGUEtUTzJzdEg3OU44QXZ1ZlB2MkhI?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Revolut öffnet Wagniskapital ab 2027 für Kleinanleger - joinmares.com",
+        "source": "joinmares.com",
+        "publishedAt": "2026-10-26T13:13:00+00:00",
+        "summary": "Revolut öffnet Wagniskapital ab 2027 für Kleinanleger joinmares.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkZwMkdoUW5XdWRDVFdQQUZxeTJhS0x5OWtWdmV2LUp5OTBJYjhvN0xyTk9TZ1BGNExJbjdJc2NtUzdfZEdTUFg4RmJDX0haSEFBYUc2VVh0SU1yU3VHODZDRUVQN3d5cTkzckJ6ZVRhQ1RYWmNHc3FNcEpSLVlyNk5ZdDl3YWVwdkJrbTl3?oc=5",
+        "tags": [
+          "joinmares.com"
+        ]
+      },
+      {
+        "title": "Apollo Global Management Aktie: Apollo finanziert 15-Milliarden-Dollar-Rechenzentrum nahe Tokio - Goldesel.de",
+        "source": "Goldesel.de",
+        "publishedAt": "2026-10-02T07:00:00+00:00",
+        "summary": "Apollo Global Management Aktie: Apollo finanziert 15-Milliarden-Dollar-Rechenzentrum nahe Tokio Goldesel.de",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEFaNVdvelByM0pra0xYVHNrcVAtTzhQQ2JxbTQtNWVpcTJQMnFtcjJzNzZ1a0duM19oOG4yNTY5WTlERDNLSmpONS1sMG5GZTdiUk91SmZiV0xWemJkQmN1cW9TWWZOTWpnVEoyTUt3TlhiWEszbjB3V0F6dHROUXNuTFlyc0tNeUp6RXdzRjJDVUR3VHg4QUZkVG9MLXpHN1JCUlpBNWVxU2l3M0NYTjdyLV83SGh6WU14a0ZmbjVNT0E5?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -287,6 +318,26 @@
         ]
       },
       {
+        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
+        "source": "Apollo News",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze Apollo News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase - Yahoo Finanzen Deutschland",
+        "source": "Yahoo Finanzen Deutschland",
+        "publishedAt": "2026-08-03T07:00:00+00:00",
+        "summary": "EasyJet Aktie legt zu: Bieterkampf mit Apollo und Castlelake geht in die entscheidende Phase Yahoo Finanzen Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXZGcTYyNlNsOGVqTTkyTnEyNzdGbURXaGRjdE5RUEJTR3Zqa3I0VTh1RkJMWWlneVd2M3NTNHEteHVISHFwQVpFNUltN2JYV1kzMjNzMlJmaVF3N2d4X3R3TElkaXZXcXhNNHFUanozdWpQUG1JQmRkaEx4ZHlVTGpETkVFYkZOajVPZWpIZGFlTUFaOTlObA?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -297,83 +348,33 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
+        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
+        "source": "FONDS professionell",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRkJQNW40bTRHM0FtTVpPalhzQXZIZ0lFOW1rVzJsQWZtV1piVUJpZGhCS19pcHNMTG5JUnYwaWd2eWU2SzZkQ2xWYjZsWjMzMzJyZkZLU09SNVYwRVdnb0ZreUlKS3B0SEVTMDFOcUE4TTR5Ymc?oc=5",
         "tags": [
-          "Apollo"
+          "FONDS professionell"
         ]
       },
       {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2026-07-06T07:00:00+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "title": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken - t3n",
+        "source": "t3n",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut macht Private Equity massentauglich: Doch die Anlageklasse hat ihre Tücken t3n",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1ZQRmpJblAwZ0xNWEJBam9jYW02aFc1ZVJrX0REenhvakJpa3BlMWR4T0owWnVkUGVzdVY5alo5VHRrNVh4YmFQdFV6U2otOTVIWExMbW1iTEJnMFVBemYxNC14eHY1YklwR1hXUXBIcmFLSjBfcFZOX1pxNE9vdUtVdFdGdDFGOHkzTjF6NTRuVEp3RUcyZEd4amdPUE5PX1o2a0tkSmkwUFJmWHZzMg?oc=5",
         "tags": [
-          "Handelsblatt"
+          "t3n"
         ]
       },
       {
-        "title": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang - Apollo News",
-        "source": "Apollo News",
-        "publishedAt": "2026-06-29T07:00:00+00:00",
-        "summary": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang Apollo News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazcwZ2tpcFRySm9ibEEtcldvMGppMFZ6MnpWSkgxZUMxSDNHdmhmR3o5X0s0U1BoN2l0c0xoU2h2ck0xNEVENTJNTTRIRE5lb05XM05mLUZDUjRDUm5MVUJaSkltVVB5eTh1ek1oXzBqOHpvcFhtS2hiMVFCd1dReGs4TlN0ZjlWTmNNZWdtYU1tTkJhOVBIRjViSGVweXhZeUJQaHpOZWx5X2hWVTRtekR3blp2ZFI4YjVZ?oc=5",
+        "title": "Revolut führt jetzt Private-Market-Fonds für Privatanleger - das investment",
+        "source": "das investment",
+        "publishedAt": "2026-07-27T07:00:00+00:00",
+        "summary": "Revolut führt jetzt Private-Market-Fonds für Privatanleger das investment",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1BqNGR6QkYtd0F2ck16bEdMd1k5WXhGMjRCamE2MmtlODAzRlh3UTZnUFlld3F6MnNiODZGU1dCMnRtaUUzMVM3SXN4ZS14LVNYWUdiN0dtNnE3dFdRVmNzSWhvWGI0NnBNZjdIOU0zeFdtZ09val9BLXpKX0VMckFmNFRld0RxdTNqaHRn?oc=5",
         "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
-        "source": "ZDFheute",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
-        "tags": [
-          "ZDFheute"
+          "das investment"
         ]
       }
     ],
