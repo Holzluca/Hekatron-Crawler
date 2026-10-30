@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T09:25:56.543249+00:00",
+  "generatedAt": "2026-10-30T16:07:34.420695+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -32,17 +32,6 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
-        ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
-        "tags": [
-          "Bosch",
-          "Brandschutz"
         ]
       },
       {
@@ -125,6 +114,16 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
+        "source": "Landkreis Diepholz",
+        "publishedAt": "2026-04-20T15:31:58+00:00",
+        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
+        "tags": [
+          "Landkreis Diepholz"
+        ]
       }
     ],
     "pfs": [
@@ -137,18 +136,6 @@
         "tags": [
           "Ei",
           "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home - Starter Set Heizung II [+M] mit 2 Thermostaten & 1 Tür-/Fensterkontakt II [+M] - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-28T11:54:33+00:00",
-        "summary": "Bosch Smart Home - Starter Set Heizung II [+M] mit 2 Thermostaten & 1 Tür-/Fensterkontakt II [+M] n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUzJPQmpOVkJncW1GSWFSb1lOWkdKX09HU2xRcXlZVFdrdnU2WUtVWEdZTjlIY1ZGZk5KYi1wRnUyUFVFc1RKSzFoWDZQb24yR2JrOFNDdk94RjlXOVBGZ1dsREkzaW9XMWtfeWN1LXRWemJrTHFWR1lldjI4VVg2UkRBWkdSenI5UFJMNTNLQno2UENSd3RIN2loMkxQZnJNMHozNGY3eFVuRkhWZjQ3QUpsRHNaZG50QUk1Qzd0ZFB1UzdBOXRqREJ1dGtVWExock50WWZqWW1hYUk3?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
         ]
       },
       {
@@ -234,24 +221,35 @@
         ]
       },
       {
-        "title": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-10-19T07:00:00+00:00",
-        "summary": "DEAL | Bosch Spotless 2 Advanced für 799,00 € zum Bestpreis im Angebot! SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlPS2tEcVRNbnVIRDV3Mjl4cnRoazBqUE1QSW9YaW9aOUFxclI2U3lPTEZIMXFnUGU0WVhzZDRvQzFFTzdqMnljSVIzUWZMcmdmdEZvOXZSSnMwRWpPMzNDcmpFaHM5R0xkN1ZyRTVlUXh0VmlhQU9KTEViSExEZlZB?oc=5",
+        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-21T13:09:30+00:00",
+        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
         "tags": [
-          "Ei",
-          "Bosch"
+          "Bosch",
+          "Smart Home"
         ]
       },
       {
-        "title": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten - inside digital",
-        "source": "inside digital",
-        "publishedAt": "2026-10-19T05:29:00+00:00",
-        "summary": "Bevor du eine Überwachungskamera kaufst: Diese Förderregel kennen die wenigsten inside digital",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW04MjJtMkVvbi1EcHFtMFhYT3QxaWVwZXZPbnl2TkxlZk5nSEI0REhDRE5xVnVMRHJXYW9XUlo4VUx6ZnpubkEwTDU2UW9xQU9FNDZpQTVvdVNMWTE5a0VYeWJWT1F1NXd5c1RrRzBuakloSU5VN1FNYVZCZmRVdDBkbm9sR0VyX3E1eWl3Nmhfc1FfRkpBZDlmZjZIcWdRRHlv0gGoAUFVX3lxTE1fTW5vd1ZCWVhWZWlXNENKS0NBQzRCRzRRblU1eGFwRk1lMFRKd1VkUUpVdTZseGRKOVBwRTR2TkhVRXNtSm00X21Sa1NBZFVTbnVFbzgtM19rc2xETUNBMGhZNDBmWWhQNUU0QWZrdjU2d3ptU1diUEN2Tml3eWlKMXlEVXJZaFpWRXFuYmVYVU1xQ1QzOHBkcm1iMFowcHZXRFplUjJsMg?oc=5",
+        "title": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-10-16T09:30:47+00:00",
+        "summary": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWZnT3EtclNXdUNEb1dKU2RVQUgzejRRY0w3cDY3b05JTFRGRE1DczRNSW5vZVY4ZDctWVpvZXBaUkNWUU10eW1PR1Z1MlMwRk9RZGtYOVNPZ1UyeE9UTTJPNC02bjZHWDBRQ3RISjVRZnIxUjNqRFZOYk1RSGxMRkJTTnRvamJTUW9tSnVidUhIY3c5d0xWUlhWOW16ZmZENDNuSW5WWkNaMnRERVBQejlmOVZuaDBhM0dvMExES21aS0RMV3g1bWZ3blJFdVZ5cUR0SnRrbjNpVHE2TFFMTklMZnphVVpSWC00VFBJUQ?oc=5",
         "tags": [
-          "Ei"
+          "Ei",
+          "Rauchwarnmelder"
+        ]
+      },
+      {
+        "title": "Nicht nur piepen: Diese Rauchmelder sagen, wo es brennt - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-16T07:00:00+00:00",
+        "summary": "Nicht nur piepen: Diese Rauchmelder sagen, wo es brennt n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVExxR3F1QW5sZzRhS3FMcXlqMUVWRkp6Rkcwa1J6VDBIWEFLbmFNRDNtZ2NRZWtiZ3VaQ09vbVRVWThmejgxbHp1a3gzSGlObHZEdGRySlUtcE5tUm1JeWRGNzJYRkJIaEcyaFV6VndFVkE2bXNYVmQ1bzBXZ1hhc0dpZmdIdmFQU19CS3ZNa3F5MDc3SmZVNXJMZGxPWEJUUE95NVRjRHJ6N0pKVGg3LXVycE9OZw?oc=5",
+        "tags": [
+          "n-tv.de"
         ]
       }
     ],
@@ -327,16 +325,6 @@
         ]
       },
       {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
-        ]
-      },
-      {
         "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
         "publishedAt": "2026-04-05T07:00:00+00:00",
@@ -375,9 +363,29 @@
         "tags": [
           "GEZE"
         ]
+      },
+      {
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - Handwerk.com",
+        "source": "Handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale Handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
+      {
+        "title": "Umweltschutz und Nachhaltigkeit: Kreislaufwirtschaft Aachen - aachen50plus.de",
+        "source": "aachen50plus.de",
+        "publishedAt": "2026-10-29T05:31:47+00:00",
+        "summary": "Umweltschutz und Nachhaltigkeit: Kreislaufwirtschaft Aachen aachen50plus.de",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMXp3U2Znby1WUXpxVTNWSXZsVTZjbEVqYjdNX0RVMGJSUlhhZ1FEeXlObENDdVlqWkdmM1NHRHRZejE1LVotdk5tR0lvQXU0Z25JZkFoVnV2VzlYZzRwZjNCR1NYeFRGQUktVVlKbkJUNUhHN1VhUS1vdnk1eUF2T192N1lzWUFlblNv?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
       {
         "title": "Explosion in Wohnhaus in Regensburg: Mehrere Verletzte, Gebäude in Vollbrand - BSAktuell",
         "source": "BSAktuell",
@@ -409,6 +417,16 @@
         ]
       },
       {
+        "title": "Prognose für den Markt für Glasbruchmelder bis 2035: IoT-fähige smarte Sicherheitstechnik treibt die Expansion - IndexBox",
+        "source": "IndexBox",
+        "publishedAt": "2026-10-19T10:51:05+00:00",
+        "summary": "Prognose für den Markt für Glasbruchmelder bis 2035: IoT-fähige smarte Sicherheitstechnik treibt die Expansion IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaE1hdGhCNTluRU1tNUxpVEI3MWxOc3N0WVJ0c3lJWWY1RjFPNlVsX3RzenlBSjhKS09oZTJNbS1LRXZ2VnBac0NOX1Znc3l4ZmpPWjQ1S2NDUEtXSVM5YTJpTkR3UG1pWFVHOXF4ZmlTcGp2OU9sNHZRc2tXenFrZWlYOTI1NDlmRUllbDd6SnlPNmd2ZG5qNFZ3ZU45bF9ZbVRORXVfcEpBcjFaeFZlcVU3QWUzenN2enk2NUJNN01kV0hZS1V2cA?oc=5",
+        "tags": [
+          "IndexBox"
+        ]
+      },
+      {
         "title": "Fraunhofer IKS: Deutschland will bei der KI-Entwicklung führend sein - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-10-14T07:00:00+00:00",
@@ -431,7 +449,7 @@
       {
         "title": "Retrofit: neues Leben für bestehende Anlagen - Vogel Communications Group",
         "source": "Vogel Communications Group",
-        "publishedAt": "2026-10-12T05:00:00+00:00",
+        "publishedAt": "2026-10-12T07:00:00+00:00",
         "summary": "Retrofit: neues Leben für bestehende Anlagen Vogel Communications Group",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenRBSVVPZmhHSWNzSVBZaG5wTmwtdzQzdnlOTEZkVUtzRGRNOHVTWlN6cldldTdSM2hMSmpIN3JoQ2taY1pkY1dTWnVxcThqZVlyYmtkeEhHbm5mclZGQWdRVmw4Y19hZFhBWVI5MjVwM1FBUFBMVnNRNk5RZkZhd3lrb0E1dTNhc1FOSExDaTU4bDlqTXE0S2NoQ19GbFhmUGNfMUd2MnBiU3B4ajRxY21JOTdpUWM?oc=5",
         "tags": [
@@ -477,26 +495,6 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
         "tags": [
           "Schwäbische Post"
-        ]
-      },
-      {
-        "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
-        "source": "Cornelius Ober GmbH",
-        "publishedAt": "2026-09-28T07:00:00+00:00",
-        "summary": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick Cornelius Ober GmbH",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
-        "tags": [
-          "Gebäudeautomation"
-        ]
-      },
-      {
-        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
-        "source": "Gießener Allgemeine",
-        "publishedAt": "2026-09-13T07:00:00+00:00",
-        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
