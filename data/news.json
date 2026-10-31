@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:36:28.874139+00:00",
+  "generatedAt": "2026-10-31T23:53:45.130454+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -35,13 +35,14 @@
         ]
       },
       {
-        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
         "tags": [
-          "Augsburger Allgemeine"
+          "Bosch",
+          "Brandschutz"
         ]
       },
       {
@@ -171,16 +172,6 @@
         ]
       },
       {
-        "title": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q - Netz Trends",
-        "source": "Netz Trends",
-        "publishedAt": "2026-10-24T12:51:00+00:00",
-        "summary": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q Netz Trends",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0czT3RFcnBPdk84NkUzdHBsRm5Rdk1WSnliblZxckJSeFhqLXc4bTNlYTN5SDFSLVR4SW16U2hYMF9TWkQwTG5UNkQtUS1OQ3d3Mi1zRlExTy1VbV81blcwQ0xJWDRrXzY3VnhHOEpVckJ6ejVtM3lVRHdNV1N6Y3lSMnE4SE8ydlVSX0I0bmhXX1NaMjBHQWZ0MENhbGdjQllGWUFJckdLS3BU?oc=5",
-        "tags": [
-          "Pyrexx"
-        ]
-      },
-      {
         "title": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-10-23T07:00:00+00:00",
@@ -201,19 +192,9 @@
         ]
       },
       {
-        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-22T06:40:01+00:00",
-        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXdtbzhVTjJHZl9JWlhydlhSWmdTQXJ1WmlMX2dWM3kzRWV6a1lLbjRlQ19iRzlxUThFV1I4TEhkb09qeXFNa3JFWmdBUUF2TDJ4SW10LWVFWDFvdmR0U2RYSkZWNU12SE93VmpERy1vU2lGTUM5MElHajRURUJfUEU5WU44V29KMk9zalRnMlpvVkE?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
         "title": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! - ADAC",
         "source": "ADAC",
-        "publishedAt": "2026-10-21T22:00:14+00:00",
+        "publishedAt": "2026-10-22T07:00:00+00:00",
         "summary": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! ADAC",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
         "tags": [
@@ -232,24 +213,43 @@
         ]
       },
       {
-        "title": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-10-16T09:30:47+00:00",
-        "summary": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWZnT3EtclNXdUNEb1dKU2RVQUgzejRRY0w3cDY3b05JTFRGRE1DczRNSW5vZVY4ZDctWVpvZXBaUkNWUU10eW1PR1Z1MlMwRk9RZGtYOVNPZ1UyeE9UTTJPNC02bjZHWDBRQ3RISjVRZnIxUjNqRFZOYk1RSGxMRkJTTnRvamJTUW9tSnVidUhIY3c5d0xWUlhWOW16ZmZENDNuSW5WWkNaMnRERVBQejlmOVZuaDBhM0dvMExES21aS0RMV3g1bWZ3blJFdVZ5cUR0SnRrbjNpVHE2TFFMTklMZnphVVpSWC00VFBJUQ?oc=5",
+        "title": "X-Sense SD11: App-Rauchmelder im Angebot - iphone-ticker.de",
+        "source": "iphone-ticker.de",
+        "publishedAt": "2026-10-05T07:00:00+00:00",
+        "summary": "X-Sense SD11: App-Rauchmelder im Angebot iphone-ticker.de",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUIzdXRFc0dXNlYxNjhXV0R4UXVYWGdaaVlNNlI3TmstcnpiX3BtZUlvdDc1OFZLMks4Vk9JVWJKM0pxSmVuYi1SUEdRcGhuVEJiWE9ndmUyY1hnaWhhQ21iMUtubVloSFhodFlIWHd6UXBZZHRmN2JTNUx2OFpiUUNwYUJpYnBieU1wbHRENUxnTTFlak9v?oc=5",
         "tags": [
-          "Ei",
-          "Rauchwarnmelder"
+          "X-Sense"
         ]
       },
       {
-        "title": "Nicht nur piepen: Diese Rauchmelder sagen, wo es brennt - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-16T07:00:00+00:00",
-        "summary": "Nicht nur piepen: Diese Rauchmelder sagen, wo es brennt n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVExxR3F1QW5sZzRhS3FMcXlqMUVWRkp6Rkcwa1J6VDBIWEFLbmFNRDNtZ2NRZWtiZ3VaQ09vbVRVWThmejgxbHp1a3gzSGlObHZEdGRySlUtcE5tUm1JeWRGNzJYRkJIaEcyaFV6VndFVkE2bXNYVmQ1bzBXZ1hhc0dpZmdIdmFQU19CS3ZNa3F5MDc3SmZVNXJMZGxPWEJUUE95NVRjRHJ6N0pKVGg3LXVycE9OZw?oc=5",
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
-          "n-tv.de"
+          "FAZ"
+        ]
+      },
+      {
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
+        "source": "PCGH",
+        "publishedAt": "2026-09-18T07:00:00+00:00",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
+        "source": "connect.de",
+        "publishedAt": "2026-09-11T07:00:00+00:00",
+        "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
+        "tags": [
+          "X-Sense"
         ]
       }
     ],
@@ -260,6 +260,26 @@
         "publishedAt": "2026-09-17T07:00:00+00:00",
         "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
+        "tags": [
+          "Spiegel"
+        ]
+      },
+      {
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -302,16 +322,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazcwZ2tpcFRySm9ibEEtcldvMGppMFZ6MnpWSkgxZUMxSDNHdmhmR3o5X0s0U1BoN2l0c0xoU2h2ck0xNEVENTJNTTRIRE5lb05XM05mLUZDUjRDUm5MVUJaSkltVVB5eTh1ek1oXzBqOHpvcFhtS2hiMVFCd1dReGs4TlN0ZjlWTmNNZWdtYU1tTkJhOVBIRjViSGVweXhZeUJQaHpOZWx5X2hWVTRtekR3blp2ZFI4YjVZ?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-04-17T07:00:00+00:00",
-        "summary": "„Die Geduld hat sich gelohnt“: Umweltreferent Erben verabschiedet sich mit Millionenprojekt Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkUtRnlwa2pFMW9ySURnTGtQWURZY2hSb2NOSjk0RFBrRkZPeHVUdVJObUxpQ1hBWDIxVWxQZElYZVlZMVhRSGhHcVIwTXZxYmxydk0zVkZBRmt1Z3NxQkk3SlQ1REZkWWhJODVtVDRaX1Bjd2M2cEtjZ0VPb3BGS2VVNjB5QWwxZXNoemlDRmg1ZkNnWW9WbmZOa2U1Wkk5V21kMHRkU0QzNW0wSGpvNVhEakZTU2lEekhBS2xaMFA2aTJBbm5ZREtmYWl5SDdXakZYVnV5NVhCY05x?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
         ]
       },
       {
@@ -362,16 +372,6 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
         "tags": [
           "GEZE"
-        ]
-      },
-      {
-        "title": "80’000 Euro für Politikertreffen: Eine Lobbyaffäre belastet die deutsche Regierung - Tages-Anzeiger",
-        "source": "Tages-Anzeiger",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "80’000 Euro für Politikertreffen: Eine Lobbyaffäre belastet die deutsche Regierung Tages-Anzeiger",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkh2MkZwLWdCcVFwWnhKRXFHUklpTWJfS1RNbmh5aGVLcVJDblBmWjNERHNlRzRfUFBIbWVTZGZzRC1pMjRkZ3J5dUdDNUxsY0J3dkV2ak5ZZE96NVRJVkxSNGdDRjVVeEFUSlpzclhSNi1aMVVtbmN2eFhJbUFMMkc0RzN5YTJyVFo3UDA5QQ?oc=5",
-        "tags": [
-          "Tages-Anzeiger"
         ]
       }
     ],
@@ -480,16 +480,6 @@
         ]
       },
       {
-        "title": "Lüftung als sicherheitsrelevante Gebäudetechnik - ﻿Gut geplant ist halb gelüftet - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-10-06T07:00:00+00:00",
-        "summary": "Lüftung als sicherheitsrelevante Gebäudetechnik - ﻿Gut geplant ist halb gelüftet Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXF3YVc0V051bzFvX3k2SnRkMHZxOXk1LTRQREpVakEybjRNRko2eGJxTU1tb2ZET1pGUXpRdkZnUzRTSi03R0RGUERMYnFKOW9fcWtCYktLeUl1RU5jOEN0eUF6Rm1mM0FZMHozOVA1NnJUVUJjb3o2WTZFcjVKTjg5TEwyWk1fVEg5ZTdLLVNjZEV2VFFnWFFfaml5eTd5b1BITzlkRExEM3A1aEoyVm5JMjVMazg?oc=5",
-        "tags": [
-          "Gebäude-Energieberater"
-        ]
-      },
-      {
         "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
         "source": "Investing.com Deutsch",
         "publishedAt": "2026-10-06T07:00:00+00:00",
@@ -497,6 +487,16 @@
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
         "tags": [
           "AI"
+        ]
+      },
+      {
+        "title": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen - Schwäbische Post",
+        "source": "Schwäbische Post",
+        "publishedAt": "2026-09-30T07:00:00+00:00",
+        "summary": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen Schwäbische Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
+        "tags": [
+          "Schwäbische Post"
         ]
       }
     ]
