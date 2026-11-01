@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T17:00:10.864414+00:00",
+  "generatedAt": "2026-11-01T21:03:04.564612+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -43,6 +43,16 @@
         "tags": [
           "Bosch",
           "Brandschutz"
+        ]
+      },
+      {
+        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-08-17T07:00:00+00:00",
+        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
+        "tags": [
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -115,16 +125,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Handlungsbedarf bei Brandmeldeanlagen - Landkreis Diepholz",
-        "source": "Landkreis Diepholz",
-        "publishedAt": "2026-04-20T15:31:58+00:00",
-        "summary": "Handlungsbedarf bei Brandmeldeanlagen Landkreis Diepholz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3FiM3JkaDQxSHR3V1JlZ3d3XzNUeWFtZEp5QV9LQ0plb1FQNGpYNGlrU2V4M204dEVMVTVPbXBILXNGRi11dTNJY29obndOeS1GT1VsclNIblN1SmtFVjJtMGxEaV9LaFhkS1NaeUxmLUJUaWVoZDhXZm1TdGd1OXphSWpDY3dDQ3pSMWFwWlFKdDdLcGc1VHZmSldyOUYw?oc=5",
-        "tags": [
-          "Landkreis Diepholz"
-        ]
       }
     ],
     "pfs": [
@@ -150,6 +150,40 @@
         ]
       },
       {
+        "title": "Tink: Bosch Smart Home Licht-/ Rollladensteuerung II - 3er-Set - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-29T12:23:36+00:00",
+        "summary": "Tink: Bosch Smart Home Licht-/ Rollladensteuerung II - 3er-Set n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGpmUTBZYkhmcG5pTzl4aVd4MWlDRF9BcURGSS10Q3A3TWU0NGk3TTFqYjdFdi1NQ1dMem13MDREWElPaklzUlJhRlMwT3l2cGlsWjZQRUxKQUM1dDF1bWszekc0Nk5rTDlzTTJrbXpkaDhVQkx5M21jZTU2eHA3RUhibGZBTEJGem1tOW9SRl9ONVR1TXpQdUdZU2Y5UQ?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Dieses kleine Bosch-Gadget macht Lichtschalter und Rollläden smart - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-29T12:02:27+00:00",
+        "summary": "Dieses kleine Bosch-Gadget macht Lichtschalter und Rollläden smart n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnk5U05XTUh5d0xUUW41eUxwR09yOXVfcUdYR09sb0NENnE0eXhDQm9JUWNka1E5aHBELWtkSzZQQkRsOUNTTjlwUFJjLUlmSTk1UTdKdDE2WnNFd0V2bjJ5b2M3VFhWYVNvX2tNUzZETm5XSzdjRUp1WnVoNVFZbHVybGdwdnQ5RlRha1lpREFaSmV6ejJCYXRGX09jLW50ZkJqMjMyTkx6T1B0TlctNlRXbm1Rcklxb09PYVJkQVl2UQ?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home - Starter Set Heizung II [+M] mit 2 Thermostaten & 1 Tür-/Fensterkontakt II [+M] - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-28T11:54:33+00:00",
+        "summary": "Bosch Smart Home - Starter Set Heizung II [+M] mit 2 Thermostaten & 1 Tür-/Fensterkontakt II [+M] n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUzJPQmpOVkJncW1GSWFSb1lOWkdKX09HU2xRcXlZVFdrdnU2WUtVWEdZTjlIY1ZGZk5KYi1wRnUyUFVFc1RKSzFoWDZQb24yR2JrOFNDdk94RjlXOVBGZ1dsREkzaW9XMWtfeWN1LXRWemJrTHFWR1lldjI4VVg2UkRBWkdSenI5UFJMNTNLQno2UENSd3RIN2loMkxQZnJNMHozNGY3eFVuRkhWZjQ3QUpsRHNaZG50QUk1Qzd0ZFB1UzdBOXRqREJ1dGtVWExock50WWZqWW1hYUk3?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Bosch: Diese Sets senken Heizkosten und sind jetzt günstiger - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-10-28T11:15:00+00:00",
@@ -169,6 +203,16 @@
         "tags": [
           "Ei",
           "Bosch"
+        ]
+      },
+      {
+        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-10-25T05:57:59+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWdtN0RiN3d1TFdpcy0tak95dHFwVmphSUdTSC1uWm02Z2tKSHo4MG1uY2pqcUpZMVBZdXlCbEhDM04wUmFKNV8wdHBpX3RmaWY2Ri1TV0stT2xNUDlsdnV1cXBhdHh6WERMRkRQVUZzRjFIWldDTEhCNG0wTTgyaUR2X3ZZWTRiR0NTRmZDYWg3UkZ4Qk5tcHd3?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -209,48 +253,6 @@
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Amazon: X-Sense Smart Rauchmelder XS01-M - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-22T06:40:01+00:00",
-        "summary": "Amazon: X-Sense Smart Rauchmelder XS01-M n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXdtbzhVTjJHZl9JWlhydlhSWmdTQXJ1WmlMX2dWM3kzRWV6a1lLbjRlQ19iRzlxUThFV1I4TEhkb09qeXFNa3JFWmdBUUF2TDJ4SW10LWVFWDFvdmR0U2RYSkZWNU12SE93VmpERy1vU2lGTUM5MElHajRURUJfUEU5WU44V29KMk9zalRnMlpvVkE?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-21T13:09:30+00:00",
-        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-10-16T09:30:47+00:00",
-        "summary": "Rauchwarnmelder-Report 2026: Vor-Ort-Präsenz und Vertrauen als Chance für Schornsteinfeger PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWZnT3EtclNXdUNEb1dKU2RVQUgzejRRY0w3cDY3b05JTFRGRE1DczRNSW5vZVY4ZDctWVpvZXBaUkNWUU10eW1PR1Z1MlMwRk9RZGtYOVNPZ1UyeE9UTTJPNC02bjZHWDBRQ3RISjVRZnIxUjNqRFZOYk1RSGxMRkJTTnRvamJTUW9tSnVidUhIY3c5d0xWUlhWOW16ZmZENDNuSW5WWkNaMnRERVBQejlmOVZuaDBhM0dvMExES21aS0RMV3g1bWZ3blJFdVZ5cUR0SnRrbjNpVHE2TFFMTklMZnphVVpSWC00VFBJUQ?oc=5",
-        "tags": [
-          "Ei",
-          "Rauchwarnmelder"
-        ]
-      },
-      {
-        "title": "Nicht nur piepen: Diese Rauchmelder sagen, wo es brennt - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-16T07:00:00+00:00",
-        "summary": "Nicht nur piepen: Diese Rauchmelder sagen, wo es brennt n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVExxR3F1QW5sZzRhS3FMcXlqMUVWRkp6Rkcwa1J6VDBIWEFLbmFNRDNtZ2NRZWtiZ3VaQ09vbVRVWThmejgxbHp1a3gzSGlObHZEdGRySlUtcE5tUm1JeWRGNzJYRkJIaEcyaFV6VndFVkE2bXNYVmQ1bzBXZ1hhc0dpZmdIdmFQU19CS3ZNa3F5MDc3SmZVNXJMZGxPWEJUUE95NVRjRHJ6N0pKVGg3LXVycE9OZw?oc=5",
-        "tags": [
-          "n-tv.de"
         ]
       }
     ],
@@ -378,16 +380,6 @@
     ],
     "trends": [
       {
-        "title": "Explosion in Wohnhaus in Regensburg: Mehrere Verletzte, Gebäude in Vollbrand - BSAktuell",
-        "source": "BSAktuell",
-        "publishedAt": "2026-10-28T07:29:25+00:00",
-        "summary": "Explosion in Wohnhaus in Regensburg: Mehrere Verletzte, Gebäude in Vollbrand BSAktuell",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVhNckhFUnZaOEVkYkVYWDJNVlc0dU44dmE2dExYX1c4UGl6aHZUVlVkUjQ5LXlTc3Y3bjZ6NnZfZDJ2MkQwMExIdmRKSG9XYmdGTXRfVWFaX1FvbVFhT3U0NDhQSHhSbkNrTXVFMnlkS1dqckZ1RnR3RHJMZE5GOGIwaF9halF2dlJjRUZCOC1JZ3dJaTBhdU15NS1sajVNWGFJcDNYYWVEbGJXbFhuZ0hjZUhndkpBbXFXM2FsTm1PZ0k?oc=5",
-        "tags": [
-          "BSAktuell"
-        ]
-      },
-      {
         "title": "Erste Nachhaltigkeitsstrategie: Paderborner Uni kann Abwärme von Supercomputer in Gebäude leiten - Neue Westfälische",
         "source": "Neue Westfälische",
         "publishedAt": "2026-10-26T00:56:21+00:00",
@@ -415,16 +407,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVdWYmFEVTZGR0RaTUtEV2JYNkhBbC1zaHd4VmFuQlpfeU53T0E1SVo3bTU3NWZpelpmWjMzaV9oWjJkaEc4OFdkXzJmN1pCbUJSR2hSQlFqRnViRlpnWGh4aEFjcWVSQXdTVmJmdzhhWF9WZEw2NnFzT2lEUEV5Q3BfWXhfVUtscmZKZGk2cXZEVVVINFV1c1ExYjB1NXlDWG9IY1V5WXZhc00?oc=5",
         "tags": [
           "PressNetwork.de"
-        ]
-      },
-      {
-        "title": "Bewegungsmelder-Markt bis 2035: Sicherheit und Automation treiben das Wachstum - Nachrichten und Statistiken - IndexBox",
-        "source": "IndexBox",
-        "publishedAt": "2026-10-20T11:06:04+00:00",
-        "summary": "Bewegungsmelder-Markt bis 2035: Sicherheit und Automation treiben das Wachstum - Nachrichten und Statistiken IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM1VYMXBTNUV1Z05BOHdNRFItR1pXdnJMNGFZdlJkUnNQSzd4emdOYXNqcS1Tb0p0UEY3LUItSHBKU2N5TVJQNHA0clYtc1gwaHNPbGRZR3BaSXk5aDMtY0tpbXdmdEFvSVlieTN0LWJnNFZFOFRMcjRXUW0wTWljODA3T2VpQXhCOFRKNzNsZlE3cnBmUzYyaHp2WmZtWkg4WkF3ZnlaTGZjUkpPWTZveFRyelNoLU1BclpJYjRUT2Zqa2tFZWd4cm1DSDdCTjFm?oc=5",
-        "tags": [
-          "IndexBox"
         ]
       },
       {
@@ -496,6 +478,26 @@
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
+        "source": "Wochenblatt Reporter",
+        "publishedAt": "2026-09-11T07:00:00+00:00",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
+        "source": "SWR",
+        "publishedAt": "2026-09-06T07:00:00+00:00",
+        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
+        "tags": [
+          "SWR"
         ]
       }
     ]
