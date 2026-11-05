@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:56:24.960162+00:00",
+  "generatedAt": "2026-11-05T08:55:31.651091+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -255,103 +255,123 @@
     ],
     "doors": [
       {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "title": "Apollo World vs. CARI4D: Ein Kategorienfehler, erklärt - OrcaRouter",
+        "source": "OrcaRouter",
+        "publishedAt": "2026-11-04T14:36:10+00:00",
+        "summary": "Apollo World vs. CARI4D: Ein Kategorienfehler, erklärt OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HeEJaLUVFREVTdDBON0ltWndlUFJkLTdnTllDMHJNWndDM0dNZnVZUFhScU52WTVHM1pTTk12alVURGhTbGhkdEFBSXMyODB2WEpuRlRjR1dUaHVZMFRwdzdaMkVGMG8?oc=5",
         "tags": [
-          "GEZE"
+          "Apollo"
         ]
       },
       {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "title": "Apollo World vs. Genie 4: Ein Spezialist gegen einen Generalisten - OrcaRouter",
+        "source": "OrcaRouter",
+        "publishedAt": "2026-11-04T14:34:44+00:00",
+        "summary": "Apollo World vs. Genie 4: Ein Spezialist gegen einen Generalisten OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zOVJkVmFBRU10a0dsM1R2SmpJaUZweGt0eG5sN0FTb192akQwcU1JQUFzb2FadkdHckpMV0RBTEN5dmprZlVKMWZ0RGctZkJOMzBER2VNRGdTRU9NT2JwUkt0WDhNZVBE?oc=5",
         "tags": [
-          "GEZE"
+          "Apollo"
         ]
       },
       {
-        "title": "Assa Abloy erweitert „Close-Motion“-Türschließerprogramm für zweiflügelige Türen - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2018-11-14T08:00:00+00:00",
-        "summary": "Assa Abloy erweitert „Close-Motion“-Türschließerprogramm für zweiflügelige Türen Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCTlZEZ01LVkk1WFVSM25KX28wR3BPeHprbHJOcU5GdjVsTXlOTVFtNFI3dkt0QllMdkpCWnB4N2ZoSHZ2ZlNCVkp4S2Z6UW5kQWZfMlhNNlIxVkIy?oc=5",
+        "title": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt - OrcaRouter",
+        "source": "OrcaRouter",
+        "publishedAt": "2026-11-04T14:31:39+00:00",
+        "summary": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nOE84SXNENTlKM0xLbl81YnZHbWdWQUlBbnJHZkk3a1AzXzlOMzZNNnF4LWdhLS1aMWNMUjdQeEd5OW1BaVA5dmtVSnFSckFiWndBMXJfVENhN2FuRFNPbjVHcEdUcHhZ?oc=5",
         "tags": [
-          "Baulinks"
+          "Apollo"
         ]
       },
       {
-        "title": "Feststellanlagen kabellos per Funk erweitern - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2018-05-10T07:00:00+00:00",
-        "summary": "Feststellanlagen kabellos per Funk erweitern Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tMkRGSHJxQUxpdGhDYU5IUHptU0ZXalZHSGNDS3FzdUUtVXdjODZFWjY2MkRfRjNsMF9peFFrSVRmaXlHWFVxYS1xZVZxYlk5SDZDNFZULUZvUk0x?oc=5",
+        "title": "Ein Projekt im Wohnungsbau könnte die Argumente für eine Investition in die Aktie von Apollo Global Management (APO) verändern - Simply Wall St",
+        "source": "Simply Wall St",
+        "publishedAt": "2026-11-02T09:29:21+00:00",
+        "summary": "Ein Projekt im Wohnungsbau könnte die Argumente für eine Investition in die Aktie von Apollo Global Management (APO) verändern Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaW5zVmFuVVlKemNBX3ZLSmlvVVpMRGJkY2ZPSVowa0Ruem11bF9TOTZFWldoVTRjN21xMXFYQzN0cy00b0hyNVpnNW1OUXY3ek9HaWhnXy01aVVjNlo0UmQ3ZktKelFGUnpSemhEU0RoZEZ0Yld2WkNJNk5aVVMtdkdZeWRzMEJDdWY5NUM1M2o1UFc2aE5JV3A5YnJ3anU2MWNmR0V3N0ZBQmwwa1BxOHRpSWFWa1ViTnlEajlLc2FYTkNndjE0WjNOTE5weWZzeG5EOGtmNzhHZG5uVW01R1lyY1pWNHRYSWp2MkpfUlRNU2PSAfMBQVVfeXFMUGluc1ZhblVZSnpjQV92S0ppb1VaTERiZGNmT0laMGtEbnptdWxfUzk2RVpXaFU0YzdtcTFxWEMzdHMtNG9IcjVaZzVtTlF2N3pPR2loZ18tNWlVYzZaNFJkN2ZLSnpRRlJ6UnpoRFNEaGRGdGJXdlpDSTZOWlVTLXZHWXlkczBCQ3VmOTVDNTNqNVBXNmhOSVdwOWJyd2p1NjFjZkdFdzdGQUJsMGtQcTh0aUlhVmtVYk55RGo5S3NhWE5DZ3YxNFozTkxOcHlmc3huRDhrZjc4R2RublVtNUdZcmNaVjR0WElqdjJKX1JUTVNj?oc=5",
         "tags": [
-          "Feststellanlage"
+          "Apollo"
         ]
       },
       {
-        "title": "Neuer obenliegender Türschließer von GEZE mit besonders hoher Endschließkraft - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2018-05-09T07:00:00+00:00",
-        "summary": "Neuer obenliegender Türschließer von GEZE mit besonders hoher Endschließkraft Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkMF9WTWc1aDlKbHFSNVJNUDhWNXBLVW9sTDBQRXhhM0FndEZ5ckFWazBYZm05Y29Hblhvbm5EcWJhQi1TeVdkczRYMTA5dmJpQkxhWThPQ0Z5Z2FH?oc=5",
+        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-09-17T07:00:00+00:00",
+        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
         "tags": [
-          "GEZE"
+          "Apollo"
         ]
       },
       {
-        "title": "Whitepaper zur DIN 14677 und zum fristgerechten Austausch von Rauchschaltern in Feststellanlagen - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2017-04-24T07:00:00+00:00",
-        "summary": "Whitepaper zur DIN 14677 und zum fristgerechten Austausch von Rauchschaltern in Feststellanlagen Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5waTB4TDRXRU96QU1VanlNbXFrbjZqUE9Nd0tHaWxQSHRyUm9abXZySUxEVkJrUlRVNTZBRGluN2dQQzROclB6V1UwOTJ1bFI1M2ZWenhCTU9oeWFh?oc=5",
+        "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
-          "Feststellanlage"
+          "Spiegel"
         ]
       },
       {
-        "title": "Türöffnungsbegrenzer bremsen aufschlagende Türen und Kosten - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2013-11-28T08:00:00+00:00",
-        "summary": "Türöffnungsbegrenzer bremsen aufschlagende Türen und Kosten Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ldFI2ejg2YUlVNVJmNUxXa3Vfci1vUGpfdE1GMGF1SXhSdEp6am94eFhDclpfdmluN0ZDb2p6aUEyaE9fbVFFbHNXWGVOamVSVklWbWhOYmx0Vjl3?oc=5",
+        "title": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo - Automobilwoche",
+        "source": "Automobilwoche",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo Automobilwoche",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGhGVlFCUDJOdW5NdlNvbnp0aE1Ub1N4bTM3eTVCX1BQXzJlUnYxeEwxcURfcmtQMFlDVzFZQ2JIQnp2Q29QNDk5aUk2VHJBMFQxdlM1djBjV0I0X05feWxQSlRVbXR1UklZa0NOT0RCS21rWFJQR0hZekxKR1R2dE43SVUzdkJqU0pJMXNQMVo1UE1rUUE?oc=5",
         "tags": [
-          "Baulinks"
+          "Apollo"
         ]
       },
       {
-        "title": "Assa Abloy ergänzt Obentürschließer-Reihe - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2011-08-03T07:00:00+00:00",
-        "summary": "Assa Abloy ergänzt Obentürschließer-Reihe Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wTDZwZ29Fc1VldGcwejlPWGRtMFdwdDNUS052bFo3RFRlTno3SzZuS3RjZEhzekczdWoyY083MDRIS3oxQkExSFZ5c090Y1Q5VHZCV3ZGejl2NjhE?oc=5",
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
         "tags": [
-          "Baulinks"
+          "Apollo"
         ]
       },
       {
-        "title": "Barrierefreie Zugänge auf 20 sehr informativen Seiten - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2011-02-24T08:00:00+00:00",
-        "summary": "Barrierefreie Zugänge auf 20 sehr informativen Seiten Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tdnVzSXNteWk5cVEtWVZXc1hUZzJISE1INzkxaXVpNDUyVjdYZVl1aUVqQWZKQmlSdS05QTVwTVZldWpNOGpnS3FiSUNRT282WnAzSDVlSmlCUElf?oc=5",
+        "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
+        "source": "tippinpoint.ch",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden tippinpoint.ch",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
-          "Baulinks"
+          "tippinpoint.ch"
         ]
       },
       {
-        "title": "GEZE auf der fensterbau: Das einbruchsichere Schiebetürsystem Slimdrive SL WK2 – filigran und doch robust - openPR.de",
-        "source": "openPR.de",
-        "publishedAt": "2010-04-08T07:00:00+00:00",
-        "summary": "GEZE auf der fensterbau: Das einbruchsichere Schiebetürsystem Slimdrive SL WK2 – filigran und doch robust openPR.de",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObG04UF8xRXMxVXFXVVR6bUN1ZVlsZExSZEQ1TktwbGhNenVYRTZUT2MyTmh3M0hqN0NHT0ZJOW9xaEp0Q0dJSEhhakRPRVlTckd6TnN6UWdLX0NfanExejNhRGpnOTVlbEtTc3FKMGstTGI4UjByQl9ENHhqbEVTV3VnY0NQMl9kYU5Sblg5bkoxWDJSV21qa3cycnRLYXEwLWJocGRKWVlCVkQ1LWtTVXdsUlp0TC1sRHkyVlFQemJRN2xuZks2UXNnSUtOYk9uQkhqZ3RpSHc1dw?oc=5",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-10T07:00:00+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
-          "GEZE"
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang - Apollo News",
+        "source": "Apollo News",
+        "publishedAt": "2026-06-29T07:00:00+00:00",
+        "summary": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang Apollo News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazcwZ2tpcFRySm9ibEEtcldvMGppMFZ6MnpWSkgxZUMxSDNHdmhmR3o5X0s0U1BoN2l0c0xoU2h2ck0xNEVENTJNTTRIRE5lb05XM05mLUZDUjRDUm5MVUJaSkltVVB5eTh1ek1oXzBqOHpvcFhtS2hiMVFCd1dReGs4TlN0ZjlWTmNNZWdtYU1tTkJhOVBIRjViSGVweXhZeUJQaHpOZWx5X2hWVTRtekR3blp2ZFI4YjVZ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
         ]
       }
     ],
@@ -377,16 +397,6 @@
         ]
       },
       {
-        "title": "Öffentliche Gebäude, die die zulässigen Grenzwerte überschreiten: Wie werden die neuen Vorschriften dieses Problem angehen? - Vietnam.vn",
-        "source": "Vietnam.vn",
-        "publishedAt": "2026-11-04T04:04:13+00:00",
-        "summary": "Öffentliche Gebäude, die die zulässigen Grenzwerte überschreiten: Wie werden die neuen Vorschriften dieses Problem angehen? Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNlh6TzZWeGpKQUNfaWpKemVFZDJLeTQ4ZDBJMGNoM0tzaENEUGQwVGQ3bDlIMFdES3ZtQTlkM1NBcU9aYk1QYWw1STFoNU9EMGJGejRtZEJTWXZ0el8zbWd5VEFDR3NMazJOdzBGSmhiY1pKWkZZWDV3dFVpS0x4dG0yZw?oc=5",
-        "tags": [
-          "Vietnam.vn"
-        ]
-      },
-      {
         "title": "VdS-BrandSchutzTage 2026: GEZE zeigt intelligente Systemlösungen für mehr Sicherheit in Gebäuden - Fireworld.at",
         "source": "Fireworld.at",
         "publishedAt": "2026-11-03T06:35:34+00:00",
@@ -397,13 +407,13 @@
         ]
       },
       {
-        "title": "Künstliche Intelligenz: London und Berlin wollen Militär-Zusammenarbeit auf KI ausweiten - Logistik Heute",
-        "source": "Logistik Heute",
-        "publishedAt": "2026-11-02T10:19:00+00:00",
-        "summary": "Künstliche Intelligenz: London und Berlin wollen Militär-Zusammenarbeit auf KI ausweiten Logistik Heute",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMFVwa2JKXzdYNVdKcm00eFZvMDRCVnd1aUNfcFNROGZ0TmtWTnlxMTNPVXRzbGt4a1o3UExjMEhVQmwwSFpucmhWbkRNTWtRYXFOLUZuZjJyMGtYalV3UEJvMDg5TmFKU3NwRm5WQnpDdElxdlV6ZndMTFF0M0M0TjJwbS1hZUdPLWtXdnI5Ql8tQXBVcEtrY3MxNjRGdXNPVm9lVGV1UE9ySkUxczNHOGd0dklxRlJfRUtId1ZtU1c2MlN6ZldWek9GQzM?oc=5",
+        "title": "DAVE: ESG wird zum festen Bestandteil der Due Diligence - ImmoFokus",
+        "source": "ImmoFokus",
+        "publishedAt": "2026-11-02T09:34:00+00:00",
+        "summary": "DAVE: ESG wird zum festen Bestandteil der Due Diligence ImmoFokus",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVRwVjZXS1R5OG9sdUZQcjR0MWE5RGZMVGQ0SzUzY21HSlc1dm1qQ29OQjJIbHA0cUlZWFdqNHVwNHdsTDJiU1VEZWkwZ2NlT19aUmNKbWxheDUtVlJ2VTFCX2owb29lYjdsVEFzc1g3bWNiVVFhb2hvMXVWRTBXNmpJdw?oc=5",
         "tags": [
-          "KI"
+          "ESG"
         ]
       },
       {
@@ -424,6 +434,16 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnozd3FNTXNjekZERVdmMENlQkpZNHZjN01DanNfcVpnTjhNLUgyQnZ0azAzVEt1MUdZN1JpZmtWdHJ0eUFSZmItengtVGpLMFRhblJXUTBnUlFNVFZVQ2o3ZGpkWUI1S1BFSGlyVlpIU2lwNlhuZG9lSDltT2p0eE5BbGRRT2ZRa2gyM1hFMA?oc=5",
         "tags": [
           "CHEMIE TECHNIK"
+        ]
+      },
+      {
+        "title": "Fraunhofer IKS: Deutschland will bei der KI-Entwicklung führend sein - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-14T07:00:00+00:00",
+        "summary": "Fraunhofer IKS: Deutschland will bei der KI-Entwicklung führend sein FAZ",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRlc3d3hpWFRDVi16T2FLMzAxczl0VUMzcElaakRfdTVJOWJ5ZnhVaHRjZ3lsSEptcUVvcWR2d1dHMWZfNHlEdlVpZXBMclFET2UxTFZhazVJTS1Wb0ViUVlIOG9XQVBEUk9fWjluWEtlOGxZVUp6Smp3c3N5UTlsUkU4VnE1enBvdEpPb0lBbThfUnB6a2pydkcxZERhTHRETUpaWGpmWGJWX1VqMGszMmduSG44N2tkcjE3emg2dGlUZzdxSGs0bGIzenROUXQ1dnQzNTVPT2VRemN5QVlF?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
