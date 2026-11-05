@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T08:55:31.651091+00:00",
+  "generatedAt": "2026-11-05T17:01:38.877721+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,6 +129,16 @@
     ],
     "pfs": [
       {
+        "title": "Rauchwarnmelder-Report - PressNetwork",
+        "source": "PressNetwork",
+        "publishedAt": "2026-11-05T09:24:36+00:00",
+        "summary": "Rauchwarnmelder-Report PressNetwork",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rRndaa0RPRE1Nbll6WFMxV2FfeEU3N0laQ3lGTGpBSXU2UWo5dWhuZzVDejdMRlphYUpRSUtYcEl1bk9DNTdtYnVvWEZ2Qlc5QzllNnhRamFRTnc?oc=5",
+        "tags": [
+          "Rauchwarnmelder"
+        ]
+      },
+      {
         "title": "Weniger Nacharbeit an der Kante | Bosch Indego M 700 jetzt zum Bestpreis - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-11-04T18:29:23+00:00",
@@ -184,7 +194,7 @@
       {
         "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
         "source": "IMTEST",
-        "publishedAt": "2026-10-31T07:15:16+00:00",
+        "publishedAt": "2026-10-31T07:15:25+00:00",
         "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTlUSjBUT3d2bERRR3QyMUtjeHI0UFNSUkVrY0t4LXNQS3ZxODh5ZGthV3lPMTllTjI3OGRPeEJRcnpMRWhkcVZkSTdzaGQwOUtNTENjQ3ZvZlRFaVAzUkctSm1sUWhOOWV1NlBBVzg3MS0tdzZmdFB5UjdGTVdJT3prVklrTThy?oc=5",
         "tags": [
@@ -238,16 +248,6 @@
         "publishedAt": "2026-09-18T07:00:00+00:00",
         "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
-        "source": "connect.de",
-        "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
         "tags": [
           "X-Sense"
         ]
@@ -335,16 +335,6 @@
         ]
       },
       {
-        "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
-        "source": "tippinpoint.ch",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden tippinpoint.ch",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
-        "tags": [
-          "tippinpoint.ch"
-        ]
-      },
-      {
         "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
@@ -373,6 +363,16 @@
         "tags": [
           "Business Insider Deutschland"
         ]
+      },
+      {
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
       }
     ],
     "trends": [
@@ -384,6 +384,16 @@
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HZHpnMkZZOGtPWWtrUU1xZ1BqdXB6cHBOVnExek9PSGtVdjlVZFFOdThscmlPOFJMZXdyTGFQbjdVTTQwdHhPLUhXQlRCcnpjdVVFY09rSWFPeGc3eHVnS0lKVmllZ2NWVVpjVHgxa1dMc3FLOXRaVA?oc=5",
         "tags": [
           "FinanzBusiness"
+        ]
+      },
+      {
+        "title": "Rewe Björn Keyser in Radebeul: Regionalität und Nachhaltigkeit - Lebensmittelpraxis.de",
+        "source": "Lebensmittelpraxis.de",
+        "publishedAt": "2026-11-04T06:40:00+00:00",
+        "summary": "Rewe Björn Keyser in Radebeul: Regionalität und Nachhaltigkeit Lebensmittelpraxis.de",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMXFJN3JvTVVSZElYd0dOMWNONHZlSWk0cmtzX1V3N1B0US1WNVFtX1ZmY3lid3E3VkhHMzR4TXZONE9HQTVTY3NGTFJQZ1I4aEZ4ZFFLV1dxenUyczBmN3pxdE9fY0lDUS02bXNleFBhSnlMMDRQMHVDNEZNRGlOMEdCNEFDNUtnYXcwcFBoaGl6LU9xMWxqRGxwVDZMTmlhYjNib3NsSTVEOVYtNVg0NUtKUXRtSGY1ZTNEMG5XSnVzLWp5ZXlWbjVoc2JGRFRqU1NnQ3ZSWkViREZtUkhRdTdWMEtNTDhnc25OXzdIVV9EdEtFM2gzdlhMWFgzLWNseE5Lbg?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
         ]
       },
       {
@@ -407,16 +417,6 @@
         ]
       },
       {
-        "title": "DAVE: ESG wird zum festen Bestandteil der Due Diligence - ImmoFokus",
-        "source": "ImmoFokus",
-        "publishedAt": "2026-11-02T09:34:00+00:00",
-        "summary": "DAVE: ESG wird zum festen Bestandteil der Due Diligence ImmoFokus",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVRwVjZXS1R5OG9sdUZQcjR0MWE5RGZMVGQ0SzUzY21HSlc1dm1qQ29OQjJIbHA0cUlZWFdqNHVwNHdsTDJiU1VEZWkwZ2NlT19aUmNKbWxheDUtVlJ2VTFCX2owb29lYjdsVEFzc1g3bWNiVVFhb2hvMXVWRTBXNmpJdw?oc=5",
-        "tags": [
-          "ESG"
-        ]
-      },
-      {
         "title": "Porsche: Beleuchtungssanierung nutzt bestehende Tragschienen - i-Magazin",
         "source": "i-Magazin",
         "publishedAt": "2026-10-30T21:33:38+00:00",
@@ -434,16 +434,6 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnozd3FNTXNjekZERVdmMENlQkpZNHZjN01DanNfcVpnTjhNLUgyQnZ0azAzVEt1MUdZN1JpZmtWdHJ0eUFSZmItengtVGpLMFRhblJXUTBnUlFNVFZVQ2o3ZGpkWUI1S1BFSGlyVlpIU2lwNlhuZG9lSDltT2p0eE5BbGRRT2ZRa2gyM1hFMA?oc=5",
         "tags": [
           "CHEMIE TECHNIK"
-        ]
-      },
-      {
-        "title": "Fraunhofer IKS: Deutschland will bei der KI-Entwicklung führend sein - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-14T07:00:00+00:00",
-        "summary": "Fraunhofer IKS: Deutschland will bei der KI-Entwicklung führend sein FAZ",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRlc3d3hpWFRDVi16T2FLMzAxczl0VUMzcElaakRfdTVJOWJ5ZnhVaHRjZ3lsSEptcUVvcWR2d1dHMWZfNHlEdlVpZXBMclFET2UxTFZhazVJTS1Wb0ViUVlIOG9XQVBEUk9fWjluWEtlOGxZVUp6Smp3c3N5UTlsUkU4VnE1enBvdEpPb0lBbThfUnB6a2pydkcxZERhTHRETUpaWGpmWGJWX1VqMGszMmduSG44N2tkcjE3emg2dGlUZzdxSGs0bGIzenROUXQ1dnQzNTVPT2VRemN5QVlF?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
@@ -483,6 +473,16 @@
         "publishedAt": "2026-09-11T07:00:00+00:00",
         "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-gestützte Brandschutz-Tools - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-09-10T07:00:00+00:00",
+        "summary": "KI-gestützte Brandschutz-Tools elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wQjZxRVl6LWJhTXJ1SGxsWVVNRHpPVzZtaFZhckltb2ktdU5aSzRtZlFvUUYyaWhLalRjYlQ2V0FpaU9HQTdWRnczLVljY2d2QTVCcW1CTVhyLWcxRVl4OFZsUEdYbnN0bVl3dUxjbzY?oc=5",
         "tags": [
           "KI"
         ]
