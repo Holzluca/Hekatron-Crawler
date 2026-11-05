@@ -1,19 +1,8 @@
 {
-  "generatedAt": "2026-11-05T17:01:38.877721+00:00",
+  "generatedAt": "2026-11-05T22:44:11.761910+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Modernisierung, Brandschutz, 165 m hoher Wolkenkratzer, Niederlande - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-10-24T09:57:59+00:00",
-        "summary": "Modernisierung, Brandschutz, 165 m hoher Wolkenkratzer, Niederlande Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONzYxazRvWFF2YVVTZC1wZVF1ZzFyTy02Tk5MOFVtR2g3cjRSdThIdnhYSHZsMElwUV9TMm56LWNKWERMdDk4V3JveDltb2dxSTJBeE9EcUJqMW5mc1ZPM2RZQmpPa0xtazBTdUlSeWFPaXZ0RDc5Mzg0RWxMcnlyOURMU05aMjZCR19BbTJfVU90QWhoajctMTlrandvMmd0eDdKOWJUZmN4dw?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
-        ]
-      },
       {
         "title": "Globaler Schutz und Schutz 2026 - Siemens",
         "source": "Siemens",
@@ -22,16 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
         ]
       },
       {
@@ -125,6 +104,26 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens Press",
+        "source": "Siemens Press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -181,17 +180,6 @@
         ]
       },
       {
-        "title": "Bosch Smart Home Raumthermostat II gegen 230 V - 85 g statt 131 g - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-10-31T18:18:16+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II gegen 230 V - 85 g statt 131 g ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1hPQzg2Y0JjanRFLWhIUWhYMkluR3gyZ2N1TW1JcWRuQTBJQzkwcFNWNlQwckQydlkxU0ZVaFZnMmpmOVJDN1phQWFsdXBxUnlzTjI4N1VoOGEwNUI4Sk1TQjNlNjdnUUYtT3l4cmVBSmFsVE1WRkRFbFo2dHJtNDlQQU5EUFJzOWFPbmVGOU9DTmM2NlFJTHFXSFEwS0tIV3FlUzJUSWFOUG1aLThxYlJabElNRHJSN0Fr?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
         "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-10-31T07:15:25+00:00",
@@ -222,6 +210,17 @@
         ]
       },
       {
+        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-21T13:09:30+00:00",
+        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "X-Sense SD11-MR: Drei vernetzte Rauchmelder im Paket - iphone-ticker.de",
         "source": "iphone-ticker.de",
         "publishedAt": "2026-10-05T07:00:00+00:00",
@@ -233,21 +232,21 @@
         ]
       },
       {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
-      {
         "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
         "source": "PCGH",
         "publishedAt": "2026-09-18T07:00:00+00:00",
         "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
+        "source": "connect.de",
+        "publishedAt": "2026-09-11T07:00:00+00:00",
+        "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
         "tags": [
           "X-Sense"
         ]
@@ -260,16 +259,6 @@
         "publishedAt": "2026-11-04T14:36:10+00:00",
         "summary": "Apollo World vs. CARI4D: Ein Kategorienfehler, erklärt OrcaRouter",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HeEJaLUVFREVTdDBON0ltWndlUFJkLTdnTllDMHJNWndDM0dNZnVZUFhScU52WTVHM1pTTk12alVURGhTbGhkdEFBSXMyODB2WEpuRlRjR1dUaHVZMFRwdzdaMkVGMG8?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo World vs. Genie 4: Ein Spezialist gegen einen Generalisten - OrcaRouter",
-        "source": "OrcaRouter",
-        "publishedAt": "2026-11-04T14:34:44+00:00",
-        "summary": "Apollo World vs. Genie 4: Ein Spezialist gegen einen Generalisten OrcaRouter",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zOVJkVmFBRU10a0dsM1R2SmpJaUZweGt0eG5sN0FTb192akQwcU1JQUFzb2FadkdHckpMV0RBTEN5dmprZlVKMWZ0RGctZkJOMzBER2VNRGdTRU9NT2JwUkt0WDhNZVBE?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -373,6 +362,16 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
@@ -404,16 +403,6 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jN212U1pLTjhkVkozYUFhYnFHam4xMnVUa2VILThMX0F3aVl3UVpiMXdQcnBvajZGUW4zYWZ1dEJJMHdrSWo4c0VWQUNuUm5fODhEQ2Y5dm4zRi1xcG9NcTdZNE5RY3pJbnhETWFMclU?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "VdS-BrandSchutzTage 2026: GEZE zeigt intelligente Systemlösungen für mehr Sicherheit in Gebäuden - Fireworld.at",
-        "source": "Fireworld.at",
-        "publishedAt": "2026-11-03T06:35:34+00:00",
-        "summary": "VdS-BrandSchutzTage 2026: GEZE zeigt intelligente Systemlösungen für mehr Sicherheit in Gebäuden Fireworld.at",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGhJS2NPQ1FLVmR0Yl85R3FGSkRrOVE2X0Q5RFEyOTI2clo1ZWRSSzVrQ1pXcUpaWVNpejNZcEZmNEwxMzd6Q1p4bDdsZmhueEF6WkRRQWRiSmgzZ3dvNC1CUE55alFDYVdqRmJGN1VtOVBVbHh4RTNzVDdjNWtOOGRJMTFqaDZHUllvV1M3OEwxRm9RbWp3S3J3Z0VCdW5fckRNVC1YQTk2WHhfQnJFT0kwS0tBSmFIRG1mckVnZ1VzTUxMa2VKRHllTkFzVG53?oc=5",
-        "tags": [
-          "Fireworld.at"
         ]
       },
       {
@@ -495,6 +484,16 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
           "SWR"
+        ]
+      },
+      {
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-28T07:00:00+00:00",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
