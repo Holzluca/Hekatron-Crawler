@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T03:01:36.516794+00:00",
+  "generatedAt": "2026-11-06T11:16:07.038988+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -170,6 +170,16 @@
         ]
       },
       {
+        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-11-03T08:21:26+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTlUSjBUT3d2bERRR3QyMUtjeHI0UFNSUkVrY0t4LXNQS3ZxODh5ZGthV3lPMTllTjI3OGRPeEJRcnpMRWhkcVZkSTdzaGQwOUtNTENjQ3ZvZlRFaVAzUkctSm1sUWhOOWV1NlBBVzg3MS0tdzZmdFB5UjdGTVdJT3prVklrTThy?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Smart Energy 201: FRITZ! präsentiert neue 50-Euro-WLAN-Steckdose mit besonderem Feature - Netzwelt",
         "source": "Netzwelt",
         "publishedAt": "2026-11-02T16:03:18+00:00",
@@ -177,16 +187,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGFQZF91Zm1TYTBYTEZyZmhwX3g5Ym1DQzhBZVgyTnQ3a05rQmZrTGpTLVdWZWFtOW1PdWUtY0RhOUZRWndwMHlOQ2steVVDSEYzQzRJWGNQQnZvYWJGel9JMVo4SjNLMHlBU2FVUXo4Zjl1V3pNY19Ja0J3WmNrMUNaejlSaDdaa3Z0OGVDQXNIbVBOS0FvX3drRFNVVWFxYkE1Mk8wc2dtTFM3YjZsTkFKYTFWSHV2eVNabVVuQmI?oc=5",
         "tags": [
           "Netzwelt"
-        ]
-      },
-      {
-        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-10-31T07:15:25+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTlUSjBUT3d2bERRR3QyMUtjeHI0UFNSUkVrY0t4LXNQS3ZxODh5ZGthV3lPMTllTjI3OGRPeEJRcnpMRWhkcVZkSTdzaGQwOUtNTENjQ3ZvZlRFaVAzUkctSm1sUWhOOWV1NlBBVzg3MS0tdzZmdFB5UjdGTVdJT3prVklrTThy?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -377,33 +377,13 @@
     ],
     "trends": [
       {
-        "title": "Nvidia prüft Umbau alter Telekom-Gebäude zu KI-Rechenzentren – The Information - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-11-05T19:54:00+00:00",
-        "summary": "Nvidia prüft Umbau alter Telekom-Gebäude zu KI-Rechenzentren – The Information Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEZyT0dUVl9JR091NUZTcFM2UWJaZi05VEtrLVNNYlF0RTB3SGM1aHJ1R1g2eVl4cGgwc0JONl8zZTRWeWZWZ0hCTmt0b1dTcXhyWVJ1TkRCYWZHV09CMEFDZTVwX2kwSGhyX1hlREswM0xjMDRhMEp3Y3RfMlJ0QXNkYU5PbzJTbkRrNDZyT0ZJSHVWNkhzaG00b2oyT1p3OWpmSUNQNHF4S1d1X0lQbUFhYXV4QVZaMEoxeElIRnpJNFVmb29LWHFkcnJlbzY3TlE?oc=5",
+        "title": "Mehr Platz für Lehre, Forschung und Verwaltung - Staatszeitung",
+        "source": "Staatszeitung",
+        "publishedAt": "2026-11-06T07:33:45+00:00",
+        "summary": "Mehr Platz für Lehre, Forschung und Verwaltung Staatszeitung",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjVST1Y3aFNNa1IwT3d2UDFxMm9MRUwtYWdIWFZ3YkJiWHlFVVJ1cVAzd28tMkt3RlZvTmhIUDFyelAzaC1ycE1yMl9mNnk0VW50VWxMcmR0NDMtTEdTemJ3dWJhRzNfN0ZiNmtncXN5UlBuenRrQUxNY01yMEVnVkR4c25JV2JDMnc5YXlzNDZDU2dTNlIyNWhHb0RiSENYOW1tV0gwUFkzZEhCV3Y4N01OaFhKZ2pReXVMUHpJUVdiU01LYzlTa3JhVVIwOTRPaUI3bmlB?oc=5",
         "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Aus für Fida: EU-Kommission begräbt ungeliebtes Open-Finance-Projekt - FinanzBusiness",
-        "source": "FinanzBusiness",
-        "publishedAt": "2026-11-04T14:44:47+00:00",
-        "summary": "Aus für Fida: EU-Kommission begräbt ungeliebtes Open-Finance-Projekt FinanzBusiness",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HZHpnMkZZOGtPWWtrUU1xZ1BqdXB6cHBOVnExek9PSGtVdjlVZFFOdThscmlPOFJMZXdyTGFQbjdVTTQwdHhPLUhXQlRCcnpjdVVFY09rSWFPeGc3eHVnS0lKVmllZ2NWVVpjVHgxa1dMc3FLOXRaVA?oc=5",
-        "tags": [
-          "FinanzBusiness"
-        ]
-      },
-      {
-        "title": "Porsche: Beleuchtungssanierung nutzt bestehende Tragschienen - i-Magazin",
-        "source": "i-Magazin",
-        "publishedAt": "2026-10-30T21:33:38+00:00",
-        "summary": "Porsche: Beleuchtungssanierung nutzt bestehende Tragschienen i-Magazin",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JdUgtY1JfQmhMWVppMXNYRUhha3pOaHFtV0U0alltYkZvWFlBTl80SkZiNFllWUJKeGZpbHowRWlSTFNEQVRZdWhrSm1oRG5lVnAxeTFSNmxfT0l4TWptbloyeVIwbnhlUEZUM2M0R3loblhuaUxjRGVVQQ?oc=5",
-        "tags": [
-          "i-Magazin"
+          "Staatszeitung"
         ]
       },
       {
@@ -493,6 +473,26 @@
         "publishedAt": "2026-08-21T07:00:00+00:00",
         "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
+        "source": "tagesschau.de",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
+        "source": "ARD Mediathek",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
         ]
