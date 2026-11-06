@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:16:07.038988+00:00",
+  "generatedAt": "2026-11-06T18:10:35.540579+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -66,16 +66,6 @@
         ]
       },
       {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - NZZ",
         "source": "NZZ",
         "publishedAt": "2026-04-01T07:00:00+00:00",
@@ -124,9 +114,30 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Neues Level bei der Rauchwarnmelder-Bewirtschaftung - PressNetwork",
+        "source": "PressNetwork",
+        "publishedAt": "2026-11-06T13:44:45+00:00",
+        "summary": "Neues Level bei der Rauchwarnmelder-Bewirtschaftung PressNetwork",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVDE3cXpOcFR1UEJBVEZGeHJKRkV4bzNDLXBFcEVOdHkzTHBQTzBhOVdYa21MSGlWWXhmeUl6Z2l6c2thOGNYdTJ5NTlTVU9ZV3R0ZFFHalVPb2h0N0FUQVptR3lQTmRhYmc5TlZON005S0Y1cFc3Q3lxREdReEc5RWtn?oc=5",
+        "tags": [
+          "Ei",
+          "Rauchwarnmelder"
+        ]
+      },
       {
         "title": "Rauchwarnmelder-Report - PressNetwork",
         "source": "PressNetwork",
@@ -135,17 +146,6 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rRndaa0RPRE1Nbll6WFMxV2FfeEU3N0laQ3lGTGpBSXU2UWo5dWhuZzVDejdMRlphYUpRSUtYcEl1bk9DNTdtYnVvWEZ2Qlc5QzllNnhRamFRTnc?oc=5",
         "tags": [
           "Rauchwarnmelder"
-        ]
-      },
-      {
-        "title": "Weniger Nacharbeit an der Kante | Bosch Indego M 700 jetzt zum Bestpreis - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-11-04T18:29:23+00:00",
-        "summary": "Weniger Nacharbeit an der Kante | Bosch Indego M 700 jetzt zum Bestpreis SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42d0FzR2pyYW1KdVpvRW1GOUt4RVBhZ1hVTFpfYy1tN2hybnlYS3Y4WUYtdWpoenc5Y2o0TW9CTnNYbTdmT0dtLTA3VXpkRTdHM3VkM2VYYjhvMEFtQ0dtajRYS3htSFBSMUREU2Q1NFRiRDFpelVGY3pncw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
         ]
       },
       {
@@ -210,6 +210,17 @@
         ]
       },
       {
+        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-21T13:09:30+00:00",
+        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "X-Sense SD11-MR: Drei vernetzte Rauchmelder im Paket - iphone-ticker.de",
         "source": "iphone-ticker.de",
         "publishedAt": "2026-10-05T07:00:00+00:00",
@@ -239,41 +250,9 @@
         "tags": [
           "X-Sense"
         ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
-        "tags": [
-          "Bosch",
-          "Rauchwarnmelder",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
-      {
-        "title": "Apollo World vs. CARI4D: Ein Kategorienfehler, erklärt - OrcaRouter",
-        "source": "OrcaRouter",
-        "publishedAt": "2026-11-04T14:36:10+00:00",
-        "summary": "Apollo World vs. CARI4D: Ein Kategorienfehler, erklärt OrcaRouter",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HeEJaLUVFREVTdDBON0ltWndlUFJkLTdnTllDMHJNWndDM0dNZnVZUFhScU52WTVHM1pTTk12alVURGhTbGhkdEFBSXMyODB2WEpuRlRjR1dUaHVZMFRwdzdaMkVGMG8?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt - OrcaRouter",
-        "source": "OrcaRouter",
-        "publishedAt": "2026-11-04T14:31:39+00:00",
-        "summary": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt OrcaRouter",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nOE84SXNENTlKM0xLbl81YnZHbWdWQUlBbnJHZkk3a1AzXzlOMzZNNnF4LWdhLS1aMWNMUjdQeEd5OW1BaVA5dmtVSnFSckFiWndBMXJfVENhN2FuRFNPbjVHcEdUcHhZ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Ein Projekt im Wohnungsbau könnte die Argumente für eine Investition in die Aktie von Apollo Global Management (APO) verändern - Simply Wall St",
         "source": "Simply Wall St",
@@ -290,6 +269,16 @@
         "publishedAt": "2026-09-17T07:00:00+00:00",
         "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten - Badische Neueste Nachrichten",
+        "source": "Badische Neueste Nachrichten",
+        "publishedAt": "2026-09-16T07:00:00+00:00",
+        "summary": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten Badische Neueste Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaEc0RGhQQjlKSWpkT0RUWFlDME1QRkhPeTVQUmVuQ1hYNGh6SVRMUWl5eFo5OE9zVG9TY1ZkVDEzUWw3Tjd5blBPYlpkbzZwSEdOd3czLS1qR1ZMM1FpSmE5N0VHQU5KNHljaEo0SFNjWXoyNWswZXNidWl4WDdfNi1vc202eWlRbHRuRmhXVzIzc3ZrT1cwVjFnMHVacS1Wc1dqemFYV0s3c2ZyVURzMUtSM0FFT3gwLVdEVUJBbU9PUFpNcnlIU2V0TkpvNVNDVWx2M1VOcXRWTDZlSTN1bG5nSXRUOE1EWk1KLV9YN0Q?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -373,6 +362,16 @@
         "tags": [
           "GEZE"
         ]
+      },
+      {
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
+        "source": "handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
@@ -384,6 +383,16 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjVST1Y3aFNNa1IwT3d2UDFxMm9MRUwtYWdIWFZ3YkJiWHlFVVJ1cVAzd28tMkt3RlZvTmhIUDFyelAzaC1ycE1yMl9mNnk0VW50VWxMcmR0NDMtTEdTemJ3dWJhRzNfN0ZiNmtncXN5UlBuenRrQUxNY01yMEVnVkR4c25JV2JDMnc5YXlzNDZDU2dTNlIyNWhHb0RiSENYOW1tV0gwUFkzZEhCV3Y4N01OaFhKZ2pReXVMUHpJUVdiU01LYzlTa3JhVVIwOTRPaUI3bmlB?oc=5",
         "tags": [
           "Staatszeitung"
+        ]
+      },
+      {
+        "title": "Aus für Fida: EU-Kommission begräbt ungeliebtes Open-Finance-Projekt - FinanzBusiness",
+        "source": "FinanzBusiness",
+        "publishedAt": "2026-11-04T14:44:47+00:00",
+        "summary": "Aus für Fida: EU-Kommission begräbt ungeliebtes Open-Finance-Projekt FinanzBusiness",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HZHpnMkZZOGtPWWtrUU1xZ1BqdXB6cHBOVnExek9PSGtVdjlVZFFOdThscmlPOFJMZXdyTGFQbjdVTTQwdHhPLUhXQlRCcnpjdVVFY09rSWFPeGc3eHVnS0lKVmllZ2NWVVpjVHgxa1dMc3FLOXRaVA?oc=5",
+        "tags": [
+          "FinanzBusiness"
         ]
       },
       {
@@ -483,16 +492,6 @@
         "publishedAt": "2026-08-19T07:00:00+00:00",
         "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
         ]
