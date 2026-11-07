@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T20:22:26.995873+00:00",
+  "generatedAt": "2026-11-07T23:45:28.887610+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -140,6 +140,16 @@
         ]
       },
       {
+        "title": "Home Assistant 2026.11 ist da und bringt diese Neuerungen - techbook",
+        "source": "techbook",
+        "publishedAt": "2026-11-06T17:10:00+00:00",
+        "summary": "Home Assistant 2026.11 ist da und bringt diese Neuerungen techbook",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaDhmZldKbjBGazVZZEd4WWZQdzdOc1QzbnZqNy1ZakM3ck9kUmRPSTZUVGZEbVBseEpIYmhCNTJrakMzT1E3SF9iWllGZFRtLURJUkRGNW42Vnlza2gyaFBCRGFPYkVz?oc=5",
+        "tags": [
+          "techbook"
+        ]
+      },
+      {
         "title": "Rauchwarnmelder-Report - PressNetwork",
         "source": "PressNetwork",
         "publishedAt": "2026-11-05T09:24:36+00:00",
@@ -219,17 +229,6 @@
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-21T13:09:30+00:00",
-        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       },
       {
@@ -377,6 +376,16 @@
     ],
     "trends": [
       {
+        "title": "Nvidia prüft Umbau alter Telekom-Gebäude zu KI-Rechenzentren – The Information - Investing.com Deutsch",
+        "source": "Investing.com Deutsch",
+        "publishedAt": "2026-11-05T19:54:00+00:00",
+        "summary": "Nvidia prüft Umbau alter Telekom-Gebäude zu KI-Rechenzentren – The Information Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEZyT0dUVl9JR091NUZTcFM2UWJaZi05VEtrLVNNYlF0RTB3SGM1aHJ1R1g2eVl4cGgwc0JONl8zZTRWeWZWZ0hCTmt0b1dTcXhyWVJ1TkRCYWZHV09CMEFDZTVwX2kwSGhyX1hlREswM0xjMDRhMEp3Y3RfMlJ0QXNkYU5PbzJTbkRrNDZyT0ZJSHVWNkhzaG00b2oyT1p3OWpmSUNQNHF4S1d1X0lQbUFhYXV4QVZaMEoxeElIRnpJNFVmb29LWHFkcnJlbzY3TlE?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
         "title": "Retrofit: neues Leben für bestehende Anlagen - Vogel Communications Group",
         "source": "Vogel Communications Group",
         "publishedAt": "2026-10-12T07:00:00+00:00",
@@ -484,16 +493,6 @@
         "publishedAt": "2026-08-19T07:00:00+00:00",
         "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
         ]
