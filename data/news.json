@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T09:45:22.007435+00:00",
+  "generatedAt": "2026-11-07T16:00:58.864487+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -222,14 +222,14 @@
         ]
       },
       {
-        "title": "X-Sense SD11-MR: Drei vernetzte Rauchmelder im Paket - iphone-ticker.de",
-        "source": "iphone-ticker.de",
-        "publishedAt": "2026-10-05T07:00:00+00:00",
-        "summary": "X-Sense SD11-MR: Drei vernetzte Rauchmelder im Paket iphone-ticker.de",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUIzdXRFc0dXNlYxNjhXV0R4UXVYWGdaaVlNNlI3TmstcnpiX3BtZUlvdDc1OFZLMks4Vk9JVWJKM0pxSmVuYi1SUEdRcGhuVEJiWE9ndmUyY1hnaWhhQ21iMUtubVloSFhodFlIWHd6UXBZZHRmN2JTNUx2OFpiUUNwYUJpYnBieU1wbHRENUxnTTFlak9v?oc=5",
+        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-21T13:09:30+00:00",
+        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
         "tags": [
-          "Ei",
-          "X-Sense"
+          "Bosch",
+          "Smart Home"
         ]
       },
       {
@@ -325,6 +325,16 @@
         ]
       },
       {
+        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
+        "source": "Apollo News",
+        "publishedAt": "2026-08-13T07:00:00+00:00",
+        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze Apollo News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
@@ -363,67 +373,17 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
       }
     ],
     "trends": [
       {
-        "title": "Mehr Platz für Lehre, Forschung und Verwaltung - Staatszeitung",
-        "source": "Staatszeitung",
-        "publishedAt": "2026-11-06T07:33:45+00:00",
-        "summary": "Mehr Platz für Lehre, Forschung und Verwaltung Staatszeitung",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjVST1Y3aFNNa1IwT3d2UDFxMm9MRUwtYWdIWFZ3YkJiWHlFVVJ1cVAzd28tMkt3RlZvTmhIUDFyelAzaC1ycE1yMl9mNnk0VW50VWxMcmR0NDMtTEdTemJ3dWJhRzNfN0ZiNmtncXN5UlBuenRrQUxNY01yMEVnVkR4c25JV2JDMnc5YXlzNDZDU2dTNlIyNWhHb0RiSENYOW1tV0gwUFkzZEhCV3Y4N01OaFhKZ2pReXVMUHpJUVdiU01LYzlTa3JhVVIwOTRPaUI3bmlB?oc=5",
+        "title": "Retrofit: neues Leben für bestehende Anlagen - Vogel Communications Group",
+        "source": "Vogel Communications Group",
+        "publishedAt": "2026-10-12T07:00:00+00:00",
+        "summary": "Retrofit: neues Leben für bestehende Anlagen Vogel Communications Group",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenRBSVVPZmhHSWNzSVBZaG5wTmwtdzQzdnlOTEZkVUtzRGRNOHVTWlN6cldldTdSM2hMSmpIN3JoQ2taY1pkY1dTWnVxcThqZVlyYmtkeEhHbm5mclZGQWdRVmw4Y19hZFhBWVI5MjVwM1FBUFBMVnNRNk5RZkZhd3lrb0E1dTNhc1FOSExDaTU4bDlqTXE0S2NoQ19GbFhmUGNfMUd2MnBiU3B4ajRxY21JOTdpUWM?oc=5",
         "tags": [
-          "Staatszeitung"
-        ]
-      },
-      {
-        "title": "Aus für Fida: EU-Kommission begräbt ungeliebtes Open-Finance-Projekt - FinanzBusiness",
-        "source": "FinanzBusiness",
-        "publishedAt": "2026-11-04T14:44:47+00:00",
-        "summary": "Aus für Fida: EU-Kommission begräbt ungeliebtes Open-Finance-Projekt FinanzBusiness",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HZHpnMkZZOGtPWWtrUU1xZ1BqdXB6cHBOVnExek9PSGtVdjlVZFFOdThscmlPOFJMZXdyTGFQbjdVTTQwdHhPLUhXQlRCcnpjdVVFY09rSWFPeGc3eHVnS0lKVmllZ2NWVVpjVHgxa1dMc3FLOXRaVA?oc=5",
-        "tags": [
-          "FinanzBusiness"
-        ]
-      },
-      {
-        "title": "Rewe Björn Keyser in Radebeul: Regionalität und Nachhaltigkeit - Lebensmittelpraxis.de",
-        "source": "Lebensmittelpraxis.de",
-        "publishedAt": "2026-11-04T06:40:00+00:00",
-        "summary": "Rewe Björn Keyser in Radebeul: Regionalität und Nachhaltigkeit Lebensmittelpraxis.de",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMXFJN3JvTVVSZElYd0dOMWNONHZlSWk0cmtzX1V3N1B0US1WNVFtX1ZmY3lid3E3VkhHMzR4TXZONE9HQTVTY3NGTFJQZ1I4aEZ4ZFFLV1dxenUyczBmN3pxdE9fY0lDUS02bXNleFBhSnlMMDRQMHVDNEZNRGlOMEdCNEFDNUtnYXcwcFBoaGl6LU9xMWxqRGxwVDZMTmlhYjNib3NsSTVEOVYtNVg0NUtKUXRtSGY1ZTNEMG5XSnVzLWp5ZXlWbjVoc2JGRFRqU1NnQ3ZSWkViREZtUkhRdTdWMEtNTDhnc25OXzdIVV9EdEtFM2gzdlhMWFgzLWNseE5Lbg?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
-        ]
-      },
-      {
-        "title": "Zoll und Grenzsicherheit im Dauereinsatz: Neun Bilder zeigen den vielfältigen Alltag der Teams - Polizeinews.ch",
-        "source": "Polizeinews.ch",
-        "publishedAt": "2026-10-31T10:40:36+00:00",
-        "summary": "Zoll und Grenzsicherheit im Dauereinsatz: Neun Bilder zeigen den vielfältigen Alltag der Teams Polizeinews.ch",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaWh2T3FvcmI5VV9aQXUyWVNkdnZpeDFsRmpOUUtuVzhJZ3o3eGVaZTdtZDhDVW85aU51ZzFlb3l0WDVnVHdDZ1VYSEotRm9EX0E2cmxHSklYM2d3eWsxR2VZVTVoX2xkU3hVcDRaZ1VUeExmSEhrV0Nuc3pmcEllVE9PRXRDY0tCajRHb3k2c2FKN1NvUzdpcVRQajQ2OTlFT2N1S2tHOWZPVGpScEV1VF9CRTV2QlVRbnBFNHJFMENkWTRvcTdkMEViNEs1QQ?oc=5",
-        "tags": [
-          "Polizeinews.ch"
-        ]
-      },
-      {
-        "title": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf - CHEMIE TECHNIK",
-        "source": "CHEMIE TECHNIK",
-        "publishedAt": "2026-10-14T07:00:00+00:00",
-        "summary": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf CHEMIE TECHNIK",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnozd3FNTXNjekZERVdmMENlQkpZNHZjN01DanNfcVpnTjhNLUgyQnZ0azAzVEt1MUdZN1JpZmtWdHJ0eUFSZmItengtVGpLMFRhblJXUTBnUlFNVFZVQ2o3ZGpkWUI1S1BFSGlyVlpIU2lwNlhuZG9lSDltT2p0eE5BbGRRT2ZRa2gyM1hFMA?oc=5",
-        "tags": [
-          "CHEMIE TECHNIK"
+          "Retrofit"
         ]
       },
       {
@@ -496,6 +456,46 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
           "SWR"
+        ]
+      },
+      {
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-28T07:00:00+00:00",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
+        "source": "Infopoint Security",
+        "publishedAt": "2026-08-21T07:00:00+00:00",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
+        "source": "tagesschau.de",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
+        "source": "ARD Mediathek",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
