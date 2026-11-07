@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:00:58.864487+00:00",
+  "generatedAt": "2026-11-07T20:22:26.995873+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,14 +129,14 @@
     ],
     "pfs": [
       {
-        "title": "Neues Level bei der Rauchwarnmelder-Bewirtschaftung - PressNetwork",
-        "source": "PressNetwork",
-        "publishedAt": "2026-11-06T13:44:45+00:00",
-        "summary": "Neues Level bei der Rauchwarnmelder-Bewirtschaftung PressNetwork",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVDE3cXpOcFR1UEJBVEZGeHJKRkV4bzNDLXBFcEVOdHkzTHBQTzBhOVdYa21MSGlWWXhmeUl6Z2l6c2thOGNYdTJ5NTlTVU9ZV3R0ZFFHalVPb2h0N0FUQVptR3lQTmRhYmc5TlZON005S0Y1cFc3Q3lxREdReEc5RWtn?oc=5",
+        "title": "Home Connect | Neuer Treiber bindet Bosch, Siemens und Neff lokal in SmartThings ein - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-11-07T18:00:27+00:00",
+        "summary": "Home Connect | Neuer Treiber bindet Bosch, Siemens und Neff lokal in SmartThings ein SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0VJdkVqS0J5RXhsRWp4am9raC1xVVpLdnh2b2Z1ZEFONTBPajA1dHVyQzhiWExmMTBNYkRtN3FtZWhKTU12WXRlbHkyTXphMW1DZGRWTllOYnhDX2xibVc3OEg5dGZnTURzV0UzYlU1S0tVOWxqZ1dYU3dJZ3FFWWhNS1V6SGUwSlNWWUUzY05iZExhUUFYa25yOWJUNENXR3l2SWg3R0RHZ1owTTFYOERPZzkzUW8?oc=5",
         "tags": [
           "Ei",
-          "Rauchwarnmelder"
+          "Bosch"
         ]
       },
       {
@@ -325,16 +325,6 @@
         ]
       },
       {
-        "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
-        "source": "Apollo News",
-        "publishedAt": "2026-08-13T07:00:00+00:00",
-        "summary": "Berliner Volksbad erlaubt Zugang nur für Schwarze Apollo News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlZDdGQyN2tsWGpWT2pLX3JZTlZUbjFvRFFkN3pOZUl3SUxieV90bG42enY1N1dlZFcya2t6azAyell5TENkcVdtallnWDh3TDNHWVh5LWF0OGZYUE1DN2FaSjJ6SHVuVW1ZWi1RMWhhT05sWkd1S1lyVTBlNnlWb0Rnc0hZdVRrQVlzYzZZRmNfRnhLVnVQMUZFLWpaVl84?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
@@ -372,6 +362,16 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
         ]
       }
     ],
