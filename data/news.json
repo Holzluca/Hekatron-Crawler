@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T23:45:28.887610+00:00",
+  "generatedAt": "2026-11-08T03:52:15.954309+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -160,17 +160,6 @@
         ]
       },
       {
-        "title": "Weniger Nacharbeit an der Kante | Bosch Indego M 700 jetzt zum Bestpreis - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-11-04T18:29:23+00:00",
-        "summary": "Weniger Nacharbeit an der Kante | Bosch Indego M 700 jetzt zum Bestpreis SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42d0FzR2pyYW1KdVpvRW1GOUt4RVBhZ1hVTFpfYy1tN2hybnlYS3Y4WUYtdWpoenc5Y2o0TW9CTnNYbTdmT0dtLTA3VXpkRTdHM3VkM2VYYjhvMEFtQ0dtajRYS3htSFBSMUREU2Q1NFRiRDFpelVGY3pncw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "Der beste Rauchmelder: Pyrexx schlägt besonders schnell Alarm - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-11-04T14:57:00+00:00",
@@ -232,6 +221,17 @@
         ]
       },
       {
+        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-21T13:09:30+00:00",
+        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
         "publishedAt": "2026-10-01T07:00:00+00:00",
@@ -253,16 +253,6 @@
       }
     ],
     "doors": [
-      {
-        "title": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt - OrcaRouter",
-        "source": "OrcaRouter",
-        "publishedAt": "2026-11-04T14:31:39+00:00",
-        "summary": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt OrcaRouter",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nOE84SXNENTlKM0xLbl81YnZHbWdWQUlBbnJHZkk3a1AzXzlOMzZNNnF4LWdhLS1aMWNMUjdQeEd5OW1BaVA5dmtVSnFSckFiWndBMXJfVENhN2FuRFNPbjVHcEdUcHhZ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Ein Projekt im Wohnungsbau könnte die Argumente für eine Investition in die Aktie von Apollo Global Management (APO) verändern - Simply Wall St",
         "source": "Simply Wall St",
@@ -372,9 +362,29 @@
         "tags": [
           "GEZE"
         ]
+      },
+      {
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
+        "source": "handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
+      {
+        "title": "Mehr Platz für Lehre, Forschung und Verwaltung - Staatszeitung",
+        "source": "Staatszeitung",
+        "publishedAt": "2026-11-06T07:33:45+00:00",
+        "summary": "Mehr Platz für Lehre, Forschung und Verwaltung Staatszeitung",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjVST1Y3aFNNa1IwT3d2UDFxMm9MRUwtYWdIWFZ3YkJiWHlFVVJ1cVAzd28tMkt3RlZvTmhIUDFyelAzaC1ycE1yMl9mNnk0VW50VWxMcmR0NDMtTEdTemJ3dWJhRzNfN0ZiNmtncXN5UlBuenRrQUxNY01yMEVnVkR4c25JV2JDMnc5YXlzNDZDU2dTNlIyNWhHb0RiSENYOW1tV0gwUFkzZEhCV3Y4N01OaFhKZ2pReXVMUHpJUVdiU01LYzlTa3JhVVIwOTRPaUI3bmlB?oc=5",
+        "tags": [
+          "Staatszeitung"
+        ]
+      },
       {
         "title": "Nvidia prüft Umbau alter Telekom-Gebäude zu KI-Rechenzentren – The Information - Investing.com Deutsch",
         "source": "Investing.com Deutsch",
@@ -483,16 +493,6 @@
         "publishedAt": "2026-08-21T07:00:00+00:00",
         "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
-        "source": "tagesschau.de",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
         ]
