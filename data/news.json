@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T03:52:15.954309+00:00",
+  "generatedAt": "2026-11-08T10:58:25.317614+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -181,26 +181,6 @@
         ]
       },
       {
-        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-11-03T08:21:26+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTlUSjBUT3d2bERRR3QyMUtjeHI0UFNSUkVrY0t4LXNQS3ZxODh5ZGthV3lPMTllTjI3OGRPeEJRcnpMRWhkcVZkSTdzaGQwOUtNTENjQ3ZvZlRFaVAzUkctSm1sUWhOOWV1NlBBVzg3MS0tdzZmdFB5UjdGTVdJT3prVklrTThy?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Smart Energy 201: FRITZ! präsentiert neue 50-Euro-WLAN-Steckdose mit besonderem Feature - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-11-02T16:03:18+00:00",
-        "summary": "Smart Energy 201: FRITZ! präsentiert neue 50-Euro-WLAN-Steckdose mit besonderem Feature Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGFQZF91Zm1TYTBYTEZyZmhwX3g5Ym1DQzhBZVgyTnQ3a05rQmZrTGpTLVdWZWFtOW1PdWUtY0RhOUZRWndwMHlOQ2steVVDSEYzQzRJWGNQQnZvYWJGel9JMVo4SjNLMHlBU2FVUXo4Zjl1V3pNY19Ja0J3WmNrMUNaejlSaDdaa3Z0OGVDQXNIbVBOS0FvX3drRFNVVWFxYkE1Mk8wc2dtTFM3YjZsTkFKYTFWSHV2eVNabVVuQmI?oc=5",
-        "tags": [
-          "Netzwelt"
-        ]
-      },
-      {
         "title": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-10-23T07:00:00+00:00",
@@ -218,17 +198,6 @@
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-21T13:09:30+00:00",
-        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
         ]
       },
       {
@@ -250,9 +219,53 @@
         "tags": [
           "X-Sense"
         ]
+      },
+      {
+        "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
+        "source": "connect.de",
+        "publishedAt": "2026-09-11T07:00:00+00:00",
+        "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "tags": [
+          "Bosch",
+          "Rauchwarnmelder",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt - OrcaRouter",
+        "source": "OrcaRouter",
+        "publishedAt": "2026-11-04T14:31:39+00:00",
+        "summary": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt OrcaRouter",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nOE84SXNENTlKM0xLbl81YnZHbWdWQUlBbnJHZkk3a1AzXzlOMzZNNnF4LWdhLS1aMWNMUjdQeEd5OW1BaVA5dmtVSnFSckFiWndBMXJfVENhN2FuRFNPbjVHcEdUcHhZ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Ein Projekt im Wohnungsbau könnte die Argumente für eine Investition in die Aktie von Apollo Global Management (APO) verändern - Simply Wall St",
         "source": "Simply Wall St",
@@ -314,6 +327,16 @@
         ]
       },
       {
+        "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
+        "source": "tippinpoint.ch",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden tippinpoint.ch",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
+        "tags": [
+          "tippinpoint.ch"
+        ]
+      },
+      {
         "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-07-10T07:00:00+00:00",
@@ -352,29 +375,19 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Muss das wirklich weg? Diese Aachener Architekten kämpfen gegen Deutschlands Abrisskultur - Aachener Zeitung",
+        "source": "Aachener Zeitung",
+        "publishedAt": "2026-11-07T09:00:00+00:00",
+        "summary": "Muss das wirklich weg? Diese Aachener Architekten kämpfen gegen Deutschlands Abrisskultur Aachener Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdjYtV0Z2bUx2cWYyekNvdEN6a05pX2hzdUxOQWl0akx0cVZUQlR2M0ZwTEQ2SFo4cDdic09oU0M3dXZNd05GUDMyS0xHR2t3Wm9qMmEyZ2QtV0FDdkpKdmhkbWljcDVUMjlzSUM3WVZReUFsb0VQbklUQXlyTy1waDJNMVhxRlBKaEU5ZGhab0gtY2Nma1E4RS1JRFd6VUhMZHBXWmhpYXJCMklyekRFR3A2N3RKZFg4ZDhLMk1udW00MUhtcUhHNUc5a2s5ZXNVazQwNFhlZFg3b1hiNWhxM2NHVVNvbVpyck5faUhLV2NHbnA5U00xLQ?oc=5",
+        "tags": [
+          "Aachener Zeitung"
+        ]
+      },
       {
         "title": "Mehr Platz für Lehre, Forschung und Verwaltung - Staatszeitung",
         "source": "Staatszeitung",
@@ -383,16 +396,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjVST1Y3aFNNa1IwT3d2UDFxMm9MRUwtYWdIWFZ3YkJiWHlFVVJ1cVAzd28tMkt3RlZvTmhIUDFyelAzaC1ycE1yMl9mNnk0VW50VWxMcmR0NDMtTEdTemJ3dWJhRzNfN0ZiNmtncXN5UlBuenRrQUxNY01yMEVnVkR4c25JV2JDMnc5YXlzNDZDU2dTNlIyNWhHb0RiSENYOW1tV0gwUFkzZEhCV3Y4N01OaFhKZ2pReXVMUHpJUVdiU01LYzlTa3JhVVIwOTRPaUI3bmlB?oc=5",
         "tags": [
           "Staatszeitung"
-        ]
-      },
-      {
-        "title": "Nvidia prüft Umbau alter Telekom-Gebäude zu KI-Rechenzentren – The Information - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-11-05T19:54:00+00:00",
-        "summary": "Nvidia prüft Umbau alter Telekom-Gebäude zu KI-Rechenzentren – The Information Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEZyT0dUVl9JR091NUZTcFM2UWJaZi05VEtrLVNNYlF0RTB3SGM1aHJ1R1g2eVl4cGgwc0JONl8zZTRWeWZWZ0hCTmt0b1dTcXhyWVJ1TkRCYWZHV09CMEFDZTVwX2kwSGhyX1hlREswM0xjMDRhMEp3Y3RfMlJ0QXNkYU5PbzJTbkRrNDZyT0ZJSHVWNkhzaG00b2oyT1p3OWpmSUNQNHF4S1d1X0lQbUFhYXV4QVZaMEoxeElIRnpJNFVmb29LWHFkcnJlbzY3TlE?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
