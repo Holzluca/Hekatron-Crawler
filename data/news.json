@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T16:56:29.006712+00:00",
+  "generatedAt": "2026-11-08T20:56:51.805852+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -22,16 +22,6 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
         ]
       },
       {
@@ -122,6 +112,16 @@
         "publishedAt": "2026-03-27T07:00:00+00:00",
         "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens Press",
+        "source": "Siemens Press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -221,16 +221,6 @@
         ]
       },
       {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
-      {
         "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
         "source": "PCGH",
         "publishedAt": "2026-09-18T07:00:00+00:00",
@@ -249,19 +239,21 @@
         "tags": [
           "X-Sense"
         ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "tags": [
+          "Bosch",
+          "Rauchwarnmelder",
+          "Smart Home"
+        ]
       }
     ],
     "doors": [
-      {
-        "title": "Apollo Dash: günstiger Elektroroller mit Bosch-Motor und 48 Volt - Tuningblog",
-        "source": "Tuningblog",
-        "publishedAt": "2026-11-07T06:16:46+00:00",
-        "summary": "Apollo Dash: günstiger Elektroroller mit Bosch-Motor und 48 Volt Tuningblog",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbnlmdFRvXzRNMXBVcVVpRnNoRlFHMFRxTDRSRjNxcFlIa2dma01lTVp5Y0ZvRThuYkF2cW95SVhPUHBrOE9uQUNNM1dReEdxb0xLMkFPTEF2UmhudXpuZmo3S0R2ay1NaWE3Nnk3S1dpTldQMi0xN1BweUhuNVJIcWVhd0djRFREUk94M0NDVk8ySEY4?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
       {
         "title": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt - OrcaRouter",
         "source": "OrcaRouter",
@@ -270,6 +262,26 @@
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nOE84SXNENTlKM0xLbl81YnZHbWdWQUlBbnJHZkk3a1AzXzlOMzZNNnF4LWdhLS1aMWNMUjdQeEd5OW1BaVA5dmtVSnFSckFiWndBMXJfVENhN2FuRFNPbjVHcEdUcHhZ?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Ein Projekt im Wohnungsbau könnte die Argumente für eine Investition in die Aktie von Apollo Global Management (APO) verändern - Simply Wall St",
+        "source": "Simply Wall St",
+        "publishedAt": "2026-11-02T09:29:20+00:00",
+        "summary": "Ein Projekt im Wohnungsbau könnte die Argumente für eine Investition in die Aktie von Apollo Global Management (APO) verändern Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUkpsbGRGVVRpeWZ0dUg3cTRlU0JyUmFEZ0VDWS1PN1R6Y1cyNzFuS0ZaeU1PTG9rNVQ3ZXNLZlNPTHo1NnZESjg1M0lLV2VLT3FXLXZkN1lTYldtV3N1TmpoZHRkT0YyTmNkaGExWXdqMTFFZ2hBcktlYTVFNlVSbU1abllOVS1BYm9IcVd3aWtwOGF2dGJVbHJ4OE5uQmtVbnNyLWVBLTEzWVEzckgtSHp4RjFreXMybE9UNWp3VU9UR1NaLS1sU0hzOFptN1pyaWlkVkNzZlczMlpNOEJscWtHY0dfZ1B1eVJoWjhB0gHzAUFVX3lxTFBpbnNWYW5VWUp6Y0FfdktKaW9VWkxEYmRjZk9JWjBrRG56bXVsX1M5NkVaV2hVNGM3bXExcVhDM3RzLTRvSHI1Wmc1bU5Rdjd6T0dpaGdfLTVpVWM2WjRSZDdmS0p6UUZSelJ6aERTRGhkRnRiV3ZaQ0k2TlpVUy12R1l5ZHMwQkN1Zjk1QzUzajVQVzZoTklXcDlicndqdTYxY2ZHRXc3RkFCbDBrUHE4dGlJYVZrVWJOeURqOUtzYVhOQ2d2MTRaM05MTnB5ZnN4bkQ4a2Y3OEdkbm5VbTVHWXJjWlY0dFhJanYySl9SVE1TYw?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Italienische Gerichte frieren Vermögen ehemaliger Angestellter in einem Betrugsfall um Rubbellose ein - BNLData",
+        "source": "BNLData",
+        "publishedAt": "2026-10-27T22:55:41+00:00",
+        "summary": "Italienische Gerichte frieren Vermögen ehemaliger Angestellter in einem Betrugsfall um Rubbellose ein BNLData",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXhzcVphRURObGJPOFhPd2c1Y0M4OFlEMGhFZENldlNWSnhBdFdjWWt5U1lLbEkxT0RxSU44bWJ3MjF0TW9Wd05rbHhJU0g0WTY2d0F6el9iUnBVWFBYbEhUZkRONGRVUG1YeGtJMXg0bmV0TF9LUlBXdXoxZmY4RE9tbHlTQ0RMVWs5N05GVVJueHVIOW5RUWoxZHV5aTlUTjltcw?oc=5",
+        "tags": [
+          "BNLData"
         ]
       },
       {
@@ -293,16 +305,6 @@
         ]
       },
       {
-        "title": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo - Automobilwoche",
-        "source": "Automobilwoche",
-        "publishedAt": "2026-08-20T07:00:00+00:00",
-        "summary": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo Automobilwoche",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGhGVlFCUDJOdW5NdlNvbnp0aE1Ub1N4bTM3eTVCX1BQXzJlUnYxeEwxcURfcmtQMFlDVzFZQ2JIQnp2Q29QNDk5aUk2VHJBMFQxdlM1djBjV0I0X05feWxQSlRVbXR1UklZa0NOT0RCS21rWFJQR0hZekxKR1R2dE43SVUzdkJqU0pJMXNQMVo1UE1rUUE?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
         "source": "Manager Magazin",
         "publishedAt": "2026-08-19T07:00:00+00:00",
@@ -323,13 +325,23 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
+        "title": "Easyjet-Übernahme: Apollo siegt im Bieterrennen - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-06T07:00:00+00:00",
+        "summary": "Easyjet-Übernahme: Apollo siegt im Bieterrennen FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQczRnRThvcEhIcFpVUkU2c2FBU3ltOWRFV2p1cThsNzlkQTZoNFlrZXNsRjF5Uk5MeDNRU3R0Q2RkdXYweEZvN2tPUmJzRG9SV1VsYW9pY3hOWkhZeTk0VEtuQXo3enFPZTNDX0ExcC1ISEpYT0MySFFTa3Q3VzVQMU8zSW9WaXdWOEJ2eXpUT0lEY2t1WHlJd2JHbkRuWmcwelU0aFA0T3F0WjVHQmtRR3Z5SQ?oc=5",
         "tags": [
           "Apollo"
+        ]
+      },
+      {
+        "title": "Die Propaganda-KI der AfD - correctiv.org",
+        "source": "correctiv.org",
+        "publishedAt": "2026-07-02T07:00:00+00:00",
+        "summary": "Die Propaganda-KI der AfD correctiv.org",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHI2WmFlcGY4RHdxQnZzNkN1WjZKdkNvSEZsOURRZ0lGZzJDemQwal92QnlfQ194VHpVTkFsMzR4Mk1BdE9uM0NqU1FaaHU2VXNqalVESHZodjdLb3ZmOVBhSnRSX3laNjRxRlEwT3NndzE5bF9NZkcxSW1MZ1ROSWt0aDZiQXB3VXR1aGVONl9udw?oc=5",
+        "tags": [
+          "correctiv.org"
         ]
       },
       {
@@ -343,6 +355,16 @@
         ]
       },
       {
+        "title": "Museum / Sammlungen - Medizinische Universität Innsbruck",
+        "source": "Medizinische Universität Innsbruck",
+        "publishedAt": "2026-03-31T16:50:49+00:00",
+        "summary": "Museum / Sammlungen Medizinische Universität Innsbruck",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6a2plZE5GRG1QMlA1eU5XVURtNkFBZE81aDJTME1TSTBTSVZFcDRweGhYbm1KQ0FldmtFbHZnbE1CejdCcGdHS1Z0M0FpYUUtTmVLUkpCZTNOUkNWclpoc0RfWjU?oc=5",
+        "tags": [
+          "Medizinische Universität Innsbruck"
+        ]
+      },
+      {
         "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
         "source": "Handelsblatt",
         "publishedAt": "2026-03-31T07:00:00+00:00",
@@ -351,29 +373,19 @@
         "tags": [
           "Handelsblatt"
         ]
-      },
-      {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Wohnungsbrand in Schwabing: Eine Person schwer verletzt, Gebäude evakuiert - BSAktuell",
+        "source": "BSAktuell",
+        "publishedAt": "2026-11-08T13:45:33+00:00",
+        "summary": "Wohnungsbrand in Schwabing: Eine Person schwer verletzt, Gebäude evakuiert BSAktuell",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWhWdHdOQXpON2FTTkhpd1JSLUt0dWF2OERqSmZjalI0NXNZTEZmNzR1cVd0UHZhaENTc19LNmFuQXJIVVZ3aHh0R1JqQ01kaTZXR05DeEs4V01NRW5CSUxMT1ZKcW1JZERMNTRVcmpDTWlnR1ptcmVjVzMyU3VEd3hJYnZlZ01MMG5CUVE3SW40ZXNocFpLUzNXUTlROU9yYWs4M3hRdGd2aVEzaXZ3c1hyNTIxNVlqcXA0cXhkNXA?oc=5",
+        "tags": [
+          "BSAktuell"
+        ]
+      },
       {
         "title": "Muss das wirklich weg? Diese Aachener Architekten kämpfen gegen Deutschlands Abrisskultur - Aachener Zeitung",
         "source": "Aachener Zeitung",
@@ -392,16 +404,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjVST1Y3aFNNa1IwT3d2UDFxMm9MRUwtYWdIWFZ3YkJiWHlFVVJ1cVAzd28tMkt3RlZvTmhIUDFyelAzaC1ycE1yMl9mNnk0VW50VWxMcmR0NDMtTEdTemJ3dWJhRzNfN0ZiNmtncXN5UlBuenRrQUxNY01yMEVnVkR4c25JV2JDMnc5YXlzNDZDU2dTNlIyNWhHb0RiSENYOW1tV0gwUFkzZEhCV3Y4N01OaFhKZ2pReXVMUHpJUVdiU01LYzlTa3JhVVIwOTRPaUI3bmlB?oc=5",
         "tags": [
           "Staatszeitung"
-        ]
-      },
-      {
-        "title": "Nvidia prüft Umbau alter Telekom-Gebäude zu KI-Rechenzentren – The Information - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-11-05T19:54:00+00:00",
-        "summary": "Nvidia prüft Umbau alter Telekom-Gebäude zu KI-Rechenzentren – The Information Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEZyT0dUVl9JR091NUZTcFM2UWJaZi05VEtrLVNNYlF0RTB3SGM1aHJ1R1g2eVl4cGgwc0JONl8zZTRWeWZWZ0hCTmt0b1dTcXhyWVJ1TkRCYWZHV09CMEFDZTVwX2kwSGhyX1hlREswM0xjMDRhMEp3Y3RfMlJ0QXNkYU5PbzJTbkRrNDZyT0ZJSHVWNkhzaG00b2oyT1p3OWpmSUNQNHF4S1d1X0lQbUFhYXV4QVZaMEoxeElIRnpJNFVmb29LWHFkcnJlbzY3TlE?oc=5",
-        "tags": [
-          "KI"
         ]
       },
       {
