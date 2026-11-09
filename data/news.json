@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T20:56:51.805852+00:00",
+  "generatedAt": "2026-11-09T00:32:13.329523+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -265,16 +265,6 @@
         ]
       },
       {
-        "title": "Ein Projekt im Wohnungsbau könnte die Argumente für eine Investition in die Aktie von Apollo Global Management (APO) verändern - Simply Wall St",
-        "source": "Simply Wall St",
-        "publishedAt": "2026-11-02T09:29:20+00:00",
-        "summary": "Ein Projekt im Wohnungsbau könnte die Argumente für eine Investition in die Aktie von Apollo Global Management (APO) verändern Simply Wall St",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUkpsbGRGVVRpeWZ0dUg3cTRlU0JyUmFEZ0VDWS1PN1R6Y1cyNzFuS0ZaeU1PTG9rNVQ3ZXNLZlNPTHo1NnZESjg1M0lLV2VLT3FXLXZkN1lTYldtV3N1TmpoZHRkT0YyTmNkaGExWXdqMTFFZ2hBcktlYTVFNlVSbU1abllOVS1BYm9IcVd3aWtwOGF2dGJVbHJ4OE5uQmtVbnNyLWVBLTEzWVEzckgtSHp4RjFreXMybE9UNWp3VU9UR1NaLS1sU0hzOFptN1pyaWlkVkNzZlczMlpNOEJscWtHY0dfZ1B1eVJoWjhB0gHzAUFVX3lxTFBpbnNWYW5VWUp6Y0FfdktKaW9VWkxEYmRjZk9JWjBrRG56bXVsX1M5NkVaV2hVNGM3bXExcVhDM3RzLTRvSHI1Wmc1bU5Rdjd6T0dpaGdfLTVpVWM2WjRSZDdmS0p6UUZSelJ6aERTRGhkRnRiV3ZaQ0k2TlpVUy12R1l5ZHMwQkN1Zjk1QzUzajVQVzZoTklXcDlicndqdTYxY2ZHRXc3RkFCbDBrUHE4dGlJYVZrVWJOeURqOUtzYVhOQ2d2MTRaM05MTnB5ZnN4bkQ4a2Y3OEdkbm5VbTVHWXJjWlY0dFhJanYySl9SVE1TYw?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Italienische Gerichte frieren Vermögen ehemaliger Angestellter in einem Betrugsfall um Rubbellose ein - BNLData",
         "source": "BNLData",
         "publishedAt": "2026-10-27T22:55:41+00:00",
@@ -335,16 +325,6 @@
         ]
       },
       {
-        "title": "Die Propaganda-KI der AfD - correctiv.org",
-        "source": "correctiv.org",
-        "publishedAt": "2026-07-02T07:00:00+00:00",
-        "summary": "Die Propaganda-KI der AfD correctiv.org",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHI2WmFlcGY4RHdxQnZzNkN1WjZKdkNvSEZsOURRZ0lGZzJDemQwal92QnlfQ194VHpVTkFsMzR4Mk1BdE9uM0NqU1FaaHU2VXNqalVESHZodjdLb3ZmOVBhSnRSX3laNjRxRlEwT3NndzE5bF9NZkcxSW1MZ1ROSWt0aDZiQXB3VXR1aGVONl9udw?oc=5",
-        "tags": [
-          "correctiv.org"
-        ]
-      },
-      {
         "title": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang - Apollo News",
         "source": "Apollo News",
         "publishedAt": "2026-06-29T07:00:00+00:00",
@@ -355,16 +335,6 @@
         ]
       },
       {
-        "title": "Museum / Sammlungen - Medizinische Universität Innsbruck",
-        "source": "Medizinische Universität Innsbruck",
-        "publishedAt": "2026-03-31T16:50:49+00:00",
-        "summary": "Museum / Sammlungen Medizinische Universität Innsbruck",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6a2plZE5GRG1QMlA1eU5XVURtNkFBZE81aDJTME1TSTBTSVZFcDRweGhYbm1KQ0FldmtFbHZnbE1CejdCcGdHS1Z0M0FpYUUtTmVLUkpCZTNOUkNWclpoc0RfWjU?oc=5",
-        "tags": [
-          "Medizinische Universität Innsbruck"
-        ]
-      },
-      {
         "title": "Private Equity Fonds: Lohnen sich Eltifs auch für Kleinanleger? - Handelsblatt",
         "source": "Handelsblatt",
         "publishedAt": "2026-03-31T07:00:00+00:00",
@@ -372,6 +342,36 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JEc0cwODJXNG1DSDdJaGt6LWROV18yRWlWdVBSQ1pKQ1FuVzhBM3dob0M5eGZETjR1OHNkd3c1ajBvaWJiNjFTeHlRUnFrOHlRYjNMMkt1YkVvRnJkRk4yNXdxU1pXdDlZYmRDc2RoTWNzeEFuOFdHWGdwZnJLWE1JbjJrYUlZSkJCbDl4RUxNbVgxUmZhUDlfbzZVOG9Sb3Y4MHd2RC0weGhpMWszZEVwZW9oanhaSWQ1ZEVHSjJ0bkE3cWVzSWQxNTlaSmtiVTRWVFFKRVc?oc=5",
         "tags": [
           "Handelsblatt"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
         ]
       }
     ],
@@ -397,13 +397,13 @@
         ]
       },
       {
-        "title": "Mehr Platz für Lehre, Forschung und Verwaltung - Staatszeitung",
-        "source": "Staatszeitung",
-        "publishedAt": "2026-11-06T07:33:45+00:00",
-        "summary": "Mehr Platz für Lehre, Forschung und Verwaltung Staatszeitung",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjVST1Y3aFNNa1IwT3d2UDFxMm9MRUwtYWdIWFZ3YkJiWHlFVVJ1cVAzd28tMkt3RlZvTmhIUDFyelAzaC1ycE1yMl9mNnk0VW50VWxMcmR0NDMtTEdTemJ3dWJhRzNfN0ZiNmtncXN5UlBuenRrQUxNY01yMEVnVkR4c25JV2JDMnc5YXlzNDZDU2dTNlIyNWhHb0RiSENYOW1tV0gwUFkzZEhCV3Y4N01OaFhKZ2pReXVMUHpJUVdiU01LYzlTa3JhVVIwOTRPaUI3bmlB?oc=5",
+        "title": "Umnutzung WC-Gebäude zu Buvette in Sursee kunzarchitekten ag - Swiss-Architects",
+        "source": "Swiss-Architects",
+        "publishedAt": "2026-11-07T05:47:51+00:00",
+        "summary": "Umnutzung WC-Gebäude zu Buvette in Sursee kunzarchitekten ag Swiss-Architects",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRlhRdnc4T2MxWDhjdUFHRWs1OEdfdHRSWUhFZUpNMFNycE1Zby0xc2JmM2VNdUxwRzdTNm55Mzh2cjF5YjI3blB2SDFabTVEMGh1d1FjbGxaUnlSTU1adUlreThuS2pvZ2RkVVV5ckZtWkswLXF3TjRmNndSMFZVSXdGTnpnWlRXREE5WWNGLTY?oc=5",
         "tags": [
-          "Staatszeitung"
+          "Swiss-Architects"
         ]
       },
       {
