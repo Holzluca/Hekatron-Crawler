@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:32:13.329523+00:00",
+  "generatedAt": "2026-11-09T07:31:09.608324+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -22,6 +22,16 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
         ]
       },
       {
@@ -115,16 +125,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens Press",
-        "source": "Siemens Press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -191,16 +191,6 @@
         ]
       },
       {
-        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-11-03T08:21:26+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTlUSjBUT3d2bERRR3QyMUtjeHI0UFNSUkVrY0t4LXNQS3ZxODh5ZGthV3lPMTllTjI3OGRPeEJRcnpMRWhkcVZkSTdzaGQwOUtNTENjQ3ZvZlRFaVAzUkctSm1sUWhOOWV1NlBBVzg3MS0tdzZmdFB5UjdGTVdJT3prVklrTThy?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-10-23T07:00:00+00:00",
@@ -218,6 +208,27 @@
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
         "tags": [
           "Ei"
+        ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-10-21T13:09:30+00:00",
+        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
         ]
       },
       {
@@ -239,41 +250,9 @@
         "tags": [
           "X-Sense"
         ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
-        "tags": [
-          "Bosch",
-          "Rauchwarnmelder",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
-      {
-        "title": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt - OrcaRouter",
-        "source": "OrcaRouter",
-        "publishedAt": "2026-11-04T14:31:39+00:00",
-        "summary": "Apollo World vs. Agora 2: Ein Sicherheitsprüfer gegen eine spielbare Welt OrcaRouter",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nOE84SXNENTlKM0xLbl81YnZHbWdWQUlBbnJHZkk3a1AzXzlOMzZNNnF4LWdhLS1aMWNMUjdQeEd5OW1BaVA5dmtVSnFSckFiWndBMXJfVENhN2FuRFNPbjVHcEdUcHhZ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Italienische Gerichte frieren Vermögen ehemaliger Angestellter in einem Betrugsfall um Rubbellose ein - BNLData",
-        "source": "BNLData",
-        "publishedAt": "2026-10-27T22:55:41+00:00",
-        "summary": "Italienische Gerichte frieren Vermögen ehemaliger Angestellter in einem Betrugsfall um Rubbellose ein BNLData",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXhzcVphRURObGJPOFhPd2c1Y0M4OFlEMGhFZENldlNWSnhBdFdjWWt5U1lLbEkxT0RxSU44bWJ3MjF0TW9Wd05rbHhJU0g0WTY2d0F6el9iUnBVWFBYbEhUZkRONGRVUG1YeGtJMXg0bmV0TF9LUlBXdXoxZmY4RE9tbHlTQ0RMVWs5N05GVVJueHVIOW5RUWoxZHV5aTlUTjltcw?oc=5",
-        "tags": [
-          "BNLData"
-        ]
-      },
       {
         "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -292,6 +271,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
           "Spiegel"
+        ]
+      },
+      {
+        "title": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo - Automobilwoche",
+        "source": "Automobilwoche",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo Automobilwoche",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGhGVlFCUDJOdW5NdlNvbnp0aE1Ub1N4bTM3eTVCX1BQXzJlUnYxeEwxcURfcmtQMFlDVzFZQ2JIQnp2Q29QNDk5aUk2VHJBMFQxdlM1djBjV0I0X05feWxQSlRVbXR1UklZa0NOT0RCS21rWFJQR0hZekxKR1R2dE43SVUzdkJqU0pJMXNQMVo1UE1rUUE?oc=5",
+        "tags": [
+          "Apollo"
         ]
       },
       {
@@ -315,11 +304,11 @@
         ]
       },
       {
-        "title": "Easyjet-Übernahme: Apollo siegt im Bieterrennen - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-08-06T07:00:00+00:00",
-        "summary": "Easyjet-Übernahme: Apollo siegt im Bieterrennen FAZ",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQczRnRThvcEhIcFpVUkU2c2FBU3ltOWRFV2p1cThsNzlkQTZoNFlrZXNsRjF5Uk5MeDNRU3R0Q2RkdXYweEZvN2tPUmJzRG9SV1VsYW9pY3hOWkhZeTk0VEtuQXo3enFPZTNDX0ExcC1ISEpYT0MySFFTa3Q3VzVQMU8zSW9WaXdWOEJ2eXpUT0lEY2t1WHlJd2JHbkRuWmcwelU0aFA0T3F0WjVHQmtRR3Z5SQ?oc=5",
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-10T07:00:00+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -373,6 +362,16 @@
         "tags": [
           "GEZE"
         ]
+      },
+      {
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
+        "source": "handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
@@ -394,16 +393,6 @@
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdjYtV0Z2bUx2cWYyekNvdEN6a05pX2hzdUxOQWl0akx0cVZUQlR2M0ZwTEQ2SFo4cDdic09oU0M3dXZNd05GUDMyS0xHR2t3Wm9qMmEyZ2QtV0FDdkpKdmhkbWljcDVUMjlzSUM3WVZReUFsb0VQbklUQXlyTy1waDJNMVhxRlBKaEU5ZGhab0gtY2Nma1E4RS1JRFd6VUhMZHBXWmhpYXJCMklyekRFR3A2N3RKZFg4ZDhLMk1udW00MUhtcUhHNUc5a2s5ZXNVazQwNFhlZFg3b1hiNWhxM2NHVVNvbVpyck5faUhLV2NHbnA5U00xLQ?oc=5",
         "tags": [
           "Aachener Zeitung"
-        ]
-      },
-      {
-        "title": "Umnutzung WC-Gebäude zu Buvette in Sursee kunzarchitekten ag - Swiss-Architects",
-        "source": "Swiss-Architects",
-        "publishedAt": "2026-11-07T05:47:51+00:00",
-        "summary": "Umnutzung WC-Gebäude zu Buvette in Sursee kunzarchitekten ag Swiss-Architects",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRlhRdnc4T2MxWDhjdUFHRWs1OEdfdHRSWUhFZUpNMFNycE1Zby0xc2JmM2VNdUxwRzdTNm55Mzh2cjF5YjI3blB2SDFabTVEMGh1d1FjbGxaUnlSTU1adUlreThuS2pvZ2RkVVV5ckZtWkswLXF3TjRmNndSMFZVSXdGTnpnWlRXREE5WWNGLTY?oc=5",
-        "tags": [
-          "Swiss-Architects"
         ]
       },
       {
@@ -494,6 +483,16 @@
         "publishedAt": "2026-08-21T07:00:00+00:00",
         "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
+        "source": "tagesschau.de",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
         ]
