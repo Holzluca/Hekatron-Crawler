@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-11-10T01:41:15.243097+00:00",
+  "generatedAt": "2026-11-10T09:03:44.537868+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Modernisierung, Brandschutz, 165 m hoher Wolkenkratzer, Niederlande - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-10-24T09:57:59+00:00",
+        "summary": "Modernisierung, Brandschutz, 165 m hoher Wolkenkratzer, Niederlande Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONzYxazRvWFF2YVVTZC1wZVF1ZzFyTy02Tk5MOFVtR2g3cjRSdThIdnhYSHZsMElwUV9TMm56LWNKWERMdDk4V3JveDltb2dxSTJBeE9EcUJqMW5mc1ZPM2RZQmpPa0xtazBTdUlSeWFPaXZ0RDc5Mzg0RWxMcnlyOURMU05aMjZCR19BbTJfVU90QWhoajctMTlrandvMmd0eDdKOWJUZmN4dw?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
+        ]
+      },
       {
         "title": "Globaler Schutz und Schutz 2026 - Siemens",
         "source": "Siemens",
@@ -11,6 +22,16 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
         ]
       },
       {
@@ -104,26 +125,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens Press",
-        "source": "Siemens Press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
@@ -210,6 +211,16 @@
         ]
       },
       {
+        "title": "Test: Der beste Rauchmelder - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-10-01T07:00:00+00:00",
+        "summary": "Test: Der beste Rauchmelder FAZ",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
         "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
         "source": "PCGH",
         "publishedAt": "2026-09-18T07:00:00+00:00",
@@ -239,16 +250,6 @@
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
         ]
       }
     ],
@@ -376,6 +377,16 @@
     ],
     "trends": [
       {
+        "title": "Wohnungsbrand in Schwabing: Eine Person schwer verletzt, Gebäude evakuiert - BSAktuell",
+        "source": "BSAktuell",
+        "publishedAt": "2026-11-08T13:45:33+00:00",
+        "summary": "Wohnungsbrand in Schwabing: Eine Person schwer verletzt, Gebäude evakuiert BSAktuell",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWhWdHdOQXpON2FTTkhpd1JSLUt0dWF2OERqSmZjalI0NXNZTEZmNzR1cVd0UHZhaENTc19LNmFuQXJIVVZ3aHh0R1JqQ01kaTZXR05DeEs4V01NRW5CSUxMT1ZKcW1JZERMNTRVcmpDTWlnR1ptcmVjVzMyU3VEd3hJYnZlZ01MMG5CUVE3SW40ZXNocFpLUzNXUTlROU9yYWs4M3hRdGd2aVEzaXZ3c1hyNTIxNVlqcXA0cXhkNXA?oc=5",
+        "tags": [
+          "BSAktuell"
+        ]
+      },
+      {
         "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
         "source": "Produktion Online",
         "publishedAt": "2026-10-07T07:00:00+00:00",
@@ -483,16 +494,6 @@
         "publishedAt": "2026-08-19T07:00:00+00:00",
         "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
         "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Badehaus am Rechenzentrum: Architekten wollen bessere KI-Gebäude - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-19T07:00:00+00:00",
-        "summary": "Badehaus am Rechenzentrum: Architekten wollen bessere KI-Gebäude Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
         "tags": [
           "KI"
         ]
