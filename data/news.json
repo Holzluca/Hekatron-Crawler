@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T22:26:44.263483+00:00",
+  "generatedAt": "2026-11-11T02:03:29.562826+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -148,6 +148,16 @@
         ]
       },
       {
+        "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
+        "source": "connect.de",
+        "publishedAt": "2026-11-10T08:12:01+00:00",
+        "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Ältere COSORI Turbo Tower Pro schlägt neue Bosch Double Stack im Vergleich - SmarthomeAssistent",
         "source": "SmarthomeAssistent",
         "publishedAt": "2026-11-09T11:30:00+00:00",
@@ -237,16 +247,6 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
-        ]
-      },
-      {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
-        "source": "PCGH",
-        "publishedAt": "2026-09-18T07:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
-        "tags": [
-          "X-Sense"
         ]
       }
     ],
