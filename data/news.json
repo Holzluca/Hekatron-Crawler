@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:37:42.904599+00:00",
+  "generatedAt": "2026-11-11T23:56:05.789443+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -127,16 +127,6 @@
     ],
     "pfs": [
       {
-        "title": "X-Sense SBS0A | App-Update 1.44.0 bringt Matter-Modus für Wassermelder - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-11-10T09:46:08+00:00",
-        "summary": "X-Sense SBS0A | App-Update 1.44.0 bringt Matter-Modus für Wassermelder SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaF81a2ZyWDhHQ2R4TmlfdmRaaEZfU2NUYUl3QmM4UVBLQkRrWXBZa05SUTkzdy1TM0k5MExCanRJQkFhRjJ5YTM4aEdHeVRQSmMyTkZycVJLVDdQQzBteFdkZVJkZXFOdTdReVlHU0pSMU9abWZwcy1iSVhlODIzeXR6dU5Ddw?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Thermostat-Testsieger: Note „Sehr gut“ für diesen Bosch-Regler - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-11-10T09:20:54+00:00",
@@ -247,15 +237,27 @@
         "tags": [
           "X-Sense"
         ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Apollo Global Management-Aktie vertieft Partnerschaft mit Mubadala - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-11-11T12:01:11+00:00",
-        "summary": "Apollo Global Management-Aktie vertieft Partnerschaft mit Mubadala ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1E5Wk1TaTJrclBwM2MyWFEtaUtVdmg2NnV6bW94WWQ4OXhuQVhsLVV0cFo1S1VfblBhWTNrcGNWTF84aWp5c1g1SzFYbFNnNnI2eEtPZnlxczRFVG52cXpDOGphRHdDeGRRLTF1LU11dDNqSV9VNVNFdXJlTDJuSXNRT1RSNngwVk1Fd1c2MGpFSDE4VXFsQkFrX05rQ084UzBUeUZHSThqOUtOTk03MmV3RXlYNU9OM1VIamZTZF9lWTFobVhxdg?oc=5",
+        "title": "Offensive im Wealth Management: Apollo peilt 150-Milliarden-Dollar-Target für Private Markets an - Investing.com Deutsch",
+        "source": "Investing.com Deutsch",
+        "publishedAt": "2026-11-11T19:58:00+00:00",
+        "summary": "Offensive im Wealth Management: Apollo peilt 150-Milliarden-Dollar-Target für Private Markets an Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONzItMmgzWmJERzNnTTdOaVFDR0dPQ19DcldOTGczc1BFSmNhMnh5eXIwU1ppTGhZWjlONUVTbkN6Vm4wZ2ZmejRPTFJUVXV0RmZaQVFHWG1zZlB3dVBkZDg2M01KaHBDUXlfMVFmZmItRlJocC1ialQwU1V2eVRQSDJ0TFlSZXp2ZUR1Zm9sOE96cnZOc0FVc2gtSFRGcTBXbkFkVHBYTlJwTmZjUjVZYzZsNTFFMWttdm9zOFV5dEZvd1FZRkRWQVN3MVhiTnduc1dTT3pmV2F1NTFxRWJ2OA?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -288,16 +290,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
           "Spiegel"
-        ]
-      },
-      {
-        "title": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo - Automobilwoche",
-        "source": "Automobilwoche",
-        "publishedAt": "2026-08-20T07:00:00+00:00",
-        "summary": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo Automobilwoche",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGhGVlFCUDJOdW5NdlNvbnp0aE1Ub1N4bTM3eTVCX1BQXzJlUnYxeEwxcURfcmtQMFlDVzFZQ2JIQnp2Q29QNDk5aUk2VHJBMFQxdlM1djBjV0I0X05feWxQSlRVbXR1UklZa0NOT0RCS21rWFJQR0hZekxKR1R2dE43SVUzdkJqU0pJMXNQMVo1UE1rUUE?oc=5",
-        "tags": [
-          "Apollo"
         ]
       },
       {
@@ -368,6 +360,16 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
         "tags": [
           "GEZE"
+        ]
+      },
+      {
+        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
+        "source": "ZDFheute",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
+        "tags": [
+          "ZDFheute"
         ]
       }
     ],
