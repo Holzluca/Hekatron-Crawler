@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-11-11T02:03:29.562826+00:00",
+  "generatedAt": "2026-11-11T09:40:37.587601+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Globaler Schutz und Schutz 2026 - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-10-03T07:00:00+00:00",
-        "summary": "Globaler Schutz und Schutz 2026 Siemens",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
@@ -21,17 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
-        ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
-        "tags": [
-          "Bosch",
-          "Brandschutz"
         ]
       },
       {
@@ -121,6 +100,26 @@
         "publishedAt": "2026-03-27T07:00:00+00:00",
         "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -374,6 +373,26 @@
     ],
     "trends": [
       {
+        "title": "Funktionale Sicherheit auf neuem Niveau - Technische Logistik",
+        "source": "Technische Logistik",
+        "publishedAt": "2026-11-11T08:00:00+00:00",
+        "summary": "Funktionale Sicherheit auf neuem Niveau Technische Logistik",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmtlUVhBLVVRbUZaRXcxTllnanFMcEx6YkFUekxWOWFuRFZYTHhhQTcyckFSTHRCX1lLazltNVhhX1Y0MkVTQWM3YUFBTzA0WmgwanJLTjZIUUJFSzJudWFDbkt5bWhJSHdUOTBKN2x5X20wVkNyMF9hTm1uOW5uNWg1dDRFVll1cV9DM3Y5TExFclhWa29LcW11ckU4eFB4TkhyWmhNT1VSaUFjR0tZ?oc=5",
+        "tags": [
+          "Technische Logistik"
+        ]
+      },
+      {
+        "title": "Faserzementtafeln prägen Dachlandschaften - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-11-11T02:00:00+00:00",
+        "summary": "Faserzementtafeln prägen Dachlandschaften Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Hd3B2LTR2VE4tRkhKbFMwQXI4M0t2OTUtYnR1MDZHWUxMTXdmbWZaa3FCQ25TNUlDTnZPcE9mUmZhSFBiR3N3R1k5QWdkb29kc3BjX1A2b3YzaUli?oc=5",
+        "tags": [
+          "Baulinks"
+        ]
+      },
+      {
         "title": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf - CHEMIE TECHNIK",
         "source": "CHEMIE TECHNIK",
         "publishedAt": "2026-10-14T07:00:00+00:00",
@@ -471,26 +490,6 @@
         "publishedAt": "2026-08-21T07:00:00+00:00",
         "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
-        "source": "tagesschau.de",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
         "tags": [
           "KI"
         ]
