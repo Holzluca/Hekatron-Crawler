@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:28:33.850872+00:00",
+  "generatedAt": "2026-11-12T21:31:32.823369+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -254,16 +254,6 @@
     ],
     "doors": [
       {
-        "title": "Offensive im Wealth Management: Apollo peilt 150-Milliarden-Dollar-Target für Private Markets an - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-11-11T19:58:00+00:00",
-        "summary": "Offensive im Wealth Management: Apollo peilt 150-Milliarden-Dollar-Target für Private Markets an Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONzItMmgzWmJERzNnTTdOaVFDR0dPQ19DcldOTGczc1BFSmNhMnh5eXIwU1ppTGhZWjlONUVTbkN6Vm4wZ2ZmejRPTFJUVXV0RmZaQVFHWG1zZlB3dVBkZDg2M01KaHBDUXlfMVFmZmItRlJocC1ialQwU1V2eVRQSDJ0TFlSZXp2ZUR1Zm9sOE96cnZOc0FVc2gtSFRGcTBXbkFkVHBYTlJwTmZjUjVZYzZsNTFFMWttdm9zOFV5dEZvd1FZRkRWQVN3MVhiTnduc1dTT3pmV2F1NTFxRWJ2OA?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
         "publishedAt": "2026-09-17T07:00:00+00:00",
@@ -372,9 +362,29 @@
         "tags": [
           "Tages-Anzeiger"
         ]
+      },
+      {
+        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
+        "source": "ZDFheute",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
+        "tags": [
+          "ZDFheute"
+        ]
       }
     ],
     "trends": [
+      {
+        "title": "Endspurt für Planegger Marktgarage - Merkur",
+        "source": "Merkur",
+        "publishedAt": "2026-11-12T17:57:00+00:00",
+        "summary": "Endspurt für Planegger Marktgarage Merkur",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTJuUnVNYTVZQy1MbnRxZWpJeEZ6S084dkFDc0h3a2JLeHU0VFM0bzN2UERRYldmdFk5VU9raHpYZmxJeE03bWJOU09XbGNrbG5iZWJZMk9GRzV5YXhWdVBjRjROSVFoUTc5dnpGeFc1TDQ0WWJkX0tldUNjdW53SzRJSm5WY1RpRmtHSXUyR2poWlR3ZjZDV0JUNU5lVzlUcmJleWQ0TWxNelVlS1dSdjltcGk5MzJNdUpLblNZSF9QdnlRYkppR3hPZzJlWXhkUjhpaEdn?oc=5",
+        "tags": [
+          "Merkur"
+        ]
+      },
       {
         "title": "Schneider Electric-Aktie: Retrofit stärkt Stromversorgung in Neuseeland - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -417,36 +427,6 @@
         ]
       },
       {
-        "title": "Cybersicherheit in der Gebäudeleittechnik: Wenn Kühlanlagen ausfallen, InfoGuard AG, Story - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-11-11T11:18:00+00:00",
-        "summary": "Cybersicherheit in der Gebäudeleittechnik: Wenn Kühlanlagen ausfallen, InfoGuard AG, Story PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTAyQ1pTTFYwQy1kZnQxam1pR0d5WW9xcWE0WkNhX3htT05Uc1NRSXZNakViTGs1RXJqTHMycF9NM05HUFN4WHlMQTNLX292UlpTVW4wWFJhUmx4Mk53Qm9nRUMwejFHb3ctOGFOdnZMbHYtcDBfSEI5TU1lS0U0UExoRXRXQVREMDVKZUVPVnM5YzlTVUstX1lIWTdLY2pMTXAtc3VEcjJzUGk1SHczWFduNDRYZDI5dk9XUU5SSHY1OXhnbkg3UjJheDNaU3oy?oc=5",
-        "tags": [
-          "PresseBox"
-        ]
-      },
-      {
-        "title": "Funktionale Sicherheit auf neuem Niveau - Technische Logistik",
-        "source": "Technische Logistik",
-        "publishedAt": "2026-11-11T08:00:00+00:00",
-        "summary": "Funktionale Sicherheit auf neuem Niveau Technische Logistik",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmtlUVhBLVVRbUZaRXcxTllnanFMcEx6YkFUekxWOWFuRFZYTHhhQTcyckFSTHRCX1lLazltNVhhX1Y0MkVTQWM3YUFBTzA0WmgwanJLTjZIUUJFSzJudWFDbkt5bWhJSHdUOTBKN2x5X20wVkNyMF9hTm1uOW5uNWg1dDRFVll1cV9DM3Y5TExFclhWa29LcW11ckU4eFB4TkhyWmhNT1VSaUFjR0tZ?oc=5",
-        "tags": [
-          "Technische Logistik"
-        ]
-      },
-      {
-        "title": "Sicherheit im Blick - Technische Logistik",
-        "source": "Technische Logistik",
-        "publishedAt": "2026-11-11T08:00:00+00:00",
-        "summary": "Sicherheit im Blick Technische Logistik",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEpEdlhCN0h5OU9uYndFN1B0TEk2WFQ4T0M1ZUZnQy1XUk5VU29YeVVJR0g5MzVWVkE0NlB1MWNPRDNlS2p0S05DT3AyeVFXVS0wUmgxOTE0VmM1dllLbUU5LXkzdUlwQzlKWTdJWi1MSEZVZVliREw4U2VmeDJBYzB6VXp1Zm9WX29NUHRRdnFOVkZJ?oc=5",
-        "tags": [
-          "Technische Logistik"
-        ]
-      },
-      {
         "title": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf - CHEMIE TECHNIK",
         "source": "CHEMIE TECHNIK",
         "publishedAt": "2026-10-14T07:00:00+00:00",
@@ -464,16 +444,6 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
         "tags": [
           "Retrofit",
-          "AI"
-        ]
-      },
-      {
-        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-10-06T07:00:00+00:00",
-        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
-        "tags": [
           "AI"
         ]
       },
@@ -496,6 +466,36 @@
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
+        "source": "Wochenblatt Reporter",
+        "publishedAt": "2026-09-11T07:00:00+00:00",
+        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-gestützte Brandschutz-Tools - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-09-10T07:00:00+00:00",
+        "summary": "KI-gestützte Brandschutz-Tools elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wQjZxRVl6LWJhTXJ1SGxsWVVNRHpPVzZtaFZhckltb2ktdU5aSzRtZlFvUUYyaWhLalRjYlQ2V0FpaU9HQTdWRnczLVljY2d2QTVCcW1CTVhyLWcxRVl4OFZsUEdYbnN0bVl3dUxjbzY?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
+        "source": "SWR",
+        "publishedAt": "2026-09-06T07:00:00+00:00",
+        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
+        "tags": [
+          "SWR"
         ]
       }
     ]
