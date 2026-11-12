@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:37:23.998861+00:00",
+  "generatedAt": "2026-11-12T14:28:33.850872+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -128,7 +128,7 @@
       {
         "title": "Thermostat-Testsieger: Note „Sehr gut“ für diesen Bosch-Regler - IMTEST",
         "source": "IMTEST",
-        "publishedAt": "2026-11-10T09:20:54+00:00",
+        "publishedAt": "2026-11-10T09:17:39+00:00",
         "summary": "Thermostat-Testsieger: Note „Sehr gut“ für diesen Bosch-Regler IMTEST",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjJIbFNIN09lRU91UGZSVDNfNklHc21fMUctZF8xYlZFY2JySWE4aENrcGNsYk9tMXRnZDgzVmo3TUhvbUNCNHFyMXRoX0dKNldZbU5vVGs3Q2RKdVR6cnBOSEg0d2hBLVg2SGJVNUNWaWhLVmJzVGEtdHJhWGtuSGdaTHc?oc=5",
         "tags": [
@@ -157,31 +157,21 @@
         ]
       },
       {
-        "title": "Home Assistant 2026.11 ist da und bringt diese Neuerungen - techbook",
-        "source": "techbook",
-        "publishedAt": "2026-11-06T17:10:00+00:00",
-        "summary": "Home Assistant 2026.11 ist da und bringt diese Neuerungen techbook",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aaDhmZldKbjBGazVZZEd4WWZQdzdOc1QzbnZqNy1ZakM3ck9kUmRPSTZUVGZEbVBseEpIYmhCNTJrakMzT1E3SF9iWllGZFRtLURJUkRGNW42Vnlza2gyaFBCRGFPYkVz?oc=5",
-        "tags": [
-          "techbook"
-        ]
-      },
-      {
-        "title": "Rauchwarnmelder-Report - PressNetwork",
-        "source": "PressNetwork",
-        "publishedAt": "2026-11-05T09:24:36+00:00",
-        "summary": "Rauchwarnmelder-Report PressNetwork",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rRndaa0RPRE1Nbll6WFMxV2FfeEU3N0laQ3lGTGpBSXU2UWo5dWhuZzVDejdMRlphYUpRSUtYcEl1bk9DNTdtYnVvWEZ2Qlc5QzllNnhRamFRTnc?oc=5",
-        "tags": [
-          "Rauchwarnmelder"
-        ]
-      },
-      {
         "title": "Der beste Rauchmelder: Pyrexx schlägt besonders schnell Alarm - CHIP",
         "source": "CHIP",
-        "publishedAt": "2026-11-04T14:57:00+00:00",
+        "publishedAt": "2026-11-04T08:00:00+00:00",
         "summary": "Der beste Rauchmelder: Pyrexx schlägt besonders schnell Alarm CHIP",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOXVNMmkxbDgzUVZIbjhEU2lvb2xONHpQLTVCbEg3N2Q2MHhEVzZQMW1meHFzT0RNT2hCMEs2VVNDTVdkZkVmRjZSVDk5Nk83OEVKeUEtVG8zLVZidjU1bS1qanVmLVZhdUJMZkFLTXBhbkY3UDhsbU1rVmh0NEVkVjQtUFRuV1BGdWdLQWpERWZXc1RlVVZCNzN2UW1WV1NyWm5OOHVnVHVLV2kwa2JyZ0hLNkt1UFhiRl9EQkpvZXBPUU9TUmNGNVYxMEc5VG5XdEpBc1V1ZkJJTldx?oc=5",
+        "tags": [
+          "Pyrexx"
+        ]
+      },
+      {
+        "title": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q - Netz Trends",
+        "source": "Netz Trends",
+        "publishedAt": "2026-10-24T07:00:00+00:00",
+        "summary": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q Netz Trends",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0czT3RFcnBPdk84NkUzdHBsRm5Rdk1WSnliblZxckJSeFhqLXc4bTNlYTN5SDFSLVR4SW16U2hYMF9TWkQwTG5UNkQtUS1OQ3d3Mi1zRlExTy1VbV81blcwQ0xJWDRrXzY3VnhHOEpVckJ6ejVtM3lVRHdNV1N6Y3lSMnE4SE8ydlVSX0I0bmhXX1NaMjBHQWZ0MENhbGdjQllGWUFJckdLS3BU?oc=5",
         "tags": [
           "Pyrexx"
         ]
@@ -225,6 +215,18 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
         "tags": [
           "X-Sense"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Neue Funktionen sollen eure Heizkosten im nahenden Herbst senken Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXBRM2lZWk1uYzlxUWNSWjU4ZzQ5MGVkaG4xZUtiMHRYR2tXTDlrcS02TE15SUN2NUJ5QzB2UFdfODhuVk9FRFp6OW5EM3R4N0JlZ1Job1N2MzVXVFlIVm5EU0dlQ25NU3J3bHpDTk1ZVkxFRVpWQnFzRUpxSFpoOV9MQ19HTExyVGtQcVZILTVHV1hSRjhEQWlkZUNkOEI1bnFHZlVuZVh3eEU?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
         ]
       },
       {
@@ -374,6 +376,27 @@
     ],
     "trends": [
       {
+        "title": "Schneider Electric-Aktie: Retrofit stärkt Stromversorgung in Neuseeland - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-11-12T11:42:50+00:00",
+        "summary": "Schneider Electric-Aktie: Retrofit stärkt Stromversorgung in Neuseeland ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1pYTnhTU1A3N0RtekNzSEYwb0hrY3RJbnZSbDJTMFh2bkF0RDNsZ09DblRmN3h4a1YzYzRoS0VZaFU1aDhWeUxLUkZaVTlQUkd0cVFKMXVsaTZhTWxVaGZQT1hPeXN3ZUpmRGdOSGY0V05fZmVFR2hENnRtMDhDcm44WFEzYnQzbHdkVjFuMkNlS2ZvWlgxaDhkX3JQWFRrcnhzTXJIYjctZVFKY1BCRGR6TjF4TWVxbDB5M0lFbmRxR1d2VlI2Tmp4Y2VzWnM?oc=5",
+        "tags": [
+          "Retrofit"
+        ]
+      },
+      {
+        "title": "KI in der Gebäudeautomation: Gebäude, die mitdenken, SAUTER Deutschland, Story - lifePR",
+        "source": "lifePR",
+        "publishedAt": "2026-11-12T09:33:00+00:00",
+        "summary": "KI in der Gebäudeautomation: Gebäude, die mitdenken, SAUTER Deutschland, Story lifePR",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOE5QY05ZaU00cUloMWw5ejF4V1BHSDFVUmxVNlpsS1ROemlTZkVLbVlhOUhlMGVOQ2h0TFBXdWdISklaTV9pOGYydWpWRDlydW9yZXEwMTYyYlBWLVhXTV9xSzYyb05wWHQ5VDhlNHRnUzZjTnhaSGhOWHRDYzBGNmhEU1VmQkxlWDJpZVc5N2hQZUlEWmVqa1FoSWpQRDM4SGRRZHFRSjB6TXVsZTBpMEZXd2lEazAwQkpJ?oc=5",
+        "tags": [
+          "Gebäudeautomation",
+          "KI"
+        ]
+      },
+      {
         "title": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus - NIEDERLAUSITZ aktuell",
         "source": "NIEDERLAUSITZ aktuell",
         "publishedAt": "2026-11-12T05:00:00+00:00",
@@ -381,6 +404,16 @@
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHU2cDRBMzFRR25WM1dlWHdtSzBmeFJQTVBFLVFlbjM3TmNPNFRpQTNzbTZfYVAzMERCZzgxM2pNX2p3OUhKeTBaNm1WMU1ia2h4elhmV0paUVY4Rm5nZmhGTnlEcGNQTHNwY1RDRmRRQ3ZZc1AtUWZlcjI2SE04dGx5Y3haNWxUNkQ4VWRwTDlkR0ZEeHBlcnpFNDRwU04zS3l4V0NyX0IwRDRPQjBCaGFKWlhldGEtYXQ1RVUyODBVZDVmbTBVVVJPNVZYUmJzTDlVemhoeWRWcW1JSk8tOFJBbjFvYWhsRUhv?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-11-11T23:00:11+00:00",
+        "summary": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? ADAC",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEQ3WC1YbGV3ZTVteDZsVHYzSWk4Mi0wWmlydzF4WHNsU215X2VqRFhITE1DWTJpbTFjU0pOVVNUOE9XQWl3dEg0RHhUdEp3NEttX2Jsc0RleS1zQ2ZjSGpyY1I5TnBMbW1PLVJDODJhZlM1YzlDU2Rsa05iM2wyaGFBNlpxZDJScnFacno4QUZKckQ5RmRGaDFSRE1UVEh6VHNCMEV2ZWxXR09UcmJ1cEJNZHdBNE0?oc=5",
+        "tags": [
+          "ADAC"
         ]
       },
       {
@@ -404,13 +437,13 @@
         ]
       },
       {
-        "title": "Faserzementtafeln prägen Dachlandschaften - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-11-11T02:00:00+00:00",
-        "summary": "Faserzementtafeln prägen Dachlandschaften Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Hd3B2LTR2VE4tRkhKbFMwQXI4M0t2OTUtYnR1MDZHWUxMTXdmbWZaa3FCQ25TNUlDTnZPcE9mUmZhSFBiR3N3R1k5QWdkb29kc3BjX1A2b3YzaUli?oc=5",
+        "title": "Sicherheit im Blick - Technische Logistik",
+        "source": "Technische Logistik",
+        "publishedAt": "2026-11-11T08:00:00+00:00",
+        "summary": "Sicherheit im Blick Technische Logistik",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEpEdlhCN0h5OU9uYndFN1B0TEk2WFQ4T0M1ZUZnQy1XUk5VU29YeVVJR0g5MzVWVkE0NlB1MWNPRDNlS2p0S05DT3AyeVFXVS0wUmgxOTE0VmM1dllLbUU5LXkzdUlwQzlKWTdJWi1MSEZVZVliREw4U2VmeDJBYzB6VXp1Zm9WX29NUHRRdnFOVkZJ?oc=5",
         "tags": [
-          "Baulinks"
+          "Technische Logistik"
         ]
       },
       {
@@ -463,36 +496,6 @@
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
-        "source": "Wochenblatt Reporter",
-        "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-gestützte Brandschutz-Tools - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-09-10T07:00:00+00:00",
-        "summary": "KI-gestützte Brandschutz-Tools elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wQjZxRVl6LWJhTXJ1SGxsWVVNRHpPVzZtaFZhckltb2ktdU5aSzRtZlFvUUYyaWhLalRjYlQ2V0FpaU9HQTdWRnczLVljY2d2QTVCcW1CTVhyLWcxRVl4OFZsUEdYbnN0bVl3dUxjbzY?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
-        "source": "SWR",
-        "publishedAt": "2026-09-06T07:00:00+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
-        "tags": [
-          "SWR"
         ]
       }
     ]
