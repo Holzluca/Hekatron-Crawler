@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:19:09.040025+00:00",
+  "generatedAt": "2026-11-13T09:48:57.654179+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -126,6 +126,16 @@
     ],
     "pfs": [
       {
+        "title": "Top Marken Haus & Wohnen 2027: Außenanbauten & Sicherheit - Computer Bild",
+        "source": "Computer Bild",
+        "publishedAt": "2026-11-13T08:24:53+00:00",
+        "summary": "Top Marken Haus & Wohnen 2027: Außenanbauten & Sicherheit Computer Bild",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEhBR0RaZUVHZU16ak5waXp6UlhUemRyRkp0eVlBWGJ4dm9JSFNEdFdBMnZqQkNLajI4SHgza00zTUY5NlZONldydjhPOHF1SC1ZOWp6eW9FX3ZWZFpPMkdSWXc1NEJHS1BZLXhyN3h1S3A2OURSMVFnNDVZSTlNaktWb1dVem9wS1QyV1JNVHlfaFhWYnJhUmZFLWR2TDFpNkh3RnZUVm9INXpUcnd2ODVNRE1LVjlyQ3hGcVh3?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Thermostat-Testsieger: Note „Sehr gut“ für diesen Bosch-Regler - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-11-10T09:17:39+00:00",
@@ -239,16 +249,6 @@
           "Ei",
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
         ]
       }
     ],
@@ -376,6 +376,26 @@
     ],
     "trends": [
       {
+        "title": "qapture startet KI-Agent qentin für Gebäude - Trending Topics",
+        "source": "Trending Topics",
+        "publishedAt": "2026-11-13T09:11:39+00:00",
+        "summary": "qapture startet KI-Agent qentin für Gebäude Trending Topics",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCTmZKSkdaV2VwU3RVaWxfVEZYSHpjSkhNMWtOTlhmZzhDMkZuUXR1Z1FCcWh1eEVPQVdvNjFkbjZJWUt3Q1htbl90d1pLTmpPTGdWc09tSDNJZ2lTZl82cHVjc2ttWEd4ZmxUMGxuTTRiNXd2TG9hZw?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-11-13T02:15:00+00:00",
+        "summary": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUTRhb1RvTmI1b0R0OXJkbGxpSVlmdmtjcUpEbXE1ei1xeEw0MW50TkhQUVl1emltRmFXLUhKZnlUeUtab1R0TzFCaE1MZUpOQkRBeTRnVUh6aVJZ?oc=5",
+        "tags": [
+          "Baulinks"
+        ]
+      },
+      {
         "title": "Endspurt für Planegger Marktgarage - Merkur",
         "source": "Merkur",
         "publishedAt": "2026-11-12T17:57:00+00:00",
@@ -416,16 +436,6 @@
         ]
       },
       {
-        "title": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf - CHEMIE TECHNIK",
-        "source": "CHEMIE TECHNIK",
-        "publishedAt": "2026-10-14T07:00:00+00:00",
-        "summary": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf CHEMIE TECHNIK",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnozd3FNTXNjekZERVdmMENlQkpZNHZjN01DanNfcVpnTjhNLUgyQnZ0azAzVEt1MUdZN1JpZmtWdHJ0eUFSZmItengtVGpLMFRhblJXUTBnUlFNVFZVQ2o3ZGpkWUI1S1BFSGlyVlpIU2lwNlhuZG9lSDltT2p0eE5BbGRRT2ZRa2gyM1hFMA?oc=5",
-        "tags": [
-          "CHEMIE TECHNIK"
-        ]
-      },
-      {
         "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
         "source": "Produktion Online",
         "publishedAt": "2026-10-07T07:00:00+00:00",
@@ -433,16 +443,6 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
         "tags": [
           "Retrofit",
-          "AI"
-        ]
-      },
-      {
-        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
-        "source": "Investing.com Deutsch",
-        "publishedAt": "2026-10-06T07:00:00+00:00",
-        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
-        "tags": [
           "AI"
         ]
       },
