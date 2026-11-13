@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T21:31:32.823369+00:00",
+  "generatedAt": "2026-11-13T02:19:09.040025+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -11,16 +11,6 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
-        ]
-      },
-      {
-        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
-        "tags": [
-          "Augsburger Allgemeine"
         ]
       },
       {
@@ -121,6 +111,16 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
         ]
       }
     ],
@@ -264,16 +264,6 @@
         ]
       },
       {
-        "title": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten - Badische Neueste Nachrichten",
-        "source": "Badische Neueste Nachrichten",
-        "publishedAt": "2026-09-16T07:00:00+00:00",
-        "summary": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten Badische Neueste Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaEc0RGhQQjlKSWpkT0RUWFlDME1QRkhPeTVQUmVuQ1hYNGh6SVRMUWl5eFo5OE9zVG9TY1ZkVDEzUWw3Tjd5blBPYlpkbzZwSEdOd3czLS1qR1ZMM1FpSmE5N0VHQU5KNHljaEo0SFNjWXoyNWswZXNidWl4WDdfNi1vc202eWlRbHRuRmhXVzIzc3ZrT1cwVjFnMHVacS1Wc1dqemFYV0s3c2ZyVURzMUtSM0FFT3gwLVdEVUJBbU9PUFpNcnlIU2V0TkpvNVNDVWx2M1VOcXRWTDZlSTN1bG5nSXRUOE1EWk1KLV9YN0Q?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-09-01T07:00:00+00:00",
@@ -372,6 +362,16 @@
         "tags": [
           "ZDFheute"
         ]
+      },
+      {
+        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
+        "source": "Handelsblatt",
+        "publishedAt": "2025-09-15T15:19:05+00:00",
+        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
+        "tags": [
+          "Handelsblatt"
+        ]
       }
     ],
     "trends": [
@@ -386,23 +386,12 @@
         ]
       },
       {
-        "title": "Schneider Electric-Aktie: Retrofit stärkt Stromversorgung in Neuseeland - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-11-12T11:42:50+00:00",
-        "summary": "Schneider Electric-Aktie: Retrofit stärkt Stromversorgung in Neuseeland ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1pYTnhTU1A3N0RtekNzSEYwb0hrY3RJbnZSbDJTMFh2bkF0RDNsZ09DblRmN3h4a1YzYzRoS0VZaFU1aDhWeUxLUkZaVTlQUkd0cVFKMXVsaTZhTWxVaGZQT1hPeXN3ZUpmRGdOSGY0V05fZmVFR2hENnRtMDhDcm44WFEzYnQzbHdkVjFuMkNlS2ZvWlgxaDhkX3JQWFRrcnhzTXJIYjctZVFKY1BCRGR6TjF4TWVxbDB5M0lFbmRxR1d2VlI2Tmp4Y2VzWnM?oc=5",
+        "title": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude - Business Geomatics",
+        "source": "Business Geomatics",
+        "publishedAt": "2026-11-12T14:56:29+00:00",
+        "summary": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude Business Geomatics",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWRLLWZNaVJrMnQxdWxTSEYyUmkydHFDMWJheVJ5M0t2SUVXU09COTVocU1ZRzZiTFhZcnVIQ25uTG5BTFdOVWRBbHF1VEgzOXlob0NKbDd6MEc3TVRJWnpudDJzQ1Z4NzdsVzdhREZLNi1vdU5nVEVjVVR6bVBDcE5xSnZnTnc0V1lMN1ZHN0JHeGp2M3hzNU9MalFZRnh6ZEkwZQ?oc=5",
         "tags": [
-          "Retrofit"
-        ]
-      },
-      {
-        "title": "KI in der Gebäudeautomation: Gebäude, die mitdenken, SAUTER Deutschland, Story - lifePR",
-        "source": "lifePR",
-        "publishedAt": "2026-11-12T09:33:00+00:00",
-        "summary": "KI in der Gebäudeautomation: Gebäude, die mitdenken, SAUTER Deutschland, Story lifePR",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOE5QY05ZaU00cUloMWw5ejF4V1BHSDFVUmxVNlpsS1ROemlTZkVLbVlhOUhlMGVOQ2h0TFBXdWdISklaTV9pOGYydWpWRDlydW9yZXEwMTYyYlBWLVhXTV9xSzYyb05wWHQ5VDhlNHRnUzZjTnhaSGhOWHRDYzBGNmhEU1VmQkxlWDJpZVc5N2hQZUlEWmVqa1FoSWpQRDM4SGRRZHFRSjB6TXVsZTBpMEZXd2lEazAwQkpJ?oc=5",
-        "tags": [
-          "Gebäudeautomation",
           "KI"
         ]
       },
@@ -444,6 +433,16 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
         "tags": [
           "Retrofit",
+          "AI"
+        ]
+      },
+      {
+        "title": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar - Investing.com Deutsch",
+        "source": "Investing.com Deutsch",
+        "publishedAt": "2026-10-06T07:00:00+00:00",
+        "summary": "Roze AI sichert sich Aufträge für Brandschutz in Südkorea im Wert von 12,2 Millionen US-Dollar Investing.com Deutsch",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb3NLR2JnZFRESzNJcERyeEJSQzBwWWVoV09QYXpINUJFdFd5SVZ4VTdCZ3k2UWtEUG1hSnF1UWVSRHEzYTN1cDdhZFVFMFVEWnNwLXo1UzA1N2w3MUZwZG8zX2dpODJUVEsxTzlhQjdBLUdaM0pKNi10T3pKV1otRkx2MHJIR3BsaWtBYm5EM0pIMkgtemlpQW5BVldwbVVrZnF5dXdORUJVUDhKZmVEME1vNE1qQ0luRDVFSkQ1anM5ajl6UzN5Z0dkakpiTlJfaERRb1BnTUFWdmtGQkpOZ2hR?oc=5",
+        "tags": [
           "AI"
         ]
       },
