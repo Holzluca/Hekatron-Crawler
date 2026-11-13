@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T09:48:57.654179+00:00",
+  "generatedAt": "2026-11-13T17:27:17.728439+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -126,6 +126,16 @@
     ],
     "pfs": [
       {
+        "title": "Von Ring bis Bosch: Fünf Smarthome-Deals unter 100 Euro - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-11-13T15:47:30+00:00",
+        "summary": "Von Ring bis Bosch: Fünf Smarthome-Deals unter 100 Euro n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDhzcnZMbUt3Z1BvdnVJa2VseWxoWFp3dE5BWkdyTlVIVGp1N2pFSG9rVTg2c1V4LXNuWUxRYlBtTzhaZlFBcGJpZW5KWktzSGs2UGxEdmdwVG0xejJDN082cmtNVWdmQzRkbXBHTDRVSWdnNEdjNGFRYW5oZ2VnSXhrQl84dHo4WThyYVQ1X1VOZVlSNUZBV1RpdXR2ejNvT2hCenpjWDJOdHk1?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "Top Marken Haus & Wohnen 2027: Außenanbauten & Sicherheit - Computer Bild",
         "source": "Computer Bild",
         "publishedAt": "2026-11-13T08:24:53+00:00",
@@ -172,16 +182,6 @@
         "publishedAt": "2026-11-04T08:00:00+00:00",
         "summary": "Der beste Rauchmelder: Pyrexx schlägt besonders schnell Alarm CHIP",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOXVNMmkxbDgzUVZIbjhEU2lvb2xONHpQLTVCbEg3N2Q2MHhEVzZQMW1meHFzT0RNT2hCMEs2VVNDTVdkZkVmRjZSVDk5Nk83OEVKeUEtVG8zLVZidjU1bS1qanVmLVZhdUJMZkFLTXBhbkY3UDhsbU1rVmh0NEVkVjQtUFRuV1BGdWdLQWpERWZXc1RlVVZCNzN2UW1WV1NyWm5OOHVnVHVLV2kwa2JyZ0hLNkt1UFhiRl9EQkpvZXBPUU9TUmNGNVYxMEc5VG5XdEpBc1V1ZkJJTldx?oc=5",
-        "tags": [
-          "Pyrexx"
-        ]
-      },
-      {
-        "title": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q - Netz Trends",
-        "source": "Netz Trends",
-        "publishedAt": "2026-10-24T07:00:00+00:00",
-        "summary": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q Netz Trends",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0czT3RFcnBPdk84NkUzdHBsRm5Rdk1WSnliblZxckJSeFhqLXc4bTNlYTN5SDFSLVR4SW16U2hYMF9TWkQwTG5UNkQtUS1OQ3d3Mi1zRlExTy1VbV81blcwQ0xJWDRrXzY3VnhHOEpVckJ6ejVtM3lVRHdNV1N6Y3lSMnE4SE8ydlVSX0I0bmhXX1NaMjBHQWZ0MENhbGdjQllGWUFJckdLS3BU?oc=5",
         "tags": [
           "Pyrexx"
         ]
@@ -274,6 +274,16 @@
         ]
       },
       {
+        "title": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo - Automobilwoche",
+        "source": "Automobilwoche",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo Automobilwoche",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGhGVlFCUDJOdW5NdlNvbnp0aE1Ub1N4bTM3eTVCX1BQXzJlUnYxeEwxcURfcmtQMFlDVzFZQ2JIQnp2Q29QNDk5aUk2VHJBMFQxdlM1djBjV0I0X05feWxQSlRVbXR1UklZa0NOT0RCS21rWFJQR0hZekxKR1R2dE43SVUzdkJqU0pJMXNQMVo1UE1rUUE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
         "source": "Manager Magazin",
         "publishedAt": "2026-08-19T07:00:00+00:00",
@@ -362,16 +372,6 @@
         "tags": [
           "ZDFheute"
         ]
-      },
-      {
-        "title": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro - Handelsblatt",
-        "source": "Handelsblatt",
-        "publishedAt": "2025-09-15T15:19:05+00:00",
-        "summary": "Trade Republic Private Markets – Einstieg in Privatfirmen ab 1 Euro Handelsblatt",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODduanFfb3RhUjNDZzFpNUNKZUhEVFZIYmRwWjNZSVRXODRpS21weVJYdWRhOXpCNDZfbERyYl95VEc0SEUwMzY0eWpQc3pIcy1tMmJCMFhLS2Z0ZU1peVViQTVrVVo1R2pHenlubE9EaC1xUjd6bXBQNVcwZWM0NHFqeHNjWktsYWVDVnEzeXNuUDIyZWVUS0VTbXpGLS1lRlpYWkJNZ0FURVU?oc=5",
-        "tags": [
-          "Handelsblatt"
-        ]
       }
     ],
     "trends": [
@@ -436,6 +436,16 @@
         ]
       },
       {
+        "title": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf - CHEMIE TECHNIK",
+        "source": "CHEMIE TECHNIK",
+        "publishedAt": "2026-10-14T07:00:00+00:00",
+        "summary": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf CHEMIE TECHNIK",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnozd3FNTXNjekZERVdmMENlQkpZNHZjN01DanNfcVpnTjhNLUgyQnZ0azAzVEt1MUdZN1JpZmtWdHJ0eUFSZmItengtVGpLMFRhblJXUTBnUlFNVFZVQ2o3ZGpkWUI1S1BFSGlyVlpIU2lwNlhuZG9lSDltT2p0eE5BbGRRT2ZRa2gyM1hFMA?oc=5",
+        "tags": [
+          "CHEMIE TECHNIK"
+        ]
+      },
+      {
         "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
         "source": "Produktion Online",
         "publishedAt": "2026-10-07T07:00:00+00:00",
@@ -485,16 +495,6 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wQjZxRVl6LWJhTXJ1SGxsWVVNRHpPVzZtaFZhckltb2ktdU5aSzRtZlFvUUYyaWhLalRjYlQ2V0FpaU9HQTdWRnczLVljY2d2QTVCcW1CTVhyLWcxRVl4OFZsUEdYbnN0bVl3dUxjbzY?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
-        "source": "SWR",
-        "publishedAt": "2026-09-06T07:00:00+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
-        "tags": [
-          "SWR"
         ]
       }
     ]
