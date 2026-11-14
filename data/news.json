@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-11-14T02:51:25.701898+00:00",
+  "generatedAt": "2026-11-14T09:43:39.086910+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Globaler Schutz und Schutz 2026 - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-10-03T07:00:00+00:00",
+        "summary": "Globaler Schutz und Schutz 2026 Siemens",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Test: Der beste Rauchmelder - FAZ",
         "source": "FAZ",
@@ -11,6 +21,17 @@
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
         "tags": [
           "FAZ"
+        ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "tags": [
+          "Bosch",
+          "Brandschutz"
         ]
       },
       {
@@ -102,26 +123,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-01-24T08:00:00+00:00",
-        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
-        "tags": [
-          "Netzwelt"
-        ]
       }
     ],
     "pfs": [
@@ -133,16 +134,6 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDhzcnZMbUt3Z1BvdnVJa2VseWxoWFp3dE5BWkdyTlVIVGp1N2pFSG9rVTg2c1V4LXNuWUxRYlBtTzhaZlFBcGJpZW5KWktzSGs2UGxEdmdwVG0xejJDN082cmtNVWdmQzRkbXBHTDRVSWdnNEdjNGFRYW5oZ2VnSXhrQl84dHo4WThyYVQ1X1VOZVlSNUZBV1RpdXR2ejNvT2hCenpjWDJOdHk1?oc=5",
         "tags": [
           "Bosch"
-        ]
-      },
-      {
-        "title": "Top Marken Haus & Wohnen 2027: Außenanbauten & Sicherheit - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-11-13T08:24:53+00:00",
-        "summary": "Top Marken Haus & Wohnen 2027: Außenanbauten & Sicherheit Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEhBR0RaZUVHZU16ak5waXp6UlhUemRyRkp0eVlBWGJ4dm9JSFNEdFdBMnZqQkNLajI4SHgza00zTUY5NlZONldydjhPOHF1SC1ZOWp6eW9FX3ZWZFpPMkdSWXc1NEJHS1BZLXhyN3h1S3A2OURSMVFnNDVZSTlNaktWb1dVem9wS1QyV1JNVHlfaFhWYnJhUmZFLWR2TDFpNkh3RnZUVm9INXpUcnd2ODVNRE1LVjlyQ3hGcVh3?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -247,6 +238,16 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
         "tags": [
           "Teltarif"
+        ]
+      },
+      {
+        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
+        "source": "Spiegel",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
+        "tags": [
+          "Spiegel"
         ]
       }
     ],
@@ -384,16 +385,6 @@
         ]
       },
       {
-        "title": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-11-13T02:15:00+00:00",
-        "summary": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUTRhb1RvTmI1b0R0OXJkbGxpSVlmdmtjcUpEbXE1ei1xeEw0MW50TkhQUVl1emltRmFXLUhKZnlUeUtab1R0TzFCaE1MZUpOQkRBeTRnVUh6aVJZ?oc=5",
-        "tags": [
-          "Baulinks"
-        ]
-      },
-      {
         "title": "Endspurt für Planegger Marktgarage - Merkur",
         "source": "Merkur",
         "publishedAt": "2026-11-12T17:57:00+00:00",
@@ -409,16 +400,6 @@
         "publishedAt": "2026-11-12T14:56:29+00:00",
         "summary": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude Business Geomatics",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWRLLWZNaVJrMnQxdWxTSEYyUmkydHFDMWJheVJ5M0t2SUVXU09COTVocU1ZRzZiTFhZcnVIQ25uTG5BTFdOVWRBbHF1VEgzOXlob0NKbDd6MEc3TVRJWnpudDJzQ1Z4NzdsVzdhREZLNi1vdU5nVEVjVVR6bVBDcE5xSnZnTnc0V1lMN1ZHN0JHeGp2M3hzNU9MalFZRnh6ZEkwZQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus - NIEDERLAUSITZ aktuell",
-        "source": "NIEDERLAUSITZ aktuell",
-        "publishedAt": "2026-11-12T05:00:00+00:00",
-        "summary": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus NIEDERLAUSITZ aktuell",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHU2cDRBMzFRR25WM1dlWHdtSzBmeFJQTVBFLVFlbjM3TmNPNFRpQTNzbTZfYVAzMERCZzgxM2pNX2p3OUhKeTBaNm1WMU1ia2h4elhmV0paUVY4Rm5nZmhGTnlEcGNQTHNwY1RDRmRRQ3ZZc1AtUWZlcjI2SE04dGx5Y3haNWxUNkQ4VWRwTDlkR0ZEeHBlcnpFNDRwU04zS3l4V0NyX0IwRDRPQjBCaGFKWlhldGEtYXQ1RVUyODBVZDVmbTBVVVJPNVZYUmJzTDlVemhoeWRWcW1JSk8tOFJBbjFvYWhsRUhv?oc=5",
         "tags": [
           "KI"
         ]
@@ -453,6 +434,16 @@
         "tags": [
           "AI",
           "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-09-15T07:00:00+00:00",
+        "summary": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! ADAC",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sU0wycEJuSzU0bnJOdmZuaDhheXdLS2dpY0ZsODVMdUhjdWhIZjc1R21GUUVleFNqU1FpaDdMa2wtTC1POFZvUGxHb2lncTNDS053ajhwLTFzSTQtNkdESzNCZGdqX2RDQlZ6RFJPTDdHM09uVHc?oc=5",
+        "tags": [
+          "ADAC"
         ]
       },
       {
@@ -493,6 +484,16 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
           "SWR"
+        ]
+      },
+      {
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-28T07:00:00+00:00",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
