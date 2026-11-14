@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-11-14T09:43:39.086910+00:00",
+  "generatedAt": "2026-11-14T16:17:56.855959+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Honeywell-Aktie: Neue KI-Produkte für Gebäudesicherheit vorgestellt - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-11-14T11:02:19+00:00",
+        "summary": "Honeywell-Aktie: Neue KI-Produkte für Gebäudesicherheit vorgestellt ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU0dyMWRXb2FMYVVNeHhGR2tOLS1zVFBBN0FsVVh3VERqcFVwOHNHT3c1eGFWb3NOc1lzVGdGdVhvWGlpWHdSSk9GQUhuYjI5UC1jRDcwalg4cEhjUmZMcC1lcWRhSExfUzhyUXhPYkhkZmxON3V2WHFIc01oQlhFUUhQWGpHQncybFFZbzNvZFpFVldiTjVCWGtaMUNDdm1jVUdZQkV5al9FaFVIM0VNXzVrQzZiYWtOLU9aT3EwWDh0d1ZvME9UUndCSQ?oc=5",
+        "tags": [
+          "Honeywell"
+        ]
+      },
       {
         "title": "Globaler Schutz und Schutz 2026 - Siemens",
         "source": "Siemens",
@@ -11,27 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
-        "tags": [
-          "Bosch",
-          "Brandschutz"
         ]
       },
       {
@@ -123,6 +112,16 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
@@ -199,16 +198,6 @@
         ]
       },
       {
-        "title": "Test: Der beste Rauchmelder - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-10-01T07:00:00+00:00",
-        "summary": "Test: Der beste Rauchmelder FAZ",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBQmxKN1lBZWQ2c1BXYWJoM2E0T2Q2MW8yaEJJVHc4QU1SQnRTTHZKLWViNEVxNXBkcWVJYXBjeW5KUmNBSXItYjRjZ0F4Y0dadkZWS0xBQnFncDRya3VUN2d6QTVlcml6Q2RN?oc=5",
-        "tags": [
-          "FAZ"
-        ]
-      },
-      {
         "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
         "source": "PCGH",
         "publishedAt": "2026-09-18T07:00:00+00:00",
@@ -249,6 +238,17 @@
         "tags": [
           "Spiegel"
         ]
+      },
+      {
+        "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0tPNFp0VjVPNDIyY3ItTndWZ1FFdjY4RnZQTFRkRWVwTjAxMnNlTXdtbm41ZnJqNUNMNGJtV2tuTURKaW9hOEJIZlZtZVNxQ0FOclJzLWo?oc=5",
+        "tags": [
+          "Ei",
+          "Pyrexx"
+        ]
       }
     ],
     "doors": [
@@ -258,6 +258,16 @@
         "publishedAt": "2026-09-17T07:00:00+00:00",
         "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten - Badische Neueste Nachrichten",
+        "source": "Badische Neueste Nachrichten",
+        "publishedAt": "2026-09-16T07:00:00+00:00",
+        "summary": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten Badische Neueste Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaEc0RGhQQjlKSWpkT0RUWFlDME1QRkhPeTVQUmVuQ1hYNGh6SVRMUWl5eFo5OE9zVG9TY1ZkVDEzUWw3Tjd5blBPYlpkbzZwSEdOd3czLS1qR1ZMM1FpSmE5N0VHQU5KNHljaEo0SFNjWXoyNWswZXNidWl4WDdfNi1vc202eWlRbHRuRmhXVzIzc3ZrT1cwVjFnMHVacS1Wc1dqemFYV0s3c2ZyVURzMUtSM0FFT3gwLVdEVUJBbU9PUFpNcnlIU2V0TkpvNVNDVWx2M1VOcXRWTDZlSTN1bG5nSXRUOE1EWk1KLV9YN0Q?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -361,19 +371,19 @@
         "tags": [
           "Tages-Anzeiger"
         ]
-      },
-      {
-        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
-        "source": "ZDFheute",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
-        "tags": [
-          "ZDFheute"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Honeywell-Aktie: Neue KI-Produkte für Gebäudesicherheit vorgestellt - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-11-14T11:02:19+00:00",
+        "summary": "Honeywell-Aktie: Neue KI-Produkte für Gebäudesicherheit vorgestellt ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU0dyMWRXb2FMYVVNeHhGR2tOLS1zVFBBN0FsVVh3VERqcFVwOHNHT3c1eGFWb3NOc1lzVGdGdVhvWGlpWHdSSk9GQUhuYjI5UC1jRDcwalg4cEhjUmZMcC1lcWRhSExfUzhyUXhPYkhkZmxON3V2WHFIc01oQlhFUUhQWGpHQncybFFZbzNvZFpFVldiTjVCWGtaMUNDdm1jVUdZQkV5al9FaFVIM0VNXzVrQzZiYWtOLU9aT3EwWDh0d1ZvME9UUndCSQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
       {
         "title": "qapture startet KI-Agent qentin für Gebäude - Trending Topics",
         "source": "Trending Topics",
@@ -385,21 +395,21 @@
         ]
       },
       {
-        "title": "Endspurt für Planegger Marktgarage - Merkur",
-        "source": "Merkur",
-        "publishedAt": "2026-11-12T17:57:00+00:00",
-        "summary": "Endspurt für Planegger Marktgarage Merkur",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTJuUnVNYTVZQy1MbnRxZWpJeEZ6S084dkFDc0h3a2JLeHU0VFM0bzN2UERRYldmdFk5VU9raHpYZmxJeE03bWJOU09XbGNrbG5iZWJZMk9GRzV5YXhWdVBjRjROSVFoUTc5dnpGeFc1TDQ0WWJkX0tldUNjdW53SzRJSm5WY1RpRmtHSXUyR2poWlR3ZjZDV0JUNU5lVzlUcmJleWQ0TWxNelVlS1dSdjltcGk5MzJNdUpLblNZSF9QdnlRYkppR3hPZzJlWXhkUjhpaEdn?oc=5",
-        "tags": [
-          "Merkur"
-        ]
-      },
-      {
         "title": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude - Business Geomatics",
         "source": "Business Geomatics",
         "publishedAt": "2026-11-12T14:56:29+00:00",
         "summary": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude Business Geomatics",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWRLLWZNaVJrMnQxdWxTSEYyUmkydHFDMWJheVJ5M0t2SUVXU09COTVocU1ZRzZiTFhZcnVIQ25uTG5BTFdOVWRBbHF1VEgzOXlob0NKbDd6MEc3TVRJWnpudDJzQ1Z4NzdsVzdhREZLNi1vdU5nVEVjVVR6bVBDcE5xSnZnTnc0V1lMN1ZHN0JHeGp2M3hzNU9MalFZRnh6ZEkwZQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus - NIEDERLAUSITZ aktuell",
+        "source": "NIEDERLAUSITZ aktuell",
+        "publishedAt": "2026-11-12T05:00:00+00:00",
+        "summary": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus NIEDERLAUSITZ aktuell",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHU2cDRBMzFRR25WM1dlWHdtSzBmeFJQTVBFLVFlbjM3TmNPNFRpQTNzbTZfYVAzMERCZzgxM2pNX2p3OUhKeTBaNm1WMU1ia2h4elhmV0paUVY4Rm5nZmhGTnlEcGNQTHNwY1RDRmRRQ3ZZc1AtUWZlcjI2SE04dGx5Y3haNWxUNkQ4VWRwTDlkR0ZEeHBlcnpFNDRwU04zS3l4V0NyX0IwRDRPQjBCaGFKWlhldGEtYXQ1RVUyODBVZDVmbTBVVVJPNVZYUmJzTDlVemhoeWRWcW1JSk8tOFJBbjFvYWhsRUhv?oc=5",
         "tags": [
           "KI"
         ]
@@ -484,16 +494,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
           "SWR"
-        ]
-      },
-      {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
