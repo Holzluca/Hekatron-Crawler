@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T14:53:57.654902+00:00",
+  "generatedAt": "2026-11-15T20:04:44.247732+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -428,6 +428,16 @@
         ]
       },
       {
+        "title": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-09-15T07:00:00+00:00",
+        "summary": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! ADAC",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sU0wycEJuSzU0bnJOdmZuaDhheXdLS2dpY0ZsODVMdUhjdWhIZjc1R21GUUVleFNqU1FpaDdMa2wtTC1POFZvUGxHb2lncTNDS053ajhwLTFzSTQtNkdESzNCZGdqX2RDQlZ6RFJPTDdHM09uVHc?oc=5",
+        "tags": [
+          "ADAC"
+        ]
+      },
+      {
         "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
         "source": "Gießener Allgemeine",
         "publishedAt": "2026-09-13T07:00:00+00:00",
@@ -483,16 +493,6 @@
         "publishedAt": "2026-08-21T07:00:00+00:00",
         "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
-        "source": "tagesschau.de",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
         ]
