@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-11-15T07:26:06.874026+00:00",
+  "generatedAt": "2026-11-15T14:53:57.654902+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Honeywell-Aktie: Neue KI-Produkte für Gebäudesicherheit vorgestellt - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-11-14T11:02:19+00:00",
-        "summary": "Honeywell-Aktie: Neue KI-Produkte für Gebäudesicherheit vorgestellt ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU0dyMWRXb2FMYVVNeHhGR2tOLS1zVFBBN0FsVVh3VERqcFVwOHNHT3c1eGFWb3NOc1lzVGdGdVhvWGlpWHdSSk9GQUhuYjI5UC1jRDcwalg4cEhjUmZMcC1lcWRhSExfUzhyUXhPYkhkZmxON3V2WHFIc01oQlhFUUhQWGpHQncybFFZbzNvZFpFVldiTjVCWGtaMUNDdm1jVUdZQkV5al9FaFVIM0VNXzVrQzZiYWtOLU9aT3EwWDh0d1ZvME9UUndCSQ?oc=5",
-        "tags": [
-          "Honeywell"
-        ]
-      },
       {
         "title": "Globaler Schutz und Schutz 2026 - Siemens",
         "source": "Siemens",
@@ -120,6 +110,16 @@
         "publishedAt": "2026-02-10T08:00:00+00:00",
         "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
         ]
@@ -284,6 +284,16 @@
         ]
       },
       {
+        "title": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo - Automobilwoche",
+        "source": "Automobilwoche",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo Automobilwoche",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGhGVlFCUDJOdW5NdlNvbnp0aE1Ub1N4bTM3eTVCX1BQXzJlUnYxeEwxcURfcmtQMFlDVzFZQ2JIQnp2Q29QNDk5aUk2VHJBMFQxdlM1djBjV0I0X05feWxQSlRVbXR1UklZa0NOT0RCS21rWFJQR0hZekxKR1R2dE43SVUzdkJqU0pJMXNQMVo1UE1rUUE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
         "source": "Manager Magazin",
         "publishedAt": "2026-08-19T07:00:00+00:00",
@@ -362,16 +372,6 @@
         "tags": [
           "GEZE"
         ]
-      },
-      {
-        "title": "80’000 Euro für Politikertreffen: Eine Lobbyaffäre belastet die deutsche Regierung - Tages-Anzeiger",
-        "source": "Tages-Anzeiger",
-        "publishedAt": "2025-11-19T08:00:00+00:00",
-        "summary": "80’000 Euro für Politikertreffen: Eine Lobbyaffäre belastet die deutsche Regierung Tages-Anzeiger",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkh2MkZwLWdCcVFwWnhKRXFHUklpTWJfS1RNbmh5aGVLcVJDblBmWjNERHNlRzRfUFBIbWVTZGZzRC1pMjRkZ3J5dUdDNUxsY0J3dkV2ak5ZZE96NVRJVkxSNGdDRjVVeEFUSlpzclhSNi1aMVVtbmN2eFhJbUFMMkc0RzN5YTJyVFo3UDA5QQ?oc=5",
-        "tags": [
-          "Tages-Anzeiger"
-        ]
       }
     ],
     "trends": [
@@ -381,16 +381,6 @@
         "publishedAt": "2026-11-14T11:02:19+00:00",
         "summary": "Honeywell-Aktie: Neue KI-Produkte für Gebäudesicherheit vorgestellt ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU0dyMWRXb2FMYVVNeHhGR2tOLS1zVFBBN0FsVVh3VERqcFVwOHNHT3c1eGFWb3NOc1lzVGdGdVhvWGlpWHdSSk9GQUhuYjI5UC1jRDcwalg4cEhjUmZMcC1lcWRhSExfUzhyUXhPYkhkZmxON3V2WHFIc01oQlhFUUhQWGpHQncybFFZbzNvZFpFVldiTjVCWGtaMUNDdm1jVUdZQkV5al9FaFVIM0VNXzVrQzZiYWtOLU9aT3EwWDh0d1ZvME9UUndCSQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "qapture startet KI-Agent qentin für Gebäude - Trending Topics",
-        "source": "Trending Topics",
-        "publishedAt": "2026-11-13T09:11:39+00:00",
-        "summary": "qapture startet KI-Agent qentin für Gebäude Trending Topics",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCTmZKSkdaV2VwU3RVaWxfVEZYSHpjSkhNMWtOTlhmZzhDMkZuUXR1Z1FCcWh1eEVPQVdvNjFkbjZJWUt3Q1htbl90d1pLTmpPTGdWc09tSDNJZ2lTZl82cHVjc2ttWEd4ZmxUMGxuTTRiNXd2TG9hZw?oc=5",
         "tags": [
           "KI"
         ]
@@ -411,16 +401,6 @@
         "publishedAt": "2026-11-12T14:56:29+00:00",
         "summary": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude Business Geomatics",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWRLLWZNaVJrMnQxdWxTSEYyUmkydHFDMWJheVJ5M0t2SUVXU09COTVocU1ZRzZiTFhZcnVIQ25uTG5BTFdOVWRBbHF1VEgzOXlob0NKbDd6MEc3TVRJWnpudDJzQ1Z4NzdsVzdhREZLNi1vdU5nVEVjVVR6bVBDcE5xSnZnTnc0V1lMN1ZHN0JHeGp2M3hzNU9MalFZRnh6ZEkwZQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus - NIEDERLAUSITZ aktuell",
-        "source": "NIEDERLAUSITZ aktuell",
-        "publishedAt": "2026-11-12T05:00:00+00:00",
-        "summary": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus NIEDERLAUSITZ aktuell",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHU2cDRBMzFRR25WM1dlWHdtSzBmeFJQTVBFLVFlbjM3TmNPNFRpQTNzbTZfYVAzMERCZzgxM2pNX2p3OUhKeTBaNm1WMU1ia2h4elhmV0paUVY4Rm5nZmhGTnlEcGNQTHNwY1RDRmRRQ3ZZc1AtUWZlcjI2SE04dGx5Y3haNWxUNkQ4VWRwTDlkR0ZEeHBlcnpFNDRwU04zS3l4V0NyX0IwRDRPQjBCaGFKWlhldGEtYXQ1RVUyODBVZDVmbTBVVVJPNVZYUmJzTDlVemhoeWRWcW1JSk8tOFJBbjFvYWhsRUhv?oc=5",
         "tags": [
           "KI"
         ]
@@ -493,6 +473,26 @@
         "publishedAt": "2026-08-28T07:00:00+00:00",
         "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
+        "source": "Infopoint Security",
+        "publishedAt": "2026-08-21T07:00:00+00:00",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
+        "source": "tagesschau.de",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
         "tags": [
           "KI"
         ]
