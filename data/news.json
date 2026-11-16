@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T00:07:19.421024+00:00",
+  "generatedAt": "2026-11-16T06:59:15.905674+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -52,6 +52,17 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
         "tags": [
           "elektro.net"
+        ]
+      },
+      {
+        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
+        "source": "Siemens",
+        "publishedAt": "2026-05-05T12:32:58+00:00",
+        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
+        "tags": [
+          "Siemens",
+          "Brandschutz"
         ]
       },
       {
@@ -113,19 +124,31 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-01-26T08:00:00+00:00",
-        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Bosch Smart Home Thermostat II [+M] - 0,5-Grad-Regelung - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-11-14T18:15:51+00:00",
+        "summary": "Bosch Smart Home Thermostat II [+M] - 0,5-Grad-Regelung ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYm5NWTkxWmRlMFBvbS1OaEp3N3ZqSXpQaVdoVXJxTTZqa1pXYUV0YWxQcUtpenBuVExJR19LOFhDOERSbE9zZzZLQXJjc0lUWXJ0ZjVMOXBZdXpJR1BXTVQxM2FfQzhWWHdTNFFPQ2tPY2VxLWtvV0E1U2tpLWZFWVNzb01wUW5PbFdndno2OXFQc0xfNXB3d1VLN3pKNzhtUGJid1J6TTJLZw?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Raumthermostat II - Warnung ab 70 % Luftfeuchte - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-11-14T17:33:45+00:00",
+        "summary": "Bosch Smart Home Raumthermostat II - Warnung ab 70 % Luftfeuchte ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2QtOTJxbjlGbzRZODBaMEVNZEd0MjI2anN0d1ZzY0ptQWFsbWF1bmJDdl9YNm51cEhmaXRCdjZpT0FndHVrZ185alV2bzF5bnB2NVlKcTU2Q2lrRXlTNVlzUmtxR2lyQUxZM0FvS0l1WnVyT0VOaGQ4UjVWZE95d1pQdktlWUlUbS03b2R4bTZZWnVDbFRzNl9pSVBfOGoyTUFfckxkN01jNHNBOExld0NucG80QzA?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
       {
         "title": "Von Ring bis Bosch: Fünf Smarthome-Deals unter 100 Euro - n-tv.de",
         "source": "n-tv.de",
@@ -134,6 +157,16 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDhzcnZMbUt3Z1BvdnVJa2VseWxoWFp3dE5BWkdyTlVIVGp1N2pFSG9rVTg2c1V4LXNuWUxRYlBtTzhaZlFBcGJpZW5KWktzSGs2UGxEdmdwVG0xejJDN082cmtNVWdmQzRkbXBHTDRVSWdnNEdjNGFRYW5oZ2VnSXhrQl84dHo4WThyYVQ1X1VOZVlSNUZBV1RpdXR2ejNvT2hCenpjWDJOdHk1?oc=5",
         "tags": [
           "Bosch"
+        ]
+      },
+      {
+        "title": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-11-12T09:13:32+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Clever heizen und Kosten senken IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPclREcUYxVTE1NWhScUFNbXlBMGQ0b1BOZDAtZnFIZ3hUN2NyY2hTeWhfTkhac0xwZkh0MjMyMHBFN19iRGI3RlVFMEZ3ekthMmJkak1WcEVidjBLaHpjX3RUa1JpUFlYOTNLNE9QMVBSWFVPVG5uRUpwa1JlUEJ3WnlmUFRHbWRYUTZpcXpHR3JBQQ?oc=5",
+        "tags": [
+          "Ei"
         ]
       },
       {
@@ -218,40 +251,19 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
-        "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0tPNFp0VjVPNDIyY3ItTndWZ1FFdjY4RnZQTFRkRWVwTjAxMnNlTXdtbm41ZnJqNUNMNGJtV2tuTURKaW9hOEJIZlZtZVNxQ0FOclJzLWo?oc=5",
-        "tags": [
-          "Ei",
-          "Pyrexx"
-        ]
       }
     ],
     "doors": [
+      {
+        "title": "Baidu Aktie: Washington bastelt an neuen Chip-Regeln - Börse Express",
+        "source": "Börse Express",
+        "publishedAt": "2026-11-12T16:22:12+00:00",
+        "summary": "Baidu Aktie: Washington bastelt an neuen Chip-Regeln Börse Express",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYlZ3cUE0YkhvQzlrRU1WTWNjWFFhM2VnejR6RjNBVUFxZEVfci1YeHJKUGJPTmJQaGlySE1CNl9aellTRHlnRFV4eG51eEQ3djdiblR6b09FZVJNaDlIYkNYaUVzQVVrVWxycjVFdDM4R2hXcFZCSmpqZEk3RWh2TFI3SHg5d1I0YWZxRTNfX1dDWDF0bnpta1FTRFVDSHA3c2lhVkxR?oc=5",
+        "tags": [
+          "Börse Express"
+        ]
+      },
       {
         "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -361,16 +373,6 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
       }
     ],
     "trends": [
@@ -405,16 +407,6 @@
         ]
       },
       {
-        "title": "Staatspreis Architektur und Nachhaltigkeit 2026: Sport Arena Wien mit Staatspreis ausgezeichnet - HLK",
-        "source": "HLK",
-        "publishedAt": "2026-11-13T06:00:00+00:00",
-        "summary": "Staatspreis Architektur und Nachhaltigkeit 2026: Sport Arena Wien mit Staatspreis ausgezeichnet HLK",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zWWx4SHhyd043SkVwZjJtSHNacUhmMXB4d2lSb0kwX1lQMDZrbVpPd2tRVW1oSU1hTllmQ0hsV2RJR2RsM0h4a1lYenFuZDBmZVdMQUlnZnVRcVhBdGxsRURvcnpsdFRFU0lMd2FUel9DTjFCZjVuM3o5Nk9iMXc?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
-        ]
-      },
-      {
         "title": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude - Business Geomatics",
         "source": "Business Geomatics",
         "publishedAt": "2026-11-12T14:56:29+00:00",
@@ -444,16 +436,6 @@
         "tags": [
           "AI",
           "Nachhaltigkeit"
-        ]
-      },
-      {
-        "title": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! - ADAC",
-        "source": "ADAC",
-        "publishedAt": "2026-09-15T07:00:00+00:00",
-        "summary": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! ADAC",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sU0wycEJuSzU0bnJOdmZuaDhheXdLS2dpY0ZsODVMdUhjdWhIZjc1R21GUUVleFNqU1FpaDdMa2wtTC1POFZvUGxHb2lncTNDS053ajhwLTFzSTQtNkdESzNCZGdqX2RDQlZ6RFJPTDdHM09uVHc?oc=5",
-        "tags": [
-          "ADAC"
         ]
       },
       {
@@ -494,6 +476,26 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
           "SWR"
+        ]
+      },
+      {
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-28T07:00:00+00:00",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
+        "source": "Infopoint Security",
+        "publishedAt": "2026-08-21T07:00:00+00:00",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
