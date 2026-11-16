@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:59:15.905674+00:00",
+  "generatedAt": "2026-11-16T16:51:54.078787+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -52,17 +52,6 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-05-05T12:32:58+00:00",
-        "summary": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem Siemens",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzByTllhTjM5MElFWFJPSHdaaVJHZ21aZktUS2EzVDUxN3Q5ZFpvUUQtbGlPMmVMMnA1emUydDBCLUtlTnFiNzM1bG41TGZCX1VtaVhVZmVTN21LSTlhRzVWWGkwaUlNN2R3Wmp1c1h2UjJid1FaNlAweUZ6Nk5GbDRXc2taSEczU3c3RnozWllRcHlwanFaMkhzRDNKZjB3UkhWZ2oyQUQ?oc=5",
-        "tags": [
-          "Siemens",
-          "Brandschutz"
         ]
       },
       {
@@ -124,9 +113,41 @@
         "tags": [
           "Siemens"
         ]
+      },
+      {
+        "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
+        "source": "Presseportal",
+        "publishedAt": "2026-01-26T08:00:00+00:00",
+        "summary": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy Presseportal",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr - HIFI.DE",
+        "source": "HIFI.DE",
+        "publishedAt": "2026-11-16T11:21:00+00:00",
+        "summary": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr HIFI.DE",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84TS1GTE5NWjJCaXk3a185SHQ3N3VWV3N5NWtzZXpIczBJNmhsU2lNQUJONkZxei1NVlp4LVppWnFqMW5mRnluYU5wd3ptRHZidmhHSGVDQ2RrY1phUG5vbUoxbHQ5cnR5cXpqT0VYcw?oc=5",
+        "tags": [
+          "Ei",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Die Heizung denkt jetzt mit | Bosch 2 [+M] jetzt zum Top-Preis - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-11-16T10:33:53+00:00",
+        "summary": "Die Heizung denkt jetzt mit | Bosch 2 [+M] jetzt zum Top-Preis SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaGg2RmU2U2dtbktXcmx5ZDg0c1dVenF6bTZJelczakYwM1htSDRhVW82TWEzZjhzMlFTWHMxdXJFbFZoeGpsNHhHdXZrVlF1Qkp3ZHkxdk1FYllRY05ycmpqbDZjT2gzY1RxaC1BUktGQzVMWGdlbEFEUWVEa0VnYWlSUTlBdE1RYVE?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
       {
         "title": "Bosch Smart Home Thermostat II [+M] - 0,5-Grad-Regelung - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -147,16 +168,6 @@
         "tags": [
           "Bosch",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Von Ring bis Bosch: Fünf Smarthome-Deals unter 100 Euro - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-11-13T15:47:30+00:00",
-        "summary": "Von Ring bis Bosch: Fünf Smarthome-Deals unter 100 Euro n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDhzcnZMbUt3Z1BvdnVJa2VseWxoWFp3dE5BWkdyTlVIVGp1N2pFSG9rVTg2c1V4LXNuWUxRYlBtTzhaZlFBcGJpZW5KWktzSGs2UGxEdmdwVG0xejJDN082cmtNVWdmQzRkbXBHTDRVSWdnNEdjNGFRYW5oZ2VnSXhrQl84dHo4WThyYVQ1X1VOZVlSNUZBV1RpdXR2ejNvT2hCenpjWDJOdHk1?oc=5",
-        "tags": [
-          "Bosch"
         ]
       },
       {
@@ -187,6 +198,16 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
         "tags": [
           "X-Sense"
+        ]
+      },
+      {
+        "title": "Rauchwarnmelder-Manager mit neuen Funktionen - a3BAU",
+        "source": "a3BAU",
+        "publishedAt": "2026-11-09T08:00:00+00:00",
+        "summary": "Rauchwarnmelder-Manager mit neuen Funktionen a3BAU",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05VUJOa1VaaHhrSmVYOWlTQzNmVlc5Ym5pcVNPd2hSWW9fZF9Gekp2dFdjaG45cGlvZ240by1OaWpzWGR4Sm9nT0o0aTVaU0xHckNrUmZTYjNrejAyYnBVVXZ6NkNXZ2JxdU5iNy1R?oc=5",
+        "tags": [
+          "Rauchwarnmelder"
         ]
       },
       {
@@ -229,41 +250,9 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
-        "source": "PCGH",
-        "publishedAt": "2026-09-18T07:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
-      {
-        "title": "Baidu Aktie: Washington bastelt an neuen Chip-Regeln - Börse Express",
-        "source": "Börse Express",
-        "publishedAt": "2026-11-12T16:22:12+00:00",
-        "summary": "Baidu Aktie: Washington bastelt an neuen Chip-Regeln Börse Express",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYlZ3cUE0YkhvQzlrRU1WTWNjWFFhM2VnejR6RjNBVUFxZEVfci1YeHJKUGJPTmJQaGlySE1CNl9aellTRHlnRFV4eG51eEQ3djdiblR6b09FZVJNaDlIYkNYaUVzQVVrVWxycjVFdDM4R2hXcFZCSmpqZEk3RWh2TFI3SHg5d1I0YWZxRTNfX1dDWDF0bnpta1FTRFVDSHA3c2lhVkxR?oc=5",
-        "tags": [
-          "Börse Express"
-        ]
-      },
       {
         "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -373,19 +362,19 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
-      {
-        "title": "Nachhaltigkeit braucht Mut: Mareike Lammer spricht über die Zukunft des Bauens in Neumarkt - NN.de",
-        "source": "NN.de",
-        "publishedAt": "2026-11-15T06:30:00+00:00",
-        "summary": "Nachhaltigkeit braucht Mut: Mareike Lammer spricht über die Zukunft des Bauens in Neumarkt NN.de",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZWFvamszMWdIQVZmVHJ0N3BNZE1PMDdkZDdHZUc5UjZDQ0RxV21QeHl6ZzZiX2tGaUVxT2FNVEhQbk1QZWtxQ3Y1aGt6alNGd0hzT05xOG1Nc0N6OWlMcUZ6MXpudmdzV1Y3azY3eWlOQ0I1UFNQdnNVZGlhY2ZDR0M3VXh5YjY2ekFDTVA1QWlGd2t6XzlxdVVNWTNvQjcyOHhsN1ktUFlVOGpMcjNiSGpXWVc4Ykw4UDl2MTZSbXFBNXktSjFZQlpydmw3Y1U?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
-        ]
-      },
       {
         "title": "Honeywell-Aktie: Neue KI-Produkte für Gebäudesicherheit vorgestellt - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -397,13 +386,13 @@
         ]
       },
       {
-        "title": "qapture startet KI-Agent qentin für Gebäude - Trending Topics",
-        "source": "Trending Topics",
-        "publishedAt": "2026-11-13T09:11:39+00:00",
-        "summary": "qapture startet KI-Agent qentin für Gebäude Trending Topics",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCTmZKSkdaV2VwU3RVaWxfVEZYSHpjSkhNMWtOTlhmZzhDMkZuUXR1Z1FCcWh1eEVPQVdvNjFkbjZJWUt3Q1htbl90d1pLTmpPTGdWc09tSDNJZ2lTZl82cHVjc2ttWEd4ZmxUMGxuTTRiNXd2TG9hZw?oc=5",
+        "title": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-11-13T02:15:00+00:00",
+        "summary": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUTRhb1RvTmI1b0R0OXJkbGxpSVlmdmtjcUpEbXE1ei1xeEw0MW50TkhQUVl1emltRmFXLUhKZnlUeUtab1R0TzFCaE1MZUpOQkRBeTRnVUh6aVJZ?oc=5",
         "tags": [
-          "KI"
+          "Baulinks"
         ]
       },
       {
@@ -414,6 +403,16 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWRLLWZNaVJrMnQxdWxTSEYyUmkydHFDMWJheVJ5M0t2SUVXU09COTVocU1ZRzZiTFhZcnVIQ25uTG5BTFdOVWRBbHF1VEgzOXlob0NKbDd6MEc3TVRJWnpudDJzQ1Z4NzdsVzdhREZLNi1vdU5nVEVjVVR6bVBDcE5xSnZnTnc0V1lMN1ZHN0JHeGp2M3hzNU9MalFZRnh6ZEkwZQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-11-11T23:00:11+00:00",
+        "summary": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? ADAC",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEQ3WC1YbGV3ZTVteDZsVHYzSWk4Mi0wWmlydzF4WHNsU215X2VqRFhITE1DWTJpbTFjU0pOVVNUOE9XQWl3dEg0RHhUdEp3NEttX2Jsc0RleS1zQ2ZjSGpyY1I5TnBMbW1PLVJDODJhZlM1YzlDU2Rsa05iM2wyaGFBNlpxZDJScnFacno4QUZKckQ5RmRGaDFSRE1UVEh6VHNCMEV2ZWxXR09UcmJ1cEJNZHdBNE0?oc=5",
+        "tags": [
+          "ADAC"
         ]
       },
       {
@@ -436,6 +435,16 @@
         "tags": [
           "AI",
           "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-09-15T07:00:00+00:00",
+        "summary": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! ADAC",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sU0wycEJuSzU0bnJOdmZuaDhheXdLS2dpY0ZsODVMdUhjdWhIZjc1R21GUUVleFNqU1FpaDdMa2wtTC1POFZvUGxHb2lncTNDS053ajhwLTFzSTQtNkdESzNCZGdqX2RDQlZ6RFJPTDdHM09uVHc?oc=5",
+        "tags": [
+          "ADAC"
         ]
       },
       {
@@ -484,16 +493,6 @@
         "publishedAt": "2026-08-28T07:00:00+00:00",
         "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
-        "publishedAt": "2026-08-21T07:00:00+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
         "tags": [
           "KI"
         ]
