@@ -1,39 +1,8 @@
 {
-  "generatedAt": "2026-11-16T16:51:54.078787+00:00",
+  "generatedAt": "2026-11-17T00:36:13.809392+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Globaler Schutz und Schutz 2026 - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-10-03T07:00:00+00:00",
-        "summary": "Globaler Schutz und Schutz 2026 Siemens",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LZlB3WHdkckxrS0FhQkN1NWdUTTFfNlBNallxdmozZ0VaTGw4c05hYTJxWVotRndxMlJTU3lLOWtfWUpGRHJIUlpTWjhsT0RGREpOMjM2WVotdFIxMV96Q09WQ1RIV3RYajBVUGJpRHFsQQ?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
-        "tags": [
-          "Bosch",
-          "Brandschutz"
-        ]
-      },
-      {
-        "title": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-07-13T07:00:00+00:00",
-        "summary": "Siemens bringt neue Brandmelder-Generation Sinteso Nova auf den Markt Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens Press",
         "source": "Siemens Press",
@@ -52,16 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
         "tags": [
           "elektro.net"
-        ]
-      },
-      {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
-        "tags": [
-          "Siemens"
         ]
       },
       {
@@ -105,16 +64,6 @@
         ]
       },
       {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
         "title": "FW Dresden: Automatische Brandmeldeanlage meldet Brand bei Siemens Energy - Presseportal",
         "source": "Presseportal",
         "publishedAt": "2026-01-26T08:00:00+00:00",
@@ -122,6 +71,56 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PRUlkZ2g1TDRrckJRR2NFY1FBbHRXN3EzLU1XT3BCdjVIeHdjMkxOWDc5UGpwQmwxOUlnSnEtWk5JTlExRGFfSE4wbzZqTm9xbGk0a1FuMmVOTDFkZUtHNk13MjFNdw?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-01-24T08:00:00+00:00",
+        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
+        "tags": [
+          "Netzwelt"
+        ]
+      },
+      {
+        "title": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-01-20T08:00:00+00:00",
+        "summary": "Dieser Rauchmelder von Bosch warnt sogar vor Einbrechern n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVozWm4wbWtTUDZWVVpENWtkOUREaEVBT2tJMEhZTkFlX3NzLUZSRk5BZl9PcG9sdjlONV9HOHM1UkVWWDkzdU5IQ3hMZDZfRUdsNnl3ZWJxTlJOUVN4U29XTHJKTWRldHJOX2hRWXVVNWt1U21OeE4yMWQ5bGhKMk5OYm9WbmlFOThDTmctZmhKbkNYQURfVjNvWUlwVHIzMmRBcVdKT0xrbnZNSEFabVE0Zw?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Test: Die beste Smart-Home-Alarmanlage - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2025-10-07T07:00:00+00:00",
+        "summary": "Test: Die beste Smart-Home-Alarmanlage FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03T0R2bDkyU2ctT0NXRXhxQ1lwTTgzSExVOEZlWnR2UGc4ZW9IUmZRWlpNOEwxQ2xUZ2UzN3dMWjB0Ukc2Z1V6bzRwb0dqWVpVdVpYeTlOSXVOTTEwMjhjTEV5LTQ3RW5CTkZSRzRtN1g1VUpVeEttNTh3?oc=5",
+        "tags": [
+          "FAZ"
+        ]
+      },
+      {
+        "title": "Siemens stellt neue Branderkennung per KI-basierter Video-Sensorik vor - Siemens Press",
+        "source": "Siemens Press",
+        "publishedAt": "2024-08-29T07:00:00+00:00",
+        "summary": "Siemens stellt neue Branderkennung per KI-basierter Video-Sensorik vor Siemens Press",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzl2d0lCMF9LTll2WG9YR3ZqTFlhUThzUU9GNW4tMW0yazduYXpCMlZNOWRfSzJrdWszMHJkcUdnOW1QXzBfR0pvd0RPczFOc0t0c1BIYWRabks4WVpObjhXcWRFRG5jQ2k2anB5RmRVZUhGQ0ZMOFBTeUFtUzdzM0ZURFQ5SUg5M21wQzMtMzR4QnRWcm5EMFhBeWl5UVp1YUxhOTJHQkEtbWU0Qk5JMTYweG1xUQ?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Brandmeldetechnik im Bayreuther Liebesbier Urban Art Hotel - Tophotel.de",
+        "source": "Tophotel.de",
+        "publishedAt": "2023-02-23T08:00:00+00:00",
+        "summary": "Brandmeldetechnik im Bayreuther Liebesbier Urban Art Hotel Tophotel.de",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2FmTERhV2hsejB4T3ZtYWhOZ0xpRXV0M2pQQUtNNjR0MUtfOHVxYmtrdUZrX0g5Y29LRHhwMWZxaDcwb0t5cmZXZGdXRlgxeHBObTluMmh3OTFoZ1RybTh5ZlVmWU5PN0k5aXZfQU9LT3l3WmFjRmlHVW9pcjA3SDkwN09qQWhUQ0FSTkw2THZ1cWpj?oc=5",
+        "tags": [
+          "Brandmeldetechnik"
         ]
       }
     ],
@@ -241,18 +240,37 @@
         ]
       },
       {
-        "title": "Tink: Bosch Smart Home Alarmsystem S - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-10-21T13:09:30+00:00",
-        "summary": "Tink: Bosch Smart Home Alarmsystem S n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQandJZW9IMVRQc2U0ZUxETmNBcFZCaDBCWUJBRlI3SWdmTndxTkRUVUVRVWdvemZLVjhTUmozQ05oZGJLMTl5WmRIUVNWS1RmeEZPRExIeGhid3hDVFJxR2NwWVE0dW82THlzUlk5X3Azb3FSVUtxbVlwVW5qR3I5a2NOQUlabUlqQnd6OWVOS3k?oc=5",
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
+        "source": "PCGH",
+        "publishedAt": "2026-09-18T07:00:00+00:00",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
         "tags": [
-          "Bosch",
-          "Smart Home"
+          "X-Sense"
         ]
       }
     ],
     "doors": [
+      {
+        "title": "OpenAI verpflichtet vier unabhängige Prüfstellen für eingebettete Sicherheitsprüfungen - Unite.AI",
+        "source": "Unite.AI",
+        "publishedAt": "2026-11-16T19:52:05+00:00",
+        "summary": "OpenAI verpflichtet vier unabhängige Prüfstellen für eingebettete Sicherheitsprüfungen Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVFtRXRvNG1SdDhNSVE0Uno3SlVFVlRtenUtR2ozLTI5STVGMnJ3eWppa2xjVlQ2bmRXZXZ0S2VabzZBWFQ1QS1YVDNGXzBiQnNvUENiUGFKTEVjRHRvQVhrS1ZIamRPVmdVbkpYQTJDODNnazZ6bWdLTHVJZ0RKX1AzanRjV1VGbFdLazFtQVZYbVRqdzlZ?oc=5",
+        "tags": [
+          "Unite.AI"
+        ]
+      },
+      {
+        "title": "Apollo Research setzt sechs Evaluatoren im Pilotprojekt zum Unterlaufen von Schutzmechanismen bei OpenAI ein - Unite.AI",
+        "source": "Unite.AI",
+        "publishedAt": "2026-11-16T17:38:04+00:00",
+        "summary": "Apollo Research setzt sechs Evaluatoren im Pilotprojekt zum Unterlaufen von Schutzmechanismen bei OpenAI ein Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWxzLTlwbmtlQWNVcWlaVUtiR3VnQVVheFFvSkNPcGE5VEtKc0dkQVR3OG1HOHF1YmpUMTVaMDZLY0lwZXNGTmdJVGRpX3BxOUh0LWxqODhadUQyRlRHUV84YXlNTjVONlhVeWVQZ2tHamItYjFuSng5bUR4ZG9XZVl5UGVITVJDM2cwdWdhUmVuYVpVaGc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -314,16 +332,6 @@
         ]
       },
       {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang - Apollo News",
         "source": "Apollo News",
         "publishedAt": "2026-06-29T07:00:00+00:00",
@@ -362,19 +370,19 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Nachhaltigkeit beginnt mit Verantwortung, KLEUSBERG Verwaltungs-GmbH, Story - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-11-16T14:44:08+00:00",
+        "summary": "Nachhaltigkeit beginnt mit Verantwortung, KLEUSBERG Verwaltungs-GmbH, Story PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjdBT3MtaHUwZ00wcEJtRWczaWZfX0E4YXUySFdveVF5WV9vbnN4OWgxOU1pcG1KUXZ5MjZtYTd1bG9EamhCZWRUV0F2dDJqZFFnSnpQZWNvU0JRek9VTlNtRjBMWUZkb1lTLVdrLXhxc2l3QWVreWlvM2Ixa3RVcG5JTl9QS0tEZU85c1ltN2k0bEJKOFJreEpIeC1laDR2THZESEd0Ym5ySDdhWGs3clZMUFBWQ2Nz?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
       {
         "title": "Honeywell-Aktie: Neue KI-Produkte für Gebäudesicherheit vorgestellt - ad-hoc-news.de",
         "source": "ad-hoc-news.de",
@@ -386,16 +394,6 @@
         ]
       },
       {
-        "title": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-11-13T02:15:00+00:00",
-        "summary": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUTRhb1RvTmI1b0R0OXJkbGxpSVlmdmtjcUpEbXE1ei1xeEw0MW50TkhQUVl1emltRmFXLUhKZnlUeUtab1R0TzFCaE1MZUpOQkRBeTRnVUh6aVJZ?oc=5",
-        "tags": [
-          "Baulinks"
-        ]
-      },
-      {
         "title": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude - Business Geomatics",
         "source": "Business Geomatics",
         "publishedAt": "2026-11-12T14:56:29+00:00",
@@ -403,16 +401,6 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWRLLWZNaVJrMnQxdWxTSEYyUmkydHFDMWJheVJ5M0t2SUVXU09COTVocU1ZRzZiTFhZcnVIQ25uTG5BTFdOVWRBbHF1VEgzOXlob0NKbDd6MEc3TVRJWnpudDJzQ1Z4NzdsVzdhREZLNi1vdU5nVEVjVVR6bVBDcE5xSnZnTnc0V1lMN1ZHN0JHeGp2M3hzNU9MalFZRnh6ZEkwZQ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? - ADAC",
-        "source": "ADAC",
-        "publishedAt": "2026-11-11T23:00:11+00:00",
-        "summary": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? ADAC",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEQ3WC1YbGV3ZTVteDZsVHYzSWk4Mi0wWmlydzF4WHNsU215X2VqRFhITE1DWTJpbTFjU0pOVVNUOE9XQWl3dEg0RHhUdEp3NEttX2Jsc0RleS1zQ2ZjSGpyY1I5TnBMbW1PLVJDODJhZlM1YzlDU2Rsa05iM2wyaGFBNlpxZDJScnFacno4QUZKckQ5RmRGaDFSRE1UVEh6VHNCMEV2ZWxXR09UcmJ1cEJNZHdBNE0?oc=5",
-        "tags": [
-          "ADAC"
         ]
       },
       {
@@ -493,6 +481,16 @@
         "publishedAt": "2026-08-28T07:00:00+00:00",
         "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
+        "source": "Infopoint Security",
+        "publishedAt": "2026-08-21T07:00:00+00:00",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
         "tags": [
           "KI"
         ]
