@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:01:55.228829+00:00",
+  "generatedAt": "2026-11-18T01:05:26.415276+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,6 +129,26 @@
     ],
     "pfs": [
       {
+        "title": "Smarte Heizkörperthermostate im Test: Diese helfen beim Sparen – diese brauchen ein Abo - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-11-17T15:28:01+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Diese helfen beim Sparen – diese brauchen ein Abo IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPclREcUYxVTE1NWhScUFNbXlBMGQ0b1BOZDAtZnFIZ3hUN2NyY2hTeWhfTkhac0xwZkh0MjMyMHBFN19iRGI3RlVFMEZ3ekthMmJkak1WcEVidjBLaHpjX3RUa1JpUFlYOTNLNE9QMVBSWFVPVG5uRUpwa1JlUEJ3WnlmUFRHbWRYUTZpcXpHR3JBQQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Die 7 besten Deals bei Tink: Black Friday liefert Hammerpreise! - HIFI.DE",
+        "source": "HIFI.DE",
+        "publishedAt": "2026-11-17T14:44:00+00:00",
+        "summary": "Die 7 besten Deals bei Tink: Black Friday liefert Hammerpreise! HIFI.DE",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1ZfYjJ6c3ZJQWJzMXlXU3d5UFJZbUZmZk9vSWs3TURrRHF4NHdqRkZFT0VHZ083Z1ZseUt2bkZyelRNYW82d0Q2ZTV2aXRkXzR6TWtMcTB2bmNrV3Fzem9mNzFyTERpUmlxeldoWm40Y0JsbXEzZFhyREtRQ3JPWFRMQ2ZORmZLTkNRRWR6d2JvQnBWQzdCLUpGTDNxUQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "X-Sense: Firmware 1.8.7 für SBS50 erweitert Home-Assistant-Integration - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-11-17T11:30:02+00:00",
@@ -140,23 +160,58 @@
         ]
       },
       {
-        "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
-        "source": "connect.de",
-        "publishedAt": "2026-11-10T08:12:01+00:00",
-        "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
+        "title": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr - HIFI.DE",
+        "source": "HIFI.DE",
+        "publishedAt": "2026-11-16T11:21:00+00:00",
+        "summary": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr HIFI.DE",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84TS1GTE5NWjJCaXk3a185SHQ3N3VWV3N5NWtzZXpIczBJNmhsU2lNQUJONkZxei1NVlp4LVppWnFqMW5mRnluYU5wd3ptRHZidmhHSGVDQ2RrY1phUG5vbUoxbHQ5cnR5cXpqT0VYcw?oc=5",
         "tags": [
-          "X-Sense"
+          "Ei",
+          "Smart Home"
         ]
       },
       {
-        "title": "Rauchwarnmelder-Manager mit neuen Funktionen - a3BAU",
-        "source": "a3BAU",
-        "publishedAt": "2026-11-09T08:00:00+00:00",
-        "summary": "Rauchwarnmelder-Manager mit neuen Funktionen a3BAU",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05VUJOa1VaaHhrSmVYOWlTQzNmVlc5Ym5pcVNPd2hSWW9fZF9Gekp2dFdjaG45cGlvZ240by1OaWpzWGR4Sm9nT0o0aTVaU0xHckNrUmZTYjNrejAyYnBVVXZ6NkNXZ2JxdU5iNy1R?oc=5",
+        "title": "Die Heizung denkt jetzt mit | Bosch 2 [+M] jetzt zum Top-Preis - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-11-16T10:33:53+00:00",
+        "summary": "Die Heizung denkt jetzt mit | Bosch 2 [+M] jetzt zum Top-Preis SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaGg2RmU2U2dtbktXcmx5ZDg0c1dVenF6bTZJelczakYwM1htSDRhVW82TWEzZjhzMlFTWHMxdXJFbFZoeGpsNHhHdXZrVlF1Qkp3ZHkxdk1FYllRY05ycmpqbDZjT2gzY1RxaC1BUktGQzVMWGdlbEFEUWVEa0VnYWlSUTlBdE1RYVE?oc=5",
         "tags": [
-          "Rauchwarnmelder"
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Thermostat-Testsieger: Heiznote „sehr gut“ für diesen Bosch-Regler - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-11-16T05:13:47+00:00",
+        "summary": "Thermostat-Testsieger: Heiznote „sehr gut“ für diesen Bosch-Regler IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXRVTW1HZWZZdkp5NEVnOURTSjQ5UVRrQ1Foem5ySFZuVWF3VjA4RDhCbm0teE5iN2M3Qk0ySF95Yi1mNS0wSjM1OGM0ZkszeUlvMlZBYjZySm4zOUt4bTltVHdhN2ZMQ0NfZFFPZnloc0JFUUpzLTU4YTFBWGNlSVNHdE8?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Thermostat II [+M] - 0,5-Grad-Regelung - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-11-14T18:15:51+00:00",
+        "summary": "Bosch Smart Home Thermostat II [+M] - 0,5-Grad-Regelung ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYm5NWTkxWmRlMFBvbS1OaEp3N3ZqSXpQaVdoVXJxTTZqa1pXYUV0YWxQcUtpenBuVExJR19LOFhDOERSbE9zZzZLQXJjc0lUWXJ0ZjVMOXBZdXpJR1BXTVQxM2FfQzhWWHdTNFFPQ2tPY2VxLWtvV0E1U2tpLWZFWVNzb01wUW5PbFdndno2OXFQc0xfNXB3d1VLN3pKNzhtUGJid1J6TTJLZw?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Raumthermostat II - Warnung ab 70 % Luftfeuchte - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-11-14T17:33:45+00:00",
+        "summary": "Bosch Smart Home Raumthermostat II - Warnung ab 70 % Luftfeuchte ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2QtOTJxbjlGbzRZODBaMEVNZEd0MjI2anN0d1ZzY0ptQWFsbWF1bmJDdl9YNm51cEhmaXRCdjZpT0FndHVrZ185alV2bzF5bnB2NVlKcTU2Q2lrRXlTNVlzUmtxR2lyQUxZM0FvS0l1WnVyT0VOaGQ4UjVWZE95d1pQdktlWUlUbS03b2R4bTZZWnVDbFRzNl9pSVBfOGoyTUFfckxkN01jNHNBOExld0NucG80QzA?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
         ]
       },
       {
@@ -197,58 +252,6 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
         "tags": [
           "X-Sense"
-        ]
-      },
-      {
-        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-06-04T07:00:00+00:00",
-        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
-        "tags": [
-          "Teltarif"
-        ]
-      },
-      {
-        "title": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test - Spiegel",
-        "source": "Spiegel",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Doch nicht »Mangelhaft«: Stiftung Warentest haftet für fehlerhaften Rauchmelder-Test Spiegel",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXNkenMzZS1aZHYxeEtlakNXdkhNbW9vT3NoNmdKcmN6STJOcjM2bGxmVFRpNFJwcUVKVDJHRUIzYjV0UlJBUjV2OVRxR0VFbHdjRFRoQXU3MEI2akYtT2JvcnQ5N3pDMk1odnZGNkdDR051RUt1cllEVHJLUVUxMFlVWG90bWQ2ekV3c3hnd3BfVEhlajFsb01JZ2N6bnlwcHhWaFpZNDBGU0pFMG5oOVRnZE9sdVdQcnpqVmdDalF0eFRoY3FVUXhfdTVEcm8?oc=5",
-        "tags": [
-          "Spiegel"
-        ]
-      },
-      {
-        "title": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest - Presseportal",
-        "source": "Presseportal",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Nach historischem Urteil: Pyrexx-Chef über fünf Jahre Kampf gegen die Stiftung Warentest Presseportal",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0tPNFp0VjVPNDIyY3ItTndWZ1FFdjY4RnZQTFRkRWVwTjAxMnNlTXdtbm41ZnJqNUNMNGJtV2tuTURKaW9hOEJIZlZtZVNxQ0FOclJzLWo?oc=5",
-        "tags": [
-          "Ei",
-          "Pyrexx"
-        ]
-      },
-      {
-        "title": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? - Computer Bild",
-        "source": "Computer Bild",
-        "publishedAt": "2026-02-25T08:00:00+00:00",
-        "summary": "Smarter Brandschutz zum Sparpreis: Was kann das Bosch-Set für 180 Euro? Computer Bild",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXlOYlV0SWFpRGhneHBWTWhwbU1VOVl6TVZIdXNnMU5fQjdIOHk3YlRqNTQ0NE9mYWRXYmg0UTY5OG9oVXpQNDVxQWtQcGl4LXlaLUdXMEtvTHp3b2cwOVVlM0Z3VUdWZnVwYTl6REpKdFFVbkZjTDIwcktQWnhFeTNBQ0NfOGhmdFcwYlUxWjh0WmRqbnNhR0w5d09HbEhCTlNjcWJR?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen - Netzwelt",
-        "source": "Netzwelt",
-        "publishedAt": "2026-01-24T08:00:00+00:00",
-        "summary": "Frist für Millionen Haushalte läuft ab: Neue smarte Rauchmelder nötig - das sind eure Alternativen Netzwelt",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGU4ak1iQTlfUTVtdmx2NlpCMkFPWmlDZS1TLVVVTzVPVG5wOTR4b2ZuVlpCZk5xdWJNZF9SOWd0S0xtdlZBRmt6X1B4X2ZvV2wxSnlsN09ZUmVHN3RjdWZDejJyM0pQRnBaUGRxNTZSMTFKMjA0Y3R1eE9qNFJ1OFVtdUNTaXJ4RDN0Q1R2b0ljaTQyanJ3UnZIaXZaRldaQmU1Q2UyX0RRWGNwcTljX1pvOA?oc=5",
-        "tags": [
-          "Netzwelt"
         ]
       }
     ],
@@ -296,7 +299,7 @@
       {
         "title": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten - Badische Neueste Nachrichten",
         "source": "Badische Neueste Nachrichten",
-        "publishedAt": "2026-09-16T07:00:00+00:00",
+        "publishedAt": "2026-09-09T13:31:37+00:00",
         "summary": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten Badische Neueste Nachrichten",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaEc0RGhQQjlKSWpkT0RUWFlDME1QRkhPeTVQUmVuQ1hYNGh6SVRMUWl5eFo5OE9zVG9TY1ZkVDEzUWw3Tjd5blBPYlpkbzZwSEdOd3czLS1qR1ZMM1FpSmE5N0VHQU5KNHljaEo0SFNjWXoyNWswZXNidWl4WDdfNi1vc202eWlRbHRuRmhXVzIzc3ZrT1cwVjFnMHVacS1Wc1dqemFYV0s3c2ZyVURzMUtSM0FFT3gwLVdEVUJBbU9PUFpNcnlIU2V0TkpvNVNDVWx2M1VOcXRWTDZlSTN1bG5nSXRUOE1EWk1KLV9YN0Q?oc=5",
         "tags": [
@@ -376,6 +379,26 @@
     ],
     "trends": [
       {
+        "title": "Honeywell Aktienanalyse: Gewinn je Aktie plus 34 Prozent nach der Aufspaltung – was der neue Automatisierungs-Riese kann - AktienCheck.de",
+        "source": "AktienCheck.de",
+        "publishedAt": "2026-11-14T15:53:18+00:00",
+        "summary": "Honeywell Aktienanalyse: Gewinn je Aktie plus 34 Prozent nach der Aufspaltung – was der neue Automatisierungs-Riese kann AktienCheck.de",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHdWLVk2YVgxTDV3MEdqQ09mYVczVmNUVXczWVg1RXBRdWpnaVllbko1ekx5R0pmWDRFZ09fN3VqaFZ2NUpfTDNmbUR2SElOaW5JZi1OOHNmOFM1V1AxR3loNlV4VXdSdk5OaEtnTXE2N3Jxd19qZlhCYlpxaEp1LURLdHdFVkJnOHhKckVZTkRCbGs0dWFic3d0U05kR3oySjBHYzVvRUR4MHJtZXU2SA?oc=5",
+        "tags": [
+          "AktienCheck.de"
+        ]
+      },
+      {
+        "title": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-11-13T02:15:00+00:00",
+        "summary": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUTRhb1RvTmI1b0R0OXJkbGxpSVlmdmtjcUpEbXE1ei1xeEw0MW50TkhQUVl1emltRmFXLUhKZnlUeUtab1R0TzFCaE1MZUpOQkRBeTRnVUh6aVJZ?oc=5",
+        "tags": [
+          "Baulinks"
+        ]
+      },
+      {
         "title": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude - Business Geomatics",
         "source": "Business Geomatics",
         "publishedAt": "2026-11-12T14:56:29+00:00",
@@ -383,6 +406,48 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWRLLWZNaVJrMnQxdWxTSEYyUmkydHFDMWJheVJ5M0t2SUVXU09COTVocU1ZRzZiTFhZcnVIQ25uTG5BTFdOVWRBbHF1VEgzOXlob0NKbDd6MEc3TVRJWnpudDJzQ1Z4NzdsVzdhREZLNi1vdU5nVEVjVVR6bVBDcE5xSnZnTnc0V1lMN1ZHN0JHeGp2M3hzNU9MalFZRnh6ZEkwZQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-11-11T23:00:11+00:00",
+        "summary": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? ADAC",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEQ3WC1YbGV3ZTVteDZsVHYzSWk4Mi0wWmlydzF4WHNsU215X2VqRFhITE1DWTJpbTFjU0pOVVNUOE9XQWl3dEg0RHhUdEp3NEttX2Jsc0RleS1zQ2ZjSGpyY1I5TnBMbW1PLVJDODJhZlM1YzlDU2Rsa05iM2wyaGFBNlpxZDJScnFacno4QUZKckQ5RmRGaDFSRE1UVEh6VHNCMEV2ZWxXR09UcmJ1cEJNZHdBNE0?oc=5",
+        "tags": [
+          "ADAC"
+        ]
+      },
+      {
+        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
+        "source": "Produktion Online",
+        "publishedAt": "2026-10-07T07:00:00+00:00",
+        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München Produktion Online",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
+        "tags": [
+          "Retrofit",
+          "AI"
+        ]
+      },
+      {
+        "title": "Das Gebäude besticht durch reduzierte, moderne Architektur und Nachhaltigkeit. Seine Geometrie und die Holzfassade lassen es mit der Landschaft verschmelzen. - DETAIL",
+        "source": "DETAIL",
+        "publishedAt": "2026-09-22T09:28:59+00:00",
+        "summary": "Das Gebäude besticht durch reduzierte, moderne Architektur und Nachhaltigkeit. Seine Geometrie und die Holzfassade lassen es mit der Landschaft verschmelzen. DETAIL",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iSWlzUlVPSU8tUUFqanpIUjRJRXdyeV9GNnZMeGRRcGFHbHBlQV95MENORVA2d3RRcjZwZ2czMzVlVVlnS3Rkc2FyaHJ5NTF6cnpCTXNsXzZEM1Mwd1M5NlNn?oc=5",
+        "tags": [
+          "AI",
+          "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-09-15T07:00:00+00:00",
+        "summary": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! ADAC",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sU0wycEJuSzU0bnJOdmZuaDhheXdLS2dpY0ZsODVMdUhjdWhIZjc1R21GUUVleFNqU1FpaDdMa2wtTC1POFZvUGxHb2lncTNDS053ajhwLTFzSTQtNkdESzNCZGdqX2RDQlZ6RFJPTDdHM09uVHc?oc=5",
+        "tags": [
+          "ADAC"
         ]
       },
       {
@@ -433,66 +498,6 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
-        "publishedAt": "2026-08-21T07:00:00+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - tagesschau.de",
-        "source": "tagesschau.de",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können tagesschau.de",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45SkFSTnpTd0tiU2hlaXVmYzgyTkxtMDRuNEVLS3U2VW1feWNhN3Q2eGtMYmlkb3R4Ny1IRGxuTTJWVTFlQ3ExWjFEQl9CbmhFODlGeEpWMER5TkpTZGFZ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen - ARD Mediathek",
-        "source": "ARD Mediathek",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "tagesschau24 - Wie Drohnen und KI zum Brandschutz in Waldgebieten eingesetzt werden können - hier anschauen ARD Mediathek",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNXo0Nlp6c2Z2UzZSZndpRWx6Z0hiaFV2Vk5QUENrOHg1azNoYzBFYnBUM0hVRHlSalZqR3lWSmJPMEhYbmRVNDBkSnlqMGhpTnVCMkZOd0FlNmJlakRKNlcyY2xydmJ2NU9RcUlEMTFiRjRFX00yaFlacmZJb0ZJQkdjMHFIdkJCSVBLck9ILTAyZDlLaDJ0N2paQVFDUU5HemNnRWZTWFMwd2xHeERrdmswenUwZlBUMWxRTkgwX1ZweW1XWXd1OWVLTldOa2NTVzdxUTExV0RDWkFEQ2kzdGpjbXRrVnFnYTJGYkdWbkNybTY4NGg3YW93MlhlMkd5NU5NTnVXdnN6RW8tb1Fxd0luN2hkT1lXbXl3WEJ5cVloMmIwNWRDQzlUal9xXzlXLUdENU9VaDI?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Badehaus am Rechenzentrum: Architekten wollen bessere KI-Gebäude - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-19T07:00:00+00:00",
-        "summary": "Badehaus am Rechenzentrum: Architekten wollen bessere KI-Gebäude Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2dzdktTRXIxaWtLUjI0NXd2V1AtYXdzZEkyYnpZTFBnN19GamxsVEdoNkl2cnJlRFdfX2NpWjZYbjk5S19veUlEVzZXQjZtQ1h6ZG5oZm9sT3VCM0ZrdzFrbGg2VklaZVRKZTh1VmphcnhFaEc3NVFmOUN1Z1Z6QzFxVm8zSkc2YU4xYXlvak5QeldPQ0FsOS1EZGZxTmFDRXEyMksyQzN3NFJqdk9Iam9IQk9LN3hsSFE?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte - Handelsblatt Live",
-        "source": "Handelsblatt Live",
-        "publishedAt": "2026-06-16T07:00:00+00:00",
-        "summary": "Wenn Rechenzentren brennen, braucht es neue Schutzkonzepte Handelsblatt Live",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDREaHF0T1ptZkpVNVNtOEtfT3BSX0hrRi1LRFdNcG9xZ2JiMjJ6THRJVVRDbjYwVk5JNmZGc2FyUm1ES1dfVDFlc3dYckJrNUZ3bjFxTGF2RWlza2o1bHlmMWtqdUdEU3MzVkVtblAxM2JjTjFSeVFveXgzSWdvU29lWkZwbHBFbGJGbnJzbEVvZw?oc=5",
-        "tags": [
-          "Handelsblatt Live"
-        ]
-      },
-      {
-        "title": "Künstliche Intelligenz in der Elektro-, Gebäude-, Alarm-, Kommunikations­technik - wko.at",
-        "source": "wko.at",
-        "publishedAt": "2026-06-06T22:15:28+00:00",
-        "summary": "Künstliche Intelligenz in der Elektro-, Gebäude-, Alarm-, Kommunikations­technik wko.at",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTElad2tHNzZaazVSTjBzbVFvcnpkU2d4SEpGTXl2Q0NiUDkxd09pXzdFN0JuVnV5TG5BNHpNVzRzdGRjQ0pONkotdFZvTVpGRy1WQ0I2M2ZtMGs5VDhjaVN0ZjZqOF9RRlFCQUlEM0ZNMVdDQmx3dmNXckJOa3VKdE1GenhRa05DQ2t1alJ4NVF1UWZJV1B4RUl5NTM?oc=5",
-        "tags": [
-          "wko.at"
         ]
       }
     ]
