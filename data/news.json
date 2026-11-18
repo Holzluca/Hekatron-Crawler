@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:43:41.345096+00:00",
+  "generatedAt": "2026-11-18T23:47:06.020989+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,6 +129,28 @@
     ],
     "pfs": [
       {
+        "title": "30 Heizkörperthermostate getestet | Bei diesen Black-Friday-Deals würden wir zugreifen - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-11-18T23:25:34+00:00",
+        "summary": "30 Heizkörperthermostate getestet | Bei diesen Black-Friday-Deals würden wir zugreifen SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmxYRXpUQzhuRDJ6R1BDWG1VbjFlN1k0LUFEN3B4NktYVkVFR0Y2Y2JQd1RaQmxrLVk3SjdOTTVNMTd1Nl91QnpUbG9qQTVtYWt4NElaWlAzeGpEZHlpOGJ0YXk3Qll4Y0lwZ2RSNUVOQlA4d2NlUVZmZzBiZm9BTUJ3ejA?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Tink: Bosch Smart Home Rauchwarnmelder II - 6er-Set - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-11-18T17:38:33+00:00",
+        "summary": "Tink: Bosch Smart Home Rauchwarnmelder II - 6er-Set n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYlhJU2V6N0UyLW1vRWRSY1RZWXpyZk5kTUUxRVE1Y3VYZ3ZNaHBmU1V6SXlYRlE2NDF1Mko4NEdvVjFDcXVEREZhTDc5QVNNLWp3WUxOYUpsM3FRZkdyVEtUY0MxTF8yQ005NkJBbWZxV0k4R19WZGhzZlFZQ2t4SGF1NGpMcFVCZ0pfMm1nck5sZw?oc=5",
+        "tags": [
+          "Bosch",
+          "Rauchwarnmelder",
+          "Smart Home"
+        ]
+      },
+      {
         "title": "Smarte Heizkörperthermostate im Test: Diese helfen beim Sparen – diese brauchen ein Abo - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-11-17T15:28:01+00:00",
@@ -231,26 +253,6 @@
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2IxT3F6Vml6ZlNoNHRPVmFSYUlacktDV19yaUNhZHpFX1Q2N1lZb050YS1hamZEMlBXMnp4TlZzQm8wRUZEbHlycVU4T0NvVXVrR1VPS0t4eHlKdzh0TS13aVFCa1ZKdjdpSnhnbU9MN1MtRk5JaUxWNkpacmZfcFJScV9KMGVKSGFtaWtmdFdqRjdTMzYzUVhwYWNVWEpiLU9HZXh5ZnNiVV9EbFhhbGpXdFl1b29JSTNMdVZyTVY3N1FUUE5QbE10bFEwQjVtSjk2UEJnOC1VcmRBQmNtVllNWjFPbUQtRXRpS0s2N2FpVUlk?oc=5",
         "tags": [
           "CHIP"
-        ]
-      },
-      {
-        "title": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! - ADAC",
-        "source": "ADAC",
-        "publishedAt": "2026-10-22T07:00:00+00:00",
-        "summary": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! ADAC",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
-        "source": "PCGH",
-        "publishedAt": "2026-09-18T07:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
-        "tags": [
-          "X-Sense"
         ]
       }
     ],
