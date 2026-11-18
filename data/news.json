@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T08:46:48.051935+00:00",
+  "generatedAt": "2026-11-18T17:43:41.345096+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -171,17 +171,6 @@
         ]
       },
       {
-        "title": "Die Heizung denkt jetzt mit | Bosch 2 [+M] jetzt zum Top-Preis - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-11-16T10:33:53+00:00",
-        "summary": "Die Heizung denkt jetzt mit | Bosch 2 [+M] jetzt zum Top-Preis SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaGg2RmU2U2dtbktXcmx5ZDg0c1dVenF6bTZJelczakYwM1htSDRhVW82TWEzZjhzMlFTWHMxdXJFbFZoeGpsNHhHdXZrVlF1Qkp3ZHkxdk1FYllRY05ycmpqbDZjT2gzY1RxaC1BUktGQzVMWGdlbEFEUWVEa0VnYWlSUTlBdE1RYVE?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "Thermostat-Testsieger: Heiznote „sehr gut“ für diesen Bosch-Regler - IMTEST",
         "source": "IMTEST",
         "publishedAt": "2026-11-16T05:13:47+00:00",
@@ -253,9 +242,49 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
+        "source": "PCGH",
+        "publishedAt": "2026-09-18T07:00:00+00:00",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "Apollo Global Management-Aktie: Apollo beteiligt sich an Focus - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-11-18T17:12:16+00:00",
+        "summary": "Apollo Global Management-Aktie: Apollo beteiligt sich an Focus ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0ZnUkI2eDFONko3VDRCZmlDd0piUGFPUHYyT0lZNFdZNE8tRWpoWG8wSFZPOUpKNEpOdGtmNUNnaDdranZqWlR4Wnh0b2pGTmNZbkpEOTc2VG1lTmNlb2JhXzBmeG95em1vRXdKM0NScFlzMnRBRHZSenFncDZ6bEtfZUxJOGNyYlZNY2twaHRTTFJMM2VNdkdyUHZyNWN0TmV2SjN0bWR6Y2ZMRi1QZHg2LU4wTlcwV3kwVXEtTjBKUQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen - BornCity",
+        "source": "BornCity",
+        "publishedAt": "2026-11-18T15:44:04+00:00",
+        "summary": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen BornCity",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajM0aE5uVHRFLUVFRExaOGs2amlUNWtNbjNwUTdEWmZheGxRZGZlN2dKajJGTksxaHNwRmRndVhTaTlwdDlKcUlMWjkxZ2tXTWw0VENNaG0tMVZIdFVvam40cl9sTU9CZkF4NXA5Q252SkxXYXpZb192QnJaVjlaUUFidXdHQjZjejJYLWNYM1VnMWdhZTlfQS02WHExeFVoYXF5ZWZOOA?oc=5",
+        "tags": [
+          "BornCity"
+        ]
+      },
+      {
+        "title": "OpenAI Apollo: Umfang der geplanten Sicherheitsprüfung - NeoTeo",
+        "source": "NeoTeo",
+        "publishedAt": "2026-11-17T19:10:16+00:00",
+        "summary": "OpenAI Apollo: Umfang der geplanten Sicherheitsprüfung NeoTeo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQXV4WXlOOVdhZExxTFRsdFc1bGliUkRudXdUalozRERaX0NpLVNGb05SRmRWeDdmdkdFVmY4bmJYVmZWbDJkaUlGX1l3elc5VEdtc0tXbHFXWkJXQ1l5ZHg0cm5ob3paOHNYY2RSdklTWmdxUjVES3FwaV9wd3c3bUlIa3R5QQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
       {
         "title": "OpenAI verpflichtet vier unabhängige Prüfstellen für eingebettete Sicherheitsprüfungen - Unite.AI",
         "source": "Unite.AI",
@@ -297,16 +326,6 @@
         ]
       },
       {
-        "title": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten - Badische Neueste Nachrichten",
-        "source": "Badische Neueste Nachrichten",
-        "publishedAt": "2026-09-09T13:31:37+00:00",
-        "summary": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten Badische Neueste Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaEc0RGhQQjlKSWpkT0RUWFlDME1QRkhPeTVQUmVuQ1hYNGh6SVRMUWl5eFo5OE9zVG9TY1ZkVDEzUWw3Tjd5blBPYlpkbzZwSEdOd3czLS1qR1ZMM1FpSmE5N0VHQU5KNHljaEo0SFNjWXoyNWswZXNidWl4WDdfNi1vc202eWlRbHRuRmhXVzIzc3ZrT1cwVjFnMHVacS1Wc1dqemFYV0s3c2ZyVURzMUtSM0FFT3gwLVdEVUJBbU9PUFpNcnlIU2V0TkpvNVNDVWx2M1VOcXRWTDZlSTN1bG5nSXRUOE1EWk1KLV9YN0Q?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Nicolás Maduro: Gestürzter Diktator veröffentlicht offenbar Fotos aus Gefängnis - Spiegel",
         "source": "Spiegel",
         "publishedAt": "2026-09-01T07:00:00+00:00",
@@ -314,16 +333,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
           "Spiegel"
-        ]
-      },
-      {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
-        "source": "Manager Magazin",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
-        "tags": [
-          "Apollo"
         ]
       },
       {
@@ -365,28 +374,19 @@
         "tags": [
           "Augsburger Allgemeine"
         ]
-      },
-      {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
-        ]
       }
     ],
     "trends": [
       {
-        "title": "SC Ellerau: Wie das neue Sportgebäude Maßstäbe bei Nachhaltigkeit setzt - Kieler Nachrichten",
-        "source": "Kieler Nachrichten",
-        "publishedAt": "2026-11-17T16:02:51+00:00",
-        "summary": "SC Ellerau: Wie das neue Sportgebäude Maßstäbe bei Nachhaltigkeit setzt Kieler Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1BvdzRqOTRPYWdkaDZMZzRqdlFaaE5TaWJIRXlFaVc0VVNwek1FWUlNMjRTUVdRUWJvZ2JlclgtOTk3d05NN25MYmZPbk9xb213VWZ6M0FXQUxyOWJuaGFUWkoxRjQ1SkNxSy1DWTlqaERhYndOWjE5SE84X25zalFOQlExcWs0U0ZsMTdfdThsRlRhVGY1QUpDdndlMm1DT0NSaDVneFFpbzB4NWV1NjlLNS10SE9WSl9FMW1sOXU2QWNHeTliRjBGY2hxeHhtLWRyR3BlWXlhZ21jbm1JcNIB_AFBVV95cUxQQXlFbFZ2aUhiSjdPbkNhM2ZuTFpRV1Ryeko5WEVZVUhXbjRPc1RpQklMNlROa1ZLYkpxQ3Vsd3VZZHpuaFd1SnpfS2VkUGFYOGVvS2JDRjU2dDhQdnBzLXJ0WUJKRUttWDJpN1dfeWs5OTItYWcwNXlPU0E3RHVWZHh3cFFaeVFJQWJGcUFKVlZxSW5FV3lBeWhrUngxbE9qbUh1WlZJTEhHbThqanQ4Ukp4bmVhc21mOFplZWFYQzlmS1NaZnBoQl9yYjZZT09mOGN5czlzWTVqWU1TcWFidzNBajJVWl9LU19wQmZKcFlrWHIzY2N2bkFiUUg?oc=5",
+        "title": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-11-18T13:24:00+00:00",
+        "summary": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlR6N251cE0wZkFucjc5YkgzbmpDSzRhcWhmM3VoOVRkTUlTUDMydHBGLXc5UVY1RjR3M1Zmdmx0TGZKSkp0SFRsZWs2MjV5X2ttbzZCQ3RQU0JVdFFRa2doc3otcklGM1Uyel9UbXJobmVyWGhSZVlBdUEyZHNKZkJDM1VEMWY3VDJUcHJxckVsNkxFcU9oa3MySkp1Mk91NWhwWUtReVlTMXlSdTktTzlXb0sxNUkzNHRXRk13bmU0TzR0bl9IazJTUXVhR1J5T3c?oc=5",
         "tags": [
-          "KI",
-          "Nachhaltigkeit"
+          "Retrofit",
+          "Cybersecurity",
+          "KI"
         ]
       },
       {
@@ -397,16 +397,6 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHdWLVk2YVgxTDV3MEdqQ09mYVczVmNUVXczWVg1RXBRdWpnaVllbko1ekx5R0pmWDRFZ09fN3VqaFZ2NUpfTDNmbUR2SElOaW5JZi1OOHNmOFM1V1AxR3loNlV4VXdSdk5OaEtnTXE2N3Jxd19qZlhCYlpxaEp1LURLdHdFVkJnOHhKckVZTkRCbGs0dWFic3d0U05kR3oySjBHYzVvRUR4MHJtZXU2SA?oc=5",
         "tags": [
           "AktienCheck.de"
-        ]
-      },
-      {
-        "title": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-11-13T02:15:00+00:00",
-        "summary": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUTRhb1RvTmI1b0R0OXJkbGxpSVlmdmtjcUpEbXE1ei1xeEw0MW50TkhQUVl1emltRmFXLUhKZnlUeUtab1R0TzFCaE1MZUpOQkRBeTRnVUh6aVJZ?oc=5",
-        "tags": [
-          "Baulinks"
         ]
       },
       {
@@ -499,6 +489,16 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
           "SWR"
+        ]
+      },
+      {
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-28T07:00:00+00:00",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
