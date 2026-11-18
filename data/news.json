@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T01:05:26.415276+00:00",
+  "generatedAt": "2026-11-18T08:46:48.051935+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -225,6 +225,16 @@
         ]
       },
       {
+        "title": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q - Netz Trends",
+        "source": "Netz Trends",
+        "publishedAt": "2026-10-24T07:00:00+00:00",
+        "summary": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q Netz Trends",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0czT3RFcnBPdk84NkUzdHBsRm5Rdk1WSnliblZxckJSeFhqLXc4bTNlYTN5SDFSLVR4SW16U2hYMF9TWkQwTG5UNkQtUS1OQ3d3Mi1zRlExTy1VbV81blcwQ0xJWDRrXzY3VnhHOEpVckJ6ejVtM3lVRHdNV1N6Y3lSMnE4SE8ydlVSX0I0bmhXX1NaMjBHQWZ0MENhbGdjQllGWUFJckdLS3BU?oc=5",
+        "tags": [
+          "Pyrexx"
+        ]
+      },
+      {
         "title": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-10-23T07:00:00+00:00",
@@ -242,16 +252,6 @@
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
         "tags": [
           "Ei"
-        ]
-      },
-      {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
-        "source": "PCGH",
-        "publishedAt": "2026-09-18T07:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
-        "tags": [
-          "X-Sense"
         ]
       }
     ],
@@ -317,6 +317,16 @@
         ]
       },
       {
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
         "source": "tippinpoint.ch",
         "publishedAt": "2026-07-28T07:00:00+00:00",
@@ -365,19 +375,20 @@
         "tags": [
           "Business Insider Deutschland"
         ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "SC Ellerau: Wie das neue Sportgebäude Maßstäbe bei Nachhaltigkeit setzt - Kieler Nachrichten",
+        "source": "Kieler Nachrichten",
+        "publishedAt": "2026-11-17T16:02:51+00:00",
+        "summary": "SC Ellerau: Wie das neue Sportgebäude Maßstäbe bei Nachhaltigkeit setzt Kieler Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1BvdzRqOTRPYWdkaDZMZzRqdlFaaE5TaWJIRXlFaVc0VVNwek1FWUlNMjRTUVdRUWJvZ2JlclgtOTk3d05NN25MYmZPbk9xb213VWZ6M0FXQUxyOWJuaGFUWkoxRjQ1SkNxSy1DWTlqaERhYndOWjE5SE84X25zalFOQlExcWs0U0ZsMTdfdThsRlRhVGY1QUpDdndlMm1DT0NSaDVneFFpbzB4NWV1NjlLNS10SE9WSl9FMW1sOXU2QWNHeTliRjBGY2hxeHhtLWRyR3BlWXlhZ21jbm1JcNIB_AFBVV95cUxQQXlFbFZ2aUhiSjdPbkNhM2ZuTFpRV1Ryeko5WEVZVUhXbjRPc1RpQklMNlROa1ZLYkpxQ3Vsd3VZZHpuaFd1SnpfS2VkUGFYOGVvS2JDRjU2dDhQdnBzLXJ0WUJKRUttWDJpN1dfeWs5OTItYWcwNXlPU0E3RHVWZHh3cFFaeVFJQWJGcUFKVlZxSW5FV3lBeWhrUngxbE9qbUh1WlZJTEhHbThqanQ4Ukp4bmVhc21mOFplZWFYQzlmS1NaZnBoQl9yYjZZT09mOGN5czlzWTVqWU1TcWFidzNBajJVWl9LU19wQmZKcFlrWHIzY2N2bkFiUUg?oc=5",
+        "tags": [
+          "KI",
+          "Nachhaltigkeit"
+        ]
+      },
       {
         "title": "Honeywell Aktienanalyse: Gewinn je Aktie plus 34 Prozent nach der Aufspaltung – was der neue Automatisierungs-Riese kann - AktienCheck.de",
         "source": "AktienCheck.de",
@@ -488,16 +499,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
           "SWR"
-        ]
-      },
-      {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
