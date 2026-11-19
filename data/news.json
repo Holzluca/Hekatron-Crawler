@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:38:33.847793+00:00",
+  "generatedAt": "2026-11-19T22:31:52.052928+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -76,16 +76,6 @@
         ]
       },
       {
-        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-05-22T07:00:00+00:00",
-        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
-        "tags": [
-          "elektro.net"
-        ]
-      },
-      {
         "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-05-05T12:32:58+00:00",
@@ -107,49 +97,37 @@
         ]
       },
       {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens Press",
+        "source": "Siemens Press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
         "tags": [
           "Siemens"
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
+        "source": "Baulinks",
+        "publishedAt": "2026-02-10T08:00:00+00:00",
+        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
         "tags": [
-          "Neue Zürcher Zeitung"
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Verlässliche Lösungen von Siemens für höchste Sicherheit in Re ... - Siemens Press",
+        "source": "Siemens Press",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Verlässliche Lösungen von Siemens für höchste Sicherheit in Re ... Siemens Press",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONXBBUXpOX01lRHR4cVUzakxQdTA0bHdmQkZoN1paWWMxV3VXMEVnWkNKM2x4VW5RaHJtbEFVTTlfYThBMWl0Yl9HZ0JZUGJ0UFBUR2pYXzVnYVlEc09TaXYteG8tM05Fb1FXSVFYRHJ4T1RfZzRGNGtXZjlaVU0tNlJ2cEJISUFKTHYtVjJ1NGQxSGVzZmtfMlk5Qk4xMV9BOGxLTmVKUzUwOW56X1JLLXBkQ3I5SkxxN05URUp0cWVybG9MNFkw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
     "pfs": [
-      {
-        "title": "X-Sense FS61: Vernetztes Rauchmelder-Set zum Black Week - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-11-19T13:30:00+00:00",
-        "summary": "X-Sense FS61: Vernetztes Rauchmelder-Set zum Black Week Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDNUb1AyWnE1Rms3bHJRR20zaUVET3B6bkhBcldCQkdicWhZWmZzMkxjOHdHakp2X1BUM3pSVFE3R1N5ZFY4TmFRNEszSUtXZmQwZGlhNWlqbFF2T0wxb0dXdEZNcHlKVmF3Qjg2VUdmZ1RJbGNkcG5Eckw5M0ItT0V3OE9TQUFmcU01OHdxbjE5dw?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home ist erster Hersteller mit Platin-Auszeichnung für zehn Jahre zertifizierte IoT-Sicherheit - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-11-19T13:02:00+00:00",
-        "summary": "Bosch Smart Home ist erster Hersteller mit Platin-Auszeichnung für zehn Jahre zertifizierte IoT-Sicherheit PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSmNjMHBjOEhydzhWaF9sWTFwX2xTekhqQWdjQnRhZEVseHpnT0YzY29JLW1oQS00elVxWERfRjRzRWg0WTFSaHRMYUt6dmlCMHFtRjJabEh3M0l2Q0pWSTIya2V0RlVuWk4wek91T3VaT2JnQ21KdVR0V0NHRm1JR28wNldqX1kxcl9mRjZleGNEYzFsYXZrZXY0OFVGVTlHZGxUVjlFNF90b0ZGc1FaclhKY0NnMEYzaHdERjZRU05YTEpiSTFwcnFjS3NKZHF1b1dXT3Zvb0hRV1h6dTc0RnhTTFY3X08td2ZTN2JNSmViN2p5ekI3NllYWDVYZzBER0FYZm1lZFA4c1BybUE?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
-      },
       {
         "title": "Immich: Version 3.4.2 behebt Fehler in Web-Oberfläche und Server - Caschys Blog",
         "source": "Caschys Blog",
@@ -247,14 +225,38 @@
         ]
       },
       {
-        "title": "Thermostat-Testsieger: Heiznote „sehr gut“ für diesen Bosch-Regler - IMTEST",
+        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
         "source": "IMTEST",
-        "publishedAt": "2026-11-16T05:13:47+00:00",
-        "summary": "Thermostat-Testsieger: Heiznote „sehr gut“ für diesen Bosch-Regler IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXRVTW1HZWZZdkp5NEVnOURTSjQ5UVRrQ1Foem5ySFZuVWF3VjA4RDhCbm0teE5iN2M3Qk0ySF95Yi1mNS0wSjM1OGM0ZkszeUlvMlZBYjZySm4zOUt4bTltVHdhN2ZMQ0NfZFFPZnloc0JFUUpzLTU4YTFBWGNlSVNHdE8?oc=5",
+        "publishedAt": "2026-09-01T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
         "tags": [
           "Ei",
-          "Bosch"
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home feiert 10 Jahre Jubiläum - 100 € Rabatt auf ausgewählte Starter-Sets! - RND.de",
+        "source": "RND.de",
+        "publishedAt": "2026-04-02T07:00:00+00:00",
+        "summary": "Bosch Smart Home feiert 10 Jahre Jubiläum - 100 € Rabatt auf ausgewählte Starter-Sets! RND.de",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcHRKRHRqLUk3bnlLYnZEdVlERXRGeVR3ZHFMRGZHODFsLVhSV1JDamhNaEFJZFpjWUtVSktzRG1lMW5CRllkVkFabFRCN2JpSTh6M3liLUFobTBFNFVOak00THpIV3NjdFY4RW1JanQ2MVBTYi1HQ1dIbFh2aGN0cHR3LTBWbmY0aVRSLUIyZjh3T1pHZkpYMnlKZXRPUHBhVVRYMzh4dnctZnpTSkV5dmxORExFaGkwVWxYRDhDaWl5Qkk0SVpFT2J6UUpfU3p4UWZVZm55YUczb0h0V0M4RHJlVG5NdjFo?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home: Updates für Firmware und App - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2025-10-17T07:00:00+00:00",
+        "summary": "Bosch Smart Home: Updates für Firmware und App SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzVtcjhyUDJpckhTOHpWMmhxd2puWXU3c0VISnRQa3FHUUpqSUVNbXlCTkl5RU9EWnozYm5FTnhNWXJJODJIamV3QmJVX2RQN0R3cUNaS1hkaGE2NldpckdRLUtvNXJ0SmNZSG02MDFaTkJfM0dDcHcxNGFDRkpNRGdfaHFVdUhH?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
         ]
       }
     ],
@@ -414,16 +416,6 @@
         ]
       },
       {
-        "title": "Endspurt für Planegger Marktgarage - Merkur",
-        "source": "Merkur",
-        "publishedAt": "2026-11-12T17:57:00+00:00",
-        "summary": "Endspurt für Planegger Marktgarage Merkur",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTJuUnVNYTVZQy1MbnRxZWpJeEZ6S084dkFDc0h3a2JLeHU0VFM0bzN2UERRYldmdFk5VU9raHpYZmxJeE03bWJOU09XbGNrbG5iZWJZMk9GRzV5YXhWdVBjRjROSVFoUTc5dnpGeFc1TDQ0WWJkX0tldUNjdW53SzRJSm5WY1RpRmtHSXUyR2poWlR3ZjZDV0JUNU5lVzlUcmJleWQ0TWxNelVlS1dSdjltcGk5MzJNdUpLblNZSF9QdnlRYkppR3hPZzJlWXhkUjhpaEdn?oc=5",
-        "tags": [
-          "Merkur"
-        ]
-      },
-      {
         "title": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude - Business Geomatics",
         "source": "Business Geomatics",
         "publishedAt": "2026-11-12T14:56:29+00:00",
@@ -502,6 +494,16 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
           "SWR"
+        ]
+      },
+      {
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-28T07:00:00+00:00",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
