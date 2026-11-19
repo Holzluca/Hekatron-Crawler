@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:47:06.020989+00:00",
+  "generatedAt": "2026-11-19T05:30:14.806167+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -171,17 +171,6 @@
         ]
       },
       {
-        "title": "X-Sense: Firmware 1.8.7 für SBS50 erweitert Home-Assistant-Integration - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-11-17T11:30:02+00:00",
-        "summary": "X-Sense: Firmware 1.8.7 für SBS50 erweitert Home-Assistant-Integration Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelc0RDgtSkh3bnNWQjJhM0x4enZCMEZJR0QzbGxjLXdCbUhlS0NFeE5RTG9yT1FlNWluQUk4RU9oZk1rNEFNaEdVc1dWb21RWWY5d0FQUmh6X2UtaF9OYldsSDVKQjZjQ0tXbTZseHpiR211OU9qZWJXci1OTXZybEhWelNKcmRsbm80Ykp3TXJRdnZUT04yX1NjS3gzU09vLVE?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr - HIFI.DE",
         "source": "HIFI.DE",
         "publishedAt": "2026-11-16T11:21:00+00:00",
@@ -254,6 +243,16 @@
         "tags": [
           "CHIP"
         ]
+      },
+      {
+        "title": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-10-22T07:00:00+00:00",
+        "summary": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! ADAC",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
+        "tags": [
+          "Ei"
+        ]
       }
     ],
     "doors": [
@@ -265,16 +264,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0ZnUkI2eDFONko3VDRCZmlDd0piUGFPUHYyT0lZNFdZNE8tRWpoWG8wSFZPOUpKNEpOdGtmNUNnaDdranZqWlR4Wnh0b2pGTmNZbkpEOTc2VG1lTmNlb2JhXzBmeG95em1vRXdKM0NScFlzMnRBRHZSenFncDZ6bEtfZUxJOGNyYlZNY2twaHRTTFJMM2VNdkdyUHZyNWN0TmV2SjN0bWR6Y2ZMRi1QZHg2LU4wTlcwV3kwVXEtTjBKUQ?oc=5",
         "tags": [
           "Apollo"
-        ]
-      },
-      {
-        "title": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen - BornCity",
-        "source": "BornCity",
-        "publishedAt": "2026-11-18T15:44:04+00:00",
-        "summary": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen BornCity",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajM0aE5uVHRFLUVFRExaOGs2amlUNWtNbjNwUTdEWmZheGxRZGZlN2dKajJGTksxaHNwRmRndVhTaTlwdDlKcUlMWjkxZ2tXTWw0VENNaG0tMVZIdFVvam40cl9sTU9CZkF4NXA5Q252SkxXYXpZb192QnJaVjlaUUFidXdHQjZjejJYLWNYM1VnMWdhZTlfQS02WHExeFVoYXF5ZWZOOA?oc=5",
-        "tags": [
-          "BornCity"
         ]
       },
       {
@@ -323,6 +312,16 @@
         "publishedAt": "2026-09-17T07:00:00+00:00",
         "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten - Badische Neueste Nachrichten",
+        "source": "Badische Neueste Nachrichten",
+        "publishedAt": "2026-09-09T13:31:37+00:00",
+        "summary": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten Badische Neueste Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaEc0RGhQQjlKSWpkT0RUWFlDME1QRkhPeTVQUmVuQ1hYNGh6SVRMUWl5eFo5OE9zVG9TY1ZkVDEzUWw3Tjd5blBPYlpkbzZwSEdOd3czLS1qR1ZMM1FpSmE5N0VHQU5KNHljaEo0SFNjWXoyNWswZXNidWl4WDdfNi1vc202eWlRbHRuRmhXVzIzc3ZrT1cwVjFnMHVacS1Wc1dqemFYV0s3c2ZyVURzMUtSM0FFT3gwLVdEVUJBbU9PUFpNcnlIU2V0TkpvNVNDVWx2M1VOcXRWTDZlSTN1bG5nSXRUOE1EWk1KLV9YN0Q?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -379,18 +378,6 @@
       }
     ],
     "trends": [
-      {
-        "title": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-11-18T13:24:00+00:00",
-        "summary": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlR6N251cE0wZkFucjc5YkgzbmpDSzRhcWhmM3VoOVRkTUlTUDMydHBGLXc5UVY1RjR3M1Zmdmx0TGZKSkp0SFRsZWs2MjV5X2ttbzZCQ3RQU0JVdFFRa2doc3otcklGM1Uyel9UbXJobmVyWGhSZVlBdUEyZHNKZkJDM1VEMWY3VDJUcHJxckVsNkxFcU9oa3MySkp1Mk91NWhwWUtReVlTMXlSdTktTzlXb0sxNUkzNHRXRk13bmU0TzR0bl9IazJTUXVhR1J5T3c?oc=5",
-        "tags": [
-          "Retrofit",
-          "Cybersecurity",
-          "KI"
-        ]
-      },
       {
         "title": "Honeywell Aktienanalyse: Gewinn je Aktie plus 34 Prozent nach der Aufspaltung – was der neue Automatisierungs-Riese kann - AktienCheck.de",
         "source": "AktienCheck.de",
@@ -499,6 +486,16 @@
         "publishedAt": "2026-08-28T07:00:00+00:00",
         "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
+        "source": "Infopoint Security",
+        "publishedAt": "2026-08-21T07:00:00+00:00",
+        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
         "tags": [
           "KI"
         ]
