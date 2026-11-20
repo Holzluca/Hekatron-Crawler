@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:31:52.052928+00:00",
+  "generatedAt": "2026-11-20T03:49:16.064562+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -76,6 +76,16 @@
         ]
       },
       {
+        "title": "Brandmelder mit Cloud-Anbindung - elektro.net",
+        "source": "elektro.net",
+        "publishedAt": "2026-05-22T07:00:00+00:00",
+        "summary": "Brandmelder mit Cloud-Anbindung elektro.net",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRjFMV3laRUJPMmIyVlpmOWctZDJrc2tYS2xhTDNFeFJQTWlpRTNtUVZJTjZEYk8zNUMwazJrbmVrOHNHOUluM2xac2xKSEVlWU0zZFczbUhTcWVhTmVaNmszTFdyMGNTZUlRNkhNQTFNNjgzVVE?oc=5",
+        "tags": [
+          "elektro.net"
+        ]
+      },
+      {
         "title": "Das BovenIJ-Krankenhaus entscheidet sich für ein intelligentes Brandschutzsystem - Siemens",
         "source": "Siemens",
         "publishedAt": "2026-05-05T12:32:58+00:00",
@@ -97,37 +107,37 @@
         ]
       },
       {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens Press",
-        "source": "Siemens Press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzNONTJDYTFlRGZ0RHZyTkVLdUtlLVhieHlzNGtkbzVjSU1XN0RZUnk5THM1SlhFQ295UmVydTFYZGM2N0dwMEpGVGplZ3FiVnhXRmZpRTNwOS1MeDk3cnlrak9PZXFpNzhUdFdfbkhRTUgyV2pVcVIwUXJqRU11czhWb0RWMkR3S2F5VlM3OFpXVFd4dEFDZ2hialo1aUc1VG1mSGtFQzVCa0I2em0xN244a2ZvNmNPcDktTVdEc1JreTRyNkJUYw?oc=5",
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
         "tags": [
           "Siemens"
         ]
       },
       {
-        "title": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-02-10T08:00:00+00:00",
-        "summary": "Siemens Siprotec V: Virtualisierte Schutztechnik für digitale Umspannwerke Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VSk1iZUdLYlh2NVJBdURueVJiUUt3UU5ISVFSRHgyd2V3V2Z5UEd4cEowb19VY2hPeTFCZ2VIdXdpWVhJVnZ0TDBKNnBKZkw1UF9aMEFsNy1VWWlD?oc=5",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Verlässliche Lösungen von Siemens für höchste Sicherheit in Re ... - Siemens Press",
-        "source": "Siemens Press",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Verlässliche Lösungen von Siemens für höchste Sicherheit in Re ... Siemens Press",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONXBBUXpOX01lRHR4cVUzakxQdTA0bHdmQkZoN1paWWMxV3VXMEVnWkNKM2x4VW5RaHJtbEFVTTlfYThBMWl0Yl9HZ0JZUGJ0UFBUR2pYXzVnYVlEc09TaXYteG8tM05Fb1FXSVFYRHJ4T1RfZzRGNGtXZjlaVU0tNlJ2cEJISUFKTHYtVjJ1NGQxSGVzZmtfMlk5Qk4xMV9BOGxLTmVKUzUwOW56X1JLLXBkQ3I5SkxxN05URUp0cWVybG9MNFkw?oc=5",
-        "tags": [
-          "Siemens"
+          "Neue Zürcher Zeitung"
         ]
       }
     ],
     "pfs": [
+      {
+        "title": "X-Sense FS61: Vernetztes Rauchmelder-Set zum Black Week - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-11-19T13:30:00+00:00",
+        "summary": "X-Sense FS61: Vernetztes Rauchmelder-Set zum Black Week Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDNUb1AyWnE1Rms3bHJRR20zaUVET3B6bkhBcldCQkdicWhZWmZzMkxjOHdHakp2X1BUM3pSVFE3R1N5ZFY4TmFRNEszSUtXZmQwZGlhNWlqbFF2T0wxb0dXdEZNcHlKVmF3Qjg2VUdmZ1RJbGNkcG5Eckw5M0ItT0V3OE9TQUFmcU01OHdxbjE5dw?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
       {
         "title": "Immich: Version 3.4.2 behebt Fehler in Web-Oberfläche und Server - Caschys Blog",
         "source": "Caschys Blog",
@@ -161,16 +171,6 @@
         ]
       },
       {
-        "title": "30 Heizkörperthermostate getestet | Bei diesen Black-Friday-Deals würden wir zugreifen - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-11-18T23:25:34+00:00",
-        "summary": "30 Heizkörperthermostate getestet | Bei diesen Black-Friday-Deals würden wir zugreifen SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmxYRXpUQzhuRDJ6R1BDWG1VbjFlN1k0LUFEN3B4NktYVkVFR0Y2Y2JQd1RaQmxrLVk3SjdOTTVNMTd1Nl91QnpUbG9qQTVtYWt4NElaWlAzeGpEZHlpOGJ0YXk3Qll4Y0lwZ2RSNUVOQlA4d2NlUVZmZzBiZm9BTUJ3ejA?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
         "title": "Tink: Bosch Smart Home Rauchwarnmelder II - 6er-Set - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-11-18T17:38:33+00:00",
@@ -180,16 +180,6 @@
           "Bosch",
           "Rauchwarnmelder",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "Smarte Heizkörperthermostate im Test: Diese helfen beim Sparen – diese brauchen ein Abo - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-11-17T15:28:01+00:00",
-        "summary": "Smarte Heizkörperthermostate im Test: Diese helfen beim Sparen – diese brauchen ein Abo IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPclREcUYxVTE1NWhScUFNbXlBMGQ0b1BOZDAtZnFIZ3hUN2NyY2hTeWhfTkhac0xwZkh0MjMyMHBFN19iRGI3RlVFMEZ3ekthMmJkak1WcEVidjBLaHpjX3RUa1JpUFlYOTNLNE9QMVBSWFVPVG5uRUpwa1JlUEJ3WnlmUFRHbWRYUTZpcXpHR3JBQQ?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -225,38 +215,43 @@
         ]
       },
       {
-        "title": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-09-01T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Neue Heizfunktionen und Kamera-Erkennung kommen IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUlNVZE5yS2kzaTBBQUNrVjQ0ZGJOVUlQUnk4X0hKcGdhbnNPSnhORUJua1pXNTdQZGZMc2pfYjlQSUZfSERqSVpNZ21FN3pESzltcEM4RDFwX3ZNR2g5T3VBSUdRQWlWb2VMNGEzOWRMSThaZElDZmxhaHk2LVc3czdYa0tMS1ZXM2hPYm81OGJidG5iZS1VQ3FMcUtTTXFnM2tJcVpnOFA?oc=5",
+        "title": "Der beste Rauchmelder: Pyrexx schlägt besonders schnell Alarm - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-11-04T08:00:00+00:00",
+        "summary": "Der beste Rauchmelder: Pyrexx schlägt besonders schnell Alarm CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOXVNMmkxbDgzUVZIbjhEU2lvb2xONHpQLTVCbEg3N2Q2MHhEVzZQMW1meHFzT0RNT2hCMEs2VVNDTVdkZkVmRjZSVDk5Nk83OEVKeUEtVG8zLVZidjU1bS1qanVmLVZhdUJMZkFLTXBhbkY3UDhsbU1rVmh0NEVkVjQtUFRuV1BGdWdLQWpERWZXc1RlVVZCNzN2UW1WV1NyWm5OOHVnVHVLV2kwa2JyZ0hLNkt1UFhiRl9EQkpvZXBPUU9TUmNGNVYxMEc5VG5XdEpBc1V1ZkJJTldx?oc=5",
         "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
+          "Pyrexx"
         ]
       },
       {
-        "title": "Bosch Smart Home feiert 10 Jahre Jubiläum - 100 € Rabatt auf ausgewählte Starter-Sets! - RND.de",
-        "source": "RND.de",
-        "publishedAt": "2026-04-02T07:00:00+00:00",
-        "summary": "Bosch Smart Home feiert 10 Jahre Jubiläum - 100 € Rabatt auf ausgewählte Starter-Sets! RND.de",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcHRKRHRqLUk3bnlLYnZEdVlERXRGeVR3ZHFMRGZHODFsLVhSV1JDamhNaEFJZFpjWUtVSktzRG1lMW5CRllkVkFabFRCN2JpSTh6M3liLUFobTBFNFVOak00THpIV3NjdFY4RW1JanQ2MVBTYi1HQ1dIbFh2aGN0cHR3LTBWbmY0aVRSLUIyZjh3T1pHZkpYMnlKZXRPUHBhVVRYMzh4dnctZnpTSkV5dmxORExFaGkwVWxYRDhDaWl5Qkk0SVpFT2J6UUpfU3p4UWZVZm55YUczb0h0V0M4RHJlVG5NdjFo?oc=5",
+        "title": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q - Netz Trends",
+        "source": "Netz Trends",
+        "publishedAt": "2026-10-24T07:00:00+00:00",
+        "summary": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q Netz Trends",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1pDVkZmWFBObG8ybndRUW8xNDV2OUlpMVFRcWk0YVZMYUxDR1VMd05yb3VscW1fa3I4VWdIdjVCcnM4cFNGLWFZdXI3MDI4dFhROF9rb0lPQUdCOE5mejVNSVNFSFpveUNEclpzZ0lIczhtbW5vRTFzZ3RndXBIdEFWSHZqbjFNZEZGcmU2am5ra2ZYeTU5eUJBY1UtQWZzLUpyMlFET21SVXZK?oc=5",
         "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
+          "Pyrexx"
         ]
       },
       {
-        "title": "Bosch Smart Home: Updates für Firmware und App - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2025-10-17T07:00:00+00:00",
-        "summary": "Bosch Smart Home: Updates für Firmware und App SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzVtcjhyUDJpckhTOHpWMmhxd2puWXU3c0VISnRQa3FHUUpqSUVNbXlCTkl5RU9EWnozYm5FTnhNWXJJODJIamV3QmJVX2RQN0R3cUNaS1hkaGE2NldpckdRLUtvNXJ0SmNZSG02MDFaTkJfM0dDcHcxNGFDRkpNRGdfaHFVdUhH?oc=5",
+        "title": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-10-23T07:00:00+00:00",
+        "summary": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2IxT3F6Vml6ZlNoNHRPVmFSYUlacktDV19yaUNhZHpFX1Q2N1lZb050YS1hamZEMlBXMnp4TlZzQm8wRUZEbHlycVU4T0NvVXVrR1VPS0t4eHlKdzh0TS13aVFCa1ZKdjdpSnhnbU9MN1MtRk5JaUxWNkpacmZfcFJScV9KMGVKSGFtaWtmdFdqRjdTMzYzUVhwYWNVWEpiLU9HZXh5ZnNiVV9EbFhhbGpXdFl1b29JSTNMdVZyTVY3N1FUUE5QbE10bFEwQjVtSjk2UEJnOC1VcmRBQmNtVllNWjFPbUQtRXRpS0s2N2FpVUlk?oc=5",
         "tags": [
-          "Bosch",
-          "Smart Home"
+          "CHIP"
+        ]
+      },
+      {
+        "title": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-10-22T07:00:00+00:00",
+        "summary": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! ADAC",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
+        "tags": [
+          "Ei"
         ]
       }
     ],
@@ -384,6 +379,17 @@
     ],
     "trends": [
       {
+        "title": "SC Ellerau: Wie das neue Sportgebäude Maßstäbe bei Nachhaltigkeit setzt - Kieler Nachrichten",
+        "source": "Kieler Nachrichten",
+        "publishedAt": "2026-11-19T12:02:59+00:00",
+        "summary": "SC Ellerau: Wie das neue Sportgebäude Maßstäbe bei Nachhaltigkeit setzt Kieler Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1BvdzRqOTRPYWdkaDZMZzRqdlFaaE5TaWJIRXlFaVc0VVNwek1FWUlNMjRTUVdRUWJvZ2JlclgtOTk3d05NN25MYmZPbk9xb213VWZ6M0FXQUxyOWJuaGFUWkoxRjQ1SkNxSy1DWTlqaERhYndOWjE5SE84X25zalFOQlExcWs0U0ZsMTdfdThsRlRhVGY1QUpDdndlMm1DT0NSaDVneFFpbzB4NWV1NjlLNS10SE9WSl9FMW1sOXU2QWNHeTliRjBGY2hxeHhtLWRyR3BlWXlhZ21jbm1JcNIB_AFBVV95cUxQQXlFbFZ2aUhiSjdPbkNhM2ZuTFpRV1Ryeko5WEVZVUhXbjRPc1RpQklMNlROa1ZLYkpxQ3Vsd3VZZHpuaFd1SnpfS2VkUGFYOGVvS2JDRjU2dDhQdnBzLXJ0WUJKRUttWDJpN1dfeWs5OTItYWcwNXlPU0E3RHVWZHh3cFFaeVFJQWJGcUFKVlZxSW5FV3lBeWhrUngxbE9qbUh1WlZJTEhHbThqanQ4Ukp4bmVhc21mOFplZWFYQzlmS1NaZnBoQl9yYjZZT09mOGN5czlzWTVqWU1TcWFidzNBajJVWl9LU19wQmZKcFlrWHIzY2N2bkFiUUg?oc=5",
+        "tags": [
+          "KI",
+          "Nachhaltigkeit"
+        ]
+      },
+      {
         "title": "Energieeffizienz öffentlicher Gebäude: KI trifft Komfort - a3BAU",
         "source": "a3BAU",
         "publishedAt": "2026-11-19T10:56:26+00:00",
@@ -403,16 +409,6 @@
           "Retrofit",
           "Cybersecurity",
           "KI"
-        ]
-      },
-      {
-        "title": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation - Baulinks",
-        "source": "Baulinks",
-        "publishedAt": "2026-11-13T02:15:00+00:00",
-        "summary": "Rettungswegtüren: Anforderungen an Planung und Elektroinstallation Baulinks",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LUTRhb1RvTmI1b0R0OXJkbGxpSVlmdmtjcUpEbXE1ei1xeEw0MW50TkhQUVl1emltRmFXLUhKZnlUeUtab1R0TzFCaE1MZUpOQkRBeTRnVUh6aVJZ?oc=5",
-        "tags": [
-          "Baulinks"
         ]
       },
       {
@@ -444,6 +440,17 @@
         "tags": [
           "Retrofit",
           "AI"
+        ]
+      },
+      {
+        "title": "Das Gebäude besticht durch reduzierte, moderne Architektur und Nachhaltigkeit. Seine Geometrie und die Holzfassade lassen es mit der Landschaft verschmelzen. - DETAIL",
+        "source": "DETAIL",
+        "publishedAt": "2026-09-22T09:28:59+00:00",
+        "summary": "Das Gebäude besticht durch reduzierte, moderne Architektur und Nachhaltigkeit. Seine Geometrie und die Holzfassade lassen es mit der Landschaft verschmelzen. DETAIL",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iSWlzUlVPSU8tUUFqanpIUjRJRXdyeV9GNnZMeGRRcGFHbHBlQV95MENORVA2d3RRcjZwZ2czMzVlVVlnS3Rkc2FyaHJ5NTF6cnpCTXNsXzZEM1Mwd1M5NlNn?oc=5",
+        "tags": [
+          "AI",
+          "Nachhaltigkeit"
         ]
       },
       {
@@ -494,16 +501,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
           "SWR"
-        ]
-      },
-      {
-        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-08-28T07:00:00+00:00",
-        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
-        "tags": [
-          "KI"
         ]
       }
     ]
