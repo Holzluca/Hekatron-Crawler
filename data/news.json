@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T03:49:16.064562+00:00",
+  "generatedAt": "2026-11-20T12:24:08.196232+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,6 +129,16 @@
     ],
     "pfs": [
       {
+        "title": "Bosch Smart Camera App 2.14.1 | Update mit neuer Firmware für Eyes-Kameras - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-11-20T12:07:42+00:00",
+        "summary": "Bosch Smart Camera App 2.14.1 | Update mit neuer Firmware für Eyes-Kameras SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBveXRXQ2VkenNZNjJDVzMzeXpnOUhVRFNndmZWN042ZUtOODljUDYxS0hpM1RpYWpmSWE1UGhOLUY4ODhaNWQ4Sno2YWdqakIyOTU0UmxXbFd5MWJyS3BjRXIyS2o3V3NTSGFvOXFJLVZIUQ?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
         "title": "X-Sense FS61: Vernetztes Rauchmelder-Set zum Black Week - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-11-19T13:30:00+00:00",
@@ -161,16 +171,6 @@
         ]
       },
       {
-        "title": "Black Friday: X-SENSE FS61 mit Home Assistant und 6 vernetzten Rauchmeldern für 104,99 Euro - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-11-19T07:00:28+00:00",
-        "summary": "Black Friday: X-SENSE FS61 mit Home Assistant und 6 vernetzten Rauchmeldern für 104,99 Euro Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVnBaN1M5Zk9NaGlRTzhTYVJwcGdqalpJbEQwcEZSUFdkM2xOZjZqRGpjWDNxR1B4VG9rVGlHLU1DaVZsNUJQN085dmpVOU5oWEhxSmZGVFB1R1AzbVM4QjVsekVtaXMzSmdBMjJBMGVCOVRpWV9qM3RIeTl6dEhZZE4zcmJvYVJCWWxONkFnQi1DNnZPNU1NQ01MQ2xmVldrZnRWcDlMS2M0UDRWYUdCRnVDYlRpTEZ4UW1uYQ?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Tink: Bosch Smart Home Rauchwarnmelder II - 6er-Set - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-11-18T17:38:33+00:00",
@@ -193,25 +193,25 @@
         ]
       },
       {
-        "title": "X-Sense: Firmware 1.8.7 für SBS50 erweitert Home-Assistant-Integration - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-11-17T11:30:02+00:00",
-        "summary": "X-Sense: Firmware 1.8.7 für SBS50 erweitert Home-Assistant-Integration Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelc0RDgtSkh3bnNWQjJhM0x4enZCMEZJR0QzbGxjLXdCbUhlS0NFeE5RTG9yT1FlNWluQUk4RU9oZk1rNEFNaEdVc1dWb21RWWY5d0FQUmh6X2UtaF9OYldsSDVKQjZjQ0tXbTZseHpiR211OU9qZWJXci1OTXZybEhWelNKcmRsbm80Ykp3TXJRdnZUT04yX1NjS3gzU09vLVE?oc=5",
-        "tags": [
-          "Ei",
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr - HIFI.DE",
         "source": "HIFI.DE",
-        "publishedAt": "2026-11-16T11:21:00+00:00",
+        "publishedAt": "2026-11-16T08:00:00+00:00",
         "summary": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr HIFI.DE",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84TS1GTE5NWjJCaXk3a185SHQ3N3VWV3N5NWtzZXpIczBJNmhsU2lNQUJONkZxei1NVlp4LVppWnFqMW5mRnluYU5wd3ptRHZidmhHSGVDQ2RrY1phUG5vbUoxbHQ5cnR5cXpqT0VYcw?oc=5",
         "tags": [
           "Ei",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Thermostat-Testsieger: Heiznote „sehr gut“ für diesen Bosch-Regler - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-11-16T05:13:47+00:00",
+        "summary": "Thermostat-Testsieger: Heiznote „sehr gut“ für diesen Bosch-Regler IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXRVTW1HZWZZdkp5NEVnOURTSjQ5UVRrQ1Foem5ySFZuVWF3VjA4RDhCbm0teE5iN2M3Qk0ySF95Yi1mNS0wSjM1OGM0ZkszeUlvMlZBYjZySm4zOUt4bTltVHdhN2ZMQ0NfZFFPZnloc0JFUUpzLTU4YTFBWGNlSVNHdE8?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
         ]
       },
       {
@@ -282,16 +282,6 @@
         "publishedAt": "2026-11-16T13:30:50+00:00",
         "summary": "Apollo und Victory Capital kooperieren, um Privatanlegern Zugang zu privaten Märkten zu ermöglichen MarketScreener Schweiz",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSloyVEhGR0tzQ2ZvcXJqbDZFV1d0cHN3RW5kY2xHLWZUMXYzTHhZeGhYVnRydUZSczRxMnNDb2JKbXJLUm9tWEE5ZUhVRXF3dFR2b1FVa0VJMFBaS0dtZTkzMzFYSmx5aTRZVFVZdG5LM01BZGFra0VGZURxay1fTllkcjBSMDNiZDlpX3paOHJCWWotRjFhUE5oNU42QlBnZ3ZnMzNQVU83MTQyMzVuRG90QU9WbGV2UmFrT01PQVBiMHRQTDF6ZUNCR2d0VjhwclRxcW9PLS1DaG1pUU0zU0U3UTNIOGZIb1QzRGtKSVhZbjN0Q3hiM3RR?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-09-17T07:00:00+00:00",
-        "summary": "Apollo Silver Aktie: Gemeinde stimmt über Bergbau-Moratorium ab ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2hCMjZIRlRGYjY5YzU2ZGJZODltdjJvYXRCQU5sWi14ZURfSm0yVTBzVk03c1hHeGlWYUlSU2RIYUJSVWtETHNURS00b1BUeHJQTldEZE1PT24tUlNfdzRFRlhTTDVYa3RTMjE4SThvNGZoVEluOTA1ajgzTFdGblVtSjZIZGdYanBwWXJFWU8xRm5TZ2ZvTFFYTWczOWJ4ZTlzODhMTFdJMkZJTkt0N1Vpc01mclJmX1BreUxmeTlzTmw5ek04T2ctanl0S1RX?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -375,18 +365,27 @@
         "tags": [
           "Apollo"
         ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
       {
-        "title": "SC Ellerau: Wie das neue Sportgebäude Maßstäbe bei Nachhaltigkeit setzt - Kieler Nachrichten",
-        "source": "Kieler Nachrichten",
-        "publishedAt": "2026-11-19T12:02:59+00:00",
-        "summary": "SC Ellerau: Wie das neue Sportgebäude Maßstäbe bei Nachhaltigkeit setzt Kieler Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1BvdzRqOTRPYWdkaDZMZzRqdlFaaE5TaWJIRXlFaVc0VVNwek1FWUlNMjRTUVdRUWJvZ2JlclgtOTk3d05NN25MYmZPbk9xb213VWZ6M0FXQUxyOWJuaGFUWkoxRjQ1SkNxSy1DWTlqaERhYndOWjE5SE84X25zalFOQlExcWs0U0ZsMTdfdThsRlRhVGY1QUpDdndlMm1DT0NSaDVneFFpbzB4NWV1NjlLNS10SE9WSl9FMW1sOXU2QWNHeTliRjBGY2hxeHhtLWRyR3BlWXlhZ21jbm1JcNIB_AFBVV95cUxQQXlFbFZ2aUhiSjdPbkNhM2ZuTFpRV1Ryeko5WEVZVUhXbjRPc1RpQklMNlROa1ZLYkpxQ3Vsd3VZZHpuaFd1SnpfS2VkUGFYOGVvS2JDRjU2dDhQdnBzLXJ0WUJKRUttWDJpN1dfeWs5OTItYWcwNXlPU0E3RHVWZHh3cFFaeVFJQWJGcUFKVlZxSW5FV3lBeWhrUngxbE9qbUh1WlZJTEhHbThqanQ4Ukp4bmVhc21mOFplZWFYQzlmS1NaZnBoQl9yYjZZT09mOGN5czlzWTVqWU1TcWFidzNBajJVWl9LU19wQmZKcFlrWHIzY2N2bkFiUUg?oc=5",
+        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
+        "source": "Wirtschaftszeit",
+        "publishedAt": "2026-11-20T09:53:00+00:00",
+        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
         "tags": [
-          "KI",
-          "Nachhaltigkeit"
+          "Wirtschaftszeit"
         ]
       },
       {
@@ -400,15 +399,14 @@
         ]
       },
       {
-        "title": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-11-18T13:24:00+00:00",
-        "summary": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlR6N251cE0wZkFucjc5YkgzbmpDSzRhcWhmM3VoOVRkTUlTUDMydHBGLXc5UVY1RjR3M1Zmdmx0TGZKSkp0SFRsZWs2MjV5X2ttbzZCQ3RQU0JVdFFRa2doc3otcklGM1Uyel9UbXJobmVyWGhSZVlBdUEyZHNKZkJDM1VEMWY3VDJUcHJxckVsNkxFcU9oa3MySkp1Mk91NWhwWUtReVlTMXlSdTktTzlXb0sxNUkzNHRXRk13bmU0TzR0bl9IazJTUXVhR1J5T3c?oc=5",
+        "title": "SC Ellerau: Wie das neue Sportgebäude Maßstäbe bei Nachhaltigkeit setzt - Kieler Nachrichten",
+        "source": "Kieler Nachrichten",
+        "publishedAt": "2026-11-17T16:02:51+00:00",
+        "summary": "SC Ellerau: Wie das neue Sportgebäude Maßstäbe bei Nachhaltigkeit setzt Kieler Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM1BvdzRqOTRPYWdkaDZMZzRqdlFaaE5TaWJIRXlFaVc0VVNwek1FWUlNMjRTUVdRUWJvZ2JlclgtOTk3d05NN25MYmZPbk9xb213VWZ6M0FXQUxyOWJuaGFUWkoxRjQ1SkNxSy1DWTlqaERhYndOWjE5SE84X25zalFOQlExcWs0U0ZsMTdfdThsRlRhVGY1QUpDdndlMm1DT0NSaDVneFFpbzB4NWV1NjlLNS10SE9WSl9FMW1sOXU2QWNHeTliRjBGY2hxeHhtLWRyR3BlWXlhZ21jbm1JcNIB_AFBVV95cUxQQXlFbFZ2aUhiSjdPbkNhM2ZuTFpRV1Ryeko5WEVZVUhXbjRPc1RpQklMNlROa1ZLYkpxQ3Vsd3VZZHpuaFd1SnpfS2VkUGFYOGVvS2JDRjU2dDhQdnBzLXJ0WUJKRUttWDJpN1dfeWs5OTItYWcwNXlPU0E3RHVWZHh3cFFaeVFJQWJGcUFKVlZxSW5FV3lBeWhrUngxbE9qbUh1WlZJTEhHbThqanQ4Ukp4bmVhc21mOFplZWFYQzlmS1NaZnBoQl9yYjZZT09mOGN5czlzWTVqWU1TcWFidzNBajJVWl9LU19wQmZKcFlrWHIzY2N2bkFiUUg?oc=5",
         "tags": [
-          "Retrofit",
-          "Cybersecurity",
-          "KI"
+          "KI",
+          "Nachhaltigkeit"
         ]
       },
       {
@@ -419,6 +417,16 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWRLLWZNaVJrMnQxdWxTSEYyUmkydHFDMWJheVJ5M0t2SUVXU09COTVocU1ZRzZiTFhZcnVIQ25uTG5BTFdOVWRBbHF1VEgzOXlob0NKbDd6MEc3TVRJWnpudDJzQ1Z4NzdsVzdhREZLNi1vdU5nVEVjVVR6bVBDcE5xSnZnTnc0V1lMN1ZHN0JHeGp2M3hzNU9MalFZRnh6ZEkwZQ?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Endspurt für Planegger Marktgarage - Merkur",
+        "source": "Merkur",
+        "publishedAt": "2026-11-12T08:00:00+00:00",
+        "summary": "Endspurt für Planegger Marktgarage Merkur",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTJuUnVNYTVZQy1MbnRxZWpJeEZ6S084dkFDc0h3a2JLeHU0VFM0bzN2UERRYldmdFk5VU9raHpYZmxJeE03bWJOU09XbGNrbG5iZWJZMk9GRzV5YXhWdVBjRjROSVFoUTc5dnpGeFc1TDQ0WWJkX0tldUNjdW53SzRJSm5WY1RpRmtHSXUyR2poWlR3ZjZDV0JUNU5lVzlUcmJleWQ0TWxNelVlS1dSdjltcGk5MzJNdUpLblNZSF9QdnlRYkppR3hPZzJlWXhkUjhpaEdn?oc=5",
+        "tags": [
+          "Merkur"
         ]
       },
       {
@@ -491,16 +499,6 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wQjZxRVl6LWJhTXJ1SGxsWVVNRHpPVzZtaFZhckltb2ktdU5aSzRtZlFvUUYyaWhLalRjYlQ2V0FpaU9HQTdWRnczLVljY2d2QTVCcW1CTVhyLWcxRVl4OFZsUEdYbnN0bVl3dUxjbzY?oc=5",
         "tags": [
           "KI"
-        ]
-      },
-      {
-        "title": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? - SWR",
-        "source": "SWR",
-        "publishedAt": "2026-09-06T07:00:00+00:00",
-        "summary": "Donnersberg: Kann Künstliche Intelligenz künftig gegen Waldbrände helfen? SWR",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
-        "tags": [
-          "SWR"
         ]
       }
     ]
