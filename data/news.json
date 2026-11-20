@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-11-20T12:24:08.196232+00:00",
+  "generatedAt": "2026-11-20T20:37:10.386576+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
+        "source": "Wirtschaftszeit",
+        "publishedAt": "2026-11-20T09:53:00+00:00",
+        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Deutsche Aircraft setzt auf Lösung von Bosch Building Technologies - protector.de",
         "source": "protector.de",
@@ -115,16 +125,6 @@
         "tags": [
           "Siemens"
         ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "Neue Zürcher Zeitung"
-        ]
       }
     ],
     "pfs": [
@@ -139,16 +139,6 @@
         ]
       },
       {
-        "title": "X-Sense FS61: Vernetztes Rauchmelder-Set zum Black Week - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-11-19T13:30:00+00:00",
-        "summary": "X-Sense FS61: Vernetztes Rauchmelder-Set zum Black Week Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDNUb1AyWnE1Rms3bHJRR20zaUVET3B6bkhBcldCQkdicWhZWmZzMkxjOHdHakp2X1BUM3pSVFE3R1N5ZFY4TmFRNEszSUtXZmQwZGlhNWlqbFF2T0wxb0dXdEZNcHlKVmF3Qjg2VUdmZ1RJbGNkcG5Eckw5M0ItT0V3OE9TQUFmcU01OHdxbjE5dw?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
         "title": "Immich: Version 3.4.2 behebt Fehler in Web-Oberfläche und Server - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-11-19T13:00:20+00:00",
@@ -156,18 +146,6 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmx3N3duZTlVbDdldUR2UVMwaC1PUnRlb3A3MThVWWZxLTVRckpfa0dvdVVidDJ0bkJTZDdEUGJnQURmazNkU09HcFQwVjhjOEVqLS1meUlMMTNiM2tfdDJtRTU0ODRlaWFzYWJLVXlWNWJMdXBfY3dKNU1HQzNzUm82LUNIWVdjR2E5NzVyZmNhdU9UYVBHYllB?oc=5",
         "tags": [
           "Caschys Blog"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home erster Hersteller mit Platin-Auszeichnung „10 Jahre zertifizierte IoT-Sicherheit“ - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-11-19T08:59:07+00:00",
-        "summary": "Bosch Smart Home erster Hersteller mit Platin-Auszeichnung „10 Jahre zertifizierte IoT-Sicherheit“ PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZ2RzZU93aTFfX2NXSkVMVjlPRkNlWUg3RG4wSk9xWjVsM0lfeTRTck03NE5raUUxamlwMmh2X3ZZY0k4bk9aUEt0Vkc4R2E1SUttQVVYSTEtbFRMWmxyQVpaZ3NKak43a3JxeHVGMEdOZXdxdlUwVV9PRVZXT1R1dWVjdE9LUzh3Sk9mbmxPWE5JcmpnSXA0ZkZJTU9maE9uWVVlRW1xcTNqSHhLRDdiT2h6M2FPZU1UX1VWLVlqSWFLcmdkaEtZdktMbURacllMN25xeGV2cXJoSkNKMDhWWERZVkhWMVNiaTI4bndYaFJ3X3J5RUxwRWtmVVFoeFFOamdpUmpUQnh0b2FwVzZn?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
         ]
       },
       {
@@ -253,9 +231,49 @@
         "tags": [
           "Ei"
         ]
+      },
+      {
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
+        "source": "PCGH",
+        "publishedAt": "2026-09-18T07:00:00+00:00",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
+        "title": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test - connect.de",
+        "source": "connect.de",
+        "publishedAt": "2026-09-11T07:00:00+00:00",
+        "summary": "Smarter Rauchmelder: X-Sense Smoke Alarm SD11-MR61 im Test connect.de",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM25ZUV95ajROLWpFSjZfWWY5VFhwbHZ4SkY4aGVEUkZNYzdYeG54YUdlMG9BOHRpYjRhUkxXT2xhWGhzVXd6ekljQ05KQnh4Zy1BRGZZaEpJdjZqdDVuMXc4OVNRNEloS2FMTlZPX1hKQjl1Z1Z0bDRoSHhLc2k5TG15eTl6RFFWd2hNNzZINHM5MmhBN3lrSFdkd3dUcW53anc?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
       }
     ],
     "doors": [
+      {
+        "title": "OpenAI: externe Sicherheitsprüfung im Überblick - NeoTeo",
+        "source": "NeoTeo",
+        "publishedAt": "2026-11-19T07:02:26+00:00",
+        "summary": "OpenAI: externe Sicherheitsprüfung im Überblick NeoTeo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW1CMWVYN3RIQ1AwdnhUbDFTaExoR00yUmhjeFBtUWFMSmFlYXp4Qm1JYVpqOF91cXFOeElQOERkcU5XQU05SkNJeEc4Umh0TU5MYmtLU21YSHUwYUdSaVVGckktMnpnenFwU0xHcHFnRHh4SmprR3ZBU0xfVy02MXY5TjV0dmhMWjktSnpmcGQ?oc=5",
+        "tags": [
+          "NeoTeo"
+        ]
+      },
+      {
+        "title": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen - BornCity",
+        "source": "BornCity",
+        "publishedAt": "2026-11-18T15:44:04+00:00",
+        "summary": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen BornCity",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajM0aE5uVHRFLUVFRExaOGs2amlUNWtNbjNwUTdEWmZheGxRZGZlN2dKajJGTksxaHNwRmRndVhTaTlwdDlKcUlMWjkxZ2tXTWw0VENNaG0tMVZIdFVvam40cl9sTU9CZkF4NXA5Q252SkxXYXpZb192QnJaVjlaUUFidXdHQjZjejJYLWNYM1VnMWdhZTlfQS02WHExeFVoYXF5ZWZOOA?oc=5",
+        "tags": [
+          "BornCity"
+        ]
+      },
       {
         "title": "OpenAI verpflichtet vier unabhängige Prüfstellen für eingebettete Sicherheitsprüfungen - Unite.AI",
         "source": "Unite.AI",
@@ -337,16 +355,6 @@
         ]
       },
       {
-        "title": "Pechschwarzes Findlingsbaby Apollo wartet seit sechs Monaten im Tierheim Baden-Baden - Badische Neueste Nachrichten",
-        "source": "Badische Neueste Nachrichten",
-        "publishedAt": "2026-05-23T10:02:25+00:00",
-        "summary": "Pechschwarzes Findlingsbaby Apollo wartet seit sechs Monaten im Tierheim Baden-Baden Badische Neueste Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXpHbkgtSmk3VDBaQ3FpOFdGUVNQNWV1d05qRWJCQ1RyODRGX3I0QTQ2ZkRUUTM2RGEzQ1lzZVI0ZmM1cVlLdjVmNEFDZi1yVml2VEl0aHl2eTVFemJhci1ZMGlsbWNYZXNZcHRtSVJrWVVKTmFKdC1udWVFTXhBMmREN09tWG9pNlp3RnJscHZrcGhKNHdDczF4RnA0YzQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-03-06T08:00:00+00:00",
@@ -365,19 +373,19 @@
         "tags": [
           "Apollo"
         ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Buildings Experience Center: Gebäudetechnik zum Anfassen - a3BAU",
+        "source": "a3BAU",
+        "publishedAt": "2026-11-20T13:43:08+00:00",
+        "summary": "Buildings Experience Center: Gebäudetechnik zum Anfassen a3BAU",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vSlBRR01JUEpvOElLalNIVkhSSDFYcVZmbzgzTERneENrMWFKSVktNmM3TFp5ZXBMTVlyTFNYOUwwU3hXQ09iSkZzZHFCZUowNnB5SUp2SVZkaW85SVQ5QkRpZFZYTkM1eGZnWlJ6MW1HOHQ3OTZZeWhHWURjUQ?oc=5",
+        "tags": [
+          "a3BAU"
+        ]
+      },
       {
         "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
         "source": "Wirtschaftszeit",
@@ -395,6 +403,18 @@
         "summary": "Energieeffizienz öffentlicher Gebäude: KI trifft Komfort a3BAU",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Qd2pRWjZEWW50WGpqR2doWWh0bnRjeXlyR3J0Y0VLdENjYU1JNUduUWtUUlpKYkJoY3NZYlY4VFIxcEtmOWlvekREYlBfN0JnamlPZWNfX3VzLUtRRmxfS1p0S2ZZbGxiNUZSTkg3c3lQcE41VjFicW5xYmxmb3M?oc=5",
         "tags": [
+          "KI"
+        ]
+      },
+      {
+        "title": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-11-18T13:24:00+00:00",
+        "summary": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlR6N251cE0wZkFucjc5YkgzbmpDSzRhcWhmM3VoOVRkTUlTUDMydHBGLXc5UVY1RjR3M1Zmdmx0TGZKSkp0SFRsZWs2MjV5X2ttbzZCQ3RQU0JVdFFRa2doc3otcklGM1Uyel9UbXJobmVyWGhSZVlBdUEyZHNKZkJDM1VEMWY3VDJUcHJxckVsNkxFcU9oa3MySkp1Mk91NWhwWUtReVlTMXlSdTktTzlXb0sxNUkzNHRXRk13bmU0TzR0bl9IazJTUXVhR1J5T3c?oc=5",
+        "tags": [
+          "Retrofit",
+          "Cybersecurity",
           "KI"
         ]
       },
@@ -477,26 +497,6 @@
         "publishedAt": "2026-09-13T07:00:00+00:00",
         "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft - Wochenblatt Reporter",
-        "source": "Wochenblatt Reporter",
-        "publishedAt": "2026-09-11T07:00:00+00:00",
-        "summary": "KI für Brücken, Gebäude und Bauanträge: Heidelberg testet die Stadt der Zukunft Wochenblatt Reporter",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU9sUGpYV0xuTVM4RE5xWmhHVUp0RVNkTFNLYklvYXlKVFhCd2JCODhDLUJiejNaRzEwZjN6Z3FpcXFjRk1QOTNPZTJNb0NPQ1c0ZHFmTXBZRHpjMlFwLVl2RU90NFdfazlUdjl6RjZxR0VOUDFtdWRHQkJWMGNGcVg4V0QtQ2Y1cUQzbnZmRkYzVmdqbnVPeFFDRHZHZXNsUV9FREJZWEJwNmljdERiSnJrcEVHRTdHNExwMUdydmM4cWhBSGlRd3BwVXV6MzN5YXFMQlg5WFVLZ29OZnY4?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-gestützte Brandschutz-Tools - elektro.net",
-        "source": "elektro.net",
-        "publishedAt": "2026-09-10T07:00:00+00:00",
-        "summary": "KI-gestützte Brandschutz-Tools elektro.net",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wQjZxRVl6LWJhTXJ1SGxsWVVNRHpPVzZtaFZhckltb2ktdU5aSzRtZlFvUUYyaWhLalRjYlQ2V0FpaU9HQTdWRnczLVljY2d2QTVCcW1CTVhyLWcxRVl4OFZsUEdYbnN0bVl3dUxjbzY?oc=5",
         "tags": [
           "KI"
         ]
