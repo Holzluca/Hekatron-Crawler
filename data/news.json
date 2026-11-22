@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-11-22T01:57:01.644445+00:00",
+  "generatedAt": "2026-11-22T09:23:21.772623+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
-        "source": "Wirtschaftszeit",
-        "publishedAt": "2026-11-20T09:53:00+00:00",
-        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Deutsche Aircraft setzt auf Lösung von Bosch Building Technologies - protector.de",
         "source": "protector.de",
@@ -45,6 +35,17 @@
         ]
       },
       {
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "tags": [
+          "Bosch",
+          "Brandschutz"
+        ]
+      },
+      {
         "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
         "publishedAt": "2026-08-17T07:00:00+00:00",
@@ -62,16 +63,6 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Neue IoT-Brandmelder präsentiert - buildingtimes.at",
-        "source": "buildingtimes.at",
-        "publishedAt": "2026-07-02T07:00:00+00:00",
-        "summary": "Neue IoT-Brandmelder präsentiert buildingtimes.at",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
-        "tags": [
-          "buildingtimes.at"
         ]
       },
       {
@@ -116,13 +107,23 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "Bosch"
+          "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
@@ -157,16 +158,6 @@
           "Bosch",
           "Rauchwarnmelder",
           "Smart Home"
-        ]
-      },
-      {
-        "title": "X-Sense FS61: Vernetztes Rauchmelder-Set zum Black Week - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-11-19T13:30:00+00:00",
-        "summary": "X-Sense FS61: Vernetztes Rauchmelder-Set zum Black Week Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDNUb1AyWnE1Rms3bHJRR20zaUVET3B6bkhBcldCQkdicWhZWmZzMkxjOHdHakp2X1BUM3pSVFE3R1N5ZFY4TmFRNEszSUtXZmQwZGlhNWlqbFF2T0wxb0dXdEZNcHlKVmF3Qjg2VUdmZ1RJbGNkcG5Eckw5M0ItT0V3OE9TQUFmcU01OHdxbjE5dw?oc=5",
-        "tags": [
-          "X-Sense"
         ]
       },
       {
@@ -251,17 +242,37 @@
         "tags": [
           "CHIP"
         ]
+      },
+      {
+        "title": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-10-22T07:00:00+00:00",
+        "summary": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! ADAC",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
+        "tags": [
+          "Ei"
+        ]
       }
     ],
     "doors": [
       {
-        "title": "Tender MOSEL: Vom Versorger zum Multitool der Deutschen Marine - marineforum",
-        "source": "marineforum",
-        "publishedAt": "2026-11-19T07:59:49+00:00",
-        "summary": "Tender MOSEL: Vom Versorger zum Multitool der Deutschen Marine marineforum",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTUtRSlNLWXlnWU83aXZsZVUzUVRWUXJ2Q1JyTnhBSXZTMDUxTGVvbFFGWUhqc25GVUdKSE9rdVA4T21yUllvWF9oaVo1bFBfZXlrZ0F3OXBVWGVIUThnNW5NV1YwOUhjMWhoTU55OEZhYmZPeGc?oc=5",
+        "title": "OpenAI: externe Sicherheitsprüfung im Überblick - NeoTeo",
+        "source": "NeoTeo",
+        "publishedAt": "2026-11-19T07:02:26+00:00",
+        "summary": "OpenAI: externe Sicherheitsprüfung im Überblick NeoTeo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW1CMWVYN3RIQ1AwdnhUbDFTaExoR00yUmhjeFBtUWFMSmFlYXp4Qm1JYVpqOF91cXFOeElQOERkcU5XQU05SkNJeEc4Umh0TU5MYmtLU21YSHUwYUdSaVVGckktMnpnenFwU0xHcHFnRHh4SmprR3ZBU0xfVy02MXY5TjV0dmhMWjktSnpmcGQ?oc=5",
         "tags": [
-          "marineforum"
+          "NeoTeo"
+        ]
+      },
+      {
+        "title": "Apollo Research setzt sechs Evaluatoren im Pilotprojekt zum Unterlaufen von Schutzmechanismen bei OpenAI ein - Unite.AI",
+        "source": "Unite.AI",
+        "publishedAt": "2026-11-16T17:38:04+00:00",
+        "summary": "Apollo Research setzt sechs Evaluatoren im Pilotprojekt zum Unterlaufen von Schutzmechanismen bei OpenAI ein Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWxzLTlwbmtlQWNVcWlaVUtiR3VnQVVheFFvSkNPcGE5VEtKc0dkQVR3OG1HOHF1YmpUMTVaMDZLY0lwZXNGTmdJVGRpX3BxOUh0LWxqODhadUQyRlRHUV84YXlNTjVONlhVeWVQZ2tHamItYjFuSng5bUR4ZG9XZVl5UGVITVJDM2cwdWdhUmVuYVpVaGc?oc=5",
+        "tags": [
+          "Apollo"
         ]
       },
       {
@@ -270,16 +281,6 @@
         "publishedAt": "2026-11-16T13:30:50+00:00",
         "summary": "Apollo und Victory Capital kooperieren, um Privatanlegern Zugang zu privaten Märkten zu ermöglichen MarketScreener Schweiz",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSloyVEhGR0tzQ2ZvcXJqbDZFV1d0cHN3RW5kY2xHLWZUMXYzTHhZeGhYVnRydUZSczRxMnNDb2JKbXJLUm9tWEE5ZUhVRXF3dFR2b1FVa0VJMFBaS0dtZTkzMzFYSmx5aTRZVFVZdG5LM01BZGFra0VGZURxay1fTllkcjBSMDNiZDlpX3paOHJCWWotRjFhUE5oNU42QlBnZ3ZnMzNQVU83MTQyMzVuRG90QU9WbGV2UmFrT01PQVBiMHRQTDF6ZUNCR2d0VjhwclRxcW9PLS1DaG1pUU0zU0U3UTNIOGZIb1QzRGtKSVhZbjN0Q3hiM3RR?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten - Badische Neueste Nachrichten",
-        "source": "Badische Neueste Nachrichten",
-        "publishedAt": "2026-09-09T13:31:37+00:00",
-        "summary": "„Mr. Apollon – 24/7 Kiosk“ in Eggenstein-Leopoldshafen: So läuft das Geschäft mit den Automaten Badische Neueste Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaEc0RGhQQjlKSWpkT0RUWFlDME1QRkhPeTVQUmVuQ1hYNGh6SVRMUWl5eFo5OE9zVG9TY1ZkVDEzUWw3Tjd5blBPYlpkbzZwSEdOd3czLS1qR1ZMM1FpSmE5N0VHQU5KNHljaEo0SFNjWXoyNWswZXNidWl4WDdfNi1vc202eWlRbHRuRmhXVzIzc3ZrT1cwVjFnMHVacS1Wc1dqemFYV0s3c2ZyVURzMUtSM0FFT3gwLVdEVUJBbU9PUFpNcnlIU2V0TkpvNVNDVWx2M1VOcXRWTDZlSTN1bG5nSXRUOE1EWk1KLV9YN0Q?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -335,6 +336,16 @@
         ]
       },
       {
+        "title": "Pechschwarzes Findlingsbaby Apollo wartet seit sechs Monaten im Tierheim Baden-Baden - Badische Neueste Nachrichten",
+        "source": "Badische Neueste Nachrichten",
+        "publishedAt": "2026-05-23T10:02:25+00:00",
+        "summary": "Pechschwarzes Findlingsbaby Apollo wartet seit sechs Monaten im Tierheim Baden-Baden Badische Neueste Nachrichten",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXpHbkgtSmk3VDBaQ3FpOFdGUVNQNWV1d05qRWJCQ1RyODRGX3I0QTQ2ZkRUUTM2RGEzQ1lzZVI0ZmM1cVlLdjVmNEFDZi1yVml2VEl0aHl2eTVFemJhci1ZMGlsbWNYZXNZcHRtSVJrWVVKTmFKdC1udWVFTXhBMmREN09tWG9pNlp3RnJscHZrcGhKNHdDczF4RnA0YzQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
         "source": "Business Insider Deutschland",
         "publishedAt": "2026-03-06T08:00:00+00:00",
@@ -363,19 +374,19 @@
         "tags": [
           "GEZE"
         ]
-      },
-      {
-        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
-        "source": "ZDFheute",
-        "publishedAt": "2025-11-18T08:00:00+00:00",
-        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
-        "tags": [
-          "ZDFheute"
-        ]
       }
     ],
     "trends": [
+      {
+        "title": "Radevormwalder Firma Gira: Im Finale um den „Deutschen Nachhaltigkeitspreis 2026“ - RP Online",
+        "source": "RP Online",
+        "publishedAt": "2026-11-21T07:00:00+00:00",
+        "summary": "Radevormwalder Firma Gira: Im Finale um den „Deutschen Nachhaltigkeitspreis 2026“ RP Online",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmRhQVZPOUNweEFrajB6a0hCT3plUUJpT01mRE05bEluWWZfWHNPc3NoNDJqYk1QMHpNcjIxbkhDd3o1MnJYekdtMHpjdjNRU3JleXJOOGVWREk5R29IOTF4MUZQdEtESHpnZGV0OGF2VGxKUE9SWlVtRFgyZkZVdTk1M3NaaEgwb3hDUjMxTFlFbFl1TzhGQmUyMXZhWXVUSFFXTTN4Q2FuWW5XWlNzaVJvTFI5am5Hdm0zNWNqcV9Pd0tyR3pvbGVndnFWb3BHc0lacA?oc=5",
+        "tags": [
+          "Nachhaltigkeit"
+        ]
+      },
       {
         "title": "Buildings Experience Center: Gebäudetechnik zum Anfassen - a3BAU",
         "source": "a3BAU",
@@ -384,16 +395,6 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vSlBRR01JUEpvOElLalNIVkhSSDFYcVZmbzgzTERneENrMWFKSVktNmM3TFp5ZXBMTVlyTFNYOUwwU3hXQ09iSkZzZHFCZUowNnB5SUp2SVZkaW85SVQ5QkRpZFZYTkM1eGZnWlJ6MW1HOHQ3OTZZeWhHWURjUQ?oc=5",
         "tags": [
           "a3BAU"
-        ]
-      },
-      {
-        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
-        "source": "Wirtschaftszeit",
-        "publishedAt": "2026-11-20T09:53:00+00:00",
-        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
-        "tags": [
-          "Wirtschaftszeit"
         ]
       },
       {
@@ -407,16 +408,6 @@
         ]
       },
       {
-        "title": "Erste Nachhaltigkeitsstrategie: Paderborner Uni kann Abwärme von Supercomputer in Gebäude leiten - Neue Westfälische",
-        "source": "Neue Westfälische",
-        "publishedAt": "2026-10-26T07:00:00+00:00",
-        "summary": "Erste Nachhaltigkeitsstrategie: Paderborner Uni kann Abwärme von Supercomputer in Gebäude leiten Neue Westfälische",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa2NoeDVwQmUwRGNfeUJqeDdQWHJ6ZUIyV01DbmxiLW5BbC1QSS1val9iS0h4SXJhdHdYb2x1Y2NZMkhwdFJHbWt3Y3ZwVm82aGRhWmlrSkstMjhlVW9KTXQ0ak9iYTcyaWFDUVM0emNqZFFWV2YwVnhMUFlUZEJYX1NqbHpUUEs4N0hhNEJkdjJHSE1fUG4zTTF3WHQ3aUJoai1DVGQ5M2E0Qm1fS1VkYnplTWhtcXhnWGxKZ2xjZjNLRFBQUWI3ZHA5VllPYkFfNHpXamVwYlpCd2RadE9mSExUalZtRkw2S0dfNHQ2UDNSQmc?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
-        ]
-      },
-      {
         "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
         "source": "Produktion Online",
         "publishedAt": "2026-10-07T07:00:00+00:00",
@@ -425,6 +416,17 @@
         "tags": [
           "Retrofit",
           "AI"
+        ]
+      },
+      {
+        "title": "Das Gebäude besticht durch reduzierte, moderne Architektur und Nachhaltigkeit. Seine Geometrie und die Holzfassade lassen es mit der Landschaft verschmelzen. - DETAIL",
+        "source": "DETAIL",
+        "publishedAt": "2026-09-22T09:28:59+00:00",
+        "summary": "Das Gebäude besticht durch reduzierte, moderne Architektur und Nachhaltigkeit. Seine Geometrie und die Holzfassade lassen es mit der Landschaft verschmelzen. DETAIL",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iSWlzUlVPSU8tUUFqanpIUjRJRXdyeV9GNnZMeGRRcGFHbHBlQV95MENORVA2d3RRcjZwZ2czMzVlVVlnS3Rkc2FyaHJ5NTF6cnpCTXNsXzZEM1Mwd1M5NlNn?oc=5",
+        "tags": [
+          "AI",
+          "Nachhaltigkeit"
         ]
       },
       {
