@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-11-22T09:23:21.772623+00:00",
+  "generatedAt": "2026-11-22T17:15:59.004246+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
+        "source": "Wirtschaftszeit",
+        "publishedAt": "2026-11-20T09:53:00+00:00",
+        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Deutsche Aircraft setzt auf Lösung von Bosch Building Technologies - protector.de",
         "source": "protector.de",
@@ -115,19 +125,19 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
-      },
-      {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Black Week: Smart-Home-Angebote mit Preisgarantie - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-11-22T09:15:00+00:00",
+        "summary": "Black Week: Smart-Home-Angebote mit Preisgarantie Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNWlndlFKVWZMRHc5cHpZYzZtZnYzQjJ1eFVIM3liNk94QjMxSFJaQS1jNU1FUDhxYnVRSFB0akpzVlhxUFpOb1FQMFJVRFByYkRONnBlbTRaQTZ0ZWdjVk8xd0JzYXotZjFKQ1kzTmNQUmVpVkluQkY0RWR0d1VyblpPQQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
       {
         "title": "Die 7 besten Deals bei Tink: Black Friday liefert Hammerpreise! - HIFI.DE",
         "source": "HIFI.DE",
@@ -158,6 +168,16 @@
           "Bosch",
           "Rauchwarnmelder",
           "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Camera App 2.14.1 | Update mit neuer Firmware für Eyes-Kameras - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-11-20T12:07:42+00:00",
+        "summary": "Bosch Smart Camera App 2.14.1 | Update mit neuer Firmware für Eyes-Kameras SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBveXRXQ2VkenNZNjJDVzMzeXpnOUhVRFNndmZWN042ZUtOODljUDYxS0hpM1RpYWpmSWE1UGhOLUY4ODhaNWQ4Sno2YWdqakIyOTU0UmxXbFd5MWJyS3BjRXIyS2o3V3NTSGFvOXFJLVZIUQ?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -231,26 +251,6 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1pDVkZmWFBObG8ybndRUW8xNDV2OUlpMVFRcWk0YVZMYUxDR1VMd05yb3VscW1fa3I4VWdIdjVCcnM4cFNGLWFZdXI3MDI4dFhROF9rb0lPQUdCOE5mejVNSVNFSFpveUNEclpzZ0lIczhtbW5vRTFzZ3RndXBIdEFWSHZqbjFNZEZGcmU2am5ra2ZYeTU5eUJBY1UtQWZzLUpyMlFET21SVXZK?oc=5",
         "tags": [
           "Pyrexx"
-        ]
-      },
-      {
-        "title": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-10-23T07:00:00+00:00",
-        "summary": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2IxT3F6Vml6ZlNoNHRPVmFSYUlacktDV19yaUNhZHpFX1Q2N1lZb050YS1hamZEMlBXMnp4TlZzQm8wRUZEbHlycVU4T0NvVXVrR1VPS0t4eHlKdzh0TS13aVFCa1ZKdjdpSnhnbU9MN1MtRk5JaUxWNkpacmZfcFJScV9KMGVKSGFtaWtmdFdqRjdTMzYzUVhwYWNVWEpiLU9HZXh5ZnNiVV9EbFhhbGpXdFl1b29JSTNMdVZyTVY3N1FUUE5QbE10bFEwQjVtSjk2UEJnOC1VcmRBQmNtVllNWjFPbUQtRXRpS0s2N2FpVUlk?oc=5",
-        "tags": [
-          "CHIP"
-        ]
-      },
-      {
-        "title": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! - ADAC",
-        "source": "ADAC",
-        "publishedAt": "2026-10-22T07:00:00+00:00",
-        "summary": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! ADAC",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
-        "tags": [
-          "Ei"
         ]
       }
     ],
@@ -336,13 +336,13 @@
         ]
       },
       {
-        "title": "Pechschwarzes Findlingsbaby Apollo wartet seit sechs Monaten im Tierheim Baden-Baden - Badische Neueste Nachrichten",
-        "source": "Badische Neueste Nachrichten",
-        "publishedAt": "2026-05-23T10:02:25+00:00",
-        "summary": "Pechschwarzes Findlingsbaby Apollo wartet seit sechs Monaten im Tierheim Baden-Baden Badische Neueste Nachrichten",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXpHbkgtSmk3VDBaQ3FpOFdGUVNQNWV1d05qRWJCQ1RyODRGX3I0QTQ2ZkRUUTM2RGEzQ1lzZVI0ZmM1cVlLdjVmNEFDZi1yVml2VEl0aHl2eTVFemJhci1ZMGlsbWNYZXNZcHRtSVJrWVVKTmFKdC1udWVFTXhBMmREN09tWG9pNlp3RnJscHZrcGhKNHdDczF4RnA0YzQ?oc=5",
+        "title": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-04-05T07:00:00+00:00",
+        "summary": "„Der Flößerpark ist ein großer Gewinn“: Eine neue Attraktion soll das Areal noch attraktiver machen Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM1Q5QTRWTzFQaUxEcWFGMFFTZ1Q4RXM4aExtdDNIc1lfWXVsbGhLNFM3OWU2WHZvdzl1TzVSTkg1V1puMHJ1NG1pN1RkejVtdkZnaDZoaWxOd3h5dXBwbDNFNDBVbXk5QWVITkN2WUhCMG9vVnU0cmw5cDdubkJUUlRqQlRBUHh0QXljcTcxbUV5ZGVERnJld3R5V2pRX3NaZy1tdzY1Q0VWdXR5ajJzbEhtQ0g4YUx4WDVsNUJPMXpxNUNodWZaZWlYUHhidw?oc=5",
         "tags": [
-          "Apollo"
+          "Augsburger Allgemeine"
         ]
       },
       {
@@ -395,6 +395,16 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vSlBRR01JUEpvOElLalNIVkhSSDFYcVZmbzgzTERneENrMWFKSVktNmM3TFp5ZXBMTVlyTFNYOUwwU3hXQ09iSkZzZHFCZUowNnB5SUp2SVZkaW85SVQ5QkRpZFZYTkM1eGZnWlJ6MW1HOHQ3OTZZeWhHWURjUQ?oc=5",
         "tags": [
           "a3BAU"
+        ]
+      },
+      {
+        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
+        "source": "Wirtschaftszeit",
+        "publishedAt": "2026-11-20T09:53:00+00:00",
+        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
+        "tags": [
+          "Wirtschaftszeit"
         ]
       },
       {
@@ -485,16 +495,6 @@
         "publishedAt": "2026-08-28T07:00:00+00:00",
         "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche - Infopoint Security",
-        "source": "Infopoint Security",
-        "publishedAt": "2026-08-21T07:00:00+00:00",
-        "summary": "KI-Rechenzentren haben blinde Flecken: Gebäudetechnik wird zur Angriffsfläche Infopoint Security",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVNpc1pGMnFYaF85QUZRaGJtN2xDZ2R0SC01NGFzY2N5Z3JSQnNtZHdwbzdfWWw3SkRDQkFxbnZ6enRsRnJBWE1nNTFZTU9ZLXkxTk53UzlGMkRfanJneHZpbXJWVG5UeTA0OW9wSnRnTkhMM004ZnhoeW9Zd0w0U2hUbTM2TXA1RFhzX2VndnMyQm13VmhXazI0SVRSMHppRXg5UUNrVG8zWVl2Rm5ORzJKTHpzQlZwV3J1UNIBwAFBVV95cUxOeURiWm9CRmpsVTlHWndUS2dIc3k5ak1iSVdSQ3VReHV6RDJFVmhKQ0ktOEJzZXFLYVVGX0hKRHlvSEZHZW9KelY3OUkzdFo0dHRIdDBkWUpNRk1LbzhBVU81b3BTbl9acUdvTWRSRW5fWld2ZzgtZV9rbmVYWUhZLUtEZmtlTTJmMFVsTFN2dWp3aUhDQmt6YnRBSWR2X2ZId1lSNmF1QXN5THpSNHA5T2RjbGpPcHZ5MTRSTURwdms?oc=5",
         "tags": [
           "KI"
         ]
