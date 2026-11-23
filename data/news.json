@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:26:20.814310+00:00",
+  "generatedAt": "2026-11-23T13:26:40.717272+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -129,6 +129,16 @@
     ],
     "pfs": [
       {
+        "title": "X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-11-23T13:13:45+00:00",
+        "summary": "X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONy1EdXNZVi01ZlNOaGtrT1B3cFQ0Y0VFbWljZy1kSWdFSzc1dVJ0ZFhCNDBrMjVqYVZkV0VlYWFMRDFiUjVfdVRiR2ExbGtGa0JKVkdVWURhalRDWFBWM2JvUTk1eWQzSHdvbF9IY1BZci1lV2Rnbmo5eUV0SDYxc3dMMGZ6VTVqTVpvWmYwaHpFMHYtd1hTLTM1SExNUERYYnc?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
+      {
         "title": "Black Week: Smart-Home-Angebote mit Preisgarantie - Teltarif",
         "source": "Teltarif",
         "publishedAt": "2026-11-22T09:15:00+00:00",
@@ -171,16 +181,6 @@
         ]
       },
       {
-        "title": "Bosch Smart Camera App 2.14.1 | Update mit neuer Firmware für Eyes-Kameras - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-11-20T12:07:42+00:00",
-        "summary": "Bosch Smart Camera App 2.14.1 | Update mit neuer Firmware für Eyes-Kameras SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBveXRXQ2VkenNZNjJDVzMzeXpnOUhVRFNndmZWN042ZUtOODljUDYxS0hpM1RpYWpmSWE1UGhOLUY4ODhaNWQ4Sno2YWdqakIyOTU0UmxXbFd5MWJyS3BjRXIyS2o3V3NTSGFvOXFJLVZIUQ?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
         "title": "Immich: Version 3.4.2 behebt Fehler in Web-Oberfläche und Server - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-11-19T13:00:20+00:00",
@@ -188,16 +188,6 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmx3N3duZTlVbDdldUR2UVMwaC1PUnRlb3A3MThVWWZxLTVRckpfa0dvdVVidDJ0bkJTZDdEUGJnQURmazNkU09HcFQwVjhjOEVqLS1meUlMMTNiM2tfdDJtRTU0ODRlaWFzYWJLVXlWNWJMdXBfY3dKNU1HQzNzUm82LUNIWVdjR2E5NzVyZmNhdU9UYVBHYllB?oc=5",
         "tags": [
           "Caschys Blog"
-        ]
-      },
-      {
-        "title": "Black Friday: X-SENSE FS61 mit Home Assistant und 6 vernetzten Rauchmeldern für 104,99 Euro - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-11-19T07:00:28+00:00",
-        "summary": "Black Friday: X-SENSE FS61 mit Home Assistant und 6 vernetzten Rauchmeldern für 104,99 Euro Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVnBaN1M5Zk9NaGlRTzhTYVJwcGdqalpJbEQwcEZSUFdkM2xOZjZqRGpjWDNxR1B4VG9rVGlHLU1DaVZsNUJQN085dmpVOU5oWEhxSmZGVFB1R1AzbVM4QjVsekVtaXMzSmdBMjJBMGVCOVRpWV9qM3RIeTl6dEhZZE4zcmJvYVJCWWxONkFnQi1DNnZPNU1NQ01MQ2xmVldrZnRWcDlMS2M0UDRWYUdCRnVDYlRpTEZ4UW1uYQ?oc=5",
-        "tags": [
-          "X-Sense"
         ]
       },
       {
@@ -212,38 +202,6 @@
         ]
       },
       {
-        "title": "Black Friday 2026: Smarte Warnmelder von X-Sense stark rabattiert - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-11-17T11:25:59+00:00",
-        "summary": "Black Friday 2026: Smarte Warnmelder von X-Sense stark rabattiert FAZ",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZTFYQmVkNk5tUllTT0s4RXp2X0xOLVJweUxoN0l0QVhsUFRSeTlnTjdIQ3pBTTMtUGJoaW1WTTV2RndXU04xWkViQnViQkVkbzhOQWdqRXA2d3ZzZTVQdlZmeV82RVdiUnp4Q3J4Zy1CY0ZrVDR1c0NHdXJFd0hqSExuYzBPUEFvUXlTazdUelp3dl93eHJTdkFzZ0RzYnV1OEU0VWVqdW0?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr - HIFI.DE",
-        "source": "HIFI.DE",
-        "publishedAt": "2026-11-16T08:00:00+00:00",
-        "summary": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr HIFI.DE",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84TS1GTE5NWjJCaXk3a185SHQ3N3VWV3N5NWtzZXpIczBJNmhsU2lNQUJONkZxei1NVlp4LVppWnFqMW5mRnluYU5wd3ptRHZidmhHSGVDQ2RrY1phUG5vbUoxbHQ5cnR5cXpqT0VYcw?oc=5",
-        "tags": [
-          "Ei",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Thermostat-Testsieger: Heiznote „sehr gut“ für diesen Bosch-Regler - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-11-16T05:10:43+00:00",
-        "summary": "Thermostat-Testsieger: Heiznote „sehr gut“ für diesen Bosch-Regler IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXRVTW1HZWZZdkp5NEVnOURTSjQ5UVRrQ1Foem5ySFZuVWF3VjA4RDhCbm0teE5iN2M3Qk0ySF95Yi1mNS0wSjM1OGM0ZkszeUlvMlZBYjZySm4zOUt4bTltVHdhN2ZMQ0NfZFFPZnloc0JFUUpzLTU4YTFBWGNlSVNHdE8?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch"
-        ]
-      },
-      {
         "title": "Der beste Rauchmelder: Pyrexx schlägt besonders schnell Alarm - CHIP",
         "source": "CHIP",
         "publishedAt": "2026-11-04T08:00:00+00:00",
@@ -251,6 +209,46 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOXVNMmkxbDgzUVZIbjhEU2lvb2xONHpQLTVCbEg3N2Q2MHhEVzZQMW1meHFzT0RNT2hCMEs2VVNDTVdkZkVmRjZSVDk5Nk83OEVKeUEtVG8zLVZidjU1bS1qanVmLVZhdUJMZkFLTXBhbkY3UDhsbU1rVmh0NEVkVjQtUFRuV1BGdWdLQWpERWZXc1RlVVZCNzN2UW1WV1NyWm5OOHVnVHVLV2kwa2JyZ0hLNkt1UFhiRl9EQkpvZXBPUU9TUmNGNVYxMEc5VG5XdEpBc1V1ZkJJTldx?oc=5",
         "tags": [
           "Pyrexx"
+        ]
+      },
+      {
+        "title": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q - Netz Trends",
+        "source": "Netz Trends",
+        "publishedAt": "2026-10-24T07:00:00+00:00",
+        "summary": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q Netz Trends",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1pDVkZmWFBObG8ybndRUW8xNDV2OUlpMVFRcWk0YVZMYUxDR1VMd05yb3VscW1fa3I4VWdIdjVCcnM4cFNGLWFZdXI3MDI4dFhROF9rb0lPQUdCOE5mejVNSVNFSFpveUNEclpzZ0lIczhtbW5vRTFzZ3RndXBIdEFWSHZqbjFNZEZGcmU2am5ra2ZYeTU5eUJBY1UtQWZzLUpyMlFET21SVXZK?oc=5",
+        "tags": [
+          "Pyrexx"
+        ]
+      },
+      {
+        "title": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab - CHIP",
+        "source": "CHIP",
+        "publishedAt": "2026-10-23T07:00:00+00:00",
+        "summary": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab CHIP",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2IxT3F6Vml6ZlNoNHRPVmFSYUlacktDV19yaUNhZHpFX1Q2N1lZb050YS1hamZEMlBXMnp4TlZzQm8wRUZEbHlycVU4T0NvVXVrR1VPS0t4eHlKdzh0TS13aVFCa1ZKdjdpSnhnbU9MN1MtRk5JaUxWNkpacmZfcFJScV9KMGVKSGFtaWtmdFdqRjdTMzYzUVhwYWNVWEpiLU9HZXh5ZnNiVV9EbFhhbGpXdFl1b29JSTNMdVZyTVY3N1FUUE5QbE10bFEwQjVtSjk2UEJnOC1VcmRBQmNtVllNWjFPbUQtRXRpS0s2N2FpVUlk?oc=5",
+        "tags": [
+          "CHIP"
+        ]
+      },
+      {
+        "title": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-10-22T07:00:00+00:00",
+        "summary": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! ADAC",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
+        "source": "PCGH",
+        "publishedAt": "2026-09-18T07:00:00+00:00",
+        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
+        "tags": [
+          "X-Sense"
         ]
       }
     ],
@@ -378,6 +376,26 @@
     ],
     "trends": [
       {
+        "title": "Neue Gebäudeautomation - buildingtimes.at",
+        "source": "buildingtimes.at",
+        "publishedAt": "2026-11-23T09:39:09+00:00",
+        "summary": "Neue Gebäudeautomation buildingtimes.at",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IVlFCakVsYUNleS0xY2dHQm1OSjVLM3A4U1hndHUxT1pXUUJQeTdKY1ZHR29aSFlrRFp0Ul9TWFZyOGVoNHFubG1uYmxDdnp4MWhtQ0FCd0dweTNxcE1hRXRYajFqUFJ4TXIyZFJUODM?oc=5",
+        "tags": [
+          "Gebäudeautomation"
+        ]
+      },
+      {
+        "title": "Neuer Gebäudetechnik-Showroom - buildingtimes.at",
+        "source": "buildingtimes.at",
+        "publishedAt": "2026-11-23T09:14:07+00:00",
+        "summary": "Neuer Gebäudetechnik-Showroom buildingtimes.at",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByUXdBQUZwdjVnXzc5WGZPcS1vR3AycGgtSWd4UXhvTVhMeUhuT2RjRnA4TzBaNGc5d1RubWNvNTQyS0paNHN1VDg3RUQ3U1dQUGFhcGtCMHEtSFNmcHZ4dWVLUEhjX3ZpUm1BRVRVak9RdmFoT2p3RXR3?oc=5",
+        "tags": [
+          "buildingtimes.at"
+        ]
+      },
+      {
         "title": "Radevormwalder Firma Gira: Im Finale um den „Deutschen Nachhaltigkeitspreis 2026“ - RP Online",
         "source": "RP Online",
         "publishedAt": "2026-11-21T07:00:00+00:00",
@@ -388,13 +406,13 @@
         ]
       },
       {
-        "title": "Baustart für das KI-Rechenzentrum der Universität Leipzig - idw - Informationsdienst Wissenschaft",
-        "source": "idw - Informationsdienst Wissenschaft",
-        "publishedAt": "2026-11-20T13:49:00+00:00",
-        "summary": "Baustart für das KI-Rechenzentrum der Universität Leipzig idw - Informationsdienst Wissenschaft",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PQ1ZXOVBFd084aUVMVC1ZWmRXMm9SQ0lPa1duaWIta2swaUsya0NZaC15bUlPdzdFdVBhY0RpalRGX0dZUFV2UWl2TQ?oc=5",
+        "title": "Gebäudetechnik hautnah erleben: Siemens Buildings Experience Center in Wien eröffnet - Siemens Press",
+        "source": "Siemens Press",
+        "publishedAt": "2026-11-20T18:35:14+00:00",
+        "summary": "Gebäudetechnik hautnah erleben: Siemens Buildings Experience Center in Wien eröffnet Siemens Press",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0xURHJ0QmVaeklNY0VsR2YtTWl5b3JiRGVrVFBVOHFXNkFtVzdmTHQ2SXVaVHQ3Q2g1VTNzSFJjMnN1Z0dRTWp2UGZ4UE9zeTZLeWJnQVY2djJKVlFlOHRNZ2dGcEtJQkctNllkNThmcHVmNGNEQjA2QnFsWi1Hdm9xamdJVEZ3aTNJUGlCdTBHSjI2bzQ4blllVnVSR2NoT1FzOWR1YXVsZWtLUDRkdWpZZFItZHZlSmVOa3c0dmEySVJiMDdBN1dPQQ?oc=5",
         "tags": [
-          "KI"
+          "Siemens Press"
         ]
       },
       {
@@ -408,16 +426,6 @@
         ]
       },
       {
-        "title": "KI-Risiken: Allianz-Tochter rechnet mit Schadenwelle - das investment",
-        "source": "das investment",
-        "publishedAt": "2026-11-20T12:43:00+00:00",
-        "summary": "KI-Risiken: Allianz-Tochter rechnet mit Schadenwelle das investment",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVWFIVC1tcHQtVFotSzZxMmI3X3JmUHc1eE9Ncjh5LWtxNEtjQWVkdjlyM1F2T2pqc2JKd0RMa1VEQ1dyWHJkRmg3T19nU2VROHdHd3RyVjNyLTVPSVhyblBWMWZVOS1NOFkybkxIMzBWX0ZnSm9sb1IwazFPanpNZHV5X3Q2bW9jdmY0UVlkd0VNblI0UjNnUVdENA?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
         "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
         "source": "Wirtschaftszeit",
         "publishedAt": "2026-11-20T09:53:00+00:00",
@@ -425,18 +433,6 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
         "tags": [
           "Wirtschaftszeit"
-        ]
-      },
-      {
-        "title": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-11-18T13:24:00+00:00",
-        "summary": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlR6N251cE0wZkFucjc5YkgzbmpDSzRhcWhmM3VoOVRkTUlTUDMydHBGLXc5UVY1RjR3M1Zmdmx0TGZKSkp0SFRsZWs2MjV5X2ttbzZCQ3RQU0JVdFFRa2doc3otcklGM1Uyel9UbXJobmVyWGhSZVlBdUEyZHNKZkJDM1VEMWY3VDJUcHJxckVsNkxFcU9oa3MySkp1Mk91NWhwWUtReVlTMXlSdTktTzlXb0sxNUkzNHRXRk13bmU0TzR0bl9IazJTUXVhR1J5T3c?oc=5",
-        "tags": [
-          "Retrofit",
-          "Cybersecurity",
-          "KI"
         ]
       },
       {
@@ -450,6 +446,16 @@
         ]
       },
       {
+        "title": "Endspurt für Planegger Marktgarage - Merkur",
+        "source": "Merkur",
+        "publishedAt": "2026-11-12T08:00:00+00:00",
+        "summary": "Endspurt für Planegger Marktgarage Merkur",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTJuUnVNYTVZQy1MbnRxZWpJeEZ6S084dkFDc0h3a2JLeHU0VFM0bzN2UERRYldmdFk5VU9raHpYZmxJeE03bWJOU09XbGNrbG5iZWJZMk9GRzV5YXhWdVBjRjROSVFoUTc5dnpGeFc1TDQ0WWJkX0tldUNjdW53SzRJSm5WY1RpRmtHSXUyR2poWlR3ZjZDV0JUNU5lVzlUcmJleWQ0TWxNelVlS1dSdjltcGk5MzJNdUpLblNZSF9QdnlRYkppR3hPZzJlWXhkUjhpaEdn?oc=5",
+        "tags": [
+          "Merkur"
+        ]
+      },
+      {
         "title": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? - ADAC",
         "source": "ADAC",
         "publishedAt": "2026-11-12T08:00:00+00:00",
@@ -457,17 +463,6 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEQ3WC1YbGV3ZTVteDZsVHYzSWk4Mi0wWmlydzF4WHNsU215X2VqRFhITE1DWTJpbTFjU0pOVVNUOE9XQWl3dEg0RHhUdEp3NEttX2Jsc0RleS1zQ2ZjSGpyY1I5TnBMbW1PLVJDODJhZlM1YzlDU2Rsa05iM2wyaGFBNlpxZDJScnFacno4QUZKckQ5RmRGaDFSRE1UVEh6VHNCMEV2ZWxXR09UcmJ1cEJNZHdBNE0?oc=5",
         "tags": [
           "ADAC"
-        ]
-      },
-      {
-        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
-        "source": "Produktion Online",
-        "publishedAt": "2026-10-07T07:00:00+00:00",
-        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München Produktion Online",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
-        "tags": [
-          "Retrofit",
-          "AI"
         ]
       },
       {
