@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-11-24T01:06:49.994672+00:00",
+  "generatedAt": "2026-11-24T11:18:43.015976+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
-        "source": "Wirtschaftszeit",
-        "publishedAt": "2026-11-20T09:53:00+00:00",
-        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Deutsche Aircraft setzt auf Lösung von Bosch Building Technologies - protector.de",
         "source": "protector.de",
@@ -45,13 +35,14 @@
         ]
       },
       {
-        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
         "tags": [
-          "Augsburger Allgemeine"
+          "Bosch",
+          "Brandschutz"
         ]
       },
       {
@@ -62,16 +53,6 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
-        ]
-      },
-      {
-        "title": "Neue IoT-Brandmelder präsentiert - buildingtimes.at",
-        "source": "buildingtimes.at",
-        "publishedAt": "2026-07-02T07:00:00+00:00",
-        "summary": "Neue IoT-Brandmelder präsentiert buildingtimes.at",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
-        "tags": [
-          "buildingtimes.at"
         ]
       },
       {
@@ -116,17 +97,57 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "Bosch"
+          "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens Press",
+        "source": "Siemens Press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
     "pfs": [
+      {
+        "title": "Home Connect Direct | Bosch, Siemens und Neff lokal in Home Assistant steuern - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-11-24T10:55:24+00:00",
+        "summary": "Home Connect Direct | Bosch, Siemens und Neff lokal in Home Assistant steuern SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2VZZ2o2ODBuNkVtVWs0R3ZOYjlvWklWWnlRRmZkZjF2bUtSTUlTV2h1YVhWeHB6UVpTTjVXNlJKcFdWZ0ZEOXM1QngtYkNlV0YzV2tyaVdsQk1Ic2RtOFpkZ2I2aXM3SjkySGEyOE5JMFB6TkNfLUhFd2tFTmJpMQ?oc=5",
+        "tags": [
+          "Bosch"
+        ]
+      },
+      {
+        "title": "Tink senkt Preise für Roborock und Smart-Home-Geräte - SuaraGarut.ID",
+        "source": "SuaraGarut.ID",
+        "publishedAt": "2026-11-24T10:00:20+00:00",
+        "summary": "Tink senkt Preise für Roborock und Smart-Home-Geräte SuaraGarut.ID",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCdjNXbW4zbHl5eFRiZE9YMl9qN3hoQTgza0JhYnFWMEtsajNudHZkMGpJU2xWSWJsSmZSVGx4MnFvd0RSRHhSbjc4VTIxZDJ0WjNSYmhUa180NkZWVHBVNEl3bWcwaDc0YmZ1Q1BvQQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
       {
         "title": "Bosch Smart Home: Update 10.37 bringt neue Funktionen, Fehlerbehebungen und kündigt Support-Ende an - Caschys Blog",
         "source": "Caschys Blog",
@@ -230,39 +251,17 @@
           "Rauchwarnmelder",
           "Smart Home"
         ]
-      },
-      {
-        "title": "Bosch Smart Camera App 2.14.1 | Update mit neuer Firmware für Eyes-Kameras - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-11-20T12:07:42+00:00",
-        "summary": "Bosch Smart Camera App 2.14.1 | Update mit neuer Firmware für Eyes-Kameras SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBveXRXQ2VkenNZNjJDVzMzeXpnOUhVRFNndmZWN042ZUtOODljUDYxS0hpM1RpYWpmSWE1UGhOLUY4ODhaNWQ4Sno2YWdqakIyOTU0UmxXbFd5MWJyS3BjRXIyS2o3V3NTSGFvOXFJLVZIUQ?oc=5",
-        "tags": [
-          "Bosch"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home erster Hersteller mit Platin-Auszeichnung „10 Jahre zertifizierte IoT-Sicherheit“ - PresseBox",
-        "source": "PresseBox",
-        "publishedAt": "2026-11-19T08:59:07+00:00",
-        "summary": "Bosch Smart Home erster Hersteller mit Platin-Auszeichnung „10 Jahre zertifizierte IoT-Sicherheit“ PresseBox",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZ2RzZU93aTFfX2NXSkVMVjlPRkNlWUg3RG4wSk9xWjVsM0lfeTRTck03NE5raUUxamlwMmh2X3ZZY0k4bk9aUEt0Vkc4R2E1SUttQVVYSTEtbFRMWmxyQVpaZ3NKak43a3JxeHVGMEdOZXdxdlUwVV9PRVZXT1R1dWVjdE9LUzh3Sk9mbmxPWE5JcmpnSXA0ZkZJTU9maE9uWVVlRW1xcTNqSHhLRDdiT2h6M2FPZU1UX1VWLVlqSWFLcmdkaEtZdktMbURacllMN25xeGV2cXJoSkNKMDhWWERZVkhWMVNiaTI4bndYaFJ3X3J5RUxwRWtmVVFoeFFOamdpUmpUQnh0b2FwVzZn?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
       {
-        "title": "OpenAI: externe Sicherheitsprüfung im Überblick - NeoTeo",
-        "source": "NeoTeo",
-        "publishedAt": "2026-11-19T07:02:26+00:00",
-        "summary": "OpenAI: externe Sicherheitsprüfung im Überblick NeoTeo",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW1CMWVYN3RIQ1AwdnhUbDFTaExoR00yUmhjeFBtUWFMSmFlYXp4Qm1JYVpqOF91cXFOeElQOERkcU5XQU05SkNJeEc4Umh0TU5MYmtLU21YSHUwYUdSaVVGckktMnpnenFwU0xHcHFnRHh4SmprR3ZBU0xfVy02MXY5TjV0dmhMWjktSnpmcGQ?oc=5",
+        "title": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen - BornCity",
+        "source": "BornCity",
+        "publishedAt": "2026-11-18T15:44:04+00:00",
+        "summary": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen BornCity",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajM0aE5uVHRFLUVFRExaOGs2amlUNWtNbjNwUTdEWmZheGxRZGZlN2dKajJGTksxaHNwRmRndVhTaTlwdDlKcUlMWjkxZ2tXTWw0VENNaG0tMVZIdFVvam40cl9sTU9CZkF4NXA5Q252SkxXYXpZb192QnJaVjlaUUFidXdHQjZjejJYLWNYM1VnMWdhZTlfQS02WHExeFVoYXF5ZWZOOA?oc=5",
         "tags": [
-          "NeoTeo"
+          "BornCity"
         ]
       },
       {
@@ -283,6 +282,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSi1CWUJYaG5YWGNnRC1hY2MzaVI0V1dQaUpnT2g3TGxVT0JsMTRQamhKNlI1TzRacEFzRUJEd3YzTWhFYVItSVNFWkVBeU9wSl9SMG91LVBDWWVQYXhNRGVVemlEalhqS2k4SjlvZGp2S19QWWFxTEpmM0dCUnFBRHN6enByWFctT3lyZnJKMnNYcEdTc25QTDFhYVY2Y09KcjRrOUpOcVZxdDNmeGx3QjlJZ21INGg2RE1QWkVWN0VRUEJsZWpOaEJCMC10anA5SFNWRWZNYkVJQm55QVB5M0V3LTRjZw?oc=5",
         "tags": [
           "Spiegel"
+        ]
+      },
+      {
+        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
+        "source": "Manager Magazin",
+        "publishedAt": "2026-08-19T07:00:00+00:00",
+        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
+        "tags": [
+          "Apollo"
         ]
       },
       {
@@ -364,37 +373,37 @@
         "tags": [
           "GEZE"
         ]
-      },
-      {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
       }
     ],
     "trends": [
       {
-        "title": "Neuer Gebäudetechnik-Showroom - buildingtimes.at",
-        "source": "buildingtimes.at",
-        "publishedAt": "2026-11-23T09:13:40+00:00",
-        "summary": "Neuer Gebäudetechnik-Showroom buildingtimes.at",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByUXdBQUZwdjVnXzc5WGZPcS1vR3AycGgtSWd4UXhvTVhMeUhuT2RjRnA4TzBaNGc5d1RubWNvNTQyS0paNHN1VDg3RUQ3U1dQUGFhcGtCMHEtSFNmcHZ4dWVLUEhjX3ZpUm1BRVRVak9RdmFoT2p3RXR3?oc=5",
+        "title": "NIS2 im Krankenhaus – Gebäudeautomation ist Chefsache - kma Online",
+        "source": "kma Online",
+        "publishedAt": "2026-11-24T11:00:01+00:00",
+        "summary": "NIS2 im Krankenhaus – Gebäudeautomation ist Chefsache kma Online",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDJ6TzVITVk1dDByRTRTNV95Z1l5alFOM2lGUEdWci1MNW9TY2huQjhGNEhfWUNZT1pkSnkyS0N0aVVPLTlUa1pQSGpaa08ySk00YzRuR0VqRXlCUUZ2VUtOVmZoRVpMdG9nX2gxdHF1YTZTX1lTM3lnSjhRbjllcWdYUGdPX1ZIcTB4RWNWdTk0aDZoMU5iSmdqMGhuQUZnRkJ6SlNsdnEyMHcwMWNpdlNkU3Z2NE1pdkM0?oc=5",
         "tags": [
-          "buildingtimes.at"
+          "Gebäudeautomation"
         ]
       },
       {
-        "title": "Radevormwalder Firma Gira: Im Finale um den „Deutschen Nachhaltigkeitspreis 2026“ - RP Online",
-        "source": "RP Online",
-        "publishedAt": "2026-11-21T07:00:00+00:00",
-        "summary": "Radevormwalder Firma Gira: Im Finale um den „Deutschen Nachhaltigkeitspreis 2026“ RP Online",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmRhQVZPOUNweEFrajB6a0hCT3plUUJpT01mRE05bEluWWZfWHNPc3NoNDJqYk1QMHpNcjIxbkhDd3o1MnJYekdtMHpjdjNRU3JleXJOOGVWREk5R29IOTF4MUZQdEtESHpnZGV0OGF2VGxKUE9SWlVtRFgyZkZVdTk1M3NaaEgwb3hDUjMxTFlFbFl1TzhGQmUyMXZhWXVUSFFXTTN4Q2FuWW5XWlNzaVJvTFI5am5Hdm0zNWNqcV9Pd0tyR3pvbGVndnFWb3BHc0lacA?oc=5",
+        "title": "Selbst Häuser im Wert von Milliarden Dollar werden noch immer überflutet, und hier ist der Grund, warum sich die Standards im Immobiliensektor ändern müssen. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "publishedAt": "2026-11-24T00:48:19+00:00",
+        "summary": "Selbst Häuser im Wert von Milliarden Dollar werden noch immer überflutet, und hier ist der Grund, warum sich die Standards im Immobiliensektor ändern müssen. Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkRoMDVubkJHZF9wQ0ZOSGVHdGxtSjZTQURNRkRfRFMzRUxZSmlZLVBaN1BFQXJBWVVlNmdPejdNUU1zQmFMeVM4S1VVSmZyWkdvX1pUS3FnZUhyQlE2WnNLaVRPeVdyNWNLcE1keFNzMzlnalY1TGZOci1qQWJ4bW5zWGh6MEZDc2gtVGVDYXE1S1JTTTREdU1FOHVfLUVxRmc?oc=5",
         "tags": [
-          "Nachhaltigkeit"
+          "Vietnam.vn"
+        ]
+      },
+      {
+        "title": "EGMR sperrt Anwältin wegen ungeprüfter KI-Zitate - Legal Tribune Online",
+        "source": "Legal Tribune Online",
+        "publishedAt": "2026-11-23T17:55:27+00:00",
+        "summary": "EGMR sperrt Anwältin wegen ungeprüfter KI-Zitate Legal Tribune Online",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM19HMG8wanlDQ01JMHFTNFp2OXFUYTBEeWVGS2VGVXVCSFAzbWFOOENBU0xPUm1RMS1vUm1XYkJ3Q2IyVy1LMm5VTkFqM1IxLWJMXzY5UnZGUE1oamNobmx3M0ZLb2czbDdiNmI3cE8xd2o5S2ZsdEE3MjZSOGxlTEs1WVRiQ2I3SWFhOWpzLTJVNGNkQ0ZJMjlRMA?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -418,13 +427,35 @@
         ]
       },
       {
-        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
-        "source": "Wirtschaftszeit",
-        "publishedAt": "2026-11-20T09:53:00+00:00",
-        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
+        "title": "Energieeffizienz öffentlicher Gebäude: KI trifft Komfort - a3BAU",
+        "source": "a3BAU",
+        "publishedAt": "2026-11-19T10:56:26+00:00",
+        "summary": "Energieeffizienz öffentlicher Gebäude: KI trifft Komfort a3BAU",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Qd2pRWjZEWW50WGpqR2doWWh0bnRjeXlyR3J0Y0VLdENjYU1JNUduUWtUUlpKYkJoY3NZYlY4VFIxcEtmOWlvekREYlBfN0JnamlPZWNfX3VzLUtRRmxfS1p0S2ZZbGxiNUZSTkg3c3lQcE41VjFicW5xYmxmb3M?oc=5",
         "tags": [
-          "Wirtschaftszeit"
+          "KI"
+        ]
+      },
+      {
+        "title": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-11-18T13:24:00+00:00",
+        "summary": "Cybersecurity, Maschinenverordnung 2027 und Retrofit, Borries Markier-Systeme GmbH, Story PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlR6N251cE0wZkFucjc5YkgzbmpDSzRhcWhmM3VoOVRkTUlTUDMydHBGLXc5UVY1RjR3M1Zmdmx0TGZKSkp0SFRsZWs2MjV5X2ttbzZCQ3RQU0JVdFFRa2doc3otcklGM1Uyel9UbXJobmVyWGhSZVlBdUEyZHNKZkJDM1VEMWY3VDJUcHJxckVsNkxFcU9oa3MySkp1Mk91NWhwWUtReVlTMXlSdTktTzlXb0sxNUkzNHRXRk13bmU0TzR0bl9IazJTUXVhR1J5T3c?oc=5",
+        "tags": [
+          "Retrofit",
+          "Cybersecurity",
+          "KI"
+        ]
+      },
+      {
+        "title": "qapture startet KI-Agent qentin für Gebäude - Trending Topics",
+        "source": "Trending Topics",
+        "publishedAt": "2026-11-13T09:11:39+00:00",
+        "summary": "qapture startet KI-Agent qentin für Gebäude Trending Topics",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCTmZKSkdaV2VwU3RVaWxfVEZYSHpjSkhNMWtOTlhmZzhDMkZuUXR1Z1FCcWh1eEVPQVdvNjFkbjZJWUt3Q1htbl90d1pLTmpPTGdWc09tSDNJZ2lTZl82cHVjc2ttWEd4ZmxUMGxuTTRiNXd2TG9hZw?oc=5",
+        "tags": [
+          "KI"
         ]
       },
       {
@@ -438,64 +469,33 @@
         ]
       },
       {
-        "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
-        "source": "Nau",
-        "publishedAt": "2026-10-13T07:00:00+00:00",
-        "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
+        "title": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? - ADAC",
+        "source": "ADAC",
+        "publishedAt": "2026-11-12T08:00:00+00:00",
+        "summary": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? ADAC",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEQ3WC1YbGV3ZTVteDZsVHYzSWk4Mi0wWmlydzF4WHNsU215X2VqRFhITE1DWTJpbTFjU0pOVVNUOE9XQWl3dEg0RHhUdEp3NEttX2Jsc0RleS1zQ2ZjSGpyY1I5TnBMbW1PLVJDODJhZlM1YzlDU2Rsa05iM2wyaGFBNlpxZDJScnFacno4QUZKckQ5RmRGaDFSRE1UVEh6VHNCMEV2ZWxXR09UcmJ1cEJNZHdBNE0?oc=5",
         "tags": [
-          "Nau"
+          "ADAC"
         ]
       },
       {
-        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
-        "source": "Produktion Online",
-        "publishedAt": "2026-10-07T07:00:00+00:00",
-        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München Produktion Online",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
+        "title": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus - NIEDERLAUSITZ aktuell",
+        "source": "NIEDERLAUSITZ aktuell",
+        "publishedAt": "2026-11-12T08:00:00+00:00",
+        "summary": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus NIEDERLAUSITZ aktuell",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHU2cDRBMzFRR25WM1dlWHdtSzBmeFJQTVBFLVFlbjM3TmNPNFRpQTNzbTZfYVAzMERCZzgxM2pNX2p3OUhKeTBaNm1WMU1ia2h4elhmV0paUVY4Rm5nZmhGTnlEcGNQTHNwY1RDRmRRQ3ZZc1AtUWZlcjI2SE04dGx5Y3haNWxUNkQ4VWRwTDlkR0ZEeHBlcnpFNDRwU04zS3l4V0NyX0IwRDRPQjBCaGFKWlhldGEtYXQ1RVUyODBVZDVmbTBVVVJPNVZYUmJzTDlVemhoeWRWcW1JSk8tOFJBbjFvYWhsRUhv?oc=5",
         "tags": [
-          "Retrofit",
-          "AI"
+          "KI"
         ]
       },
       {
-        "title": "Werkzeugmaschinen-Retrofit für höhere Fräsleistung - produktion.de",
-        "source": "produktion.de",
-        "publishedAt": "2026-10-06T07:00:00+00:00",
-        "summary": "Werkzeugmaschinen-Retrofit für höhere Fräsleistung produktion.de",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVN1alRxeFZYUllqdEIzRlc2Z3BDcmRJOVhMOWJJblM1UkEzZDZnUkIyZXRLM0JNWkh5UVRHSEYzNGFGNG5Bd0NtOVhHZUhnRzQyb3BGVVQ5eEwtek03QzNNaUczOHowWU9pRlFYUWF4T0pQbGVwd0xsZE9fRmtUUDhYTnJLN2M0MmFTdTkyeFpnOVFuRWE4Z2VELW9oZzFOYkhyTQ?oc=5",
+        "title": "Wohnungsbrand in Schwabing: Eine Person schwer verletzt, Gebäude evakuiert - BSAktuell",
+        "source": "BSAktuell",
+        "publishedAt": "2026-11-08T08:00:00+00:00",
+        "summary": "Wohnungsbrand in Schwabing: Eine Person schwer verletzt, Gebäude evakuiert BSAktuell",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWhWdHdOQXpON2FTTkhpd1JSLUt0dWF2OERqSmZjalI0NXNZTEZmNzR1cVd0UHZhaENTc19LNmFuQXJIVVZ3aHh0R1JqQ01kaTZXR05DeEs4V01NRW5CSUxMT1ZKcW1JZERMNTRVcmpDTWlnR1ptcmVjVzMyU3VEd3hJYnZlZ01MMG5CUVE3SW40ZXNocFpLUzNXUTlROU9yYWs4M3hRdGd2aVEzaXZ3c1hyNTIxNVlqcXA0cXhkNXA?oc=5",
         "tags": [
-          "Retrofit"
-        ]
-      },
-      {
-        "title": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen - Schwäbische Post",
-        "source": "Schwäbische Post",
-        "publishedAt": "2026-09-30T07:00:00+00:00",
-        "summary": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen Schwäbische Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
-        "tags": [
-          "Schwäbische Post"
-        ]
-      },
-      {
-        "title": "Top 15 Unternehmen im globalen Markt für intelligente Gebäudeautomationstechnologien - Spherical Insights",
-        "source": "Spherical Insights",
-        "publishedAt": "2026-09-28T10:59:55+00:00",
-        "summary": "Top 15 Unternehmen im globalen Markt für intelligente Gebäudeautomationstechnologien Spherical Insights",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZUFlY0MyYmVJSVUtS2ZkeER2QzI3cFBrNG9pNEswdmRpbjNkYkpYekRfXzFEclYxbXNidGJQUGlBcVB2V296a2hibDJUSzFITmpOSTVraVIxdy1nTjEwMGdTQ21HczY2cDh3SzBqcEJZUEJOTUd3MmwzVXVpWk80YjROaGRxNlVqWlR3cHk5M21vUVRBa19ObzlMWDBDMjl4V1I0M2ZWR2xUWEV6MEJUcVRXTjk3b2htR240VkVjeExWV2tPVjZvdHBZWkxVcXZ5Y3Nxc2NTMHZiMTNpTVpqblpKcw?oc=5",
-        "tags": [
-          "Gebäudeautomation"
-        ]
-      },
-      {
-        "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
-        "source": "Cornelius Ober GmbH",
-        "publishedAt": "2026-09-28T07:00:00+00:00",
-        "summary": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick Cornelius Ober GmbH",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
-        "tags": [
-          "Gebäudeautomation"
+          "BSAktuell"
         ]
       }
     ]
