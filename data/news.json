@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:26:40.717272+00:00",
+  "generatedAt": "2026-11-24T01:06:49.994672+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
@@ -45,17 +45,6 @@
         ]
       },
       {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
-        "tags": [
-          "Bosch",
-          "Brandschutz"
-        ]
-      },
-      {
         "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
         "source": "Augsburger Allgemeine",
         "publishedAt": "2026-08-17T07:00:00+00:00",
@@ -73,6 +62,16 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Neue IoT-Brandmelder präsentiert - buildingtimes.at",
+        "source": "buildingtimes.at",
+        "publishedAt": "2026-07-02T07:00:00+00:00",
+        "summary": "Neue IoT-Brandmelder präsentiert buildingtimes.at",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
+        "tags": [
+          "buildingtimes.at"
         ]
       },
       {
@@ -117,17 +116,59 @@
         ]
       },
       {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
+        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-04-14T07:00:00+00:00",
+        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
         "tags": [
-          "Neue Zürcher Zeitung"
+          "Bosch"
         ]
       }
     ],
     "pfs": [
+      {
+        "title": "Bosch Smart Home: Update 10.37 bringt neue Funktionen, Fehlerbehebungen und kündigt Support-Ende an - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-11-23T21:30:25+00:00",
+        "summary": "Bosch Smart Home: Update 10.37 bringt neue Funktionen, Fehlerbehebungen und kündigt Support-Ende an Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSDhOY3VUNHNGTmplVy11dk5iNEtSSVR6OFRvOUoxa0xjN2x0MUlSa2x5ckhxNFUtREFOZnR4YnpGVEdwb2ktNHZLQjh1dnlMRVZmRS1fNGJDRTlBV0NIQjgyWUdYSmgyWGNmWHZxbjFaVVkycm9RZndDS2w3OTVJMXdibktHYWk2VVE3NGRjWTRuUDJicHdaWFlqTWluT0xWdG11TlR1b05VX2lwbWdDUlU5ME10aFFoRmg1am13eE9TUUFWdW1v?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Bosch Smart Home Update 10.37 | Controller lässt sich jetzt per Taste aktualisieren - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-11-23T19:10:16+00:00",
+        "summary": "Bosch Smart Home Update 10.37 | Controller lässt sich jetzt per Taste aktualisieren SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EZGd1ZzNiQXZjQW9VaGNSZHVsbXZDREZYYUFOenE0eWpiMnRQVmpNQjQ5WElfekI3eDFCWU93VkNubmp3NFgwbHBRNW5ldzJ3NUR3ai11Q0lHVWl2WjU5V21YUUhiZzJEZkk4bDNiMVl5UQ?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Black Friday 2026: Smart-Home-Deals mit Hue, Echo & Co. - HouseControllers",
+        "source": "HouseControllers",
+        "publishedAt": "2026-11-23T18:29:02+00:00",
+        "summary": "Black Friday 2026: Smart-Home-Deals mit Hue, Echo & Co. HouseControllers",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMzZwT2J3TEdlanpSQ0VrT3dtaFczTEJmTVFLQXdEbmpaZHZoVDFsWjRlVUl6SEo2RWFHdUtlWk9CdUdZZU03SlpHUHlEU1o0MUJObzdJRzZKcW91SG03M0RBWjlZckU2QzhxYjFxZw?oc=5",
+        "tags": [
+          "HouseControllers"
+        ]
+      },
+      {
+        "title": "Richtig smarte WLAN-Steckdose - unser Testsieger ist endlich günstiger - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-11-23T15:45:54+00:00",
+        "summary": "Richtig smarte WLAN-Steckdose - unser Testsieger ist endlich günstiger Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1phUzFjWXgyZUVWR1AxcW5ZeVBxakRkUW9DS3c0ODlnbm5kM1Q5cHhyNV95WnpTbTJSOWRsbFhWSl91UjFmOGJWUlRtQzNnNDlmSVBQaHFsbnJYRGpVWGhNVVFHRXMxdF9JcXlQUFZzeFoxOXpHQjJ5UENzS3NtRm9hcldXbThWTUxJRE5TUXJERUlQeUVXWE5xd2NkMmRMVWJ6ZTA0dzhGaTZK?oc=5",
+        "tags": [
+          "Netzwelt"
+        ]
+      },
       {
         "title": "X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation - n-tv.de",
         "source": "n-tv.de",
@@ -136,6 +177,16 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONy1EdXNZVi01ZlNOaGtrT1B3cFQ0Y0VFbWljZy1kSWdFSzc1dVJ0ZFhCNDBrMjVqYVZkV0VlYWFMRDFiUjVfdVRiR2ExbGtGa0JKVkdVWURhalRDWFBWM2JvUTk1eWQzSHdvbF9IY1BZci1lV2Rnbmo5eUV0SDYxc3dMMGZ6VTVqTVpvWmYwaHpFMHYtd1hTLTM1SExNUERYYnc?oc=5",
         "tags": [
           "X-Sense"
+        ]
+      },
+      {
+        "title": "Meross: Matter Smart Hub Pro (MSH450P) und Thermo-Hygrometer MS120H jetzt verfügbar - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-11-23T10:00:05+00:00",
+        "summary": "Meross: Matter Smart Hub Pro (MSH450P) und Thermo-Hygrometer MS120H jetzt verfügbar Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFk2czdyaHA3ZTJmYW1iUm5HUEZuR29EMDFrbXBOLVZBZFNjZFhMeHkxcnl6cEJrT1F0YS1ZR2NKMmdSQ1JEOFc4bzY3Rm9ocHBvWnJBX29NMm40OVJWOVRURmxrX2gtRjJ6OThpMUhmeWl2dWM5aG1LUXFpYTlWZHplTlRWR29hT2JnbW5JT0FRRmtCNFRVN0IzQ3JORTFfYXVoaGVWNXZFUmZGNEhLQg?oc=5",
+        "tags": [
+          "Caschys Blog"
         ]
       },
       {
@@ -181,74 +232,25 @@
         ]
       },
       {
-        "title": "Immich: Version 3.4.2 behebt Fehler in Web-Oberfläche und Server - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-11-19T13:00:20+00:00",
-        "summary": "Immich: Version 3.4.2 behebt Fehler in Web-Oberfläche und Server Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmx3N3duZTlVbDdldUR2UVMwaC1PUnRlb3A3MThVWWZxLTVRckpfa0dvdVVidDJ0bkJTZDdEUGJnQURmazNkU09HcFQwVjhjOEVqLS1meUlMMTNiM2tfdDJtRTU0ODRlaWFzYWJLVXlWNWJMdXBfY3dKNU1HQzNzUm82LUNIWVdjR2E5NzVyZmNhdU9UYVBHYllB?oc=5",
+        "title": "Bosch Smart Camera App 2.14.1 | Update mit neuer Firmware für Eyes-Kameras - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-11-20T12:07:42+00:00",
+        "summary": "Bosch Smart Camera App 2.14.1 | Update mit neuer Firmware für Eyes-Kameras SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBveXRXQ2VkenNZNjJDVzMzeXpnOUhVRFNndmZWN042ZUtOODljUDYxS0hpM1RpYWpmSWE1UGhOLUY4ODhaNWQ4Sno2YWdqakIyOTU0UmxXbFd5MWJyS3BjRXIyS2o3V3NTSGFvOXFJLVZIUQ?oc=5",
         "tags": [
-          "Caschys Blog"
+          "Bosch"
         ]
       },
       {
-        "title": "X-Sense: Firmware 1.8.7 für SBS50 erweitert Home-Assistant-Integration - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-11-17T11:30:02+00:00",
-        "summary": "X-Sense: Firmware 1.8.7 für SBS50 erweitert Home-Assistant-Integration Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelc0RDgtSkh3bnNWQjJhM0x4enZCMEZJR0QzbGxjLXdCbUhlS0NFeE5RTG9yT1FlNWluQUk4RU9oZk1rNEFNaEdVc1dWb21RWWY5d0FQUmh6X2UtaF9OYldsSDVKQjZjQ0tXbTZseHpiR211OU9qZWJXci1OTXZybEhWelNKcmRsbm80Ykp3TXJRdnZUT04yX1NjS3gzU09vLVE?oc=5",
+        "title": "Bosch Smart Home erster Hersteller mit Platin-Auszeichnung „10 Jahre zertifizierte IoT-Sicherheit“ - PresseBox",
+        "source": "PresseBox",
+        "publishedAt": "2026-11-19T08:59:07+00:00",
+        "summary": "Bosch Smart Home erster Hersteller mit Platin-Auszeichnung „10 Jahre zertifizierte IoT-Sicherheit“ PresseBox",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZ2RzZU93aTFfX2NXSkVMVjlPRkNlWUg3RG4wSk9xWjVsM0lfeTRTck03NE5raUUxamlwMmh2X3ZZY0k4bk9aUEt0Vkc4R2E1SUttQVVYSTEtbFRMWmxyQVpaZ3NKak43a3JxeHVGMEdOZXdxdlUwVV9PRVZXT1R1dWVjdE9LUzh3Sk9mbmxPWE5JcmpnSXA0ZkZJTU9maE9uWVVlRW1xcTNqSHhLRDdiT2h6M2FPZU1UX1VWLVlqSWFLcmdkaEtZdktMbURacllMN25xeGV2cXJoSkNKMDhWWERZVkhWMVNiaTI4bndYaFJ3X3J5RUxwRWtmVVFoeFFOamdpUmpUQnh0b2FwVzZn?oc=5",
         "tags": [
           "Ei",
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Der beste Rauchmelder: Pyrexx schlägt besonders schnell Alarm - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-11-04T08:00:00+00:00",
-        "summary": "Der beste Rauchmelder: Pyrexx schlägt besonders schnell Alarm CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOXVNMmkxbDgzUVZIbjhEU2lvb2xONHpQLTVCbEg3N2Q2MHhEVzZQMW1meHFzT0RNT2hCMEs2VVNDTVdkZkVmRjZSVDk5Nk83OEVKeUEtVG8zLVZidjU1bS1qanVmLVZhdUJMZkFLTXBhbkY3UDhsbU1rVmh0NEVkVjQtUFRuV1BGdWdLQWpERWZXc1RlVVZCNzN2UW1WV1NyWm5OOHVnVHVLV2kwa2JyZ0hLNkt1UFhiRl9EQkpvZXBPUU9TUmNGNVYxMEc5VG5XdEpBc1V1ZkJJTldx?oc=5",
-        "tags": [
-          "Pyrexx"
-        ]
-      },
-      {
-        "title": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q - Netz Trends",
-        "source": "Netz Trends",
-        "publishedAt": "2026-10-24T07:00:00+00:00",
-        "summary": "Rauchmeldertest: ADAC beanstandet Pyrexx XSD100 V3-Q Netz Trends",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1pDVkZmWFBObG8ybndRUW8xNDV2OUlpMVFRcWk0YVZMYUxDR1VMd05yb3VscW1fa3I4VWdIdjVCcnM4cFNGLWFZdXI3MDI4dFhROF9rb0lPQUdCOE5mejVNSVNFSFpveUNEclpzZ0lIczhtbW5vRTFzZ3RndXBIdEFWSHZqbjFNZEZGcmU2am5ra2ZYeTU5eUJBY1UtQWZzLUpyMlFET21SVXZK?oc=5",
-        "tags": [
-          "Pyrexx"
-        ]
-      },
-      {
-        "title": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab - CHIP",
-        "source": "CHIP",
-        "publishedAt": "2026-10-23T07:00:00+00:00",
-        "summary": "Rauchmelder 2026 austauschen: Für diese Geräte läuft die Zehn-Jahres-Frist ab CHIP",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV2IxT3F6Vml6ZlNoNHRPVmFSYUlacktDV19yaUNhZHpFX1Q2N1lZb050YS1hamZEMlBXMnp4TlZzQm8wRUZEbHlycVU4T0NvVXVrR1VPS0t4eHlKdzh0TS13aVFCa1ZKdjdpSnhnbU9MN1MtRk5JaUxWNkpacmZfcFJScV9KMGVKSGFtaWtmdFdqRjdTMzYzUVhwYWNVWEpiLU9HZXh5ZnNiVV9EbFhhbGpXdFl1b29JSTNMdVZyTVY3N1FUUE5QbE10bFEwQjVtSjk2UEJnOC1VcmRBQmNtVllNWjFPbUQtRXRpS0s2N2FpVUlk?oc=5",
-        "tags": [
-          "CHIP"
-        ]
-      },
-      {
-        "title": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! - ADAC",
-        "source": "ADAC",
-        "publishedAt": "2026-10-22T07:00:00+00:00",
-        "summary": "12 Rauchmelder im ADAC Test 2026: Ein Modell warnt nicht zuverlässig! ADAC",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxSjR0TVpUU0NCeGJFMzNPMFhlbkFBQ1BrSnlMa1JuX05TcnJIbzdfeVc1ZF9OczBOaUZUTVBFRGxPNGVYR29yMzAtbWVzTzczbFRpU1h1OUtQRlliNTYwcllxR0hKdDFIbUNvdkU1Yw?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter - PCGH",
-        "source": "PCGH",
-        "publishedAt": "2026-09-18T07:00:00+00:00",
-        "summary": "Rauchmelder mit App, Sprachalarm und Funkvernetzung: So macht X-Sense den Brandschutz smarter PCGH",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXZOa0x1blVEbkZSNHk4QjNZRWtkLTBpblJWSlFkZXZ3QXRiTm5BY2h2MDU5WDdzbkk5XzdMa1B6bmlrdjR3U1lKYk55MGtyRUltX1VfUWE4czlFQWFDWmFtODZ3Y1Q4UnZ5bkphdC1QVTQyanNRRk45MktubTVBRlNtTXd5UU1qMXR5VmlxXy1BWmVNSk9LSm5Oc3liU0VhTkxZNTJB?oc=5",
-        "tags": [
-          "X-Sense"
+          "Bosch",
+          "Smart Home"
         ]
       }
     ],
@@ -261,16 +263,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW1CMWVYN3RIQ1AwdnhUbDFTaExoR00yUmhjeFBtUWFMSmFlYXp4Qm1JYVpqOF91cXFOeElQOERkcU5XQU05SkNJeEc4Umh0TU5MYmtLU21YSHUwYUdSaVVGckktMnpnenFwU0xHcHFnRHh4SmprR3ZBU0xfVy02MXY5TjV0dmhMWjktSnpmcGQ?oc=5",
         "tags": [
           "NeoTeo"
-        ]
-      },
-      {
-        "title": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen - BornCity",
-        "source": "BornCity",
-        "publishedAt": "2026-11-18T15:44:04+00:00",
-        "summary": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen BornCity",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajM0aE5uVHRFLUVFRExaOGs2amlUNWtNbjNwUTdEWmZheGxRZGZlN2dKajJGTksxaHNwRmRndVhTaTlwdDlKcUlMWjkxZ2tXTWw0VENNaG0tMVZIdFVvam40cl9sTU9CZkF4NXA5Q252SkxXYXpZb192QnJaVjlaUUFidXdHQjZjejJYLWNYM1VnMWdhZTlfQS02WHExeFVoYXF5ZWZOOA?oc=5",
-        "tags": [
-          "BornCity"
         ]
       },
       {
@@ -294,16 +286,6 @@
         ]
       },
       {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
-        "source": "Manager Magazin",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
         "title": "Berliner Volksbad erlaubt Zugang nur für Schwarze - Apollo News",
         "source": "Apollo News",
         "publishedAt": "2026-08-13T07:00:00+00:00",
@@ -321,6 +303,16 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
           "tippinpoint.ch"
+        ]
+      },
+      {
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-10T07:00:00+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
+        "tags": [
+          "Apollo"
         ]
       },
       {
@@ -372,23 +364,23 @@
         "tags": [
           "GEZE"
         ]
+      },
+      {
+        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
+        "source": "handwerk.com",
+        "publishedAt": "2026-02-27T08:00:00+00:00",
+        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
       }
     ],
     "trends": [
       {
-        "title": "Neue Gebäudeautomation - buildingtimes.at",
-        "source": "buildingtimes.at",
-        "publishedAt": "2026-11-23T09:39:09+00:00",
-        "summary": "Neue Gebäudeautomation buildingtimes.at",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IVlFCakVsYUNleS0xY2dHQm1OSjVLM3A4U1hndHUxT1pXUUJQeTdKY1ZHR29aSFlrRFp0Ul9TWFZyOGVoNHFubG1uYmxDdnp4MWhtQ0FCd0dweTNxcE1hRXRYajFqUFJ4TXIyZFJUODM?oc=5",
-        "tags": [
-          "Gebäudeautomation"
-        ]
-      },
-      {
         "title": "Neuer Gebäudetechnik-Showroom - buildingtimes.at",
         "source": "buildingtimes.at",
-        "publishedAt": "2026-11-23T09:14:07+00:00",
+        "publishedAt": "2026-11-23T09:13:40+00:00",
         "summary": "Neuer Gebäudetechnik-Showroom buildingtimes.at",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByUXdBQUZwdjVnXzc5WGZPcS1vR3AycGgtSWd4UXhvTVhMeUhuT2RjRnA4TzBaNGc5d1RubWNvNTQyS0paNHN1VDg3RUQ3U1dQUGFhcGtCMHEtSFNmcHZ4dWVLUEhjX3ZpUm1BRVRVak9RdmFoT2p3RXR3?oc=5",
         "tags": [
@@ -446,54 +438,64 @@
         ]
       },
       {
-        "title": "Endspurt für Planegger Marktgarage - Merkur",
-        "source": "Merkur",
-        "publishedAt": "2026-11-12T08:00:00+00:00",
-        "summary": "Endspurt für Planegger Marktgarage Merkur",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTJuUnVNYTVZQy1MbnRxZWpJeEZ6S084dkFDc0h3a2JLeHU0VFM0bzN2UERRYldmdFk5VU9raHpYZmxJeE03bWJOU09XbGNrbG5iZWJZMk9GRzV5YXhWdVBjRjROSVFoUTc5dnpGeFc1TDQ0WWJkX0tldUNjdW53SzRJSm5WY1RpRmtHSXUyR2poWlR3ZjZDV0JUNU5lVzlUcmJleWQ0TWxNelVlS1dSdjltcGk5MzJNdUpLblNZSF9QdnlRYkppR3hPZzJlWXhkUjhpaEdn?oc=5",
+        "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-10-13T07:00:00+00:00",
+        "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
         "tags": [
-          "Merkur"
+          "Nau"
         ]
       },
       {
-        "title": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? - ADAC",
-        "source": "ADAC",
-        "publishedAt": "2026-11-12T08:00:00+00:00",
-        "summary": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? ADAC",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEQ3WC1YbGV3ZTVteDZsVHYzSWk4Mi0wWmlydzF4WHNsU215X2VqRFhITE1DWTJpbTFjU0pOVVNUOE9XQWl3dEg0RHhUdEp3NEttX2Jsc0RleS1zQ2ZjSGpyY1I5TnBMbW1PLVJDODJhZlM1YzlDU2Rsa05iM2wyaGFBNlpxZDJScnFacno4QUZKckQ5RmRGaDFSRE1UVEh6VHNCMEV2ZWxXR09UcmJ1cEJNZHdBNE0?oc=5",
+        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
+        "source": "Produktion Online",
+        "publishedAt": "2026-10-07T07:00:00+00:00",
+        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München Produktion Online",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
         "tags": [
-          "ADAC"
+          "Retrofit",
+          "AI"
         ]
       },
       {
-        "title": "Das Gebäude besticht durch reduzierte, moderne Architektur und Nachhaltigkeit. Seine Geometrie und die Holzfassade lassen es mit der Landschaft verschmelzen. - DETAIL",
-        "source": "DETAIL",
-        "publishedAt": "2026-09-22T09:28:59+00:00",
-        "summary": "Das Gebäude besticht durch reduzierte, moderne Architektur und Nachhaltigkeit. Seine Geometrie und die Holzfassade lassen es mit der Landschaft verschmelzen. DETAIL",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iSWlzUlVPSU8tUUFqanpIUjRJRXdyeV9GNnZMeGRRcGFHbHBlQV95MENORVA2d3RRcjZwZ2czMzVlVVlnS3Rkc2FyaHJ5NTF6cnpCTXNsXzZEM1Mwd1M5NlNn?oc=5",
+        "title": "Werkzeugmaschinen-Retrofit für höhere Fräsleistung - produktion.de",
+        "source": "produktion.de",
+        "publishedAt": "2026-10-06T07:00:00+00:00",
+        "summary": "Werkzeugmaschinen-Retrofit für höhere Fräsleistung produktion.de",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVN1alRxeFZYUllqdEIzRlc2Z3BDcmRJOVhMOWJJblM1UkEzZDZnUkIyZXRLM0JNWkh5UVRHSEYzNGFGNG5Bd0NtOVhHZUhnRzQyb3BGVVQ5eEwtek03QzNNaUczOHowWU9pRlFYUWF4T0pQbGVwd0xsZE9fRmtUUDhYTnJLN2M0MmFTdTkyeFpnOVFuRWE4Z2VELW9oZzFOYkhyTQ?oc=5",
         "tags": [
-          "AI",
-          "Nachhaltigkeit"
+          "Retrofit"
         ]
       },
       {
-        "title": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! - ADAC",
-        "source": "ADAC",
-        "publishedAt": "2026-09-15T07:00:00+00:00",
-        "summary": "Smarte Türschlösser: Diese Risiken kennt kaum jemand! ADAC",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sU0wycEJuSzU0bnJOdmZuaDhheXdLS2dpY0ZsODVMdUhjdWhIZjc1R21GUUVleFNqU1FpaDdMa2wtTC1POFZvUGxHb2lncTNDS053ajhwLTFzSTQtNkdESzNCZGdqX2RDQlZ6RFJPTDdHM09uVHc?oc=5",
+        "title": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen - Schwäbische Post",
+        "source": "Schwäbische Post",
+        "publishedAt": "2026-09-30T07:00:00+00:00",
+        "summary": "Aalener Theodor-Heuss-Gymnasium bekommt eine gründliche Kur für Millionen Schwäbische Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEU5UXBsZW96MVZLa0NLd1Z5empzVzZuU2hFWlBsU0FhUVdSM1hsYTVHRW9SSzJBdmpGU2JNeFA0THZ3VmNwaDBTaEk5eDN2WkJfODBNU2g0WFdhaDRHSEM1SXIzZFJCaU1QOGZHenZGRWZHQzRWNEVpdkM5MEZyVEZrX3FhOWVFUGNsemh6WjdVRUd5RWtUeXY0bWJsTUNBaGJaTDlPd0NHSmdyMWJaLWQ3M1Qya09KSGNoMnZJOUpxRlVN?oc=5",
         "tags": [
-          "ADAC"
+          "Schwäbische Post"
         ]
       },
       {
-        "title": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus - Gießener Allgemeine",
-        "source": "Gießener Allgemeine",
-        "publishedAt": "2026-09-13T07:00:00+00:00",
-        "summary": "718.000 Euro vom Land: Orte im Kreis Gießen rüsten Gebäude mit KI aus Gießener Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSlhaMnVnTU1YQjU0cUFLM2JnN21rMk1RLUVPQkhvQm02Mmd3akhockc0UDh1VHZoTTdEbVI3WTBiVFpNV3RYbFF3Z0tjRUNLVXRpYU9aR2dVNV9FeWVIUlhGd053MFNET1lqUVJSN0NDdVRjZ0huUG1HRV9zWEpLQVdxU2pvUXRzTDdrOW1uVkNsRTdsa0xrWFc0b1VYOWZSc01Kb2ViQkdqRlNEZG5oZU95UVVEelN2NVZ3ZVhRNmhNenVBNmFPRjd6VUU4Yzl2NGlhVE5kbkNaNHI2Zll0MXFxVTEtakNyVU5NN29LS3l0Zw?oc=5",
+        "title": "Top 15 Unternehmen im globalen Markt für intelligente Gebäudeautomationstechnologien - Spherical Insights",
+        "source": "Spherical Insights",
+        "publishedAt": "2026-09-28T10:59:55+00:00",
+        "summary": "Top 15 Unternehmen im globalen Markt für intelligente Gebäudeautomationstechnologien Spherical Insights",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZUFlY0MyYmVJSVUtS2ZkeER2QzI3cFBrNG9pNEswdmRpbjNkYkpYekRfXzFEclYxbXNidGJQUGlBcVB2V296a2hibDJUSzFITmpOSTVraVIxdy1nTjEwMGdTQ21HczY2cDh3SzBqcEJZUEJOTUd3MmwzVXVpWk80YjROaGRxNlVqWlR3cHk5M21vUVRBa19ObzlMWDBDMjl4V1I0M2ZWR2xUWEV6MEJUcVRXTjk3b2htR240VkVjeExWV2tPVjZvdHBZWkxVcXZ5Y3Nxc2NTMHZiMTNpTVpqblpKcw?oc=5",
         "tags": [
-          "KI"
+          "Gebäudeautomation"
+        ]
+      },
+      {
+        "title": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick - Cornelius Ober GmbH",
+        "source": "Cornelius Ober GmbH",
+        "publishedAt": "2026-09-28T07:00:00+00:00",
+        "summary": "Cybersicherheit in der Gebäudeautomation: Der neue Leitfaden im Überblick Cornelius Ober GmbH",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlljb2k2RS0tN29rNFg4QlA2T3VCSjBBOFVrWmpXdHlsZjdycFA4WjBSb3kwbkJhQ21VSjlqNVhOM2VUeG9weDY1VGl1YVZhWldnQlRZY1BKSUl5Zm9wYTJXX2FqZ3BGRThDVE5RaS1yTkNqbUJQekNKZkRLaDZJbEYyUzZFMU1DRjBucQ?oc=5",
+        "tags": [
+          "Gebäudeautomation"
         ]
       }
     ]
