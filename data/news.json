@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-11-24T21:25:43.922119+00:00",
+  "generatedAt": "2026-11-25T04:25:50.429211+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
+        "source": "Wirtschaftszeit",
+        "publishedAt": "2026-11-20T09:53:00+00:00",
+        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Deutsche Aircraft setzt auf Lösung von Bosch Building Technologies - protector.de",
         "source": "protector.de",
@@ -35,14 +45,23 @@
         ]
       },
       {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-08-17T07:00:00+00:00",
+        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
         "tags": [
-          "Bosch",
-          "Brandschutz"
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
+        "title": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa - Simply Wall St",
+        "source": "Simply Wall St",
+        "publishedAt": "2026-08-01T07:00:00+00:00",
+        "summary": "Honeywell Aktie Und 2 Aktien Für Waldbrand Prävention In Europa Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTUJ3TkZ6YldPTTc2c0w0NWZXN1R1akZwOVlqaHhPcEQzdnVzcTFTaXFfM3o0T3JQUl9lMlQya2RkXzdDT3YzdndYN1htNGlwcjNpSTN3amNLMEVRQmQ4VmZXSVJkQlA5d2R5UWh1ZHBXdEswYVNVeHBpaXdWZk5LS0t3SFVpcHJwTHpMTkl6VlVaQUpORUo5VlFUbHdzaFUxeTBZLUlsb0dMM2lfaEo3VkJiNEVHVHprcFpZaEktcEkycHlON3VwaWphYW5ZNFV5VHNQZlNmN3NrY2J2ejVQcHY4MNIB6AFBVV95cUxNWi1UX2hZMXpDQXNsaldrUVlfMzAzQkZ4SWlUS2hSNGZpSzZWVnZRZ2ZTZXRUV0JhM1g0MUpBc21DR1ZrRzJxelJyWEsyTm9tZktUU3NxNEttUDFxVHhBZUkyWDJhbEtpWmJraDJjZWE0SllBT1pOZ3EyXzFfaVBxSzJCQ3FjR1RwdkFvMDltd0lScGtvZUxjMy1SaVNhSWprbU5PNTR6ODBfYTVhQURfa3RFYXZTS3BYNEdnTE5QemZpMnFyQldsSFFicHN1Y2tFNDRSLU1jalJjUlpWQmg1bndxNjg3SWdz?oc=5",
+        "tags": [
+          "Honeywell"
         ]
       },
       {
@@ -53,6 +72,26 @@
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rcFFvekhHZkE3ajViNU8xb1V1ZS1rNXVZbnBUVmNOSlRLLWJtZ0VaZEdfM0Z3dmp4S0JjUzNVeElQMUlsRzJMdExXb1V3bkRVUzZRS2F1ei1ZdzhE?oc=5",
         "tags": [
           "Siemens"
+        ]
+      },
+      {
+        "title": "Neue IoT-Brandmelder präsentiert - buildingtimes.at",
+        "source": "buildingtimes.at",
+        "publishedAt": "2026-07-02T07:00:00+00:00",
+        "summary": "Neue IoT-Brandmelder präsentiert buildingtimes.at",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rRmhpVUJOYkwtZkNHQXlobHFrTVo0QlMzNG1VOURhTU5FekxmV21JaU5ieVNpVkM5a2s0eG5nZDhDRzZRRUJyQ3I4R3BiSFlmdGY1UGNBNTNOaEw4SThXZXEwQXlKX2w5QXJyVjFmckdqMEZQRTdGdzRILXlwQQ?oc=5",
+        "tags": [
+          "buildingtimes.at"
+        ]
+      },
+      {
+        "title": "Diese Rauchmelder machen das Zuhause selbstständig sicher - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-06-04T07:00:00+00:00",
+        "summary": "Diese Rauchmelder machen das Zuhause selbstständig sicher Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWpyVS1SSHZkZFJzWlVJNTVJd3IzbEd2T1o1WWQwU3N2anhGdlRvV2V0VnhiOWpPZUJqelRiTGhvTDVlR2d4QWtJdVVzVDhsTWpNRVpHV2RyOHFWYi1fdFlDZW1BQWlTUmdZQzQ3MmRVY3pBeUYwSHFOUFgxdjdKcFV6U1VVZw?oc=5",
+        "tags": [
+          "Teltarif"
         ]
       },
       {
@@ -85,49 +124,21 @@
           "Siemens",
           "Brandschutz"
         ]
-      },
-      {
-        "title": "Cybersecurity für die Pharmaproduktion - Siemens",
-        "source": "Siemens",
-        "publishedAt": "2026-04-23T13:31:53+00:00",
-        "summary": "Cybersecurity für die Pharmaproduktion Siemens",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0VseEw3Si13dlRxSjlvbHFmei1fRVBCaDBLOF9wLWVkSDJtLW9jN2lnRWR2LVdlVEg4bVRiQkRhUTNTal9ZcEFLMTVmN0FFY3l3bDRSYjBCbGlEeFR4akdVUHRIRFdPc0t6OWJ4VVdjZ0c5azVkeFlObHZBOGc3TFR4MVY1WFl4dTk2eg?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "Neue Zürcher Zeitung"
-        ]
-      },
-      {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
-      {
-        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens Press",
-        "source": "Siemens Press",
-        "publishedAt": "2026-03-27T07:00:00+00:00",
-        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Bosch Smart Home Heizkörper-Thermostat II - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-11-24T22:07:54+00:00",
+        "summary": "Bosch Smart Home Heizkörper-Thermostat II n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXpBUm1weDlpOXNxb1ZvbjdxR3k5OHNMcFhzb1VsZTdyMFp6alRzelpCNnNsaFhZcnp2c0k1NXM2MmN6NnZUMUJTMUV4VWhVRGhzeE5mNGM4MGJpaGxGUkZDZXhwYTBYNEFnSFZxTXlWSDg5ZjRRZTFNTHl6aFdDWVpzVzNILWR6dF9mUl9DVUR6QlFzZ0sydFdOeGN2eEJm?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch",
+          "Smart Home"
+        ]
+      },
       {
         "title": "Fünf starke Smart-Home-Deals für Musikfans, Heizkosten-Sparer und Gartenbesitzer - CHIP",
         "source": "CHIP",
@@ -149,22 +160,21 @@
         ]
       },
       {
+        "title": "Tink senkt Preise für Roborock und Smart-Home-Geräte - SuaraGarut.ID",
+        "source": "SuaraGarut.ID",
+        "publishedAt": "2026-11-24T10:00:20+00:00",
+        "summary": "Tink senkt Preise für Roborock und Smart-Home-Geräte SuaraGarut.ID",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCdjNXbW4zbHl5eFRiZE9YMl9qN3hoQTgza0JhYnFWMEtsajNudHZkMGpJU2xWSWJsSmZSVGx4MnFvd0RSRHhSbjc4VTIxZDJ0WjNSYmhUa180NkZWVHBVNEl3bWcwaDc0YmZ1Q1BvQQ?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
         "title": "Bosch Smart Home: Update 10.37 bringt neue Funktionen, Fehlerbehebungen und kündigt Support-Ende an - Caschys Blog",
         "source": "Caschys Blog",
         "publishedAt": "2026-11-23T21:30:25+00:00",
         "summary": "Bosch Smart Home: Update 10.37 bringt neue Funktionen, Fehlerbehebungen und kündigt Support-Ende an Caschys Blog",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSDhOY3VUNHNGTmplVy11dk5iNEtSSVR6OFRvOUoxa0xjN2x0MUlSa2x5ckhxNFUtREFOZnR4YnpGVEdwb2ktNHZLQjh1dnlMRVZmRS1fNGJDRTlBV0NIQjgyWUdYSmgyWGNmWHZxbjFaVVkycm9RZndDS2w3OTVJMXdibktHYWk2VVE3NGRjWTRuUDJicHdaWFlqTWluT0xWdG11TlR1b05VX2lwbWdDUlU5ME10aFFoRmg1am13eE9TUUFWdW1v?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Update 10.37 | Controller lässt sich jetzt per Taste aktualisieren - SmarthomeAssistent",
-        "source": "SmarthomeAssistent",
-        "publishedAt": "2026-11-23T19:10:16+00:00",
-        "summary": "Bosch Smart Home Update 10.37 | Controller lässt sich jetzt per Taste aktualisieren SmarthomeAssistent",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EZGd1ZzNiQXZjQW9VaGNSZHVsbXZDREZYYUFOenE0eWpiMnRQVmpNQjQ5WElfekI3eDFCWU93VkNubmp3NFgwbHBRNW5ldzJ3NUR3ai11Q0lHVWl2WjU5V21YUUhiZzJEZkk4bDNiMVl5UQ?oc=5",
         "tags": [
           "Bosch",
           "Smart Home"
@@ -239,21 +249,29 @@
         "tags": [
           "Bosch"
         ]
-      },
-      {
-        "title": "Tink: Bosch Smart Home Rauchwarnmelder II - 6er-Set - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-11-20T15:14:14+00:00",
-        "summary": "Tink: Bosch Smart Home Rauchwarnmelder II - 6er-Set n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMG5xNm9TYnIyTHZoRThOU2duMXA0WVI3VlhsSVBXNmFqZzhrV3dxNVZpZnpCeVpFem5pTzYxSzhvQkNOdDdjUndEbVZfYW42dVpaUVdlY2k0bFRoUVZ4VzBwNUJDTGRBRnQxZl9xT2JLal9zSmRSbjRkUUtqVXJxMXljYkpYdWtCUUxyTjUtNWh3QQ?oc=5",
-        "tags": [
-          "Bosch",
-          "Rauchwarnmelder",
-          "Smart Home"
-        ]
       }
     ],
     "doors": [
+      {
+        "title": "Tender MOSEL: Vom Versorger zum Multitool der Deutschen Marine - marineforum",
+        "source": "marineforum",
+        "publishedAt": "2026-11-19T07:59:49+00:00",
+        "summary": "Tender MOSEL: Vom Versorger zum Multitool der Deutschen Marine marineforum",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTUtRSlNLWXlnWU83aXZsZVUzUVRWUXJ2Q1JyTnhBSXZTMDUxTGVvbFFGWUhqc25GVUdKSE9rdVA4T21yUllvWF9oaVo1bFBfZXlrZ0F3OXBVWGVIUThnNW5NV1YwOUhjMWhoTU55OEZhYmZPeGc?oc=5",
+        "tags": [
+          "marineforum"
+        ]
+      },
+      {
+        "title": "OpenAI: externe Sicherheitsprüfung im Überblick - NeoTeo",
+        "source": "NeoTeo",
+        "publishedAt": "2026-11-19T07:02:26+00:00",
+        "summary": "OpenAI: externe Sicherheitsprüfung im Überblick NeoTeo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW1CMWVYN3RIQ1AwdnhUbDFTaExoR00yUmhjeFBtUWFMSmFlYXp4Qm1JYVpqOF91cXFOeElQOERkcU5XQU05SkNJeEc4Umh0TU5MYmtLU21YSHUwYUdSaVVGckktMnpnenFwU0xHcHFnRHh4SmprR3ZBU0xfVy02MXY5TjV0dmhMWjktSnpmcGQ?oc=5",
+        "tags": [
+          "NeoTeo"
+        ]
+      },
       {
         "title": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen - BornCity",
         "source": "BornCity",
@@ -265,11 +283,51 @@
         ]
       },
       {
+        "title": "OpenAI Apollo: Umfang der geplanten Sicherheitsprüfung - NeoTeo",
+        "source": "NeoTeo",
+        "publishedAt": "2026-11-17T19:10:16+00:00",
+        "summary": "OpenAI Apollo: Umfang der geplanten Sicherheitsprüfung NeoTeo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQXV4WXlOOVdhZExxTFRsdFc1bGliUkRudXdUalozRERaX0NpLVNGb05SRmRWeDdmdkdFVmY4bmJYVmZWbDJkaUlGX1l3elc5VEdtc0tXbHFXWkJXQ1l5ZHg0cm5ob3paOHNYY2RSdklTWmdxUjVES3FwaV9wd3c3bUlIa3R5QQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "OpenAI verpflichtet vier unabhängige Prüfstellen für eingebettete Sicherheitsprüfungen - Unite.AI",
+        "source": "Unite.AI",
+        "publishedAt": "2026-11-16T19:52:05+00:00",
+        "summary": "OpenAI verpflichtet vier unabhängige Prüfstellen für eingebettete Sicherheitsprüfungen Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVFtRXRvNG1SdDhNSVE0Uno3SlVFVlRtenUtR2ozLTI5STVGMnJ3eWppa2xjVlQ2bmRXZXZ0S2VabzZBWFQ1QS1YVDNGXzBiQnNvUENiUGFKTEVjRHRvQVhrS1ZIamRPVmdVbkpYQTJDODNnazZ6bWdLTHVJZ0RKX1AzanRjV1VGbFdLazFtQVZYbVRqdzlZ?oc=5",
+        "tags": [
+          "Unite.AI"
+        ]
+      },
+      {
+        "title": "Apollo Research setzt sechs Evaluatoren im Pilotprojekt zum Unterlaufen von Schutzmechanismen bei OpenAI ein - Unite.AI",
+        "source": "Unite.AI",
+        "publishedAt": "2026-11-16T17:38:04+00:00",
+        "summary": "Apollo Research setzt sechs Evaluatoren im Pilotprojekt zum Unterlaufen von Schutzmechanismen bei OpenAI ein Unite.AI",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWxzLTlwbmtlQWNVcWlaVUtiR3VnQVVheFFvSkNPcGE5VEtKc0dkQVR3OG1HOHF1YmpUMTVaMDZLY0lwZXNGTmdJVGRpX3BxOUh0LWxqODhadUQyRlRHUV84YXlNTjVONlhVeWVQZ2tHamItYjFuSng5bUR4ZG9XZVl5UGVITVJDM2cwdWdhUmVuYVpVaGc?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo und Victory Capital kooperieren, um Privatanlegern Zugang zu privaten Märkten zu ermöglichen - MarketScreener Schweiz",
         "source": "MarketScreener Schweiz",
         "publishedAt": "2026-11-16T13:30:50+00:00",
         "summary": "Apollo und Victory Capital kooperieren, um Privatanlegern Zugang zu privaten Märkten zu ermöglichen MarketScreener Schweiz",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSloyVEhGR0tzQ2ZvcXJqbDZFV1d0cHN3RW5kY2xHLWZUMXYzTHhZeGhYVnRydUZSczRxMnNDb2JKbXJLUm9tWEE5ZUhVRXF3dFR2b1FVa0VJMFBaS0dtZTkzMzFYSmx5aTRZVFVZdG5LM01BZGFra0VGZURxay1fTllkcjBSMDNiZDlpX3paOHJCWWotRjFhUE5oNU42QlBnZ3ZnMzNQVU83MTQyMzVuRG90QU9WbGV2UmFrT01PQVBiMHRQTDF6ZUNCR2d0VjhwclRxcW9PLS1DaG1pUU0zU0U3UTNIOGZIb1QzRGtKSVhZbjN0Q3hiM3RR?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World - e-fundresearch.com",
+        "source": "e-fundresearch.com",
+        "publishedAt": "2026-11-10T08:00:00+00:00",
+        "summary": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World e-fundresearch.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZEZDaG5IT3czNmZxMWF3czAtUmxLcjBVOHVBT0VMckw3TXEtbDJaLWhpZjhSb3E1ZFRqcjNpdHhhRG1aUVBQYy1NR0NIUG5qT2s1RnNMeGxsWHBBYWNySXpoRnNZZ3hXODNNZVA3TUNhbFByMzVwM21BOThzWDBZTlN6Yjl4RC02eHpPQldvM1BDTmsxZHY4VEVsZDVPNGRCNlFCZ2M1enVrbW1fU3FKc0tRX3R1MWU5TEVYTkdYdEFOWWc4MGdVUlhVQkUtTWF6WjVGUEtUTzJzdEg3OU44QXZ1ZlB2MkhI?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -285,11 +343,11 @@
         ]
       },
       {
-        "title": "Autodoc: Gründer kaufen Apollo-Anteile zurück s - Manager Magazin",
-        "source": "Manager Magazin",
-        "publishedAt": "2026-08-19T07:00:00+00:00",
-        "summary": "Autodoc: Gründer kaufen Apollo-Anteile zurück s Manager Magazin",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RLWFVkamNsNERFUU9JODZsdWRaOUZiWWZFUHlVYVBLNENwb3NFb21oMVRaVmR3UmFnNDZFaTN0S0JSVDl1bE1rZ0hJRTRSLWc1Z2FPMjQ1b0htTDFtUDNCXzBsSDZveTRwVXBjM1lydUlJTXZCbEw0UzYtRWlENlc1MlNJNFQwUE0tTk1OT3gzN2dQSHRVSUJsYmVHbldGekN0WlRrbUZkUWVjTmo2cUxkOUU1MFdmTTk2SHhaWFNkVG1MSHJ1aU1fRXdJSHQxeVNZWXpLUGE?oc=5",
+        "title": "A&O Shearman berät AUTODOC beim Erwerb der Minderheitsbeteiligung von Apollo - RWS Verlag",
+        "source": "RWS Verlag",
+        "publishedAt": "2026-08-21T07:00:00+00:00",
+        "summary": "A&O Shearman berät AUTODOC beim Erwerb der Minderheitsbeteiligung von Apollo RWS Verlag",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdW5NdkRTc25ObUJEcWhEMHNEZWRCX19JSmFPY08wdXVhSkZITTlwaEZiSExrQmJQLVpFU2JpVzJSSnZrSHpCaFVrQmFSSlZrM3VZX1FaQ0doa3MtbVJRdmJzYy1wSXd3aTJiY1lMUmFtRTJfYV9aS2QxeTVsa25uZ1hkaTVDNm9PWW4xT3QxQTBhaTZEWGg4NGJfUlhQNFB5dlZUYjh5dmlPb0dpMzB4d3I4TGZRaEhCekdQdVllMUdwdUVMZjN3OUM3dUxoVVFSSWc?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -305,73 +363,13 @@
         ]
       },
       {
-        "title": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden - tippinpoint.ch",
-        "source": "tippinpoint.ch",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Partners Group erhält Zugang zu 75 Millionen Revolut-Kunden tippinpoint.ch",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
+        "title": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro - InvestmentWeek",
+        "source": "InvestmentWeek",
+        "publishedAt": "2026-07-30T07:00:00+00:00",
+        "summary": "Revolut öffnet die Welt der Milliardäre für jedermann: Private-Equity-Investments schon ab einem Euro InvestmentWeek",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFJHYW5LM2RMakRreFg5Wm45LVFETjhNMk5iSEZUM0V3Rm8yMkxrSFVYMmRDcTBXMlpqMTYtN1VjME9VSTZVcG5VNXpLMTdmMHRyTWJkOXhiR3EycHY1X3VrQWl1QWplOFd6bVk2UGlyWlpVajRaSFdwMnltSjRlZm5FeTlibkpNSm1vd2IyUGg0d1JUODFzUm93dllRQWZjU0NnRWYtQTJXam8xN1p0b21aYXFPbVJnNzZXR2RiNVJ3LUppOUo3WXYtRmc?oc=5",
         "tags": [
-          "tippinpoint.ch"
-        ]
-      },
-      {
-        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-07-10T07:00:00+00:00",
-        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang - Apollo News",
-        "source": "Apollo News",
-        "publishedAt": "2026-06-29T07:00:00+00:00",
-        "summary": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang Apollo News",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazcwZ2tpcFRySm9ibEEtcldvMGppMFZ6MnpWSkgxZUMxSDNHdmhmR3o5X0s0U1BoN2l0c0xoU2h2ck0xNEVENTJNTTRIRE5lb05XM05mLUZDUjRDUm5MVUJaSkltVVB5eTh1ek1oXzBqOHpvcFhtS2hiMVFCd1dReGs4TlN0ZjlWTmNNZWdtYU1tTkJhOVBIRjViSGVweXhZeUJQaHpOZWx5X2hWVTRtekR3blp2ZFI4YjVZ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
-        "source": "Business Insider Deutschland",
-        "publishedAt": "2026-03-06T08:00:00+00:00",
-        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
-        "tags": [
-          "Business Insider Deutschland"
-        ]
-      },
-      {
-        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
-        "source": "Finanz und Wirtschaft",
-        "publishedAt": "2026-03-05T08:00:00+00:00",
-        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
-        "source": "Gebäude-Energieberater",
-        "publishedAt": "2026-03-03T08:00:00+00:00",
-        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
-        "tags": [
-          "GEZE"
-        ]
-      },
-      {
-        "title": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale - handwerk.com",
-        "source": "handwerk.com",
-        "publishedAt": "2026-02-27T08:00:00+00:00",
-        "summary": "Türtechnik und Automation im Fokus: Geze auf der Festerbau Frontale handwerk.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGY0RDNmaTNfNU5Fdkc4VzkyS3FEZl83QWZLVzBZajdpR2YwTXNVNFBDbGpxd25uVWQ1al94TUVvcThPNzFHQzdMbG9TREMteTZiSWJZblBma1RVMFRzQUhzSF9OSjJydmNlNjA4TFlrR3g2c3BwV25jNEJBNFdzaElMSWdGRDI0TnY0TXlnbGN2OTg5eXgtYlhLcVQ?oc=5",
-        "tags": [
-          "GEZE"
+          "InvestmentWeek"
         ]
       }
     ],
@@ -394,16 +392,6 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0xURHJ0QmVaeklNY0VsR2YtTWl5b3JiRGVrVFBVOHFXNkFtVzdmTHQ2SXVaVHQ3Q2g1VTNzSFJjMnN1Z0dRTWp2UGZ4UE9zeTZLeWJnQVY2djJKVlFlOHRNZ2dGcEtJQkctNllkNThmcHVmNGNEQjA2QnFsWi1Hdm9xamdJVEZ3aTNJUGlCdTBHSjI2bzQ4blllVnVSR2NoT1FzOWR1YXVsZWtLUDRkdWpZZFItZHZlSmVOa3c0dmEySVJiMDdBN1dPQQ?oc=5",
         "tags": [
           "Siemens Press"
-        ]
-      },
-      {
-        "title": "Buildings Experience Center: Gebäudetechnik zum Anfassen - a3BAU",
-        "source": "a3BAU",
-        "publishedAt": "2026-11-20T13:43:08+00:00",
-        "summary": "Buildings Experience Center: Gebäudetechnik zum Anfassen a3BAU",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vSlBRR01JUEpvOElLalNIVkhSSDFYcVZmbzgzTERneENrMWFKSVktNmM3TFp5ZXBMTVlyTFNYOUwwU3hXQ09iSkZzZHFCZUowNnB5SUp2SVZkaW85SVQ5QkRpZFZYTkM1eGZnWlJ6MW1HOHQ3OTZZeWhHWURjUQ?oc=5",
-        "tags": [
-          "a3BAU"
         ]
       },
       {
@@ -496,6 +484,16 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3RXRUdxSGkzckdDSFAxem5XQmU5M3pGWW5nMjc4VUpNb1FBT2FCQTh6RXVvcThmZ3NVMGtuRFhBNHZFSlRlR09ySXNXZUFBajVMSm5zT0tocnVuWWFTZ3F2T0J6RjVpOVNBdk1OdDNpMXcxQUwxQWQ2RUdyMy1MemQ4TXA3VzdWVThPZU1oNjEweGdnTDEydE1JLVQ2UnhPbEs4YTF2aW55amZHYV9WYXhuWklCcExmWVNDejBmQmFydFkzdlJ0MjBTN19scXN4VkQxeQ?oc=5",
         "tags": [
           "SWR"
+        ]
+      },
+      {
+        "title": "Cursor von SpaceX: Ransomware-Hacker täuschen KI - FAZ",
+        "source": "FAZ",
+        "publishedAt": "2026-08-28T07:00:00+00:00",
+        "summary": "Cursor von SpaceX: Ransomware-Hacker täuschen KI FAZ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVW5yNFNTcEdGYlZSV05JTGJlNm5wRnVlZUtSdS1VR3NfSEtoN1R3dkNMc1luM3VPM3lrQWJ4akFDcTlaWE13RFhwUnI3QXNvQ0QxNXJxek9ZeUJMLXR3SDBRZ19aQ0d1TXNzTmVqLU04NmRid2p2VTdOcmdiOTl4V2dsRXZuYWdLemNGelpLRG4ycTRjQ0NZOGRsT291dURGaGxCa2FoQnRzMzVvUWd5azktZEYwMDFwRmtzNWQ2M3VfU0t5Q1BYNTRIQQ?oc=5",
+        "tags": [
+          "KI"
         ]
       }
     ]
