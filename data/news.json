@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-11-27T08:53:35.320090+00:00",
+  "generatedAt": "2026-11-27T18:38:00.627950+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
-        "source": "Wirtschaftszeit",
-        "publishedAt": "2026-11-20T09:53:00+00:00",
-        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Deutsche Aircraft setzt auf Lösung von Bosch Building Technologies - protector.de",
         "source": "protector.de",
@@ -45,13 +35,14 @@
         ]
       },
       {
-        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
         "tags": [
-          "Augsburger Allgemeine"
+          "Bosch",
+          "Brandschutz"
         ]
       },
       {
@@ -106,11 +97,11 @@
         ]
       },
       {
-        "title": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte - IMTEST",
-        "source": "IMTEST",
-        "publishedAt": "2026-04-14T07:00:00+00:00",
-        "summary": "10 Jahre Bosch Smart Home: Bei tink gibt’s jetzt kräftige Rabatte IMTEST",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOUhkQnNHd21IS1NRN1pkY19aeUd5UmttVy1BakFBbVNwQ1JqR2RTc1lRalE2dHBieElCQlNycFBmSEV6NU1PRlJrN0pwYTVkbFhPUVBLejQ0WFNZcXp0UWhKZDIwZ3JjWXBsN1VZS0NTcUZXbjZoZHVyMG4?oc=5",
+        "title": "Produktsicherheit - Bosch warnt vor Koh­len­mon­oxid-Ge­fahr bei Therm 4300 - SBZ online",
+        "source": "SBZ online",
+        "publishedAt": "2026-04-23T07:00:00+00:00",
+        "summary": "Produktsicherheit - Bosch warnt vor Koh­len­mon­oxid-Ge­fahr bei Therm 4300 SBZ online",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSDhPTDJpcXhEZWJOaDJIOGhaT1JrYktVRnc0LWU1SHJQRmNQZ2RaRzBGazZzVmdNYnBWS29FYlZzaFlONzV5c3NEV2dta3JPQUFQTlFpbDdGbEtCNWtaOEVwNVA5WDUycmFvRXJuQkdkRWd6TXlrbFFiczl0djhTalZfQ3hFRkFGZTBpUTJueFFqbHlrcjdKZjAzZnRHekpvcy10Q0dHQW4?oc=5",
         "tags": [
           "Bosch"
         ]
@@ -124,9 +115,40 @@
         "tags": [
           "Neue Zürcher Zeitung"
         ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Sicher durch die Adventszeit: Sechs smarte Rauchmelder für knapp 100 Euro - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-11-27T16:35:00+00:00",
+        "summary": "Sicher durch die Adventszeit: Sechs smarte Rauchmelder für knapp 100 Euro n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFJ3ZVI4bUpKTGVKVllHd3d2WUh3M2o4aHhkVWEydldGU3VQaXNxVzZZcjBHbXBnOTNmWEFiTGpoMHVrVjhpQlpidF9VN1hkaU5WelA4VkYyU1RISHFpQnhDTkNKN2VsYVFMYldTVVhJckFsY29zeENtM0duS2xYVmZyMnZjVkd5cjM5aUk1SEFrMTkyellmcDB2cHY1T0p6blBWbEpfcFZUR1F0QTN6Q2QybWxVWjcyRlE?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Black Friday: Bosch kombiniert Sicherheit mit Beleuchtung - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-11-27T15:00:00+00:00",
+        "summary": "Black Friday: Bosch kombiniert Sicherheit mit Beleuchtung Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWXVsSkh5QnhUSHJGMGQtckNTdmZVdkoxZWQ4Z2ZKXzJFZUhrWTl5bHdxM2NUTXVXLWhIQUdJUHR2dlVBelRwa2ZrOV9Ic0Y2Z1dtd0VtX0EtYkVNdFBDMHdtT2xGYjc5Ymp3VFZsdVBXN3Y2ck1KRmxuWWdPMzN1bjEtMUYxWkJubXo4YU5xSVUwaWpTMHc?oc=5",
+        "tags": [
+          "Ei",
+          "Bosch"
+        ]
+      },
       {
         "title": "Black Friday: Die besten Smart-Home-Angebote - Teltarif",
         "source": "Teltarif",
@@ -145,16 +167,6 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVGFqaktRcm1OSnM5X1J2WnJ2alR3YlBGc1c5ZWZxRFFvMUstV2tmRG9nOTF0cXZ5OWxfSnc0MGw2R2pzUUJIRlQxdV9Bc3lma1JlMF9PWF9rWTREZzVEcE14MkJsVnZZa0FxN0x0QV9xSDgzcE1yVmFBR0luX1ZUWFFn?oc=5",
         "tags": [
           "Caschys Blog"
-        ]
-      },
-      {
-        "title": "Sicher durch die Adventszeit: Smarte Rauchmelder jetzt günstiger - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-11-27T03:30:00+00:00",
-        "summary": "Sicher durch die Adventszeit: Smarte Rauchmelder jetzt günstiger n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNi1CamlsZjVKTGpxWFdxdWlVTGdILUJ2aFBtVmJ5VEM4N2Y2dzVBSW41ZDh5dVItRnpjUzg3Zjh2eWlkeFJLZV9JaEE2Mmt6TmtyT2NBa0Jkbl92OUZDRDAyRElYRlVobkdoYkljOE9PVW15QVpqU1lvOV9IUXFCcnd0UV9nMGVTMzVyeGFZYkF0NnVfRXhLc1JxZjVFdV9YblFuclBWejduOFo2c3BLQ0VSMFhGNmc?oc=5",
-        "tags": [
-          "Ei"
         ]
       },
       {
@@ -192,7 +204,7 @@
       {
         "title": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr - HIFI.DE",
         "source": "HIFI.DE",
-        "publishedAt": "2026-11-25T12:35:30+00:00",
+        "publishedAt": "2026-11-25T08:00:00+00:00",
         "summary": "Tink Black Friday 2026: Die besten Deals für Heimkino, Smart Home und mehr HIFI.DE",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zeXF4VWVQd3lvUG82TWswa1VMNld1eXdFZlZwUzlCZG9XcTlyVGc1NDFlaEE5czRub3lpMkRNUXBRSzZvX1ZhQXk4b1hSZ3Z5NGpUS0VCUjJJb3J0bjk1am9OYklEX2NsdWxPcEstUUp4cUx1SXJR?oc=5",
         "tags": [
@@ -242,16 +254,6 @@
           "Bosch",
           "Smart Home"
         ]
-      },
-      {
-        "title": "X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-11-23T13:13:45+00:00",
-        "summary": "X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONy1EdXNZVi01ZlNOaGtrT1B3cFQ0Y0VFbWljZy1kSWdFSzc1dVJ0ZFhCNDBrMjVqYVZkV0VlYWFMRDFiUjVfdVRiR2ExbGtGa0JKVkdVWURhalRDWFBWM2JvUTk1eWQzSHdvbF9IY1BZci1lV2Rnbmo5eUV0SDYxc3dMMGZ6VTVqTVpvWmYwaHpFMHYtd1hTLTM1SExNUERYYnc?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
       }
     ],
     "doors": [
@@ -273,16 +275,6 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW1CMWVYN3RIQ1AwdnhUbDFTaExoR00yUmhjeFBtUWFMSmFlYXp4Qm1JYVpqOF91cXFOeElQOERkcU5XQU05SkNJeEc4Umh0TU5MYmtLU21YSHUwYUdSaVVGckktMnpnenFwU0xHcHFnRHh4SmprR3ZBU0xfVy02MXY5TjV0dmhMWjktSnpmcGQ?oc=5",
         "tags": [
           "NeoTeo"
-        ]
-      },
-      {
-        "title": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen - BornCity",
-        "source": "BornCity",
-        "publishedAt": "2026-11-18T15:44:04+00:00",
-        "summary": "OpenAI-Audits: Vier externe Teams erhalten Vor-Ort-Zugang zu internen Systemen BornCity",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajM0aE5uVHRFLUVFRExaOGs2amlUNWtNbjNwUTdEWmZheGxRZGZlN2dKajJGTksxaHNwRmRndVhTaTlwdDlKcUlMWjkxZ2tXTWw0VENNaG0tMVZIdFVvam40cl9sTU9CZkF4NXA5Q252SkxXYXpZb192QnJaVjlaUUFidXdHQjZjejJYLWNYM1VnMWdhZTlfQS02WHExeFVoYXF5ZWZOOA?oc=5",
-        "tags": [
-          "BornCity"
         ]
       },
       {
@@ -374,17 +366,27 @@
         "tags": [
           "tippinpoint.ch"
         ]
+      },
+      {
+        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
+        "source": "FONDS professionell",
+        "publishedAt": "2026-07-28T07:00:00+00:00",
+        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRkJQNW40bTRHM0FtTVpPalhzQXZIZ0lFOW1rVzJsQWZtV1piVUJpZGhCS19pcHNMTG5JUnYwaWd2eWU2SzZkQ2xWYjZsWjMzMzJyZkZLU09SNVYwRVdnb0ZreUlKS3B0SEVTMDFOcUE4TTR5Ymc?oc=5",
+        "tags": [
+          "FONDS professionell"
+        ]
       }
     ],
     "trends": [
       {
-        "title": "Platz gespart beim Retrofit - IT&Production",
-        "source": "IT&Production",
-        "publishedAt": "2026-11-26T11:19:00+00:00",
-        "summary": "Platz gespart beim Retrofit IT&Production",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZDZsMkowbzdjdE1hTzJEekl4YTA4NW1MajY0WFM1MHZmWnE4dk1uSWtDSWxjSzN2Q3JETE4xR2lvQ1dPenFONGlEVDkzdGJCc0FBanlUcVdkVlNBb3R4cXRFQVR2M3cxWTBxZ0RjdEd4cTVFUDRtNUlfLVRobWpsV0ctcw?oc=5",
+        "title": "US-Tech-Gigant Anthropic krallt sich Zürcher Prestigebau - Blick",
+        "source": "Blick",
+        "publishedAt": "2026-11-25T09:47:00+00:00",
+        "summary": "US-Tech-Gigant Anthropic krallt sich Zürcher Prestigebau Blick",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmNTSHlONXpJcWR1UTZONGpmUGNfcDlKZ3VVckZRbE5VbGVmMjZLdTF0OUpWb0x3N3N3Z3A5THNaT1p4TkFyXzhYUEJLT3JkRzVMQW9FeVRUYlAwdmtrWWFnYkFIQ2VodlRJQ3lZdm0wbjRyalhHMUVQNzJnYTI4RFBpbjlya1VvSjkwdHo0RkloclpCUFk2U0tKT0JBNHFmdlp2bEhhbw?oc=5",
         "tags": [
-          "Retrofit"
+          "Blick"
         ]
       },
       {
@@ -398,13 +400,33 @@
         ]
       },
       {
+        "title": "NIS2 im Krankenhaus – Gebäudeautomation ist Chefsache - kma Online",
+        "source": "kma Online",
+        "publishedAt": "2026-11-24T11:00:01+00:00",
+        "summary": "NIS2 im Krankenhaus – Gebäudeautomation ist Chefsache kma Online",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDJ6TzVITVk1dDByRTRTNV95Z1l5alFOM2lGUEdWci1MNW9TY2huQjhGNEhfWUNZT1pkSnkyS0N0aVVPLTlUa1pQSGpaa08ySk00YzRuR0VqRXlCUUZ2VUtOVmZoRVpMdG9nX2gxdHF1YTZTX1lTM3lnSjhRbjllcWdYUGdPX1ZIcTB4RWNWdTk0aDZoMU5iSmdqMGhuQUZnRkJ6SlNsdnEyMHcwMWNpdlNkU3Z2NE1pdkM0?oc=5",
+        "tags": [
+          "Gebäudeautomation"
+        ]
+      },
+      {
         "title": "EGMR sperrt Anwältin wegen ungeprüfter KI-Zitate - Legal Tribune Online",
         "source": "Legal Tribune Online",
         "publishedAt": "2026-11-23T17:55:27+00:00",
         "summary": "EGMR sperrt Anwältin wegen ungeprüfter KI-Zitate Legal Tribune Online",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZy1LVGNOTFBjRTgtVWQwVG1Yc0xJck50QTFLSkEwRFRsZWVkeG9vR1RHZE5uMkFMRWVDdk9DaFZDblVLendRYk9mcDh4QzFDcTJRbk44d1ZwVnZLazRXbW1PZlFUR1hRNnZmcVJoLTB6Y01RRFRMaGo5VlZTSnlFMmwxQ1YzcS1FcGlSNWx0OUJUXzRSNDJ3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM19HMG8wanlDQ01JMHFTNFp2OXFUYTBEeWVGS2VGVXVCSFAzbWFOOENBU0xPUm1RMS1vUm1XYkJ3Q2IyVy1LMm5VTkFqM1IxLWJMXzY5UnZGUE1oamNobmx3M0ZLb2czbDdiNmI3cE8xd2o5S2ZsdEE3MjZSOGxlTEs1WVRiQ2I3SWFhOWpzLTJVNGNkQ0ZJMjlRMA?oc=5",
         "tags": [
           "KI"
+        ]
+      },
+      {
+        "title": "Gebäudetechnik hautnah erleben: Siemens Buildings Experience Center in Wien eröffnet - Siemens Press",
+        "source": "Siemens Press",
+        "publishedAt": "2026-11-20T18:35:14+00:00",
+        "summary": "Gebäudetechnik hautnah erleben: Siemens Buildings Experience Center in Wien eröffnet Siemens Press",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0xURHJ0QmVaeklNY0VsR2YtTWl5b3JiRGVrVFBVOHFXNkFtVzdmTHQ2SXVaVHQ3Q2g1VTNzSFJjMnN1Z0dRTWp2UGZ4UE9zeTZLeWJnQVY2djJKVlFlOHRNZ2dGcEtJQkctNllkNThmcHVmNGNEQjA2QnFsWi1Hdm9xamdJVEZ3aTNJUGlCdTBHSjI2bzQ4blllVnVSR2NoT1FzOWR1YXVsZWtLUDRkdWpZZFItZHZlSmVOa3c0dmEySVJiMDdBN1dPQQ?oc=5",
+        "tags": [
+          "Siemens Press"
         ]
       },
       {
@@ -418,33 +440,24 @@
         ]
       },
       {
-        "title": "Energieeffizienz öffentlicher Gebäude: KI trifft Komfort - a3BAU",
-        "source": "a3BAU",
-        "publishedAt": "2026-11-19T10:56:26+00:00",
-        "summary": "Energieeffizienz öffentlicher Gebäude: KI trifft Komfort a3BAU",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Qd2pRWjZEWW50WGpqR2doWWh0bnRjeXlyR3J0Y0VLdENjYU1JNUduUWtUUlpKYkJoY3NZYlY4VFIxcEtmOWlvekREYlBfN0JnamlPZWNfX3VzLUtRRmxfS1p0S2ZZbGxiNUZSTkg3c3lQcE41VjFicW5xYmxmb3M?oc=5",
+        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
+        "source": "Wirtschaftszeit",
+        "publishedAt": "2026-11-20T09:53:00+00:00",
+        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
         "tags": [
-          "KI"
+          "Wirtschaftszeit"
         ]
       },
       {
-        "title": "qapture startet KI-Agent qentin für Gebäude - Trending Topics",
-        "source": "Trending Topics",
-        "publishedAt": "2026-11-13T08:00:00+00:00",
-        "summary": "qapture startet KI-Agent qentin für Gebäude Trending Topics",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCTmZKSkdaV2VwU3RVaWxfVEZYSHpjSkhNMWtOTlhmZzhDMkZuUXR1Z1FCcWh1eEVPQVdvNjFkbjZJWUt3Q1htbl90d1pLTmpPTGdWc09tSDNJZ2lTZl82cHVjc2ttWEd4ZmxUMGxuTTRiNXd2TG9hZw?oc=5",
+        "title": "Cybersecurity, Maschinenverordnung 2027 und Retrofit - Deutscher Presseindex",
+        "source": "Deutscher Presseindex",
+        "publishedAt": "2026-11-18T13:24:00+00:00",
+        "summary": "Cybersecurity, Maschinenverordnung 2027 und Retrofit Deutscher Presseindex",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHowWm5DelVFaE5hSk5UblkxdVQ1RmR2QVpHenZidHlXTkFWenR4SDM3ajlKVUVCcmRkRVUxWDNoQnFBX2NRZl8wckNvSmplanBFeDNvaWdURzRtcW5kRHVJLWU4TWVSSF9TY2RrOGlFZTJtZW9mODZnT3VDRlU2cTV5bHpsUDlubEhnSUZ5NmFReml4MGhpOVI2RjBINmVQ?oc=5",
         "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? - ADAC",
-        "source": "ADAC",
-        "publishedAt": "2026-11-12T08:00:00+00:00",
-        "summary": "LED-Nachrüstlampen: Bringen sie Licht ins Dunkel? ADAC",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEQ3WC1YbGV3ZTVteDZsVHYzSWk4Mi0wWmlydzF4WHNsU215X2VqRFhITE1DWTJpbTFjU0pOVVNUOE9XQWl3dEg0RHhUdEp3NEttX2Jsc0RleS1zQ2ZjSGpyY1I5TnBMbW1PLVJDODJhZlM1YzlDU2Rsa05iM2wyaGFBNlpxZDJScnFacno4QUZKckQ5RmRGaDFSRE1UVEh6VHNCMEV2ZWxXR09UcmJ1cEJNZHdBNE0?oc=5",
-        "tags": [
-          "ADAC"
+          "Retrofit",
+          "Cybersecurity"
         ]
       },
       {
@@ -453,16 +466,6 @@
         "publishedAt": "2026-11-12T08:00:00+00:00",
         "summary": "Sprechende Gebäude: qapture startet KI-Agent für Bestandsgebäude Business Geomatics",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWRLLWZNaVJrMnQxdWxTSEYyUmkydHFDMWJheVJ5M0t2SUVXU09COTVocU1ZRzZiTFhZcnVIQ25uTG5BTFdOVWRBbHF1VEgzOXlob0NKbDd6MEc3TVRJWnpudDJzQ1Z4NzdsVzdhREZLNi1vdU5nVEVjVVR6bVBDcE5xSnZnTnc0V1lMN1ZHN0JHeGp2M3hzNU9MalFZRnh6ZEkwZQ?oc=5",
-        "tags": [
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus - NIEDERLAUSITZ aktuell",
-        "source": "NIEDERLAUSITZ aktuell",
-        "publishedAt": "2026-11-12T08:00:00+00:00",
-        "summary": "KI-Scanner für Gebäude gewinnt BTU-Transferpreis in Cottbus NIEDERLAUSITZ aktuell",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHU2cDRBMzFRR25WM1dlWHdtSzBmeFJQTVBFLVFlbjM3TmNPNFRpQTNzbTZfYVAzMERCZzgxM2pNX2p3OUhKeTBaNm1WMU1ia2h4elhmV0paUVY4Rm5nZmhGTnlEcGNQTHNwY1RDRmRRQ3ZZc1AtUWZlcjI2SE04dGx5Y3haNWxUNkQ4VWRwTDlkR0ZEeHBlcnpFNDRwU04zS3l4V0NyX0IwRDRPQjBCaGFKWlhldGEtYXQ1RVUyODBVZDVmbTBVVVJPNVZYUmJzTDlVemhoeWRWcW1JSk8tOFJBbjFvYWhsRUhv?oc=5",
         "tags": [
           "KI"
         ]
@@ -478,23 +481,24 @@
         ]
       },
       {
-        "title": "Brandschutz-Woche an der US-Air-Force-Basis: Warum moderne Technik zählt - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-10-23T22:50:54+00:00",
-        "summary": "Brandschutz-Woche an der US-Air-Force-Basis: Warum moderne Technik zählt it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWl5Z04xSEZoQ0Vzcmk3WlBlVnl0S0s0elI5cU8ycF9mYlNMSnhiOHotdXVRQmlMSElwNVJ0XzZ1aDNLRDJ5MTRUWXpsbXRQdlF1Z2VNNktFRmpjV0xmN211Sk5zdi12VFp6YnVoVEdVbFpWNmVyeWlPZXUzTUZqeGNsTV9WeXRVU3hEVTZYX2lKa09ZQ3hHY2plRS1RVjg3dzhURTBOcw?oc=5",
+        "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
+        "source": "Nau",
+        "publishedAt": "2026-10-13T07:00:00+00:00",
+        "summary": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft Nau",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk13SV83cjR5bWZBSHlmOFhzU1RqTXlyV1JsdFF2UEczUTFJZGM1UW9La2pTWFE3THdWck5jbm1qSEY0WlZGOU9NN0tsbzZxWE1kOS1xdXgtZmw1VS1wWlhPSnNZUWFuWGQyMzMtZllJTWtwdkdSY1hxeGdPdVphZFppN0V0XzhMcWJWMDlhS09QT0FzUE0wMlozZDN5YVR4QnlZRA?oc=5",
         "tags": [
-          "AI"
+          "Nau"
         ]
       },
       {
-        "title": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf - CHEMIE TECHNIK",
-        "source": "CHEMIE TECHNIK",
-        "publishedAt": "2026-10-14T07:00:00+00:00",
-        "summary": "Mehr Sicherheit: 3M stabilisiert den Kühlkreislauf CHEMIE TECHNIK",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnozd3FNTXNjekZERVdmMENlQkpZNHZjN01DanNfcVpnTjhNLUgyQnZ0azAzVEt1MUdZN1JpZmtWdHJ0eUFSZmItengtVGpLMFRhblJXUTBnUlFNVFZVQ2o3ZGpkWUI1S1BFSGlyVlpIU2lwNlhuZG9lSDltT2p0eE5BbGRRT2ZRa2gyM1hFMA?oc=5",
+        "title": "Heitec zeigt Retrofitlösungen auf der Maintenance München - Produktion Online",
+        "source": "Produktion Online",
+        "publishedAt": "2026-10-07T07:00:00+00:00",
+        "summary": "Heitec zeigt Retrofitlösungen auf der Maintenance München Produktion Online",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVB3d1pWRGUwR2h3bVhsQkowczFzWlVyRzloOU12VnJrVzFyLVh0dFplUk0wa3lEa1dBakVucGpMSGVEZHRyb0FNRTRjalRKd0FMVkx3U0Z3ck5Xei1yMld5bllRZS16NzExSHQ5Vnd4STVQRUtWSHcyU2luNWhOSld5Y1p5NWRzWkdhTXpTT09BeXFsU2Y3S1BMdTB3VVB3UnZzMkVQSFQtZzNI?oc=5",
         "tags": [
-          "CHEMIE TECHNIK"
+          "Retrofit",
+          "AI"
         ]
       }
     ]
