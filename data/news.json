@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-11-27T18:38:00.627950+00:00",
+  "generatedAt": "2026-11-28T01:44:50.122863+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
+      {
+        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
+        "source": "Wirtschaftszeit",
+        "publishedAt": "2026-11-20T09:53:00+00:00",
+        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
       {
         "title": "Deutsche Aircraft setzt auf Lösung von Bosch Building Technologies - protector.de",
         "source": "protector.de",
@@ -35,14 +45,23 @@
         ]
       },
       {
-        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-09-01T17:20:33+00:00",
-        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
+        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
+        "source": "Augsburger Allgemeine",
+        "publishedAt": "2026-08-17T07:00:00+00:00",
+        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
         "tags": [
-          "Bosch",
-          "Brandschutz"
+          "Augsburger Allgemeine"
+        ]
+      },
+      {
+        "title": "Sicher wohnen: tink rabattiert Eufy & Bosch - Teltarif",
+        "source": "Teltarif",
+        "publishedAt": "2026-07-29T07:00:00+00:00",
+        "summary": "Sicher wohnen: tink rabattiert Eufy & Bosch Teltarif",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmZNTmI4aXdhVzY3cEVRUEtsYU5xcEpEV0I3TUc3OXlsTDVlcUJOY0tmS2drbGNYWll3dDBJcXVqZ2ZuMmh5dzViX2g5aXg1ZDFiZFJTMU5LbUdlaTBEbnNWdnZqTm92XzVBVzRXakVkSGU0Ml9FWTk3S1d2SW1nd09XWTduZ3dRUmlXbE1pamI?oc=5",
+        "tags": [
+          "Bosch"
         ]
       },
       {
@@ -105,35 +124,35 @@
         "tags": [
           "Bosch"
         ]
-      },
-      {
-        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
-        "source": "Neue Zürcher Zeitung",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
-        "tags": [
-          "Neue Zürcher Zeitung"
-        ]
-      },
-      {
-        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
-        "source": "SAVE AG",
-        "publishedAt": "2026-04-01T07:00:00+00:00",
-        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
-        "tags": [
-          "Siemens"
-        ]
       }
     ],
     "pfs": [
+      {
+        "title": "Amazon: X-Sense FS61 – 6 smarte Rauchmelder inklusive Basisstation - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-11-27T19:38:07+00:00",
+        "summary": "Amazon: X-Sense FS61 – 6 smarte Rauchmelder inklusive Basisstation n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnVDbThKYVRTMUNHRENaN0RPT1BmdGJwOE1UQ3JhcFBFTGlzWDVsNjZyZ0hmN2o2ckhFWHd0U09FaGRFeWNmN1J1ejNoR3BDQlBPQW94UU5OaGs1NHlMM19mdXVJVUJucTctbndSRC1LcTJNOENXOGNvM1drX1RGSG1UTlNxeTZBSHdsNEFHdXhZendGdHRQdFBQd19ReWwtakt3?oc=5",
+        "tags": [
+          "X-Sense"
+        ]
+      },
       {
         "title": "Sicher durch die Adventszeit: Sechs smarte Rauchmelder für knapp 100 Euro - n-tv.de",
         "source": "n-tv.de",
         "publishedAt": "2026-11-27T16:35:00+00:00",
         "summary": "Sicher durch die Adventszeit: Sechs smarte Rauchmelder für knapp 100 Euro n-tv.de",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFJ3ZVI4bUpKTGVKVllHd3d2WUh3M2o4aHhkVWEydldGU3VQaXNxVzZZcjBHbXBnOTNmWEFiTGpoMHVrVjhpQlpidF9VN1hkaU5WelA4VkYyU1RISHFpQnhDTkNKN2VsYVFMYldTVVhJckFsY29zeENtM0duS2xYVmZyMnZjVkd5cjM5aUk1SEFrMTkyellmcDB2cHY1T0p6blBWbEpfcFZUR1F0QTN6Q2QybWxVWjcyRlE?oc=5",
+        "tags": [
+          "Ei"
+        ]
+      },
+      {
+        "title": "Sicher durch die Adventszeit: Smarte Rauchmelder jetzt günstiger - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-11-27T15:45:06+00:00",
+        "summary": "Sicher durch die Adventszeit: Smarte Rauchmelder jetzt günstiger n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNi1CamlsZjVKTGpxWFdxdWlVTGdILUJ2aFBtVmJ5VEM4N2Y2dzVBSW41ZDh5dVItRnpjUzg3Zjh2eWlkeFJLZV9JaEE2Mmt6TmtyT2NBa0Jkbl92OUZDRDAyRElYRlVobkdoYkljOE9PVW15QVpqU1lvOV9IUXFCcnd0UV9nMGVTMzVyeGFZYkF0NnVfRXhLc1JxZjVFdV9YblFuclBWejduOFo2c3BLQ0VSMFhGNmc?oc=5",
         "tags": [
           "Ei"
         ]
@@ -180,25 +199,13 @@
         ]
       },
       {
-        "title": "Black Friday 2026: Smart-Home-Deals mit Hue, Echo & Co. - HouseControllers",
-        "source": "HouseControllers",
-        "publishedAt": "2026-11-26T09:17:27+00:00",
-        "summary": "Black Friday 2026: Smart-Home-Deals mit Hue, Echo & Co. HouseControllers",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMzZwT2J3TEdlanpSQ0VrT3dtaFczTEJmTVFLQXdEbmpaZHZoVDFsWjRlVUl6SEo2RWFHdUtlWk9CdUdZZU03SlpHUHlEU1o0MUJObzdJRzZKcW91SG03M0RBWjlZckU2QzhxYjFxZw?oc=5",
+        "title": "Smarte Heizkörperthermostate im Test: Diese helfen beim Sparen – diese brauchen ein Abo - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-11-25T10:28:27+00:00",
+        "summary": "Smarte Heizkörperthermostate im Test: Diese helfen beim Sparen – diese brauchen ein Abo IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPclREcUYxVTE1NWhScUFNbXlBMGQ0b1BOZDAtZnFIZ3hUN2NyY2hTeWhfTkhac0xwZkh0MjMyMHBFN19iRGI3RlVFMEZ3ekthMmJkak1WcEVidjBLaHpjX3RUa1JpUFlYOTNLNE9QMVBSWFVPVG5uRUpwa1JlUEJ3WnlmUFRHbWRYUTZpcXpHR3JBQQ?oc=5",
         "tags": [
-          "HouseControllers"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home Raumthermostat II - unter 2 Jahren Batterielaufzeit - ad-hoc-news.de",
-        "source": "ad-hoc-news.de",
-        "publishedAt": "2026-11-25T19:32:34+00:00",
-        "summary": "Bosch Smart Home Raumthermostat II - unter 2 Jahren Batterielaufzeit ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQW9nbFhNYjdwSjRyMlFnTENZeFkzNGhzZ2ZiczRTTVBENHJFZmYtX1hFVTVEWTdRTU1kelZiY0w3d1hRM2QxRTB5UmctM3FzMTlHOGN0YmM5MEp4LU5yZkxUUkFVMERDSFJLOUtBS0ptMHlfRk1nVE81bEFHR0taOUJiaWVWSktyWkRzalFRdHhNUUhUVExtVHJyOGpiZlhHZ3NDSGtpRmRmeWtYTExHbDdtVjRxRjFJWFRoZ1J0aw?oc=5",
-        "tags": [
-          "Ei",
-          "Bosch",
-          "Smart Home"
+          "Ei"
         ]
       },
       {
@@ -235,24 +242,14 @@
         ]
       },
       {
-        "title": "Tink senkt Preise für Roborock und Smart-Home-Geräte - SuaraGarut.ID",
-        "source": "SuaraGarut.ID",
-        "publishedAt": "2026-11-24T10:00:20+00:00",
-        "summary": "Tink senkt Preise für Roborock und Smart-Home-Geräte SuaraGarut.ID",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCdjNXbW4zbHl5eFRiZE9YMl9qN3hoQTgza0JhYnFWMEtsajNudHZkMGpJU2xWSWJsSmZSVGx4MnFvd0RSRHhSbjc4VTIxZDJ0WjNSYmhUa180NkZWVHBVNEl3bWcwaDc0YmZ1Q1BvQQ?oc=5",
+        "title": "Zwei Schwächen kosten Bosch-Thermostat den Testsieg - IMTEST",
+        "source": "IMTEST",
+        "publishedAt": "2026-11-24T13:00:42+00:00",
+        "summary": "Zwei Schwächen kosten Bosch-Thermostat den Testsieg IMTEST",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXRVTW1HZWZZdkp5NEVnOURTSjQ5UVRrQ1Foem5ySFZuVWF3VjA4RDhCbm0teE5iN2M3Qk0ySF95Yi1mNS0wSjM1OGM0ZkszeUlvMlZBYjZySm4zOUt4bTltVHdhN2ZMQ0NfZFFPZnloc0JFUUpzLTU4YTFBWGNlSVNHdE8?oc=5",
         "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Bosch Smart Home: Update 10.37 bringt neue Funktionen, Fehlerbehebungen und kündigt Support-Ende an - Caschys Blog",
-        "source": "Caschys Blog",
-        "publishedAt": "2026-11-23T21:30:25+00:00",
-        "summary": "Bosch Smart Home: Update 10.37 bringt neue Funktionen, Fehlerbehebungen und kündigt Support-Ende an Caschys Blog",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSDhOY3VUNHNGTmplVy11dk5iNEtSSVR6OFRvOUoxa0xjN2x0MUlSa2x5ckhxNFUtREFOZnR4YnpGVEdwb2ktNHZLQjh1dnlMRVZmRS1fNGJDRTlBV0NIQjgyWUdYSmgyWGNmWHZxbjFaVVkycm9RZndDS2w3OTVJMXdibktHYWk2VVE3NGRjWTRuUDJicHdaWFlqTWluT0xWdG11TlR1b05VX2lwbWdDUlU5ME10aFFoRmg1am13eE9TUUFWdW1v?oc=5",
-        "tags": [
-          "Bosch",
-          "Smart Home"
+          "Ei",
+          "Bosch"
         ]
       }
     ],
@@ -318,6 +315,16 @@
         ]
       },
       {
+        "title": "vVardis plant US-IPO mit 228,6 Mio. Dollar – Apollo bringt Kapital - it boltwise",
+        "source": "it boltwise",
+        "publishedAt": "2026-11-07T01:57:57+00:00",
+        "summary": "vVardis plant US-IPO mit 228,6 Mio. Dollar – Apollo bringt Kapital it boltwise",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmRTVkRJTk5pejNPaDZUTy1fc0NRVVREUU90T0xFNGdaRFgwMUlidlF0ZGJZa0ZnQW56dmU2TlBiZTZJTGtWTW83c0duXzdtNzNXUkhIOVFTeW9LcGZZLXVPWFREZElzT1ZzNDk2SVQtUkd6VkQ2Sjhia2oxT3NwVzkxLU1uYUN0d3pXSXJzU01QWGdDQVlCRm5B?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
         "title": "Apollo World vs. Hi3D v1.0: Simulator vs. Mesh Refiner - OrcaRouter",
         "source": "OrcaRouter",
         "publishedAt": "2026-11-04T08:00:00+00:00",
@@ -366,27 +373,17 @@
         "tags": [
           "tippinpoint.ch"
         ]
-      },
-      {
-        "title": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro - FONDS professionell",
-        "source": "FONDS professionell",
-        "publishedAt": "2026-07-28T07:00:00+00:00",
-        "summary": "Revolut bietet Zugang zu Privatmarkt-Produkten ab einem Euro FONDS professionell",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRkJQNW40bTRHM0FtTVpPalhzQXZIZ0lFOW1rVzJsQWZtV1piVUJpZGhCS19pcHNMTG5JUnYwaWd2eWU2SzZkQ2xWYjZsWjMzMzJyZkZLU09SNVYwRVdnb0ZreUlKS3B0SEVTMDFOcUE4TTR5Ymc?oc=5",
-        "tags": [
-          "FONDS professionell"
-        ]
       }
     ],
     "trends": [
       {
-        "title": "US-Tech-Gigant Anthropic krallt sich Zürcher Prestigebau - Blick",
-        "source": "Blick",
-        "publishedAt": "2026-11-25T09:47:00+00:00",
-        "summary": "US-Tech-Gigant Anthropic krallt sich Zürcher Prestigebau Blick",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmNTSHlONXpJcWR1UTZONGpmUGNfcDlKZ3VVckZRbE5VbGVmMjZLdTF0OUpWb0x3N3N3Z3A5THNaT1p4TkFyXzhYUEJLT3JkRzVMQW9FeVRUYlAwdmtrWWFnYkFIQ2VodlRJQ3lZdm0wbjRyalhHMUVQNzJnYTI4RFBpbjlya1VvSjkwdHo0RkloclpCUFk2U0tKT0JBNHFmdlp2bEhhbw?oc=5",
+        "title": "Wirtschaftsministerium zeichnet 57 Gebäudeprojekte aus - ImmoFokus",
+        "source": "ImmoFokus",
+        "publishedAt": "2026-11-26T10:11:00+00:00",
+        "summary": "Wirtschaftsministerium zeichnet 57 Gebäudeprojekte aus ImmoFokus",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOandiOU40ZGhqR1dvOExXamxfdzZzaXkxc0t4TW9yLTBpZUpzRVRaT1R1RzRQa1VGWU5QYi1QRS0wdFdnRnJZRkNOUFkteklXNFUzQ0Y0RkdJYS1veWZEbDQwbmVmNXZzazUtLVhFcW5HWVJtVlg4MzVFZXJONVZoc1RYVXJmejZ3NlA5bkFR?oc=5",
         "tags": [
-          "Blick"
+          "ImmoFokus"
         ]
       },
       {
@@ -414,7 +411,7 @@
         "source": "Legal Tribune Online",
         "publishedAt": "2026-11-23T17:55:27+00:00",
         "summary": "EGMR sperrt Anwältin wegen ungeprüfter KI-Zitate Legal Tribune Online",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM19HMG8wanlDQ01JMHFTNFp2OXFUYTBEeWVGS2VGVXVCSFAzbWFOOENBU0xPUm1RMS1vUm1XYkJ3Q2IyVy1LMm5VTkFqM1IxLWJMXzY5UnZGUE1oamNobmx3M0ZLb2czbDdiNmI3cE8xd2o5S2ZsdEE3MjZSOGxlTEs1WVRiQ2I3SWFhOWpzLTJVNGNkQ0ZJMjlRMA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZy1LVGNOTFBjRTgtVWQwVG1Yc0xJck50QTFLSkEwRFRsZWVkeG9vR1RHZE5uMkFMRWVDdk9DaFZDblVLendRYk9mcDh4QzFDcTJRbk44d1ZwVnZLazRXbW1PZlFUR1hRNnZmcVJoLTB6Y01RRFRMaGo5VlZTSnlFMmwxQ1YzcS1FcGlSNWx0OUJUXzRSNDJ3?oc=5",
         "tags": [
           "KI"
         ]
@@ -471,16 +468,6 @@
         ]
       },
       {
-        "title": "Erste Nachhaltigkeitsstrategie: Paderborner Uni kann Abwärme von Supercomputer in Gebäude leiten - Neue Westfälische",
-        "source": "Neue Westfälische",
-        "publishedAt": "2026-10-26T07:00:00+00:00",
-        "summary": "Erste Nachhaltigkeitsstrategie: Paderborner Uni kann Abwärme von Supercomputer in Gebäude leiten Neue Westfälische",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa2NoeDVwQmUwRGNfeUJqeDdQWHJ6ZUIyV01DbmxiLW5BbC1QSS1val9iS0h4SXJhdHdYb2x1Y2NZMkhwdFJHbWt3Y3ZwVm82aGRhWmlrSkstMjhlVW9KTXQ0ak9iYTcyaWFDUVM0emNqZFFWV2YwVnhMUFlUZEJYX1NqbHpUUEs4N0hhNEJkdjJHSE1fUG4zTTF3WHQ3aUJoai1DVGQ5M2E0Qm1fS1VkYnplTWhtcXhnWGxKZ2xjZjNLRFBQUWI3ZHA5VllPYkFfNHpXamVwYlpCd2RadE9mSExUalZtRkw2S0dfNHQ2UDNSQmc?oc=5",
-        "tags": [
-          "Nachhaltigkeit"
-        ]
-      },
-      {
         "title": "Elektroberufe eröffnen Jugendlichen viele Wege in die Zukunft - Nau",
         "source": "Nau",
         "publishedAt": "2026-10-13T07:00:00+00:00",
@@ -499,6 +486,16 @@
         "tags": [
           "Retrofit",
           "AI"
+        ]
+      },
+      {
+        "title": "Werkzeugmaschinen-Retrofit für höhere Fräsleistung - produktion.de",
+        "source": "produktion.de",
+        "publishedAt": "2026-10-06T07:00:00+00:00",
+        "summary": "Werkzeugmaschinen-Retrofit für höhere Fräsleistung produktion.de",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVN1alRxeFZYUllqdEIzRlc2Z3BDcmRJOVhMOWJJblM1UkEzZDZnUkIyZXRLM0JNWkh5UVRHSEYzNGFGNG5Bd0NtOVhHZUhnRzQyb3BGVVQ5eEwtek03QzNNaUczOHowWU9pRlFYUWF4T0pQbGVwd0xsZE9fRmtUUDhYTnJLN2M0MmFTdTkyeFpnOVFuRWE4Z2VELW9oZzFOYkhyTQ?oc=5",
+        "tags": [
+          "Retrofit"
         ]
       }
     ]
