@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-11-28T01:44:50.122863+00:00",
+  "generatedAt": "2026-11-28T09:41:22.555957+00:00",
   "sourceMode": "github-actions-rss",
   "itemsByTopic": {
     "atb": [
-      {
-        "title": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City - Wirtschaftszeit",
-        "source": "Wirtschaftszeit",
-        "publishedAt": "2026-11-20T09:53:00+00:00",
-        "summary": "Siemens eröffnet Buildings Experience Center in der Wiener Siemens City Wirtschaftszeit",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTk84S1R2RlRKQUduTE8ycDliVVA0U2ZpUDk5MzlOZmlPMDhoOTRYRVFRRnNzOFlVdG5sNDcwTVRxbnpHR0pPUWM2cGM4RHlJSENpdzI2dHpBWFotWWdjcHVqdFdVZXFLN0M4Q3FydkFZbzI2Qmp2QjdyVWpKSzBZbmtNQWZTTmJ3VV9rYWF4X3R3OGRRUDdzR2JueUpDR0F3Ymh0TzNjVDd5b25zMlE?oc=5",
-        "tags": [
-          "Siemens"
-        ]
-      },
       {
         "title": "Deutsche Aircraft setzt auf Lösung von Bosch Building Technologies - protector.de",
         "source": "protector.de",
@@ -45,23 +35,14 @@
         ]
       },
       {
-        "title": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz - Augsburger Allgemeine",
-        "source": "Augsburger Allgemeine",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "Nach Schlägereien: Sicherheitsdienst bleibt an Ulmer Berufsschulen weiter im Einsatz Augsburger Allgemeine",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUXBzbTRMNHk4N1ZFa0d1NHdHclYzd3NxU1ZhZjlZTV9PUndZVHRVRmdSNWNCd1I0Zmw1ZGlQbFR6WDVERUxuSWxzandEOFpVa1ZyWlF0WDBxbWxJTERWVHF5Z2UzVXoybWRsUFpYLXVJSVRvOXhBdl8yRTB6aFExUU94Q2N2b1IySnh0eFFpbmJCaWlyVUYxT055c1J6NktIYnM1WGVFVmlrdGR3bkQyMHJZNjhtemVTOGNmN1J6b3hwXy1sTUZ3WG11NG9CV0RmVFhqdFRYVGp6TGdPNEE?oc=5",
+        "title": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) - n-tv.de",
+        "source": "n-tv.de",
+        "publishedAt": "2026-09-01T17:20:33+00:00",
+        "summary": "Tink: Bosch Smart Home - Starter Set Brandschutz mit 3 Rauchwarnmelder (Gen. 2) n-tv.de",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXM4em1MdlZmNndkLVRqaWdwakhUczhHNWx5WVh1UVoxeG5Oblk4U3Q0Z1FkVU5ycHEzLWtIMnBsMVRCZ2RSUElUenlSSThsd0ktdGhLczdxcV9naEdaTFpVcERKRkFRbkNJLVcxYmh0R1VUT1NiODYxTlkyRTdsYWV4Wk9nSW9OeTRsWDg0aHpFSlZIcEw5MG96TGwwZkRQd2RiM21adG1tOFBlWDJaWjctTWRaTHc3UmRveUU2TDI3dTQ?oc=5",
         "tags": [
-          "Augsburger Allgemeine"
-        ]
-      },
-      {
-        "title": "Sicher wohnen: tink rabattiert Eufy & Bosch - Teltarif",
-        "source": "Teltarif",
-        "publishedAt": "2026-07-29T07:00:00+00:00",
-        "summary": "Sicher wohnen: tink rabattiert Eufy & Bosch Teltarif",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmZNTmI4aXdhVzY3cEVRUEtsYU5xcEpEV0I3TUc3OXlsTDVlcUJOY0tmS2drbGNYWll3dDBJcXVqZ2ZuMmh5dzViX2g5aXg1ZDFiZFJTMU5LbUdlaTBEbnNWdnZqTm92XzVBVzRXakVkSGU0Ml9FWTk3S1d2SW1nd09XWTduZ3dRUmlXbE1pamI?oc=5",
-        "tags": [
-          "Bosch"
+          "Bosch",
+          "Brandschutz"
         ]
       },
       {
@@ -116,47 +97,37 @@
         ]
       },
       {
-        "title": "Produktsicherheit - Bosch warnt vor Koh­len­mon­oxid-Ge­fahr bei Therm 4300 - SBZ online",
-        "source": "SBZ online",
-        "publishedAt": "2026-04-23T07:00:00+00:00",
-        "summary": "Produktsicherheit - Bosch warnt vor Koh­len­mon­oxid-Ge­fahr bei Therm 4300 SBZ online",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSDhPTDJpcXhEZWJOaDJIOGhaT1JrYktVRnc0LWU1SHJQRmNQZ2RaRzBGazZzVmdNYnBWS29FYlZzaFlONzV5c3NEV2dta3JPQUFQTlFpbDdGbEtCNWtaOEVwNVA5WDUycmFvRXJuQkdkRWd6TXlrbFFiczl0djhTalZfQ3hFRkFGZTBpUTJueFFqbHlrcjdKZjAzZnRHekpvcy10Q0dHQW4?oc=5",
+        "title": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern - Neue Zürcher Zeitung",
+        "source": "Neue Zürcher Zeitung",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Wenn der Alarm fast so schnell ist wie das Feuer – eine neue Generation von Brandmeldern Neue Zürcher Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzMzMGlKY084RURqNHByeGRSSlVJZ0lKTFZxcU0xdEU3UlRSblMzdGtPQTlfVGpxTXJyNmhXdG1MN29LY2NfblRHQ2hBNy02bG9CXzVPUGNvUEtFMDNtSjhJT195SzR3R0ZfdVp0cEJ1d19qeHd6OXh3TF9RVDFWbXd5WEpDUWlRVTBBV1ZBRHRGYXBPSjYyVFZ1LU9pcktRQjhDS3FaekhNem5tNDJvNE1jRW5FX3VmdlJmcTdEWHR1TFd2RjhVMnJYSjhvdERvVXZyOEFWWmc1WGtzeDY0YWxwUUU?oc=5",
         "tags": [
-          "Bosch"
+          "Neue Zürcher Zeitung"
+        ]
+      },
+      {
+        "title": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor - SAVE AG",
+        "source": "SAVE AG",
+        "publishedAt": "2026-04-01T07:00:00+00:00",
+        "summary": "Intelligente Gebäude: Siemens stellt neue Generation Brandmelder vor SAVE AG",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUjhMd2lBUTlMWmZwM2dnbmZKTjhZMHhYaGtER2ttVmpUVHRzeUFhMk9xNzZYS29UWGxwczAtLXhTaXhyekJPOVpPNUlWVkVwLWVlUmNBdV9CajBOSGFKODFLUkswUG54N1U2SlU3OHdESDVNMFk5OHVhakN6Q3ZyNGdfUnNZU0kxaHlIbXJOaU9lNE1WSjlyaw?oc=5",
+        "tags": [
+          "Siemens"
+        ]
+      },
+      {
+        "title": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude - Siemens Press",
+        "source": "Siemens Press",
+        "publishedAt": "2026-03-27T07:00:00+00:00",
+        "summary": "Siemens stellt nächste Generation von Brandmeldern vor und ebnet den Weg für autonome Gebäude Siemens Press",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnRKQzUtcFBoWTRHY3RwYzI1cFlCbzV4bHhGNkNRVmpyRWtfeHk4ZHgwZ3ljS0FRWmFsMFByN1h2OUY2T1lQVWxOVGNyZjdEZWtUTjVPYWsxcU04aWJ4dXZuSC1OOHRIaHJMOVdOWlFub2gzekc3U2hpMGQ3UW1PR3JsNTRIeFliM0VOZDgwVUdlRUlJMkx6NjZpY3ZqM1FWTk1LUEZMSDhVWFFwVFFmSWlLcnZqRnNZVlJsT2pRMlpkbUpyQ1M0VzJn?oc=5",
+        "tags": [
+          "Siemens"
         ]
       }
     ],
     "pfs": [
-      {
-        "title": "Amazon: X-Sense FS61 – 6 smarte Rauchmelder inklusive Basisstation - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-11-27T19:38:07+00:00",
-        "summary": "Amazon: X-Sense FS61 – 6 smarte Rauchmelder inklusive Basisstation n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUnVDbThKYVRTMUNHRENaN0RPT1BmdGJwOE1UQ3JhcFBFTGlzWDVsNjZyZ0hmN2o2ckhFWHd0U09FaGRFeWNmN1J1ejNoR3BDQlBPQW94UU5OaGs1NHlMM19mdXVJVUJucTctbndSRC1LcTJNOENXOGNvM1drX1RGSG1UTlNxeTZBSHdsNEFHdXhZendGdHRQdFBQd19ReWwtakt3?oc=5",
-        "tags": [
-          "X-Sense"
-        ]
-      },
-      {
-        "title": "Sicher durch die Adventszeit: Sechs smarte Rauchmelder für knapp 100 Euro - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-11-27T16:35:00+00:00",
-        "summary": "Sicher durch die Adventszeit: Sechs smarte Rauchmelder für knapp 100 Euro n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFJ3ZVI4bUpKTGVKVllHd3d2WUh3M2o4aHhkVWEydldGU3VQaXNxVzZZcjBHbXBnOTNmWEFiTGpoMHVrVjhpQlpidF9VN1hkaU5WelA4VkYyU1RISHFpQnhDTkNKN2VsYVFMYldTVVhJckFsY29zeENtM0duS2xYVmZyMnZjVkd5cjM5aUk1SEFrMTkyellmcDB2cHY1T0p6blBWbEpfcFZUR1F0QTN6Q2QybWxVWjcyRlE?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
-      {
-        "title": "Sicher durch die Adventszeit: Smarte Rauchmelder jetzt günstiger - n-tv.de",
-        "source": "n-tv.de",
-        "publishedAt": "2026-11-27T15:45:06+00:00",
-        "summary": "Sicher durch die Adventszeit: Smarte Rauchmelder jetzt günstiger n-tv.de",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNi1CamlsZjVKTGpxWFdxdWlVTGdILUJ2aFBtVmJ5VEM4N2Y2dzVBSW41ZDh5dVItRnpjUzg3Zjh2eWlkeFJLZV9JaEE2Mmt6TmtyT2NBa0Jkbl92OUZDRDAyRElYRlVobkdoYkljOE9PVW15QVpqU1lvOV9IUXFCcnd0UV9nMGVTMzVyeGFZYkF0NnVfRXhLc1JxZjVFdV9YblFuclBWejduOFo2c3BLQ0VSMFhGNmc?oc=5",
-        "tags": [
-          "Ei"
-        ]
-      },
       {
         "title": "Black Friday: Bosch kombiniert Sicherheit mit Beleuchtung - Teltarif",
         "source": "Teltarif",
@@ -189,13 +160,13 @@
         ]
       },
       {
-        "title": "Black Week: Sechs vernetzte und smarte Rauchmelder von X-Sense für 99,69 Euro - FAZ",
-        "source": "FAZ",
-        "publishedAt": "2026-11-27T00:00:00+00:00",
-        "summary": "Black Week: Sechs vernetzte und smarte Rauchmelder von X-Sense für 99,69 Euro FAZ",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcW45S0xVRENuT3FfWFpzcTlwczBPVzNiMUlERENsdVJiMnFaZ2dRWlNtR3BhanFqQ25vMTVZZTVhNGFETGFpZ0JjNEdnWDM0bHZ2QmF4STRJNTJkcktCTl9yRTBfLWUtdlBteVpQeDYybHpHbV92U2p4OUVXZ3lWQXdvWVhZc1diVmI4REUydU4yVXJLSzZSYVhHSk9DaUp5N1NmMQ?oc=5",
+        "title": "Bosch OneFlow Serie 6 | Das bietet die stärkere Variante - SmarthomeAssistent",
+        "source": "SmarthomeAssistent",
+        "publishedAt": "2026-11-25T10:44:01+00:00",
+        "summary": "Bosch OneFlow Serie 6 | Das bietet die stärkere Variante SmarthomeAssistent",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iRXo3RzJ3SVhCM01fM1huTVhVZWR3OUZ6NzBlazVVNTRIWHVQTXBnU190R1ZoUUk4Nm8tR2t5Mlg2SjVFNW1ISjBzWEkzcFl5SGtFZGtLdDMyTzNaa1pDeEpnN2Jmb09mRmJhWTRQcm1kVUhzZlBv?oc=5",
         "tags": [
-          "X-Sense"
+          "Bosch"
         ]
       },
       {
@@ -251,85 +222,46 @@
           "Ei",
           "Bosch"
         ]
+      },
+      {
+        "title": "Bosch Smart Home: Update 10.37 bringt neue Funktionen, Fehlerbehebungen und kündigt Support-Ende an - Caschys Blog",
+        "source": "Caschys Blog",
+        "publishedAt": "2026-11-23T21:30:25+00:00",
+        "summary": "Bosch Smart Home: Update 10.37 bringt neue Funktionen, Fehlerbehebungen und kündigt Support-Ende an Caschys Blog",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSDhOY3VUNHNGTmplVy11dk5iNEtSSVR6OFRvOUoxa0xjN2x0MUlSa2x5ckhxNFUtREFOZnR4YnpGVEdwb2ktNHZLQjh1dnlMRVZmRS1fNGJDRTlBV0NIQjgyWUdYSmgyWGNmWHZxbjFaVVkycm9RZndDS2w3OTVJMXdibktHYWk2VVE3NGRjWTRuUDJicHdaWFlqTWluT0xWdG11TlR1b05VX2lwbWdDUlU5ME10aFFoRmg1am13eE9TUUFWdW1v?oc=5",
+        "tags": [
+          "Bosch",
+          "Smart Home"
+        ]
+      },
+      {
+        "title": "Black Friday 2026: Smart-Home-Deals mit Hue, Echo & Co. - HouseControllers",
+        "source": "HouseControllers",
+        "publishedAt": "2026-11-23T18:29:31+00:00",
+        "summary": "Black Friday 2026: Smart-Home-Deals mit Hue, Echo & Co. HouseControllers",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMzZwT2J3TEdlanpSQ0VrT3dtaFczTEJmTVFLQXdEbmpaZHZoVDFsWjRlVUl6SEo2RWFHdUtlWk9CdUdZZU03SlpHUHlEU1o0MUJObzdJRzZKcW91SG03M0RBWjlZckU2QzhxYjFxZw?oc=5",
+        "tags": [
+          "HouseControllers"
+        ]
+      },
+      {
+        "title": "Richtig smarte WLAN-Steckdose - unser Testsieger ist endlich günstiger - Netzwelt",
+        "source": "Netzwelt",
+        "publishedAt": "2026-11-23T15:45:54+00:00",
+        "summary": "Richtig smarte WLAN-Steckdose - unser Testsieger ist endlich günstiger Netzwelt",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd1phUzFjWXgyZUVWR1AxcW5ZeVBxakRkUW9DS3c0ODlnbm5kM1Q5cHhyNV95WnpTbTJSOWRsbFhWSl91UjFmOGJWUlRtQzNnNDlmSVBQaHFsbnJYRGpVWGhNVVFHRXMxdF9JcXlQUFZzeFoxOXpHQjJ5UENzS3NtRm9hcldXbThWTUxJRE5TUXJERUlQeUVXWE5xd2NkMmRMVWJ6ZTA0dzhGaTZK?oc=5",
+        "tags": [
+          "Netzwelt"
+        ]
       }
     ],
     "doors": [
-      {
-        "title": "Tender MOSEL: Vom Versorger zum Multitool der Deutschen Marine - marineforum",
-        "source": "marineforum",
-        "publishedAt": "2026-11-19T07:59:49+00:00",
-        "summary": "Tender MOSEL: Vom Versorger zum Multitool der Deutschen Marine marineforum",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTUtRSlNLWXlnWU83aXZsZVUzUVRWUXJ2Q1JyTnhBSXZTMDUxTGVvbFFGWUhqc25GVUdKSE9rdVA4T21yUllvWF9oaVo1bFBfZXlrZ0F3OXBVWGVIUThnNW5NV1YwOUhjMWhoTU55OEZhYmZPeGc?oc=5",
-        "tags": [
-          "marineforum"
-        ]
-      },
-      {
-        "title": "OpenAI: externe Sicherheitsprüfung im Überblick - NeoTeo",
-        "source": "NeoTeo",
-        "publishedAt": "2026-11-19T07:02:26+00:00",
-        "summary": "OpenAI: externe Sicherheitsprüfung im Überblick NeoTeo",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMW1CMWVYN3RIQ1AwdnhUbDFTaExoR00yUmhjeFBtUWFMSmFlYXp4Qm1JYVpqOF91cXFOeElQOERkcU5XQU05SkNJeEc4Umh0TU5MYmtLU21YSHUwYUdSaVVGckktMnpnenFwU0xHcHFnRHh4SmprR3ZBU0xfVy02MXY5TjV0dmhMWjktSnpmcGQ?oc=5",
-        "tags": [
-          "NeoTeo"
-        ]
-      },
-      {
-        "title": "Meta-Muse-Modelle: Bericht zu APIs auf Google Cloud - NeoTeo",
-        "source": "NeoTeo",
-        "publishedAt": "2026-11-17T07:56:27+00:00",
-        "summary": "Meta-Muse-Modelle: Bericht zu APIs auf Google Cloud NeoTeo",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnpvbkt1dUJCalI5QzRJZy1MNWhjMkptRmtaZ25yLVo0OUV0UmwtNGFEbktmTzREV3BjZkh0VEhFc2ZxRjctelItR0Z6a2VMek9QdFhKRXBLX000dUFmbmZ0VDZkMnNTTjZGbXc5MzEwenl6OGNfU3FYR1BoOHlvLWVVczhVR1FyeHBfYkRkczR0Nk1rNlZjSUE0LUw?oc=5",
-        "tags": [
-          "NeoTeo"
-        ]
-      },
       {
         "title": "Apollo und Victory Capital kooperieren, um Privatanlegern Zugang zu privaten Märkten zu ermöglichen - MarketScreener Schweiz",
         "source": "MarketScreener Schweiz",
         "publishedAt": "2026-11-16T13:30:50+00:00",
         "summary": "Apollo und Victory Capital kooperieren, um Privatanlegern Zugang zu privaten Märkten zu ermöglichen MarketScreener Schweiz",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSloyVEhGR0tzQ2ZvcXJqbDZFV1d0cHN3RW5kY2xHLWZUMXYzTHhZeGhYVnRydUZSczRxMnNDb2JKbXJLUm9tWEE5ZUhVRXF3dFR2b1FVa0VJMFBaS0dtZTkzMzFYSmx5aTRZVFVZdG5LM01BZGFra0VGZURxay1fTllkcjBSMDNiZDlpX3paOHJCWWotRjFhUE5oNU42QlBnZ3ZnMzNQVU83MTQyMzVuRG90QU9WbGV2UmFrT01PQVBiMHRQTDF6ZUNCR2d0VjhwclRxcW9PLS1DaG1pUU0zU0U3UTNIOGZIb1QzRGtKSVhZbjN0Q3hiM3RR?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "OpenAI verpflichtet vier unabhängige Prüfstellen für eingebettete Sicherheitsprüfungen - Unite.AI",
-        "source": "Unite.AI",
-        "publishedAt": "2026-11-16T08:00:00+00:00",
-        "summary": "OpenAI verpflichtet vier unabhängige Prüfstellen für eingebettete Sicherheitsprüfungen Unite.AI",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVFtRXRvNG1SdDhNSVE0Uno3SlVFVlRtenUtR2ozLTI5STVGMnJ3eWppa2xjVlQ2bmRXZXZ0S2VabzZBWFQ1QS1YVDNGXzBiQnNvUENiUGFKTEVjRHRvQVhrS1ZIamRPVmdVbkpYQTJDODNnazZ6bWdLTHVJZ0RKX1AzanRjV1VGbFdLazFtQVZYbVRqdzlZ?oc=5",
-        "tags": [
-          "Unite.AI"
-        ]
-      },
-      {
-        "title": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World - e-fundresearch.com",
-        "source": "e-fundresearch.com",
-        "publishedAt": "2026-11-10T08:00:00+00:00",
-        "summary": "Schwellenländer-Anleihen: Vom notleidenden Bankkredit zur eigenen Anlageklasse – 30 Jahre Apollo New World e-fundresearch.com",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZEZDaG5IT3czNmZxMWF3czAtUmxLcjBVOHVBT0VMckw3TXEtbDJaLWhpZjhSb3E1ZFRqcjNpdHhhRG1aUVBQYy1NR0NIUG5qT2s1RnNMeGxsWHBBYWNySXpoRnNZZ3hXODNNZVA3TUNhbFByMzVwM21BOThzWDBZTlN6Yjl4RC02eHpPQldvM1BDTmsxZHY4VEVsZDVPNGRCNlFCZ2M1enVrbW1fU3FKc0tRX3R1MWU5TEVYTkdYdEFOWWc4MGdVUlhVQkUtTWF6WjVGUEtUTzJzdEg3OU44QXZ1ZlB2MkhI?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "vVardis plant US-IPO mit 228,6 Mio. Dollar – Apollo bringt Kapital - it boltwise",
-        "source": "it boltwise",
-        "publishedAt": "2026-11-07T01:57:57+00:00",
-        "summary": "vVardis plant US-IPO mit 228,6 Mio. Dollar – Apollo bringt Kapital it boltwise",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmRTVkRJTk5pejNPaDZUTy1fc0NRVVREUU90T0xFNGdaRFgwMUlidlF0ZGJZa0ZnQW56dmU2TlBiZTZJTGtWTW83c0duXzdtNzNXUkhIOVFTeW9LcGZZLXVPWFREZElzT1ZzNDk2SVQtUkd6VkQ2Sjhia2oxT3NwVzkxLU1uYUN0d3pXSXJzU01QWGdDQVlCRm5B?oc=5",
-        "tags": [
-          "Apollo"
-        ]
-      },
-      {
-        "title": "Apollo World vs. Hi3D v1.0: Simulator vs. Mesh Refiner - OrcaRouter",
-        "source": "OrcaRouter",
-        "publishedAt": "2026-11-04T08:00:00+00:00",
-        "summary": "Apollo World vs. Hi3D v1.0: Simulator vs. Mesh Refiner OrcaRouter",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MQUx6VngzQlBSc0lIUTdWUUlrSmx5VHl3MmpCQ0tDT0Rjc1hVY1o4WlZFV0phSlAtMnl3QWI3Y29TcXlqdkZ0cGRjRFRNcDdDTmhzd0h2UDhZUXBGQ1N6OHR6UnpBWVhrQkxV?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -345,11 +277,11 @@
         ]
       },
       {
-        "title": "A&O Shearman berät AUTODOC beim Erwerb der Minderheitsbeteiligung von Apollo - RWS Verlag",
-        "source": "RWS Verlag",
-        "publishedAt": "2026-08-21T07:00:00+00:00",
-        "summary": "A&O Shearman berät AUTODOC beim Erwerb der Minderheitsbeteiligung von Apollo RWS Verlag",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdW5NdkRTc25ObUJEcWhEMHNEZWRCX19JSmFPY08wdXVhSkZITTlwaEZiSExrQmJQLVpFU2JpVzJSSnZrSHpCaFVrQmFSSlZrM3VZX1FaQ0doa3MtbVJRdmJzYy1wSXd3aTJiY1lMUmFtRTJfYV9aS2QxeTVsa25uZ1hkaTVDNm9PWW4xT3QxQTBhaTZEWGg4NGJfUlhQNFB5dlZUYjh5dmlPb0dpMzB4d3I4TGZRaEhCekdQdVllMUdwdUVMZjN3OUM3dUxoVVFSSWc?oc=5",
+        "title": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo - Automobilwoche",
+        "source": "Automobilwoche",
+        "publishedAt": "2026-08-20T07:00:00+00:00",
+        "summary": "Autodoc-Gründertrio übernimmt Anteile von Investor Apollo Automobilwoche",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGhGVlFCUDJOdW5NdlNvbnp0aE1Ub1N4bTM3eTVCX1BQXzJlUnYxeEwxcURfcmtQMFlDVzFZQ2JIQnp2Q29QNDk5aUk2VHJBMFQxdlM1djBjV0I0X05feWxQSlRVbXR1UklZa0NOT0RCS21rWFJQR0hZekxKR1R2dE43SVUzdkJqU0pJMXNQMVo1UE1rUUE?oc=5",
         "tags": [
           "Apollo"
         ]
@@ -372,6 +304,76 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9jcWtxTEppbE0tZmZLQkY1a1dIX1pMelhtcEprN1lKOGVBeWUyOGFlbGRLM0h0cGVzZlZFRGNUNDVsdmlxSkY3cXBtNGxHRlFuZWhpS0R6dEJmN3pHWW5hdzhLVmtYLUpiM2ZoUGd4U280S09aTzVMdTBzNmR5QkhoN3ZGdXEwTHUwZHlndGs?oc=5",
         "tags": [
           "tippinpoint.ch"
+        ]
+      },
+      {
+        "title": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-07-10T07:00:00+00:00",
+        "summary": "EasyJet einigt sich auf Übernahme: Warum Apollo den Zuschlag bekam Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDQ1TFUyS0ZVT196WU1JNmYzUDdMamQtRGVRVGdOSWFfTlVId0NkOEN4SW83WnBoWVZYUUlHdnUtcXBsMU5OWE01R0FuMVNmcUpxQUhWYWRqcDEtNDJCeDBrOW9reDZ1UGk5TjFGOHJqdFlicWZ3TnFIR3VWVjBhTlBHMGdvTjdrZWVhZkdzcGxGN29rSDlvWGJKSk1VNnlwelVhU3VuemFhSEJRbUE?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang - Apollo News",
+        "source": "Apollo News",
+        "publishedAt": "2026-06-29T07:00:00+00:00",
+        "summary": "Lobbygeschäfte am Tegernsee: Wolfram Weimers Firma vermarktete Zugang zu Söders Staatsempfang Apollo News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOazcwZ2tpcFRySm9ibEEtcldvMGppMFZ6MnpWSkgxZUMxSDNHdmhmR3o5X0s0U1BoN2l0c0xoU2h2ck0xNEVENTJNTTRIRE5lb05XM05mLUZDUjRDUm5MVUJaSkltVVB5eTh1ek1oXzBqOHpvcFhtS2hiMVFCd1dReGs4TlN0ZjlWTmNNZWdtYU1tTkJhOVBIRjViSGVweXhZeUJQaHpOZWx5X2hWVTRtekR3blp2ZFI4YjVZ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? - Business Insider Deutschland",
+        "source": "Business Insider Deutschland",
+        "publishedAt": "2026-03-06T08:00:00+00:00",
+        "summary": "Trade Republic Private Markets: Für wen lohnt sich der Einstieg in Private Equity? Business Insider Deutschland",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObVZSUjdhY1JHMEwtLTZNcDU5dWF5N09oSDI0MXlrWUhkM2hwTU5GY3V5dlI5QTI2Yk1OdzZWdUVfY3NJNzBwcmpfZzd0TGVVd1c2WjMySzhMMXBDZ1JxM2xIc0dCR0FudFpBbHNHbnYtLXJIR2xRV3Y2aTM4UTBoZ3B6TGNjalM5MDNRLU5zRG41Zw?oc=5",
+        "tags": [
+          "Business Insider Deutschland"
+        ]
+      },
+      {
+        "title": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen - Finanz und Wirtschaft",
+        "source": "Finanz und Wirtschaft",
+        "publishedAt": "2026-03-05T08:00:00+00:00",
+        "summary": "Apollo, Blackstone, Blue Owl und Co.: Private Credit ist in der Krise, soll aber jetzt in US-Pensionsfonds fliessen Finanz und Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWl84RHloMmlNS2lmblByUGRnaGdXcl95d0hCalpQYUdmQVJja0tCSHA5NWlYa3ZSTktiVUszMzB1bFVPZUpkcTY4LXRsMDc4M1ZiNVdJZWFTMDBLWXdKU3VuYmViZm05YnRZcThhNWV1Z3lvalBBc2RiWjVXdlI0Y2FaRQ?oc=5",
+        "tags": [
+          "Apollo"
+        ]
+      },
+      {
+        "title": "Geze - präsentiert Türschließer TS 7000 - Gebäude-Energieberater",
+        "source": "Gebäude-Energieberater",
+        "publishedAt": "2026-03-03T08:00:00+00:00",
+        "summary": "Geze - präsentiert Türschließer TS 7000 Gebäude-Energieberater",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2Yi05S21SWnlKWmV3WlJ5Y1k2c0EyNk50YmtaY1l6RzBCdHdXajUyVXBXZkloRG00eUJ1ODMwdVB4ZjdUZTJMTHpFNnk3WUgwbTlUWnZuUnRWaC14TEJ2TFBEcm9hY0g0NEJJaFB3SUItd3lYT3lWQ2N6UQ?oc=5",
+        "tags": [
+          "GEZE"
+        ]
+      },
+      {
+        "title": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe - ZDFheute",
+        "source": "ZDFheute",
+        "publishedAt": "2025-11-18T08:00:00+00:00",
+        "summary": "Verkauf von Minister-Treffen? Weimer wehrt sich gegen Vorwürfe ZDFheute",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTndSSVM1LV91MHNQY1BLREZVNkM5NERHNFZSMHVGTVFMTGZJcnlMeVA3aHdsV1c2S0dTLTlsdmZKNkhzXzBKdmdzQldfMmQ2R25zVm4xckNvVjBuX3dRUmZLdm1QdjFxQkZXb2E2VF9XZFhBMlR1THBBdGpmQ2V5ZzVtVWhSamllOGh3X1phOVc1VHNzZ2NreXJJUzlqTG1DRzd0OTlBOA?oc=5",
+        "tags": [
+          "ZDFheute"
+        ]
+      },
+      {
+        "title": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro - Berliner Zeitung",
+        "source": "Berliner Zeitung",
+        "publishedAt": "2025-11-17T08:00:00+00:00",
+        "summary": "Wolfram Weimers Medienunternehmen verkauft Abendessen mit Ministern für 80.000 Euro Berliner Zeitung",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZjRCUC1OaVpPS0lwMXphcTlhQ3B3VEF3ZzJNMEhsREhWTy1qX25ta3h4d2FrZmtxY0gwaDN1d1FLSm1hVlhWZGp0Q0Ezc0M4bWFOWmxhTmdmN29wTVpHZy1kLWt0b1c3YktFQjRkVVYybkdoeTVheGtXd1dQbEdKelR4RmFvenh3SFRjMzV2ZGFQRUdXNjEzMXpBSkhPQlVoMUtleXduMVJQSFpONkJ3V290QkZqUHlEeVlEamZRcnRhbV9iUFFlcGs5Z0NCYnZVNmdOXzR5S2ZpQXh5TW1tek1uUEp0d2RkbjYyUERjQXpqdGJX?oc=5",
+        "tags": [
+          "Berliner Zeitung"
         ]
       }
     ],
